@@ -1,0 +1,813 @@
+Company N ame: American I nternational Group I nc
+Company Ticker: AI G US Equity
+Date: 2020-08-12
+
+UBS Virtual Financial Services Conference
+Company Participants
+FINAL
+
+Mark Lyons , Executive Vice President and Chief Financial Officer
+Sabra Purtill, Deputy Chief Financial Officer
+
+Other Participants
+Brian Meredith, Analyst
+
+Presentation
+Brian Meredith
+
+{BIO 3108204 <GO>}
+
+Bloomberg Transcript
+
+Good morning, everybody. This is Brian Meredith, I'm the insurance analyst here at UBS.
+Apologies for all the technical difficulties we've been having here. But we are here for the
+AIG fireside chat. With us with us today, we've got Mark Lyons, who is the Chief Financial
+Officer of AIG; Sabra Purtill, the Deputy CFO; and Shelly Singh, who is in charge of Investor
+Relations for AIG.
+Mark has got a couple of quick comments he's going to give, and then I'm going to get
+right into the fireside chat and the questions. Mark, I'll hand it over to you.
+
+Mark Lyons
+
+{BIO 21746221 <GO>}
+
+Great, Brian. And thank you. And so rather than take up a lot of time on pre-comments,
+especially that it's been cut short a little bit, I'd rather just get into a lot of the questions. I
+think first of all, thanks again Brian for inviting us for two days. And so we're very, very
+happy to be here.
+We think AIG is very well positioned right now, both from a capital liquidity, subsidiary
+capital and liquidity perspective as well as taking full advantage of the marketplace on the
+General Insurance side. But you know, and there's other aspects in the quarter you guys
+will probably ask about. So, Brian, why don't I just hand it back to you?
+
+Brian Meredith
+
+{BIO 3108204 <GO>}
+
+Yes, let's just go ahead. So the first kind of broad question, Mark. So as I look 12 months
+from now, if you look back on the impact of COVID-19 on the P&C insurance industry and
+life industries, what do you think the long-term implications are? And how is AIG position
+to respond?
+
+Mark Lyons
+
+{BIO 21746221 <GO>}
+Page 1 of 13
+
+
+
+Company N ame: American I nternational Group I nc
+Company Ticker: AI G US Equity
+Date: 2020-08-12
+
+FINAL
+
+Well, it's a -- you started off with a crystal ball question. So let's see how good my crystal
+ball is. So -- well COVID, I think it's clear, has been an accelerant in the -- certainly in the PC
+marketplace. The market was already, I think, hardening pretty materially. So I deem this
+an accelerant rather than a cause. AIG, so it's done -- it's lifted all boats, if you will. I think,
+AIG has been taking maximum advantage of the marketplace and using our breadth and
+influence and pricing power and so forth to really push things, but really across the board.
+But I think the reason we are positioned is because of all those couple of years of hard,
+hard underwriting changes and redefining appetites, and having a protective reinsurance
+structure and so forth and so on, that you've heard us talk about before. I think longer
+term, there's going to be fewer businesses to ensure maybe that's medium term, Brain
+more than anything else on that.
+On the L&R side, whether that affects long-term mortality or not, my -- I mean the
+actuarial review, assumption review for us will happen throughout the third quarter. But
+based on what I've seen to-date, I would really believe it's going to affect things longterm. It could be like a blip, but that blip would only come to pass to be elevated, if
+there's feeling of secondary, longer-term issues associated with COVID. So deep-tissue
+organ damage, things of that nature that prolong on. But we have to wait and see on that,
+and I think there'll be some as a result of fewer businesses and other aspects is probably
+more credit hits coming in across various industries, affecting everyone differently. But I
+think the net-net is for the medium-term, smaller insurable exposures.
+
+Bloomberg Transcript
+
+Brian Meredith
+
+{BIO 3108204 <GO>}
+
+Great, thanks. So first question is for you, Mark. So COVID-19 charge you took in the
+quarter was based on claims activity to the first and second quarters. I guess the question
+is, does this mean that you're likely to have more COVID-19 development here in the next
+12-months? And if so where do you think it likely to come from?
+
+Mark Lyons
+
+{BIO 21746221 <GO>}
+
+Well I think Sabra and I will ham and egg this a little bit. Let me just start off more
+conceptually and then I think Sabra can pick it up on some of your more detailed question
+aspects. But -- so I think from an industry perspective and then I'll give AIG's view on this is
+-- I think we've been -- we've attempted to be clear on how we've done it, why we've
+done it. And why we've taken some of the coverage positions that we have. But more
+broadly, I think there's confusion in the marketplace. Whether it's because of commentary
+or misinterpretation of commentary or what have you. But the way I look at things and the
+gray hair that I've amassed over these 40-years, is we have to watch reaching forward
+and try to reserve today for actions that have not yet occurred. Now I'm talking specifically
+from a PC perspective.
+So why do I bother talk about that. Firstly, it's the responsibility of any property casualty
+company to reserve as of the balance sheet date for all accidents that have occurred on
+or prior to that date on an ultimate basis, management's best estimate on an ultimate
+basis. So at the end of the first quarter, it was for accidents that occurred 3/31 or prior. At
+
+Page 2 of 13
+
+
+
+Company N ame: American I nternational Group I nc
+Company Ticker: AI G US Equity
+Date: 2020-08-12
+
+FINAL
+
+the end of the second quarter at 6/30 or prior, whenever you look to first quarter, so forth
+and so on. So if an accident hasn't occurred yet, you shouldn't reflect it.
+And the secondary question would be, why not? And the answer to that is, that's the
+function of your unearned premium reserve. When you write a $100 policy on day one, all
+$100 are unearned and there is a loss provision in there. Let's say, $70 loss ratio. So $70 is
+associated with accidents that will occur as that exposure earns over time. So to have a
+loss reserve up for a future occurrence and to have a -- on a premium reserve up for a
+future occurrence is overlapped, and I don't think any accounting firm would actually ever
+allow that. So therefore, there's got to be -- it's going to be a misinterpretation. AIG has
+done what I said, which is we look at all the coverage triggers across all the policy forms
+that are out there and reflect what's occurred at that point in time.
+The reason I say coverage trigger is because, event cancellation is a good example of
+one where you're noticed earlier, say, then the 6/30 date for a sporting event that's
+effective in October, let's say, and the decision is made prior to 6/30, as well to cancel by
+the bank that's the trigger to reflected into your statements as of 6/30 not waiting until
+the October sporting event. So in that way it reflects and it's consistent with what I just
+said. But I wanted to clear that up from a -- I think an industry confusion point of view. And
+with that, I'd say, Sabra to throw in her $0.02 on this.
+
+Bloomberg Transcript
+
+Sabra Purtill
+
+{BIO 1764408 <GO>}
+
+Yes, sure. So just as a reminder, we put up about $730 million of COVID-related reserves
+year-to-date. About 70% of those are for business interruption/property, where we have
+affirmative coverage for infectious disease, combined with what we put up for
+contingency and travel. Obviously, as we looked into the second quarter, we did see
+some reserves that we put out for some other lines, including trade credit, marine, some
+on casualty, workers' comp, A&H financial lines and then some in our reinsurance business.
+As we look towards the second half of the year, I would expect that where we would see
+claims are going to be more on those. What I would call lines that are impacted by the
+continuing economic crisis as opposed to exposure to the disease itself so trade credit
+would be an example, for instance.
+But, as Mark said, it will reflect the claims activity and events that occur in the third or the
+fourth quarter. As we believe that we have reserves that are ultimate for what has been
+reported to us to-date for the -- through the second quarter.
+
+Brian Meredith
+
+{BIO 3108204 <GO>}
+
+Great, thank you. So second quarter commercialized pricing AIG, up 16%. I guess the
+question I have here is one, do you think that continues to accelerate here and for how
+long? And then on that topic, I know Peter mentioned something about diversification of
+the commercial lines portfolio, what areas was he referring to?
+
+Mark Lyons
+
+{BIO 21746221 <GO>}
+
+Page 3 of 13
+
+
+
+Bloomberg Transcript
+
+FINAL
+
+Company N ame: American I nternational Group I nc
+Company Ticker: AI G US Equity
+Date: 2020-08-12
+
+Okay, thanks for that. So I guess a couple of things. As Peter highlights on the calls, the
+North American commercial segment, reportable segment because that's where most of
+the changes have occurred, that's where AIG had applied the most surgery. And the
+reason for that is, that's where it's been a recurring problem for AIG over the years. So I
+think you leave with where the most correction was made. So the comment about 16%
+overall, I think you went further to say that it was 21% in commercial North America and
+10% internationally. And when you dissect that a little bit further, I think on a prior call, we
+had talked about the UK already being at 10% and that's continue to accelerate, which
+means therefore non-UK is less than 10%, but it is increasing in an increasing way.
+So we see none of these areas abating, we see no evidence of a debating. And we still
+had seen things increasing in an increasing way, which I think is good news for everyone.
+So the reason I brought up the focus on North American commercial Brian, is because
+what can get lost in the sauce is personal lines business. And when you look at the Japan
+book in total, for example, that's $5 billion or $35 billion, just 15% of the book is basically
+getting one or two points, which weights and mute the overall results down pretty
+materially in that regard.
+And similarly in lines like action and health and some of the others, which are very
+predictable year in and year out, but are really aren't a rate issue. So you get these
+flattening aspects to it. So I wanted to bring that up. In terms of diversification on
+commercial lines, I think it means more a function of where are the opportunities and
+therefore where you're going to put time, attention, the capital into those opportunities
+that are both improving the most rapidly on a relative basis and providing going from red
+to green or yellow to green, so that there, it hits profitability return standards. So you can
+accelerate, writing more business there and perhaps keeping more net there. So I think
+that it really constitutes a mix change that will be different a year from today than it is
+today.
+
+Brian Meredith
+
+{BIO 3108204 <GO>}
+
+Got it, thank you. Next question, so how is commercial lines pricing relative to loss cost
+trends? You think that with this 16% average price increases margin should be expanding
+pretty materially from here. And from the second quarter call, you've kind of sounded like
+you're taking a cautious view on loss trend particularly related to social inflation. Maybe
+you kind of clarify that a little bit for us?
+
+Mark Lyons
+
+{BIO 21746221 <GO>}
+
+Sure, sure. Well, I think some of what we can talk about is really derivative from your prior
+question actually. But I don't think, I really said much different than I said in the past. I think,
+I've talked about a range of one or two points on some lines up to upper, knocking on the
+door of double-digits and some other areas and I think, I pointed out excess casualty and
+commercial auto in those as well.
+So I think it's still within that framework. I think, I've talked about the social inflation in the
+past on prior calls, as well as -- and there were conferences. So I think it's been fairly
+consistent with that. So it's really with regard to the expansion of it, and I think it's clear, I
+Page 4 of 13
+
+
+
+Company N ame: American I nternational Group I nc
+Company Ticker: AI G US Equity
+Date: 2020-08-12
+
+FINAL
+
+mean, let's take North America Commercial. You're getting 21% rate increases, I think it's
+pretty clear, you're going to have margin expansions. I don't think anyone on the call
+would be thinking we're having 21% loss cost trend at this point and therefore everything
+stays flat.
+So I think it's reasonable to expect that there's going to be margin expansion, but it's not
+going to be uniformly felt. Going back to our prior discussion, I think it's safer to say in a
+rank order, there should be a more of that coming through North American Commercial,
+probably followed by International Commercial and then followed by Personal Lines Areas.
+So I think that's one kind of view of few.
+And secondly, as I kind of alluded to it comes down, you can't just look your rate changes,
+you have to look at where you are given those rate changes and making sure that's where
+you want to really invest capital for expansion. And the good part, though is, I think we
+showed the 6% and 7% increase in net written premium, even with new business down,
+this shows the strength of the renewal pricing and the retention we've been able to
+maintain to get that kind of growth. So we've been so defensive, right? Now, we can see
+some offense coming in on that, and there should be some expansion, but there's still
+that uncertainty on some aspects of loss cost trends. So I think we talked about this once
+before that we've been implementing a reserve philosophy that's a lot more let's
+recognize bad news quickly and good news more slowly. And I think you'll see that
+reflected on a go-forward basis as well.
+
+Bloomberg Transcript
+
+Sabra Purtill
+
+{BIO 1764408 <GO>}
+
+Yes and Brian, I would just add to that, that really strongly encourage people, particularly
+because of the impact on personal insurance with the travel business, as well as the
+syndicate changes that they really need to look at AIG's combined ratios on a segment
+basis. So for North American Commercial lines for the quarter, we improved 320 basis
+point, for international it is 500; year-to-date North American Commercials improved by
+200 and internationals 180. So clearly, we are building margin in the book on of
+commercial lines basis.
+
+Brian Meredith
+
+{BIO 3108204 <GO>}
+
+Got you. That makes sense, and given where pricing is relative to trend right now, you
+think that trend should continue to be pretty good?
+
+Sabra Purtill
+
+{BIO 1764408 <GO>}
+
+Yes.
+
+Brian Meredith
+
+{BIO 3108204 <GO>}
+
+Let's see next question here. Generally, I'm just curious here, how much lower does your
+combined ratio target need to be today versus let's call it last year at this time? In order
+to achieve an acceptable return on capital given the interest rate environment with the
+kind of decline we've seen?
+Page 5 of 13
+
+
+
+Company N ame: American I nternational Group I nc
+Company Ticker: AI G US Equity
+Date: 2020-08-12
+
+FINAL
+
+Mark Lyons
+
+{BIO 21746221 <GO>}
+
+Yes, that's a weighted average question. I mean, but I think we can go back to the same
+kind of commentary, we've done in the last couple. As Sabra just said, that's a function of
+each segment, with each got it's own characteristics. European trends -- America has 70%
+of the world's players, right? So -- which -- a catch phrase, I always use which just
+highlights the fact that things are going to be different in different areas of the world. But
+we're going to get that margin expansion, when if you guys look at things on the
+componentry of an ROE and you look at leverage, I think it's pretty clear, when you look at
+AIG, you're closer to one for one premium to equity ratio on the GI side but you're closer
+to 3.3, 3.4, I think on invested assets. So the leverage associated our ROE from a change
+plus or minus in the NII yield, because that's operating view right, that's a total return
+that's unrealized in there is more impactful. So to the extent that you want to stay even, I
+don't care what your target is, you're going to have to make up for it more, because of
+the leverage difference on equity. So it's not proportional.
+So if you're going down 100 basis points in ROE, because of reduced NII, you can't just go
+100 basis points in the combined ratio, you're going to have to go more. And I think I'm
+informing you, when you look at those relativities on leverage between invested assets
+and premium to surplus that guide you, so what it is, you have to do.
+
+Brian Meredith
+
+{BIO 3108204 <GO>}
+
+Bloomberg Transcript
+
+Okay, thanks. That's helpful.
+
+Sabra Purtill
+
+{BIO 1764408 <GO>}
+
+Yes. And I would just add, kind of like back of the envelope, I think the way to think about it
+is, you got to look at the duration of the investment portfolio. Our portfolio in AGI about 3,
+3.5 years on duration. So as you lose about -- if you were to lose like 10 basis points of
+yield on the total portfolio that's maybe 25 to 30 bps on the ROE as opposed to 50 basis
+points on the combined ratio gives you 30 to 40 bps. So there is obviously a balance. But,
+as Mark said, it's the impact on the ROE is -- comes much more from the combined ratio
+improvement, then it would be detracted by the yields.
+
+Brian Meredith
+
+{BIO 3108204 <GO>}
+
+Got you. Makes sense.
+
+Mark Lyons
+
+{BIO 21746221 <GO>}
+
+The other thing -- I just want to add, Brian, on top of that very, very quick, on Sabra's point,
+is that you can't talk about a combined ratio without talking about duration. And whether
+we're of 1.5 year duration in Property Casualty business, let's say assuming captive first,
+excess work comp, which is 16 to 17 years. And your decision to grow there is more a
+function of interest rates been pricing, that's going on is -- has to be reflected. And -- and
+Sabra's point of us being 3.5 years. Let's say an average duration, that's not a huge -- a
+
+Page 6 of 13
+
+
+
+Company N ame: American I nternational Group I nc
+Company Ticker: AI G US Equity
+Date: 2020-08-12
+
+monolithic block. There's radically different targets across the board as a function of that
+duration.
+
+FINAL
+
+Brian Meredith
+
+{BIO 3108204 <GO>}
+
+Yes, great. Okay, lets pivot over to, why Syndicate 2019, been a high topic the last quarter.
+Maybe you can go through kind of the economics of the transaction of your fee income, a
+CD commissions. Is this dilutive to earnings? And then another question, how much capital
+is actually freed up by the transaction, so maybe it's ROE-accretive, but earnings dilutive
+initially?
+
+Mark Lyons
+
+{BIO 21746221 <GO>}
+
+Bloomberg Transcript
+
+Well, I think, Sabra and I will ham and like this one as well, so we provided some guidance
+or info to you, which was -- on the last call, which was for the North American Personal
+Insurance segment, as we reported, which has more than PCG in it, but I know you're
+trying to help you guys in totality, was $425 million of net written and $345 million of net
+earned is kind of the average by quarter, each quarter that we might expect for 3Q and
+4Q. So there's that.
+I think secondly, you've got a couple of other consequences associated with that unlike a
+weighted average impact the loss ratio and expense ratio. And Sabra, I think will go into
+that a little bit more, but it changes that mix a bit, but it has created some havoc on GOE,
+if you will, in that area because you have this both out of premium. So you have a
+depressed premium size, and when you get to some of the businesses like, travel and
+other things for in there, you're still carrying those GOE costs of underwriting and sales
+and call centers and whatever else you've been there.
+Especially if you expect travel business to not be a long-term sustained hurt industry, and
+therefore travel insurance supporting the travel industry, and we don't view that as a longterm. We view that as transient, so why would I get rid of all the underwritting -- the
+systems, everything else that we have associated with it. So that's a distortion that can
+come in for a while and it could be other noise as well in the balance of the year dealing
+with, like CAD costs and how that's shared amongst all the capital providers and
+everything else in there. So, and that noise will oscillate its way out. So as I think -- as I said
+on the call going into 2021, we're going to have a much different view of us being back to
+mid to lower '90s in that. And -- but to your point on how does that affect our recognition
+or our revenue model. Instead of being a 100% underwriter now, we now have a
+distributed capital model, it was one of the last things, Peter and his team really have the
+focus on, because we had a lot of bites at the apple on that, you're under any side,
+because renewals over multiple years. But this continued to be a spike in the
+concentration risk in CAT. As the old joke goes, rich people like to live together and they
+like the live on the coast, so you get -- you can't really avoid that concentration risk. So
+there's other ways to ameliorate, spread that.
+So we'll ultimately wind up as you segue into 2021 with about 25% net on that in terms of
+enjoying the underwriting gain associated with it. And the rest of morphs into more of an
+MGA model where we have fee income and possibly some reinsurance overrides
+Page 7 of 13
+
+
+
+Company N ame: American I nternational Group I nc
+Company Ticker: AI G US Equity
+Date: 2020-08-12
+
+associated with that, reinsurance that will find its way into the AP ratio and the fee income,
+which I will have to put a loss reserve up against that drops through, but I hope that
+answered your question.
+
+FINAL
+
+Sabra Purtill
+
+{BIO 1764408 <GO>}
+
+Yes. And I would just add, the way I think the way people should think about it for the
+second half of the year is because we still have expenses in the travel business. Although
+we're not really getting any earned premium from right now. Combined with just the -what I would call kind of the impact of the syndicate. I would look at the personal lines
+business has being kind of breakeven from an underwriting basis, obviously, depending
+on what happens with CATs for the portion that we retain, there might be some impact
+from that as well.
+But then as you look going forward for 2021, hopefully, we'll have a travel business back,
+but the premium itself will be much smaller going forward for the personal lines business.
+And hopefully we'll have cut off the tail on underwriting volatility is really I think one of the
+things that I keep trying to remind people of is for personal lines, you can't really look at it
+is excluding CATs, because that is one of the major loss drivers of a personal lines book,
+particularly a heavily dominant homeowners book like we have in PCG. And then as we
+get to year end and we've rolled this portfolio or at least 75% of it. Fully into the syndicate
+the back of the envelope with respect to your question about capital, it's maybe roughly
+$500 million of capital a little free up. So you will see that for your year-end RBC numbers.
+
+Bloomberg Transcript
+
+Brian Meredith
+
+{BIO 3108204 <GO>}
+
+Got it. Makes sense. I've got a couple of questions coming in and just wanted to get a
+clarification on my last question. Mark when we talked about, interest rates in effect on
+kind of combined ratios and stuff. I guess the question is as you think about the interest
+rate environment. Have you actually lowered your ROE expectations on underwriting?
+
+Mark Lyons
+
+{BIO 21746221 <GO>}
+
+On an explicit basis, no. And I think what it really implies is that, this is a great market right
+now and this is a market where you attempt to get within reasonable asset as much as
+you can out of it and don't limit yourself to -- and a line of business ex ROE, which you can
+actually get more, so that those areas are going to be pushed very hard, especially when
+you look at the elasticity between rate change and retention, so there's a lot of focus on
+that.
+
+Brian Meredith
+
+{BIO 3108204 <GO>}
+
+Okay, great. Next question, actually I got another one coming in here from the audience.
+In terms of emerging market strategy, how do you see your business in Latin America
+going forward? And are you contemplating any strategic alternatives there?
+
+Mark Lyons
+
+{BIO 21746221 <GO>}
+Page 8 of 13
+
+
+
+Company N ame: American I nternational Group I nc
+Company Ticker: AI G US Equity
+Date: 2020-08-12
+
+Well, it's kind of hard to comment on it not that large for us now. I think a lot of people, it's
+tempted to grow by going through the Brazilian reinsurance approach. AIG had gotten out
+a lot of Latin American areas the past regime before the current regime that in, that
+probably worthy of a revisit I'll leave it like that.
+
+FINAL
+
+Brian Meredith
+
+{BIO 3108204 <GO>}
+
+Got you. Okay, another one actually just came in with respect to your ceded reinsurance.
+Obviously, you've done a massive rework of your ceded reinsurance program really lower
+volatility should we -- given the reinsurance markets have kind of firmed up here too.
+Should we expect that that's going to be a bigger cost here going forward or could we
+start to see you guys retain more risk as your book kind of improves here?
+
+Mark Lyons
+
+{BIO 21746221 <GO>}
+
+Bloomberg Transcript
+
+A couple of -- great question. A couple of good views of that, first off on the dovetailing
+on Sabra's comments back about capital, with the structure changes on the high net worth
+business -- PCG business that on a forward basis should make the structure of our CAT
+program, maybe in the first program cheaper for AIG, because you don't have that kind of
+concentration aspect in there and it's in, but into a much lesser extent. And so on a goforward basis everything else is being even for a minute, you could enjoy cheaper
+programs going forward.
+Now on the second part of it any company should be reevaluating its reinsurance
+structure as a function of the -- not just the marketplace, but what the marketplace is
+doing to your view of the gross profitability, so to the extent that you want to retain more,
+because either the volatility you feel is better and the odds of making that profit are
+better. You may wind up ceding less. So -- and if you have demonstrated a material
+change in the book of business, that's audited by reinsurers and verified by reinsurers.
+You have a strong argument for actually ceding commission a positive change. So just look
+at it this way, in certain pockets there is an opportunity to grow on the front-end and
+possibly they grow because compoundedly, because of less session out the door.
+
+Brian Meredith
+
+{BIO 3108204 <GO>}
+
+Got you. Makes sense. Here's another one that could just came in I think it's a good one
+here. So, if we take a look at what your stock's trading right now obviously valuations really
+low. And I think we could probably to be part of that to the life insurance aspect of your
+business, right? If life insurers are trending pretty low, but even on some of the parts at
+least from my math, it's still looks really, really cheap here. The question then becomes,
+what kind of thought have you kind of put into maybe breaking up the GI and the life
+insurance businesses here, would AIG be better off actually having two separate
+businesses. Being two separate companies, publicly traded, whatever it is?
+
+Mark Lyons
+
+{BIO 21746221 <GO>}
+
+Yes, well I don't think that's not been in Management and the Board's mind. I mean that
+kind of thing always is thought of, going back to years and years and years ago before I
+Page 9 of 13
+
+
+
+FINAL
+
+Company N ame: American I nternational Group I nc
+Company Ticker: AI G US Equity
+Date: 2020-08-12
+
+joined the company. So, I mean with the tax reform, of course the DTA argument
+lessened, right, because of what you'd lose on foreign tax credits and NOLs, but it's still
+there. It's still a big number. Let alone the diversification loss and capital that you get,
+mostly from the rating agencies. What I think of diversification loss, I don't think of our
+internal capital, because that's inside baseball, what are your real binding constraints on
+capital, which is generally external, these rating agency forces and others. So it's the
+diversification change associated with their view of it. And the combination of those two
+things are still material, but I don't want you to think that it's not something that
+management would routinely strategically, think about. Sabra, anything you want to add?
+
+Brian Meredith
+
+{BIO 3108204 <GO>}
+
+Got it.
+
+Sabra Purtill
+
+{BIO 1764408 <GO>}
+
+Yes, look, I would just add that, those two reasons that are there still obviously significant
+for shareholders and would have a significant impact on shareholder value creation. But I
+would just note that strategically, there's no reason why our GI business needs to have an
+L&R business they have separate sales force and separate operations and the rest.
+
+Bloomberg Transcript
+
+Brian Meredith
+
+{BIO 3108204 <GO>}
+
+Got you. Makes sense. Let's see, next one, given where we are with current yields. I
+guess, it sounded like on the recent conference call that you're not expecting base
+spreads to kind of be greater than kind of -- greater contraction that original kind of
+forecast was which you kind of laid out maybe remind us, kind of, what's the impact?
+
+Sabra Purtill
+
+{BIO 1764408 <GO>}
+
+8 to 16.
+
+Brian Meredith
+
+{BIO 3108204 <GO>}
+
+Yes, the 8 to 16, is that, that's still what do you think, even though rates have come down
+even from those levels. I think when you originally gave us the 8 to 16. And then maybe on
+that topic. What kind of the outlook right now for sales and surrenders in the individual
+business?
+
+Mark Lyons
+
+{BIO 21746221 <GO>}
+
+Do you want to take that Sabra?
+
+Sabra Purtill
+
+{BIO 1764408 <GO>}
+
+Yes, I'll start with that. Yes on 8 to 16, that is up from where we are seeing the
+compression going back nine months ago or so, and obviously 100 basis point drop in the
+Page 10 of 13
+
+
+
+Company N ame: American I nternational Group I nc
+Company Ticker: AI G US Equity
+Date: 2020-08-12
+
+FINAL
+
+10-year treasury over that time. But definitely put some pressure on the reinvestments.
+But the reason why it's still in the 8 to 16 range, I would say is that first of all credit spreads
+were a lot wider. So that has actually helped with some of that compression. Yes, we're
+largely an investment-grade corporate investor in the life and retirement. And the other
+aspect of it is that the portfolio duration of life and retirements like eight to nine years. So
+there is only a certain amount of the portfolio that's rolling off.
+There's actually been and it will be interesting to see how this changes your last year we
+were seeing a lot more compression coming, because there is a really active tenders and
+calls on corporate debt in the second quarter just with all the market disruption we had,
+we didn't -- we had some other yield enhancement income, but it wasn't saw the same
+impact. So what I would kind of point people to is keep the eye on credit spreads, as
+much as you keep it on the risk free rate and keep an eye on what's happening with bond
+call activity. Because that -- those are really the key drivers that would impact the spreads.
+
+Bloomberg Transcript
+
+And then obviously the other thing in life and retirement is really what happens with our
+alternatives. And that's been a tale of two cities so far, first quarter, we had negative
+impact on the hedge funds, but the private equity as you know is reported on a one
+quarter lag. So we had decent private equity returns in the first quarter. Second quarter,
+we had big gains on hedge funds, because of the market. But then we booked to losses
+on the private equity. So as you look into the third quarter, at least for private equity, we
+know what the market was at the end of June. So knock wood, that should be a favorable
+margin on the hedge funds. You tell me what the market looks like at 9/30, but so far this
+quarter, it looks pretty decent, and that's -- like I said, that's another component of the
+net investment income for life and retirement.
+
+Brian Meredith
+
+{BIO 3108204 <GO>}
+
+Makes sense. Okay, I know we're just about out of time here. And we've got other things
+on the meetings to get to. Let me ask just one quick other question here assumption
+reviews in third quarter, do you all with assumption grew in third quarter with your life
+insurance business and any reads on potential charges, there?
+
+Mark Lyons
+
+{BIO 21746221 <GO>}
+
+No, it's too early, Brian they're still go through that. But the only thing I could offer at this
+point is my comment on mortality where it wasn't severe enough of a change from the
+pricing assumptions that made us say, we got a -- let's front-load that into 2Q, so they're
+going through that now. So I don't have any antenna, I don't have cilia vibrating.
+
+Brian Meredith
+
+{BIO 3108204 <GO>}
+
+Got you.
+
+Sabra Purtill
+
+{BIO 1764408 <GO>}
+
+Yes and Brian. I would just add to that, because we have been asked for people about like
+a one factor sensitivity for the change in the interest rate on the DAC, and I know some of
+Page 11 of 13
+
+
+
+Company N ame: American I nternational Group I nc
+Company Ticker: AI G US Equity
+Date: 2020-08-12
+
+FINAL
+
+our peers do that, but just remember that the assumption study looks at everything. And
+when you look at lower rates you're also generally looking at lower surrenders on the
+products that you have that's fixed rate oriented. So it's not just one factor sensitivity, we
+look at everything from mortality surrender activity policyholder behavior with respect to
+utilization of guarantees, which is one area that can surprise you people don't always
+behave economically and then obviously expenses market rate assumptions interest rate
+assumptions and the rest, so it's really soup to nuts.
+
+Brian Meredith
+
+{BIO 3108204 <GO>}
+
+All right, great.
+
+Mark Lyons
+
+{BIO 21746221 <GO>}
+
+And just to highlight also Brian, what Sabra talked about before on spreads. Everybody
+likes to focus on the 10-year bullet, right?
+
+Brian Meredith
+
+{BIO 3108204 <GO>}
+
+Okay.
+
+Bloomberg Transcript
+
+Mark Lyons
+
+{BIO 21746221 <GO>}
+
+And only one piece of the pie, right and only one piece of the pie. And one of our
+competitors this quarter, who does their assumption in the second quarter. I think went
+from a 3.75 to a 3.25 and we're already at 3.50. So on the bullet, if you will, that's just the
+risk free, there's already not much of a difference.
+
+Brian Meredith
+
+{BIO 3108204 <GO>}
+
+Makes sense. Makes sense. Mark, Sabra, so I really want to thank you all for your time. I
+apologize about all the technical difficulties here, but we got some good content good
+discussion and really, really appreciate your time. And everybody, just want you to stay
+safe, stay healthy and thanks for joining us.
+
+Mark Lyons
+
+{BIO 21746221 <GO>}
+
+Yes, I appreciate the invite, Brian. Thank you.
+
+Sabra Purtill
+
+{BIO 1764408 <GO>}
+
+Thank you.
+
+Brian Meredith
+
+{BIO 3108204 <GO>}
+
+Thanks all.
+
+Page 12 of 13
+
+
+
+Company N ame: American I nternational Group I nc
+Company Ticker: AI G US Equity
+Date: 2020-08-12
+
+Sabra Purtill
+
+{BIO 1764408 <GO>}
+
+This transcript may not be 100 percent accurate and may contain misspellings and other
+inaccuracies. This transcript is provided "as is", without express or implied warranties of
+any kind. Bloomberg retains all rights to this transcript and provides it solely for your
+personal, non-commercial use. Bloomberg, its suppliers and third-party agents shall
+have no liability for errors in this transcript or for lost profits, losses, or direct, indirect,
+incidental, consequential, special or punitive damages in connection with the
+furnishing, performance or use of such transcript. Neither the information nor any
+opinion expressed in this transcript constitutes a solicitation of the purchase or sale of
+securities or commodities. Any opinion expressed in the transcript does not necessarily
+reflect the views of Bloomberg LP. © COPYRIGHT 2022, BLOOMBERG LP. All rights
+reserved. Any reproduction, redistribution or retransmission is expressly prohibited.
+
+Bloomberg Transcript
+
+FINAL
+
+Bye, everybody.
+
+Page 13 of 13
+
+

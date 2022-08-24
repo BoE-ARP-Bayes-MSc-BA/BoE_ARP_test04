@@ -1,0 +1,1519 @@
+Company N ame: Aegon N V
+Company Ticker: AGN N A Equity
+Date: 2017-11-09
+
+Q3 2017 Earnings Call
+
+FINAL
+
+Company Participants
+Alexander Rijn Wynaendts , Chief Executive Officer, Chairman-Executive &
+Management Board
+Matthew J. Rider, Chief Financial Officer & Member-Executive & Management Board
+Willem van den Berg, Head-Investor Relations
+
+Other Participants
+Albert Ploegh, Analyst
+Andy Hughes , Analyst
+Arjan van Veen, Analyst
+Ashik Musaddi, Analyst
+Bart Horsten, Analyst
+Benoît Pétrarque, Analyst
+Farooq Hanif , Analyst
+Farquhar C. Murray, Analyst
+Gordon Aitken, Analyst
+
+Bloomberg Transcript
+
+Mark David Cathcart, Analyst
+Nadine van der Meulen, Analyst
+Robin van den Broek, Analyst
+
+MANAGEMENT DISCUSSION SECTION
+Operator
+Good day, ladies and gentlemen, and welcome to the Aegon 3Q 2017 Results
+Conference Call. Today's conference is being recorded. At this time, I would like to turn
+the conference over to Willem van den Berg, Head of Investor Relations. Please go
+ahead, sir.
+
+Willem van den Berg
+
+{BIO 15203834 <GO>}
+
+Thank you, Barbara. Good morning, everyone, and thank you for joining this conference
+call on Aegon's third quarter 2017 results. We will keep today's presentation short, leaving
+plenty of time to address all your questions. We would appreciate it if you take a moment
+to look and to review our disclaimer on forward-looking statements, which you can find in
+the back of our presentation.
+
+Page 1 of 25
+
+
+
+Company N ame: Aegon N V
+Company Ticker: AGN N A Equity
+Date: 2017-11-09
+
+Our CEO, Alex Wynaendts, will first provide an overview of our third quarter results and
+will then be joined by CFO, Matt Rider, to answer your questions.
+I'll now hand it over to Alex.
+
+FINAL
+
+Alexander Rijn Wynaendts
+
+{BIO 1821092 <GO>}
+
+Thank you, Willem, and good morning, everyone, and thank you, all, for your continued
+interest in Aegon, and of course also for joining us today for today's earning call. So, let
+me begin by providing you with an overview of this quarter's key developments.
+I'm pleased with the clear improvement in our operating results, with underlying earnings
+increasing 20% to €556 million, driven by improved claims experience, by increased fee
+revenue resulting from favorable equity markets and lower expenses in our U.S. business.
+As a result of our strong underlying earnings, our group return on equity increased by 120
+basis points to 8.9%.
+
+Bloomberg Transcript
+
+Net income was also strong this quarter, even though it was impacted by assumption
+changes and model updates. Our Solvency II ratio increased to 195%, which is at the
+upper-end of our target range of 150% to 200% for the group. This increase was mainly
+the result of strong capital generation this quarter, which amounted to €324 million,
+excluding €485 million of market impacts and one-time items.
+And finally, sales were very strong year-over-year, rising by more than 50% to €4.5 billion.
+This increase is mainly a reflection of our continued success of strategic shift to fee-based
+businesses, in particular, our UK platform and our asset management business.
+Let's now take a closer look at our underlying earnings for the quarter in the next slide. I
+am very pleased that our underlying earnings are up for the fifth consecutive quarter. This
+reflect growth across our businesses, expense savings and management actions. During
+the third quarter, we saw significantly improved claims experience in our life and health
+businesses in the U.S. compared with the same quarter last year. This improvement is a
+result of the management actions we have taken to improve profitability as part of our
+five-part plan.
+Another main driver for increased earnings is the continued success or execution of our
+expense reduction program and I will elaborate further on this program in a moment on
+the following slides. Also earnings from our fee-based business continued to perform well
+as higher account balances benefited from new business and higher equity markets. U.S.
+interest rates increased, but still remain below our long-term assumption for reinvestment
+yields. The improvement in reinvestment yields resulted in a €10 million positive effect
+compared with last year.
+As I mentioned on the previous slide, we continue to make good progress on our group
+expense savings program. So far, we have achieved run rate expense savings of €170
+million across the group, of which €130 million are from the U.S., €30 million from the
+Netherlands and the remainder from the holding.
+Page 2 of 25
+
+
+
+Company N ame: Aegon N V
+Company Ticker: AGN N A Equity
+Date: 2017-11-09
+
+FINAL
+
+We continue to work hard on implementing further expense savings in our business units.
+The plans we are putting in place gives us the confidence that we are well on track to
+reach our target of €350 million by the end of 2018. These savings are resulting in higher
+returns, while they're also enabling us to invest in the growth of our business.
+I would now like to turn to slide 5, which shows the development of our net income. As
+you can see, net income was strong, amounting to €469 million for the quarter, driven by
+both solid underlying and non-underlying results. The latter was mainly driven by strong
+gains on fair value items and by higher realized gains on investments. Fair value gains of
+€159 million were mainly the result of positive real estate's revaluations in both the U.S.
+and Netherlands and of hedging gains in the U.S. The hedging gains reflect changes that
+we've made to our U.S. macro equity hedge program in the past few quarters.
+This program is in place to protect our capital position against falling equity markets, and
+given current market conditions, we have switched to a 100% option-based program and,
+as a result, significantly lowered the quarterly run rate cost of the program from $60
+million to $45 million in the base case scenario, while leaving open the upside in case
+equity markets further rise. More details can be found on slide 21 in the back of this
+presentation.
+
+Bloomberg Transcript
+
+Realized gains amounted €135 million, and these were primarily related to the share of
+equity investments in the U.S. Finally, other charges amounted to a loss of €233 million,
+which was mainly resulting from assumption change and model updates, which I would like
+to take you through on the following slides.
+As you know, we review our assumptions every year in the third quarter, and we run an
+ongoing model enhancement and validation program throughout the company. This
+quarter, assumption change and model updates result in a one-time charge of €198
+million. This charge was mainly driven by the completion of the conversion of our largest
+block of universal life business in the U.S. to a new, more dynamic model. This conversion
+led to a one-time IFRS charge of €252 million, while it had limited impact on the capital
+position and has no impact on earnings going forward. We have transitioned from
+modeling policyholder behavior and other assumptions on the cohort basis to a policy-bypolicy basis, thereby significantly improving the granularity of our modeling.
+The completion of this model conversion effectively concludes the first phase of our
+model enhancement and validation program covering all high-impact models identified
+when the program started in 2014. Our assumption changes and model updates in the
+U.S. netted to €52 million. These charges are one-time in nature and will have no material
+recurring impact to underlying earnings and to capital generation going forward.
+In Europe, the combined impact of assumption changes and model updates was positive
+totaling €125 million. These were mostly related to the Netherlands where there was a
+release of a guaranteed provision as there was excess prudency in our reserves. The
+remaining other charges were primarily driven by impairment of intangibles related to the
+announced sale of Aegon Ireland. The sale is in line with our strategic objective to
+
+Page 3 of 25
+
+
+
+Company N ame: Aegon N V
+Company Ticker: AGN N A Equity
+Date: 2017-11-09
+
+FINAL
+
+optimize our portfolio, and the impairment is part of the book loss we guided for when
+we announced the transaction.
+Let's now turn to slide 7 where you can see the breakdown of our very strong deposits. In
+the third quarter, gross deposits continued to be strong across all our businesses,
+increasing significantly to a record €41 billion. Our UK platform performed very well over
+the quarter, with institution sales totaling nearly €5 billion. But I want to remind you here
+that these institution sales are often large in size and can fluctuate quarter-to-quarter.
+Higher gross deposits of close to €23 billion in our asset management business were
+mainly the result of a large mandate won by a partner, La Banque Postale Asset
+Management, by inflows in the Americas and by the inclusion of the first inflows from
+Stap, the Dutch general pension fund initiated by Aegon.
+You may recall Stap was the first fund of its kind and makes it possible to combine a
+financial administration of multiple pension plans for multiple employees. Stap currently
+manages over €2 billion. What's more, Stap enables smaller pension schemes to benefit
+from the economies of scale and also to comply with complex pension regulations. And
+its fiduciary management is carried out by a subsidiary of Aegon Asset Management.
+
+Bloomberg Transcript
+
+We will provide more details on Stap and other opportunities that we see in the Dutch
+market on December 1 where we'll be hosting a strategy update for analysts and
+investors at our offices in The Hague. The Dutch management team will provide you there
+with further insights into the prospects of our business in the Netherlands.
+Let me now turn to the next slide where I'll take you through our life and health sales for
+the quarter. I'm on slide 8. New life sales declined by 8% to €202 million. The U.S. term
+and indexed universal life sales were down compared with the same quarter last year,
+and this decline was due to our continued focus on profitability in markets with increased
+competition.
+Lower sales in Europe were mainly the result of our exit from the UK annuity market, and
+reflect a strategic shift to fee-based businesses. New premiums for accident and health
+sales decreased by 17% as product exists and lower supplemental health sales in United
+States more than offset higher travel sales.
+As announced at last year's Analyst & Investor Day in New York, we will exit the Affinity,
+Direct TV and Direct Mail distribution channels as these channels and associated products
+do not fit strategically within our wealth and health strategy. And for this reason, we
+expect travel sales to reduce significantly as of the first quarter of 2018.
+Let me now turn to the excess capital position of the holding on the next slide. As
+announced during our second quarter results call, we have injected €1 billion of capital into
+the Netherlands. This injection temporarily decreased our excess capital position at the
+holding to €0.9 billion, which is just below our target range of €1 billion to €1.5 billion.
+
+Page 4 of 25
+
+
+
+Company N ame: Aegon N V
+Company Ticker: AGN N A Equity
+Date: 2017-11-09
+
+FINAL
+
+During the third quarter, excess capital at the holding was supported by regular dividends
+from our units of close to €400 million from our U.S. and asset management operations.
+The redemption of €500 million senior unsecured notes last July was offset by the
+issuance of a one-year senior note of the same amount in August. Notes were issued at a
+negative yield of 16 basis points, and this enabled us to inject the €1 billion in the
+Netherlands already in September.
+Last month, the UK upstreamed £131 million as part of the special £150 million dividend
+following the sale of the annuity book. The UK dividend and the proceeds from the sale of
+the majority of our U.S. run-off business will more than offset expected cash flows –
+outflows from holding expenses and the share buyback to neutralize the dilutive effect of
+the 2016 final and 2017 interim stock dividends. As a result, we expect our excess capital
+position at the end of the year to be in the upper end of our target range as we indicated
+at the time of our second quarter results.
+
+Bloomberg Transcript
+
+I would now like to focus on our group capital position on the next slide. Our Solvency II
+ratio increased 10 percentage points to 195%. The strong increase is attributable to
+capital generation from the operating units. Excluding market impacts and one-time items
+of €485 million, capital generation amounted to €324 million. One-time items mainly
+related to model change in Netherlands and the UK, with all major changes having been
+approved by the College of Supervisors. These model changes have a limited impact on
+capital generation going forward.
+The completion of the Legal & General Part VII transfer related to the divestment of the
+UK annuity book led to an increase of 2% for the group. These positives more than offset
+the interim 2017 dividend, which was announced in August.
+And lastly, I would like to highlight that, as a result of both the capital injection to the
+Netherlands and model enhancements, the Dutch Solvency II ratio improved to around
+190%. The UK ratio improved to around 200%, where the U.S. RBC ratio stood with
+continued strong level of approximately 445%. And this means that the capital ratios for
+all our main operating units are at the upper end of their respective target ranges.
+So, let me now conclude. This was clearly a strong quarter from an earnings and a capital
+perspective, but it was also one in which we made a series of significant steps forward in
+execution of our strategy. In all our markets, we're delivering on our commitments as a
+result of the management actions we've taken. We have addressed the
+underperformance of our U.S. life and health business and put both our Dutch and UK
+businesses back in a position to resume dividend payments to the holding.
+We also continued to see business growth in our main markets as the strategic
+investments into new platforms are gaining traction. So, overall, I am pleased with how we
+are successfully changing the profile of the company to position us strongly for future
+growth, and this gives me every confidence that we are taking the right steps to achieve
+our ambitions.
+Matt and I are now ready to take your questions. Thank you.
+Page 5 of 25
+
+
+
+Company N ame: Aegon N V
+Company Ticker: AGN N A Equity
+Date: 2017-11-09
+
+Q&A
+Operator
+
+FINAL
+
+Okay. Thank you. We will take our first question today from Benoît Pétrarque from Kepler.
+Please go ahead.
+
+Q - Benoît Pétrarque
+Yes. Good morning. It's Benoît from Kepler Cheuvreux. Three questions on my side. The
+first one will be on the Dutch business. I know you have a strategic update on the 1st of
+December. But could you kind of update us on your view on the consolidation of the
+Dutch live market. There have been some rumors in the market recently. I know you don't
+comment on the rumors, but what is your ambition on this market. You have not been very
+active until now. So, could you update us briefly on that?
+Also second question on the Dutch ratio, which is clearly, well, up 15 percentage point, I
+think, Q-on-Q. Could you clarify a bit the move has been over the quarter, break down
+between organic capital generation, impact of model updates and also impact of the
+market in the quarter?
+
+Bloomberg Transcript
+
+And then just finally, sorry to stay on the Dutch side, but the release of the guarantee
+provision in the Netherlands. Could you just clarify what has been the driver of this
+change? I think you referred to excess prudency, but just wanted to know a bit more
+about the driver of the release? Thank you very much.
+
+A - Alexander Rijn Wynaendts
+
+{BIO 1821092 <GO>}
+
+Good morning, Benoît. Let me take the first question and I'll pass it for the second and
+third one to Matt.
+Benoît, as you know, we've been very consistent saying that, our focus – our strategic
+focus in the Netherlands is on organic growth, and we're saying this because we have a
+very strong position in the key market in which we want to operate. As a particular, the
+markets of pension, work site, helping people securing a financial future. And that strong
+position effectively already gives us a very broader market position. I think we've
+mentioned that and you'll get much more color when you see the whole management
+team later here in The Hague. Out of every two Dutch households, one is a customer, a
+pension customer of the Netherlands.
+The second thing I want to say on this subject is that the new government that has just
+been installed right now is also taking measures that will very much support the business
+areas in which we're in, an effective support then by accelerating the shift of responsibility
+to individuals. Whereas you know, Netherlands in the past pension provision was very
+much something, which was done by employer, by the government. More and more we
+see a shift to individual responsibility.
+
+Page 6 of 25
+
+
+
+Company N ame: Aegon N V
+Company Ticker: AGN N A Equity
+Date: 2017-11-09
+
+FINAL
+
+Effectively, the government has now also announced measures to facilitate the creation of
+individual pension products and is exactly the area where Aegon has been focusing on for
+quite some time. So, we feel very comfortable that we have there a strong position. But
+again, I'm sure our management team will do a much better job than I do right now,
+ensuring how well we are positioned in that area with our defined benefit plans, with our
+DC plans, but also would stop where we are – we were the first one to come into market
+and we also are now market leading in providing that offer.
+Matt, you want to take the two other questions, please?
+
+A - Matthew J. Rider
+
+{BIO 20002664 <GO>}
+
+Bloomberg Transcript
+
+Yes. On the group solvency ratio, you did see the strong improvement in the ratio from
+185% in the second quarter to 195%. I think the presentation does a pretty good job of
+laying it out, but you think of it as 4 percentage points coming from normalized capital
+generation. That would be the total capital generation excluding one-time items and
+market impacts, and then you have 6 percentage points coming from one-time items and
+market impacts including model changes, and this actually bears quite a lot on the
+Solvency II ratio for the Dutch business, especially as there were some changes to our
+internal model that were recently approved by our College of Supervisors. So, that had a
+good impact on the Dutch ratio.
+And then importantly, we were able to complete the L&G Part VII transfers that were
+related to the previous sale of the UK annuity block. And because we were released from
+some contingent capital risk, we were able to add 2 points to our solvency, and add those
+numbers up and then take away the interim dividend; the interim dividend was about 3%,
+and then you get to about 10.
+Now for the Dutch ratio, Alex mentioned that we had improved it to around 190% for the
+quarter. This reflects those model changes but also importantly the injection of the €1
+billion dividend into the business. I would also mention that the UMG transaction is just
+recently completed, so that is not yet been incorporated into that figure.
+
+Q - Benoît Pétrarque
+And on the release of the guarantees in the Netherlands?
+
+A - Matthew J. Rider
+
+{BIO 20002664 <GO>}
+
+Yeah. So, that was – the number that we referred to related to – mainly it's an IFRS change
+or was in fact a small solvency position change in that one too, but this just relates mainly
+to mortality updates.
+
+Q - Benoît Pétrarque
+Yeah. Great. Thank you.
+
+Operator
+Page 7 of 25
+
+
+
+Company N ame: Aegon N V
+Company Ticker: AGN N A Equity
+Date: 2017-11-09
+
+Thank you. Our next question today comes from Farquhar Murray from Autonomous.
+Please go ahead.
+
+FINAL
+
+Q - Farquhar C. Murray
+
+{BIO 15345435 <GO>}
+
+Good morning, gentlemen. Just two questions, if I may. Firstly, going back actually
+probably to slide 10. Please, could you just decompose the fall of €0.7 billion in the SCR
+ideally obviously between the UK and the Netherlands?
+And then secondly, the slide indicates the model changes have a limited impact on capital
+generation in the near term, which is obviously helpful. And this is probably nitpicking, but
+can you just double-check whether there's anymore material impacts longer term, and in
+particular, are there any changes in the decomposition of capital generation between the
+geographies? I think you've indicated the U.S. doesn't really change, so I presume nothing
+is really changing, okay.
+
+A - Matthew J. Rider
+
+{BIO 20002664 <GO>}
+
+Maybe to talk about the SCR reduction. So, we had about €700 million reduction in SCR in
+the quarter. Part of it is related to just revised modeling of currency risk and related
+diversification at the group level that has no impact on capital generation. But also, I think,
+importantly for our internal model improvements that have been recently improved in the
+Netherlands primarily, we revised our method for doing credit risk shock for non-safe
+haven sovereigns, and that's basically it.
+
+Bloomberg Transcript
+
+Q - Farquhar C. Murray
+
+{BIO 15345435 <GO>}
+
+And how much was that?
+
+A - Matthew J. Rider
+
+{BIO 20002664 <GO>}
+
+I don't have the breakdown, but I'm sure that we can get it to you. As for the model
+changes – I'm sorry, the balance of the question?
+
+Q - Farquhar C. Murray
+
+{BIO 15345435 <GO>}
+
+You just said that that has a limited impact (23:19) The model changes for the quarter
+mainly related to – basically the impact comes to reserve increases. So, we would not
+expect that this would have any kind of an earnings impact in the short term, and in fact in
+the longer term, it actually reduces what would have otherwise been a drag on earnings.
+So – but that's in the very long term. These are long duration contracts.
+Okay. So that's positive very further out?
+
+A - Matthew J. Rider
+
+{BIO 20002664 <GO>}
+
+Yes.
+
+Q - Farquhar C. Murray
+
+{BIO 15345435 <GO>}
+
+Page 8 of 25
+
+
+
+Company N ame: Aegon N V
+Company Ticker: AGN N A Equity
+Date: 2017-11-09
+
+Okay.
+
+Operator
+
+FINAL
+
+Thank you. Our next question today comes from Farooq Hanif from Credit Suisse.
+
+Q - Farooq Hanif
+
+{BIO 4780978 <GO>}
+
+Hi there. Thank you very much. Three questions, if I may. First one, do you have any other
+sort of modeling improvements that you think you can – that you'd like to put through in
+the Netherlands particularly? So I'm thinking sort of further refinement to the internal
+model, and that's obviously on top of the disposal gain that you're going to get. That's
+question one.
+Question two, are you – I get that you don't really want to participate in consolidation in
+the Netherlands, but are you seeing any positive impacts from the consolidation that's
+happened elsewhere in terms of profitability? So are there any early signs that that could
+help you?
+And the last question is, you referred to reinvestment yields improving, but could you just
+update us on the current U.S. ALM gap. The typical question you get when – if yields
+remain where they were – where they are, sorry, what implications that might have on
+earnings and capital generation? Thank you very much.
+
+Bloomberg Transcript
+
+A - Alexander Rijn Wynaendts
+
+{BIO 1821092 <GO>}
+
+Farooq, let me take your second question, and Matt can take the first one on the impact
+of model improvements on our Solvency II position in Netherlands and provide you with
+the investment yields. I think we've been clear, and I've just stated in one of the previous
+questions that, for the Netherlands, with the position that we have in that segment of the
+market, which we believe is a segment of the market where we see really the future
+growth very much driven by the shift of responsibility to individuals, the need for people
+to save more for the future, people living longer and being less dependent on
+governments or employers, then that trend is really the area we want to be. But we have
+a market share, as you know, above 30%. I just mentioned that, out of every two Dutch
+households, one is a customer of us, so there is no need for us there to be bigger.
+In terms of other areas, I want to remind you maybe our Cofunds and Mercer acquisitions
+explain here that we were not so much acquiring companies and taking costs out, the
+objective really of these transactions was to acquire customers. And let me take you to
+Cofunds, for example. We have a state-of-the-art, recognized, as you know, by the place
+in the UK market platform capability. That is by the way very scalable. So, for us, it's all
+about trying to get as much as customers on that platform as we can with as low as
+possible in acquisition cost.
+So, the Cofunds acquisition was effectively moving 900,000 customers for which we paid
+£150 million, which effectively is – or £140 million to be exact. Effective means that we
+acquire the customers for £150 per customer. That's another way of looking at it. If you
+Page 9 of 25
+
+
+
+Company N ame: Aegon N V
+Company Ticker: AGN N A Equity
+Date: 2017-11-09
+
+FINAL
+
+look at acquisition of the Mercer pension plan, it is very much similar. And we will continue
+to be looking at where we can leverage very specific technology that we have in place
+that is scalable by attracting customers on our technology.
+And what we expect going forward is that, since we have invested in specific areas of
+technology, the 401(k) business in the U.S. I think you're well aware of that. The UK, I just
+mentioned, we will continue to look at ways of bringing customers to our platform, and
+this is a more effective and a cheaper way, I can assure you, than go in a market and go
+and chase 900,000 customers.
+So you see more of that happening because we also see that the skill means that those
+players that are smaller or mid-size will just not be able to play the game, so we see more
+opportunities in that area going forward. Matt?
+
+A - Matthew J. Rider
+
+{BIO 20002664 <GO>}
+
+Maybe with respect to the modeling improvements, so we've just had what we call IMAB
+2 (27:40). So, this is major model improvements that have been submitted to DNB and
+have been approved by the College of Supervisors. I would expect that we will continue
+to basically improve our modeling. But I would not anticipate any major model submissions
+to DNB in the very near future.
+
+Bloomberg Transcript
+
+With respect to your question on U.S. reinvestment yields, currently where new money
+yields are at about 4.05% for the quarter. And that is below our long-term expectation.
+But we would think that has a quite limited impact on near-term capital generation.
+
+Q - Farooq Hanif
+
+{BIO 4780978 <GO>}
+
+Thank you very much.
+
+Operator
+Thank you. Our next question comes from Nadine van der Meulen from Morgan Stanley.
+Please go ahead.
+
+Q - Nadine van der Meulen
+
+{BIO 15200446 <GO>}
+
+Yes. Good morning, and thank you for taking my questions. The first question is on the
+holding excess capital position. You've upswinged quite a significant dividend out of the
+U.S. in the third quarter. What should we expect for the full year or in Q4 in this light? Is it
+just that you brought that forward?
+And then second question is, on the assumption changes and the model updates, a onetime charge as you put it of the €198 million, do you mean to say that we should not
+expect any further charges from model updates? Or if there are, what region we could
+expect because this is an ongoing thing? And then I suppose, lastly, in the U.S. life sales,
+they were down in new business margin, which was also a bit a lower. Could you talk
+
+Page 10 of 25
+
+
+
+Company N ame: Aegon N V
+Company Ticker: AGN N A Equity
+Date: 2017-11-09
+
+about sort of the main drivers and how would you think about the outlook for the
+profitability here on new business? Thank you.
+
+FINAL
+
+A - Alexander Rijn Wynaendts
+
+{BIO 1821092 <GO>}
+
+Let me maybe take you to questions two and three, and then Matt will take your first
+question on the movement of excess capital position to the holding. I think it's good to
+remind everybody in the context. As you know, we've announced at the end of 2014 that
+we were undergoing a very thorough model validation, model review process of all the
+high-impact models. And I think, we've been very clear that this model, which is related to
+the universal life policies in the U.S., was kind of the last of the large models, and that we
+said we would do and make all the efforts to ensure that we could get this model
+validation concluded by the third quarter, so we can bring it all together with model
+validation in the Netherlands and assumption changes.
+
+Bloomberg Transcript
+
+So, yes, in the U.S., it has led to a charge. I'd like to point out that in the Netherlands,
+actually it has led to a gain. So, this model change is for high-impact models not effectively
+concluded. It doesn't mean that we will not continue to do model refinements and model
+changes for the rest of our business. Actually, in fact, we have done and performed quite
+a number of what we call medium impact and low model changes and updates in the
+course of all the quarters. But, as these low and medium impact also suggests, the
+impacts are very small and have been quite limited, and have actually also offset each
+other. So, we do not expect to see significant impacts going forward now that we have
+effectively concluded this high-impact model.
+Also, I want to make sure that you see that the IFRS loss here of the U.S. model was more
+than offset by share value gains in the U.S., was also offset by fair value gains and gains
+we've made, real estate and other positions, and has had limited impact on our capital
+position and no impact on our ongoing capital generation, no impact on ongoing earnings
+impact. So, it really is an IFRS impact here.
+In terms of life sales, as you know, the market is competitive in the U.S. Interest rates
+clearly coming down have only made that worse. We have a clear strategy and maintain a
+discipline in pricing.
+So, what we are looking at is where – in which parts of the market can we continue to sell
+and grow our business, and particularly indexed universal – indexed-linked universal life is
+an area where we have significant market share and where we have been able to kind of
+effectively reduce the decline in sales. So I'm positive there because we've also made
+changes. With the improvement in interest rates, it will make it easier for us to see our
+sales going up there.
+But it fits all in the strategic shift that we've mentioned many times is that more and more
+of our business is going to fee business; more and more business is going to deposits,
+pension business, asset management, mutual funds in particular in line with the shift, as I
+said earlier, of responsibility to individuals. So, that's why you see – you will continue to see
+more of the growth of our business.
+
+Page 11 of 25
+
+
+
+Company N ame: Aegon N V
+Company Ticker: AGN N A Equity
+Date: 2017-11-09
+
+So, Matt, do you want to take the first question?
+
+FINAL
+
+A - Matthew J. Rider
+
+{BIO 20002664 <GO>}
+
+Yeah. On the excess cash on the holding, you've seen that at the end of the third quarter
+we're standing at about €900 million, which is slightly below our target area of €1 billion to
+€1.5 billion. Now, I'll tell you that that was corrected just a few days after the end of the
+quarter when we received the special dividend from the UK in the amount of £131 million.
+And then, for the rest of the year, as Alex said in his opening remarks, we would expect to
+be at the top end of the range in part from additional dividends from the UK but mainly
+from dividends that we would expect from the U.S. following the close of the BOLI/COLI
+transaction.
+
+Q - Nadine van der Meulen
+
+{BIO 15200446 <GO>}
+
+Sorry. Can you say it again? So, at the end of the year, you expect to be at the top of
+range including the special dividends from the UK?
+
+A - Matthew J. Rider
+
+{BIO 20002664 <GO>}
+
+Yes.
+
+Q - Nadine van der Meulen
+
+{BIO 15200446 <GO>}
+
+Bloomberg Transcript
+
+Okay. Thank you very much, all. Thank you.
+
+Operator
+Thank you. Our next question comes from Mark Cathcart from Jefferies. Please go ahead.
+
+Q - Mark David Cathcart
+
+{BIO 19783252 <GO>}
+
+Yeah. Hi. Congratulations, Alex, on what I thought was a really good underlying set of
+numbers. And having followed the stock for many years, it's the most cheerful up-sell, I
+think, since the 1990s. I think things are really heading in the right direction. So, on that
+basis, can you give some sort of indication on how much further you believe you can get
+costs down across the group? You must walk around the Aegon offices thinking that
+there's more costs that can be cut and more efficiencies. And the second point is,
+because you're moving towards the high end of your capital range within holding by the
+end of this year and with nice capital generation repaired (34:45) across the group, where
+do you think you're going to be most keen to put that capital to work, say, over the next
+12 to 24 months?
+
+A - Alexander Rijn Wynaendts
+
+{BIO 1821092 <GO>}
+
+Mark, thank you for your very kind words. That is appreciated. You have followed us
+indeed for a long time, and I can tell you that I am also – and I had made it hopefully clear
+in my introduction speech – pleased to see that we have strong earnings, strong capital
+generation, but also strong growth because a strong growth is what is going to define the
+
+Page 12 of 25
+
+
+
+Company N ame: Aegon N V
+Company Ticker: AGN N A Equity
+Date: 2017-11-09
+
+Bloomberg Transcript
+
+FINAL
+
+future of a company, that is going to create the cash flows of the company going forward
+and, of course, paying the dividends.
+So in terms of expenses, we have in place a plan that we've communicated a number of
+times to effectively generate €350 million of expenses between 2016, 2017 and 2018. So
+by the end of 2018, we have committed to reduce expenses further from the €170 million
+that I announced we have now achieved at the third quarter to €350 million. So there still
+is another €180 million to go.
+Now, as you will appreciate, I cannot be more precise in saying exactly what plans will be
+announced, when and where, but what I have said in my speech and I can reiterate, we
+have very clear plans to achieve that additional €180 million of cost reductions, in particular
+in our large businesses where the impact will be most, but in all of our businesses, we are
+looking at ways to being more efficient. That efficiency is absolutely required not only
+because we need to get the returns to the level where we need to get them, but also
+because we need to create the room to invest in the future. We need to have a more
+lean, efficient, technology-driven organization that not only serves the customers in the
+more efficient way, but serves also our customers in a cheaper way and in a way our
+customers are demanding for. So the plans are in place. They will be communicated in the
+due time. And I can assure you, we are working very hard, and I feel confident that we will
+achieve the €350 million upfront cost reductions.
+Now, in terms of the capital position, we've given and set ourselves a clear target and a
+priority, that is to return €2.1 billion to our shareholders over the three-year period. Still, we
+have achieved a significant amount of that, but the capital that has been generated will be
+returned to shareholders for us to meet our target of €2.1 billion. Thank you.
+
+Q - Mark David Cathcart
+
+{BIO 19783252 <GO>}
+
+So – Yeah. Yeah. Okay. So you can't say geographic arenas where you may be looking to
+make fresh investment. You've mentioned about Asia being a real critical component of
+your earnings going forward.
+
+A - Alexander Rijn Wynaendts
+
+{BIO 1821092 <GO>}
+
+Well, in all our countries, we continue to grow, and I hope you see, Mark, that with the
+sales we're showing is that we're not holding back on growing our business. Obviously,
+we want to do that in an efficient way. We want to make sure we make our returns. And
+we will continue to commit capital to those businesses that not only generate our returns,
+but also fit strategically where we want to grow.
+On Asia (38:07), just to take that point, as we shared with you also previously that instead
+of having a capital drain of €100 million, which was kind of the old position, we have, as a
+result of management actions and decisions we have taken, been more efficient, shutting
+down certain businesses, taking expenses down, actually turned it around where Asia is
+effectively a small capital generator.
+
+Page 13 of 25
+
+
+
+FINAL
+
+Company N ame: Aegon N V
+Company Ticker: AGN N A Equity
+Date: 2017-11-09
+
+We also mentioned that in Asia, we're not going to chase growth in the, I would say,
+traditional way where you would build up agencies which require very significant amount
+of upfront capital. Now, we are looking at modern ways – new ways where we can deploy
+the skills we have and technology we have to enter the market digitally which, as you
+know, will have much less of capital requirements because upfront expenses and
+particular acquisition expenses, like such as commissions, will not be the case here. So
+there's no reason to believe that that will require a significant capital investment. It's a
+very different business model.
+
+Q - Mark David Cathcart
+
+{BIO 19783252 <GO>}
+
+Okay. Thanks, Alex. Thank you.
+
+A - Alexander Rijn Wynaendts
+
+{BIO 1821092 <GO>}
+
+Thanks.
+
+Operator
+Thank you. Our next question comes from Albert Ploegh from ING. Please go ahead.
+
+Bloomberg Transcript
+
+Q - Albert Ploegh
+
+{BIO 3151309 <GO>}
+
+Yes. Good morning, all. Thank you for taking my questions. The first one is on the illiquid
+investment program in Holland. Can you update us what has been done in Q3 and what
+are the plans for the remainder of the year, and what type of assets being bought? And
+the second question is again coming back to slide 10 with some explanation on the
+development of the SCR. I noticed that the own funds went down, I know of the different
+impact what has also been (39:51) generate. So, yeah, what happened basically on the
+own funds development during the quarter in relation to the potentially model changes
+also on the group level there?
+And the final questions on the macro sensitivities on the Solvency II ratio. I know it's only
+disclosed two times a year, but given the model changes in the changes in the hedging
+(40:16) sensitivities in the midyear still felt (40:18) or have you been positioned more to,
+let's say, rising interest rates or rising equity markets compared to the first half ? Thank
+you.
+
+A - Matthew J. Rider
+
+{BIO 20002664 <GO>}
+
+On the first point, I think the illiquid strategy, I think it's a little bit slower than we had
+expected, several hundred million but no more than that. We would expect this to
+accelerate during the backend of this year and going into 2018. With respect to the SCR
+and the own funds, so you rightfully point out that own funds reduced by about €300
+million and that related to the dividend and that balance of it is, yeah, it's market
+movements and obviously the normalized capital generation comes through. I think the
+big story in the Solvency ratio is the reduction in SCR and the major model improvements
+had a major impact there with 6 percentage points. And, yeah, for the rest of it, we just
+have to recognize that our position for own funds going forward is we recognize that this
+
+Page 14 of 25
+
+
+
+Company N ame: Aegon N V
+Company Ticker: AGN N A Equity
+Date: 2017-11-09
+
+is an important valuation metric, and that we are committed to growing our own funds in
+the future.
+
+FINAL
+
+With respect to the sensitivities on the macro hedging, I think we're just going to update
+that in due course at the end of the fourth quarter.
+
+Q - Albert Ploegh
+
+{BIO 3151309 <GO>}
+
+Okay. Thank you.
+
+Operator
+Thank you. Our next question comes from Bart Horsten from Kempen. Please go ahead.
+
+Q - Bart Horsten
+
+{BIO 2390919 <GO>}
+
+Bloomberg Transcript
+
+Yes. Good morning. Thanks for taking my questions. Well, first on the Solvency II position
+and at the half year numbers, you gave us more guidance on your group capital zones.
+And well, from the positive development we've seen, you're now already close to your
+opportunity bucket in this capital zone. And I was wondering could you please remind us
+what this would mean if you would go above the 200% level and what we can expect
+there.
+Secondly, you had very impressive growth – deposit growth. Unfortunately, still the lapses
+from the Mercer account made that you come out with a net decline. I was wondering we
+know about the decline at the Mercer, but what's the absolute amount you still expect to
+lapse at the Mercer so that we can see some net growth going forward?
+And my final question relates to your decision to stop publishing quarterly results. I was
+wondering what's the reasoning behind that. And well, that's the question. Thank you.
+
+A - Matthew J. Rider
+
+{BIO 20002664 <GO>}
+
+With respect to the Solvency II position, yeah, the top end of the range is 200%. We're
+approaching that now. Technically, that puts us – if we get above that level, then it puts us
+into what we call the opportunity zone. Opportunity does not mean immediate
+deployment. So we will take the opportunities as they come and decide what we want to
+do with the excess capital once we get over that level.
+With respect to the gross deposits, yes, you're right in saying that it was a fantastic
+growth deposit quarter. But obviously on the net side, we lost about $13.6 billion in assets
+related to the Mercer outflows. We would expect something on that order to occur again
+in the fourth quarter. And then after that, it should be – that should be done.
+Now with respect to publishing semiannual results and moving away from quarterly
+results, I think basically all European insurers or most of them have recognized that this is
+an extremely long-term business, and certainly our investors and other stakeholders are
+long term in nature. So we think that we can do a better job in giving you more
+Page 15 of 25
+
+
+
+Company N ame: Aegon N V
+Company Ticker: AGN N A Equity
+Date: 2017-11-09
+
+substantive information on a semiannual basis, not have to deal with such quarterly
+fluctuations. And in the meantime, we can take the time that we will save to actually
+improve running the businesses. And I think that's an important thing going forward.
+
+Q - Bart Horsten
+
+{BIO 2390919 <GO>}
+
+FINAL
+
+So you will also (44:51).
+
+A - Alexander Rijn Wynaendts
+
+{BIO 1821092 <GO>}
+
+But it's for sure...
+
+Q - Bart Horsten
+
+{BIO 2390919 <GO>}
+
+Sorry.
+
+A - Alexander Rijn Wynaendts
+
+{BIO 1821092 <GO>}
+
+I just want to say it's for sure not the reasons that we don't enjoy having these calls. Matt,
+don't we?
+
+Q - Bart Horsten
+
+{BIO 2390919 <GO>}
+
+But you're also not planning to give trading updates on high-level developments in term
+of group solvency or other items?
+
+Bloomberg Transcript
+
+A - Alexander Rijn Wynaendts
+
+{BIO 1821092 <GO>}
+
+No. No.
+
+Q - Bart Horsten
+
+{BIO 2390919 <GO>}
+
+No. Okay. Thank you.
+
+Operator
+Thank you. Our next question comes from Arjan van Veen from UBS.
+
+Q - Arjan van Veen
+
+{BIO 5197778 <GO>}
+
+Thank you, gentlemen. Most of my questions have been answered. Just two follow-ups,
+firstly on cost savings. You highlighted you're halfway into that program, and you're
+confident in terms of achieving your target. I just wanted to just follow up in terms of how
+it's flowing through the P&L. I assume there's a bit of a lag, so just a bit of color around
+how it then flows through and how we should think about the underlying earnings with
+those things coming through.
+And the second question was on the U.S. tax reform. Given the proposals have now been
+put out, can you give us a bit of a color how that impacts your business, i.e., where are
+
+Page 16 of 25
+
+
+
+Company N ame: Aegon N V
+Company Ticker: AGN N A Equity
+Date: 2017-11-09
+
+your effective tax rates today, whether that improves, and also the impact on any
+deferred tax assets you may have on the balance sheet in the U.S. business. Thank you.
+
+FINAL
+
+A - Alexander Rijn Wynaendts
+
+{BIO 1821092 <GO>}
+
+Yeah. As I said, we are halfway what I think is a very ambitious cost reduction program,
+€170 million out of €350 million. We have also now – and we made good progress in
+defining and setting the plans for the remaining €180 million, of which of course a big part
+is in the U.S. As you know, we have €300 million of cost reductions for the U.S. What I can
+say on how they will flow through earnings is that we expect that the remaining part of the
+cost reduction, particularly those in the U.S., will, for a big part, flow back through earnings.
+So you'll see them coming through to earnings and that will support obviously not only
+earnings, but also our targets in terms of return on equity.
+Now, on the...
+
+Q - Arjan van Veen
+
+{BIO 5197778 <GO>}
+
+Is it fair to say that the amounts you've achieved today, they are not fully sort of flowing
+through? That's one of my questions.
+
+Bloomberg Transcript
+
+A - Alexander Rijn Wynaendts
+
+{BIO 1821092 <GO>}
+
+It's fair to say that the amount – I think it's fair to say that the amount that we have seen
+today is probably for flowing through earnings for around half of it. I think that's fair
+assessment. And then the remaining, as I said, we expect a bigger part, clearly a bigger
+part to flow through earnings. We'll provide you, obviously, with more updates when we
+come with plans and when we announce them also to the market, but as you can imagine,
+we got to deal with this first internally before we deal with that externally.
+
+Q - Arjan van Veen
+
+{BIO 5197778 <GO>}
+
+Yeah.
+
+A - Alexander Rijn Wynaendts
+
+{BIO 1821092 <GO>}
+
+In terms of taxes, unfortunately – I wish I could say more, and I also wish we would know
+more. It is a very fluid situation. Yes, there's been a headline proposal for a tax reduction
+in corporate tax rate, which. as I think we will all agree, is a positive. It's a positive for the
+economy, therefore it's a positive for our business. It's going to be meaning, less taxes on
+our earnings, less taxes on our cash flows. But what we're also seeing is that there's a lot
+of discussion back and forth about how these tax cuts are going to be financed, and to
+what extent the insurance industry is going to be impacted from that. It's way too early
+now to give you any impression. It is a very fluid situation, which we're following very
+closely.
+I can also say that not only are we following very closely, but the CEO of our U.S. business,
+Mark Mullin, is the Chairman of ACLI, so he's directly involved. It is important for us as it is
+important for the whole sector, but with the situation right now, there's absolutely nothing
+more we can say other than that lower corporate tax is a positive, and we need to make
+Page 17 of 25
+
+
+
+Company N ame: Aegon N V
+Company Ticker: AGN N A Equity
+Date: 2017-11-09
+
+sure that the way that it gets financed is not going to impact our industry. That's really
+where we are today.
+
+Q - Arjan van Veen
+
+{BIO 5197778 <GO>}
+
+FINAL
+
+Is it possible to give us some indication where the effective tax rate is because just
+looking historically it does bounce around a bit from the U.S. business?
+
+A - Alexander Rijn Wynaendts
+
+{BIO 1821092 <GO>}
+
+Yeah. I think that's a good point. The effective tax rate effectively is 27%. So, what you see
+in many cases when taxes are coming down, and by the way, the same applies to the
+Netherlands, they take the headline number down, but they take away deductions. So,
+ultimately, it's very important to see what all the rules are and exactly how they get
+applied to understand what the impact is because even from 35% to 27%, as you see,
+there is already quite a big gap because we are running now at 27% roughly.
+
+Q - Arjan van Veen
+
+{BIO 5197778 <GO>}
+
+Yeah. Fair point. Thank you, Alex.
+
+Operator
+Thank you. Our next question comes from Gordon Aitken from RBC. Please go ahead.
+
+Bloomberg Transcript
+
+Q - Gordon Aitken
+
+{BIO 3846728 <GO>}
+
+Yeah. Thanks very much. Three questions, please. First, on the UK platform business. I
+mean these flows are good and the annuity assets are now in excess of £110 billion. But
+pension's earnings were just £8 million in the quarter. Is this the run rate or whether oneoff effect in that number?
+And second question on the Dutch market, and obviously you've been looking at
+assumptions. But can you talk a bit about mortality assumptions you're using and is there
+potential gains to come there still from moving to a new table due to the slowdown in life
+expectancy improvements that we've seen in the last few years?
+And the final question is on the Dutch and defined benefit pensions book. It's obviously a
+spread business and you've been talking about you move away from spread. And what
+proportion of the Dutch reserves at the moment are spread or defined benefit? And
+could you offload that book and would you want to offload that book? Thank you.
+
+A - Alexander Rijn Wynaendts
+
+{BIO 1821092 <GO>}
+
+Yeah. On the platform, Gordon, yes, we are making, I think, really good progress with the
+platform in terms of getting close. Equally importantly, we're also making good progress
+of moving our Cofunds customers onto our platform. As you can imagine, that is kind of a
+big exercise. I think it's important that you look at close into the platform in a positive
+sense, but also looking at the fact that we've seen outflows being very limited. Actually,
+where – on the Mercer deal, we were expecting outflows and anticipated them. We see in
+Page 18 of 25
+
+
+
+Company N ame: Aegon N V
+Company Ticker: AGN N A Equity
+Date: 2017-11-09
+
+FINAL
+
+the Mercer deal more outflows than we are anticipating. Here, with Cofunds, it's been the
+other way around. I think the customers (51:03) the customers are very pleased with what
+they're getting from us, from Aegon. We are definitely seeing less outflows.
+Yeah, in term of the splits between what is, we call, pension and life, I'll refer you back to
+IR (51:17), but I think that you can say that the earnings, which we have shown in the third
+quarter, are a pretty good indicator of what we would expect the run rate going forward.
+But you should also take into account that we also announced that the integration of
+Cofunds on to our platform is going to yield additional cost savings.
+So, the run rate will start increasing when these cost savings all are being realized over
+the course of 2018. And the amount, which we put in the presentation when we did the
+acquisition of Cofunds, shared with you, was around £60 million and we're still committed
+to deliver on that £60 million.
+On UK, yes, I think you were talking about improvements in mortality, people living this
+long. That is in particular a positive impact for annuity business rather than it has an impact
+on business we have, because, as you know, we have actually disposed of our annuity
+business. By the way...
+
+Q - Gordon Aitken
+
+{BIO 3846728 <GO>}
+
+No, the question was about the Dutch market.
+
+Bloomberg Transcript
+
+A - Alexander Rijn Wynaendts
+
+{BIO 1821092 <GO>}
+
+Oh, the Dutch market, in the Netherlands?
+
+Q - Gordon Aitken
+
+{BIO 3846728 <GO>}
+
+Yes.
+
+A - Alexander Rijn Wynaendts
+
+{BIO 1821092 <GO>}
+
+So, in the Netherlands, we've seen improvement. I think what we see is too early now to
+say there is a reversal of a trend. Yes, we have seen an improvement. We had apparently
+some colder winters. We had more flu than usual. I mean, this is the kind of explanations
+I'm getting and these explanations are in my view too early to say there's a reversal of a
+trend. But it's clear that we have, indeed, effectively had benefit from, call it, improved
+longevity. In other words, people living a little bit less longer than we were anticipated. But
+I would caution really on trying to get a sense that this is a longer-term trend. It's too early
+to say that. In any case, we have build up the right reserves.
+And I think your final question was about where is earnings coming? In the Netherlands,
+the biggest part of earnings is, indeed, still coming from our defined benefit books. That
+is by far the biggest part. We are seeing there the positive impact of what you just
+mentioned, some improvement indeed in the longevity, people living less longer.
+
+Page 19 of 25
+
+
+
+Bloomberg Transcript
+
+FINAL
+
+Company N ame: Aegon N V
+Company Ticker: AGN N A Equity
+Date: 2017-11-09
+
+We have a significant book that is going to run off over time and actually, we haven't had
+many new customers and buyouts on our book, particularly with very low interest rates
+makes it very challenging to make that an attractive proposition, but I also like to point
+that, for us, it's important to not only have this book that is a very positive book that's
+running off, it's that we are building the capabilities for the future and that is our defined
+contribution business. You'll hear more about that when you get the presentation.
+Hopefully you'll be here in The Hague to hear from my Dutch colleagues. The DC
+business, the hybrid Stap, we talked about that earlier where we provide the
+administration for smaller pension funds, again, a fee business.
+So, we are really moving, trying to not only protect the spread business, which we have
+built over the time, but very – also much focus on building the fee business in the pension
+business, which we believe is going to be the future, in particular, was mentioned earlier,
+with the Dutch government, we have a new Dutch government that has announced a
+number of steps in changing the pension world from what we would call average
+premiums in the pensions toward individual premiums.
+They have also now agreed that individuals can set up an individual pension products,
+which will be managed individually, very much in line what you see in the UK. So, this clearly
+is a trend of accelerating now and the government has taken steps that will make you
+accelerate even further the shift towards DC from DB, but also the individualization,
+meaning that people will have themselves take more responsibility. They will have to take,
+first of all, make choices. They will have to be educated and they will have to take
+decisions as to how they will manage the pension products and in particular how they will
+do the drawdowns. That is really the sweet spot of our strategy here in the Netherlands,
+but again, as I said earlier, I hope you will be here in The Hague to hear from them.
+
+Q - Gordon Aitken
+
+{BIO 3846728 <GO>}
+
+I mean just to follow up on that. I mean, you sold your spread business in the UK. I mean,
+there was buyers for that business and more than one. I mean, would you sell your spread
+business in the Dutch market? Is it because there's no buyers or is there another reason
+you like that business?
+
+A - Alexander Rijn Wynaendts
+
+{BIO 1821092 <GO>}
+
+Well, I would say that in the UK, we were pleased to sell our annuity business, spread
+business. We were pleased also with the price we got for it. I would say there are buyers,
+but I think that the universe as buyers is probably smaller than everybody believes it is.
+And, therefore, seeing in the Netherlands at this point in time, we have not really seen
+buyers in this universe. And again, we're always looking at the best way of allocating our
+capital. If there would be options effectively to offload some of it and create capital
+synergies, we should reconsider that, but I can tell you at this point in time, I have not
+seen anything viable that we should be looking at.
+Not surprised, because effectively in our pension business, you get underwriting risk, you
+get market risk and we took about quite significant exposures, which we haven't seen in
+any other place at this point in time being interested (56:34).
+
+Page 20 of 25
+
+
+
+Company N ame: Aegon N V
+Company Ticker: AGN N A Equity
+Date: 2017-11-09
+
+Q - Gordon Aitken
+
+{BIO 3846728 <GO>}
+
+Great. Thank you.
+
+A - Alexander Rijn Wynaendts
+
+{BIO 1821092 <GO>}
+
+FINAL
+
+Thanks.
+
+Operator
+Thank you. Our next question today comes from Andy Hughes, Macquarie. Please go
+ahead.
+
+Q - Andy Hughes
+
+{BIO 15036395 <GO>}
+
+Hi. Thanks very much. On the €2.1 billion by the end of 2018, I think that's more than €900
+million supposed to return to (56:56) shareholders. I'm just wondering, does that mean
+you're expecting €900 million to be upstreamed to the holding company between now
+and the end of 2018?
+
+Bloomberg Transcript
+
+And given the way in which the operating earnings appears to be developing, are you sort
+of thinking more about increasing the kind of base dividend level as a way of returning
+that or is it going to be mainly through some sort of capital return? And then, are you
+planning further disposals to get to that or does that come in entirely organic?
+And I think the final question is, on the half year, you obviously put in the higher cash flow
+target for 2018. Looking at particularly the market movements and increase in fee income,
+which should be recurring I guess, depending where some of the (57:45) markets going
+forward, is it fair to say that you are ahead of where you thought you would be on that
+target so far? Thank you.
+
+A - Alexander Rijn Wynaendts
+
+{BIO 1821092 <GO>}
+
+So, Andy, thanks for your question. The €2.1 billion is a commitment and a target we have
+set. We will take our dividend in – I would say, the final dividend in 2017 entering for (58:13)
+2018 to the level that is required to bring it to the €2.1 billion. I think it is very easy to
+calculate it back. That is very much supported by flows, which we are getting from our
+business units. Because you know in the U.S., we have a capital generation of $1 billion, of
+which 90% has been upstreamed and with an excellent record for which we are very
+pleased.
+The Netherlands, we've also guided you on our dividend. We've mentioned there would
+be €100 million interim dividend, the first half of 2018. The UK now that we have
+addressed, I would say, the sale of the annuity book, and we are integrating Cofunds with
+our platform, we expect actually, with the level of solvency, which we are at and I guided
+you to the 200% level to effectively upstream most, if not all, of the cash that's being
+generated. So, there's around £100 million as you know. And for the rest, we've been
+quite consistent of upstreaming dividends from asset management of around £100
+million (59:15). The rest of Europe has been around €5 million (59:18).
+
+Page 21 of 25
+
+
+
+Company N ame: Aegon N V
+Company Ticker: AGN N A Equity
+Date: 2017-11-09
+
+FINAL
+
+And in Asia, while we used to be consuming capital at the tune of €100 million (59:23) a
+year, we actually had a one-off dividend and we are now capital generative. So, if you add
+it all up, you, I think, will see very easily that the flows that we are expecting from our units
+will more than cover what is needed for the dividend and will also actually increase the
+buffer we have at the holding, and therefore, increase the flexibility we have.
+Now, we have given you an indication of our cash flow targets for 2018. These are
+supported, as you rightly point out, by good market conditions, more fees, but also, are
+supported by the management actions we're taking to take our expenses down, because
+they will not only flow on earnings, but they will, of course, also flow into the capital
+generation. But I think it's now about delivering on 2018. And yes, I hope we can over
+deliver. Thank you.
+
+Q - Andy Hughes
+
+{BIO 15036395 <GO>}
+
+Okay. Thanks so much.
+
+Operator
+Thank you. Our next question comes from Robin van den Broek from Mediobanca. Please
+go ahead.
+
+Bloomberg Transcript
+
+Q - Robin van den Broek
+
+{BIO 17002948 <GO>}
+
+Yes. Good morning, gentlemen. We just like to circle back to the tax reform in the U.S.,
+because you've mentioned an effective tax rate of 27%. But I think for your required
+capital, you're using a 35% tax rate. And I would say that also assuming the DTA write-offs
+that's connected to a potential tax cut, you could see a hit to your RBC ratio between 75
+and 100 percentage points, which is also consistent with what two peers in the U.S. have
+indicated as a potential hit. So, the number you recognize (01:01:01) first of all.
+And secondly, do you think the NAIC will provide any tools to navigate through this
+potential hit for the industry?
+And thirdly, what could the Dutch Central Bank do? You've just been through a process
+where the calibration of the RBC ratio basically has been changed. I was wondering how
+did that process exactly look like and how difficult was it to get approval for Dutch Central
+Bank to revise that?
+And how does all of these feed into your – you're close to your opportunity buckets of
+200%, is there any buffer you want to keep with regard to this potential capital distortion
+coming from the U.S.? Thank you.
+
+A - Alexander Rijn Wynaendts
+
+{BIO 1821092 <GO>}
+
+I think maybe the first point is a tax bill does not a law make (01:02:01). So, we are still
+early stages here with respect to even looking at what the proposed bill might be, how
+that is going to be treated. So, you mentioned quite a number of effective tax rates and
+
+Page 22 of 25
+
+
+
+Company N ame: Aegon N V
+Company Ticker: AGN N A Equity
+Date: 2017-11-09
+
+DTA write-offs and implications for the RBC ratio, but I think it's a bit too early to comment
+on that kind of thing.
+
+FINAL
+
+One thing I would say, and we've commented on this before, that if there was a change
+to the DTAs and in fact, RBC ratios came down, I think the first reaction would be – in the
+U.S. life industry would be sort of a rebasing of what is acceptable capital for U.S. life
+insurance companies. So, that would be the first point.
+The NAIC ultimately may make changes to required capital in response to that, but again
+that's sort of a second-order effect and we wouldn't comment on it. At this point, we
+don't think that there would be any – we're not holding any extra buffers for tax reform
+changes nor would we expect to see any changes in dividend repatriations from the U.S.
+or what we give to our shareholders.
+In terms of the calibration that we did with DNB, I think that what we had shown at the
+time was that we basically looked at European peers and how their conversion was
+coming in the Solvency II. And they were quite interested and understanding how other
+European regulators were treating it. So, we did a kind of a balanced approach. The idea
+was level playing field.
+
+Bloomberg Transcript
+
+Now, one thing we did agree with them is to the extent that there are substantial changes
+to, let's say, the structure of U.S. risk-based capital, then we would go back and then we
+would re-discuss what the appropriate effect on our own conversion would be. And I think
+that should be about it. Thanks.
+
+Q - Robin van den Broek
+
+{BIO 17002948 <GO>}
+
+Okay. Thank you for that commentary.
+
+Operator
+Thank you. Our final question today comes from Ashik Musaddi from JPMorgan.
+
+Q - Ashik Musaddi
+
+{BIO 15847584 <GO>}
+
+Yeah. Hi. Good morning, Alex. Good morning, Matt. Just couple of questions I have. One
+is, I mean, it looks like your solvency ratio is 195% on the top end of the range. So, would
+you say that the capital debate is now more or less over and if couple of quarters you can
+stay there, this would not become an issue at least in your internal discussions, et cetera,
+so we move away from capital debate. Will that be a fair expectation?
+Second thing is can you just remind us about capital generation and how much will that
+capital generation covert into cash? I mean, the numbers keep on changing, so just a
+reminder would be great as to what is the conversion from that.
+And thirdly, can you give us some color about what is your hedging policy at the moment
+for the Dutch business? I remember you had Solvency II ratio-based hedging rather than
+
+Page 23 of 25
+
+
+
+Company N ame: Aegon N V
+Company Ticker: AGN N A Equity
+Date: 2017-11-09
+
+cash flow hedging. So, if you can remind on that, the only thing I'm trying to look for is if
+interest rates were to rise here in Europe, will that feed through in your capital benefit or
+not, i.e. if your Solvency II based hedge rising interest rate is a very good news? So, any
+color on these three questions would be great. Thank you.
+
+FINAL
+
+A - Alexander Rijn Wynaendts
+
+{BIO 1821092 <GO>}
+
+Ashik, I think that you say it rightly. The capital debate is over. With 190% in the
+Netherlands, the capital debate is certainly over and behind us. This was our objective in
+Q2. I think we wanted to make that very clear. Matt and I, to the regulator, to all our
+stakeholders internally, externally, including you of course saying that discussion on the
+capital is a distraction from where we need to focus our efforts in growing our business
+and serving our customers. So, to me, the debate is over and I also expect it to remain
+over for the foreseeable future.
+
+Bloomberg Transcript
+
+Now, on capital generation, I thought I had just expressed it earlier is you're well aware of
+the numbers, I'll repeat it very quickly then if you want. We said $1 billion capital generation
+in dollars from the U.S., $900 million upstream. From the Netherlands, we've mentioned
+€100 million interim dividend. The UK we said the cash flow of around €100 million should
+be entirely (01:06:19) tangible, and therefore, sent to the holding.
+And the other asset management and rest of Europe are unchanged at effectively
+dividends in holding of respectively €150 million. And the difference being that we are not
+anymore expecting to put amounts of capital in our Asian business, where the minus €100
+million a year, which as you know, we had kind of indicated a year ago, has turned into a
+slight positive actually as a result of the management actions we are taking. So, I think that
+picture hopefully is clear.
+Now, in terms of hedging, you're right, we do hedge our capital position in the
+Netherlands interest rate from a Solvency II point of view, but you never hedge all the
+impacts. The secondary order (01:07:06) impacts that you don't hedge, there is the risk
+margin that you don't hedge. So, the answer is that when rates, and hopefully rates will
+start moving up in Europe, you will see a very clear benefit in both our capital generation
+and in the level of capital.
+Capital generation becomes a drag in relation to the UFR is going to reduce and the
+Solvency II capital, because we are not entirely hedged on the Solvency II base, but we
+only hedge our capital. And therefore, big parts are not hedged. It will also mean that
+there is a positive sensitivity to interest rates. So, let's hope for these interest rates to
+move up.
+
+Q - Ashik Musaddi
+
+{BIO 15847584 <GO>}
+
+That's very clear. Thanks a lot, Alex, and well done today.
+
+A - Alexander Rijn Wynaendts
+
+{BIO 1821092 <GO>}
+
+Thank you. This was the last question. Thank you for, again, your interest in the company. I
+really hope to see you next time in our offices here in The Hague when we'll have the
+Page 24 of 25
+
+
+
+Company N ame: Aegon N V
+Company Ticker: AGN N A Equity
+Date: 2017-11-09
+
+Dutch management, because I can tell you that there's very exciting story to tell about the
+opportunities we have here in the Dutch business, the pension business and the steps we
+are taking here to really also work on innovation. That's going to be big part of the
+presentation.
+
+FINAL
+
+So, I look forward to seeing you there in The Hague and take care for today.
+
+Operator
+Thank you. That will conclude today's conference call. Thank you for your participation. You
+may now disconnect.
+
+Bloomberg Transcript
+
+This transcript may not be 100 percent accurate and may contain misspellings and other
+inaccuracies. This transcript is provided "as is", without express or implied warranties of
+any kind. Bloomberg retains all rights to this transcript and provides it solely for your
+personal, non-commercial use. Bloomberg, its suppliers and third-party agents shall
+have no liability for errors in this transcript or for lost profits, losses, or direct, indirect,
+incidental, consequential, special or punitive damages in connection with the
+furnishing, performance or use of such transcript. Neither the information nor any
+opinion expressed in this transcript constitutes a solicitation of the purchase or sale of
+securities or commodities. Any opinion expressed in the transcript does not necessarily
+reflect the views of Bloomberg LP. © COPYRIGHT 2022, BLOOMBERG LP. All rights
+reserved. Any reproduction, redistribution or retransmission is expressly prohibited.
+
+Page 25 of 25
+
+

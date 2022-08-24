@@ -1,0 +1,1043 @@
+Company N ame: Swiss Re AG
+Company Ticker: SREN SW Equity
+Date: 2020-04-30
+
+Q1 2020 Earnings Call
+Company Participants
+FINAL
+
+Edi Schmid, Chief Underwriting Officer
+Guido Furer, Group Chief Investment Officer
+John Dacey, Chief Financial Officer
+Philippe Brahin, Head Investor Relations
+
+Other Participants
+Andrew Ritchie , Analyst
+Ivan Bokhmat, Analyst
+Jonny Urwin, Analyst
+Paris Hadjiantonis , Analyst
+Thomas Fossard, Analyst
+Vikram Gandhi, Analyst
+Vinit Malhotra, Analyst
+
+Bloomberg Transcript
+
+Presentation
+Operator
+Good morning or good afternoon. Welcome to Swiss Re's first quarter 2020 key financial
+data conference call. Please note that today's conference call is being recorded. At this
+time, I would like to turn the conference over to John Dacey, CFO. Please go ahead, sir.
+
+John Dacey
+
+{BIO 4437051 <GO>}
+
+Thank you and good morning or good afternoon to everyone. I'm here today with Eri
+Schmid, our Chief Underwriting Officer and Guido Furer, our Chief Investment Officer, who
+will provide some insights on the impact of COVID-19 on our underwriting and asset
+management operations. Also in the room is Philip Ryan, our Head of Investor Relations
+I'd like to start with a brief overview of the key figures we published this morning. Swiss Re
+entered the pandemic crisis in a very strong capital position. We also took proactive
+measures to protect our investment portfolio and the balance sheet in particular and
+Guido will tell you more about it. On the operational side, we were able to support our
+clients and partners without disruptions and our activities remain resilient in the current
+environment, as the quality of our April renewals testifies.
+Nonetheless, COVID-19 related claims weighed on our results. We reported net losses of
+225 million for the first quarter of 2020. P&C Reinsurance reported a net income of 61
+Page 1 of 17
+
+
+
+Company N ame: Swiss Re AG
+Company Ticker: SREN SW Equity
+Date: 2020-04-30
+
+Bloomberg Transcript
+
+FINAL
+
+million despite the losses related to COVID-19. The business segment was also affected
+by large natural catastrophes, slightly above our expected losses, mainly related to the
+weather events in Australia and winter storms in Europe. We also experienced some
+negative prior year development which somewhat unusually was driven more by premium
+true-ups than reserve additions.
+Excluding, the burden from COVID-19, P&C Re's normalized combined ratio is in line with
+our 97% estimate for the year. Life & Health Reinsurance delivered above its target ROE,
+reflecting strong underwriting and investment results with no material underwriting impact
+in the quarter from COVID-19. Corporate Solutions reported a net loss of 171 million,
+impacted by losses related to COVID-19. Excluding those losses, the combined ratio was
+13 percentage points better than one year ago and the normalized combined ratio is
+broadly in line with our 105 estimate for the full year. Life Capital results was impacted by
+the mark-to-market on our implied holding in Phoenix, partly offset by a hedge on the UK
+equity markets.
+The underlying business performed broadly as expected. The agreed sale of ReAssure
+remains on track and it is expected to close in the third quarter of 2020. The Group
+reported a strong return on investment of 3.2% for the first three months of 2020 as an
+active portfolio management and hedging significantly offset the impact of financial
+market volatility on the asset portfolio. As for the April reinsurance renewals, we are
+pleased with the outcome achieved. We saw overall volume growth of 4%, while nominal
+prices increased by 8%, with a strong increase on Japan windstorm of more than 50%.
+Risk-adjusted price quality year-to-date remained unchanged, reflecting the lower interest
+rate environment we are in and material adjustments to loss assumptions, particularly with
+respect to certain nat cat exposures.
+Moving onto the balance sheets, Swiss Re maintains its industry-leading capital position
+with the Group's Swiss Solvency Test ratio comfortably above 200% as of the 31st of
+March. As confirmed following our AGM on the 17th of April, and in light of the current
+volatility in financial markets and global economic situations, the Board of Directors has
+concluded that the share buyback program will not be launched. We will continue to
+manage our assets in our capital with utmost foresight allowing us to continue to support
+the clients and preserve value for shareholders in these difficult times.
+And with this, I turn it over to Edi.
+
+Edi Schmid
+
+{BIO 18942809 <GO>}
+
+Thank you, John, and good morning and good afternoon from my side. As John already
+mentioned, our Q1 results were impacted by $476 million of COVID-19 claims. Of these,
+$253 million were in P&C Reinsurance and $223 million in Corporate Solutions. These
+reflects claims notifications as well as evidence of expected claims materialized as of end
+of March. Close to 75% of the reinsurance loss and over 80% of the Corporate Solutions
+loss relates to event cancellation, with the remainder mostly coming from business
+interruption and smaller amounts from other lines including credit and surety.
+
+Page 2 of 17
+
+
+
+Company N ame: Swiss Re AG
+Company Ticker: SREN SW Equity
+Date: 2020-04-30
+
+FINAL
+
+As previously communicated, our total maximum exposure to event cancellation across
+2020 is a mid-to high triple digit million amount. This is due toward the first half of the
+year in terms of events covered, which means, you would expect to book most of the
+losses in the first two quarters. On credit and surety, we would expect further losses as
+the recession impact of the crisis becomes more visible in various economies. Economic
+development remains highly uncertain, depending, for example, on the effectiveness of
+substantial government interventions.
+P&C Re has a 10% market share in credit and surety, and Corporate Solutions less than
+3% of the overall primary market, both with a high global diversification across the range
+of industries. Business interruption remains the most debated area of impact in the
+context of the COVID-19 crisis. We reiterate that most property policies require a physical
+trigger and among those that offer coverage for non-damage business interruption, not
+all would cover pandemic.
+
+Bloomberg Transcript
+
+In a number of markets, insurance had provided non-damage business interruption
+expansions that cover pandemic. However, which despite generally tied supplements,
+could add up to a material loss burden. We are monitoring the regulatory and legislative
+initiatives very closely. We echoed deep concerns voiced by a number of our clients,
+peers, and insurance regulators on the danger of potential retrospective changes to
+insurance contract wording.
+Moving onto Life & Health Re, we had so far not seen a net impact on our business from
+increased mortality. For instance, mortality experience in the US is in line with our
+expectations in the first quarter. We continue to monitor the trends here very closely,
+including any changes in lapse behavior and possible increases in disability claims. I would
+mention that a 5% mortality increase in insured mortality over a one year period would
+imply additional claims of approximately $400 million for Reinsurance and USD15 million
+for Life Capital. The current scale of the impact of COVID on our book is still far from such
+a scenario.
+A word on our 1-in-200 year pandemic stress. We previously disclosed excess mortality
+numbers this figure assumes in key countries, for instance, 200,000 in the US. Globally,
+our scenario assumes 14.5 million excess deaths. It should be noted, however, that this
+scenario is based on an influenza pandemic, which assumes a very different age fatality
+profile to COVID-19. The current virus disproportionally affects all the demographics with
+an average age of above 80 for fatalities, while 90% of our Life & Health Re portfolio
+covers individuals aged 60 or below.
+Overall, there are still a number of key unknowns when it comes to assessing the ultimate
+potential impact of COVID-19 on our underwriting portfolio in 2020, the main ones being
+the severity and duration of the economic downturn as well as the outcome of litigation
+and legislative initiatives around coverage for business interruption. However, we believe
+that the impact will be manageable and will represent an earnings event rather than a
+capital event for Swiss Re.
+With that, let me hand over to Guido.
+
+Page 3 of 17
+
+
+
+Company N ame: Swiss Re AG
+Company Ticker: SREN SW Equity
+Date: 2020-04-30
+
+FINAL
+
+Guido Furer
+Thank you, Edi, and good morning or good afternoon also from my side. Q1 saw
+significant COVID-related market turbulences across basically all asset classes. We
+experienced falling equity markets. We saw basically two out of the five biggest daily falls
+in Q1, but those were confronted to this widening credit spreads and bond deals which
+were folding, all of which are damaging for insurance and reinsurers. However, as John
+mentioned, we put in place significant hedges in the early part of the quarter in
+anticipation of elevated volatility. These hedges helped us to mitigate negative impacts
+and led the gains of roughly $650 million in the first quarter, split evenly across equity and
+credit.
+Ultimately, we experienced a net valuation loss of approximately $300 million in the first
+quarter. Overall, we report an annualized return on investment for the quarter of 3.2%,
+which would have been only 0.5% if you would exclude the benefit of the hedges. In
+addition, we had a $80 million benefit on hedges for the UK equity market, which partly
+offset the negative impact of the Phoenix share price moving in our Life Capital result. As
+Reinsurance is classified as held for sale, its investment portfolio is excluded from the
+return on investment calculation. These hedges remain in place for the time being and we
+continue to manage them dynamically as the situation evolves, while retaining our
+cautious outlook.
+
+Bloomberg Transcript
+
+During the last few quarters, we carefully reviewed our investment portfolio for issuers
+and sectors particularly sensitive to the ongoing crisis, resulting in a targeted reduction of
+credit exposures. This lead to small realized losses on energy, special finance, travel, and
+leisure bonds, as examples.
+Our ESG investment approach also contributed to the protective and high quality of our
+credit positioning. The Group's impairment result was a modest $16 million in the quarter,
+reflecting the high quality of our credit portfolio. Given the downward trend in interest
+rates, our Group running yields declined to 2.5% from 2.8% at the end of 2019.
+With that, I hand over to Philippe who will take us through the Q&A.
+
+Philippe Brahin
+
+{BIO 19081619 <GO>}
+
+Thank you, Guido. And good day to all of you also from my side. So, as usual, before we
+start our Q&A, I would like to remind you to please restrict yourselves to two questions
+and register again if you have follow-up questions.
+So with that, operator, could we please take the first question?
+
+Questions And Answers
+Operator
+The first question comes from the line from Ivan Bokhmat from Barclays. Please go ahead.
+Page 4 of 17
+
+
+
+Company N ame: Swiss Re AG
+Company Ticker: SREN SW Equity
+Date: 2020-04-30
+
+FINAL
+
+Q - Ivan Bokhmat
+
+{BIO 15378004 <GO>}
+
+Hi, good morning. Thank you for letting me ask questions, I've got two. The first one is on
+your top line. Could you give us some big picture thoughts on how dependent it is on the
+economic activity and where do you see the biggest risks stemming from this downturn?
+And the second question, it's just relating to your SST ratio and capital sensitivities. Given
+the hedges that had been put in place, could you give us an update of how the
+sensitivities may have changed and where should we expect the biggest reduction?
+Thank you.
+
+A - Guido Furer
+Maybe Edi, you take the first one, and John, the second one.
+
+A - Edi Schmid
+
+{BIO 18942809 <GO>}
+
+Yeah, happy to comment a bit on the top line. And again, as for many other questions, it is
+still early days to come up with views. What is clear, as with the economic downturn, the
+lock-down in a number of lines of business, you would expect premium volumes to go
+down. If you think about motor lines, if you think about workers comp lines or related to
+the payroll, you would think about some of the sales in the Life business. So clearly there
+is expected to be an impact on the top line, but we would still expect insurance industry
+to not be as impacted as, let's say, GDP overall. So quite an impact, but not as material for
+economies overall and quite dependent on the respective lines of business and
+segments.
+
+Bloomberg Transcript
+
+A - John Dacey
+
+{BIO 4437051 <GO>}
+
+Edi, I might add that in the context of what will be some clear losses coming on both sides
+of the balance sheet for many of our reinsurance clients, one could imagine, in the second
+half of the year and into 2019, an actual increased demand for reinsurance by those
+primary companies as they look to manage their own balance sheets and reduce
+potentially volatility of some of those earnings. So I think for well capitalized groups like
+Swiss Re, you could imagine the situation where the volatility in the marketplace actually
+creates increased demand for some of our capabilities and products in reinsurance.
+With respect to the hedges and sensitivities, we've distributed also recently the sort of
+baseline that, as you correctly point out, does not include the hedges. What I would say is
+that we don't expect these hedges to stay on forever. In fact, as Guido said, we'll look
+dynamically to understand when we can withdraw them when we feel that the economic
+conditions in the various markets have stabilized and/or likely to move forward in a
+sustainable positive direction. As such, we've not provided additional sensitivities just
+because they would be temporal in nature and it would be potentially misleading to put
+them out there.
+What I can say is, the moment we have protected the downside for equity values
+substantially, the credit hedges are more partial in the coverage and there is undoubtedly
+some basis risks between the portfolio we have and the liquid hedges that we were able
+to find reasonable volumes and prices for. On interest rates, generally I think we remain
+somewhat exposed with some modest adjustments to those sensitivities. But I think,
+Page 5 of 17
+
+
+
+Company N ame: Swiss Re AG
+Company Ticker: SREN SW Equity
+Date: 2020-04-30
+
+overall, we can say those sensitivities, as we published, are the outer bound of what you
+should expect over the next quarters. And depending on Guido's actions, we'll either
+come closer to them or stay much more conservative based on our view of the financial
+market volatilities.
+
+FINAL
+
+A - Philippe Brahin
+
+{BIO 19081619 <GO>}
+
+Thanks, Ivan, for your questions. Can we take the next question, please.
+
+Operator
+The next question comes from Andrew Ritchie from Autonomous. Please go ahead.
+
+Q - Andrew Ritchie
+
+{BIO 18731996 <GO>}
+
+Hi, there. Could I just ask to get a bit more color on the prior year effect in P&C Re? I'm a
+bit confused why -- just to go through again the premium adjustments and exactly what
+that is adjusting, it's clearly not adjusting exposure. And you're saying all of the prior year
+was related to that or what else was the factor? And then I guess the other question. Do
+you expect -- I mean, John, you mentioned we could see increased demand and there's
+evidence of that already. I guess, a question for Edi. Do you expect mid-year renewals to
+already be affected by what's occurring in terms of slightly less capacity in the market and
+also increased demand? Thanks.
+
+Bloomberg Transcript
+
+A - Edi Schmid
+
+{BIO 18942809 <GO>}
+
+So on the first one regarding the PYD, so for this quarter, indeed there was a bit more
+development on the premium line. I will also comment on the claims line later. But what
+happened a bit more than in other quarters that the premiums that are coming through
+are not in line with our earlier assumptions. It's coming actually not from one specific part
+of the business. It's across markets, across lines of business, mainly from proportional
+contracts where we, in the end, rely on our cedents and therefore costs. And at this time,
+these forecasts tended to be on the optimistic side. So that explains why a bit more than
+normal, we had a more significant movement on the premium line.
+There was also some slight negative development on the claims line, but very moderate.
+There were some pluses and minuses. We had some negative on UK motor and there
+was also some negative from US liability. We had a couple of cedents that were catching
+up with their reporting on claims. But overall, it was quite a moderate quarter in terms of
+PYD. And I would also point out that on the Corporate Solutions side. In Q1, the prior-year
+development was actually slightly positive, which is good news that the decisive reserving
+actions we took end of last year seemed to be holding up.
+And the second one, Andrew, was around impacts on pricing already for the mid-year
+renewables. I'm also a bit cautious on speculating on prices. But clearly if you look at the
+industry overall already, we have started to see significant price momentum, as you know,
+in the commercial markets and more and more now also on the reinsurance side in areas
+where it was less affected. We had very successful renewals in Japan as John pointed out,
+where we could achieve substantial premium increases.
+Page 6 of 17
+
+
+
+Company N ame: Swiss Re AG
+Company Ticker: SREN SW Equity
+Date: 2020-04-30
+
+FINAL
+
+So I think with the impacts likely on the capital position on some primary companies with a
+bit more avoidance of risk in general, clearly the demand is expected to go up while the
+fee effect in the markets would impact supply on the other hand. So I would say it's quite
+likely outlook that we see further price strengthening. We can also look just at the recent
+development in the ILS markets, the alternate capital markets where also spreads were
+widening a bit, so everything points in this direction, but it's too early to tell to what
+extent. But clearly, supply/demand equilibrium is shifting.
+
+A - John Dacey
+
+{BIO 4437051 <GO>}
+
+Maybe just one clarification on the first part. As Edi mentioned on premiums, there is no
+direct link to COVID-19 to this premium adjustment. I think most quarters we've got some
+movements, it just so happened in this first quarter of 2020 that there was an unusually
+mix of relatively large premium adjustments compared to the size of the claims
+adjustment that netted through.
+
+A - Philippe Brahin
+
+{BIO 19081619 <GO>}
+
+Thanks, Andrew. Thanks for your questions. Can we have the next question, please.
+
+Operator
+(Operator Instructions) The next question comes from Paris Hadjiantonis from Exane BNP
+Paribas. Please go ahead.
+
+Bloomberg Transcript
+
+Q - Paris Hadjiantonis
+
+{BIO 19703051 <GO>}
+
+Yes, hi, everyone. I hope you are doing well. Two questions from my side. The first one will
+be on nat cat. So basically if I look at your nat cat premiums; these are up about 6% this
+year, obviously driven by pricing and your budget is also slightly up about less under 6%.
+So I'm just wondering, are you actually increasing your nat exposures or are you passing
+most of the additional catastrophe risk that you are underwriting over to ACP or external
+retro? Then on COVID-19, I mean, we know that giving precise estimates at this point in
+time is probably too difficult. But I was wondering if there are any developments or maybe
+exposures that cause concerns especially from a risk management perspective? Thank
+you.
+
+A - Philippe Brahin
+
+{BIO 19081619 <GO>}
+
+Edi, back to you, again.
+
+A - Edi Schmid
+
+{BIO 18942809 <GO>}
+
+Yeah. Thanks, Paris, for the questions. On the first one, regarding our nat cat account, this
+is correct. If we just measure the nat calculated premium in P&C Re, that's up about 6%
+last year versus this year. That's in line with the strategy. We also explained last year at the
+Investors Day that we look at nat cat as an attractive pool. However, we have good client
+franchise and also the risk knowledge to underwrite this business in a good way. But also,
+back then, we said that our goal is to use our franchise and our risk knowledge to do
+underwrites. But also we want our nat cat portfolio rather to be more diversified.
+Page 7 of 17
+
+
+
+Company N ame: Swiss Re AG
+Company Ticker: SREN SW Equity
+Date: 2020-04-30
+
+FINAL
+
+So when it comes to the concentration peaks like hurricane, we started to actually share
+more of the business with alternative capital partners. And that, in the end, you already
+gave a bit of the answer, explains why the budget is only going up by some 3% which
+actually means that we see the bit more out to our alternative capital partners, but then
+we increase on the gross side.
+As you may have also observed, alternative capital market was a bit more stretched in
+recent times. But actually Swiss Re could maintain the support from its third party capital
+providers and we could even get some more supports which is to issue it, also few more
+cat on, so that we actually go into the upcoming hurricane season with a good hedged
+portfolio and the portfolio that in the end is more diversified.
+
+Bloomberg Transcript
+
+And the second one was quite broad about the areas of concern around COVID. I mean,
+I've already indicated in earlier calls the areas where there's likely going to be increased
+claims on the rent cancellation. I think we covered that quite a bit. Obviously, credit and
+surety is something to watch quite closely. Obviously, that's a line that's closely linked to
+the economic development with the recessionary outlook and the likelihood of increased
+defaults. But also -- and maybe there is a good example to just point out the
+uncertainties, so you can expect recessionary impact and more defaults. On the other
+hand, the government interventions are really also quite unprecedented. And if you think
+about specifically for credit and surety, in many markets, there is government support for
+the SME sector. There's discussions even in some markets that the government actually is
+backing up the trade credit business because trade credit is important to keep the
+economies going. So there's just a number of unprecedented factors at play that make it
+very difficult to forecast what's really going to happen.
+But our credit and surety book, to maybe explain better, we have 10% market share in
+reinsurance. We are not a leader as bigger ones. And of course, I think I mentioned, it's
+less than 3% and it's a very diversified book of business. And we already -- actually
+because of the end of cycle situation, already reduced our exposure there. So credit and
+surety is an area. And then I think there's obviously many other areas where there are
+pluses, but obviously more minuses there. So I leave it at that for the time-being.
+
+A - Philippe Brahin
+
+{BIO 19081619 <GO>}
+
+All right. Thanks, Paris for your questions. Can we take the next question, please.
+
+Operator
+The next question comes from Thomas Fossard from HSBC. Please go ahead.
+
+Q - Thomas Fossard
+
+{BIO 1941215 <GO>}
+
+Yes, good afternoon. Two questions for me. The first question will be, could you tell us if
+you have taken additional measures since COVID-19 crisis started, if you have taken any
+additional measures to protect your balance sheet? Actually, you indicated significant
+derisking offshore investment portfolio. I think that that was clear that was explained by
+Guido. Now I was thinking on every single part from investments. Have you taken
+additional measures in order to protect your book, I don't know, with additional protection
+Page 8 of 17
+
+
+
+Company N ame: Swiss Re AG
+Company Ticker: SREN SW Equity
+Date: 2020-04-30
+
+FINAL
+
+or something like that in order to meet the effects? The second question will be on
+CorSo. The first question would be the 13% price increase, so the momentum is still
+keeping up well. But in light of the recessionary environment and in light of supporting and
+talking to your clients, how do you believe that certain percent is still achievable in the new
+environment? And also, due to this new environment, are you taking a pause to the cost
+reduction program at CorSo? Thank you.
+
+A - Philippe Brahin
+
+{BIO 19081619 <GO>}
+
+Thanks. Maybe John for the first question and Edi on CorSo.
+
+A - John Dacey
+
+{BIO 4437051 <GO>}
+
+Bloomberg Transcript
+
+Sure, I might come back on the last. So in terms of protecting the balance sheet, I think
+that first and foremost these actions on the asset side have been a significant and, if I can
+say so, obviously effective in reducing the negative impact that otherwise would have
+come through. On this side, obviously you have whether P&L relevant and then those
+items which are just relevant on the balance sheet. The one thing I would point out is that
+the book value of the company has held up extraordinarily well through the first quarter. If
+you compare book value per share on March 31 to where we were on December 31, the
+reduction is less than 4%. And that I think is indicative of how we've been able to manage
+the extraordinary actions that otherwise might have hit us for a potentially double-digit
+decline.
+I think on the liability side, the smartest way to protect our balance sheet is to do smart
+underwriting. And once again, we're in a quarter where the COVID numbers are
+distracting us from speaking about the underlying. But let's remember that we made
+$300 million in our Life & Health Re business in the quarter. We really are on track for the
+two estimated loss ratios, 97% in P&C Re and 105% in CorSo for the year. So I think the
+best thing we can do is make sure that, in spite of 14,000 people working from home,
+continue to deliver the kind of results that we had in the April 1 renewals to make sure that
+that business is going very well, while simultaneously managing the crisis of the pandemic
+and the associated fallout on economic activity from that. So that's where management is.
+There is a series of weekly and even in some cases, bi-weekly meeting that have been
+instituted to separate the active management of COVID-19 related issues from our dayto-day operations and those day-to-day operations proceed at pace with almost no
+interruptions.
+
+A - Edi Schmid
+
+{BIO 18942809 <GO>}
+
+Yeah, maybe if I could just add bit of color on the liability side. I mean, early on as the
+COVID crisis unfolded, we took a number of actions in terms of adjusting our underwriting
+appetite. In the end, this is a crisis still unfolding. So the picture you can have in mind is
+that of a burning house and obviously as an insurer, you need to be very careful not to
+provide coverage for things that are already foreseeable. So across many lines of
+business in P&C and Life & Health, we have tightened our under-appetite to not put
+undue risk on our balance sheet.
+
+Page 9 of 17
+
+
+
+Company N ame: Swiss Re AG
+Company Ticker: SREN SW Equity
+Date: 2020-04-30
+
+FINAL
+
+So, for example, we have reduced capacity for large lives it would put out there because
+there's really a risk of increased adverse selection or when it comes to a line like disability
+income that is linked to some extent to economic development recession. We also
+reduced the appetite and there's many examples in other areas. And so that's obviously
+an important dimension to protect our balance sheet. But, as John said, it's equally
+important for those lines, those exposures that are not materially impacted by COVID
+that our business, our underwriting, and everything continues as normal as possible.
+And then on your second question, was around the pricing dynamics in the commercial
+business, I would clearly see this to continue. I mean, we have already started to see the
+movement. It was still quite slow. We know a year ago, in the beginning, was only 5%, and
+then over 2019 averaged CorSo could achieve 12%. And now in the first quarter, it's up to
+13%. I think also relating to the comments earlier, just dynamics in the risk taking markets
+overall, it's what's happening. I think the only direction I think that this momentum is going
+to (technical difficulty)
+And I think the last one was on the cost side. John, do you want to take that?
+
+A - John Dacey
+
+{BIO 4437051 <GO>}
+
+Bloomberg Transcript
+
+Yeah. So the restructuring at CorSo was laid out where removing about one-third of the
+business that was on the books at mid-year 2019. You start to see that show up in the
+premium earned in spite of the rate increases that we're getting. We've actually, I think,
+for the first quarter shown a reduction in earned premium because of the portfolios which
+have not renewed. In many cases, there were whole teams which were relieved with their
+responsibilities because we're not in the business.
+The good news is some of that -- a fair amount of that was done in 2019 before the crisis
+and so many of those people were able to migrate to other careers that were more
+convinced of future success in those lines. I think we'll continue to reshape CorSo into a
+strong performing company. That means following through on already committed actions,
+I don't think we necessarily need to do more than that at this time.
+
+A - Philippe Brahin
+
+{BIO 19081619 <GO>}
+
+All right. Thank you, Thomas, for your questions. Can we take the next question, please?
+
+Operator
+The next question comes from Jonny Urwin from UBS. Please go ahead.
+
+Q - Jonny Urwin
+
+{BIO 17445508 <GO>}
+
+Hi, everyone, thanks for taking my questions. Just two please. So, firstly, on business
+interruption, please, could you comment on whether you are seeing reinsurance policy
+wordings broadly following the primary policy wordings and (inaudible) what will you think
+of the main risks on BI? So is there explicit or unintended exposures in policy wordings or
+is it the risk of retrospective legal challenge to coverage -- those comments around on
+your books specifically? And then, I guess just thinking about the balance sheet and scope
+Page 10 of 17
+
+
+
+Company N ame: Swiss Re AG
+Company Ticker: SREN SW Equity
+Date: 2020-04-30
+
+to grow gross loss, I mean, do you think you have the balance sheet strength and the
+appetite to go after the capital intensive lines that could see more rates, given the likely
+reduction we're seeing in industry capital? Just being -- I suspect you'll say you've got the
+balance sheet, but I'm more interested in the appetite. Thank you.
+
+FINAL
+
+A - Philippe Brahin
+
+{BIO 19081619 <GO>}
+
+Thanks, Jonny. We will start with Edi.
+
+A - Edi Schmid
+
+{BIO 18942809 <GO>}
+
+Yeah. Well, thanks, Jonny. The first one on business interruption, as mentioned in the
+introductory comments, that it's clearly the most debated area and obviously the main
+discussion first is happening on the primary side to what extent pandemic triggered
+business interruption is covered or not. We still remain of the view that most property
+policies, they actually require a physical damage figure for a BI to be claimable, particularly
+the large limits on BI or these policies.
+
+Bloomberg Transcript
+
+And then obviously there's a range of what you call non-damage BI extensions in several
+markets. And these you have to then put into different pockets so that shows where
+clearly pandemic is. It's excluded on the one extreme, but on the other extreme, there
+are a number of policies out there that clearly cover pandemic. And then there's a whole
+range in between where there's, for example, additional triggers that need to be met, so
+the policy would only pay if there is an outbreak of the infectious disease on the premise
+and then you need the closure by public authorities.
+So it's in this gray area where currently all our cedents are going through their portfolios
+to identify what is really in their portfolio. So that that's really what's happening on the
+original side and clearly there will be some areas where there will be legal disputes. I
+mean, on the retrospective inclusion by legislation, I think commented in introduction,
+that's just a deeply concerning idea. Insurance really relies on the rule of law. And if we
+move down that track, clearly it would go beyond what the insurance industry is able to
+bear, and there I believe that reason will prevail. So that's more the situation on the
+original side.
+And then on the reinsurance side, it really depends on the kind of contracts, proportional
+or non-proportional. And then there's some contracts, for example, catastrophe contracts
+where clearly it's name perils, there would be no exposure. But there's also contracts
+where it really follows the original policy wording. And then a question is then about
+aggregation of losses. But there we have also quite some elements in terms of event
+definitions, hours, clauses. So there's a lot of things that need to be sorted out. But that's
+just to give you a bit of color why that it takes a bit of time to have a clear assessment of
+the whole landscape around business interruption.
+Maybe the second one, John, your take about our ability to asset-light...
+
+A - John Dacey
+
+{BIO 4437051 <GO>}
+
+Page 11 of 17
+
+
+
+FINAL
+
+Company N ame: Swiss Re AG
+Company Ticker: SREN SW Equity
+Date: 2020-04-30
+
+Sure. And just so I understand it is frustrating not to have clear estimates of what this
+looks like. But just remind people that there's enormous uncertainty on the underlying
+health issues and nature of the pandemic. In our worldwide offices, we see some place as
+well organized as Singapore is now looking at its third wave. And so to think that we're out
+of this first storm of the pandemic, I think is absolutely premature than the subsequent
+economic cost to it and what is in fact clearly the responsibilities of insurance, primary
+insurance, and ultimately reinsurance remains highly speculative. And so I just caution
+everybody from trying to get ahead of the facts on this one.
+With respect, Jonny, to your second question, yeah, I think you asked about capital
+intensive covers. We do think we have got the balance sheet to be able to manage this.
+But I think the hurdles, as you imply, are probably higher. We are paying a lot of attention
+to where long-term interest rates are compared to some of our European competitors.
+We probably have more interest in US dollar rates and are paying a lot of attention to how
+far down long-term rates have moved. That's affected our pricing. And when we talk
+about the required price increases in the April 1 renewals, some of that came from more
+conservative modeling of the nat cat risk, but some of that, as the January 1 renewals
+came from a different view of long-term rates. And so anything that we do in terms of
+increasing business going forward is going to require to be value creative in this new rate
+environment and to the degree that it involves longer tail business, those hurdles just
+become more and more impactful in what the required pricing would be.
+
+A - Philippe Brahin
+
+{BIO 19081619 <GO>}
+
+Bloomberg Transcript
+
+All right, Jonny, thanks for your questions. Can we take the next question, please?
+
+Operator
+Yes, the next question comes from Vinit Malhotra from Mediobanca. Please go ahead.
+
+Q - Vinit Malhotra
+
+{BIO 16184491 <GO>}
+
+Yes, good afternoon. I hope you can hear me. So one topic left, which I don't know if it
+was addressed in the first few minutes. I missed it, sorry. This is about the US workers'
+compensation. Seeing some very wide ranging numbers from various bodies like the
+NCCI or even in California. I mean could you help us understand where you are sitting on
+that, what are the risks for you, if any or if material? And any color would be very helpful.
+Thank you very much.
+
+A - John Dacey
+
+{BIO 4437051 <GO>}
+
+Yeah, thanks, Vinit, for the question on workers' comp. We only touched it briefly as one
+line of business that is likely impacted definitely on the premium line. So US workers'
+comp -- I mean, what you would expect that, obviously with the lock-downs that the
+premium is going down, but you could also see that many people working from home,
+some of the more exposed jobs not being conducted for the time being, it could also be,
+let's say, a reduction in frequency. But on the other hand, there will likely be claims on
+certain types of jobs in terms of the healthcare workers, other care workers. Just what we
+can say, our workers' comp books does not have a significant parts of these more
+exposed types of jobs.
+Page 12 of 17
+
+
+
+Company N ame: Swiss Re AG
+Company Ticker: SREN SW Equity
+Date: 2020-04-30
+
+FINAL
+
+Also our workers' comp business is mainly proportional contracts in the US. And those
+would have our occurrence cap, so that the maximum exposure from this development
+should actually be quite, quite limited. So for our specific situation, we do not expect a
+material impact from the workers' comp business. But on a more broader basis, again just
+reiterating what John was saying, it's still early in the crisis in how this is going to unfold,
+still has more open questions than things we can really answer.
+
+A - Philippe Brahin
+
+{BIO 19081619 <GO>}
+
+Thanks, Vinit, for your question. Can we take the next question, please?
+
+Operator
+Your next question comes from Vikram Gandhi from Societe Generale. Please go ahead.
+
+Q - Vikram Gandhi
+
+{BIO 18019785 <GO>}
+
+Bloomberg Transcript
+
+Hi, good afternoon everybody. It's Vik from SocGen. Apologies if you have already
+answered this question, since I dropped out of the line. Firstly, can you give us some color
+on the underlying exposures in the US casualty, i.e. D&O, E&O, MedMal, general advocacy,
+et cetera ad what kind of really flows through the umbrella in excess books, which are the
+lines that are particularly susceptible to adverse developments in the prevailing
+circumstances? That's question one. Secondly, given the virtually weak results at CorSo
+and the 141% SST, how should we think about the prospects of a potential capital injection
+in the unit?
+
+A - Edi Schmid
+
+{BIO 18942809 <GO>}
+
+Thanks, Vik. On the first one regarding casualty, lives business in the US workers' comp is
+just covered. That's just the D&O space you hinted. There is -- if you look into past,
+recessions are linked to financial market turbulence, so there could be a pickup in losses
+on the D&O side. Again in industry accounts, that's not a material segment we support.
+And then there's a more broader liability space that will obviously you could picture more
+lawsuits against employers and other areas. I mean, if we just add a bit to this picture, we
+are pointing -- we've been pointing out for a long time that the US liability space is in a
+quite aggressive environment with social inflation. All the reasons why we think while we
+have taken a very cautious stance on US liability business.
+On the CorSo side, as we mentioned in earlier calls, we have taken a very decisive
+pruning, exceeding the most exposed lines in US liability. And also on reinsurance, we
+continue to be quite defensive on the US liability lines, particularly those exposed to
+severity, so in the 1-1 renewals, but again, in 1-4, we have actually reduced our exposures
+to US liability. We measure now within the client portfolios the limits underlying exposed to
+severity. And for the larger corporate segment, we actually have, on a year-on-year basis,
+taken out some 20% off of exposure. So, clearly there is a room for further litigation also
+out of this COVID. But again, as for other lines, a lot at this point would be speculation. I
+have to come up more firm view of how this is going to unfold.
+
+A - John Dacey
+
+{BIO 4437051 <GO>}
+Page 13 of 17
+
+
+
+Company N ame: Swiss Re AG
+Company Ticker: SREN SW Equity
+Date: 2020-04-30
+
+FINAL
+
+And your question on CorSo's capital, yeah, I mean, obviously it'd be better if CorSo was
+making money than losing money. I'd reiterate that the prior year development was a
+modest positive for the CorSo for the quarter. So we believe that we'll have to weather
+the COVID-19 claims in Q1 and for the quarters, we'll evaluate the capital levels at the
+business unit accordingly and make some decisions. But I'd say here at the end of the first
+quarter, we don't see the need to do anything in particular.
+
+A - Philippe Brahin
+
+{BIO 19081619 <GO>}
+
+All right. Thanks, Vik, for your questions. Can we take the next question, please?
+
+Operator
+(Operator Instructions) The next question is a follow up question from Thomas Fossard
+from HSBC. Please go ahead.
+
+Q - Thomas Fossard
+
+{BIO 1941215 <GO>}
+
+Bloomberg Transcript
+
+I just wanted to come back on the April 1 renewals, the plus 4% premium growth. Could
+you shed a bit of some light on split maybe on geographical basis, Asia versus US maybe?
+And also if you could split it differently by lines of business, property versus specialty
+versus liability just to bear the stand? I mean, how you shifted your book in -- at April 1?
+And the second question would be really going to social claims inflation, US social claims
+infection because it's been a big topic in Q3 and Q4 last year for the market. Suddenly it's
+completely disappearing from any price reducings or con-call transcripts. So -- and I guess
+that's underlying claims trend has fully not stopped from one day to the other. So just if
+you could tell us a bit how things -- what you saw in terms of trends in terms of claims so
+far this year in terms of maybe second derivative acceleration or deceleration? Thank you
+
+A - Philippe Brahin
+
+{BIO 19081619 <GO>}
+
+Back to you, Edi.
+
+A - Edi Schmid
+
+{BIO 18942809 <GO>}
+
+Back to me. The first one is a bit more color on our renewal account. So 4% growth across
+the board, obviously that has an element of the price increases. That is the most
+significant contributor at this time. We could achieve nominal price increases year-to-date
+on what we renewed of 6%, which is significant across our book. As we also said, actually
+on a risk-adjusted basis, this would be about flat. But still this is actually positive because it
+means that we could not only compensate for the more conservative loss specs. In, for
+example, US casualty, which is related to your second question, where we still see that
+this is a high possibility environment. So we needed to cost this more conservatively, so
+that loss assumption increases plus the significant adjustments we made to our typhoon
+flood modeling in Japan. So these factors we could fully compensate by the normal
+increases we achieved.
+
+Page 14 of 17
+
+
+
+Company N ame: Swiss Re AG
+Company Ticker: SREN SW Equity
+Date: 2020-04-30
+
+Bloomberg Transcript
+
+FINAL
+
+In terms of the growth, it's also a bit linked to the fact that I just mentioned. So clearly in
+Japan, we could grow the total premium by about 20% in the nat cat space with the price
+increases. But also we deployed more capacity, given the beneficial outcomes we could
+achieve. But then linked to our increased capacity on the nat cat side, we could also
+access some additional business from clients in other lines of business.
+But a bit more broadly, I would still say that our trajectory as already explained in 1-1 is to
+shift the portfolio up a bit more to shorter duration. So we keep growing more on the
+property nat cat side and have a more cautious stance on the longer tail lines exposed to
+things like social inflation. Then obviously there's also the important point John made, that
+in a much lower interest rate environment, obviously these longer tailed liability lines need
+to get even better in terms of underwriting profit to make sense, given that you cannot
+discount as much anymore. So that's a bit of color around where the growth is coming
+from.
+And on the social inflation topic really, that's not going away in the US. As we have
+commented earlier, we really think for the US liability market to become sustainable that
+there needs to be more than just premium increases and limited auctions. That's clearly
+what's happening in the underlying business now. But what was this aggressive thought
+environment with this nuclear verdict, a lot of them are actually around commercial motor.
+If there is car accidents and bodily injury, then the lawyers will go aggressively after some
+corporates and the jurors will then abort this huge non-economic damages. And for that
+to become better, you will need to see some court reform at the state or at the federal
+level to become again more reasonable. And now you would add the developments
+around COVID in the US, so it is clearly an area where we would continue to underwrite
+with utmost caution.
+
+A - John Dacey
+
+{BIO 4437051 <GO>}
+
+And maybe just one observation on the penultimate point of Edi. To the degree that
+motor frequency has materially reduced in all markets with lock-downs, you'll probably
+see some modest benefit also on some of this commercial motor caseload and
+associated large jury awards related to it, but there's clearly a very temporal issue.
+There's no reason to think there has been any structural change or improvement in that
+business.
+
+A - Philippe Brahin
+
+{BIO 19081619 <GO>}
+
+Well, thanks, Thomas, for your questions. Can we take the next question, please?
+
+Operator
+The next question is a follow-up question from Paris Hadjiantonis from Exane BNP. Please
+go ahead.
+
+A - Philippe Brahin
+
+{BIO 19081619 <GO>}
+
+Paris, are you there?
+
+Page 15 of 17
+
+
+
+Company N ame: Swiss Re AG
+Company Ticker: SREN SW Equity
+Date: 2020-04-30
+
+FINAL
+
+Q - Paris Hadjiantonis
+
+{BIO 19703051 <GO>}
+
+Sorry, I was on mute, indeed. So a couple of very small follow-ups from my side. I guess
+the first one will be on Life Re. I understand there was a small (inaudible) benefit for the
+quarter. I don't know whether you can give us some color and quantify that that. I think it
+was something to do with the capture. And the other one is on the investment side.
+Obviously, quarter-to-date, we have seen a pronounced bounce back on the equity front.
+How should we be thinking about the benefit to Swiss Re from an accounting perspective
+given that you have put quite a lot of hedgers in place?
+
+A - Philippe Brahin
+
+{BIO 19081619 <GO>}
+
+Why don't we go to the second question first, so Guido can help us out?
+
+A - Guido Furer
+
+Bloomberg Transcript
+
+Very happy to do so. Thanks, Paris, for the question. You will refer to the equity protection
+which we've put in place. And as John has mentioned, we will dynamically manage to deal
+with it, not only for equity but also on credit. Now on equity, we have only option in place.
+That means the capital full upside open. And as you know on the US GAAP, both flows
+through the P&L, the mark-to-market of the equity as well as of the hedges now. The fact
+that we have only downside protection, doesn't take away the full upside potential. That's
+why recovery which we have seen quarter-to-date should be very helpful.
+I think, on the credit side, we have also a mixed set of different measures. Some are
+option related, some are index related. And that's why also there we kept some of the
+optionality open. Very important for us is the quality of the books. And as opposed on the
+equity as well as on the credit and as John has mentioned, we actively do portfolio
+management. That's why we not only work with overlays, we take out some of the beta
+risk, but clearly all the massively improved quality of the portfolio over the last few
+quarters and to give you just one figure to give you a bit of a feeling. I think there's a
+good questioning about the fall of angel potential in our industry. And, yes, we know
+under certain regulation, you don't get the capital benefit if it's outside of investment
+grades and talking about matching adjustments.
+Swiss Re does not make use of that, plus, although we just saw what happened in the
+midst of the crisis related to Q1, the benchmark portfolios, they had a fallen angel in Q1 of
+1%, basically credits being non-investment grade from former investment grades. Swiss
+Re experienced through the same quarter just a 0.2%. That means one-fifth of the
+market. And also thanks to the hedge, I have to say, in many of the exposed -- the COVID
+exposed tax like leisure kind of consumer cyclicals, but also aviation, we are even net
+short. And that's why it's a very dynamic program. And I think we look at both. We looked
+at the beta risk which we clearly address with the overlay program.
+But in the long term and I also believe as John has alluded to, this crisis is not over in the
+short term. The economic damage is huge and some sectors will clearly be hammered
+not only over few weeks, but over a few quarters, if not years. And we recognized that
+very early, that's why we massively adjusted the portfolio position, started already last
+year. And to give you just one figure, in Q4 last year and in Q1 this year, we had $7 billion
+
+Page 16 of 17
+
+
+
+Company N ame: Swiss Re AG
+Company Ticker: SREN SW Equity
+Date: 2020-04-30
+
+of changes in the cover-bond portfolio, that's basically 25%. And of course, we went into
+the less exposed area and this gives you some idea how we protect the balance sheet.
+And again that we -- even if that crisis continues to do, we expect that we will serve
+relatively decent in this environment. But it's full of challenge. Thank you.
+
+FINAL
+
+A - John Dacey
+
+{BIO 4437051 <GO>}
+
+Thank you, Guido. The first question you had, Paris, I think was related to the Life & Health
+Re. As we said, we had a strong technical result as well as a good investment return.
+Specifically, I think there was one -- not huge, but of a size that's probably worth noting.
+We captured for some individual mortality business in Japan again just serving our clients
+well and working with them on the way that they like us to help manage their own risk. So
+nothing special there, ordinary business and we do these kind of transactions on a routine
+basis.
+
+A - Philippe Brahin
+
+{BIO 19081619 <GO>}
+
+Bloomberg Transcript
+
+Okay. Paris, thank you for your follow-up question. So we have actually come to the end of
+our Q&A. If you have any further questions, please contact members of the IR team.
+Thank you again for joining today. We wish you all to remain safe and healthy. Operator,
+back to you.
+
+This transcript may not be 100 percent accurate and may contain misspellings and other
+inaccuracies. This transcript is provided "as is", without express or implied warranties of
+any kind. Bloomberg retains all rights to this transcript and provides it solely for your
+personal, non-commercial use. Bloomberg, its suppliers and third-party agents shall
+have no liability for errors in this transcript or for lost profits, losses, or direct, indirect,
+incidental, consequential, special or punitive damages in connection with the
+furnishing, performance or use of such transcript. Neither the information nor any
+opinion expressed in this transcript constitutes a solicitation of the purchase or sale of
+securities or commodities. Any opinion expressed in the transcript does not necessarily
+reflect the views of Bloomberg LP. © COPYRIGHT 2022, BLOOMBERG LP. All rights
+reserved. Any reproduction, redistribution or retransmission is expressly prohibited.
+
+Page 17 of 17
+
+

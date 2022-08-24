@@ -1,0 +1,1724 @@
+Company N ame: Ageas SA/N V
+Company Ticker: AGS BB Equity
+Date: 2021-02-24
+
+Y 2020 Earnings Call
+Company Participants
+FINAL
+
+Antonio Cano, Managing Director Europe
+Christophe Boizard, Chief Financial Officer
+Emmanuel Van Grimbergen, Chief Risk Officer
+Filip Coremans , Managing Director Asia
+Hans De Cuyper, Chief Executive Officer
+
+Other Participants
+Ashik Musaddi
+Benoit Petrarque
+Colm Kelly
+David Barma
+Farooq Hanif
+Farquhar Murray
+Fulin Liang
+Jason Kalamboussis
+
+Bloomberg Transcript
+
+Robin van den Broek
+William Hawkins
+
+Presentation
+Operator
+Ladies and gentlemen, welcome to the Ageas Conference Call for the Full Year Results of
+2020. I am pleased to present to Mr.Hans De Cuyper, Chief Executive Officer; and
+Mr.Christophe Boizard, Chief Financial Officer.
+For the first part of this call, let me remind you that all participants will remain on a listenonly mode and afterwards, there will be a question-and-answer session. Please also note
+that this conference is being recorded. I would like to hand the call over to Mr.Hans De
+Cuyper, Chief Executive Officer and Mr.Christopher Boizard, Chief Financial Officer.
+Gentlemen, please go ahead.
+
+Hans De Cuyper
+
+{BIO 17991990 <GO>}
+
+Good morning, ladies and gentlemen. Thank you for dialing into this conference call and
+for being with us for the presentation of the results of Ageas for the full year 2020.
+
+Page 1 of 29
+
+
+
+Company N ame: Ageas SA/N V
+Company Ticker: AGS BB Equity
+Date: 2021-02-24
+
+FINAL
+
+As usual, I'm joined in the room by my colleagues of the Executive Committee Christophe
+Boizard our CFO; Emmanuel Van Grimbergen, CRO; Antonio Cano, Managing Director
+Europe; and Filip Coremans, Managing Director, Ageas.
+In a year that has brought so many challenges and uncertainties, we are happy to report
+full-year results in line with our initial guidance of EUR850 million to EUR950 million.
+Indeed, our net result amounts to EUR870 million when excluding the EUR332 million of
+net capital gains related to the FRESH Securities and the negative impact of EUR61 million
+coming from the RPN(i) reevaluation. As you know, the COVID pandemic dampened our
+Life results as the volatile equity markets resulted in equity impairments, while the
+lockdowns weighted on our revenues from dividends, parkings and commercial real
+estate.
+Nevertheless, we managed to reach our guidance clearly illustrating our strong operating
+performance and the strength of our well-diversified business model. Moreover, despite
+these exceptional circumstances, we attained this year, almost all the targets set for our
+three-year strategic plan Connect21. In Life, the guaranteed operating margin which
+suffered from the reduced amount of capital gains has been gradually improving over the
+months and amounted to 90 basis points for the full year in the middle of our target
+range, thanks to a strong underwriting performance.
+
+Bloomberg Transcript
+
+The group unit-linked margin also pursued its steady improvement quarter-after-quarter
+and ended the year at 29 basis points, only 1 basis point below the target wage. In nonLife, the lockdowns led to lower claims frequency, especially in Motor and this resulted in
+an exceptionally low combined ratio of 91.3%, far below our target of 96%.
+Our inflows have also proven to be resilient in this challenging market, with a decline
+limited to 1%, thanks to a solid recovery in China. In Europe, the decrease was limited to
+the Life inflows, which suffered from the lockdown whereas non-Life inflows remained
+resilient.
+I would also like to stress the strength of our balance sheet. After the drop suffered in the
+first quarter, our investment portfolio has now been fully restored and even stands at a
+higher level than at the end of 2019. In particular, the unrealized capital gains on the equity
+portfolio, which went down to EUR0.2 billion at 100% at the end of the first quarter are
+now back to EUR800 million in line with year-end 2019. Additionally, despite the negative
+impact of the financial markets throughout the year, our Solvency stands at a strong 193%,
+comfortably above our target of 175%.
+Lastly, Ageas received in 2020, an amount of EUR658 million cash upstream from the
+local entities and our cash position currently amounts to a strong EUR1.2 billion, of which
+only EUR31 million remains ring-fenced for the Fortis settlement, which provide us with
+great flexibility.
+You may remember that 2019 was a record year for Ageas, leading to an all-time high
+dividend of EUR2.65, which represents a 20% increase on the prior year. Given, our strong
+result in 2020, coupled with the solidity of our balance sheet, the Board will, in full respect
+Page 2 of 29
+
+
+
+Company N ame: Ageas SA/N V
+Company Ticker: AGS BB Equity
+Date: 2021-02-24
+
+FINAL
+
+of the guidance issued by the National Bank of Belgium, propose a dividend in line with
+last year at EUR2.65, corresponding to a 56% payout ratio.
+As for 2021, the COVID pandemic is not yet over, and it will continue to bring
+uncertainties. However, 2020 has demonstrated the resilience of our business model and
+with our solid balance sheet, we feel that we are starting the year on a firm footing. We
+are, therefore, confident in our ability to achieve this year a group net profit, excluding the
+impact of RPN i), around EUR900 million in the middle of our guidance of EUR850 million
+to EUR950 million.
+Before handing over to Christophe, I would like to mention that in this intense year, not
+only have we secured the present, but we also have prepared the future. Indeed, we
+have carried out our strategy to expand in fast-growing markets as we have finalized two
+M&A operations to strengthen and expand our co-operation with our partners in China
+and India. As you may have seen, we have also announced yesterday a new transaction.
+The acquisition of 40% stake in AvivaSa, which is the fifth largest life insurance company
+and a leading private pension provider in Turkey.
+We are already present in the non-Life Turkish market to our stake in AKSigorta, which we
+manage with our partner, Sabanci. This operation is a great opportunity to enter now the
+fast-growing Turkish life insurance market and to further strengthen our partnership with
+Sabanci, which owns 40% of AvivaSa.
+
+Bloomberg Transcript
+
+Ladies and gentlemen, I will now hand over to Christophe for details on the results.
+
+Christophe Boizard
+
+{BIO 15390084 <GO>}
+
+Thank you, Hans and good morning, ladies and gentlemen. As mentioned by Hans, our
+net result amounts to EUR870 million, when excluding the impact from the FRESH
+securities and the RPN(i). The COVID pandemic had a contrasting impact on our P&L
+between claim results and investment results. The lower capital gains and recurring
+financial income had a negative impact of EUR220 million, which was only partly
+compensated by the reduced claim frequency, which amounted to EUR135 million in 2020.
+So overall these high level estimates give a negative impact of around EUR85 million on
+our results. This impact remains broadly in line with what we communicated earlier in the
+year. As usual, I will give you some comments per segment and I start with Belgium on
+Slide 8. We recorded a solid result this year despite a lower recurring investment income
+from commercial real estate, Interparking and dividends and a reduced contribution from
+capital gains.
+Indeed, the realization of a substantial amount of capital gain in the fourth quarter was not
+sufficient to fully offset the impairments recorded in the first quarter mid high market
+volatility. However, despite these exceptional conditions, the Life guaranteed operating
+margin remained sound, amounting to 77 bps for the full year, but slightly below our
+objective of 85 to 95 bps. In Non-Life, we enjoyed a strong performance, thanks to lower
+claim frequency, resulting in an excellent combined ratio of 90.3%. In the fourth quarter,
+Page 3 of 29
+
+
+
+Company N ame: Ageas SA/N V
+Company Ticker: AGS BB Equity
+Date: 2021-02-24
+
+FINAL
+
+the favorable claims experience in household and Motor was partly offset by an interest
+rate related review of provision in in liability products, adjusting the balance sheet to this
+prolonged low interest rate environment.
+On the commercial front, due to the lockdown measures, Life inflows were below the
+exceptionally high level of last year, despite high volumes in unit-linked in the second half
+of the year. On the contrary, non-Life inflows proved resilient and ended the year even
+slightly above their level of last year.
+In the UK, on Slide 9, the strong net result benefited from low claims frequency, mainly in
+Motor which more than compensated for the adverse weather. This led to a satisfactory
+combined ratio of 95.2%. In the fourth quarter, the continued favorable claim experience
+in Motor was mitigated by an increased provision due to an expected increase in claims
+inflation. On a positive note, this quarter brought the confirmation that claims related to
+business interruption, even cancellations and rental insurance have remained very limited.
+The divestment of our stake in Tesco underwriting drove the inflow down this quarter.
+However, scope-on-scope, inflows are slightly up this year, thanks to new commercial
+deals in household, while Motor inflow stabilized in the second half of the year.
+
+Bloomberg Transcript
+
+In Continental Europe, Slide 10. The solid net result was driven by a strong non-Life
+performance. The continued focus on expense management combined with lower claim
+frequency in Motor and Accident & Health, resulted in an excellent combined ratio of
+85.4% in Portugal.
+In Turkey, the strong performance was as often mitigated by the adverse FX movement.
+In Life, our guaranteed operating margin, which benefited from a lower level of capital
+gains, remained however at the high level, even when excluding the impact of the reserve
+release in Portugal in the first quarter of the year. This illustrates a strong underwriting
+performance of the country. The unit-linked operating margin has been consistently
+improving quarter-after-quarter. Thanks to an evolving product mix and this positive trend
+is expected to continue in 2021.
+The current low interest rate environment in Portugal weighted on the sales of
+guaranteed products as we are shifting our commercial efforts towards unit linked and
+Protection products. On the top of these products, we have launched a flexible pension
+product, which contribute EUR181 million in 2021 -- 2020 sorry. Please note that this
+product which is off balance sheet is not accounted for in the inflows.
+In non-Life, inflows increased by 11% at constant FX, with growth in all business lines in
+Portugal and an excellent commercial performance in Turkey impacted by the adverse FX
+already mentioned.
+In Asia, Slide 11, the solid operating performance was mitigated by the adverse evolution
+of a discount rate used in China and by equity impairment which as you may remember,
+were IFRS adjustments due to our prudent impairment rules.
+
+Page 4 of 29
+
+
+
+Company N ame: Ageas SA/N V
+Company Ticker: AGS BB Equity
+Date: 2021-02-24
+
+FINAL
+
+It is worth taking into account the fact that the local result of our Chinese partner, and
+which is based the dividend we received, was not impacted by these impairments. If you
+exclude these market impacts, the underlying performance was really strong both in Life
+and non-Life. The lower Life result in the fourth quarter reflected the negative evolution of
+the discount rate as well as the early start of the opening campaign in China to prepare
+the new year so called jump sales.
+The rebound in inflow recorded since Q2 continued in Q4 with inflows up 12% at constant
+FX scope-on-scope resulting in a full year growth of 6%. This quarter also included the
+first contribution of Taiping Re one month. The reinsurance segment on Slide 12 recorded
+a high net result of EUR79 million this year, supported by the lower claim frequency in the
+non-Life operation of the ceding entities of the group.
+Moving now to the balance sheet items and capital position. As you can see Slide 13, the
+total liquid assets stood at EUR1.2 billion at the end of the year. The decrease compared
+to the beginning of the year is explained by the cash out for the tender of the FRESH and
+by the EUR435 million payments made to the Fortis settlement.
+
+Bloomberg Transcript
+
+Today, only EUR31 million remain ring-fenced for the settlement. You might be surprised
+to see that the settlement provision is still at EUR246 million. The reason for this
+discrepancy is the time difference between payment we made to the claimant
+organization Fortis settlement and payment made by Fortis settlement to the claimant
+themselves. The cash out related to the M&A transactions in Taiping Re for EUR336
+million and Ageas Federal Life in India for EUR56 million was more than compensated by
+the successful EUR500 million Tier 2 debt issued in Q4.
+I would like to take this opportunity to remind you that Ageas credit ratings improved in
+the fourth quarter with S&P upgrading Ageas to A+ and Moody, raising the rating to A2
+from A3, while also changing the outlook to positive.
+As mentioned by Hans, our Group Solvency II ratio, I'm on Slide 14 now, stands at a strong
+193%. In the fourth quarter, the debt issuance more than compensated for the impact of
+the two M&A transactions outside of the Solvency II score.
+However, the group solvency ratio was negatively impacted by market movements
+consisting of the evolution of the RPN(i), inflation and equity symmetric adjustments. The
+regulatory PIM, partial internal model solvency ratio, increased to a high 199% following
+model improvements validated by the regulator.
+Our operational the free capital generation, so Slide 15 now, amounted to EUR641 million,
+including EUR132 million of dividend from our non-controlled participations. With EUR509
+million operational free capital generation from the consolidated entities, we ended the
+year in line with our operational free capital generation guidance of EUR500 million to
+EUR540 million for the Solvency II scope. Despite the very low interest rate environment,
+we maintain this guidance for 2021.
+This is the end of my presentation, and I hand over to the operator now.
+Page 5 of 29
+
+
+
+Company N ame: Ageas SA/N V
+Company Ticker: AGS BB Equity
+Date: 2021-02-24
+
+Questions And Answers
+Operator
+
+FINAL
+
+(Question And Answer)
+Thank you. (Operator Instructions) I ask you to limit yourself to three questions. The first
+question comes from David Barma from Exane BNP Paribas. Please go ahead.
+
+Q - David Barma
+
+{BIO 19957338 <GO>}
+
+Yes. Good morning. Thank you for taking my questions. The first one I have is on the Asian
+Life result where adjusting for the different factors you've been flagging in the last
+quarters and years. The result has grown, but not as fast as we could have expected and
+certainly not as fast as the reserves in China. Can you talk a little bit about the margin
+trends you're seeing there and what we should expect for the coming years?
+That's my first question. And then, the other two I have on solvency and on capital
+generation. So first, on Q4 operating capital generation, there seems to be quite a few
+moving parts in Q4, especially on the SCR. Can you help us bridge a little bit the Q4 OCG
+number, please?
+
+Bloomberg Transcript
+
+And then lastly, on the PIM and the sort of bounce back of the solvency ratio in Belgium.
+You mentioned some modeling updates there. Can you talk a little bit about what you've
+done in -- on your Belgium PIM, please? Thank you.
+
+A - Hans De Cuyper
+
+{BIO 17991990 <GO>}
+
+Okay. Thank you, David. First question, I'll pass to Filip. Then Christophe will take the free
+capital generation, and Manu will take the solvency.
+
+A - Filip Coremans
+
+{BIO 17614100 <GO>}
+
+Yes, very good morning everybody. Yes, Asian result, you can see in many of your
+headlines that it attracts quite a few of questions. So let me try to be a bit comprehensive
+on it. First and foremost, indeed, if you look at the Q4 results, SEC, it's not a stellar
+performance. And the overall result of EUR12 million is actually seasonally low.
+Now that is a recurring effect. And if you look through it and it's predominantly in the life
+market, there are two things that we definitely have to -- three things we have to keep in
+mind. First and foremost, there is an absolute lack in comparison to normal years of
+capital realization. There is EUR14 million realized capital gains in there. And secondly,
+there is the impact of valuation interest rate in China, which weighted on the fourth
+quarter results for EUR31 million.
+Taking these out of the equation and also for the preceding year where the capital gains
+were EUR33 million. And the valuation interest rate impact was actually a positive of
+
+Page 6 of 29
+
+
+
+Company N ame: Ageas SA/N V
+Company Ticker: AGS BB Equity
+Date: 2021-02-24
+
+FINAL
+
+around EUR19 million, the result is relatively flat, but low on the Life side, that we could
+show an underlying of around EUR20 million.
+Now the third component, and that brings me to margins and volumes is related to always
+the buildup for the year-end campaign or the beginning of the year campaign in China,
+where from mid-November onwards already, these campaigns are prepared, which
+reduces the new business volumes booked. But at the same time, put higher pressure on
+the costs made. And this typically reduces always the fourth quarter result. Therefore, it's
+probably better to look through the cycles and at the full-year result because you most of
+the time will find compensation in the first quarter.
+If we look at the Asian yearly result, which was EUR269 million, there's only EUR15 million
+capital gains in comparison to last year, where it was EUR127 million. So it's really low. So
+let me come back on capital gains also looking forward. Secondly, valuation interest rate
+impact in there was full EUR116 million this year in comparison to a positive EUR54 million
+last year. If you take these two main blocks out of the equation, the underlying results,
+excluding capital gains and excluding where you could call it the naked underlying result of
+the Asian region, was at EUR370 million.
+
+Bloomberg Transcript
+
+Then looking forward there are definitely three or maybe four items to mention there. In
+the EUR370 million, undeniably also in Asia, we had some positive impact of COVID in the
+Non-Life lines. Roughly you can estimate that the improvement in the combined ratio say,
+roughly EUR20 million could be attributed to positive effects of COVID in the Non-Life
+lines, which would bring to an underlying, which is close to EUR350 million, the top most
+guidance range.
+Then the big questions that are there, and I can see that they pop-up everywhere. How
+will that look, looking forward. So first, related to valuation interest rates. Last year, as I
+said the overall impact was EUR116 million. And the valuation interest rate at the end of
+the year, it landed at 3.29%.
+Our estimates looking forward for this year, given the current rate that we see on the
+Chinese 10-year and the evolution we saw over the last three years is that, that rate will
+go further down to close to 3.15%. That would mean that you could roughly estimate or
+expect an impact to valuation interest rates for the next year at a level, which is about 2/3
+of what we observed this year.
+That brings me to the second point, which is capital gains. Last year, we realized in that
+region virtually no capital gains. Now, you are all very well aware that we took these
+impairments and that contributes to it. But if you look at the evolution of the Asian equity
+markets, and predominantly and here the most important one is China. You can see that,
+that market actually did relatively well. And so the unrealized capital gain buffers. And you
+can also see that reflected in the evolution of the shareholder equity of Asian region has
+been more than replenished.
+Just to give you a feel is at the end of year, just on the China equity book, the IFRS Ageas
+share in unrealized gains had gone up to EUR350 million our share. This means that the
+Page 7 of 29
+
+
+
+Company N ame: Ageas SA/N V
+Company Ticker: AGS BB Equity
+Date: 2021-02-24
+
+FINAL
+
+potential to realize normal capital gain levels for the year coming, looking forward is
+certainly there.
+Thirdly, there were concerns about volumes and margins and the New Year campaign.
+When we disclosed the six-months the first six-month figures you saw a sharp drop in
+value new business and APE in Asia region. Now what we have observed in the second
+half until the year end, is that there has been a strong recovery, both in terms of new
+business volumes as well as the margins. The new management took charge of the China
+operations locally has really put a focus on the right product lines.
+So, at the end of the year, we'll see that in the additional disclosures we make on Asia
+region, the APE is down 20% in the end, which shows an overall good recovery in terms of
+sales volumes, but you can expect when the margins for the region to follow the similar
+trends. Of course, the full disclosure of this will come, when our partner disclose these
+figures, but it is very much in line with the APE evolution at the end of year.
+
+Bloomberg Transcript
+
+That brings me to the fourth point or the third point, if you wish, it's the opening
+campaign. Since so much depends indeed in China on how much and what is sold in the
+opening campaign. You have seen or you can see the release of the gross written
+premium figures by Taiping for the first month. They are up 3%, but that's on the top-line.
+Please keep in mind that this is masking a very nice growth in new business sales,
+because there were some material maturities in the month of January. The new business
+volumes are up in APE terms over 30%. Also, the exact figure, I leave it to our partner
+Taiping to disclose, but it's up over 30%. And the margins on the business that has been
+written, have actually remained very strong and are in line with what we observed in the
+last -- the second half of last year. So, a good focus on the right products.
+And then a final point is, as Christophe mentioned, we have made some additional
+investments in Asia region. We entered the partnership with Taiping Re and we extended
+our participation in the life operations in India. The last one will not materially change the
+needle, but Taiping will contribute reasonably to the results for looking forward.
+And in terms of outlook, if you take all that together starting from a EUR350 million naked
+underlying result of last year, ignoring fair capital gains and COVID positive, we are
+actually quite optimistic about the forward-looking contribution of Asia region. Even taking
+into account the expected feed impact, which we believe can be compensated by
+normalized capital gain realization and a tick-up in the result because of the new
+investments.
+
+A - Hans De Cuyper
+
+{BIO 17991990 <GO>}
+
+Okay. Thank you, Filip.
+
+A - Christophe Boizard
+
+{BIO 15390084 <GO>}
+
+So on the free capital generation, I guess you referred to one slide of the presentation,
+which is Slide 62, where indeed we give the quarterly figures. And when we read that the
+Page 8 of 29
+
+
+
+Company N ame: Ageas SA/N V
+Company Ticker: AGS BB Equity
+Date: 2021-02-24
+
+FINAL
+
+quarter -- the value for the FCG for Q4 is only EUR68 million. It is indeed below the
+guidance the EUR500 million to EUR540 million, I mentioned, divided by four. So there is a
+gap with the normal run rate of EUR130 million.
+We have investigated this and I can give you the following explanation. First, as you know,
+the free capital generation is a result of the two components, change in Own Fund and
+change in SCR time, our target of 1.75. And one of the big explain -- one of the main
+explanations for this low figure comes from the SCR. And we have over the quarter an
+SCR increase of EUR32 million. And if you multiply this by 1.75, you already have good
+explanation for the gap.
+Where does it come from? This SCR increase, mainly from -- it comes from a kind of
+general trend on our asset portfolio to re-risk a little bit our investment. And you will
+notice that the weight of the equity is going up. And this is especially visible in AG, which
+holds most of the equity portfolio, but this can be observed also in Portugal. But let's say,
+the main effect comes from AG. So it is an increase in the equity allocation. So, that's on
+SCR, then I will mention but it's a smaller effect. We have an increased counterparty risk
+due to the fact that we have wire transfer significant amount to Forsettlement foundation,
+indicated this in my pitch.
+
+Bloomberg Transcript
+
+Then you have the generation of Own Funds is slightly weak as well, and that's the
+second explanation. And it comes from AG again. And this is due to some changes in cost
+assumption and cost allocation in the modal. This is done once a year at the end of the
+year, and this was done this year. So, partly comes from the re-risking, partly from some
+cost assumption changes.
+At the end, I would like to qualify most of this as non-recurrent when you re-risk it's a oneoff effect. So this is not a trend. This is a one-off adjustment. The counterparty risk will
+disappear with progressive payment to the beneficiaries. And then on the cost review, it is
+again one-off change of the assumption. So at the end of this may be rather long
+explanation, I think nothing to be concerned about, and it's the reason why in my pitch, I
+confirmed the guidance of EUR500 million to EUR540 million.
+Maybe Christophe, on the general account, and there is also an element there from the
+counterparty risk on the ForSettlement payments?
+
+A - Hans De Cuyper
+
+{BIO 17991990 <GO>}
+
+It's worth mentioning. Manu?
+
+A - Christophe Boizard
+
+{BIO 15390084 <GO>}
+
+Yes. Okay. Thank you Hans. So on the Pillar 1 PIM. So you can see on Slide 64 of the
+presentation that our Pillar 1 solvency ratio increased from 179% in Q3 to 199% in Q4,
+which is a jump of 20% over one quarter.
+And indeed, there are basically two model changes that impact that jump of 20%. So, the
+first one is related to the treatment of Interparking. So, and what we, you know that on
+Page 9 of 29
+
+
+
+Company N ame: Ageas SA/N V
+Company Ticker: AGS BB Equity
+Date: 2021-02-24
+
+FINAL
+
+the Pillar 2, we did already what we call a proportional consolidation of Interparking. On
+the Pillar 1, we were not allowed to do this by the National Bank in the past. So, we had to
+do a full consolidation, which means that you have to take the full SCR while we only own
+50%, 51% of the company. So we have 51% of the free surplus, but we have 100% of the
+SCR.
+We review the Solvency II regulation in the last months of 2020. And we were convinced
+that there is an opening to also apply proportional consolidation in Pillar 1. We entered into
+a discussion with our external auditor and then with National Bank and at the end, the both
+parties gave their approval to align Pillar 2 and Pillar 1, which means that we could also
+apply a proportional consolidation of Interparking under Pillar 1. That has a positive impact
+of something like 7% on our Pillar 1 ratio. So that is only at group level. So, that does not
+impact the operating company, it's only an impact at group level.
+
+Bloomberg Transcript
+
+The other one is related to the way that we model profit sharing and mainly at AG
+Insurance. That one was even at the request of the National Bank of Belgium that we had
+to review it. So we -- and the way that we have to look at it is but Solvency II, you know
+that on the Solvency II, you have restricted contract boundaries, which is a sort of runoff
+portfolio, while in reality, but we know that we have a much more ongoing concern
+portfolio, where we know that contracts are renewed with renewal rate of 90% of hire,
+which means that you have to properly model and reflect your profit sharing and your
+margin in another way than if you are in a runoff portfolio.
+So, that was at the request of the National Bank. We did this and that model change has
+an impact of 10% at group level. So the two together at group level, we have a 10% on
+the profit sharing and we have a 7% on the Interparking treatment, which account then for
+something like 17% at group level improvement.
+So you can imagine that we are extremely pleased by this, approved also by the
+regulator. And that's as you know, that we manage and focus on Pillar 2 that allow us to
+even more focus on Pillar 2 to manage the business moving forward.
+
+Q - David Barma
+
+{BIO 19957338 <GO>}
+
+Thank you very much.
+
+Operator
+Thank you. Next question from Farooq Hanif from Credit Suisse. Please go ahead.
+
+Q - Farooq Hanif
+
+{BIO 4780978 <GO>}
+
+Hi everybody. Good morning. A couple of questions on AvivaSa and then a question on
+reserve releases, if that's okay.
+So on AvivaSa, could you talk a little bit about the merging because both Aksigorta and
+AvivaSa are sort of partnerships with Sabanci Group. And clearly, there's bancassurance
+
+Page 10 of 29
+
+
+
+Company N ame: Ageas SA/N V
+Company Ticker: AGS BB Equity
+Date: 2021-02-24
+
+opportunities. Can you talk about what you're going to do to put those together to make
+it a more efficient business.
+
+FINAL
+
+And the second question is, AvivaSa is kind of mainly what has anyway been mainly a push
+on the pensions market in Turkey. Do you continue to focus on that? Or do you think
+actually the life protection size, I think, that you will try to grow the most.
+And the third question is on reserve releases. So more in the UK, you continue to have
+this kind of excess reserve release due to the prudential risk margin in the UK. I was kind
+of wondering, where you are in that journey? And when do you think it's going to
+normalize and to what level? Thank you very much.
+
+A - Hans De Cuyper
+
+{BIO 17991990 <GO>}
+
+Bloomberg Transcript
+
+Okay. Thank you, Farooq. I'll take to the first two on AvivaSa. I'll pass one to Antonio for
+the UK. First of all, you're right. We have two entities now in Turkey, AKSigorta on the NonLife side and AvivaSa on the Life side. With comparable shareholding, also both
+companies are listed. And it is also the intention to keep the companies listed at least for
+the time being, and it is also the plan of Sabanci. We also cannot legally merge them
+because we cannot create a composite license in the Turkish market.
+But that being said, of course, we will look at potential synergies operations wise, but also
+commercial. I think AvivaSa brings us a solid agency force into our partnership with
+Sabanci. And of course, both companies do work with Akbank. And so we can, I think,
+further develop the complete bancassurance relationship, life and Non-Life for instance,
+the way we know it in Belgium as well. So indeed, we are looking for synergies, but no
+merger.
+On your second question, well, actually we would like to further develop all the markets
+they are. We are quite pleased, actually, with the quality of the products, with the asset
+liability management and the way they approach the market. So, we would like to develop
+all products, also the pension products, which is off-balance sheet products and on the life
+protection side, specifically, we see room for the partnership with Akbank. The current
+penetration ratio on MRTA is relatively low in the bank and there is definitely upside
+potential to be created. And of course, bancassurance's expertise is something that
+Ageas can bring to the table in this partnership.
+And I'll give it to Antonio for the question on the UK.
+
+A - Antonio Cano
+
+{BIO 16483724 <GO>}
+
+Yes. Maybe just a follow-up comment just on what Hans was saying for Turkey, and good
+morning to you all. Our relations with Sabanci Group and AKsigorta has always been
+extremely fluid. Actually, also the person at Sabanci responsible for AKsigorta. He is also
+the Chairman of the Board of AvivaSa. So I think collaboration will certainly happen along
+the lines that Hans was mentioning.
+
+Page 11 of 29
+
+
+
+FINAL
+
+Company N ame: Ageas SA/N V
+Company Ticker: AGS BB Equity
+Date: 2021-02-24
+
+Coming back to the UK and the reserve releases and whether that would stabilize or not,
+well, a first comment on the additional risk margin. So we had in Q4, a release of that
+margin in a particular business line, I discussed that at one point in time also with you,
+which is related to the rental guarantee business, where we thought that what might be
+indirectly exposed through the court ruling related to COVID and lockdowns, et cetera. So
+that proves to be less of an issue. So there was a slight release on that business. But on
+the other hand, we did increase in Q4 this additional risk margin for Motor and related to
+claims inflation that we see and we expect actually to edge up. So we actually increased
+our prudency levels in that area.
+And then on the releases, yes, we do have very sizable releases from previous years. As
+we always have shown, you remember that, in particular, for 2019 we had much higher
+large loss claims being set up. It proves to be that indeed, there was healthy level of
+prudency in those reserves and actually see that gradually winding down. But
+fundamentally, we will not really change the approach. So, you will always see relatively
+high initial case reserves and as the claims are being settled, we see a positive release.
+So I would not expect that trend to basically change.
+If you look back a couple of years, you will see a kind of a break in the trend, but that was
+more related to the impact that the old saga had on this pattern. But if you look through
+that, our approach is a basically healthy. Our prudency level is very healthy. We have
+increased it in Q4. We have a strong balance sheet to look forward to next year for the
+UK.
+
+Bloomberg Transcript
+
+Q - Farooq Hanif
+
+{BIO 4780978 <GO>}
+
+Can I just quickly return. I mean, I think in the past you said, look, you'll get good reserve
+releases because of all of these points that you make, but it's probably going to be closer
+to around 4 points a year. Is that a good way to think about it?
+
+A - Antonio Cano
+
+{BIO 16483724 <GO>}
+
+I think if you look back, it would be slightly -- it has been slightly higher than 4%. I would say
+it's more like the 6% to 7% range. It depends on, if the book increases or not. So it's
+difficult to give a number that is cast in stone, but it is at least 4%.
+
+Q - Farooq Hanif
+
+{BIO 4780978 <GO>}
+
+Okay, that's very kind. Thank you so much.
+
+Operator
+Thank you. Next question from Farquhar Murray from Autonomous. Please go ahead.
+
+Q - Farquhar Murray
+
+{BIO 15345435 <GO>}
+
+Good morning, gentlemen. Just a couple of questions from me. Just starting on the NonLife pricing side, could I just ask how pricing is developing across the geographies you've
+
+Page 12 of 29
+
+
+
+Company N ame: Ageas SA/N V
+Company Ticker: AGS BB Equity
+Date: 2021-02-24
+
+FINAL
+
+got? In particular, are you seeing any kind of competitive pass through of frequency
+benefits, given we've got a slightly more prolonged lockdown now?
+And then secondly, on the acquisition of AvivaSa in Turkey, could I just ask whether Sabanci
+had any reserve rights with regards to who could buy that business? And perhaps could
+you add some details around the shareholder agreement signed in January, in order to
+form a basis for the negotiation with Aviva? And in particular, why does Sabanci get three
+appointments on the Board versus Ageas'2? [ph] And then finally, turning just to capital,
+as you know, I'm good actually. Just two questions from me. Thanks.
+
+A - Hans De Cuyper
+
+{BIO 17991990 <GO>}
+
+Yes. The question on Non-Life pricing. It's mainly in the European market. So I'll pass that
+to Antonio in a minute.
+
+Bloomberg Transcript
+
+On your question on AvivaSa, as indeed you're right, Sabanci was already present in the
+partnership and yes, they did have something to say about the options that Aviva had for
+the sale. We're not going to comment more on this. But indeed they did have some
+influence and it's also Sabanci, who approached us to see, whether we were willing, or
+whether we were willing to expand our partnership in the Turkish market, which I think for
+me I think is also a very important vote of confidence on the way, we are developing the
+business in Turkey.
+Maybe one element important here to mention from shareholders' point of view that, we
+also have an agreement that this will be solid dividend paying entities, we will have in the
+Turkish market, both for AKSigorta and AvivaSa, we will have 50%, minimally 50% payout
+ratio, which I think is important also for Ageas. And then the Board representation, I think,
+it's fairly proportional. If you look at the stakes. So it is two against three, Sabanci will
+control and consolidate this entity. So I think it is quite natural to have this representation in
+the Board.
+I'll give it to Antonio to run through the Non-Life one.
+
+A - Antonio Cano
+
+{BIO 16483724 <GO>}
+
+Yes, thank you, Hans. I'll go there very briefly. So, there is obviously a downward trend in
+prices, talking particularly about Motor. I guess that is what you're referring to. So, the UK,
+you're familiar with that. I think Q4 was depending on which source you use either the
+Confused.com index or the ABI indexes, you had a couple of percent off. I think that is to a
+large extent, due to the lockdown effects.
+We also see something like that in Belgium, stable, slightly decreasing. And I would say
+that in Portugal you have the same trend. So, it's not dramatic. In the sense that you have
+like 5%, 10% reductions from it. But indeed there is a slightly downward pressure, which is
+reflecting the impact of the lockdown. If the impact of the lockdowns will diminish, and
+we'll start all driving again, we'll pick up again with normal inflation related price increases
+going forward. So for me, it's a temporary reduction reflecting that you can expect still in
+the first part of '21 lower claims frequency.
+Page 13 of 29
+
+
+
+Company N ame: Ageas SA/N V
+Company Ticker: AGS BB Equity
+Date: 2021-02-24
+
+Q - Farquhar Murray
+
+{BIO 15345435 <GO>}
+
+Okay. Thanks a lot.
+
+Operator
+
+FINAL
+
+Thank you. Next question from Fulin Liang from Morgan Stanley. Please go ahead.
+
+Q - Fulin Liang
+
+{BIO 21126177 <GO>}
+
+Good morning, everyone. Thanks. I have three, hopefully, very quick questions. So the first
+one is on the China remittance. If I got what Christophe just said, So the impairment
+doesn't change the local accounting, but presumably the interest rate drag will, So what's
+the outlook? So, we saw that the China remitted a EUR100 million in 2020. So, what's the
+outlook for the remittance going? It's going to be flat, it's going to be higher? Just a
+sense. I appreciate that you probably can't give a number.
+And then secondly is on the Group guidance that, given that if you're confidence on what
+was happening in Asia, et cetera, et cetera, would you actually upgrade your guidance for
+2021, the second one.
+
+Bloomberg Transcript
+
+And the last one also, if we look at the unit-linked margin, apparently is the CE, which is
+dragging the margin in the unit-linked? Is there any measures being taken there to
+improve the margin? Thank you.
+
+A - Hans De Cuyper
+
+{BIO 17991990 <GO>}
+
+Okay. What Christophe meant here is that the upstreaming from China is based on the
+local accounting results. And as you remember, in the third quarter, we have taken some
+impairment based on the IFRS adjustment. It was linked to the investments in three to four
+core Chinese banks. So, the only thing we can give you now as guidance is that, that will
+most likely not drive the dividend upstreaming because those impairments have not been
+taken in local accounting. But what we can expect from -- on China, I think, it is too early to
+shine some light on this one.
+I don't know Filip; you want to add something?
+
+A - Filip Coremans
+
+{BIO 17614100 <GO>}
+
+Yes, I can, obviously, not preempt the decision of the Board of China Taiping regarding
+this and also the guidance coming from Central Government on that. But last year,
+Taiping, indeed, at a payout ratio close to 30%. Their result, the impairments we took that
+are not reflected, there are more differences. But the major bulk is around EUR 125
+million, let's say, in euro terms, that their results will not be impacted by impairment. So,
+that gives you some guidance, gut we will have to wait the outcome of the closing of the
+books in China and their Board meeting on dividend proposals, obviously, that as
+guidance, I think that is sufficient.
+
+Page 14 of 29
+
+
+
+Company N ame: Ageas SA/N V
+Company Ticker: AGS BB Equity
+Date: 2021-02-24
+
+FINAL
+
+And about -- let me recapitulate on your question on guidance looking forward on Asia. I
+tried actually to do that in my earlier intervention, but starting again from an underlying
+naked result for the full year of 2020, which I referred to at EUR370 million, taking out the
+effects, negative effect of bear, which was EUR116 million and the lack of capital gains
+there, but I took out also the capital gains. So without capital gains without feeder impact,
+we were at EUR 370 million.
+And then I said there's three main components will drive this forward or four, if you want.
+One is what will be the effect of valuation interest rates in the year to come. And there, in
+that we expect that impact to be at the level of around 2/3 of what we saw this year.
+Because the valuation interest rate at the end of the year was 3.29%. It will come further
+down to around 3.15%, if rates stay where they are and by comparison.
+
+Bloomberg Transcript
+
+Secondly, I mentioned the fact that the unrealized capital gain buffers in Asia have not
+been tapped into last year but have been restoring the Asian markets. And certainly, the
+Chinese equity market did rather well, where we took impairments, meaning that our IFRS
+unrealized capital gain position has more than restored to levels that we saw at the
+beginning of last year, and I mentioned there, IFRS, our share, EUR 350 million unrealized
+capital gains on that book, which means that there is the potential to have a normalized
+realization of cap gains. So what you see in a normal average year in Asia region, which
+would definitely compensate for the bear impact.
+And thirdly, I refer to what Christophe also referred to the additional investments that we
+made in Taiping Re and in India. And then in Taiping Re, this will add to the P&L India that is
+less material. Overall, that will give a positive uptick. And then I refer to an additional
+positive impact of EUR20 million COVID we had, which is tapering away because if you
+look at the combined ratios, in Asia, they are more or less back over the last quarter to
+where they were. So, that puts, I think, if you add that all up and under bound on our
+guidance, which is quite at the higher end of where we have been talking before.
+
+A - Hans De Cuyper
+
+{BIO 17991990 <GO>}
+
+Maybe one additional comment on the dividend, and coming from China, and it is more is
+a qualitative comment, not a quantitative comment. The dividend paid by Taiping Life is a
+key element of the capital management of the Taiping group. It is their main entity. And I
+like -- I always like to make the parallel with AG and Ageas.
+In Ageas, the payment of the dividend of AG is a key component and we have a 25%
+third-party shareholder, which takes each share. We are exactly in the same situation in
+China. We take 25% of the dividend, which is a key element of the group. So without
+giving you some commitment. I am sure that the Taiping Group Management will make all
+efforts to upstream a very decent dividend. So we are well aligned on this. Thank you.
+
+A - Christophe Boizard
+
+{BIO 15390084 <GO>}
+
+I can conclude for you on the overall guidance. So as for now, and the year has just
+started, we stick to our range, the same range as we had last year. That means EUR850
+million to EUR950 million, but a bit higher in that range. Your reference base is EUR870
+
+Page 15 of 29
+
+
+
+Company N ame: Ageas SA/N V
+Company Ticker: AGS BB Equity
+Date: 2021-02-24
+
+FINAL
+
+million for 2020. We raised that to EUR900 million. That brings us also perfectly in line with
+our earnings per share CAGR commitment that we have given in Connect21. Of course,
+we will monitor this on a quarterly basis and we will come back on this most likely at the
+end of the first quarter.
+Let's not forget that COVID is not completely behind us. And we still have some
+uncertainties at play also in Europe. One element in there is, what are the, I would say the
+positive impact from COVID on Non-Life specifically in Europe. We have seen in the fourth
+quarter that the positive elements in Motor are less than we have seen them in a full
+lockdown in the second quarter. So it remains to be seen how much of this effect and will
+play into '21 and for how long will it be three months? Or will it be till summer? Or will it be
+even longer?
+Second, I think Filip already gave some comments, interest rate movements, specifically I
+think in China where you have then the impact on the fee. And then the last one is on
+capital gains, but there I can only repeat, which I think, as such, is a success that we were
+able to close the year with the same capacity potentially in unrealized capital gains, as we
+have started the year. So I would say I'm less concerned to see a similar capital gains
+impact in '21, than we have seen in '20, but all this remains to be confirmed once we have
+a better view on how we will get out of this COVID crisis throughout 2021.
+
+Bloomberg Transcript
+
+A - Antonio Cano
+
+{BIO 16483724 <GO>}
+
+Now I'll take the question that was very specific on the unit-linked margin for Continental
+Europe. It has actually been edging slightly up. And the main drivers there the Portuguese
+business. And it's edging up because of the book changes as time goes by in
+composition, and the book of, say, the older business that was a bit more problematic in
+terms of margin is actually fading out. And we are starting to sell. We are actively selling
+quite a lot of more pension-related products with a healthier margin. So, you see unitlinked margin for Continental Europe is actually edging up.
+
+Q - Fulin Liang
+
+{BIO 21126177 <GO>}
+
+Thank you.
+
+Operator
+Thank you. Next question from Colm Kelly from UBS. Please go ahead.
+
+Q - Colm Kelly
+
+{BIO 19140684 <GO>}
+
+Thanks a lot. Two questions for me. One on the operating free capital generation. I think
+for the year it's coming in at 14 points of solvency, which is consistent of what it was last
+year, and a bit lower than it used to be. It used to be that 16, 17 points.
+So based on the guidance, this isn't going to increase, clearly it covers the dividend. But
+based on the normal activity of the company, which includes buybacks and/or M&A activity,
+it suggests the free capital generation won't necessarily cover all of these on an
+underlying basis. So I mean speaking with your peers this dominates the debate on
+Page 16 of 29
+
+
+
+Company N ame: Ageas SA/N V
+Company Ticker: AGS BB Equity
+Date: 2021-02-24
+
+analyst Q&A, because this is deemed to be the best guidance for capital return. Is this
+important to your capital management or deployment strategy? And if not, why not?
+
+FINAL
+
+And then also you talk about asset re-risking. Are there other management actions that
+you're considering to take around solvency going forward?
+Then lastly just on the UK, you mentioned the Motor claims review around claims inflation
+for prudence. Can you just give a little bit more detail on exactly why you've taken that
+action? Thank you.
+
+A - Hans De Cuyper
+
+{BIO 17991990 <GO>}
+
+Bloomberg Transcript
+
+So on the free capital generation. First, I would like to remind you that the position, the
+policy is not to cover dividend plus share buyback. What was indicated is that the free
+capital generation should cover the dividend payment and there is always a surplus and
+risk. And we can observe that it partly "finance" the share buyback. But the share buyback
+was at start more meant to reduce the surplus capital and the surplus cash that we have.
+But having said that, I am sure it will not be seen as a very satisfactory answer. But let me
+explain the free capital generation that we discuss here as I said, is based on the Solvency
+II scope. We take the full amount. We deduct the dividend and we end up with a Solvency
+II scope. And here we are on more or less the European part of the group, where the
+growth is not tremendous, I would say. But please take into consideration the growing
+incoming dividend coming from Asia and we are on a rising trend. So here, I think it will
+improve over time. It is we have not yet put in place the full-fledged free capital
+generation framework in Asia. But it is an objective that we have to align Asia with Europe,
+so that we have the full-fledged free capital generation framework, and it is where I think
+we will see most of the growth coming from Asia.
+So, at this stage, we are obliged to take the most prudent approach, which is to only
+recognize the dividend, but there -- you will accept that the dividend is increasing. So
+conclusion through, but there is not an increase in the guidance, but it is on the -- not
+much part of the Group.
+And on the Asian part, consider the increased dividend inflow and in the near future, my
+objective is to implement the free capital generation in Asia. Today, we have some hints,
+but with one quarter delay, which makes it not very convenient to report to you. But after
+a while my short term objective is to align Asia. And in that case, you will see more
+favorable figures. And indeed, you could expect growing guidance on the consolidated
+free capital generation of the group.
+But we do cover, I think, for 2020, yes, we do cover with free capital generation. 641
+compared to EUR485 million for the dividend and potentially a share buyback to be
+decided later in the year. I think the numbers match, and we do have adequate free
+capital generation over 2020 to support this.
+I think Antonio, U.K. claims?
+Page 17 of 29
+
+
+
+Company N ame: Ageas SA/N V
+Company Ticker: AGS BB Equity
+Date: 2021-02-24
+
+FINAL
+
+A - Antonio Cano
+
+{BIO 16483724 <GO>}
+
+Yes. Very specific about the claims inflation and why we think that is -- that could be on the
+right. I think that was the question. Well, it's basically important inflation that is our view, so
+general CPI kind of inflation in the UK that we expect going forward. And actually, the way
+we do that, we just have to increase our prudency level, so our confidence into full level.
+So there's just more prudency in the reserves backed by arguments that inflation is, let's
+put it, it's more uncertain. If the pound continues to rise, it might be less. If the pound
+diminish in value because a lot of these spare parts are imported, inflation could be
+higher. So it's more related to uncertainty about inflation expectations.
+
+Q - Colm Kelly
+
+{BIO 19140684 <GO>}
+
+Okay. That's very helpful. Thank you.
+
+Operator
+Thank you. Next question from William Hawkins from KWB. Sorry, please go ahead.
+
+Q - William Hawkins
+
+{BIO 17918548 <GO>}
+
+Bloomberg Transcript
+
+It was right first time KBW. Hello gentlemen. I thank you for the detailed guidance you've
+given already, and I don't need you to repeat that. Thank you.
+I do just want to check a couple of points, so please. Hans, when you were normalizing the
+2020 results, you added back the FRESH and you added back the RPN(I). But you didn't
+add back the COVID impact of EUR85 million. And the way I see it, your baseline is more
+like in the mid EUR900 million rather than the EUR870 million that you spoke about for
+that reason. I understand the future is uncertain, but I don't really understand why you
+ignored that in your normalization for the past. So if you could help me understand that
+because obviously it's relevant for the baseline.
+And then secondly, please on Asia. Again Filip, thank you, you've been really helpful in the
+detail, and I don't need you to repeat that. But I had a couple of questions, please, to help
+my understanding. You were very clear about the VIR impact in 2021. Assume interest
+rates don't change from here, does that impact then become zero in 2022? Or does it
+continue to have an impact? Again, I'm not sure, are we already starting to average up,
+given that yields have bounced, or are we taking this impact in '21 and then there's a zero.
+And also in Asia, I'm not sure if I'm understanding how the accounting looks. But is there a
+good chance that the impact of realized gains for Ageas is now materially skewed to the
+upside relative to Taiping's behavior because if you've already taken the impairments that
+they haven't, if those impairments come through at some point, then Taiping will be
+realizing gains, not just on a normal basis, but on an additional basis. So it seems to me, if
+I understand the accounting rights, that at some point, Ageas could be benefiting from a
+significantly higher level of realized gains. Point being not just that there's upside in your
+numbers, but kind of skewed to the upside materially?
+
+Page 18 of 29
+
+
+
+Company N ame: Ageas SA/N V
+Company Ticker: AGS BB Equity
+Date: 2021-02-24
+
+And then lastly please, very simple question, Manu. I'm sorry, when you gave the helpful
+detail about the PIM, you talked about contract boundaries changing in Belgium. And I
+wasn't clear, if you were talking about life or Non-Life or both. So if you would mind just
+clarifying the contract boundaries, what that's applied to? Thank you.
+
+FINAL
+
+A - Hans De Cuyper
+
+{BIO 17991990 <GO>}
+
+Hey, let me take your first question. You are right. If we would add up the EUR85 million
+that we see if COVID impact the EUR85 million you would arrive at EUR955 million. That
+would be at the high end, even above the guidance we are giving today. I can only repeat
+that we still have that uncertainty and we will not see -- we are -- we do not know what we
+will still, I think, enjoy or suffer from under the COVID impact. And I think the most
+important part is here that the evolution of the interest rates.
+We see the positive elements in Non-Life already reducing in the fourth quarter. They are
+roughly half of what they were in the second quarter, where most of our countries were
+with some kind of a complete lockdown. And then on the opposite side, you have the
+effect of interest rates. And so we hope that we can give you a little bit more guidance at
+the end of the first quarter.
+
+Bloomberg Transcript
+
+I agree with you that last few days, we have seen the interest rate jumping around a little
+bit in the first place in the positive direction. But too early to confirm that, that is I think
+something that will stay and continue. So, please bear with us, and I think we can give you
+a better estimate by the end of the first quarter.
+
+A - Filip Coremans
+
+{BIO 17614100 <GO>}
+
+Yes, William, thanks for your additional clarification questions. Indeed, it's true. When we
+look at the curve effects of this in 2021. They will be higher in the beginning of the year,
+because if you look three years back, you will see that at one point than the Chinese 10year go with it, 4% ranges and these are disappearing. So, the effect will be more skewed
+towards the first half of the year and will taper off by the end of the year. And then the
+year after 2021, it would be mostly flattish. But of course, that depends on the movement.
+That so, it's something that every quarter we monitor and we will keep you up-to-date on.
+But it's true that 2022, it should become kind of zero-ish.
+Then on the realization of capital gains, yes, of course, since we have impaired and the
+market rebounded, and we did not realize gains. And Taiping also did not have a lot of
+turnaround in their books. We have a positive gap with what they have in terms of
+unrealized capital gains. And indeed, if they ever have to impair, we have already
+impaired. We lead that cycle.
+Now just to give you a feel, because we -- the impairments were on these bank shares,
+and they've been very transparent about it. It was the positions they took in ICBC,
+Agricultural Bank of China, and CCB, yes, commercial, and these three names actually.
+Since we impair them, these stocks have recovered to almost 20% to 25% and for some
+even 28%. They may not be 100% that they are acquisition costs yet, but we will see. But
+indeed, if there were to be trades in these stocks, which is unlikely, but if there would be
+
+Page 19 of 29
+
+
+
+Company N ame: Ageas SA/N V
+Company Ticker: AGS BB Equity
+Date: 2021-02-24
+
+impairment risk to be taken by our partner, and they would compensate that, we would
+definitely benefit from it without having the burden of an impairment. So you're right,
+there is an extra buffer in our case, which could lead to substantially higher results for
+Ageas than in local costs.
+
+FINAL
+
+A - Hans De Cuyper
+
+{BIO 17991990 <GO>}
+
+Another element. Because we were already faced with this kind of problem, it was two
+years ago. And then we counted on the high turnover in the portfolio to "get the money
+back" and to realize as capital gain what was impaired. This is not really the case for this
+impairment, because they are concentrated on long-term holding equities. They have this
+nice solvency treatment in case of long-term equity. So these equities are not meant to
+be sold in the near future. So unfortunately, we cannot count on getting back the
+impairment through realized capital gain. That's something we should mention I think.
+
+A - Emmanuel Van Grimbergen
+
+{BIO 18010465 <GO>}
+
+Bloomberg Transcript
+
+Okay. Then Will, I clarify, probably, I was not clear enough on the contract boundary. So
+there is no change in the contract boundary at AG Insurance. But on the Solvency II, you
+have to model certain type of product with what we call a restricted contract boundary. So
+you cannot assume that they will be renewed in the future. While we know that in the
+reality, 90% or even more of those contracts will be renewed and that you have a sort of
+ongoing concern situation instead of one year premium and then more run-off of the
+portfolio.
+So there is no change in the way that we look at contract boundary on the solvency II. But
+the National Bank of Belgium asked us to model profit sharing and financial margin that
+we can get based -- not based on the runoff portfolio, but based on an ongoing concern
+business, which is -- which reflects much more reality. And when we do that --
+
+Q - William Hawkins
+
+{BIO 17918548 <GO>}
+
+Sorry Emmanuel, just to be clear, is this Life or Non-Life? Because when you say profitsharing, I think, of Life, but when you say.
+
+A - Emmanuel Van Grimbergen
+
+{BIO 18010465 <GO>}
+
+It's life. It is life. Yes, it is life.
+
+Q - William Hawkins
+
+{BIO 17918548 <GO>}
+
+Thank you.
+
+A - Emmanuel Van Grimbergen
+
+{BIO 18010465 <GO>}
+
+Yes, it is life. And then -- and when we do this, then we have the positive impact of 10% at
+group level.
+
+Q - William Hawkins
+
+{BIO 17918548 <GO>}
+
+Brilliant. Thank you.
+Page 20 of 29
+
+
+
+Company N ame: Ageas SA/N V
+Company Ticker: AGS BB Equity
+Date: 2021-02-24
+
+Operator
+Thank you. Next question from Jason Kalamboussis from KBC Securities. Please, go
+ahead.
+
+FINAL
+
+Q - Jason Kalamboussis
+
+{BIO 4811408 <GO>}
+
+Yes, good morning gentlemen. I had a couple of questions. The first one is what is the
+diversification benefit in percentage terms at group level from your UK operations? If you
+could share that would us, that'd be great.
+The second is the UK, EUR11 million for Q4. Could you give us an idea of what you think is
+the underlying number there? And how should we view the EUR60 million, that means,
+which is your target. I know that you may come with the new targets in June. But as we
+stand, do you find that this currently reflects your operations? Or at the end of the day,
+we should be still thinking about the previous target of the EUR80 million and the EUR60
+million is somewhere a temporary target, given what has happened in the UK?
+And on Asia, you used to have, in general, I think, capital gains average over the years of
+about EUR20 million. So, from what I understood that now we should be looking probably
+at about EUR30 million over the next years, if you could confirm that would be great.
+Thank you.
+
+Bloomberg Transcript
+
+A - Christophe Boizard
+
+{BIO 15390084 <GO>}
+
+So, the diversification benefit of the UK, we don't have the exact calculation, but I'll give
+you an educated estimate. So, it's all Non-Life, as you all know. And if I use as a proxy,
+what the diversification benefit would be in the Non-Life book of AG. It's something that
+we do quantify. So the diversification benefit of the Non-Life book within the AG book, this
+is a fair enough proxy. It is in the 30% to 35% range. So a reduction of your SCR was 30%,
+35%. I hope that's helpful.
+Sorry. On the underlying for the UK, bear in mind that the contribution of the UK business
+to the result of the group, including the 40% quota share and loss portfolio transfer that
+we did for 2020, it's close to EUR100 million. Obviously there is a part of that related to
+the COVID benefit. So you could say that for this year, 2020, we are above this target
+level.
+Looking forward, I think '21 will be, again, a bump year in the UK. COVID might be a
+positive. We have the FCA pricing review, et cetera. But looking beyond just '21 we still
+stick to a target that's in line with the past. But again bear in mind that we have sold or will
+be closing the sale of the Tesco underwriting business. So you should deduct that from
+the target level that we gave you in the past. And so for today, I think the new target will
+be in the 60%, 65% -- EUR60 million, EUR65 million net profit for the UK, including the
+results that we generate at the reinassurance account of the quota share LPT, which I
+remember you, it's 40% of the book.
+
+Q - Jason Kalamboussis
+
+{BIO 4811408 <GO>}
+Page 21 of 29
+
+
+
+Company N ame: Ageas SA/N V
+Company Ticker: AGS BB Equity
+Date: 2021-02-24
+
+Thank you.
+
+Operator
+
+FINAL
+
+Thank you. Next question--
+
+A - Christophe Boizard
+
+{BIO 15390084 <GO>}
+
+Sorry. There is a second part of the question was about level of normalized capital gains in
+Asia. I don't think we have ever mentioned there EUR20 million or EUR30 million, as far as
+I'm aware. But to give you a feel, the overall Ageas share in the assets under
+management in Asia region. Let's say, the component on equity in there is about between
+EUR4 billion and EUR4.5 billion.
+If you would have 1% extra return on the equity book would be already around EUR45
+million. So, -- but I'm not going to go making a prediction on that. It is extremely volatile,
+but you can expect, yes, okay 1% to 2% realization of capital gains. It would not be
+unreasonable over a longer term. But with the caveat, that it's extremely volatile from
+year to year, obviously. But the overall equity exposure in the our share Asian book is
+around EUR4.5 billion.
+
+Bloomberg Transcript
+
+Q - Jason Kalamboussis
+
+{BIO 4811408 <GO>}
+
+Thank you. Very useful. If I may have just a quick follow-up on Asia, since which I forgot is in
+Q4, I mean, if you do the underlying numbers, so taking out the realized gains, underlying
+impact. You seem to be going down every, if we look at it year-on-year, it's actually down.
+Do you find that there is any reason because I don't -- I just don't understand this year-onyear decrease over the last three years, specifically on the fourth quarter?
+
+A - Hans De Cuyper
+
+{BIO 17991990 <GO>}
+
+If I'm honest, because I did that exercise obviously, it's slightly up actually underlying
+because last year just taking the top-line of this year and 2019, we had a Life result of
+EUR72 million, this year EUR3 million. The capital gains in there were EUR33 million, this
+year EUR14 million. The VIR impact last year plus 19% this year, 31%. So that's rather flat.
+And on the Non-Life side 0 to 9. There's hardly any capital gain impact, it would have
+been 5 to 9. So largely flat, I would say, slightly up. But indeed this year, I can tell you and
+would have to be a bit patient there to see the effects coming in our Q1 announcements.
+A lot of effort went in China to preparation for the New Year campaign. And that's not
+only for Taiping, it's also observed throughout the market,. Many of the companies were
+focusing on a fresh good start of the year, stopped selling quite early and put the sales
+force really for bulk kickoff of the new year. Which maybe have put a little bit more
+downward pressure in the last quarter than in other years. But in general, we see it being
+relatively flat, slightly up.
+
+A - Christophe Boizard
+
+{BIO 15390084 <GO>}
+
+Page 22 of 29
+
+
+
+Company N ame: Ageas SA/N V
+Company Ticker: AGS BB Equity
+Date: 2021-02-24
+
+And Jason, look at the full year Jason, it's full year is -- if you take out the effect of
+CARGEAS and VIRs only Life, without COVID impact Non-Life, it's EUR71 million or 27% up.
+So over the year, we think it's underlying significant improvement.
+
+FINAL
+
+Q - Jason Kalamboussis
+
+{BIO 4811408 <GO>}
+
+Okay. Thank you very much for that. And by the way, the capital gains, do we need to tax
+them much?
+
+A - Christophe Boizard
+
+{BIO 15390084 <GO>}
+
+In all fairness, I do not know exactly, but that depends country to country. In certain
+countries, they will be definitely part of taxable income. In most countries, that's subject to
+local tax, income tax.
+
+A - Antonio Cano
+
+{BIO 16483724 <GO>}
+
+In Belgium, it's no.
+
+A - Hans De Cuyper
+
+{BIO 17991990 <GO>}
+
+But in Belgium, it's no but for Asia it's assumed there are mostly, and they would be taxed
+as income.
+
+Q - Jason Kalamboussis
+
+{BIO 4811408 <GO>}
+
+Bloomberg Transcript
+
+Okay. Many thanks.
+
+Operator
+Thank you. Next question from Ashik Musaddi from JPMorgan. Please go ahead.
+
+Q - Ashik Musaddi
+
+{BIO 15847584 <GO>}
+
+Yes, thank you, and good morning, everyone. Just a couple of questions. I mean, so first
+of all, I think you have given one number in past that, you aim to get EUR150 million of
+capital gain, overall, in a given year. Is that number correct? And if I look at that, basically,
+that means you have done EUR110 million this year. Next year, if you do EUR150 million that
+means itself like from EUR870 million, you easily go to EUR910 million just by doing that
+EUR40 million higher capital gains. So, would you kind of suggest that the EUR900 million
+guidance you are giving at the moment is on a very conservative note, just because we
+are in the middle of COVID even now? Or would you say no, that's a bit more realistic like
+assuming COVID goes away like in next two three months. So, how do we categorize
+that?
+Second question would be about, say, M&A. I mean, you have done few bolt-on M&As
+now. So like I think India, you've done Taiping Re, then you've done AvivaSa. How do we
+think about M&A capacity going forward? Are you just looking to bolt-ons now? Or, are
+you still thinking about one reasonable sized M&A, like, I think we were discussing about
+Spain last year. So, are we still on that at the moment?
+Page 23 of 29
+
+
+
+Company N ame: Ageas SA/N V
+Company Ticker: AGS BB Equity
+Date: 2021-02-24
+
+And then just lastly is on the dividend, basically, you did a flat dividend this year, let's say,
+it's a COVID year, so not an issue. How do we think about dividend going forward? I
+mean, do you still stick with that north of 50% payout ratio? Or is there anything more that
+can be done on that?
+
+FINAL
+
+A - Hans De Cuyper
+
+{BIO 17991990 <GO>}
+
+Okay, thank you, Ashik. Well, we don't give any guidance specifically on cap gains,
+because this is every year quite a volatile number. Let's not forget that a significant part of
+cap gains is also coming from real estate transactions, which are most of the time a few
+sizable transactions, which is I think hard to fix beforehand. But again the question came
+already is there not upside potential for the guidance, indeed, I think there is, but we want
+to be more certain about the COVID impact specifically on financial markets, interest
+rates and capital gains potential before committing to that.
+
+Bloomberg Transcript
+
+So that, I think, we will come back to you at the end of the first quarter. M&A capacity,
+where we have a comfortable EUR1.2 billion position of cash, we still have roughly EUR400
+million to EUR 500 million potential for debt issuance. So, if we limit to debt, I think we can
+say that we have an available capacity of EUR2 billion except, of course, if you would go
+and look for other solutions like raising equity. So that means that our M&A policy for this
+year has not changed in market consolidation, which is the three cases that you have seen
+in the last three M&A transactions. There is a market today for this type of M&A because
+we see quite some important international groups.
+We refocusing on their core markets. And sometimes, like in Turkey, that gives us an
+opportunity to do some in-market consolidation. We do not exclude a sizeable M&A.
+Remember that we have, still that concept of, can we build a fourth home market, which
+we have communicated in Connect21. So for this year, M&A strategy is not changing. And
+first week of June, we will come with our new revised strategy going forward. And of
+course, we will also look again at our M&A policy in this respect and come back to you at
+the beginning of June for the years '22 to '24.
+And then, dividend, going forward, actually, same response. The Connect21
+commitments, which means 50% payout ratio and a potential share buyback, if no
+material M&A, still stands as our commitment for this year. And also, that one, we will
+come back to you in an update in the first week of June.
+
+Q - Ashik Musaddi
+
+{BIO 15847584 <GO>}
+
+But just one thing on this like this, AvivaSa will not be counted as any material M&A. Is that
+a fair comment?
+
+A - Hans De Cuyper
+
+{BIO 17991990 <GO>}
+
+Yes, we do not judge the acquisition in Turkey. As material to cancel a potential share
+buyback this year. That's right.
+
+Q - Ashik Musaddi
+
+{BIO 15847584 <GO>}
+
+Page 24 of 29
+
+
+
+Company N ame: Ageas SA/N V
+Company Ticker: AGS BB Equity
+Date: 2021-02-24
+
+Okay. That's very good. Thank you.
+
+Operator
+
+FINAL
+
+Thank you. Next question from Benoit Petrarque from Kepler Cheuvreux. Please go
+ahead.
+
+Q - Benoit Petrarque
+
+{BIO 15997668 <GO>}
+
+Yes, good morning, gentleman. Two questions on my side. So the first one is just to come
+back on the EUR900 million guidance. If you could help me to understand how much cap
+gains is included in this guidance, just for me to avoid asking a question again in the
+coming quarters. I mean, cap gains should not be really relevant at the end of the day,
+and that can move up and down. So it will be useful to get the clean figure, ex cap gains
+actually.
+And then maybe, could you help me to understand how much COVID benefit you have
+included in the EUR900 million, if you've not included at all benefits there? And then the
+second one is on the tax on the security accounts in Belgium, which could be
+implemented it might impact branch 23 products. So I just wanted to get your view on
+what your expectations, whether that will be voted by the parliament or you think it will be
+not an issue for branch 23 policyholders? Thank you.
+
+Bloomberg Transcript
+
+A - Hans De Cuyper
+
+{BIO 17991990 <GO>}
+
+First question, if I may, I'm a bit surprised by your focus on cap gains in the guidance.
+Because for me 2020 has exactly proven that the underlying performance of Ageas is
+well diversified and very strong and that we are actually less dependent in the overall
+result on cap gains, successful years between versus less successful years.
+If I look at the underlying performance before cap gains, we had EUR407 million in 2019
+and we have EUR579 million in 2020. So, in that sense, I think, the guidance will not be
+overly influenced by the expectation on the capital gains. For last year for 2020, we had a
+budget of EUR250 million initially foreseen, okay? We come out lower in the capital gains.
+But as you can see, it has not really impacted materially our overall performance. So,
+please don't judge the annual performance of Ageas too much on the realization of
+(Technical Difficulty).
+
+Operator
+Okay. Next question.
+
+A - Hans De Cuyper
+
+{BIO 17991990 <GO>}
+
+Sorry, the fortune tax was meant as a fortune tax. But the way it is structured now, that
+means that all on Branch 23 policyholders might be affected. And so the insurance
+federation is still in discussion, I think, with the ministry and is also considering potential
+legal action, because this was not the initial intention on the fortune tax.
+
+Page 25 of 29
+
+
+
+Company N ame: Ageas SA/N V
+Company Ticker: AGS BB Equity
+Date: 2021-02-24
+
+As of now, I don't think we see any material impact on the Branch 23. On the contrary, the
+appetite for Branch 23 compared to guaranteed since the second quarter last year has
+only risen. So at this moment, I think the impact is fairly limited, but we are waiting for the
+final legislation.
+
+FINAL
+
+Q - Benoit Petrarque
+
+{BIO 15997668 <GO>}
+
+Thank you.
+
+Operator
+Thank you. Next question from Robin van den Broek from Mediobanca. Please go ahead.
+
+Q - Robin van den Broek
+
+{BIO 17002948 <GO>}
+
+Yes, good morning, gentlemen. Thank you for taking my question. And I'm sorry to come
+back on guidance again. I'll be more specific on Asia. I mean if I listen to your building
+blocks, you start with EUR 370 million. If I listen to your narrative around capital gains. I
+guess, it's a better level to look at 2019, which is basically EUR50 million ahead, roughly, of
+the headwind from the China 10 years. So that would add EUR50 million. They have
+Taiping Re coming in at EUR25 million. And then you'll have some business momentum,
+which should also support further growth.
+
+Bloomberg Transcript
+
+So, if I do this math, I guess the implied guidance for Asia should be around EUR470
+million already for 2021. So my first question is, is this math correct? Or am I missing
+something?
+Second to that, if you look at 2022, I think, in fact the rate environment will be a bit of a
+supporting factor in fact. So that EUR75 million of headwind that you have in 2021 will
+actually go away next year and probably be a small positive, which should support further
+growth besides the business momentum you have. So I mean, I get that you're giving an
+optimistic message on Asia. I'm just hoping that these numbers basically make this fit in
+line with how you were seeing things. And then I guess I can make my own conclusions
+about how conservative your group guidance is on the back of that.
+Then secondly, your previous year claims ratio in Q4 was less than 2 points of tailwind for
+the combined. Your guidance is 6% to 7% point. I'm just wondering, we talked about risk
+margin affects you also talked about interest rate assumption in Motor. I was just
+wondering, did we cover everything that has affected that previous year claims ratio
+specifically in Q4? Or is there some other prudency you've taken in the quarter?
+And lastly, any commentary around the potential of Ageas coming up for sale in Belgium
+would be helpful. Thank you.
+
+A - Hans De Cuyper
+
+{BIO 17991990 <GO>}
+
+Yes, I'm almost asked to put my budget here on the table, but I appreciate the focus on
+that because it is indeed a little bit blurred through the past year because of VIR and
+
+Page 26 of 29
+
+
+
+Company N ame: Ageas SA/N V
+Company Ticker: AGS BB Equity
+Date: 2021-02-24
+
+FINAL
+
+indeed, impairment. But let me do it again, but with here and there caveat. The underlying
+where we started from, in my explain, is EUR370 million. That is ignoring any impact of
+valuation interest rates and any capital gains last year.
+I indicated that there is a positive impact of COVID also in the Non-Life operations. In Asia,
+which is undeniably there, anywhere between EUR10 million and EUR20 million. So please
+deduct it and I'm starting from a base, which is EUR350 million, which would have been at
+the higher end of our guidance anyway. And looking forward, I mentioned that we do
+expect a VIR impact at the level of around 2/3, what we have seen this year. Also, that
+figure is volatile, because it's actually a curve effect. It's not a one rate. But anyway, it gives
+a guidance. We are -- an impact there that we see, EUR70 million, EUR80 million, if you
+would do just the rule of three. It would be a negative.
+Then I said, indeed, we are quite comfortable that we see that being compensated, plus
+or minus, give or take because it's volatile by potential capital gains on our book in Asia,
+which brings me back to the EUR350 million instead, and we did additional investments,
+and we have normal growth. So that's why I said that the EUR350 million, which is a top of
+our guidance range, would be at the bottom of where we are looking at. And from there
+upward, with the return on our new investments indeed, and the normal growth in the
+region. But I don't want to go more specific than that. I think this is already quite specific.
+
+Q - Robin van den Broek
+
+{BIO 17002948 <GO>}
+
+Bloomberg Transcript
+
+Thank you.
+
+A - Hans De Cuyper
+
+{BIO 17991990 <GO>}
+
+A bit more light on the previous year runoff, which is indeed for Q4 specifically lower than
+you would expect. If you look at where that is happening, that's basically the Belgium
+operations. And that is linked to the reserve strengthening that has been done in Q4 and
+particularly related to liability claims where we see and expect a gradual increase of the
+amount being granted by judges related to mainly liability claims. So, that is the main
+source of the lower previous year releases in Q4.
+You might also have had the effect here that is just simply less activity in closing down
+claims and therefore, realizing previous year's releases, given the lockdown. You might
+have a slight impact of that, too, which would be just a postponement of that release into
+the next year. It's a combination of strengthening the balance sheet in liability claims in
+Belgium and a slowdown in the level that claims are being closed.
+
+Q - Robin van den Broek
+
+{BIO 17002948 <GO>}
+
+This is within the bodily injury. So similar to Ogden and the U.K. and what we have seen in
+the Netherlands last year?
+
+A - Hans De Cuyper
+
+{BIO 17991990 <GO>}
+
+It has a smell of Ogden, yes.
+
+Page 27 of 29
+
+
+
+Company N ame: Ageas SA/N V
+Company Ticker: AGS BB Equity
+Date: 2021-02-24
+
+Q - Robin van den Broek
+
+{BIO 17002948 <GO>}
+
+Thank you.
+
+A - Hans De Cuyper
+
+{BIO 17991990 <GO>}
+
+FINAL
+
+But at a much, much lower level obviously, but it is linked to both inflation and lower
+interest rates that fit into these core judgments.
+
+A - Antonio Cano
+
+{BIO 16483724 <GO>}
+
+Okay. On your third question regarding ATLs. I think we have always been clear and
+transparent that ATLs would fit in our M&A strategy and would be an interesting
+opportunity for in market consolidation. Where we are already leading us, specifically, the
+position of ATLs in the public sector. But I think you together with me, have read in the
+press that at this moment, there is no concrete file.
+
+Q - Robin van den Broek
+
+{BIO 17002948 <GO>}
+
+Okay. Thanks guys.
+
+Operator
+Thank you. That was the last question. I give you the floor for your conclusion.
+
+Bloomberg Transcript
+
+A - Hans De Cuyper
+
+{BIO 17991990 <GO>}
+
+Ladies and gentlemen, thank you for all your questions. And to end this call, let me
+summarize the main conclusions. In a highly challenging year, we recorded a solid result,
+thanks to a strong underwriting performance, both in Life and Non-Life, which mitigated
+the lower contribution from capital gains.
+Our balance sheet has been restored to its pre-COVID level and we can rely almost solid
+solvency and cash position. Given this performance, the Board will propose a dividend in
+line with last year all time high of EUR2.65. And lastly, we are confident in our ability to
+achieve a 2021 group net profit around EUR900 million in the middle of our target range
+of EUR850 million to EUR950 million.
+And with this, I would like to bring this call to an end. Don't hesitate to contact our
+Investors Relations team, should you have any outstanding questions. Thanks again for
+your time, and I would like to wish you a very nice day.
+
+Operator
+Ladies and gentlemen, this concludes today's conference call. Thank you all for your
+participation. Thank you. You may now disconnect your lines.
+
+Page 28 of 29
+
+
+
+This transcript may not be 100 percent accurate and may contain misspellings and other
+inaccuracies. This transcript is provided "as is", without express or implied warranties of
+any kind. Bloomberg retains all rights to this transcript and provides it solely for your
+personal, non-commercial use. Bloomberg, its suppliers and third-party agents shall
+have no liability for errors in this transcript or for lost profits, losses, or direct, indirect,
+incidental, consequential, special or punitive damages in connection with the
+furnishing, performance or use of such transcript. Neither the information nor any
+opinion expressed in this transcript constitutes a solicitation of the purchase or sale of
+securities or commodities. Any opinion expressed in the transcript does not necessarily
+reflect the views of Bloomberg LP. © COPYRIGHT 2022, BLOOMBERG LP. All rights
+reserved. Any reproduction, redistribution or retransmission is expressly prohibited.
+
+Bloomberg Transcript
+
+FINAL
+
+Company N ame: Ageas SA/N V
+Company Ticker: AGS BB Equity
+Date: 2021-02-24
+
+Page 29 of 29
+
+

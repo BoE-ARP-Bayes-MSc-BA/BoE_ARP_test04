@@ -1,0 +1,634 @@
+Company N ame: Assicuraz ioni Generali SpA
+Company Ticker: G I M Equity
+Date: 2019-11-07
+
+Q3 2019 Earnings Call
+Company Participants
+FINAL
+
+Cristiano Borean, Group Chief Financial Officer
+Frederic de Courtois , General Manager
+Giulia Raffo, Head of Investor & Rating Agency Relations
+
+Other Participants
+Ashik Musaddi, Analyst
+Elena Perini, Analyst
+Farooq Hanif , Analyst
+James Shuck, Analyst
+Niccolo Dalla Palma, Analyst
+Nick Holmes , Analyst
+Peter Eliot, Analyst
+
+Bloomberg Transcript
+
+Presentation
+Operator
+Good afternoon. This is the Chorus Call conference operator. Welcome and thank you for
+joining the Generali 2019 Nine Months Results Conference Call. (Operator Instructions)
+At this time, I would like to turn the conference over to Ms. Giulia Raffo, Head of Investor &
+Rating Agency Relations. Please go ahead, madam.
+
+Giulia Raffo
+
+{BIO 21037091 <GO>}
+
+Thank you very much. Good morning everyone, and welcome to Generali nine months
+2019 results conference call. I'm here with our General Manager, Frederic de Courtois and
+with our Group CFO, Cristiano Borean. Without further introduction, we would like to open
+the Q&A session. Thank you very much.
+
+Questions And Answers
+Operator
+(Operator Instructions) The first question is from Peter Eliot with Kepler Cheuvreux. Please
+go ahead.
+
+Page 1 of 10
+
+
+
+Company N ame: Assicuraz ioni Generali SpA
+Company Ticker: G I M Equity
+Date: 2019-11-07
+
+Q - Peter Eliot
+
+{BIO 7556214 <GO>}
+
+FINAL
+
+Thank you very much. My first question was just the usual ones. I'm trying to get just a little
+bit more detail behind the numbers if possible. And I was wondering if, as usual, you could
+give us the split of run-off gains and expense ratio within the combined ratio and also if
+you could spell out the moving parts of the Solvency walk in Q3.
+And then secondly, similar two asked one of your competitors this morning, but just
+wondering if you could share any thoughts that you have on the impact of EIOPA's review.
+I mean, it looks to me like you could see quite a material benefit under some of its
+proposals for changing the VA beyond just the country, VA proposals, but interested to
+hear your thoughts on the matter. Thank you.
+
+A - Cristiano Borean
+
+{BIO 15246531 <GO>}
+
+Bloomberg Transcript
+
+Hi, Peter. So, split of expense ratio, you have a movement of the expense ratio which is on
+a nine months -- over nine months increasing 0.4%, which is mainly the effect of an
+increasing of cost acquisition, 0.6% because of the expenses of acquisition of the nonmotor business which we are steering to grow for and a reduction of 0.2% in the
+administration cost, thanks to our tight cost control. On the movement of the third quarter
+Solvency, I would first would like to comment, but basically, you have mainly 4 percentage
+points of capital generation, and these are -- in the holding part. And these are
+counterbalanced by 4 percentage point of capital movement, which includes also the
+effect of our liability management exercise we did, as you know, by -- in the end of
+September and we account for already in this presentation. There are something like 3
+percentage point of market variances and another 2 points of other truly due to the 2% or
+4% [ph].
+
+Q - Peter Eliot
+
+{BIO 7556214 <GO>}
+
+Okay. That's good. If it's not being cheeky, would it be possible to spit out the market
+variances in terms of interest rates and BTP? And also I was wondering, if we could have
+the run-off gains within the combined ratio. Thank you.
+
+A - Frederic de Courtois
+
+{BIO 16976110 <GO>}
+
+Okay. Okay. So, Peter, this is Frederic. I complete on the loss ratio and the combined. So
+as mentioned by Cristiano, our combined -- so, the improvement of our combined by 0.3
+points is explained by the deterioration of the expense ratio by 0.4 points and an
+improvement of the loss ratio by 0.7 points. Out of the minus 0.7 points of the loss ratio,
+we have less run-off, so by 0.6 points, we have a slight deterioration of cat by 0.3 points,
+and we have a significant improvement of the current year attritional loss by 1.6 points,
+which is I think the interesting trend because this is a trend that we already had over last
+year and that we still have over this year and which is probably linked to our strong
+technical excellence initiatives.
+So the -- we see a strong decrease of our attritional currency loss ratio. Before giving the
+word to Cristiano on the Solvency again, let me comment on the impact from EIOPA. So
+you know that, first, we had this draft from EIOPA. They are two big topics I would say. The
+first one is the topic of the last liquid points. Very difficult to know at this stage, but my
+Page 2 of 10
+
+
+
+Company N ame: Assicuraz ioni Generali SpA
+Company Ticker: G I M Equity
+Date: 2019-11-07
+
+FINAL
+
+only comment is that due to our geographical mix and our business mix, we are much less
+impacted by this topic compared to our peers. And the second big topic is obviously the
+volatility adjustment, but as you know, we have no clear proposal on the table, so we are
+still very much at the stage of a lot of various scenarios. So, I wouldn't comment on fees at
+this stage. Cristiano, on the Solvency?
+
+A - Cristiano Borean
+
+{BIO 15246531 <GO>}
+
+Yes. To complete, Peter, let's say that the net effect between the decrease of the
+government spread, especially BTP, and the decrease of the interest rate is a net 2
+percentage point decrease. My comment would like to be to you to focus more on the
+fact that the BTP tightening was less pronounced in the 15-year bucket than in the 10-year
+bucket and this clearly has, when you evaluate, an impact, which is exactly the opposite if
+you look at the 15-year swap movement on the flattening part of the curve. So, you have
+also this, let's say, non-linear parallel effect in your understanding of estimation.
+
+Q - Peter Eliot
+
+{BIO 7556214 <GO>}
+
+That's great. I hope you don't mind me asking a very quick follow-up on that, Cristiano,
+because obviously the sensitivities you give, it's a parallel shift, and we can do the work
+very, very thoroughly or we can take a point estimate. It sounds like you're saying 15 years.
+It's probably the best point to use if we want to have sort of quick and dirty method.
+Would that be about right?
+
+A - Cristiano Borean
+
+{BIO 15246531 <GO>}
+
+Bloomberg Transcript
+
+Given the structure of our liabilities in life, it is more consistent to focus on there.
+
+Q - Peter Eliot
+
+{BIO 7556214 <GO>}
+
+Yeah, great. Thank you both very much.
+
+Operator
+The next question is from Farooq Hanif with Credit Suisse. Please go ahead.
+
+Q - Farooq Hanif
+
+{BIO 4780978 <GO>}
+
+Hi, there. Thank you very much. Just quickly on new -- life new business mix. I mean the
+margin decline is quite low in US profit. I was just wondering whether you're seeing a
+further increase in protection and your linked business and whether you can comment on
+that. And secondly, clearly, you could see a material decline in investment yield now
+particularly in Italy in your P&C business. Is there some easy metric we can think of in terms
+of the basis point decline per year roughly to model that? Thank you.
+
+A - Frederic de Courtois
+
+{BIO 16976110 <GO>}
+
+Hi, Farooq. So, on the -- yes, you can see it on the NBV. So the NBV margin is resisting well
+which is due to a very good increase on protection, better third quarter on unit-linked, and
+the fact that we continue to roll out the strategy that we have already explained on the
+
+Page 3 of 10
+
+
+
+Company N ame: Assicuraz ioni Generali SpA
+Company Ticker: G I M Equity
+Date: 2019-11-07
+
+FINAL
+
+fact that our -- especially in Italy, our general account are now lighter and lighter because
+we've moved to maturity guarantees. Then, if you ask me why do we have a significant
+increase on protection, my only good answer is that this is really our strategy to develop
+protection in other countries, so mainly Europe and Asia. And that -- the fact that we have
+proprietary channels, helps us on this because they are well aligned with the company's
+strategy.
+
+Q - Farooq Hanif
+
+{BIO 4780978 <GO>}
+
+Can I just ask quickly on protection, if I may? When you say protection, is the majority of
+this business a rider, is it mortality, or is there quite a lot of health?
+
+A - Frederic de Courtois
+
+{BIO 16976110 <GO>}
+
+So in -- as you know, the business in Asia is mainly about riders, and the business in
+Europe is, as a majority stand-alone business. You have also riders but the majority is
+stand-alone business.
+
+Q - Farooq Hanif
+
+{BIO 4780978 <GO>}
+
+Okay, thank you.
+
+Operator
+
+Bloomberg Transcript
+
+The next question is from Nick Holmes with Societe Generale. Please go ahead.
+
+Q - Nick Holmes
+
+{BIO 3387435 <GO>}
+
+Oh, hi there. Thanks very much. Just one question. Just wanted to ask if you can give us
+an update on pricing in the Italian motor market. Are you seeing price stabilization do you
+think?
+
+A - Frederic de Courtois
+
+{BIO 16976110 <GO>}
+
+Sorry, I need first to answer, Farooq, which I don't know why the operator skipped the
+answer. So the reinvestment yield in P&C. First, let me say and repeat what we said last
+time, the amount of money to be reinvested in P&C is very limited in the next two [ph]
+years coming from the structure of our collection and the structure of our fixed income
+portfolio. And this is visible also in the third quarter, where there was a very small amount
+of reinvestment to be down, one third compared to last year, if you have to keep in mind
+this. So the strategy is to keep a reinvestment yield which is sufficiently in line with some
+drops going forward of some tens of bps, but you should not expect a huge effect due to
+the fact that the portfolio to be reinvested is very small.
+
+Q - Farooq Hanif
+
+{BIO 4780978 <GO>}
+
+Thank you, Fred. Very kind. Thank you.
+
+Operator
+Page 4 of 10
+
+
+
+Company N ame: Assicuraz ioni Generali SpA
+Company Ticker: G I M Equity
+Date: 2019-11-07
+
+The next question is from Nick Holmes with Societe Generale. Please go ahead.
+
+Q - Nick Holmes
+
+{BIO 3387435 <GO>}
+
+FINAL
+
+Oh, hi, there. Yeah. Thanks very much. Just one question. I wondered could you update us
+on pricing in the Italian motor market? Just wondered if you think finally we're getting to
+price stabilization.
+
+A - Frederic de Courtois
+
+{BIO 16976110 <GO>}
+
+So, Italian motor market's combined ratio is continuing to improve. As far as prices are
+concerned, I would say stabilization, may be, slightly up in a market which is still
+competitive, but the fact that -- again, that we have rolled out or our technical excellence
+initiatives have led to better combined ratio on the motor. So no -- on the trend -- on the
+prices, no big changes compared to what we have discussed during the last period, so
+stable to slightly up.
+
+Q - Nick Holmes
+
+{BIO 3387435 <GO>}
+
+That's great. And can you share the combined ratio with us again for Italian motor?
+
+A - Frederic de Courtois
+
+{BIO 16976110 <GO>}
+
+Nick, sorry, we don't share this information for the quarter. We'll discuss at year end.
+
+Bloomberg Transcript
+
+Q - Nick Holmes
+
+{BIO 3387435 <GO>}
+
+Okay. Yeah. Sure. Sure. No problem. Thank you very much.
+
+Operator
+The next question is from Ashik Musaddi with JPMorgan. Please go ahead.
+
+Q - Ashik Musaddi
+
+{BIO 15847584 <GO>}
+
+Hi. Good afternoon everyone. Just a few questions. First of all is around the number, there
+is some consolidation number in the P&L in operating profit, that improved materially
+year-on-year. So what's going there? Any thoughts on that? Secondly is, can you walk us
+through the operating profit to the group net profit number, just what are the key
+elements there? Any thoughts on that?
+And thirdly, if I understand correctly, you did a bit of re-risking of your assets in third
+quarter. As a result, there was a bit of a drag on solvency ratio. What was that re-risking, in
+which particular asset class? Any thoughts on that would be great. Thank you.
+
+A - Cristiano Borean
+
+{BIO 15246531 <GO>}
+
+Hi, Ashik. So, let's start with consolidation adjustment. First of all, in the quarter, you have
+two effects. One is related to the IFRS 5 companies like in Generali Leben, which last year
+were put in this category where there was some interrelation among the company and
+Page 5 of 10
+
+
+
+FINAL
+
+Company N ame: Assicuraz ioni Generali SpA
+Company Ticker: G I M Equity
+Date: 2019-11-07
+
+the group which were netting out. And now, we will not have this effect of consolidation
+adjustment, the negative part going forward and this will be stabilized with the year end.
+And this is, in a certain sense, recurring because it will not be there. Then there is a oneoff effect of a realization of an intra-group bond losses which has been consolidated out
+positively on the other side, but this effect is not an effect, which is recurring. So on the -about EUR30 million difference between third quarter 2018 and third quarter 2019 of
+consolidation adjustment, you have about half of this coming from the recurring and half
+coming from this effect.
+Second point, regarding the walk from operating to net what are the key element? Well,
+first of all, in the effect of investment non-operating result, there are still some
+impairments of around EUR200 million before taxes, which is consistent to what I told you
+last time of our rules of once impaired, always impaired and the 12-months rule which is
+applied under our IFRS accounting rules. Then, we have an improvement on the nonoperating of the expenses, because of the interest rate debt where you (inaudible)
+slightly more than EUR30 million improvement.
+
+Bloomberg Transcript
+
+And then we have, basically, the same level of -- in absolute number on taxes, which
+brings you -- taking into account the discontinued operation of EUR475 million coming
+from mainly the capital gain from the sale of Generali Belgium for EUR128 million and the
+gain coming from the sale of Generali Leben for EUR352 million brings you basically there
+apart for the result of the previous Generali Leben. And then on the minorities, you get
+the EUR200 million minorities. These are the major drivers for the operating to effect.
+Then I would like to recall that within the non-operating investment result, when you go on
+the final net result, you have to account the EUR188 million of liability management, which
+we communicated also in the press release and it is accounted in the non-operating
+investment result. Hope I gave you clarity on this point.
+
+Q - Ashik Musaddi
+
+{BIO 15847584 <GO>}
+
+Yeah. It's very clear.
+
+A - Cristiano Borean
+
+{BIO 15246531 <GO>}
+
+On the re-risking in our asset, first of all, the re-risking is completely consistent with our
+Generali 2021 strategy in the investment, which brings us the increase in the real asset like
+private debt, private equity, infrastructure. What is important to be understood, it is clearly
+that depending on the level of interest rate as of today, the capital intensity of this
+investment is different, so it's higher. And the impact on the Solvency was in the order of 1
+percentage point of Solvency for the quarter.
+
+Q - Ashik Musaddi
+
+{BIO 15847584 <GO>}
+
+That's very clear. Thank you. Thanks for the detailed explanation.
+
+Operator
+The next question is from Niccolo Dalla Palma with Exane BNP Paribas. Please go ahead.
+Page 6 of 10
+
+
+
+Company N ame: Assicuraz ioni Generali SpA
+Company Ticker: G I M Equity
+Date: 2019-11-07
+
+Q - Niccolo Dalla Palma
+
+{BIO 16052945 <GO>}
+
+FINAL
+
+Hi. Good afternoon everyone. I have one question on the Life New business mainly where
+you mentioned the futures of new products, the sort of recalibration of financial
+guarantees, and you gave just now the example of the at-maturity guarantees. Is there
+any other important changes you are making? I think you have been vocal in France about
+the changes. Is there any practical examples that you can give us of significant changes to
+products across the business maybe also in Germany? Thank you.
+
+A - Frederic de Courtois
+
+{BIO 16976110 <GO>}
+
+Hi, Niccolo. This is Frederic. So, yes, you are right. We've been very vocal in France and I
+think we've been right to do this. And by the way we've been followed by the market. So
+we are in France. Of course, like, every other market we're strongly developing
+protection, but the big change will be on the savings part.
+
+Bloomberg Transcript
+
+So, we are much -- even more -- much more focused than before on unit-linked. And we
+will be much more focused than before on the euro croissance. You know that the euro
+croissance is the equivalent of what I call the maturity guarantee in Italy. So in euro
+croissance, you have -- you also have a maturity guarantee. You also have the possibility
+to guarantee less than 100%, so 80% or 90%. And you know that the French government
+has -- or is currently simplifying the euro croissance, which will probably help to boost the
+volumes in 2020. So, euro croissance is and will probably be a good alternative in France.
+Saying this, we are also doing all what we can to disincentivize general account in France.
+We recognize that the general account will remain in our product range, but we also
+recognize that the -- what was paid by the markets on the general account product was
+not sustainable. So, we will decrease the payout on general accounts and we are
+obviously ready to have net outflows in general accounts. So, we are clearly focused on
+margins on this.
+
+A - Cristiano Borean
+
+{BIO 15246531 <GO>}
+
+Sorry. It is Cristiano. So, just to follow-up on the previous answer to clarify the EUR188
+million of net result impact of liability management is net result. So, after-tax. The pretax
+impact was EUR245 million, just to have everybody on the same page.
+
+A - Frederic de Courtois
+
+{BIO 16976110 <GO>}
+
+And I may complement my answer to Niccolo because I realized that you were also asking
+about Germany, but Germany is not really an issue for us. Not only on the in-force, as you
+know, after the sale of Generali Leben, but also because our new business is extremely
+strongly focused on unit-linked and protection. So usually, what we sell in Germany are
+bundled products with various guarantees. And the general account part is extremely
+small, and most of the annuities are unit-linked and protection. So, we don't see an
+incentive to have strong changes on this and I would say, unlike the market, because the
+market is still very much focused on general account in Germany.
+
+Operator
+Page 7 of 10
+
+
+
+Company N ame: Assicuraz ioni Generali SpA
+Company Ticker: G I M Equity
+Date: 2019-11-07
+
+The next question is from Elena Perini with Banca IMI. Please go ahead.
+
+FINAL
+
+Q - Elena Perini
+
+{BIO 4202240 <GO>}
+
+Yes. Good afternoon. I've got only one question and it is about your growth. You still have
+more than EUR3 billion to be potentially used for acquisitions. And in particular, you stated
+to be interested in P&C and asset management. Can we expect something new after
+Portugal on this side? Are you working on this? And do you have any updates? Thank you
+very much.
+
+A - Frederic de Courtois
+
+{BIO 16976110 <GO>}
+
+Thank you, Elena. This is Frederic. What I can tell you on this is that our strategy is
+unchanged. So we are still -- we still have money to be reinvested if there are good
+opportunities. We -- as you said we're interested in P&C asset management also in
+protection and health. And again, we need to be very disciplined. I mean, we are aware
+that we are probably at the end of a cycle, so we are aware that the opportunities are not
+cheap. So, we need to be even more disciplined than before on the prices and conditions.
+
+Q - Elena Perini
+
+{BIO 4202240 <GO>}
+
+Okay. Thank you.
+
+Operator
+
+Bloomberg Transcript
+
+The next question is from James Shuck with Citi. Please go ahead.
+
+Q - James Shuck
+
+{BIO 3680082 <GO>}
+
+Hello. Good afternoon everybody. So, I'm going to try and ask this question, but I'm not
+sure what kind of answer I'm going to get, but I'll give it a go. We might well be seeing the
+nuance of the various cross-shareholdings in Italy. There's a few things happening in terms
+of stakes at various companies changing and some of the families changing their
+exposures in certain areas. To the extent you can comment on that, I'd welcome any
+comments that you might be able to give in terms of how you see that evolving over the
+medium term. And so, a semi-linked question, if capital wasn't an issue for you i.e. the
+EUR3 billion you got available for acquisitions, if that was suddenly a much bigger number,
+how do you think you could accelerate your expansion in Europe? Thank you.
+
+A - Frederic de Courtois
+
+{BIO 16976110 <GO>}
+
+Hi, James. First, sorry for this, but I will disappoint you on your first question. I will not
+comment on the cross-shareholding in Italy. And we, as you know, that we have the rule to
+never comment on our shareholders. So, I have no specific -- have no specific comment
+on this.
+Then on acquisitions, so yes, we've talked about EUR3 billion to EUR4 billion. We -- to
+complement the answer I've given before, we especially like acquisitions with synergies.
+So, we have a specific focus on Europe. Not only on Europe. You know that we have -- we
+are in a limited number of markets in Asia and Latin America. We like also the Assistance
+Page 8 of 10
+
+
+
+Company N ame: Assicuraz ioni Generali SpA
+Company Ticker: G I M Equity
+Date: 2019-11-07
+
+business for instance, but -- so, if we are going to buy something in Europe, I cannot
+answer and I don't know, but we like Europe. We are the market leader in Europe and we
+like synergies, which we have in Europe.
+
+FINAL
+
+Q - James Shuck
+
+{BIO 3680082 <GO>}
+
+I guess -- I'd take the point on the cross-shareholdings, but I thought I'd try. But I mean just
+in Europe, I mean, are you seeing assets come to market at the moment? Are the
+mutuals and things looking at the demutualizing? Are there companies looking to sell off
+parts of their businesses? I guess if EUR3 billion -- if there's an opportunity that came
+along that was more opportunistic and you wanted to do more than EUR3 billion, would
+you consider that?
+
+A - Frederic de Courtois
+
+{BIO 16976110 <GO>}
+
+So first, we believe that there will be opportunities because we have 4,000 insurers in
+Europe and we believe that some of them will be heavily impacted by interest rates. So,
+we believe that there will be a trend of consolidation. Then, I'm not sure to have
+understood your question about demutualization. I don't know what you are referring to.
+
+Q - James Shuck
+
+{BIO 3680082 <GO>}
+
+Just mutual companies with -- coming under Solvency stress and business models that
+don't work in the digital age may be looking to sell off parts of their businesses.
+
+Bloomberg Transcript
+
+A - Frederic de Courtois
+
+{BIO 16976110 <GO>}
+
+So, again we will see. They are good demutualizing. This is -- it maybe an opportunity, but
+more globally, again I think that and we see that some of the insurance companies in
+Europe mutuals or not, will be heavily impacted by the low interest rate. And yes, it may
+be lead to opportunity.
+
+Q - James Shuck
+
+{BIO 3680082 <GO>}
+
+Yeah. Okay. Thank you very much.
+
+Operator
+(Operator Instructions). Ms. Raffo, gentlemen, there are no more questions registered at
+this time.
+
+A - Giulia Raffo
+
+{BIO 21037091 <GO>}
+
+Thank you very much. If that is the case, I believe we can conclude our conference call. As
+always, the IR team will be at your disposal for any follow-up question that you might have.
+And as far as the activities are concerned, we will be having our next conference call in
+March 2020 for our full year results. Thank you very much. Have a good day. Bye. Bye-bye.
+
+Operator
+Page 9 of 10
+
+
+
+Company N ame: Assicuraz ioni Generali SpA
+Company Ticker: G I M Equity
+Date: 2019-11-07
+
+This transcript may not be 100 percent accurate and may contain misspellings and other
+inaccuracies. This transcript is provided "as is", without express or implied warranties of
+any kind. Bloomberg retains all rights to this transcript and provides it solely for your
+personal, non-commercial use. Bloomberg, its suppliers and third-party agents shall
+have no liability for errors in this transcript or for lost profits, losses, or direct, indirect,
+incidental, consequential, special or punitive damages in connection with the
+furnishing, performance or use of such transcript. Neither the information nor any
+opinion expressed in this transcript constitutes a solicitation of the purchase or sale of
+securities or commodities. Any opinion expressed in the transcript does not necessarily
+reflect the views of Bloomberg LP. © COPYRIGHT 2022, BLOOMBERG LP. All rights
+reserved. Any reproduction, redistribution or retransmission is expressly prohibited.
+
+Bloomberg Transcript
+
+FINAL
+
+Ladies and gentlemen, thank you for joining. The conference is now over. You may
+disconnect your telephones.
+
+Page 10 of 10
+
+

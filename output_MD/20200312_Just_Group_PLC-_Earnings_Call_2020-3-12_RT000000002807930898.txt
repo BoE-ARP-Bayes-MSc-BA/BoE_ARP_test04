@@ -1,0 +1,1355 @@
+Company N ame: Just Group PL C
+Company Ticker: JUST L N Equity
+Date: 2020-03-12
+
+Y 2019 Earnings Call
+Company Participants
+FINAL
+
+Andy Parsons , Group Chief Financial Officer
+David Richardson, Group Chief Executive Officer & Managing Director UK Corporate
+Business
+Guy Horton, Group Actuarial Executive
+Stephen Lowe , Investor Relations
+
+Other Participants
+Analyst
+Andrew Crean
+Barrie Cornes
+Charlie Beeching
+Nicholas Johnson
+Oliver Steel
+
+Bloomberg Transcript
+
+Presentation
+David Richardson
+
+{BIO 18045016 <GO>}
+
+Good morning, everybody. And I'm David Richardson, Chief Executive of Just Group. And I
+want to welcome you to our Full-Year Results today. Understandably, we have more
+people than usual on the webcast due to travel restrictions. So a warm welcome to you
+too. And I'd like to thank Deutsche Bank for the use of their facilities today.
+I'll introduce everyone to our new CFO, Andy Parsons. Andy joined us just over 10 weeks
+ago, it is only 10 weeks Andy. And I'm truly delighted to have him by my side, he has got
+up to speed rapidly, which is probably not surprised given both the depth and the breadth
+of experience that he brings in to role from previous roles in the sector. I'm also joined by
+Guy Horton, who leads our Actuarial and Capital teams. And you hopefully remember
+from our interim results, Guy is going to help out with the Q&A today. So I'm sure, you'll
+keep him busy.
+I'm going to open today with some overarching remarks. We have a clear strategy
+focused on improving the group's capital position. And today I think, we can announce
+that we're making really good progress on that. Despite operating in a tough
+environment, we took big spread -- the big strides in improving our organic capital
+generation and reducing balance sheet risk during 2019.
+
+Page 1 of 24
+
+
+
+Company N ame: Just Group PL C
+Company Ticker: JUST L N Equity
+Date: 2020-03-12
+
+FINAL
+
+We've halved new business capital strain. We've reduced our property sensitivity. We
+signed our first DB partnering deal, and we've released capital through longevity
+reinsurance. We achieved organic capital generation in the second-half of the year and at
+the same time accelerated our adoption of the new regulatory requirements. However,
+we've no plans to ease up, there's much to do and still a way to go before we're truly
+capital self-sufficient. And I mean that in the sense of having a level of capital surplus
+being generated that it's giving us real choices in how to deploy it.
+We are confident, we've a robust planned to deliver sustainable capital model, and
+achieving this will allow us to refocus on a real purpose of helping our customers achieve
+a better later life, while creating value for shareholders.
+
+Bloomberg Transcript
+
+So, let's step into the results. As you all know, capital was my number one priority, when I
+assume to CEO role last night. We've already made some big strides in the right direction.
+We've held a discipline our new business pricing, costs and product design. And our
+award has been a halving of new business capital strain, despite only having to trim
+volumes by 12%. This means that in the second-half of the year, the margins and capital
+release from the back book actually exceeded capital consumption by new business
+strain, finance costs and other expenses. And for the years a hold -- as a whole, we were
+organically capital generative, when you take management actions such as the DB
+longevity reinsurance into account.
+I'm also really excited our first DB parting deal has been done. It's the kind of deal that will
+help us deliver sustainable organic capital generation of the future, and we'll come back
+to that later. We've also decided that the sooner we recognize the full cost of reg change
+to better. So, we've decided to take GBP219 million of regulatory cost today, not just the
+GBP70 million that we flied at the time of the interims.
+We now estimate the remaining regulatory cost of fully implementing SS3/17 and PS19/19
+at around GBP80 million, which together with the GBP219 million we've always hit would
+be well within the guidance of an aggregate GBP350 million that we provided at the
+interim results.
+Now getting to this point, has required us to restructure the internal LTM resecuritisation,
+which is the mechanism by which we recognize the matching adjustment on these assets.
+The old notes structure was designed before the recent regulatory changes, in particular
+the advent of the effective value test or the EVT for short. The restructuring facilitates our
+compliance with the new rules.
+The decision to accelerate our regulatory costs has obviously effected our headline
+capital coverage ratio. If we hadn't decided to recognize these regulatory cost upfront,
+our capital coverage ratio would have been a 156%. Haven taken more of the regulatory
+charges upfront, we believe that our underlying solvency ratio trajectory, absent significant
+unhedged market movements should be positive from this point forward. This will be
+driven by our expectation that we will be organically capital generative, and also given that
+we have a range of capital management actions still available to us.
+
+Page 2 of 24
+
+
+
+Company N ame: Just Group PL C
+Company Ticker: JUST L N Equity
+Date: 2020-03-12
+
+FINAL
+
+Now in ordinary circumstances, market movements would cause some fluctuations around
+that underlying trend. Right now, we are experiencing truly extraordinary short-term
+market fluctuations, but our increased level of interest rate hedging, means that our
+capital coverage ratio is unchanged since the year-end and remains at a 141%. Andy will
+cover this in more detail later on.
+And finally, although, our primary focus is on capital, we've still managed to post healthy
+IFRS operating profits. And our IFRS intangible book value of 181 pence per share
+obviously remains significantly higher in our share price.
+So moving on Slide 5, you'll recognize this from the interims, it shows the capital actions
+toolkit available to us to offset the regulatory costs we have faced. I'm pleased that since
+the interims we've made good progress on all six of the boxes on the right, but with more
+to come on each. I'll talk to most of them over the coming slides.
+
+Bloomberg Transcript
+
+So, let's start with no negative equity guarantee or NNEG risk transfer. As a reminder,
+we're hedging our property no NEG risk for two reasons: The first is just to improve our
+regulatory capital position. And the second is to reduce the level of property sensitivity on
+our regulatory balance sheet. Since year-end, we've concluded a second transaction, this
+time in respect of a rather more substantial GBP670 million of lifetime mortgages, roughly
+3 times the size of the first transaction.
+The counterparty is very well-regarded AA rated insurance company. It is a partial hedge
+with a 30-year duration, providing loss absorbency of up to GBP220 million, and has
+delivered a useful capital benefit since year-end. We also expect to get some matching
+adjustment benefit from this in the future, but we'll update you when that work is
+complete.
+The no NEG hedging has also contributed to the reduction in property sensitivity, which
+you'll see later on when Andy covers it. Now with this transaction and the pilot one, we've
+hedged almost GBP900 million of LTMs, but there are still GBP5.5 billion unhedged. So
+there's plenty of potential to derisk further in the future.
+We've also made significant further progress in creating a capital our DB solution to tackle
+transactions of more than GBP250 million. We have excellent pricing and distribution skills
+for larger DB transactions, but we don't have the capital base to retain a significant
+number of them on our own balance sheet. So, writing these larger transaction using
+mainly external capital provided by reinsurers enables us to play a part in this huge market
+by deploying our award winning new business franchise at the front-end, but using
+somebody else's balance sheet at the back-end. The good news today, is that we're up
+and running with our first reinsurance partner, and we're working hard to sign others and
+to do further partnering transactions.
+Now, I think it's fair to say that we've transformed our organic capital generation dynamics
+in 2019. This has been achieved primarily through the reduction in new business capital
+strain by more than half. It's fell from GBP160 million in 2018 to just GBP74 million in 2019.
+Premiums were 12% lower, but strain as a percentage of premiums fell from 7.4% to 3.9%.
+Page 3 of 24
+
+
+
+Company N ame: Just Group PL C
+Company Ticker: JUST L N Equity
+Date: 2020-03-12
+
+And is now well within our mid-single digit guidance. And we think this broad level of strain
+is sustainable in the future.
+
+FINAL
+
+We made multiple price increases to compensate for the additional capital we now
+required to hold under the new EVT test and to mitigate the impact of lower risk-free
+rates. As well as our prices, we have changed our business mix, and are rising shorter
+liability duration business, which is less capital intensive.
+The DB longevity reinsurance, we announced the half year has already had a beneficial
+effect in these numbers. What this means, is that even in the new capital regime we are
+achieving our targeted mid-teen return on shareholder capital deployed in new business,
+with an average five-year payback period. We've shown further details on full cash flow
+emergence profile of new business in the release at this morning, if you want to look into
+further detail.
+And a recurring team, we're not finished here yet either, further management actions
+such as DB partnering and potentially additional reinsurance should enable us to reduce
+strain further in the future.
+
+Bloomberg Transcript
+
+Cost control is another important focus across the business, and has been a key
+contributor in our journey to organic capital generation. We dully the GBP16 million of cost
+savings in 2019 that we estimated the time of the interims and that's broadly equivalent
+to a 10% reduction in our core management expenses compared to 2018. We have
+further initiatives plan for 2020, and we are focused on the need to eliminate the GBP18
+million of expense over on which you'll see later.
+Now, back to organic capital generation. When you add all these factors up, you can see in
+the top graph that perform management actions we came very close to being organically
+capital generative in 2019. And that once you add the management actions which are
+shown in the bottom graph, we were organically capital generative in 2019. We think
+there's a reasonable chance, we will get there before management actions in 2020, and
+fully expect to make take it over the line when those are included.
+The leadership team are now all strongly incentivized to deliver organic capital
+generation, not just IFRS profits, and that certainly helps to focus minds. This means, we
+are more confident than ever that we will achieve our goal of capital self-sufficiency.
+Now, in the context of significantly improved organic capital dynamics, we thought it was
+time to grasp the nettle on regulatory change. As I said at beginning, we've restructured
+our LTM securitisation notes in an EVT effective value test compliant way. We take less
+matching adjustment credit in our solvency II balance sheet, and we've increased our SCR.
+This reduced our excess own funds at year-end by GBP219 million in total, and the
+reduction in MA also reduces our property sensitivity.
+As I mentioned earlier, there were still some unfinished business, which we estimate will
+cost approximately GBP80 million. Although, it isn't exactly comparing like, as I mentioned
+before, the revised total cost of complying with the new regulatory rules we now estimate
+Page 4 of 24
+
+
+
+Company N ame: Just Group PL C
+Company Ticker: JUST L N Equity
+Date: 2020-03-12
+
+at GBP299 million and that compares to the GBP350 million, which we'd indicated at the
+time of the interims.
+
+FINAL
+
+So again, the process is not yet complete, but we feel we have significantly greater clarity.
+Now that the note restructuring has been completed, and given that we've already faced
+up to a greater proportion of the ultimate cost.
+And maybe just a quick reminder, lifetime mortgages remain an economically attractive
+asset class, as well as acting as a partial hedge for longevity risk in our retirement income
+book. And what this slide shows is the amount of credit you get for different assets on the
+solvency II or regulatory balance sheet. What it shows is the amount of credit we now take
+for LTMs in the regulatory balance sheet, has fallen significantly since the introduction of
+solvency II, mainly as a result of SS3/17.
+So following our construction of the LTM securitization, the MA allowance on lifetime
+mortgages, which is the pink bar where you could include the green bar with TMTP relief.
+But either way, it's broadly in line with infrastructure loans now, and only slightly hard in our
+corporate bonds. Although, it should add that typically the MA benefit in pound terms is
+still greater on lifetime mortgages, and that's a function of their longer duration, you earn
+that credit that yield pickup for longer, right?
+So with that, I'll hand over to Andy.
+
+Bloomberg Transcript
+
+Andy Parsons
+
+{BIO 20726474 <GO>}
+
+Thank you, David. And good morning, everybody. I'm very pleased to be able to stand
+here today as the CFO of Just Group. I joined shortly after new year, and it's been quite a
+long wait since I was announced in June, so I'm pleased to be finally on board. But before
+I move on to the numbers, I just wanted to say a few words on why I decided to join the
+group and what I've found since coming on board.
+I've always recognized and being impressed by Just's ability to compete in the retirement
+marketplace. The regulatory challenges impacting on the business have been well
+documented. But from the outside, I could see that the fundamentals of the business
+were robust. And the growing in-force surpluses would lead to positive capital generation,
+provided that new business capital strain was kept under control and the costs were
+contained.
+I strongly believe that the market and in particular customers, benefit from the presence
+of Just in a retirement marketplace that can lack innovation and to an extent competition.
+I'm observing since last summer and more recently since joining, I've been hugely
+impressed by the progress the group has made during 2019. The energy and
+determination they've shown in overcoming its challenges and succeeding.
+I've really appreciated the warm welcome I've had from the whole team, and hope to be
+able to get up to speed quickly and add my contribution going forwards.
+
+Page 5 of 24
+
+
+
+Company N ame: Just Group PL C
+Company Ticker: JUST L N Equity
+Date: 2020-03-12
+
+FINAL
+
+So turning then to the 2019 financial results. I want to focus first on the capital journey, and
+I've come from a place where capital was key and completely share David's focus on this,
+as his number one priority. This quarter fall shows the development of our solvency II
+surplus over 2019. I'll go into more detail in the following slides, but first let's pick out a
+few of the more important numbers.
+So, our opening surplus was GBP577 million, and a capital coverage ratio of a 136%. And
+as you can see, we would have finished the year with a surplus GBP390 million higher on a
+156% ratio, before making the regulatory changes that David has described. Those
+changes have taken our ratio back to a 141%, but that's still 5 points higher than at the
+start of the year. But not yet at the level where I would feel satisfied.
+I'm very pleased to be able to point to the positive contribution from organic capital
+generation in 2019, with this contributing two percentage points to the ratio in the year.
+And this is included the accelerated release of DB longevity capital via reinsurance. The
+economic movements for the full-year similar to those at the half year, with the housing
+market performing largely in line with our long-term assumptions in the second-half.
+
+Bloomberg Transcript
+
+And you should already have been aware of the capital issuance, which includes GBP125
+million of new Tier 2 debt issued in the autumn, net of the GBP37 million repaid following
+the October tender offer. But this bar doesn't include the GBP63 million redemption of
+Tier 2 debt, where we announced our intention to call a couple of weeks ago, and that will
+happen at the end of this month.
+But now let's go into further detail on the organic capital generation and how we see this
+developing?
+This slide shows it's key components that make up the organic capital generation. We see
+this as a measure of capital generation achieved by the business, before the impacts of
+regulatory change, market movements and any capital raising. It includes the ability of the
+business to generate capital surplus from management actions. The GBP36 million of
+organic capital generate in 2019, is obviously a significant improvement on the GBP165
+million consumed in 2018, with a huge benefit coming from the reduction in strain.
+Our in-force surplus grew strongly, reflecting growth in the book and higher investment
+margin unwind with further growth expected as we move forwards. Although, it's slightly
+lower rates, I would expect high-single digits in future.
+The increase in finance cost you can see here mainly reflects the RT1 coupons. Although,
+note these are on a paid basis and will be around GBP14 million higher in 2020 after tax
+creating a small headwind.
+Expenses outside of acquisition and maintenance allowances are similar to last year, and
+there's more still to do here. But good progress has made -- has been made in 2019. And
+the acquisition cost overall was fallen by GBP2 million to GBP18 million, which included the
+GBP16 million of acquisition cost savings David outlined earlier, offset obviously by the
+reduction in volumes.
+Page 6 of 24
+
+
+
+Company N ame: Just Group PL C
+Company Ticker: JUST L N Equity
+Date: 2020-03-12
+
+FINAL
+
+We have further savings to come on a targeting the elimination of this GBP18 million
+expense overrun by the end of 2021. I would expect development and non-recurring costs
+to be at similar levels in 2020, as we continue to reshape the business and finalize the
+impacts from regulatory change.
+The other management actions section includes a number of items, but most importantly,
+the GBP89 million gain from the DB reinsurance deal that we discussed at the interims.
+This number is a little lower than we previously indicated, in part because GBP12 million of
+the benefit has been included in the new business trend line relating to the first-half of
+the year. The GBP38 million other cost in this line includes a number of modeling and
+bases changes.
+And note that in 2020, this line will include the benefit of management actions such as the
+no NEG hedging we've announced today, and potentially further management actions
+such as increased longevity reinsurance.
+
+Bloomberg Transcript
+
+As you can see from this slide, this highlights the dynamic has driven the improved organic
+capital generation picture, which is impressive both in terms of the quantum and the
+speed of the changes delivered to reshape the business in 2019. So, as you can see from
+the intersect of the two lines in the second-half of 2019, the margins and capital being
+released from the back book now exceed new business strain and other costs including
+interest.
+And note within this, we're already pricing and computing the new business strain based
+on 13% volatility and 1% deferment rate for lifetime mortgages, even though, we don't
+get reserve fully on this basis.
+So as you can see, we're already living within our means in half to 2019, but it wasn't by
+very much, and we've got further to go particularly on the cost agenda. We're committed
+to drive -- to continue to drive further progress, to extend the positive yields on this chart,
+with the aim of this will then start to give us real choices on how to deploy surplus capital
+in future.
+Now, let's have a look at the non-operating items. Firstly, the property variance of GBP101
+million. This represents the solvency impact of flat house prices seen through the
+portfolio, largely during the first-half of last year, compared to our long-term 3.8% per
+annum house price inflation assumption. In the second-half of the year, prices broadly
+tracked our long-term expectations. A GBP96 million out of the GBP101 million cost for the
+year arose in the first-half.
+Other economic variances for the year totaled GBP45 million. Also little change from halfyear, comprising small positives from corporate bond default experience and a small
+negative on interest rates. Remember half-year we told you, we've been proactive in
+hedging our sensitivity to interest rates. 2020, will be the final year of the accelerated
+TMTP amortization with GBP25 million expected this year after the GBP42 million in 2019.
+
+Page 7 of 24
+
+
+
+Company N ame: Just Group PL C
+Company Ticker: JUST L N Equity
+Date: 2020-03-12
+
+FINAL
+
+And then on to regulatory change. So the interims as David mentioned we've flagged
+GBP70 million of regulatory change. But through the restructuring of the LTM securitisation
+notes at year-end, we've chosen to take more of the impact of this change upfront. The
+cost here of GBP219 million includes meeting an EVT test, parameterized at 13% volatility
+and 0.67% deferment rate within the matching adjustment. And with a level of SCR that
+we believe will cover the allowance for EVT in stress, required under PS19/19 by the end of
+2021.
+A key benefit is, obviously that we believe now we only have GBP80 million of expected
+further regulatory headwind ahead of us, in order to achieve the full requirements of the
+new regulations for LTMs by the end of 2021.
+So there's still much work to do, including with the PRA to flow the new regulatory
+requirements into our capital model. Overall, we've achieved improved clarity on the
+impact of regulatory change and a lower expected cost.
+
+Bloomberg Transcript
+
+Moving on then to the sensitivities. We're focusing first on interest rates, given the
+significant movements we've seen in the market year-to-date. Our interest rate sensitivity
+on the chart is shown here at year-end, and demonstrates the impact -- the effect of
+hedges that we had in place at the time. As a general principle, we looked hedged the
+impact of long-term interest rates on our solvency II excess own funds position. But since
+year-end, we actually increased our interest rate hedging to continue to minimize our
+solvency II capital exposure to interest rates, particularly given the extent of the market
+movements, which are reduced tenure rates by over 50 basis points.
+Credit spreads have also helped marginally as you can see from the slight positive
+sensitivity. And early redemptions are only a minor factor. And as you know, we don't
+disclose an equity sensitivity, as we don't hold any equities.
+But as we disclosed a half-year '19, our largest exposure is to UK housing. And you'll
+notice here that our hit to the capital ratio from a 10% fall in property prices is now
+estimated at 15 percentage points, compared to the 20 points at interims. This is a very
+encouraging reduction resulting mainly from the regulatory changes to our balance sheet,
+less matching adjustment benefit now included. And there's also some benefit from no
+NEG hedging tariffs, including the trade we've completed recently. Further hedging trades
+will reduce the sensitivity more.
+Now to-date, the housing markets performed well post-election, but we should recognize
+in the current environment the outlook for house prices must be uncertain. On
+policyholder mortality, we can see that reduction of 5% would affect us by ten percentage
+points. This is also come down since the interims due impart through our increased use of
+reinsurance.
+On this next slide, we bring our solvency coverage ratio up-to-date by combining the
+three key non-economic developments since the year-end, with our estimate of
+movement from the business and due to the financial markets.
+
+Page 8 of 24
+
+
+
+Company N ame: Just Group PL C
+Company Ticker: JUST L N Equity
+Date: 2020-03-12
+
+FINAL
+
+Firstly, the key non-economic developments. As many of you expected, we've called the
+remaining Tier 2 notes, with that -- with this action, not in our reported solvency position at
+year-end, but very much included in the way that we look at solvency. But since year-end,
+we've obviously completed two significant deals, which David outlined earlier. Specifically
+the no NEG hedge and the DB partner reinsurance, and that obviously has a full-point
+benefit.
+Along this slide, we then brought the picture fully up-to-date by including the first couple
+of months of normal business, as well as all of the market moves up to the 10 of March.
+The combinations of two have reduced our coverage ratio by only 1%. As a result of our
+active hedging on interest rates impact on our solvency position from the significant rate
+falls we've seen to-date, and from other economic and market moves is actually a very
+minimal change to our capital coverage ratio, delivering an even better result than the
+year-end sensitivity we would suggest. So, factoring all of these changes against the
+reported year-end position, we'll produce a coverage ratio of 141% today.
+As I mentioned earlier, we'd -- I'd really like to improve this ratio further. On absolute
+significant unhedged market movements, we'd expect to see this growth further over
+2020 and beyond, as we continue to grow our organic capital generation.
+
+Bloomberg Transcript
+
+Moving now to IFRS. Our adjusted operating profit before tax rose by 4% to GBP219
+million, as a decline in underlying operating profit and a higher finance charge were more
+than offset by positive assumption changes.
+Our underlying operating profit fell by 16% to GBP266 million, with the 18% increase inforce operating profit not enough to offset the 25% decline in new business profit. The
+new business profit decline reflects the 12% from the retirement income volumes and
+lower margins as flagged in the results last year.
+The operating variances and assumption changes were GBP42 million positive this year,
+and this included the GBP10 million pre-tax cost of the DB reinsurance we flagged at the
+interims. We're also positive at elements from maintenance cost reductions and from LTM
+redemption charges, where our positive basis change as offset negative experience
+variance. There were minimal longevity variances or changes.
+Our other group company losses are now declining, and the pace of this decline should
+increase given management's focus.
+Finance costs on this slide have increased as a result of the RT1, which will add another
+GBP11 million in 2020, as we recognize the full annual coupon cost.
+Looking on this slide then, our new business and in-force profit in more detail. As we
+previously guided, our new house price inflation volatility assumptions could -- together
+with a change in LTM duration and backing ratio, result in a roughly two percentage point
+drag on IFRS new business margin compared to the full-year 2018. In the second-half,
+combination of pricing improvements and expense control has resulted in a slight uplifting
+margins compared to half one.
+Page 9 of 24
+
+
+
+Company N ame: Just Group PL C
+Company Ticker: JUST L N Equity
+Date: 2020-03-12
+
+FINAL
+
+Going forward, we would expect a similar margin level. And we'll maintain our pricing
+discipline and would hope for some growth in new business in 2020, absent any
+significant impacts from coronavirus.
+Our in-force operating profit increased by 17%, similar to the increase in half-year. This was
+driven by the growth in the in-force book and better returns on our surplus assets, which
+increase following the March capital rates. So overall, are pleasing in-force result.
+Although, I would expect future growth to be a lower double-digits going forwards.
+Moving then to the below the line items. So, although, operating profit rose only slightly
+although there was quite a dramatic swing in total profit, as a result of investment
+variances. So much shows that this record year for Just IFRS profit before tax. GBP369
+million 2019 compared to the loss of GBP86 million in 2018.
+
+David Richardson
+
+{BIO 18045016 <GO>}
+
+Bloomberg Transcript
+
+Great. Thank you very much, Andy. And again, really good to have you on Board today.
+And I'd like to start my conclusions by just spending a moment to recap on, why we do,
+what we do at JUST?
+And our purpose statement that we show here on the slide is a really good reminder of
+why JUST exists. We help people achieve a better later life. Every colleague across the
+group contributes to this purpose, whether they're directly serving customers or providing
+support someone else who is doing that. We're helping retail savers, homeowners,
+pension trustees and clients of our corporate customers, we'd advice a solution that help
+them to achieve peace of mind in later life; and at times like this, it truly appreciates you
+to just how important that is. The value of locking into certainties never been greater.
+Our group businesses have leadership positions in attractive segments of the retirement
+market. We achieved this leadership by investing to innovate and by deploying our great
+customer insights. This ensures, we are able to fulfill our purpose by providing great value
+and outstanding service to customers. And it's recognized in the awards we have won
+across all sections of the later life market in 2019, and just a few of those are provided on
+the slide.
+We continue to invest in new disrupted solutions albeit selectively given our focus on
+managing costs. Two examples of that we're pausing two new developments this year.
+One, is to help close the financial advice gap for people in middle Britain with much more
+modest pension savings. And the second is a highly innovative solution to deliver
+guaranteed income to retail investors, who've manage their portfolios on modern
+investment platforms. So, we continue to invest in the future to ensure we can fulfill our
+purpose, a purpose which motivates me and over a thousand of our colleagues every day.
+Now, you'll know Investors are increasingly interested in how Boards are addressing
+environmental, social and governance issues. At JUST, we have a very active ESG agenda.
+So, first of all on sustainable investing, we consider key ESG factors in our investment,
+
+Page 10 of 24
+
+
+
+Company N ame: Just Group PL C
+Company Ticker: JUST L N Equity
+Date: 2020-03-12
+
+analysis and filtering. And for some time, we have excluded new investments into
+tobacco, and we have seized making investments in upstream oil and gas companies.
+
+FINAL
+
+Our ESG credentials are evidence in the significant investments we've already made in
+renewables, such as the Volni [ph] and Hornsea offshore wind farms, as well as
+investments in solar and social housing. We were also the first UK ensure to signup to the
+UN principles for responsible investments.
+Secondly, I'm pleased to report, we've reduce our carbon footprint by 41% in 2019. We've
+been building a modern workplace, which has enabled us to provide increased flexibility
+for our colleagues, and also reduce our property square footage by roughly 30%.
+We've been taking our social purpose to new levels this year by investing in our
+communities too. We've been helping older adults get active for a happier, healthier life
+through our new walking sports program JUST get active. JUST are raising awareness of
+walking sports is an alternative way to introduce exercise into people's lives as they get
+older, and guide them to opportunities to get involved.
+
+Bloomberg Transcript
+
+And finally, we've making good progress on diversity as part of our governance agenda,
+which you can see on the slide.
+So, before we end the formal part of the presentation, I just want to underline a few key
+points. First, we have made really significant progress on improving the organic capital
+efficiency of the business, and I want to ensure that positive capital generation is
+sustainable.
+Second, this progress on organic capital generation, means we are confident in achieving
+capital self-sufficiency earlier and previously expected.
+And thirdly, we've accelerated the recognition of the regulatory costs of the change to
+the new EVT requirements.
+We take all these things together, this means that the absence of any significant
+unhedged market movements, we expect the capital coverage ratio to gradually grow
+from this point.
+We've taken decisive action over the last nine-months. I hope you'll agree, we've been
+doing whatever it takes to get us onto a sustainable capital trajectory. So, our message is
+the transformation is underway, but there's still more to do.
+Now, before we go to questions, I just want to say a few words about our Chair, Chris
+Gibson-Smith, who's at the front there, who has informed us obvious intention to retire as
+Chair of the Board, as soon as we have identified a suitable successor.
+
+Page 11 of 24
+
+
+
+Company N ame: Just Group PL C
+Company Ticker: JUST L N Equity
+Date: 2020-03-12
+
+On behalf of the Board, I'd like to thank, Chris for his leadership, he's provided to JUST
+since we were formed in 2016. He has brought great insights to the role gained over his
+rich and varied career. And personally, I've thoroughly enjoyed working closely with Chris
+over the past seven years. He has steered the group through some very challenging
+times, and he genuinely takes our best wishes into the future. Thank you, Chris.
+
+FINAL
+
+So, with that, who'd like to ask the first question?
+
+Questions And Answers
+A - David Richardson
+
+{BIO 18045016 <GO>}
+
+Question And Answer
+
+Q - Charlie Beeching
+
+{BIO 21296314 <GO>}
+
+Bloomberg Transcript
+
+Hi, it's Charlie Beeching, KBW. Three questions, please. Firstly, what would be the
+expected benefit paid to the solvency position on the no NEG transactions that have
+already taken place assuming regulatory approval of the MA adjustment? And as a followup of to that, on the other items line within organic surplus generation, why is the trend
+flat there? Assuming you would assume a benefit from the no NEG equity you're hedging
+alongside further longevity reinsurance. Is this implying a further drag from methodology
+and modeling changes going forward?
+Secondly, would you expect to receive the dividend in full year '20, assuming given the
+improved capital outlook and at what level? And thirdly, what are the drop to embedded
+value disclosure? And can you give us a figure for -- can you give us a figure for the yearend? Thank you.
+
+A - David Richardson
+
+{BIO 18045016 <GO>}
+
+Great, okay. So I'll actually split that into four questions. We've got the question on further
+potential benefit from no NEG on the MA, which I'll ask Guy to pick up. Andy, I'm further
+thinking you get the next three, which is the other line in OCG, any statements we want to
+make about the dividend and EV disclosure. Guy, do you want to go first?
+
+A - Guy Horton
+Sure. So the two negative hedges we have done quite sensitive, they're quite
+commercially sensitive. So you'll see that we don't disclose this one by itself. So we think
+we've taken a prudent approach on both. We do think there's more to come, but we
+don't disclose where it is, I'm afraid.
+
+A - Andy Parsons
+
+{BIO 20726474 <GO>}
+
+So, picking up your other three questions. I think in terms of the other line or management
+actions line within the capital generation, we haven't particularly given guidance on what
+that will be going forwards. We're obviously looking at further management actions as we
+go forwards. The impact of the no NEG equity hedge will go into that line in 2020. So we
+
+Page 12 of 24
+
+
+
+Company N ame: Just Group PL C
+Company Ticker: JUST L N Equity
+Date: 2020-03-12
+
+FINAL
+
+are expecting that to be positive from a management action perspective. In terms of
+basis changes et cetera, then I would assume there will always be some noise from that,
+but I would assume that going forward that would be a net neutral.
+Moving on to your second question, so the dividend, in terms of how we're thinking about
+the dividend. I think in terms of where we are in the capital journey, we are taking out sort
+of first steps really in terms of the capital ratio, started to move in the right direction.
+We've moved into positive territory from an organic capital generation perspective, but
+we very much want to see ourselves move further along that journey, and see that capital
+ratio moving in the right direction, as we move forwards before we would contemplate a
+conversation around the dividend.
+And in terms of embedded value disclosures, we have dropped those in line with pretty
+much all of our peers. I think now have dropped embedded value as a measure. Primarily
+because you have a certain number of metrics that you want to try and calculate and run
+the business by. So we don't run the business on embedded value, we run the business
+very much on -- our lead metric is very much the subject to one, but with the sort of more
+or less commercial value flowing through the IFRS numbers.
+
+Q - Charlie Beeching
+
+{BIO 21296314 <GO>}
+
+(Inaudible Question)
+
+A - Andy Parsons
+
+{BIO 20726474 <GO>}
+
+Bloomberg Transcript
+
+We don't have one that we are disclosing, no.
+
+Q - Charlie Beeching
+
+{BIO 21296314 <GO>}
+
+(Question Inaudible)
+
+A - Andy Parsons
+
+{BIO 20726474 <GO>}
+
+Yes.
+
+Q - Charlie Beeching
+
+{BIO 21296314 <GO>}
+
+(Question Inaudible)
+
+A - Andy Parsons
+
+{BIO 20726474 <GO>}
+
+So, sorry, yeah, I saw you looking slightly confused. So there are different elements in
+there. Within that line you have management actions, but then you also have any sort of
+modeling and basis change. So it's a modeling and basis change element, I would see
+being net neutral within that line. We expect positives from management actions.
+
+A - David Richardson
+
+{BIO 18045016 <GO>}
+
+(inaudible) slightly even more simple than what you're asking which is the number was 50
+in 2019, and we're indicating that it may be broadly of that similar magnitude going
+Page 13 of 24
+
+
+
+Company N ame: Just Group PL C
+Company Ticker: JUST L N Equity
+Date: 2020-03-12
+
+forward allowing for as there's always some uncertainty on the assumption changes. So
+we're saying we don't expect the management actions to below 50 in the future or
+materially higher, but somewhere in that ballpark, that you will have some noise from
+assumption changes in any given year.
+
+FINAL
+
+Q - Analyst
+Hi, Tom Hamilton [ph], Barclays. Three questions for me. So, on the DB partnering. I was
+just wondering, if you can kind of talk to us about how the economics work, and kind of
+how the strain works, and kind of particular interest in the (inaudible) says fees and
+success base?
+And then kind of on the NNEG reinsurance and the remaining capital drags. I just wonder if
+you could explain to us how we should think about the HPI insensitivity trajectory in the
+next few years? And then lastly, just any kind of update on thinking around your debt
+stack. Thank you.
+
+A - David Richardson
+
+{BIO 18045016 <GO>}
+
+I missed the third question. Say that again.
+
+Q - Analyst
+So just questions on anything here on your debt stack going forward.
+
+Bloomberg Transcript
+
+A - David Richardson
+
+{BIO 18045016 <GO>}
+
+Debt stack, thank you, right. Okay. So I'll take the DB partnering question, and I'll let Andy
+pick up the other two. So as we talked about it in the past on DB partnering, fundamental
+thing is that we just are the party that's transacting with the pension scheme. So the
+pension scheme has the peace of mind of transacting with a PRA regulated company.
+And then typically, we've talked in the region of, excuse me, 90% of the risks being
+seeded to reinsurance partner, and we retain 10%. So let me talk about the 90%. The 10%
+will be just as it is normally. The 90% will get seeded and we effectively get a paid fee
+upfront. The fee reflects the value of our franchise that's allowing us to be active in the
+market, origination fee, et cetera. We also get paid in administration fees, it's with
+administered business going forward. And we pass on all the investment, all the longevity
+risk to our reinsurance partner, and we don't need to hold capital for those risks on our
+balance sheet.
+So in terms of the dynamics, what's left is we get on that 90%, a fee income upfront,
+which we're not going to disclose the ratio, the percentage, because as Guy said, that's
+commercially sensitive, but it's meaningful. We're not doing this for a few basis points. We
+will get a fee upfront, and that will effectively be capital generative. You need to set aside
+a small amount of capital for counterparty risk, the risk that the reinsurer defaults, but that
+would be a small proportion of the fee that we earn, and it is a capital generative source
+of fee going forward. And that's it, day one and IFRS profit, until IFRS 17.
+
+Page 14 of 24
+
+
+
+Company N ame: Just Group PL C
+Company Ticker: JUST L N Equity
+Date: 2020-03-12
+
+A - Andy Parsons
+
+{BIO 20726474 <GO>}
+
+FINAL
+
+In terms of your other two questions, I think, Guy will probably take the second one. In
+terms of answering your third in terms of how we're thinking about the debt stack. You'll
+see in the pack, in the appendix. I think it's Slide 31, that indicates our current stack. It also
+shows that we have got up to GBP250 million of headroom within the Tier 2 element of
+that stack. But at the moment, the way I'm thinking about where we are is, we clearly want
+to be on a positive capital journey going forward.
+We need to look at the extent to which we should be using management actions versus
+debt, in order to do that, we need to look at whether the economic impacts hits us as we
+go through the next couple of years. So it's useful to have that in the kit bag. We don't -we are not planning to use it imminently, and I'm very keen to understand our ability to
+generate capitals through management actions which quite often come with a better cost
+of capital than the debt would.
+
+A - Guy Horton
+
+Bloomberg Transcript
+
+To your second question, I'm going to ask you to perhaps give me more clarity on what
+part of it you want. But let me use, perhaps what was part of your question to follow up
+on a very brief answer I gave before. It might be helpful to note that, I think we have
+obtained the majority of the benefit that we expect. So it's not that there's multiples of it
+still to emerge in terms of the benefit of the NEG hedges we have done, does that
+perhaps give a better sense of scale of some sort. To your question about the remaining
+capital drag, can I understand more, so I can answer it well?
+
+Q - Analyst
+(Question Inaudible)
+
+A - Guy Horton
+So there's two elements that come from these NNEG hedges. One is by releasing capital
+on the balance sheet to allow for risks that could emerge in the future. And the second
+piece is how they improve the resilience of the balance sheet as HPI does change. So
+that's why we in particular, like some of these management actions, that they free up
+capital as well as reducing your sensitivity. So as -- I think, that therefore relates to the first
+part that talks about the majority of the benefit being there. So it's not a multiple still to
+come.
+So these things do play and it does. It is important to remember that we've done GBP900
+million out of GBP6.5 billion. So this is not going to change the balance sheet overnight.
+You need to do more of these if you really want to get that sensitivity way down. So we've
+done well so far. So then that talks a bit to the sensitivity, it is reducing it, but it's reducing
+it in sort of scale of the fact that we've done about 15% of our LTMs.
+
+A - David Richardson
+
+{BIO 18045016 <GO>}
+
+Go ahead, Barrie, yeah.
+
+Page 15 of 24
+
+
+
+Company N ame: Just Group PL C
+Company Ticker: JUST L N Equity
+Date: 2020-03-12
+
+Q - Barrie Cornes
+
+{BIO 2389115 <GO>}
+
+FINAL
+
+Thank you. It's Barrie Cornes, Panmure Gordon. I got three questions as well, please. First
+of all, I think you're giving guidance on new business margin going forward. But can you
+just tell me what the impact of low interest rates would be on the new business margin?
+And secondly, the impact, is there any impact of possible benefit of a changes to risk
+margin going forward that have been talked about. And thirdly, the credit default reserve,
+which I think at the half year was about GBP359 million. Could you tell me where that is at
+year-end, please?
+
+A - David Richardson
+
+{BIO 18045016 <GO>}
+
+Okay. So I'll speak to the risk margin point, and Andy, I'll let you pick up the new business
+margin and credit default. So, on risk margin, like I said for some time the PRA have been
+indicating that they might like that revisited and reduced, and kind of I'd say, the sounds
+coming out seem to be getting slightly louder on that. But in reality, we're not holding our
+breath for that. We've not factored that into our planning in the future whatsoever. So for
+us it would be very much -- it'd be very much a kind of a cherry on top, because these
+things can take time, and there's no guarantee that they'll happen.
+So, we think it will be a helpful development, not just for our own personal balance sheet,
+but I think in terms of getting better value to customers, because it's a very expensive
+drag at the moment. But as I said, it's not a core part of our planning for the future. Andy?
+
+Bloomberg Transcript
+
+A - Andy Parsons
+
+{BIO 20726474 <GO>}
+
+So in terms of, I guess, sort of the impact of the low interest rates we're seeing at the
+moment, we're not seeing a massive impact in terms of certainly having an impact on our
+margins, in terms of how we're pricing the new business. We still need to see whether
+there's any impact on actual new business volumes from customer activity changing
+through the coronavirus.
+In terms of your third question, on the credit reserve, I don't have the figure to hand right
+now, but from memory the number at year-end is very similar to that half year number. I
+think it's around 370, but we can get back to you with the exact number.
+
+Q - Nicholas Johnson
+
+{BIO 1774629 <GO>}
+
+Good morning. It's Nick Johnson from Numis. I have three questions, please. First, on the
+guidance to be organic capital generative in 2020 and beyond, how that differ to the
+objective to be capital self-sufficient by '22? Is it one the same thing or is it slightly
+different?
+A question to Andy, you said, 141% not yet at level that you're satisfied with. Could you
+possibly give some sort of indications of what sorts of level you will be satisfied at? I
+appreciate it's difficult in terms of sort of way need to be to have other choices for use of
+capital. And then on COVID-19, so new business volumes, just wonder if you could
+
+Page 16 of 24
+
+
+
+Company N ame: Just Group PL C
+Company Ticker: JUST L N Equity
+Date: 2020-03-12
+
+comment to be seeing any impact yet, and if it worsens, what we do to mitigate? Thank
+you.
+
+FINAL
+
+A - David Richardson
+
+{BIO 18045016 <GO>}
+
+Okay. And obviously, Andy, I'll let you speak about your levels of satisfaction. I'll pick up the
+other two, and yet -- and because I was the one who spoke about it in the past. And when
+we talk about capital self-sufficiency in the past, we've always talked in terms of, are we
+generating capital surplus, and is the ratio improving. And you could argue that by the kind
+of narrow definition where at that point, that we've reached the turning point and are
+capital self-sufficient.
+As I said in my comments, in reality, we're not there, and I would say a further layer to add
+on top of that is you're really capital self-sufficient, when the level of that surplus being
+generated is giving you real choices on how you should deploy it, making real choices
+between, for example the question on dividend versus future new business growth
+trajectory. We're not at that point yet. But what I have said is we're more confident that
+we're going to get there sooner than we were last time we spoke. I hope that's clear.
+
+Bloomberg Transcript
+
+And on coronavirus, we could obviously talk about that for quite some time, but I'll try and
+keep it fairly short. And first of all, your question, Nick, was around commercially have it
+impact us. And at the moment, the story [ph] to tell, what we're not seeing clear
+indications that this changes in our markets, but I think it's safe to assume that the retail
+market will slow down. So both guaranteed income for Life and LTMs will slow down, if we
+get into more extreme social distancing measures.
+People just aren't going to have appointments with financial advisors. To make these big
+decisions, you need to meet a financial advisor. Some people might do it over the phone,
+but not many, and not many in that demographic. So we expect it to be slow down. I'd
+highlight that the need for these solutions doesn't go away. So it's more of a deferral
+rather than I think a complete lost opportunity, but that's why, Andy had some words of
+caution in guidance for this year, it's too early to tell.
+I think it's a slightly different story in the DB de-risking market. The trustees of pension
+schemes are required to continue to oversee the pension schemes effectively, and
+they're all on de-risking journeys, they're all on funding plans and they just need to
+continue to run the pension scheme much like a Board needs to run a company. And
+therefore, I would expect that we will continue to see good levels of activity in the DB
+market. There will be some schemes that may slow down. There may be some schemes
+whose deficits get impacted by equity market falls, and have to slow down some of their
+de-risking decisions. But the vast majority of those who are looking at buy-in or buy-out
+have already de-risked their investment strategies with respect to pensioners they're
+going in to buy-in, and we'll have hedged largely or completely against interest rates and
+inflation. So I expect maybe a bit of slowdown in DB, but not as much.
+
+A - Andy Parsons
+
+{BIO 20726474 <GO>}
+
+Sorry, I need to answer that.
+
+Page 17 of 24
+
+
+
+Company N ame: Just Group PL C
+Company Ticker: JUST L N Equity
+Date: 2020-03-12
+
+A - David Richardson
+
+{BIO 18045016 <GO>}
+
+Yes.
+
+FINAL
+
+A - Andy Parsons
+
+{BIO 20726474 <GO>}
+
+I think the one other thing which was -- your question is really about the 1.41%, and why we
+-- why am I saying I'm not satisfied with that. And I guess the -- for me the answer on this
+is, I don't think that we should focus too much purely on a ratio, and we can't get overly
+carried away with that. For me, what I would look at is very much the ability of the business
+to generate capital as it goes forward, so being able to do that confidently over time is
+important, but also looking at the sensitivity on the balance sheet. So what risks are we
+running and what shocks could impact on us? And it's almost a combination of those that
+then almost generates your confidence in terms of the capital level that you're at. So it's
+very much building that in and I think we need -- we've made good progress in 2019, but
+we need to see that continue into the future, and we need --
+
+Q - Nicholas Johnson
+
+{BIO 1774629 <GO>}
+
+(Questions Inaudible)
+
+A - Andy Parsons
+
+{BIO 20726474 <GO>}
+
+No. And we'll take two more in the room, because we've got online, we'll go Andrew
+there and then Oliver, and then we'll go on to online
+
+Bloomberg Transcript
+
+Q - Andrew Crean
+
+{BIO 16513202 <GO>}
+
+Good morning. It's Andrew Crean for Autonomous. Can I ask three questions? The first
+one is a break in record -- credit migration. Could you give us the sensitivity on credit
+migrations by the fix [ph] I may lost this. Secondly, you've talked an awful lot about
+benefits from de-risking, but I'd like to know a bit more in monetary terms about the costs
+of doing it. So cutting the strain on new business, you've shorten duration. What is the fall
+in the future cash generation, undiscounted from reducing the strain? Secondly, what is
+the cost of longevity reinsurance, as you pass away the potential profits on that?
+Thirdly, I'd suppose the DB partnering, you're not going to answer, but also then, finally
+the cost of no NEG hedging, in terms of how that hits you. And then the third question
+related to that is, how much more no NEG hedging do you want to do on your LTMs?
+You've got GBP5.5 billion still there, and how much DB partnering would you like to do?
+
+A - David Richardson
+
+{BIO 18045016 <GO>}
+
+That's quite a collection. So I'll take the credit migration question, since I'm the one you
+keep asking, and I'll talk a little bit about how much more no NEG or DB partnering, we
+might think about. And in terms of the cost of de-risking, Guy, I think you can have a first
+go those ones.
+So you'll be pleased to know, we actually have run to credit migration scenario, Andrew.
+We didn't publish it. No offense, but I don't think it's a particularly meaningful one, but
+
+Page 18 of 24
+
+
+
+Company N ame: Just Group PL C
+Company Ticker: JUST L N Equity
+Date: 2020-03-12
+
+FINAL
+
+we're happy to share it.
+The reason I think it is particularly meaningful is the scenario we run is that, you wake up
+one morning and 20% of your credit portfolio has downgraded by a big letter, so, AA to
+A, A to BBB. And the reason I'm mentioning is particularly realistic is because we're
+entering that type of tariff, we're entering a kind of a real shock now, and we along with all
+our peers are I'm sure looking at our portfolios, and working out where we think soft
+spots are. But therefore, for transparency and comparison, the impact on our group ratio
+would be about 13%, 1-3, of a single letter downgrade on 20% of portfolio
+instantaneously.
+
+Q - Andrew Crean
+
+{BIO 16513202 <GO>}
+
+(Question Inaudible)
+
+A - David Richardson
+
+{BIO 18045016 <GO>}
+
+Bloomberg Transcript
+
+Yes. And then how much more no NEG and how much DB partnering do we plan to do?
+So a no NEG, we absolutely would like to do more. We've done GBP900 million so far, it's
+about GBP5.5 billion, and we would like to move on to further transactions. We're not
+going to kind of put a number on that at this stage. It is very much a pioneering at the
+edge of developments here.
+We believe these are not just -- these are the first two transactions of their type to be
+done, because they're real long-term risk transfer, 30 years plus. And there are a couple
+of parties out there, who seem interested in providing that cover, but it's not a whole raft
+at this stage. So I wouldn't want to create a misleading level of certainty over how much
+that might be in the future, but we certainly want to go after more, Andrew, and we will
+be going after more, and the parties that we've talked to have expressed further
+appetite, so hopefully more.
+DB partnering is something we would like to become -- it'll still be a minority of a source
+of our profits, but it's one which will become meaningful over times where we'd like to
+get it to. There's a huge opportunity, in excess of GBP250 million transactions, we are
+very, very -- we write very, very few transactions there at the moment. So we really would
+like to tap into that market.
+Guy, would you like to go to cost of de-risking?
+
+A - Guy Horton
+Yeah. So on Page165, in the financial statements, we give the profile of what we think the
+Solvency II profits look like versus the strain. So I think with Page 165 of the financial
+statements. I know it's quite towards the back, it just means it's fairly I think transparent
+there, but I would note that I don't think there's a big economic cost coming from it. The
+duration piece is not a big piece, it's just part of an overall part of positioning in the
+market, where what's the price elasticity of the market, and where can you price, how do
+you combine your ingredients like reinsurance and asset mix with that. So I don't think
+
+Page 19 of 24
+
+
+
+Company N ame: Just Group PL C
+Company Ticker: JUST L N Equity
+Date: 2020-03-12
+
+FINAL
+
+there's a huge strain that comes from what we're doing. But you -- I'm not sure how
+comparable, it's the past, but Page 165 has a lot of detail.
+The cost of longevity reinsurance and the cost of NNEG hedging, as I alluded to before,
+two benefits, one is what's the implied cost of capital, and the second one is the three
+resilience it gives you as well on top, the fact that you are now less exposed to risk. So
+putting aside the second part and assuming that their collateral benefit that has no value
+that we take credit for, then we still find the implied cost of capital attractive relative to all
+the other costs of capital from other sources that we have. So that's one of our key
+metrics. When we do any of these transactions is we make sure that it washes its own
+face on the surface in terms of the implied cost of capital.
+
+Bloomberg Transcript
+
+What do we pay for the capital that it reduces from our balance sheet or removed from
+our balance sheet. How much more do we want to do? It depends on -- for longevity
+reinsurance, which is more of a commodity. It depends what kind of pricing we can find. So
+we're always looking at where is the next most attractive piece to do. And we've looked
+at all of our management actions, not just from what's most financially attractive, but what
+is easiest to digest from a regulatory point of view. And what is most available in the
+market, and what is easiest to do with our systems.
+So the idea is, we're trying to be very pragmatic in terms of choosing the next series of
+actions. That's why, hopefully, you will see that we are delivering actions in an order. It
+doesn't mean we do one thing then move on to the next. There are various actions at
+various stages of incubation, so that you can produce a steady stream of these things,
+and it gives you flexibility in your negotiations with people that you are not reliant on that
+action, at this point in time, in order to achieve something.
+So, the longevity reinsurance is what you might call more a pragmatic kind of approach,
+where you see what you can find. In the case of NNEG hedging, that's a little more unique
+and bespoke. And therefore, we would like to do more and we'll see what capacity we
+can find. I think everyone question whether we can do a second one. Hopefully, the proof
+is now there, but it is a front Tier market. So therefore you can never assume that it's
+around to rely on, but we would certainly have hopes in that regard.
+I do want to remind what we don't -- when we hedge GBP900 million of LTMs, it's not
+every pound of risk of on them is hedged. It's a partial hedge. Just as reinsurance is also a
+partial hedge of longevity. So in terms of that, it doesn't mean that we have fully hedged
+15% of our LTMs.So it does mean we'd like to do more, because it certainly seems that
+there's more could be done 15% hardly it seems like the place to stop. Have I answered
+all your questions?
+
+Q - Analyst
+(Question Inaudible)
+
+A - David Richardson
+
+{BIO 18045016 <GO>}
+
+Yes. Right. Thank you.
+Page 20 of 24
+
+
+
+Company N ame: Just Group PL C
+Company Ticker: JUST L N Equity
+Date: 2020-03-12
+
+Q - Oliver Steel
+
+{BIO 6068696 <GO>}
+
+FINAL
+
+Oliver Steel, Deutsche Bank. And as ever, following Andrew, he sort of mix all the best
+questions. But you didn't answer it very full. So I'm going to ask it again in a different way.
+So the question was what is the cost of the longevity reinsurance, and the NNEG hedging?
+You used to say that it was too expensive, relative to an enormously expensive equity
+issue, and an enormously expensive debt issue. So is it now cheaper than debt, or is it still
+more expensive? Question one.
+And question two. Again, this question has been asked in a couple of ways. But when you
+say that you expect the solvency ratio to be moving gently ahead, we're trying to work
+out, what is actually assumed within that number. As far as I can judge, it doesn't assume
+any payment of the dividend. It does assume positive management actions. Does it
+include debt issuance, as the balance sheet grows? So can you just give us a little bit
+more of an idea here as to what we should be thinking about in underlying terms? What I
+would call genuinely organic sustainable free capital generation including cost overruns
+and everything else.
+Third question, very little one. The fee that you're getting upfront from the -- which one is
+it, the DB partnering. Is that going into the new business profit margin in IFRS? And is that
+also netting off the new business strain in your assumptions?
+
+Bloomberg Transcript
+
+A - David Richardson
+
+{BIO 18045016 <GO>}
+
+Okay. So, I'll say Oliver, I'll have a go at the first question rather than Guy repeat himself
+on the longevity and the no NEG, and I'll let Andy pick up the other two. Well, you can
+always add to what I say, you can always add to what I say.
+So on the -- the cost of longevity reinsurance, I don't think we've ever said that's
+prohibitively expensive, we've always use longevity reinsurance. And I think it is fair to say
+that the economics of longevity reinsurance have improved over time though. And as
+interest rates have fallen, the amount of risk margin you need to hold per unit of longevity
+risk has gone up significantly, very, very significantly. So the economics of longevity
+reinsurance have improved, but they've always been a part of our business model and
+always been a factor. But that is where we're seeing more and more of it taking place,
+Oliver, because it is actually representing better value for money, as well as our focus on
+capital.
+And on NNEG hedging, the reason that's kind of fallen more into a sweet spot, because it
+is an area we've looked around at in the past, is a combination of two factors. And when
+we've looked at in the past with other counterparties, the economics didn't stack up, and
+so the economics have improved. So terms have improved, but also again from a capital
+perspective and I'll just highlight that the amount of capital i.e., regulatory both provisions
+and SER, we need to set aside for this risk has gone up significantly. And therefore with a
+focus on capital, rather than IFRS, the sense and logic of doing these transactions that
+whole dynamic has changed significantly.
+
+Page 21 of 24
+
+
+
+Company N ame: Just Group PL C
+Company Ticker: JUST L N Equity
+Date: 2020-03-12
+
+And (inaudible) some time, I will move on to Andy, with the other two questions, because I
+do want to give online people a chance.
+
+FINAL
+
+A - Andy Parsons
+
+{BIO 20726474 <GO>}
+
+So I think in terms of the solvency ratio, you probably described it reasonably well in terms
+of moving gently upwards, going forwards is probably how we would see that at the
+moment, but obviously, with an objective to actually increase that trajectory if we can. And
+that if we can, a lot of that depends on what we can do through management actions, to
+actually boost what we see as a capital contribution from the business, absent
+management actions, as you saw on David's chart, will has a natural upward trajectory. So
+that will continue to grow as we go forwards, absent management actions.
+The question is, how many management actions can we then add on top of that, that will
+increase the rate of improvement of the capital ratio. In terms of your question on the DB
+partnering fee, yes, that does net off new business strain, in the Solvency II and IFRS.
+
+A - David Richardson
+
+{BIO 18045016 <GO>}
+
+So Steve, questions from the webcast?
+
+Bloomberg Transcript
+
+A - Stephen Lowe
+
+{BIO 4793133 <GO>}
+
+Thank you. So, Gordon did ask three, from the RBC. We've answered two of them. But
+unsurprisingly, Gordon's got question on mortality. Why haven't you moved to the 2018
+improvement table? What smoothing factors are you using, 7%, 7.5% or 8%? And is there
+a gain in the base table?
+And then one question from Louise Miles at Morgan Stanley. Are you concerned about the
+potential increase in prepayment risk for lifetime mortgages, given the impact in
+mortgage rates from the Bank of England's base rate cut yesterday? So we start with
+those.
+
+A - David Richardson
+
+{BIO 18045016 <GO>}
+
+Okay. Sso I'll take the second one. Guy, do you want to go on the longevity first, though?
+
+A - Guy Horton
+Sure. This moving factor, we disclose it somewhere in there, it might be 934 or might be
+another note, sorry, I can't remember, but it's the standard one now that we use when we
+first introduced it wasn't the standard, but now I think it's either standard or slightly more
+conservative than it. It seem like 2018, most people haven't gone through , seem like
+2019 is now out, and suggested maybe it was a little bit zigging and zagging, if you went
+to it.
+We keep an eye on what's happening in 2020, and obviously, it's a strange time. So we're
+comfortable with what we have. And we don't we don't particularly like to chase the latest
+one, and I think most others do the same thing. So that should come as smoothing. If it's
+
+Page 22 of 24
+
+
+
+Company N ame: Just Group PL C
+Company Ticker: JUST L N Equity
+Date: 2020-03-12
+
+not in the disclosures somewhere, then I'm happy to release it. But off the top of my
+head, I can't quite remember which (inaudible)?
+
+FINAL
+
+A - David Richardson
+
+{BIO 18045016 <GO>}
+
+Okay. So concerns about prepayment risk, with base rates being cut. That's not a
+particular concern, and the reason being what drives the rates on lifetime mortgages is
+long-term risk-free rates, and also to extent credit spreads. Because as an asset
+allocation decision, you're looking at what are the yield you can earn on other assets.
+So in the round, obviously we've seen risk-free rates come off a bit, that could itself drive
+a bit of a prepayment risk. A little bit of re-broking. And I think to be honest, that been in
+the numbers for a while. We've had rates gradually drifting down over time, over the past
+couple of years, and actually credit spreads have gone out slightly, which made slightly
+dampen that down. So it's something we keep a very close eye on, but not a particular
+concern in terms of short-term change in the dynamics. And certainly, the base rate itself
+has minimal impact. Whether any on the web?
+
+A - Stephen Lowe
+
+{BIO 4793133 <GO>}
+
+Thanks. Maybe there have been a large number of questions. So thank you. I think most of
+them have been answered. Just one final one, David, from Gul Ahmed at Tideway [ph].
+You mentioned incentives to align interests of employees to the right organic capital
+generation. Can you give some practical examples?
+
+Bloomberg Transcript
+
+A - David Richardson
+
+{BIO 18045016 <GO>}
+
+Yes. So historically, both our short-term incentive plans i.e., annual bonuses and our longterm incentive plans would have been based off in the short-term it would have been very
+much driven off IFRS metrics, cost metrics, in terms of financials. We've now very much
+waited at towards capital metrics. So organic capital generation is the dominant factor of
+our S TIP, and also in our L TIP, it is much more of a balance now between capital and total
+shareholder return. So that's what's behind those statements.
+So, look, thank you very much. I know you're all probably incredibly busy with what's going
+on in the market. So thank you very much for you interest today. Thank you for those of
+you who braved it out and came here in person, and we look forward to seeing you at
+quarter interims. Thank you very much.
+The Event has Ended
+
+This transcript may not be 100 percent accurate and may contain misspellings and other
+inaccuracies. This transcript is provided "as is", without express or implied warranties of
+any kind. Bloomberg retains all rights to this transcript and provides it solely for your
+personal, non-commercial use. Bloomberg, its suppliers and third-party agents shall
+have no liability for errors in this transcript or for lost profits, losses, or direct, indirect,
+incidental, consequential, special or punitive damages in connection with the
+Page 23 of 24
+
+
+
+Company N ame: Just Group PL C
+Company Ticker: JUST L N Equity
+Date: 2020-03-12
+
+Bloomberg Transcript
+
+FINAL
+
+furnishing, performance or use of such transcript. Neither the information nor any
+opinion expressed in this transcript constitutes a solicitation of the purchase or sale of
+securities or commodities. Any opinion expressed in the transcript does not necessarily
+reflect the views of Bloomberg LP. © COPYRIGHT 2022, BLOOMBERG LP. All rights
+reserved. Any reproduction, redistribution or retransmission is expressly prohibited.
+
+Page 24 of 24
+
+

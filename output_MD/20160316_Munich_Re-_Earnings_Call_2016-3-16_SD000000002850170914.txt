@@ -1,0 +1,3277 @@
+Company N ame: M uenchener Rueckversicherungs-Gesellschaft AG in M uenchen
+Company Ticker: M UV2 GR Equity
+Date: 2016-03-16
+
+Y 2015 Earnings Call
+Company Participants
+FINAL
+
+Bernhard Kaufmann, Chief Risk Officer
+Christian Becker-Hussong, Head of Investor & Rating Agency Relations
+Joachim Wenning, Member of the Board
+Jorg Schneider, CFO
+Markus Riess , CEO ERGO, Chairman ERGO Versicherungsgruppe AG
+Nikolaus von Bomhard, CEO, Chairman
+Torsten Jeworrek, CEO Reinsurance
+
+Other Participants
+Andrew Ritchie , Analyst
+Daniel Bischof , Analyst
+Frank Kopfinger, Analyst
+In-Yong Hwang , Analyst
+James Shuck, Analyst
+Kamran Hossain, Analyst
+
+Bloomberg Transcript
+
+Michael Huttner, Analyst
+Olivia Brindle , Analyst
+Thomas Fossard, Analyst
+Thomas Seidl, Analyst
+William Hawkins , Analyst
+
+Presentation
+Christian Becker-Hussong
+
+{BIO 19080254 <GO>}
+
+Ladies and gentlemen, welcome to the Munich RE Annual Conference to all our guests
+here in this room. And thanks for making your way to Munich and welcome of course to all
+of you following this conference from their offices via Internet. Sorry for the late start. We
+had to wait for a delayed plane, some people arriving late in Munich. But I think we should
+be able to manage here on time.
+Today, the usual set of six presentations. There will be a first Q&A session, followed by a
+break after the third presentation. And after the second round of presentations, there will
+be another round of Q&A. I will make a separate announcement on the further time
+schedule just before the break.
+
+Page 1 of 55
+
+
+
+Company N ame: M uenchener Rueckversicherungs-Gesellschaft AG in M uenchen
+Company Ticker: M UV2 GR Equity
+Date: 2016-03-16
+
+FINAL
+
+The formal part of the conference should then be finished by approximately 6:00 PM or
+hopefully even earlier. So thank you for dedicating that much time for us. Afterwards, as
+always, plenty of time for informal discussions with all speakers. Looking forward to
+meeting you on this floor in a function room.
+I'm sure all of you have taken a very close look at our preliminary key figures for fiscal year
+2015 a few weeks ago. Today, we disclosed the full set of financial results and this
+afternoon, beyond discussing these numbers in more detail, we aim to look ahead
+together with you on in Munich RE's future prospects. So please let me introduce today's
+panel, starting from my very right, Bernhard Kaufmann, our Chief Risk Officer then Jorg
+Schneider, Chief Financial Officer, next to him, Nikolaus von Bomhard, CEO of Munich RE
+Group, then, Torsten Jeworrek, CEO Reinsurance and Joachim Wenning responsible for
+Life Reinsurance on the Board of Management. A special welcome goes to Markus Riess,
+ERGO's new CEO, who joins us for the first time today in order to present Munich RE's
+primary insurance business.
+
+Bloomberg Transcript
+
+Markus will have to leave the conference after the break. So other than provided in the
+presentation booklet, we've changed the order of speakers and we'll present ERGO
+before the risk management section. I'm sure you understand that Markus will today
+comment on last year's performance. Forward-looking statements will be part of the
+ERGO's strategy update to be provided in the Second Quarter.
+I would also like to introduce three other gentlemen sitting in the first row of this
+auditorium, (Christian Brown) heading up our central reserving function here at Munich Re
+for the Group, Christoph Jurecka, CFO for ERGO and (Stephan Cosman), who is part of
+our Solvency II reporting team.
+So far from my side and now I would like to hand it over to Nikolaus.
+
+Nikolaus von Bomhard
+
+{BIO 3123407 <GO>}
+
+Thank you, Christian. Good afternoon. And good day. Good day to those who are listening
+over the Internet. It's a pleasure to be here with you. Strong track record, new ideas; as
+regards to strong track record, I think this room is appropriate, when it comes to new
+ideas it may not be felt as an appropriate room to get across the message that we are
+highly innovative and pushing things. But the comments hopefully in the presentations will
+convince those who are not as of now.
+Let me quickly go into my slides right away, starting with (you back). You know that we
+have a tradition to come up with what we consider or expect as a profit, it's not the
+prognosis of the profit but what we do expect. Here we have compared to our last official
+statements. And it was I think early in February, a slight change because the span of the
+expected results we moved south EUR200 million in parallel and you would get -- may ask
+why. The reason is relatively simple. We have experienced tremendous amount in
+accumulation of uncertainty all over the world in every regard and certainly also in the
+capital markets. So we felt we should be cautious there. We don't know what is coming
+up.
+Page 2 of 55
+
+
+
+Company N ame: M uenchener Rueckversicherungs-Gesellschaft AG in M uenchen
+Company Ticker: M UV2 GR Equity
+Date: 2016-03-16
+
+FINAL
+
+Two. And we took out all the luck factor. Of course, that had been done previously
+anyway. Competition in reinsurance unfortunately. And Torsten may come quickly to that
+point, is what it is. We may see some dampening. But no signs as of today that we turn
+the corner. And we also readdressed the result expectation for ERGO. These are the key
+reasons. One would not have been enough, the most relevant one was the first.
+Well the balance sheet is strong. This is an obvious one since we published also now the
+300% ratio for solvency. And sometimes we present to you the term strong balance
+sheet close to reliable results. What I would like to avoid is the shortcut that we take out
+substance out of whatever balance sheet of the Group as a whole to sort of pep up the
+result. So if you take reserves, the reserving level of the reinsurance on the P&C side is
+not less or worse or of lesser quality compared to last year, even though we did release
+quite tremendous amounts.
+
+Bloomberg Transcript
+
+And the same goes for other reserves, as long as we can keep them, as long as we can
+stick to the conservative approach we will. Tax reserves, of course, there is an end to it.
+Once the tax has been checked and set, these reserves, if there are any, have to go. It
+does not mean that we do set new reserves. But the span of the time, the distance for
+the periods where the tax is being set are shorter because the tax authorities certainly
+here in the area try to come closer and we now finished tax assessment until and
+including 2011.
+So accordingly, the reserves cannot be what they used to be in sheer absolute numbers.
+But the key is, we do not do any pillow fluffing. We do not push reserves around to make
+the result more acceptable. It is not taking up substance to prepare results. A strong
+balance sheet rather means no backlog, all bad news is out. And we take and continue to
+take a conservative approach when we set up the reserves.
+The same goes for the asset side of the balance sheet. You have seen of course the
+EUR26 billion of unrealized gains sitting on our balance sheet. Of course, not all of this is
+shareholders' money. A good EUR7 billion is shareholders' money, the rest is
+policyholders' money, driven to quite some extent by low interest rates. But the good
+news is we have it. And since interest rates came down even further in the beginning of
+the year, this reserve right now, as of today would be even higher.
+We will not do yield hunting, even though I admit to the difficulties to invest sensibly grow
+ever bigger, not the least for a policy of one huge central bank on this continent. But
+these assets where we will not chase for yield -- hunt yield. Of course, we did increase
+slightly. But you can see that even with the risk capital numbers our risk position. But very,
+very moderately. And also the goodwill, we did write down goodwill again you may say.
+But this goes to what I said before. If there's bad news anywhere we will act immediately
+and swiftly and the goodwill now in relative terms is relatively low.
+The next slide will of course be deepened both by Jorg and especially by Bernhard later
+on. The only message I would like to leave with you here is it is not so easy in today's
+environment to deploy the capital at a profitability level that we have reached over the
+years. Since we are where we are and don't need as much, of course the money flows
+
+Page 3 of 55
+
+
+
+Company N ame: M uenchener Rueckversicherungs-Gesellschaft AG in M uenchen
+Company Ticker: M UV2 GR Equity
+Date: 2016-03-16
+
+FINAL
+
+back to the shareholders. And here you see the last six years the flowback we think is
+quite tremendous. If you take a longer-term view, even the cash yield over the last 10
+years is around 8%. And we have returned to our shareholders two-thirds of our market
+cap over the last 10 years, today's market cap in comparison to buyback and dividends.
+The dividend is, as it always was, very close to our heart and we will only increase it if we
+are convinced we can hold on to it going forward.
+This is an old slide, now it's 10 years we can show you, slide number 5. This is an old slide
+in a sense we present it pretty much every year now for a couple of years and start from
+the right side. Of course, we always wanted to be as high up as possible in the left corner
+of that graph. We are left -- the most left that means we are less volatile than anyone else
+out of our peer group. We're not the highest. There is one higher. But we're working
+towards that. But as I said, not by taking big chances or even big bets.
+On the left side, you see what -- and this is an obvious number because this is accounting,
+the ROE over those 11 years -- close to 11, right 11, because 2015 is over, is 11%. Those who
+are with us for long will remember in 2006 and 2007 when we came up with the
+Changing Gear program, at the time of the then interest level, we said we go for 12%.
+
+Bloomberg Transcript
+
+At the time, I guess also our cost of capital was around 8% because the maths at the time
+was 50% on top of the cost of capital. Interest rates have changed dramatically since
+then. But our target of course stayed and it's more of a stretch today to 12% also because
+our ROE is so big. But I would say overall we are not entirely unhappy with the result
+beating the 8% that again today we would argue are our cost of capital beating that by
+3percentage points.
+The volatility, we will try to keep as low as possible going forward because we think there
+is a value proposition in not being overly correlated to the capital market. I must admit the
+market risk, if you look at today's numbers, is a little higher than I would like it to see. But
+that's what it is, the interest rates to some extent. But also markets and volatility
+specifically drive market risk to some extent. But you can rest assured we will try to keep it
+within reasonable limits in the future.
+This is a summary of the accumulation of uncertainty (as where it is). Of course, you could
+add even further items to that list. It's a horrible list. It's a list that I in all my life term in
+insurance have never experienced. The only good news for an insurer or a reinsurer is that
+some of those risks lend themselves even to turn them into business. It could be
+something very specific like terrorism risk, the climate, everything related to climate
+change can turn into business. But also uncertainty in general, solvency issues stemming
+from the regulatory side. There is some upside for us. And as a reinsurer more even than
+a primary insurer, obviously we try to be so solid. And if you ask why the solvency ratio is
+what it is in times like today where the uncertainty is all over the place we think we should
+be obviously for everyone out there, whoever may need help, we consider and have the
+perception of the last man standing. So if need is help -- if help is needed we are there.
+Of course we do hope that not either government or central banks bail out people too
+early because otherwise our value proposition is of not so much value after all.
+
+Page 4 of 55
+
+
+
+Company N ame: M uenchener Rueckversicherungs-Gesellschaft AG in M uenchen
+Company Ticker: M UV2 GR Equity
+Date: 2016-03-16
+
+Bloomberg Transcript
+
+FINAL
+
+So there are opportunities out there for us. We want to be resilient in this uncertain
+environment and our risk management of course is ever more important. It is in that -- if
+you take that angle, that perspective, you could call it very much also enabling business by
+making sure we are around when needed.
+On the next slide number 7, it's just a sort of shortlisted version of some more relevant
+activities or management actions on the risk management side. Nothing here is new to
+you, I would guess because we have always been steering the companies over the last 10
+years in what we call a risk-based economic view and accordingly we have tried to hedge
+whatever we thought should be hedged and can be hedged. And of course the most
+relevant three, as always are, interest rates or duration, inflation and foreign exchange.
+And we did that at a cost and of course if inflation doesn't kick in yet, it comes with quite a
+higher cost. But we pay for it because we are convinced we should hedge it and this is not
+for the shareholder -- not a risk that the shareholder should bear.
+Diversification is the name of the game that goes not only obviously for the liability side of
+our balance sheet. But it also goes for the asset side of our balance sheet. As I said, we
+have some issues in finding appropriate ways to invest our cash flows. So far we did
+succeed. In the morning we mentioned very briefly only that what you do know of course
+that we did buy gold some time ago. Now we are considering and testing whether or not
+it may make sense to even take cash and put it not here in the Company also not the
+gold because someone wrote that and store the money physically to some extent. This is
+just a test to see what banks, what those specialists can offer to us in pricing also because
+that of course is one possible benchmark to say this is where we actually should rather
+stop investing. We know of course that with the amount of assets we have that is not
+possible for more. And we should not forget liquidity issues and certainly not
+governments who will do everything if things get really ugly to make our life, with physical
+money, miserable. We are aware of that. But we think a test will not do any harm.
+Next slide is on Solvency II. Now we have it effectively. Some say now you have what
+you've always wished for and are you happy, question mark, this is a rhetorical question of
+those who never thought this is the right system. I must admit here or there I also
+sometimes feel that the cyclicality which is in the system to some extent is maybe not all
+over the (inaudible) universe addressed appropriately by the regulators yet, because you
+have to have some courage to not take a specific day with this high volatility and maybe
+low interest rates and say this is the day and you have to have the capital in place every
+day, every hour and every minute. If you take that approach then of course cyclicality is
+obvious. So even there remains some, let's say, discretionary room for regulators. But I
+must admit that we also know some who do that very well.
+Here you see some of what we consider consequences or even upsides for us in the
+Solvency II world. We are very happy and you know that internal model has been certified
+without bells and whistles. So we just got the sign that we were ticked off the way we
+wanted it. And for the rest, we are not ready -- not everything is where it should be yet.
+We just recently had our discussions also with our auditors who are very close and
+following our latest steps in making sure that we are fully compliant with what it takes to
+be then able also to present the numbers next year. There is still some work to be done.
+
+Page 5 of 55
+
+
+
+Company N ame: M uenchener Rueckversicherungs-Gesellschaft AG in M uenchen
+Company Ticker: M UV2 GR Equity
+Date: 2016-03-16
+
+FINAL
+
+But I would dare to say that in the overall comparison we are quite far. So far rather, I
+would call it the regular stuff and usual presentation.
+There is some part today hopefully, not only for us but also for you listening about future
+and about innovation and within innovation of course also digitalization. This is a very highlevel picture on two dimensions, products and markets. What can be done, what could be
+done. And it's then split into four colors pretty much of different activities more on the
+traditional side. It means more or less slightly different of the same and the extreme other
+part of the spectrum or place in the spectrum would be changing even the entire
+business model.
+For us here at Munich Re everything is thinkable as we do not limit our way to looking at
+the developments in the markets and say this can't be for us. We first want to think it
+through before we take it out of the auction room. So a lot is going on in the Company. In
+the morning I said, I am quite euphoric about the momentum we have built and it's a joint
+momentum, it's a group momentum. This is not left hand -- right hand, don't know what
+the other one does.
+
+Bloomberg Transcript
+
+Those who cover us for longer Changing Gear was first sort of attempt to get the house
+moving. It was not overly successful for an obvious reason because the markets were so
+firm that the fruit was hanging low and we rather picked the fruit that were hanging so low
+instead of getting people distracted and trying to be super innovative.
+Now since the fruit is moving up, it's a lot easier and this is a lot more important to make
+sure that we take all the intellectual potential out of the Group and connect the dots in
+terms of people who should and are speaking to each other. And I give you one example
+here on the traditional front and that this is an obvious one.
+Insurance penetration, I'm on slide 10, is such that you could say we are far from covering
+the obvious even and many people do complain that we don't even cover anything else
+beyond the obvious. And I'm afraid they're partly right. But in, what I would call, the bread
+and butter daily business of either insurance or reinsurance, there's a lot to be done still
+just for the mere fact that the world is developing. We have some crisis areas, as I said
+earlier on. But we have other prospective, say, insurance markets in the sense that
+insurance almost starts from scratch. It has to do with middle class and affluent parts of
+the society. But also with entire societies having to live up still to the concept of insurance.
+Take China as a huge example where they have moved fast. But the idea of ensuring
+yourself against the consequences of natural catastrophes is not widely spread yet.
+There's a lot to be done and of course in terms of diversification also for us as a player,
+this is very, very interested business. But this is an easy one. The things get a little bit
+more tricky if we move to the front end of innovation. Here is a slide. This is a typically
+Munich Re slide, you really need a couple of minutes to really understand what we want to
+tell you. But the idea here is pretty much getting across to you that reconsider what goes
+on on the digitalization front today and it's changed a little bit, not so much anymore as a
+pure challenge and then being afraid of disruptive movements. It is today rather for us an
+opportunity. We understand it much better than we did in the beginning and we feel that
+
+Page 6 of 55
+
+
+
+Bloomberg Transcript
+
+FINAL
+
+Company N ame: M uenchener Rueckversicherungs-Gesellschaft AG in M uenchen
+Company Ticker: M UV2 GR Equity
+Date: 2016-03-16
+
+we have so much to offer to those either start-ups or those who are trying to reinvent the
+business model as a whole that we should rather partner with them. The most obvious
+always is regulation on all these boring and (other) parts of insurance. Of course, we are
+very versed with those issues and can help. But it goes way beyond that, because many
+of those young kids around the block of course do not even want to carry the risk. They
+just have the idea, maybe the technological side of it, which we think we don't. So let
+them do it and maybe they have ideas how to address and get closer to the client. But
+from then on almost the entire rest of the value chain is rather with us. So there is
+tremendous opportunities out there. But also for the existing business of our Group.
+Be it processes, be it how we focus on the client, how we address our clients, how we
+administer the business, there is so much to be done. So the only message is don't think
+even we sit in this wonderful old -- 100-year-old hall, that we are sitting on our laurels, if
+any. No. It's very different -- very different these days and the next slide tries to structure it
+a little bit around key, let's say, thrusts. And in all modesty we think on some angles even
+we have now, at least in our industry, we would consider a leading position.
+Torsten is sitting next to me here is the one that the data analytic group reports into and
+this group, we know it from others, is really right up to it. They are really very good. Even
+outside people from the software industry who we partner with confirm this is really the
+top level. And this is not the only group in that regard that we have built. The good news
+here is is it was not about money. It is about putting together what we have, it's know-how
+within the Company. And then calling in from the external world those experts that can
+make the difference. We have made that experience in cyber insurance, we do it to some
+extent in data analytics. And we will not keep our fingers out of all technological questions.
+Quite the opposite, we want to fully embrace it, understand it. We don't have to invent
+everything. But we want to understand it.
+Never put it on a high level, I tend to say. If out of 10 relevant trends, we miss three or four
+while we can buy our way into two or four we may miss completely. But three or four, we
+should understand ourselves right from the start. So with that kind of a mix having -- or
+understanding pretty much half of what's going on, I think we're probably way above
+average anyway.
+Partnering is another key, wouldn't call it the challenge, it's a change. I just read in the
+English version that will be published soon, Munich Re history, the first 100 years. And it
+was interesting to see to what extent the management -- the strategic management of
+partnerships was relevant for the Group to become what it is today. Then we had a
+couple of years where the understanding including mine was what we can't control
+ourselves, 50% plus golden share cannot be really good because we should, also maybe
+sometimes for governance reasons, be in full control. We have and do change our
+attitude in that context here.
+Here it is rather about building partnerships, maybe exclusive partnerships, maybe buying
+all way into them on the strategic -- for strategic reasons. But it is not about majorities. We
+probably would kill those little flowers if we own them all.
+
+Page 7 of 55
+
+
+
+Bloomberg Transcript
+
+FINAL
+
+Company N ame: M uenchener Rueckversicherungs-Gesellschaft AG in M uenchen
+Company Ticker: M UV2 GR Equity
+Date: 2016-03-16
+
+My last and way more tangible now and then coming close to my end is about the
+reinsurance, at a very high level. I think what paid off with the benefit of hindsight one can
+say that now that we in time that was actually in 2003, in four years changed our strategy
+in opening up for feedback, then called primary insurance auto reinsurance today risk
+solutions. We added on also with extra solid growth and built over time what I would call a
+decent group of companies and businesses. Now it's equal to EUR5 billion of turnover
+with very, very pleasant combined rations, pretty much, not all of it, Torsten is going to talk
+about it, not correlated to market cycles, delivering around about 90% combined all
+through the last years.
+Life reinsurance, of course we had some issues in the last years because we had set up
+the EUR400 million technical result target. And you could say -- you asked also why don't
+you change it, then you asked us to up it. And you asked us to down it, stubborn as we
+are. And you know us, we kept it and now I dare to say I can put my head on the block
+here easily now, a little easier than before. And say we will deliver, Joachim won't
+disappoint me on this one, we will deliver because last year -- I think the most important
+message of the last year was no bad news from the US, no bad news from Australia. And
+if we don't have those two bad news, we may have a single loss as we did last quarter
+too even in North America but they should not occur to every quarter. They can. But it is
+not very probable. And if they do not we are well and comfortably close to the EUR400
+million.
+ERGO, of course, the big issue. I'm not yet at a point where I will try to summarize what I
+think went well and did not went so well over the last 13 years, actually it's 12 only right
+now, next year 13. But there is a couple of challenges out there. If I summarize them on a
+high level, we were doing -- saying all the right things about life business. But we did not
+resolve it. We did not act with enough resolve to really walk our talk. Of course, we didn't
+know what the interest rates will do. But the concept was right, the thinking was right. But
+the execution was short. That, of course, is a problem. Even though today just Fitch said
+that we did pretty well on hedging, our liabilities and the duration gap is manageable and
+of course, they said the reserves are there and so forth. But if you have the right thought
+and don't execute on it that is painful. The other one is of course that IT in general and
+maybe everything around sales wasn't great. It can be better and with Markus Riess we
+have the man to do exactly that. Unfortunately today is not the day to develop on those
+thoughts more deeply. It is rather a little bit more of a looking back and we will have to go
+into more detail in the Second Quarter.
+One thing is also for sure, the fact that Markus Riess is now sitting also on the Board of
+Munich Re here in Munich will also give a further push to everything that you could label as
+synergy, be it value synergy, be it cost synergy. I am personally way more interested in
+value synergy. One obvious thrust is innovation. But there's many other things we can do
+better together and him and Torsten will probably refer to that here or there in their
+presentations.
+The international book, you could also put into that basket. I'm a little bit more hesitant
+there. Next year, except for one company in Turkey, everyone out there have promised to
+deliver less than 100% combined. We know that if you add all those ambitious targets, you
+will never get the average. You get something less normally. We'll see. But as we also
+Page 8 of 55
+
+
+
+Company N ame: M uenchener Rueckversicherungs-Gesellschaft AG in M uenchen
+Company Ticker: M UV2 GR Equity
+Date: 2016-03-16
+
+FINAL
+
+said, even though there was no kitchen-sinking, one thing is for sure that the reserving of
+ERGO after this year is of a better quality than it was last year and we should and could
+not add much to that anymore. I always tend to say one more year and then we are
+where we should be. But not kitchen-sinking. But conservative reserving.
+A short word on Munich Health before I come to the end. Here I would say we are a year
+behind in comparison to what we wanted to have achieved by today. So it is a little bit
+more groundwork still than it should be. So the eye still is focusing on the existing
+businesses rather more than anything new, some may even say like that. But I would say
+that we have of course the strategic appetite to do more. But we have not done so well in
+the first round specifically everything that had to do with the US. This lesson has been
+learned and the institutional memory will not forget it, I promise. But we cannot put our
+eye yet on the future as much as we would like to. It's still about getting things right that
+we have. But we start to change and of course innovation and digitalization will also play a
+key role here in contact with the other colleagues.
+
+Bloomberg Transcript
+
+Last is the outlook. I already briefly circumphraced the net result and the expected or the
+target spend that we gave out. On the other, I would briefly only comment on not on all,
+when it comes to turnover premiums written, we never focus on that number. It fluctuates
+these days between EUR48 billion and EUR50 billion mostly in fact driven so far by
+currency changes or in foreign exchange rather than business. It should over time certainly
+go up. But you will never hear anyone here in the Group giving or handing out targets on
+this overall number. Of course reinsurance is very different here from primary insurance. In
+primary insurance, this is more relevant. But even there we will take a cautious stance.
+Return on investments, you could say, while this wasn't at the target last year pretty much
+and since interest rates come down, why not less. Let's not forget we hold a lot of US
+dollar assets too and there the interest rates did not -- well, they came down. But overall
+they are on the upward movement. So that's why we think 3% is a solid return. But it is not
+unreachable. The combined ratio already is considering or taking note in account of the
+fact that the first two months were again benign in terms of single large losses. So we
+work that into the number, otherwise you would have a 99% here.
+The ERGO result is what it is. Markus Riess will comment on what he thinks about that
+result soon. So I can jump that and with that I'd stop here and hand it over to you, Jorg.
+
+Jorg Schneider
+Thank you, Nikolaus. Good afternoon, ladies and gentlemen. This is our capital position.
+Our economic solvency ratio seems to be one of the highest in the industry. It is based on
+realistic assumptions that is something what Bernhard will tell you after the break in a little
+bit more detail and it is somewhat above our business needs, a solid foundation for active
+capital management and profitable growth.
+In local German GAAP, the equalization reserves serves as a solid protection of our
+technical underwriting result, even against very adverse loss scenarios. And in 2015, we
+even gained ground for our distributable profits.
+Page 9 of 55
+
+
+
+Company N ame: M uenchener Rueckversicherungs-Gesellschaft AG in M uenchen
+Company Ticker: M UV2 GR Equity
+Date: 2016-03-16
+
+FINAL
+
+First, the overview of the various earnings metrics and the very rough reconciliation
+between them, starting from economic earnings of EUR5.3 billion plus-minus goodwill and
+intangible movements plus-minus valuation adjustments and non-realized movements in
+IFRS balance sheet we come to the IFRS result.
+When you then adjust for accounting differences and equalization reserve effects, this will
+lead us to the local GAAP result. Let us have a closer look on each of these metrics. First
+and most difficult, economic earnings. What is it? A short repetition from what we talked
+about in November last year. We've set up under Solvency II an economic balance sheet
+with the excess of assets over liabilities, deduct and add some items including tiering
+effects to calculate our eligible own funds.
+
+Bloomberg Transcript
+
+At the end of 2015 we compare that with eligible own funds at the end of 2014 and the
+difference adjusted for opening adjustments, capital measures and other minor items are
+the economic earnings. First column the actuals, second column an indicative
+normalization. We can divide the economic earnings into operating economic earnings
+and economic effects, the latter, economic effects, being the impact from change in
+capital market data and FX movements, the impact on our existing book of business. We
+had very strong operating earnings in 2015 as well as positive above-normal economic
+effects.
+First, operating, the high value of new business must be seen in the context that the new
+business is measured as at the end of 2015. That means taking into account the factor of
+good luck means low major losses in reinsurance. The positive variance on existing
+business in reinsurance is dominated by the release of claims reserves. So this is part of
+the experience variance because it refers to business which had been in the book at the
+turn of the year 2014, 2015.
+For the economic earnings, you can see here that this was above the normalized level.
+What is normalized here? This is the difference between normal expectation of real asset
+performance and risk free rates on the replicating portfolio of liabilities. This is an
+expected spread we earn on our risks in the order of 1.3% and this is based on the
+mismatch of assets and liabilities. And last but not least, the other non-operating earnings,
+these were dominated by the very low tax burden of last year which was clearly below the
+normalized level.
+The normalized level of economic earnings was EUR2.6 billion by chance. This is equal to
+the average of the last eight years and close to the EUR2.5 billion we earned adjusted
+also for one-off items in IFRS. So you can adjust so long that you end up everything to
+EUR2.5 billion in a way. And for 2016, we would expect economic earnings which are
+somewhat below EUR2.5 billion. This is due to the ongoing pressure on reinsurance rates
+and to the lowering of interest rates. We can also adjust that a little bit and add back what
+we had as good luck in January, February, exactly the same what Nikolaus explained for
+the combined ratio prospect. So far with this.
+Now I move on where -- to the strong Solvency II capital generation. When we take this
+EUR5.3 billion and deduct what's -- increase it by the change in capital requirements in this
+
+Page 10 of 55
+
+
+
+Company N ame: M uenchener Rueckversicherungs-Gesellschaft AG in M uenchen
+Company Ticker: M UV2 GR Equity
+Date: 2016-03-16
+
+FINAL
+
+time that means our capital requirements were reduced by EUR0.3 billion. Other, that is
+the impact from the sale of our ERGO Italy subsidiary. Then you can see a capital
+generation of EUR5.3 billion compared to the capital repatriation of last year and so we
+end up with a Solvency II excess capital generation in a way of EUR3 billion, which was
+particularly strong. And this is one aspect of our distribution capability, the other one is
+local German GAAP of the parent company.
+The difference between economic and IFRS earnings, you can see on that slide, this is
+composed of goodwill and intangible asset movements which are part of the IFRS
+calculation. But not of the economic earnings calculation. The differences in valuation, that
+is the third part here, it is dominated by the different valuation techniques on the technical
+liabilities, discounting in economic growth and risk margin in economic growth unlike in
+IFRS. And by the valuation of investments at market values whereas under IFRS loans and
+real estate are not valued at market values.
+
+Bloomberg Transcript
+
+If we then adjust for items which are part of the IFRS balance sheet. But not of the IFRS
+P&L then we come to the IFRS result. As you know it's EUR3.1 billion and now I am on a
+more familiar territory. On the next slide you can see the overview of the IFRS result. I can
+be very short here because you know all that already since 4th of February with our
+preliminary results. Let me point your attention to the fact that our operating result
+increased by 20%, although the investment result declined by 6%. So the technical
+operating result went up by 24%, basically driven by low major losses and release of
+claims reserves.
+By the way after only 62 quarters or so which I had already -- where I had already the
+pleasure to disclose them to you, we will now downsize the format of the Q1 and Q3
+results, which means we will somewhat cut back the volume of disclosure not the
+transparency. And I hope that you will like that new format which we will start to present in
+beginning of May. We have a strong balance sheet. Nikolaus mentioned it. And this refers
+especially to three items; unrealized profits on our investments which make up for 11% of
+the market value of these investments, a relatively strong figure; claims reserves, which
+are more difficult to quantify how much of a redundancy is there; and to a minor degree
+also tax reserves.
+So let me repeat what I firmly believe that is we have long term very good growth
+prospects, prospects for profitable growth, we have short-term pressure on the
+reinvestment yields and from reinsurance rates especially, we have some homemade
+challenges in addition. But the very strong balance sheet has and will translate into
+additional earnings which can partially compensate for the temporary decline.
+Moving on to the investments, especially here the level of reinvestment rates, the 1.9%,
+this is the lower line here. For 2016, I would rather talk about 1.7% or so. So we've already
+gone to an even lower territory than here and the reason is what you can see on the right
+hand side we are not prepared for a risky hunt for yield. We will stick to our policy of
+evaluating chances and risks and willingly accepting some declines -- some more decline
+in our investment results.
+
+Page 11 of 55
+
+
+
+Company N ame: M uenchener Rueckversicherungs-Gesellschaft AG in M uenchen
+Company Ticker: M UV2 GR Equity
+Date: 2016-03-16
+
+FINAL
+
+Looking at our investment portfolio here, especially on the fixed income portfolio,
+EUR203 billion, of which only 3% are made up of bank fixed income securities and loans
+and 10% of corporate bonds. This is relatively low and then when you look at the middle
+with our exposure to perhaps the more worrying area of oil and gas, then you can put that
+into perspective. This is a minor item, a minor issue for Munich Re and the quality of these
+funds is relatively high.
+So we have also meaningful exposure to equities. This comes along with some
+impairment risk for IFRS and even more for local GAAP and you will see some of that with
+our Q1 numbers, at least if capital markets stay where they are at the moment. So you
+should take that into account when looking at our IFRS and German GAAP results.
+
+Bloomberg Transcript
+
+Moving to reserves, what we put here on that slide, these are the hotspots, which are
+currently discussed for the property casualty claims reserves and you can see our
+comments, how we are positioned. Let me summarize. We have strong controls in place.
+We react to adverse indications immediately and let positive indications manifest over a
+longer period of time. Therefore, nobody should be surprised to see the next two slides,
+which may look already familiar to you because they are almost equal than for the
+preceding years that actually reported losses are consistently below the actuarial
+expectation and this has been the same picture for a very long while. And this applies for
+almost all exposure yields and all lines of business; exposure yields on the left hand side,
+line of business on the right hand side. So we have a very strong reserve position and this
+can also be seen in the usual triangle on the next slide with reserve releases overall of
+more than EUR1.5 billion before effects coming from the commissions. But also on an
+adjusted level in reinsurance it made up for 7.2% of our net earned premiums.
+German GAAP, next slide from IFRS to local GAAP of parent company in the middle, the
+dividends of subsidiaries were higher than the sum of the IFRS results. If you just take into
+account the impairment of goodwill of minus EUR430 million for ERGO Life. Therefore this
+explains a lot of that -- or more then that difference in the second part here.
+Minus EUR0.4 billion accounting differences -- minus EUR0.4 billion for strengthening of
+the equalization reserve. So this equalization reserve, which you can see on the right hand
+side, almost EUR10 billion close to its legal cap for 2016, hopefully flat if we do not have
+major losses and we still expect a substantial release for the business year 2017.
+And closer look on local GAAP numbers on my last slide, 31, on the right hand side the
+development between 2014 and 2015. You can see here the very strong impact of -negative impact on the investment result by the write-down on ERGO shares held by
+Munich Re parent company minus EUR1.1 billion. And this explains the decline in the
+investment result and we had an enormously strong underwriting result driven by the
+benign major losses and the reserve releases and that led us to very a good HGB,
+German GAAP number of EUR2.6 billion for 2015.
+On the left hand side you can see the development of our distributable earnings. The
+equalization reserve should protect our distributable profits and should even, as I said,
+decline in 2017 as repeatedly described. We remain exposed to investment losses under
+
+Page 12 of 55
+
+
+
+Company N ame: M uenchener Rueckversicherungs-Gesellschaft AG in M uenchen
+Company Ticker: M UV2 GR Equity
+Date: 2016-03-16
+
+local German GAAP. One should have that in mind when looking at the very volatile
+markets. But in a nutshell Munich Re has a very healthy balance sheet which will support
+solid earnings going forward and attractive capital return for shareholders.
+
+FINAL
+
+With that, I hand over to Markus Riess for ERGO.
+
+Markus Riess
+
+{BIO 1835270 <GO>}
+
+Thank you, Jorg and Nikolaus. Thank you very much, ladies and gentlemen for listening to
+my presentation. I'm very happy to be part of the Munich Re team now and look forward
+to addressing you in my new function for the first time.
+Let me very briefly give you an overview before I go into the numbers. I have now been
+this ERGO and Munich Re for pretty much six months to the day. I have found a lot of
+challenges and I think Nikolaus has put together very well on page number 14. But I also
+see with everybody in ERGO locally and globally a very positive spirit and a considerable
+openness for change, which I find remarkable given the changes that the employees have
+already gone through over the last couple of years.
+
+Bloomberg Transcript
+
+I also found highly competent people. And I'm lucky enough to have been able to
+complement those highly competent people this I think high performance from the
+market who consider ERGO in this position supported by Munich Re as an effective
+opportunity to contribute to changing ERGO into a higher-performing company.
+Now the results. And I want to be very explicit about this our disappointment. And I look at
+the results on a disappointing scale even if it was not for the impairment. And I'll come to
+that in a second. Nikolaus has put up the ERGO range of EUR250 million to EUR350
+million. I think that fairly reflects the ERGO potential as it stands today that is higher to any
+additional strategic considerations hence the appropriate investments and I believe this
+potential is not sufficient. I believe that we can increase the potential going forward based
+on the strategic thoughts that we're going to formulate in Q2.
+Now those thoughts I will only address in Q2 and not today. I will not hint into the direction
+of these results and we will contact you then probably in May or June in order to discuss
+the results in more details. So for now, I reflect as it is include in the pic on the year 2015
+and I would like to draw your attention to the next picture, number 33. And present you
+the key financials for 2015. And I'd obviously try to make that very brief.
+I see a decline in the gross premiums primarily due to life and health and in that segment
+primarily to life. This decline in premiums is basically a factor of the reduced focus of the
+traditional business which is still popular all across Europe, primarily in Germany. The health
+result is comparatively stable. The P&C growth which primarily comes from the branch in
+the UK and the associated exchange rate effects do not over compensate the
+comparative losses in life/health Germany. We have pretty strong growth in the
+international segment and that is also quite diversified. So that's sort of a positive on this
+chart and I'll come to that in a second.
+
+Page 13 of 55
+
+
+
+Company N ame: M uenchener Rueckversicherungs-Gesellschaft AG in M uenchen
+Company Ticker: M UV2 GR Equity
+Date: 2016-03-16
+
+FINAL
+
+My second message on this chart concerns to net result, which as you can see there is
+EUR227 million quite negative. And as I said before, this is primarily due to the goodwill
+impairments on the life/ health segment. But again I repeat myself would still be
+unsatisfactory otherwise.
+The third message goes to the lower left hand corner of the chart and touches on the
+combined ratios. Here you see that we have a deterioration of technical profitability both
+in Germany and international for various reasons. The reason is primarily summarized in
+one strengthening of the reserves that's primarily true for the international business and
+here especially in Turkey. But also in terms of large losses. This is primarily true for
+Germany. But also true for Poland. And lastly, an increased level of competitiveness, which
+has an adverse effect on the margin also true for Poland.
+
+Bloomberg Transcript
+
+The economic earnings are pretty strong. Jorg Schneider has alluded to that factor with
+EUR1.3 billion from the ERGO segment. And obviously you see on the lower right-hand
+side of the chart the lower yield environment hits into the return on investment quite
+significantly decreasing the ROI now to 3.1% from 3.9%.
+Next I'll draw your attention to the next chart that is page number 34. And here you see
+that the low interest rates really left a mark on the German life business. I can only detail
+the comments that I have already made. We have decreases in life and direct due to the
+fact that we pushed the traditional business further out. As you see out of the EUR346
+million lower premiums, to give you one example, EUR177 million decline come exclusively
+from the closing of the immediate annuities business, which was traditional. And that gives
+you an idea on how only one decision to close products is ultimately affecting this top line.
+However, I would also be very honest with you, ERGO at the moment does not have the
+sales strength to over compensate these closes into an area that had intern effect that
+you can see here in this chart.
+On the health side, first direct, because it's also connected with the traditional business.
+On direct we've a lower single premium capitalization business which also clearly is even
+though not that traditional business. But has the same origins with EUR50 million. The
+classical dental insurance remains a very strong growth driver in health on the direct side.
+So basically the decrease of business you see in the direct segment basically comes from
+the same steering algorithm that we have in the other lines of business.
+On health, there is a mixed picture. We see a decline in the comprehensive insurance due
+to two factors. First of all, we have again with the old book that we have there, we have
+again lost roughly 20,000 risks. But also we had a very low below the market increase of
+rates, which clearly in the dimension total premiums added to the fact that we have a
+negative number here. On the supplementary insurance, we have been pretty much on
+target with the black zero as we say in Germany.
+The net results and I again refer to the impairment looks even higher here and that is
+because in 2014 you will remember that there was a one-off positive effect in 2014
+because of a tax reimbursement. With that that I refocus on the fact what proportion does
+the traditional life business still have. Here you see. And I assume you are familiar with the
+
+Page 14 of 55
+
+
+
+Company N ame: M uenchener Rueckversicherungs-Gesellschaft AG in M uenchen
+Company Ticker: M UV2 GR Equity
+Date: 2016-03-16
+
+FINAL
+
+definition that the classic traditional interest rate sensitive portfolio is now down to 29% in
+the new business sector. I also like to draw your attention to the fact that whereas in 2014,
+we have already closed 65 products, 33 for private pensions and 32 for corporate
+pensions in the classical segment. In 2014, we have again closed 24 products for new
+business, 22 for private pensions and 2 for corporate pensions. And I think that underlines
+quite strongly our commitment towards more new capital market-oriented products as
+opposed to traditional life.
+Obviously, the low yield environment also affects the back-book as you very well know.
+And we had a couple of discussions outside already. First of all, let's look at the numbers.
+Currently the reinvestment yield is down to 1.8percentage points, the average yield
+because of the traditional book is 3.4. And the average guarantee with the (inaudible)
+obviously helping us is 2.7%. But I can only repeat what Jorg Schneider and Nikolaus von
+Bomhard have already said, the number looks worse month-by-month with regards to
+reinvestment yield because of the low interest rate environment.
+
+Bloomberg Transcript
+
+In that case, obviously we have to do our homework, which we did. So we confirmed our
+low bonus rate with 2.7% versus a market average of 2.8%. We have confirmed that rate,
+that means we have already put forward this low bonus rate in 2014, whereas at that point
+in time the market was still at 3.16%. Again underlining our commitment to new products
+and basically initiating the switch away from the traditional interest rate sensitive product
+lines.
+The ZZR development will increase. On the left hand side, you see a projection of the
+potential ZZR reference rate going forward. Obviously, you can have various scenarios. If
+you go into the shorter term future rather than the long-term future, I think it's fair to
+assume that ZZR will go by the end of 2016 to EUR3.5 billion for the ERGO group in
+Germany. It is now currently standing at EUR2.5 billion. Now this has obviously to be
+compared against unrealized gains and the terminal bonus fund, which in sum of EUR13.8
+billion. So we don't have an immediate financing issue here. But obviously, we come to
+even higher sizes going forward if the interest rate go down. That's why it's very
+important that the interest rate hedging program stays in place and that's a group wide
+initiative and obviously, I can confirm that we're going to stick to that program going
+forward.
+With that I switch to property-casualty in Germany. As you can see on the left hand side of
+the picture, we have a pretty balanced portfolio of various lines of business. The
+combined ratio, as I told you, is larger and higher than it was in the previous year. Part of it
+results from large losses 2.4percentage points above budget. This has also led us to the
+belief that going forward we need to increase a higher charge of net cat exposure. And
+there has also been some reserve adjustments primarily in liability, which sum up to
+1.5percentage points, indicating the desire to have even stronger reserves in the ERGO
+group than before and I refer to Nikolaus' initial statement in this context. The net result is
+overstated because it includes, as you remember, from the Q3 conference call, a positive
+one-off tax effects and also some foreign exchange rate effects primarily with the British
+pound. And that is over-compensating the weaker underwriting results that we have here.
+
+Page 15 of 55
+
+
+
+Company N ame: M uenchener Rueckversicherungs-Gesellschaft AG in M uenchen
+Company Ticker: M UV2 GR Equity
+Date: 2016-03-16
+
+FINAL
+
+With that I switch to International. We have two charts for you on International; one is on
+P&C, the other is on life. Here you see the P&C figures. There is some positive news in
+the upper corner of this chart, basically saying that the GPWs are increasing across the
+board in Poland, Turkey and in legal protection, EUR68 million plus in Poland, EUR64 million
+plus in Turkey and EUR54 million plus in legal protection.
+Now, as you see on the lower side of the chart, obviously, this is not such good news if
+you look at the combined ratios in those countries. So the question will be will this be oneoff effects or will this be maintaining effect. Obviously, we do everything we can to lower
+the effects on the combined ratio. I believe that a very high contribution of the increase in
+2014 are indeed one-off effects because there are large losses in Poland, there are large
+losses in other countries as well, there is some regulatory intervention especially in claims
+settlement and MTPL in Poland and there is significant reserve strengthening for the big
+book in Turkey, which is a market phenomenon. But it hits us as well. And you see that
+especially the combined ratio in Turkey is going higher on a significant degree.
+
+Bloomberg Transcript
+
+Also, on legal protection, there is some restructuring going on which we believe to be
+much better in 2016. That's why I'm not that negative on the combined ratio in
+International as you saw in the picture that Nikolaus showed you we believe we were able
+to achieve below 100percentage point combined ratio going forward because we believe
+it's primarily one-off figures. However, clearly the excellence in underwriting needs our
+continued very high focus.
+On International Life side, it's pretty much the same story that I told you for Germany and
+that is again focus on new product strategies and in force management. The most
+prominent example of this was the sale of ERGO Italy, which is in the closing process as
+we speak. We have sold that not to lease because of the fact that this was a very
+traditional life business book in a non-core region.
+But if you look at our product (impluses) both in Belgium, in Austria and in Poland, you see
+the common denominator of these initiatives is that we see a very high orientation
+towards modern capital markets solutions. And here you see the total premiums in those
+regards. I eluded to the fact, in most of these countries, in Belgium and in Austria, this
+new steering has led to a decrease in total premiums albeit not that significant whereas in
+Poland we have been able to increase our book of business in this context.
+I would also like to point out, India, in non-life, we're now in the process with the
+regulators to achieve the step up of 49%. That is obviously a very positive development in
+non-life. Here, we also are in the process on initiating a 49% participation in life business.
+But this is not yet started. So here we have the first set of regulatory approval. As you
+know, we started with HDFC a non-life joint venture couple of years ago. Here, we
+basically increased our participation to 49%. This is accounting very well. We have
+9percentage points growth this year and it's profitable. So it's a very good investment.
+And obviously, we try to create something like this for the life business as well and the
+50% participation that we have in China, I can report that the business development is in
+line with what we've planned. The economic earnings, I will touch on only very briefly by
+
+Page 16 of 55
+
+
+
+Company N ame: M uenchener Rueckversicherungs-Gesellschaft AG in M uenchen
+Company Ticker: M UV2 GR Equity
+Date: 2016-03-16
+
+FINAL
+
+showing you this chart because I think Jorg Schneider has alluded to the fact already. You
+see here that we have been able to contribute EUR1.1 billion earnings in Life/Health
+Germany and EUR0.1 billion earnings in P&C Germany to the economic earnings of the
+group.
+Now, as you see there is light and shadow like always. But generally speaking, I believe
+that ERGO has a lot of potential which we can develop further and I'm repeating myself, I
+will try to discuss that with you in the Second Quarter on a much more detailed basis. But
+we have already taken one decision, which I believe will be very important because it
+provides so to speak the skeleton of ERGO going forward, which the structure in which
+then ultimately all of these strategic initiatives will be dealt with.
+
+Bloomberg Transcript
+
+And let me just spend two minutes on this structure going forward, because I believe it
+sends some important messages. First of all, we will create the senior board structure,
+board that we called ERGO Group AG which will be much smaller than the Board that we
+currently have and will exclusively focus on strategic steering and portfolio segment and
+product management in this regard.
+More important, for the initiatives going forward, there'll be operational and management
+boards. And whereas in the past, I think it will be fair to say that we didn't have a clear
+differentiation management-wise with regards to Germany and International, we now put
+them eye to eye by creating a new ERGO Deutschland AG, which will be the ultimate
+holding company of all of the risk carriers and other companies that we have in Germany
+with the exception of ERGO Direkt, which will go into the Digital Ventures bucket that I'll
+talk to in a minute. And with that, we have a dedicated management team for ERGO
+Deutschland and a dedicated management team for ERGO International, which we're
+primarily focused on running the business in a professional manner. That means,
+strengthening the sales forces, increasing the cost structure, modernizing the systems,
+improving the results, exploring cost-country synergies and identify growth areas.
+And I'd also like to add, we need to explore those cost-country synergies together with
+the reinsurance side of the Munich Re Group. I think, Torsten Jeworrek and I are very much
+on the same page. There are couple of synergies that we can exploit to a mutually
+benefiting degree. Cyber coverage would be a very good example and I know that
+Torsten will discuss this later with you.
+On the Digital Ventures side, we create something new, which I find to be very promising.
+I think we are all in agreement and I thought that Nikolaus had a wonderful chat about the
+transformation of the business and I think you said re in brackets and then insurance and I
+think that clearly also other trends that will be applicable to the primary insurance as well
+and it has to do with disintermediation, digitization. And a new client interface, this new
+entrants and incumbents time to compete for our customers.
+And I believe in order to win the battle and in order to transform our business, we need to
+create an entity that is purely and exclusively focused on these area and still has
+operational management capabilities. I always say in German, I'm not sure whether the
+
+Page 17 of 55
+
+
+
+Company N ame: M uenchener Rueckversicherungs-Gesellschaft AG in M uenchen
+Company Ticker: M UV2 GR Equity
+Date: 2016-03-16
+
+FINAL
+
+English is appropriate here that I want to take the innovation away from the staff functions
+and put them into the operational management.
+However, by putting them in the operational management of traditional insurance
+companies, I always run the risk that the prioritization can't be high enough in a traditional
+business because there is one common denominator of all of these innovative thoughts
+and that common denominator is that they will only pay off in the medium-to-long term.
+And if you are a manager of a traditional insurance business, I think you always have the
+risk to say how much energy and focus do I shift into these alternative, very interesting
+subjects, which will only pay me big medium term, where I have this immediate need,
+which affects my bottom line to a significant degree.
+
+Bloomberg Transcript
+
+So I have a very high belief that if we will be able. And I will do anything I can to make that
+happen, to really create an innovative cultural environment, an environment that is not
+only made up out of 20 people in project group, that's why ERGO Direkt has such an
+important role. But with the 1,500 people, the risk carriers, the telephony services, the
+Internet services, the SEO SEM capabilities that ERGO Direkt already has, we can put
+those innovations, be it in partnering with a start-up, being by creating interesting ideas
+out of the own business, we can put them into practice in this new bucket and try to
+perform the acid test on whether they are successful and if yes, how successful can they
+be and then but only then, there is a transformational task towards a more traditional
+business and this opportunity both for Germany as well as for the International business.
+So we try to look at this as a sort of ERGO internal incubator, not in a theoretical and
+capital providing fashion. But really trying to provide the acid test on whether these
+innovations will ultimately live up to the expectations that all of these innovations have and
+that is being very successful medium term. This is the structure that we have agreed
+upon. We're currently staffing the management teams, both internally and externally. And I
+believe that the transformational needs that Nikolaus von Bomhard has alluded to will be
+mixed with this structure in a quite positive fashion.
+Let me close by saying 2016 will be a transitional year for ERGO. We will try to be as
+successful as we can by in parallel developing the strategic goals going forward. I will
+discuss them with my colleagues in the Munich Re Group in the next couple of weeks. We
+will then enter in an intense discussion with all of our stakeholder groups and then hope
+by (mid-end Q2) will be able to present them to you and the capital markets as well as to
+the public. Thank you.
+
+Questions And Answers
+A - Christian Becker-Hussong
+
+{BIO 19080254 <GO>}
+
+Thank you very much. We will now start with the first round of Q&A, for which I would like
+to ask you to raise questions on the group topics that have just been presented and as
+well as on ERGO only and questions on risk management and the two reinsurance parts
+should be pleased only addressed in the second Q&A session. (Operator Instructions)
+Frank Kopfinger, please.
+
+Page 18 of 55
+
+
+
+Company N ame: M uenchener Rueckversicherungs-Gesellschaft AG in M uenchen
+Company Ticker: M UV2 GR Equity
+Date: 2016-03-16
+
+FINAL
+
+Q - Frank Kopfinger
+
+{BIO 16342277 <GO>}
+
+I have two questions. My first question is on the split of your operating economic earnings.
+As you mentioned, there is a slide on the breakdown on page 142 in your backup and I've
+two questions on this. First, you see that the operating economic earnings within the
+reinsurance segment within Life and P&C, they are see pretty similar. Obviously, for Life,
+this is driven by the high new business value. And however, could you give some guidance
+on how you see this developing going forward; the relationship between those two
+segments?
+And secondly, if you look on the new business value, then clearly, again, Life Re is the key
+driver for this and however, on the P&C Re side, it was only EUR0.2 billion and just looks
+pretty small. And also comparing against the ERGO Life Health Germany, new business
+value was EUR0.3 billion and so the P&C Re segment looks pretty low and my question is
+simply what is the story behind this and are you going to tell us that the earnings level
+going forward will be pretty low in this segment?
+
+A - Markus Riess
+
+{BIO 1835270 <GO>}
+
+Should I take it.
+
+A - Bernhard Kauf mann
+
+{BIO 18347993 <GO>}
+
+Yes, no one else (technical difficulty).
+
+Bloomberg Transcript
+
+A - Markus Riess
+
+{BIO 1835270 <GO>}
+
+Yes. So it's a difficult one, I must say. Let me give it a try, perhaps I have to correct it after
+having looked it up. The new business value in Life was extraordinarily high. So going
+forward, I would expect it to be a little bit lower. There are also some or should I say some
+one-off effect in it. But perhaps later on -- later a little bit more on that.
+Second, on Reinsurance Property-Casualty, this includes the margin from reserving, which
+means, let's say, 4percentage points, it's over EUR600 million -- EUR700 million should be
+add back, because this is a conservatism here. That means it's a little bit a kind of
+understatement of this number. And when you go into the operating variances, you would
+-- sorry, in operating variances existing business, there you can see the effect from the
+reserve releases. So this explains that these numbers are not on a stable basis yet.
+Torsten, do you want to add something?
+
+A - Torsten Jeworrek
+
+{BIO 5724439 <GO>}
+
+No. It's exactly how as you mentioned. You will -- every year, you will see that in my opinion
+that the new business value in P&C looks a bit too small, because every underwriting year,
+we will, according to our reserving policy, we will set aside a new reserve buffer for the
+latest year. And according to our algorithm, we say it's 4% of the premium. So that's
+roughly EUR700 million. Then in the following year, if all other things remain unchanged,
+you will see exactly this 4%; EUR700 million step by step in the operating variances where
+we release the total for this part will look good and the other one will a bit look
+depressed.
+Page 19 of 55
+
+
+
+Company N ame: M uenchener Rueckversicherungs-Gesellschaft AG in M uenchen
+Company Ticker: M UV2 GR Equity
+Date: 2016-03-16
+
+Q - Frank Kopfinger
+
+{BIO 16342277 <GO>}
+
+So this implies that the 4% level of reserve for leases is sustainable?
+
+FINAL
+
+A - Torsten Jeworrek
+
+{BIO 5724439 <GO>}
+
+That is our strong expectation. And I would have highlighted it anyway. So we released
+7.2% in the last year, much more than we expected at the beginning of the year without
+reducing our conservatism. To be honest, I would have liked to reduce less. But
+accounting principles we have to measure the reserves on the basis of best estimate
+principles and therefore the 7% were a must for us. So the 4%, if we don't make mistakes
+or so, should be -- can be expected maybe as a minimum for the time being.
+
+Q - Frank Kopfinger
+
+{BIO 16342277 <GO>}
+
+Just coming back to my first question. Adjusting for all of this, how would you say that the
+relation within the reinsurance segment is going to develop in terms of economic
+earnings? Because currently it looks like it's 50-50, obviously this is distorted by the value
+of new business in life. But going forward, what would you expect is the relation between
+those two?
+
+A - Torsten Jeworrek
+
+{BIO 5724439 <GO>}
+
+Two-thirds non-life, one-third life. A higher share of life would be unrealistic in my view.
+
+A - Christian Becker-Hussong
+
+{BIO 19080254 <GO>}
+
+Bloomberg Transcript
+
+Thank you. Michael please and then James.
+
+Q - Michael Huttner
+
+{BIO 1556863 <GO>}
+
+So Michael Huttner from JP Morgan. Restructuring in ERGO, the restructuring cost which is
+often the (2.50 to 3.50), are they in the 2.3 to 2.8?
+
+A - Markus Riess
+
+{BIO 1835270 <GO>}
+
+In theory no. In practice perhaps we will make it up by other sources. Said earlier on in the
+press conference as well, not specifically. But on the other hand, of course, whatever the
+numbers are, it will be distributed over on the timeline a little bit for the accounting alone.
+You cannot push it all in the year one, we would love to do that, of course, for obvious
+reasons. But not possible and some things even cannot be put into P&L right away. So
+that's why it will be diluted and some part of course we will get the policyholder as well.
+So I'm not saying that this number will be small, don't get me wrong here. But if you take it
+over the timeline regarding it's still entirely open. But it really will be and by the end of the
+day, we still think it's manageable and the uncertainty is not only out there, it is also to
+some extent in our numbers, that's why we came up with the spend. And we do not see
+like the 2.3, if this is the real question is now on the -- have a lot of pressure, not being
+achievable because we have to add in those numbers. We feel comfortable still with the
+lower end of the span.
+
+Page 20 of 55
+
+
+
+Company N ame: M uenchener Rueckversicherungs-Gesellschaft AG in M uenchen
+Company Ticker: M UV2 GR Equity
+Date: 2016-03-16
+
+Q - Michael Huttner
+
+{BIO 1556863 <GO>}
+
+Follow-up question. So when Mr. Riess comes to the board, please sir, may I have some
+more money, what's the cost of capital you're setting, what's the capital base you're
+assuming for his plans?
+
+FINAL
+
+A - Torsten Jeworrek
+
+{BIO 5724439 <GO>}
+
+The threshold he has to pass with his business case is pretty much the same you would
+offer or ask from anyone else in the group. So the question is what do you have to put in
+to get out what over which time? How much of certainty is in those numbers? And the
+hardest threshold to beat is of course the share buyback in the first place, that's the
+obvious one. But we well, let's say, firmly look at his proposal. But it is not a given, it
+depends, of course, Markus knows that because we're sitting on the same board. So he
+has to have spent when he comes on into the room with one and then he changes and
+then he is just one board out of 10, has to make a decision. So to outvote him if needed is
+easy. But he will certainly try to avoid that.
+
+A - Markus Riess
+
+{BIO 1835270 <GO>}
+
+8% is roughly the figure we have.
+
+Bloomberg Transcript
+
+A - Bernhard Kauf mann
+
+{BIO 18347993 <GO>}
+
+And let me add a personal remark. I'm much more likely to support Markus with problems,
+which have already been known to us and where we know how we can better the
+business, have a very strong leverage here than acquiring new ones in major M&A
+transaction.
+
+A - Christian Becker-Hussong
+
+{BIO 19080254 <GO>}
+
+Thank you. James, please.
+
+Q - James Shuck
+
+{BIO 3680082 <GO>}
+
+Thanks. This is James Shuck from UBS. Two questions from me please. Firstly, on the HGB
+earnings, those started improving in 2016 and again in 2017. If I look at the capital you're
+paying out, you pay out the normal dividend and then you go to share buyback, which has
+historically broadly been quite close to that HGB number. Obviously since the HGB
+number is getting better, then what's the implication for the ability to a bit further on
+buybacks and kind of connected with that, I do find your guidance around the economic
+capital at the target level you have is frustrating because you have a 220% target ceiling
+and yet you insist on running with sort of over 300%. So either you change that guidance
+or you look to do something about it, because HGB earnings have plenty of ways around
+it in order to become more capital efficient. And I guess -- I understand you want to run
+with more capital in the current environment. But at the moment, it's making a nonsense
+of that target. That's my first question. Second one is quicker; I'm just interested in EUR26
+billion of unrealized gains on the balance sheet, what's the pull-to-par effects, the drag
+that will happen through the NAV please and how long will that last for?
+
+A - Bernhard Kauf mann
+
+{BIO 18347993 <GO>}
+Page 21 of 55
+
+
+
+FINAL
+
+Company N ame: M uenchener Rueckversicherungs-Gesellschaft AG in M uenchen
+Company Ticker: M UV2 GR Equity
+Date: 2016-03-16
+
+Let me start with the first one because the other one I couldn't answer anyway because
+that is -- you have to have the numbers at hand. The first one is, on a very macro level, I
+would say, let's cross the bridge once we get there. And I said earlier on that we are very
+cautious in view of the extremely volatile capital environment right now. And HGB except
+for those specific accounting rules where you can sort of push out a little bit on the
+timeline problem, which we normally don't want to do, we are very cautious there. I
+mentioned right on the book value could be -- have a low interest rate. This book value is
+nothing concrete. So we might have to address that.
+On the asset side of the balance sheet, there's many things also that could be pushed
+down, be it interest rate development or be it the equity market and so forth. That's why
+even it may look as if over time now the HGB result will be of a nature that you could do
+more, we hesitate to come up with any statement as of today and say, what will happen in
+2017. We actually feel quite comfortable with that kind of year hopping we have
+implemented. So every year we think it through again.
+
+Bloomberg Transcript
+
+So let us assume we buy as we today in the morning announced publicly buyback another
+billion worth of shares so there is a dividend increase of EUR0.25 relatively likely.
+Everything else then we will have to stretch ourselves and think about it. And the same
+goes then for the remainder of the share buyback over and above from what it takes. So
+rest with us and bear with us for the time being in that environment, we're very, very
+cautious in coming up with strong statements. I understand -- we understand what you
+say. And believe us, we will not hold capital just for the sake of holding it, we'd rather feel
+to save and as I said, if there are opportunities to be taken up any time soon, we want to
+be ready for it. And it may need quite big-ton money. We don't it, frankly.
+
+A - Torsten Jeworrek
+
+{BIO 5724439 <GO>}
+
+I can add perhaps not very encouraging news that the HGB numbers will be supported
+everything going forward, as we see it now by the release of the equalization reserves.
+But it shouldn't be underestimated how fragile it is to investment returns, especially to
+depreciation coming from equities, for example. But also from fixed interest securities.
+Also, in case of an increase in yield, in rates, what we could then do is we could immunize
+the portfolio by pushing them to maturity category. But you want to avoid that as long as
+you can, because then you would be handicapped to continue trading the securities. But
+this is something which has to be seen that on one hand, the support from the
+underwriting side from the equalization reserves, on the other hand, not only the decline
+from the decline in interest rates from the reinvestment side. But also the exposure to
+impairments.
+Yes. You're right, we can influence it actively by group internal transactions, for example.
+But we would like to keep these instruments in our tool box and use it when necessary to
+bridge a gap coming from impairments, for example, in order to stick with our dividend
+and as far as we can also to continue supporting the share buybacks.
+Pull-to-par effect on the EUR26 billion, the net of this EUR26 billion is roughly EUR7 billion.
+That means after policyholder participation and after taxes. So this figure is still big. But it's
+not so enormous as it looks like at first lens. Second, it depends on what you do with the
+Page 22 of 55
+
+
+
+FINAL
+
+Company N ame: M uenchener Rueckversicherungs-Gesellschaft AG in M uenchen
+Company Ticker: M UV2 GR Equity
+Date: 2016-03-16
+
+money. If we sell it all today, then we have EUR7 billion more capital and if we pay that fully
+out immediately, then we have EUR7 billion less NAV. And if we keep it all, we still have the
+same unchanged NAV which means the pull-to-power that everything goes back to 100
+happens by realizing the interest rates or the interest income, which comes from the
+higher coupons because these higher coupons are the simple reason for this unrealized
+gains. That means as long as we cash in the higher coupons and use them to do share
+buybacks and to pay dividends, our NAV will decline but only to the magnitude of our
+distribution if we keep it, all the NAV will remain unchanged.
+
+A - Christian Becker-Hussong
+
+{BIO 19080254 <GO>}
+
+We have Kamran and then Daniel Bischof I think.
+
+Q - Kamran Hossain
+
+{BIO 17666412 <GO>}
+
+It's Kamran Hossain from RBC. I guess, coming back to James' point from the caps, the
+solvency ratio, it's kind of an amazingly high number at 300%. I just want to come to some
+of the opening remarks you made about we're in a very, very risky situation in so many
+different fronts. So that would seem like it's the opportune moment for Munich RE to
+actually go and deploy some of that balance sheet. So I guess, the question is, is
+distribution to find these risks, is that what you see or are the opportunity just not really
+developed yet for you to go and deploy that capital?
+
+Bloomberg Transcript
+
+A - Markus Riess
+
+{BIO 1835270 <GO>}
+
+Let me answer on the higher level too. When it comes to deploy the capital that we have
+at hand, of course, the business feels to try everything, then Torsten probably would be
+the one who can use up most of it in relative terms for the businesses he has under his
+wings and that was almost impossible to use these amounts except for market risk. But
+that's exactly what we can do not want to do. So for the rest of it, it can't only be
+reinsurance. It could be either life and specifically non-life. But here, of course, on the cat
+side, we could do more. But we don't want to be more heterogeneous.
+We rather want to be more homogeneous with our cap book and it would be single deals
+or it would be rescue deals. But Torsten feel free to add to it but at this level of
+profitability that we have to achieve and defend, this is not just cruising out there and
+waiting for us. We need to change in the market for whatever reason probably not a good
+reason at first sight, may be good for us in relative terms, because we are then stronger
+than the average.
+
+A - Nikolaus von Bomhard
+
+{BIO 3123407 <GO>}
+
+Not much to it, you're right. You know, the segment in reinsurance which needs the
+highest -- which has the highest capital allocation is the cat reinsurance per premium, per
+unit of premium. So to speak here and I come to that later, when we look at the
+development in the market, as the market price changes, we should go into the other
+direction, we should withdraw from market step by step, which means that we release
+capital or free it up, times will change, I'm absolutely sure, three years from now. And the
+other business, which we are currently developing, like new products, cyber risk services
+for clients also, they lead to more homogeneous portfolio and don't need high allocation
+Page 23 of 55
+
+
+
+Company N ame: M uenchener Rueckversicherungs-Gesellschaft AG in M uenchen
+Company Ticker: M UV2 GR Equity
+Date: 2016-03-16
+
+of capital from our excess capital. So all the new initiatives can easily be finance this low
+capital allocation.
+
+FINAL
+
+Q - Kamran Hossain
+
+{BIO 17666412 <GO>}
+
+Just follow up on that. And just ask, if you were to take the ratio from 300 to 220, how
+much more business would you be able to write? I know it's quite a difficult thing
+depending on the type of business. But how much more would you expect will be able to
+write?
+
+A - Markus Riess
+
+{BIO 1835270 <GO>}
+
+I don't think that the -- don't get us wrong here. The equity we have in place for the sector
+that is higher than it should be in terms of ranges that does not push prices up, it is not
+that if we have more equity or solvency capital, that the pricing and reinsurance changes.
+This is independent from each other. So there is some sort of effect of course in the
+interest rates, of course, in the first place and we have to rethink and this is exactly what
+reinsurance does all the time. Should we allocate capital difference, is the co-variance
+concept right to allocate the capital, do we miss out on something there? But it's not the
+quantity rather, it's the way how we allocate it. But it would not change the overall
+consumption, it is rather what we have calculated in the risk model can be distributed
+differently. But it would not change much of the pricing or gift Torsten the competitive
+edge to now take in business that he couldn't have taken in beforehand. If I understood
+the question correctly.
+
+Bloomberg Transcript
+
+A - Jorg Schneider
+I think we can give an indication, on page 35, you see the split of the solvency capital
+requirements and their property casualty reinsurance consumes before diversification
+effects EUR6.3 billion. So we can write 2.5 times that much, when it has the same level of
+diversification. But this is in a way nonsense, because it would drive our peak scenarios,
+which are from a capital point of view extremely expensive and also Torsten, I think there
+will be a price volume curve, which is extremely negative when we go up these risks
+ladders.
+
+A - Christian Becker-Hussong
+
+{BIO 19080254 <GO>}
+
+Okay. Daniel Bischof was the next and then Will Hawkins please.
+
+Q - Daniel Bischof
+
+{BIO 17407166 <GO>}
+
+Two questions for Markus Riess, the first one on page 48. I think there is not one life
+insurer not focusing on the risk and unit-linked business. Could you talk about the
+competitive situation in that field? Second one on Poland, I think recently introduced a tax
+of 44 basis points on financial assets. What does it mean for ERGO and also for the very
+strong competition in that market?
+
+A - Markus Riess
+
+{BIO 1835270 <GO>}
+
+Thank you, Daniel. I have the number for Poland. I just need to find it. Maybe I'll start with
+the competitive side. Everybody is trying to de-risk. I think we de-risk in a very consequent
+Page 24 of 55
+
+
+
+Bloomberg Transcript
+
+FINAL
+
+Company N ame: M uenchener Rueckversicherungs-Gesellschaft AG in M uenchen
+Company Ticker: M UV2 GR Equity
+Date: 2016-03-16
+
+fashion and obviously I will refrain from evaluating the competition as such. But as just a
+general observation, not every product which seems to be non-classical is clearly nonclassical because it implies still some guaranteed products. The way we are positioned as
+ERGO, is basically a position I found when I came and I'm absolutely committed to
+increase further because for this situation that we're in, I believe it's the right strategy
+going forward, is to really try to develop a footprint in terms of the asset management
+oriented old age provisioning strategy. And I believe that both in the unit links plus in the
+index-oriented plus in other areas of the capital markets competency frameworks such as
+reinsurance based in retail et cetera, that is the area that we want to play in.
+My competitive judgment is that in this area there is room for a new ERGO so to speak,
+because we have a lot of capabilities. But I'm also very modest in terms of what kind of
+pace can we gain to make this a large footprint because this all requires an educated
+sales force because as you very well know, in the corporate business, those products are
+not that well looked after, not well thought after because of the question of the liability for
+the old age provisioning and obviously, by definition, those products do not have an
+explicit guarantee component to it, which makes the liability question significant with
+corporate pensions. So we would be targeting primarily the retail side of the business and
+the retail side of the business requires a lot of advice and if you really want to have a
+convincing presence in this space of the retail franchise in the capital markets arena, I think
+we really need to train and educate the sales force.
+Now, knowing the sales force of ERGO already a little bit and some of the other sales
+forces in Germany also, I think there is room for us to do that. I will just require some time
+and it's a very consequent strategy whole out going forward. Secondly, the so-called
+Religa tax that you were referring to is estimated for a negative impact of roughly EUR8
+million, EUR7.7 million to be exact, on the results in Poland and that's for the full year, I
+guess, in 2016.
+
+A - Christian Becker-Hussong
+
+{BIO 19080254 <GO>}
+
+Okay. Then, Will Hawkins, please and then we will take In-Yong and then we will have a
+break and all other questions please then in the second part or in the break.
+
+Q - William Hawkins
+
+{BIO 1822411 <GO>}
+
+Thank you. William Hawkins from KBW. On the normalized economic earnings of 2.6 last
+year and could be lower than 2.5 this year, how much of those two numbers you're
+expecting comes from ERGO? So what's the ERGO normalized numbers? Then secondly,
+can you just be a bit more precise on how many audit, why the earnings guidance for
+ERGO has come down so significantly for IFRS, from about 500 to what could be as low
+as 250? Is it pretty material for and I can work out myself that maybe EUR60 million or
+EUR70 million is coming from the higher combined ratio guidance. But that's still is another
+couple of hundred million which is a big % of ERGO. So can you just be a bit clear about
+why we are ending up with lower earnings power in ERGO?
+
+A - Markus Riess
+
+{BIO 1835270 <GO>}
+
+Page 25 of 55
+
+
+
+Company N ame: M uenchener Rueckversicherungs-Gesellschaft AG in M uenchen
+Company Ticker: M UV2 GR Equity
+Date: 2016-03-16
+
+I'll start with the normalized part that's pretty low. New business value, give me a little bit
+time, because I have to deduct it from reinsurance numbers. Nikolaus?
+
+FINAL
+
+A - Nikolaus von Bomhard
+
+{BIO 3123407 <GO>}
+
+Markus, we will share the second one. Maybe I can start and you fill in for the rest of it.
+And one thing is for sure that, of course, interest rates, lowering. And we have to go back
+a little further because the EUR500 million is an older number. Last year, as we came up
+with the range, if I remember everything correctly EUR350 million for EUR450 million. So
+that takes out EUR50 million, my life is answering a little easier, two is of course the ever
+lower interest rates that bite their way into the result as well.
+Then we have the budgets, if you just take, it's not rocket science, just a retrospective
+exercise over the last five, four years, we will check that against the progress we have
+here in Munich. But the budget of the natural catastrophe losses has been used up a lot
+and apparently was too small. So we add a little bit there. This maybe within yield, (EUR70
+million) to mention because that, of course, has a reflection in the combined ratio than the
+overall market development as such. And now Marcus, if there is anything else, I think it's
+also about realism to some extent but Markus?
+
+Bloomberg Transcript
+
+A - Markus Riess
+
+{BIO 1835270 <GO>}
+
+Thank you, Nikolaus. The answer I'm going to give you is probably a little sounds more
+exact than it really is. So just bear with me in terms of order of magnitudes. The EUR70
+million you estimate are exactly the EUR7 million we estimate as well from the -- as a
+combination of the new net combined ratio guidance plus the net cat and manmade
+claims. So that will be roughly EUR70 million. We see roughly 150, 160 from investment
+income, which is basically affect from lower reinvestments yield, small income because we
+have ultimately lower premiums and we have also I think you're pretty well familiar with
+that, upstreamed excess capital from these subsidiary companies and that obviously
+leads to a smaller basis from which you can earn investment income.
+Lastly, on the international segment, that's another EUR40 million to EUR50 million, which
+is primarily the sale of ERGO Italia and an increased and adjusted assumption with the
+medium-term result, which is already reflected into the combined ratio international that
+you see. That in all sums up roughly to the sum that you're looking for.
+
+A - Jorg Schneider
+And I can add the economic earnings for ERGO on a normalized basis, which looks to me
+being quite optimistic that is returned from existing business that is a very high-risk margin
+releasing itself over time. It's EUR300 million loan and overall we come up with roughly
+EUR0.6 billion here. But you should have in mind that this is not all about life. Health
+business is performing well and also property casualty Germany is performing well and
+also EFGO direct for its life business and health business and a little bit property casualty
+business all these are delivering economic earnings. That means, I would say it's
+somewhat realistic, somewhat optimistic but not totally unrealistic this number and all
+goodwill effects are anyway not part of that calculation.
+
+Page 26 of 55
+
+
+
+Company N ame: M uenchener Rueckversicherungs-Gesellschaft AG in M uenchen
+Company Ticker: M UV2 GR Equity
+Date: 2016-03-16
+
+A - Christian Becker-Hussong
+
+{BIO 19080254 <GO>}
+
+Thank you. Then we have In-Yong ask the last question before the break.
+
+FINAL
+
+Q - In-Yong Hwang
+
+{BIO 18784369 <GO>}
+
+Hello. In-Yong Hwang from Goldman Sachs. Just one question on the Group net income
+guidance. I think in the preliminary results you were quite confident of getting to the
+EUR2.5 billion. So I was wondering what kind of scenario, is that the worst-case scenario,
+EUR2.3 billion that you got at the low end of the guidance and what's changed in the
+meantime since then? Thank you.
+
+A - Jorg Schneider
+Perhaps they became a little bit more uncertain coming from capital market
+developments that is the only reason I would say that has changed since. So we have not
+built in all the deterioration between 4th of February and end of February. End of February,
+we had kind of very low point on the capital markets. But especially with the incoming
+impairments from equities we thought that it's wise to be a little bit more careful.
+
+A - Christian Becker-Hussong
+
+{BIO 19080254 <GO>}
+
+Okay. Thank you. So far for the first part, I would suggest that we return to this room and
+start with the second session at exactly 4'o clock please. So roughly 30 minutes. And we
+are looking forward to discuss with you further in the break. Thank you.
+
+Bloomberg Transcript
+
+Okay, let's start with the second round. Bernhard please, turn is yours.
+
+A - Bernhard Kauf mann
+
+{BIO 18347993 <GO>}
+
+And good afternoon. I'm happy to share now some details concerning our risk profile and,
+our risk capital requirements and our solvency position with you. First of all, key role offers
+management in this environment is built resilience and enables change and innovation.
+Nikolaus pointed out already at the current risks that we are facing mainly driven by
+political and economic risks. They are already leading to high at the current risks that we
+are facing mainly driven by political and economic risks. They are already leading to higher
+volatilities in the markets and there is definitely more to come and this volatility has an
+impact on our economic solvency assessment. But also in the new Solvency II regime. It is
+reflected in the solvency ratios of the whole insurance industry.
+Therefore, building resilience is a major focus of our risk management activity and on the
+first slide you see that with the classical risk management measures that we already
+employ for many years, we try to dampen the impact of the market volatility on our
+solvency position and also be able to play out our financial strengths in these turbulent
+times. And I'm sure you will also believe us that we can manage our insurance risks with
+our risk management tool kit as well to support this.
+On slide 34, you also see that not only the role of risk management is to support -- to
+build up the resilience. But also to support change in innovation and to develop markets
+for specific risks, to exploit opportunities with new clients, offering risk-related services,
+Page 27 of 55
+
+
+
+Company N ame: M uenchener Rueckversicherungs-Gesellschaft AG in M uenchen
+Company Ticker: M UV2 GR Equity
+Date: 2016-03-16
+
+FINAL
+
+use the insight that we gain also for our risk assessment that is while we are also daring to
+take risks earlier than others as we can experiment in our well-established frameworks
+and also explore business in this environment. Some examples, Torsten will go into this
+later on. You can find also on the slide like specific flood cover, cyber cover but Torsten
+will touch on this in more detail later.
+Now to our standard reporting, our risk profile has not changed very much. So our
+solvency capital requirement only decreased slightly to EUR13.5 billion. You see in the
+comparison with the restated numbers of 2014. So already those numbers based on all
+the Solvency II compliant internal model that main movements were in property and
+casualty reinsurance risk that has gone up. I will come to that later and credit risk going
+down mainly driven by de-risking in our investment portfolio in the reinsurance group. But
+also some modeling effects related to the transition into the Solvency II world.
+Diversification benefit is reflected in our internal model with 37% and at the end of that
+slide, you also see now explicitly the loss absorbing capacity of taxes and the effect that
+this has on our capital requirement as this is now considered in the numbers as shown on
+the slide.
+
+Bloomberg Transcript
+
+Now going through some points of the specific risk categories, P&C risk on slide 36. This
+is first message that of course we have enough risk bearing capacity for taking over even
+more exposure. Also for our peak scenarios. But in this current environment, we see that
+prices are not adequate, solvency capital requirement for P&C risk is still mainly driven of
+course by our peak scenarios by nat cat exposure. Even so in 2015 the increase coming
+through via this segment mainly goes back to foreign exchange effects. But also our
+primary insurance business mainly written in the US.
+In 2015, also some special risks contributed to the increase in these solvency capital
+requirement and this goes back to also our building up of more innovative products and
+for example, now our standalone capital requirement for whether risk is higher than our
+P&C ERGO capital requirement. On the next slide, some statistics on nat cat losses or
+better the less than expected losses in the last years. In the last four years, we were lucky,
+the industry was lucky because major losses were below expectation. This is not an
+indicator to change the models or to change pricing. It is still more likely to have four good
+years. So below expectation -- below the expected losses and then to have two
+consecutive years above this expectation and this all is based also on our very detailed
+bottom up modeling and validation processes and we see currently no reason to change
+our assumption. But find that all of this experience is still very much in line with the models.
+Next slide is on life and health risk. Slightly decrease on capital requirements to EUR4.7
+billion. We see some growth in reinsurance and health business that is pushing the
+numbers up. But the major change is coming from the risk category or what is here
+categorized as longevity risks where we see a decrease from EUR2.4 billion to EUR1.5
+billion. This is dominated by the insurance risk of ERGO's annuity book, which is classified
+under longevity risk.
+This also contains behavioral risks, cost risks. So you shall not interpret these sensitivities
+as the standard formula sensitivity kind of analysis on our life and health risk with respect
+to longevity or mortality. But these are the lines of businesses driven mainly by longevity
+Page 28 of 55
+
+
+
+FINAL
+
+Company N ame: M uenchener Rueckversicherungs-Gesellschaft AG in M uenchen
+Company Ticker: M UV2 GR Equity
+Date: 2016-03-16
+
+or mainly by mortality and their capital requirement as reported here. Coming to market
+risk, we see a good balance between the different risk categories, very high
+diversification, resulting in our market risk. Risk managers love this. You see a jump in 2014
+mainly in the foreign exchange risk category. This also is related to Solvency II
+requirements as in Solvency II as a neutral cash preference is in euro. We have a different
+view on this. But to be Solvency II compliant, we changed this and this leads to this
+increase in foreign exchange rates. You also see that we manage our duration gap
+actively to also try to dampen interest rates sensitivity in the reinsurance but also
+especially in the ERGO life insurance books. Now on slide 14, I try to make the case of our
+hedging activities that are embedded in the economic metric, which are favorable in an
+economic balance sheet view but leads to unfavorable effects in the IFRS P&L.
+
+Bloomberg Transcript
+
+Our liability driven investment strategy tries to reduce sensitivity of our eligible on fronts
+which is the equity position in our economic balance sheet and hedging of interest rate
+inflation with physical assets. But also with derivatives. This is what we are aiming with to
+steer what kind of value at risk we like to see with respect to these risk categories, which
+makes total sense in the economic balance sheet and you see the effects and also the
+positive effects on the capital position. But we see the unfavorable IFRS P&L effects
+especially also in 2015 for example driven by the inflation developments. Another risk
+category that we have not touched upon in more detail before which is operational risk.
+As we run a full internal model, also operational risk is modeled bottom up. The top three
+risks according to the industry standard categorization for operational risk, you see on the
+left hand side of the slide, which is mainly going back to wrong financial statements and
+resulting runs tax statements, antitrust cases or process errors. So we hold above 4% of
+(under certified) risk capital for operational risk, we are validating this with internal loss
+data. But also with external loss data and stresses and currently we do not see any reason
+why there should be also a change to higher numbers. But also to lower numbers. So this
+is also very much in line with our validation results.
+And Nikolaus already showed the solvency ratio of 302%, which increased in 2015 to the
+year-end number which excludes any kind of share buyback or dividend activities in 2016
+except the remaining share buyback program from last year. So in the footnote, you see
+the resulting solvency ratio also taking into account the expected dividend payment for
+2016.
+We have not used any kind of long-term guarantee measures. So no volatility adjustment,
+no matching adjustment, no transition notes for the Group numbers. But also on legal
+entity level. But with interest rates at the current level or even lower levels applying these
+measures for selected legal entities in the Group is of course still and a valid option.
+Now to the sensitivities of our solvency ratio, if you apply the sensitivities end of February.
+So, the current market environment, you will see that we would be slightly around 280%.
+We also would expect that our current solvency ratio is in that ballpark. But that means
+even taking into account dividend payments, share buybacks. But also the one or two
+unpleasant surprise leaves us in a very comfortable territory with respect to our solvency
+position.
+
+Page 29 of 55
+
+
+
+FINAL
+
+Company N ame: M uenchener Rueckversicherungs-Gesellschaft AG in M uenchen
+Company Ticker: M UV2 GR Equity
+Date: 2016-03-16
+
+We also added the analysis of our sensitivities, the stress of the ultimate forward rate. So
+taking it down, for example by 100 basis points and here applying a static volatility
+adjustment to give you also feeling of how these measures would result in our solvency
+ratio. In your rankings or also if you compare us to our peers, we typically appear to be
+relatively sensitive with respect to interest rate risk. But also spread risk. So therefore,
+please note the assumptions on the right hand side of the slide, because we are
+reporting our numbers based on full consolidated account for the Group. So taking the
+whole group into account not using any type of long-term guarantee measure. But also
+for example, taking into account the full credit risk of all our investments, all our fixed
+income securities, all our government bonds and to have a fair comparison also, this has
+to be considered to also have the same basis for comparison. If we, for example would
+use some of the long-term guarantee measures or transitional measures, you see that
+our solvency ratio of course would increase. But more important is that sensitivities would
+go down and we have here shown this as an example for the spread sensitivity. But also is
+equity sensitivity with respect to some selected measures. And pointing at the spread
+sensitivity, which currently is 30percentage point decline in our solvency ratio of 302%.
+This would go down to 10%. So only two-third of this impact would result after implying
+the measures I just mentioned. So please also if you compare to our peers, please
+compare apples with apples. Thank you. Now, I hand back to Christian.
+
+Bloomberg Transcript
+
+A - Christian Becker-Hussong
+
+{BIO 19080254 <GO>}
+
+Good afternoon. And hello. I have the honor to lead you through the reinsurance part of
+the presentation and I would start with a short summary of our financial results here on
+the first slide. Very good performance in all segments, I will skip the life and leave that up
+to you. But although non-life and risk solutions part had very good results last year.
+Premium grew by life and non-life together by about 5.2%. Of course, a strong impact of
+foreign exchange rates, particularly from the North American markets. Very good net
+results of EUR3.3 billion and now I come to the combined ratio, I think Jorg mentioned it
+already, it's 89%. This of course extraordinary, we did not expect that. But when I look at
+quality offset 89%, we have to realize very low cat activity in 2005, which was also to
+some extent caused by the strong new climate phenomenon in the Pacific ocean, which
+usually leads to a very below average cat activity in the hurricane regions and we cannot
+expect such a scenario every year. So it contributed approximately close to 6% to the
+better performance and then we had 7.2% reserve releases, which is more than 3% above
+our usual expectation and I mentioned already in one of the former questions our current
+book is as strong as before.
+If I didn't have to, I would not have released such a reserve amount here. But the 4%
+which we put every year as an additional buffer into the youngest underwriting years can
+at least be expected for the near future from all the information we have available to
+date. So very strong reserve position. Normalized if I, let's say, normalized for these two
+factors, cat activity and reserve position, we would have achieved 98.7% combined ratio
+for the full-year, which is under the circumstances and considering the market
+environment still I would say reasonable result.
+Next slide, I would like to skip that I mentioned already is two big drivers in the new
+business where you and operating variances. If you want a distortion between the two
+Page 30 of 55
+
+
+
+Company N ame: M uenchener Rueckversicherungs-Gesellschaft AG in M uenchen
+Company Ticker: M UV2 GR Equity
+Date: 2016-03-16
+
+FINAL
+
+because our reserving policy here and what now go to the P&C book and would start
+here with the renewal and how we see ourselves positioned in the last renewal and in the
+coming renewals.
+I think what we see in the market is unchanged, a very competitive market. But Munich Re
+is definitely a leading tier 1 reinsurer and we have the preferential access to business in all
+of our markets and more and more you see that although in our figures more than 50%
+of the premium of the January renewal and that is the biggest renewal of the year was
+placed with the Munich Re on the basis of private terms and conditions. That means these
+are conditions, which are not available for the normal markets in the world. For more than
+two-third of our business, we have direct access to our clients. Why is that important? That
+means we have better opportunity for that business to identify opportunities or it feels
+demand in our client relationship and be able to respond with specific solutions. And on
+the right hand side of this slide you see here already in mentioned our resolution book,
+which contributes in the meantime EUR5 billion premium to the non-life book and you see
+also hear already the EUR500 million of innovative products, which stabilize and support
+the performance in non-life.
+
+Bloomberg Transcript
+
+Here an overview of the rate changes in the January renewal. We published already our
+basic results. What you see on that slide is a comparison between our observed rate
+changes in the market. These are the great pillars by line of business or by segment and
+within each of the pillars you see how the Munich Re rate change was calculated or how
+we came out of the renewal. So and that means in almost all segments and all regions,
+the Munich Re rate change is a bit better than the rest of the market and is significantly
+better in the proportionate businesses.
+And proportional business is a pretty stable pillar in our P&C book today. It contributes
+about 70% to our premium volume. The only segment where we also face price pressure
+was the property non-proportionate segment. It's the second left part of the slide and
+this was also the segment where the market pressure was the highest. We saw in terms
+of capacity a better capacity available in the market. The contribution from alternative
+capital providers was a hedge and pension fund was more or less stable in our opinion
+and when I look who caused the competition in the market, it was to a lesser extent
+alternative capital. So as an alternative capital, most prominent involved in the US cat
+business behaved a bit more disciplined than the rest of the market. So that means the
+competition to a large extent comes from our own markets today. That is of course also a
+reflection of the non-available growth opportunities these days.
+There was hardly any pressure in terms and conditions in the last renewal. It was a bit
+different the last two years ago. If you remember, closes et cetera, this time very stable,
+no pressure on that side. What is our view in the current market environment? What is our
+response? We have no ambition to grow premium volume today. I'm of the strong opinion
+with my 26 years' experience, I went through many soft cycles that it is very decisive and
+very important to be disciplined, to keep discipline in the Company and I'm convinced the
+cycle will sooner or later come to an end. And the Munich Re should never be the
+company or the first company who suffers most from negative rates or from under
+reserving and so, I never want to be the company who has to let's say be the first going
+
+Page 31 of 55
+
+
+
+Company N ame: M uenchener Rueckversicherungs-Gesellschaft AG in M uenchen
+Company Ticker: M UV2 GR Equity
+Date: 2016-03-16
+
+FINAL
+
+to market to increase rates against all markets players because that is the game you can
+never win.
+So therefore, strong balance sheet and strong discipline is a must for us. Of course it's
+the same time there are possibilities, there are options in the market for us to find new
+opportunities particularly when it comes to capital management solutions. Here's the
+other slide that is for our portfolios rate change and by segment and by line of business.
+In the January renewal, overall outcome for us minus 1%, rate change we published it.
+You can ask where does and you have minus 1% and so you lost some segment of your
+profitability, where does the positive volume comes from? Where is it from? Did we grow
+against the market here. What is it? And the reason is pretty simple. When you look at the
+next slide, we gave you a short overview where we grew the business and where we
+reduce our business and the parts where we can't grow the portfolio came basically from
+very few core relationships and a few of them needed reinsurance support as postacquisition measures.
+
+Bloomberg Transcript
+
+So we were part of an acquisition strategy of our clients and after such an acquisition, they
+needed reinsurance or had to replace some of the existing reinsurance and we because
+of the relationship and because of the early support, we were the only reinsurer in a few
+cases who got that business and therefore, that was basically business which was not
+available to the market. So therefore, there's been not a contradiction here.
+The next slides are known to you. Here we give you an update on our portfolio split. So
+first slide. And you have to read it from the left to the right if you want, it's EUR18 billion
+total P&C portfolio and you see here in the first slide, the overview of what happens by
+renewal date. January 1, the biggest renewal date and (two) others to come at the end of
+the day. So what is remarkable, January has the lowest portion of nat cat business, the
+other two 11%. The other two renewals are more exposed to the non-proportional cat
+business either in Japan, now at April 1 or in July basically in the United States and
+Australia.
+What do we expect for the year? Based on the current performance, based what we have
+seen in the first two months, I personally expect a very unchanged, a pretty unchanged
+market environment. So that means probably similar rate pressures in our business maybe
+and I don't know whether this will stabilize. We saw some or few indications in the United
+States market of rate stabilization remains to be seen whether this was a trend or only
+unique for the last renewal.
+So here now I dig a bit deeper, still the EUR18 billion and you find here in the meantime
+28% premium contribution of risk solutions portfolios. That is what you mentioned at the
+beginning what started more than 10 years ago, what started as reinsurance out of
+reinsurance business now risk solutions where we could build up and wanted to build up a
+new business segment and on the right part of the slide, you see the composition of that
+risk solution business of the EUR5 billion.
+
+Page 32 of 55
+
+
+
+FINAL
+
+Company N ame: M uenchener Rueckversicherungs-Gesellschaft AG in M uenchen
+Company Ticker: M UV2 GR Equity
+Date: 2016-03-16
+
+And what is so important here, when you look into the EUR5 billion premium, you see that
+this risk solutions business is primarily insurance business is of different nature when you
+compare with our peers. Many of our peers have primary insurance in their portfolio. What
+we do however is we do not expose ourselves to a large extent in the large stuff in the
+sort of industrial risk business, which is placed by our brokers on a global basis and most
+of our business about 80% is a regional business and this really specialty business where
+expertise and risk management service and inspection service is part of the value chain
+here. And what is exposed to the global cycle here when I segment this business that is
+the part which is here described as corporate insurance partners, 13% share of the EUR5
+billion and the Watkins Syndicate. That is the marine business and the offshore energy
+business. These two segments or entities all right global business. That means that
+follows basically the global market cycles or rate cycles and here, when you ask how do
+we develop the business via cycle management.
+
+Bloomberg Transcript
+
+Here we shrink our business, we respond to the cycle, we try to keep the profitability in
+place. But the remaining 80% is pretty stable and hardly exposed to these global rate
+cycles and that means here we stabilize our portfolio, our total P&C portfolio. Second, this
+risk solutions business has for us not only importance from a profitability perspective, they
+are some strategic consideration behind. And what is it. In the second part of my
+presentation, I come to innovation and business development and here's through that
+business, through these entities, we have direct interaction, direct contact with the final
+insureds. That means here we can develop new products we see where is the demand,
+where is no demand, what market prices can be achieved if we develop cyber products
+or so, here we can test the market.
+So that means we can grow that portfolio. But we can also use these services and these
+products for our core traditional reinsurance relationship to bring more to the table than
+just the reinsurance product. Therefore very strategic importance for us. In this part, the
+next part, you see a short composition where we stand in the traditional reinsurance part,
+that's EUR13 billion and in this EUR13 billion, there is also the facultative business included.
+By line of business on the left side, you see that in the meantime, the property cat
+business contributes only 10% to our business, 10% of $13 billion is now cat business. This
+is the business which is highly exposed now to the rate changes and is it good or is it bad
+in relative terms, of course, it is a good picture because in the majority of our portfolio is
+less exposed to the competition today. On the other hand, the 10% cat business
+consumes of course the biggest part of our capital. When you ask Mr. Kaufmann, where is
+our capital allocated, then the biggest part is allocated to the cat business. That means,
+when you charge a cost of capital to this high capital allocation to this capital for that nat
+cat business, then it means that it delivers a very high contribution of nominal earnings.
+And therefore, it's not so easy to give that up. Now it's a good provider or contributor to
+our technical result and therefore we really try to manage it out in the best way. In the
+middle part, you see more than 70% of our businesses in the meantime proportional and
+under the proportional business, we look at two sides. We always look at the question, do
+the original rates, primary rates change. If so, we have to react. But most of the business
+is here from that perspective, very stable.
+
+Page 33 of 55
+
+
+
+Bloomberg Transcript
+
+FINAL
+
+Company N ame: M uenchener Rueckversicherungs-Gesellschaft AG in M uenchen
+Company Ticker: M UV2 GR Equity
+Date: 2016-03-16
+
+And the second question is, is there pressure on the commission side. These two factors
+rate changes and commission changes determine basically the price changes for the
+reinsurer. And therefore, we manage these two parts or monitor them very closely. A
+proportion of business is under some price pressure. But not comparable to with our nonproportional cap business. Therefore, more stable for us. You know, this picture from last
+year. Here, we give you an illustration how we see for our P&C portfolio the relative
+profitability changed by segment and the size of the balance represents in an illustrated
+phase the underlying premium volume. So here you see the very tremendous changes in
+the property nat cat business, in aviation and in the marine business.
+When you look at economic profitability, all these segments, these are larger segments.
+All these segments which we show here still meet our cost of capital. None of these
+segments (signal). But none of these segments as a whole violate our cost of capital. That
+is a good thing even in the current environment. We have however and we show that here
+in the right part, we have a few sub segments in these segments, which are now below
+cost of capital. One is the offshore energy business written by our Lloyd's Syndicate and
+few other entities in the Muenchener Group. Very often, you can ask why do we write
+them, these sub-segments even if they are not sizable or big. Usually they are written as
+part of an overall client relationship, where we always have to ask ourselves when is it
+time to give them up and what other business is then at risk if we give up that part which
+is under water. And that is not the case yet. Here the next slide, similar picture only for the
+cat business standalone, you see the split between the various regions and you see on
+one end the importance of North American cat business.
+On the other hand, you see that North American cat business in relative comparison with
+the other regions of property cat is closer to the line where we see the cost of capital. So
+that is the market, which is most under pressure according to our calculation. The question
+is now of course, is it only disciplined underwriting and cycle management, what we do in
+the current market environment or do we see all the opportunities where can we grow
+the business in the future and I try to give you here two examples, one for the sort of
+mature markets and one for the more developing emerging markets where we see for
+the coming years more business potential in traditional reinsurance.
+First is the mature markets. You have seen the announcements in the last months that we
+have identified already opportunities to go more into the under-insured cat parallels and
+one example here is the inland marine flood business in the United States, which we have
+to develop together with Guy Carpenter. We have developed solution schemes for the
+flood business in UK. We have also developed business solutions for the terrorism pool in
+UK and we think there are further opportunities in terms of completely new products like
+cyber. Some further opportunities also in P&C might come from Solvency II, that is still in
+early stage. Solvency II was just introduced now. But we see potential increase in demand
+here for capital management solutions in the coming year or few years and by the way,
+what we have done is here, we have bundled all our internal expertise within the Munich
+Re and in a new unit called Capital Partners and this new unit bundles the expertise for
+capital management solutions via reinsurance either on a prospective basis or by writing
+complete back books or by offering capital management solutions cat bond stuff to our
+clients. So that is a new unit because we see higher demand for that. This second slide
+gives you a few indications where we see growth potential in the emerging markets.
+
+Page 34 of 55
+
+
+
+Company N ame: M uenchener Rueckversicherungs-Gesellschaft AG in M uenchen
+Company Ticker: M UV2 GR Equity
+Date: 2016-03-16
+
+Bloomberg Transcript
+
+FINAL
+
+Emerging markets is of course a bit easier because there's a lot of organic growth in the
+markets and already when we only write stable shares in our existing client relationships,
+we can grow with the markets. So it's a bit easier. But even in the emerging markets, we
+have similar opportunities and here particularly is the low insurance penetration in
+countries like the Philippines or like China would mean opportunities for us in the future.
+There is one short-term downside for us for the market and for Munich Re and that is the
+introduction of the new regulation in China, C-ROSS and this new regulation surprisingly to
+us has not led to a restructuring of reinsurance treaties and structures within our current
+core relationships in China. Against our expectation, we could even slightly expand the
+(quarter) shares with Chinese clients. We did expect a restructuring and still expect it for
+the future for a simple reason, according to C-ROSS the underlying capital demand for
+motor business is substantially reduced now and that means that the demand to reinsure
+motor business on a proportionate basis with an external partner like us is not there to
+the same extent. So there might be some pressure coming from C-ROSS. But at least in
+the last renewal, that was not the case yet.
+Here's now the risk solutions chart, which we showed you already last year. On the left
+side to stay as a premium development EUR5 billion now I mentioned it. In the middle
+part, you see the development on the combined ratio. We think that the performance
+around the 90% level of combined ratio is a level, which is sustainable for us. So maybe
+the (83%, 87%) were a bit too good in the past although some random effects. But the
+90% and that is not different what we said last year is a level which we can expect also in
+the future. If you translate that, that will probably mean EUR0.5 billion underwriting result
+coming from risk solutions business why is the relative share of underwriting result? Why is
+that reduced because of the random fluctuation in our underlying traditional book where
+we had this absence of cat losses. So that was a short-term effect only. Among our
+companies within Risk Solutions Hartford Steam Boiler in terms of profitability, is by far our
+flagship.
+Where do we see the growth initiatives and resolutions and I mentioned it already. It's a
+strategic importance and I gave you here three examples of completely different nature
+Hartford Steam Boiler and specialty markets are our basically flagships to develop new
+products in the markets and both these entities have in the meantime developed a
+business model where they offer the direct product and services to the market directly
+with insurance. But more and more of the business is written on a white-label basis that
+means they are also further channels available for them where they sell their products
+together and behind traditional insurance companies who don't have ability the resources
+or the resources to develop these kinds of products and services by themselves.
+Corporate insurance partner in the traditional business is cycle management, what we do
+here. But although corporate insurance partner uses direct their access to the client to
+offer new products to the markets for instance cyber warranty products for some of the IT
+companies. Here only a short summary. What we did the last renewal on the retrocession
+side. On right part of the slide, you see how much capacity we bought via various
+instruments in our key scenarios, in our top scenarios and over time, you see that we
+basically increased the capacity which we bought from the markets in Australia cyclone
+and some of the US windstorm scenarios.
+Page 35 of 55
+
+
+
+FINAL
+
+Company N ame: M uenchener Rueckversicherungs-Gesellschaft AG in M uenchen
+Company Ticker: M UV2 GR Equity
+Date: 2016-03-16
+
+Why Australia because after 2010 and 2011 you remember many Australian companies
+suffered large losses and so did a reinsurance at that time. And we expanded into that
+market. We wrote much more business in that market after the prices were significantly
+increased and now in line with our increased exposure, we responded on the retro side
+and protected our portfolio in a better way than before. On the left side and that is
+maybe the more important part, you see a summary of our activities with the alternative
+capital providers, pension and hedge funds and it should be mentioned here that the
+(sidecar Eden Re II) was the largest sidecar, which was placed in the last month from the
+traditional reinsurance bias and we consider this left part as a part where we want to
+develop partnerships with a few players. For a simple reason, we cannot completely
+exclude that some of the capital providers will stay in the market even after losses and
+that some of the capital providers have the ability to provide lower capital intensity that
+means provide a lower need for the same amount of risk to allocate capital and if that
+lowers our own capital cost. So this would give us a sort of strategic alternative in the
+future to compete against the market and with the market.
+
+Bloomberg Transcript
+
+Therefore, left part is of strategic importance here. Now, I come to the best part of our
+P&C and that is the mid and long-term future and the part which I would like to explain
+and to highlight is the part around innovation and Nikolaus you mentioned it already in
+your introduction. This part which really means fun and a lot of future opportunities,
+particularly for a company like Munich Re. And innovation initiative is the initiative for all the
+initiatives in that part are key for the Board of Management and particularly for me.
+And I've given you here four areas as an example in which direction we want to grow here
+and what we have under development. The upper left part is a more, let's say, increment,
+I would call it incremental innovation. Incremental means that is not far away from our
+current business and you see here for instance what I've mentioned already capital
+optimization. There is one part. Second, we also develop traditional solutions, new
+solutions, new schemes with public entities, be it pool solutions, be it climate insurance in
+the emerging markets et cetera. In the lower left part, if you find our product, our
+insurance product development. Few examples, cyber solutions for companies in the
+United States or in Europe, non-damage business interruption, business interruption
+without underlying property, see more and more demand in the markets or we give
+business support insurance protection for startup companies. All these new products,
+which we have here in this pocket contributed in the meantime. And that includes ERGO
+and we've close cooperation here with our risk solutions entity and with ERGO in the
+order of EUR500 million in the meantime. So begins to develop a certain significance
+already by very good combined ratios.
+Then on the right side, if you take these two parts together new risk services and new
+business models. What is behind that. I'm absolutely a believer that the insurance model
+and the reinsurance model of the future will not just consist of a financial product. As we
+have seen it, let's say, 100, 150 years ago. Why? The reason is simple, more and more
+value creation of our clients happens on sort of intangible basis. That means not the
+industrial production of some past century dominates the future, no, it's the digitalization,
+the IT companies, Internet based models, et cetera.
+
+Page 36 of 55
+
+
+
+Bloomberg Transcript
+
+FINAL
+
+Company N ame: M uenchener Rueckversicherungs-Gesellschaft AG in M uenchen
+Company Ticker: M UV2 GR Equity
+Date: 2016-03-16
+
+And therefore we have to respond to the service and products and more and more of
+our future business potential might come and will come from prevention and risk
+management services and that is not just my opinion and I'm for the (inaudible) is German
+Academy of Sciences of Technology and that is a body or an organization consisting of
+private companies and universities and they are an advisory organization for the German
+for the federal government, Germany of future developments. And therefore a very clear
+view as they say what happens in digitalization gives the customer. But even more us
+opportunities to provide completely new risk management and prevention services.
+And I'll give you an example what I mean. We have an initiative underway and built
+resources in the direction Internet of Things. Internet of Things means the world is
+connected with chips communicating with each other and already today when you look
+into big companies like Zeeman's, Daimler Benz, BMW's, General Electric and others, the
+chips today in the production process deliver and provide everyday terabytes of data for
+the machine steering. Terabytes of data and already today when you have modern
+analytical methods available, you can monitor these terabytes of data every day and look
+at data patterns and when you see an unusual and abnormal data pattern, you can make
+a probabilistic calculation for a certain machine, that this machine might fail, let's say within
+the next two weeks. Everything is fine, it doesn't failed yet. But from unusual data pattern
+from this chips in these machines, you can make probabilistic assumptions that this
+machine will fail and then before it comes to a machinery breakdown to business
+interruption, then you can replace the machine or can repair it. So these kinds of services
+are under development and we are in close cooperation with the manufacturers to
+provide these services.
+To be able to deal with that, it needs resources and we have also bought analytic
+software thus is available in our organization in all the business division and in the central
+unit in the Munich Re. In the next part an update on cyber where do we stand here? Our
+market view in the upper right part of the slide is unchanged. We think there is currently a
+place insurance premium volume around this $3 billion and this probability will grow by
+2020 to $6 billion to $8 million roughly. Most of the demand now comes from the US
+market. But it begins to develop in Europe and that is supported by two factors. Most
+companies realize there's a high dependency on data and availability of internet and et
+cetera and they have to protect the business model. But oozes in governments
+particularly in Europe, put more pressure on all private companies to protect their data
+and their IT infrastructure. And there are even penalties in the future if this protection is
+considered to be insufficient.
+So therefore, there is demand. The question is now, how do we do it and how we are
+positioned? Our market premium today is ($190 million). That means, we have a pretty
+significant share of the currently $3 billion market premium, which is available today and a
+significant part of our ($190 million) comes from risk solutions unit that means from direct
+interaction with the insureds. Why do we think we can successfully manage that business
+and don't misunderstand, there will be losses at one point in time. That is not risk fee that
+is for sure. But we have two developments underway, one is, our biggest concern is
+accumulation management and that is of highest importance in that business. So not a
+single risk lost concerns us or me when a single let's say manufacturer in London or in
+Paris or somewhere is affected and has a certain problem with IT or with data, nobody can
+
+Page 37 of 55
+
+
+
+Company N ame: M uenchener Rueckversicherungs-Gesellschaft AG in M uenchen
+Company Ticker: M UV2 GR Equity
+Date: 2016-03-16
+
+FINAL
+
+handle that. So problem is accumulation. If a super virus effects half of Europe or half of
+the United States or so, what does it mean then for us.
+And the second part is, of course, the change in technology. So for these two let's say
+concerning factors we try to find pretty good solutions. One is we have for the major
+accumulations tough limit management in place. So accumulation management is a key
+for us when we write a business and for the second part, a disruptive or quick changes in
+the underlying technology, new version of Windows 10 for instance or new Outlook
+version or whatever. Here we have close cooperations with IT companies in United States
+and other parts of the world in Silicon Valley to be permanently aware what is happening
+and not just look at historic data when we write new business, because that is a big
+difference to the traditional reinsurance business here.
+
+Bloomberg Transcript
+
+And that is my last slide now. That is how we try to build and have already built our internal
+infrastructure to support innovation and what we have done is we say innovation is not just
+an issue for central unit within the Munich RE group. So it affects all people, all colleagues
+in our company, including us here and we want to encourage all people to come up with
+ideas, with business models. And therefore we have founded the two parts. We have first
+founded a scouting procedure or scheme. Scouting means we have our colleagues in
+Silicon Valley. We have some in London, we have some in Israel to really build direct
+relationships with IT companies in the world and to learn from them what kind of
+technology data management analytic procedures today are available and can be
+transferred into our business.
+Second, we built innovation labs. Innovation labs today in New York, Munich and Beijing.
+These innovation labs are so to speak a supported room for our colleagues or for
+colleagues together with our clients when they have new ideas to build prototypes, to
+build new solutions and to have free time not spare time but is time available. So to
+speak, outside their original responsibilities and to develop it to real business and if it's
+successful, we allow them to build their own new departments in the Munich RE and to
+develop that business.
+And the last part is data analytics and uniqueness. We have invested into infrastructure
+that means analytical systems and we have developed into storage capabilities to build
+sort of data like in the future and have built a very good unit of experts, which we think is
+somewhat state-of-the-art. We think these capabilities give us a potential to differentiate
+in the future and because it needs a lot of know-how and also some sort of investment
+here, we think here companies like Munich RE can differentiate a lot from the small peers,
+particularly in the future.
+Here that is a part where I would like to finish and now Joachim, I hand over to you. Thank
+you.
+
+A - Joachim Wenning
+
+{BIO 16273429 <GO>}
+
+So thank you very much, Torsten. Colleagues, ladies and gentlemen. Good afternoon to
+those who I couldn't welcome personally already and I'm happy to report on the 2015
+performance of the Life Re business, looking back and giving you then an outlook going
+Page 38 of 55
+
+
+
+Company N ame: M uenchener Rueckversicherungs-Gesellschaft AG in M uenchen
+Company Ticker: M UV2 GR Equity
+Date: 2016-03-16
+
+forward. I thought perhaps it's helpful for you if I just with no slides on the screen, just in a
+nutshell, share with you the key takeaway.
+
+FINAL
+
+The key takeaway is there is one social effect in 2015 with regard to the Life Re business
+and this is the technical IFRS result, which is no concern to us. I'm going to explain that
+later and there is a very strong economic performance and there is many other positive
+things to tell along the slides to follow.
+So as I've already started with mentioning IFRS, perhaps you flip to slide 78, which shows
+the IFRS world. What you see there is topline wise, you see a relatively flattish
+development as we anticipated I think last year. Actually, what you see is 5% growth over
+2014. But frankly, this is currency related. The technical result IFRS which I just mentioned,
+yes, it has increased by more than EUR50 million. But it's below the around EUR400
+million ambition as we have explained it and repeatedly communicated to you in the past
+years.
+
+Bloomberg Transcript
+
+So let me stay here for a second, why isn't this a concern to us? Why is this only slightly
+bothering? The reason why is, as you can imagine, in a large portfolio, there is always a
+little bit ups and downs and all these smaller ups and downs, they balance out very well in
+2015. That's a good thing.
+However, what we couldn't balance out were two large single claims in the Life business
+that add up together to more than EUR70 million and this is more than EUR50 million
+above what we would expect in normal years. So that explains the whole difference. I want
+to also highlight, you see that on this slide, I want to also highlight the fee income or the
+non-technical result, the EUR70 million reached in 2015, you have to add them actually to
+the technical results to see the full contribution from Life reinsurance business and then it
+looks pretty nice. However, at this point, let me set expectations correctly going forward.
+The EUR70 million is a high number. You should not expect that in every year to come. I
+personally would rather estimate or assess something in the range EUR30 million to
+EUR40 million being a meaningful estimate.
+Then I go one slide back, 77, which shows the economic growth and as Jorg explained
+earlier, this is the new solvency II metrics, which then replaces the MCEV metric, which we
+could discontinue in life. I want to show you, I want to comment on the two key drivers for
+this very high earnings page and this is very high new business value that we created in
+2015. It's like one-third higher than what we would have committed to you of what we
+have planned internally one-third. We are very proud of that, that's a very good thing. But
+the EUR0.9 billion, please read that carefully, it's not comparable with the VNBs in the
+MCEV. This one is before tax where the MCEV was after tax and there is some other
+technical differences between the numbers.
+So the guidance for you is one third higher or in the old world, it would have been
+EUR600 million versus EUR450 million ambition plus another good thing on that slide and
+there is nothing bad on that slide beyond that is that the variances in 2015 were positive,
+quite positive by EUR265 million, which is a good think which is evidence that the in-force
+portfolio developed as expected and better. And this is perhaps the right point in time to
+
+Page 39 of 55
+
+
+
+Company N ame: M uenchener Rueckversicherungs-Gesellschaft AG in M uenchen
+Company Ticker: M UV2 GR Equity
+Date: 2016-03-16
+
+FINAL
+
+confirm that the previous US old age business issues that have meant some reserve
+strengthenings or hits. But also the Australian DI business, we consider them internally as
+closed, we consider them as fixed in the sense that we would rather not expect further
+reserves necessary reserve strengthening going forward.
+On slide 79, I'd like to quickly walk you around the globe a little bit to highlight major
+effects in the regions. I mentioned Australia we consider fix, I mentioned the US business,
+what we should mention is that the new business, new business, not the back book, the
+new business in the US is quite robust and solid. That's a good thing.
+The UK market, that is continuous doing well actually and back book is a solid book,
+running off profitably and there are some meaningful too good opportunities. But mainly
+in the financing areas and then longevity, less so in protection with regard to our risk
+appetite at least. Continental Europe is suffering from the crisis, is struggling to grow on
+the primary market and so on the reinsurance side. Margins are still interesting. So I would
+say relatively small but solid.
+
+Bloomberg Transcript
+
+Canada continues to be the largest value driver from a very healthy back book. And in
+terms also of new business, Canada again in 2015 is among the very large contributors.
+However, please note, Canada in terms of rate competition in the individual life area has
+seen very fierce competition in 2015, which made us lose some shares and certainly some
+margins here and there. So it's becoming clearly more difficult in individual life in the UK.
+Asia, I'm going to command later in more detail.
+If you look on slide 81, then you see the risk return profile of our life re book globally. And
+if you remember, last year's presentation, then we have to just send it in the middle of
+the mortality business, assuming this is the core traditional business of a life reinsurance
+company, this is the sort of business that every reinsurer seeks to having or getting a little
+bit more. Then, we compare the other pieces to that mortality business.
+What you see is that the financially motivated reinsurance business. So mainly the
+financings and the capital relief transactions, they continue to be as the financial solutions,
+which is also includes -- they continue to be in the right half of this matrix, meaning
+showing above average returns. And this is also our growth areas. You see longevity, the
+other color point to the upper left side of this matrix, it's higher risk. This is not new and
+this is exactly the reason why we have relatively limited risk appetite on this. I'll come to
+this later with some more detail.
+So on the next four slides, one slide each, I'd like to add some detail to our four strategic
+initiatives from the last year's, which actually haven't changed. And they need not change
+because we have evidence enough that they are just the right initiatives. So we start with
+the financially motivated reinsurance business. And if you look at the technical results in
+the middle, then you see that they have been increasing and again in 2015, actually, have
+increased to EUR136 million and this is the part technical result.
+And fee income, you see the value creation is a little bit more lumpy, because this is a
+more difficult to plan business by nature. But value in 2015 was very high. Please note, this
+Page 40 of 55
+
+
+
+Company N ame: M uenchener Rueckversicherungs-Gesellschaft AG in M uenchen
+Company Ticker: M UV2 GR Equity
+Date: 2016-03-16
+
+FINAL
+
+is before tax. So the 2015 number is not comparable with the previous years. But clearly is
+an exceptionally positive year for us in Asia.
+The Asian region is, with regard to topline, rather flattish. As you can see, there is some
+growth. Why isn't the topline growing faster? There is one reason. And that is, in the
+previous years, there were some volume intense or premium intense transaction which
+terminated. And then, we could compensate them by more recurrent premium business.
+So topline is relatively flattish.
+Looking to the technical results, 2015 exceeds the previous year's by an amount like
+EUR25 million to EUR30 million and is now EUR86 million. Compare it to the global life
+number, it's already one quarter of the global life business and the VNB was
+extraordinarily high in 2015 as you can see.
+
+Bloomberg Transcript
+
+Longevity, I've mentioned that our risk appetite hasn't changed for the reasons that we
+have explained again and again. So we continue seeking to write say one transaction of
+the size of say one billion underlying reserves preps. If it's less, than we can write two
+deals. But we don't want to grow it and we have achieved another transaction in 2015. We
+continue being very selective. Most of the opportunities we reject, one we've written in
+2015 and we're very happy with it.
+Financial solutions or asset protection, what I mean by this is, this is not the traditional Fin
+RE business. This one also embraces all the risks on the asset side of our clients. So all the
+market risks. So fully comprehensive solution that we offer. We have started investing into
+this value proposition some nine or 10 years back and if you look into the numbers here,
+then the contribution, the margin contribution of this business is showing positive numbers
+since 2011. That's a great thing.
+You might assume now, how in 2015 we see a dip in this. At first, you can argue. So it's not
+exactly right. The reason is that in previous years for capital market developments there
+were some early knockout effects in the underlying performance. It's very technical, which
+meant in essence that we could release the embedded values of the written portfolios
+earlier than anticipated. So a good thing actually. That's why previous years were relatively
+high. Anyway, every year since 2011 are producing positive contribution margins.
+Slide 86 tries to show where we believe that the business is, mostly regionally, where
+they're going to grow and which return they might probably offer to us and if you look at
+these gray bubbles to the left of this picture, then you may take a critical view and argue
+well, look, these bubbles are pretty much to the left. They're not really growing or
+growing just slightly. The returns look okay-ish and frankly, I wouldn't phrase it like this. But I
+would say, it's growing in some parts of the world; in others, it's shrinking. Overall, it's
+pretty flattish. But the margins are pretty solid, if you manage the risk well, are pretty
+solid. The growing parts are to right, these are the blue-colored bubbles and we feel
+confirmed by these bubbles that we're just focusing on the right strategic initiatives. They
+make us grow and they contribute attractive margins to our book.
+
+Page 41 of 55
+
+
+
+Company N ame: M uenchener Rueckversicherungs-Gesellschaft AG in M uenchen
+Company Ticker: M UV2 GR Equity
+Date: 2016-03-16
+
+FINAL
+
+Nikolaus has used these six categories to structure our innovation activities and along
+these six categories or clusters, I have added not all. But just illustratively some of the
+innovation investments or innovation focus points of the life reinsurance business. When I
+say some, not all, there is two reasons for this. One is, you don't want to see the full list it
+will take as long as too much detail. There is another reason, we wouldn't share
+everything with you at this point. There might be something that we just don't want to
+share in public because the competitors might be interested.
+So here you see the uncritical stuff in this event and frankly, there is nothing I'd like to
+focus on most pleased if you're interested in one or the other, raise a question during the
+Q&A. But what I'd like to say is to the upper left of the slides, when it comes to the new
+client demands, I think Torsten and earlier, also Nikolaus, they mentioned the capital
+partners business on the non-life side. This is the life part where we say financially
+motivated business solvency II solutions or asset protection, this is something we have
+been investing on already, that's not happening since six months only. But is already
+paying off. So there are business plans behind. It's not just a startup. It's not an early (in a
+lab) idea.
+
+Bloomberg Transcript
+
+The other things are, if you go through towards processes to the right or towards risk
+services, then this is also something that is in production, automated underwriting services
+that we deliver, which our support function for generating very traditional business. So by
+offering those to our clients, they give us a share in the traditional books. This is in
+production, we further elaborate this and extend it.
+To the bottom of this page, you see, I would say newer initiatives, more recent things,
+more experimental stuff for us. So for example, we have more and more co-creation
+projects with clients where we go through customer experience, customer journey,
+workshops or inner lab experiments.
+In terms of new insurance products, when it comes to diabetes which often is excluded,
+we try to find ways to make this included into coverages and when it comes to new
+business models, we are working on various white labeling projects where clients would
+primarily bring the strong brand and consumer access to the table and we bring partly or
+fully the risk management and the risk carrier capabilities to the table. If you're interested
+in more detail, I'm happy to add more to this during the Q&A.
+The outlook -- the financial outlook. So with regard to the IFRS technical results, you do
+recall that we said around EUR400 million should be achievable for us. We continue
+believing this, around EUR400 million should be achievable for us. But believe it or not, it
+was just in the first half of this analyst conference, when I got an update on claims
+experience and we've got hidden by one more single high claim. So to be completely -and I don't even know whether or how much is (retrospective), let's just assume also in
+2016, there will be two larger claims that hit us.
+What is the exact size of that, it could be around EUR60 million. So don't take it exactly,
+it's not EUR20 million, it's not EUR80 million, it's like EUR60 million. This doesn't mean -I'm just saying 2016 right. Going forward, I would still say 2017, 2018, there is no reason not
+
+Page 42 of 55
+
+
+
+Company N ame: M uenchener Rueckversicherungs-Gesellschaft AG in M uenchen
+Company Ticker: M UV2 GR Equity
+Date: 2016-03-16
+
+FINAL
+
+to believe in around EUR400 million run rate. But it makes it of course more difficult to
+achieve than it was January 1. So just for the sake of transparency, I'm adding this brand
+new and fresh news to you.
+In terms of VNB, the EUR450 million value-add ambition that you know from previous
+years, we would continue to commit too. In terms of solvency II, at this point in time, it
+doesn't yet make sense to translate this into new solvency II ambition because there are
+so many technical effects of reconciliation from the old MCEV into the new solvency II that
+we wouldn't really feel comfortable. But just for your comfort, had we continued MCEV,
+we would have reconfirmed the VNB ambition. So I hope I've done it in time. Thank you.
+
+A - Christian Becker-Hussong
+
+{BIO 19080254 <GO>}
+
+Thanks very much gentleman. Now for the second round of Q&A. Who is the first? Andrew
+please. Andrew Ritchie.
+
+Q - Andrew Ritchie
+
+{BIO 18731996 <GO>}
+
+Bloomberg Transcript
+
+It's Andrew Ritchie from Autonomous. First question for Torsten on special risks. Looking
+at the accounts, I see that Hartford Steam Boiler had a 29% growth in premium, that's in
+euro. So I'm guessing it's 18% in dollars or something like that, that does seem very high.
+Maybe just give us a bit of color as to what was driving that. Is that all the new product
+initiatives or is there something funny about that?
+Also, you said that 90% is the right combined ratio for the whole of the division. Again,
+looking at the accounts and I know it's mashed into various bits of the account, it still
+refers to very benign loss experience in special and financial risks, which is a large part of
+that division and very decent one also. Is 90% not still a bit ambitious? This is not still
+benefiting benign losses?
+Then, my second question on life reinsurance. It was actually just two comments on the
+slides that you may have wanted more color on is slide 79 and slide 81. You talk about
+public drift in Asia. I'm not sure what you mean by that. And also, it might be connected, I
+think it could be connected, growing exposure to morbidity risk and you talk about
+needing to secure alignment of interest, of course, I not sure what you mean and what's
+the risk of that mobility risk expansion?
+
+A - Torsten Jeworrek
+
+{BIO 5724439 <GO>}
+
+Let me start the first one was the HSB question. Right, majority of the growth comes from
+foreign exchange effects, dollar and euro in their portfolio, basically they have two to
+three drivers for their growth and all of them are important. One is their normal machinery
+breakdown business, whereas it can grow to a normal extent I would say, very important
+for them, very important for them is the white-label business, that is significant. Again
+here, they bring their normal machinery breakdown service and product expertise behind
+other clients to the insurance and that is not new. That is just -- they expand their power
+via different distribution channels into the market.
+
+Page 43 of 55
+
+
+
+Company N ame: M uenchener Rueckversicherungs-Gesellschaft AG in M uenchen
+Company Ticker: M UV2 GR Equity
+Date: 2016-03-16
+
+And the third part, which is among (the smallest) new product. So all the three are
+important. What is, let's say, not so successful yet. But we try is to expand that business
+model into foreign markets. That is an initiative, China is an option for us. We have
+expertise also in China. But it's nothing what you see in figures already.
+
+FINAL
+
+Q - Andrew Ritchie
+
+{BIO 18731996 <GO>}
+
+So that's all domestic US.
+
+A - Nikolaus von Bomhard
+
+{BIO 3123407 <GO>}
+
+It's domestic US. It's some of business in Canada, some in London and they try to go into
+other foreign markets. But basically their business is US business.
+
+Q - Andrew Ritchie
+
+{BIO 18731996 <GO>}
+
+On the growth ex-FX is about $0.18, is that right or wrong?
+
+Bloomberg Transcript
+
+A - Nikolaus von Bomhard
+
+{BIO 3123407 <GO>}
+
+It seem a bit higher. What was your second question? (multiple speakers) Yes. The
+business what you see from Hartford Steam Boiler, specialty markets. And American
+Modern, these were the three in the United States. And it's not in terms of cat exposure
+comparable with the traditional reinsurance business. As a policy, accommodation
+potential is really significantly smaller and then second, companies whereas amongst the
+company whereas amongst the suite is bit bigger is a American Modern. And American
+Modern, let's say, on retro or traditional -- it's reinsurance in that respect, not retro. They
+say on program, which we don't show here, say as protected. When you compare that
+there will be of course some of the entities below the '90s, Hartford Steam Boiler will be
+in our expectations of these apart, which delivers below the ($0.90) weighted average.
+
+A - Joachim Wenning
+
+{BIO 16273429 <GO>}
+
+So Andrew, then I take your question with regard to morbidity exposure and to what we
+mean by product drift in Asian et cetera. So the morbidity exposure in our books has in
+the meantime reached like one-third. And two-thirds is mortality and that doesn't change
+from one year to another year really, over five or 10 years, that might change. So it's onethird. But it's an important block. If you're exactly precise, then you could 60 mortality, five
+longevity and then it's like the remaining part morbidity in terms of present value of
+claims. Now that's no news compared to what we reported the previous year's product
+drift, what does that mean. By product drift, we want to highlight one phenomenon, which
+we see in various markets not at the same time. But we see it in Asia now. The Asian
+business in life is mainly financial transactions, a big chunk is financial transactions. Then,
+the next large trunk is critical in this business and that's true across the Asian markets and
+the mortality business is relatively small there.
+And the product of comment is referring to the critical illness business and what we see in
+the rapidly growing primary markets in Asia is that many market players are very
+innovative and creative in designing critical illness product, what I mean by that is, like you
+add another benefit and to this another benefit, you add another one. From one year to
+Page 44 of 55
+
+
+
+Company N ame: M uenchener Rueckversicherungs-Gesellschaft AG in M uenchen
+Company Ticker: M UV2 GR Equity
+Date: 2016-03-16
+
+FINAL
+
+another, you don't really see a massive change, it's just two, three more relatively
+marginal benefit. When you compare them today to what they were five years back, 10
+years back, then you say these are different products. Plus if the products are designed
+such that there is more policyholder behavior risk and if you give us more optionality to
+the consumer, then you also have to assess these behaviors. So they become more
+complex.
+Then, of course, alignment between insured and the primary and the reinsured becomes
+more relevant to be on the safe side of pricing this corrected. So what we want to say is
+Asia in this sense is becoming a more complex and more difficult market. That doesn't
+mean you should stop doing business, it means like you have to absolutely as a reinsurer,
+bring now your global knowledge with the lessons learned from other markets, where
+you've perhaps gone a little bit too far, bring that into the local market, if you like educate
+a little bit. But in the ultimate case, also stay out of it and reject.
+
+A - Christian Becker-Hussong
+
+{BIO 19080254 <GO>}
+
+Thank you. Thomas Seidl. And then Olivia, please. And then, Michael.
+
+Q - Thomas Seidl
+
+{BIO 17755912 <GO>}
+
+Bloomberg Transcript
+
+Thomas Seidl for Bernstein. First question is on FX. I think it's the second year that you
+have a very high contribution from FX. Is it that you take deliberate FX risk or what is
+driving the EUR800 million second year back-to-back? Second question is, on American
+Modern, you recently replaced the CEO, I think you stopped writing certain businesses
+there, more stuff you should worry coming up in the future?
+
+A - Nikolaus von Bomhard
+
+{BIO 3123407 <GO>}
+
+We take limited FX risk. Normally, we orientated our assets to the structure of the
+liabilities. The limited risk comes from over-exposure in the US dollar at the moment and
+limited under exposure short position in British pound. Then, there are artificially
+accounting effects on top of that, which are unavoidable. So situations where we have to
+wear unmatched economic position but IFRS reporting does not reflect it adequately. So
+it's partially the one, partially the other.
+
+Q - Thomas Seidl
+
+{BIO 17755912 <GO>}
+
+So it hasn't really changed? (multiple speakers).
+
+A - Torsten Jeworrek
+
+{BIO 5724439 <GO>}
+
+No really. Bombard?
+
+A - Nikolaus von Bomhard
+
+{BIO 3123407 <GO>}
+
+So the risk capital requirement that I showed that this jump was really model driven. But
+the general positioning has not changed.
+
+A - Joachim Wenning
+
+{BIO 16273429 <GO>}
+Page 45 of 55
+
+
+
+Company N ame: M uenchener Rueckversicherungs-Gesellschaft AG in M uenchen
+Company Ticker: M UV2 GR Equity
+Date: 2016-03-16
+
+American Modern, change of the CEO, no, not at all, has nothing to do with performance
+or so. The change which had to be made after our former CEO left and the company is in
+unchanged, good shape, nothing to be reported.
+
+A - Christian Becker-Hussong
+
+{BIO 19080254 <GO>}
+
+FINAL
+
+Olivia, please?
+
+Q - Olivia Brindle
+
+{BIO 17273762 <GO>}
+
+It's Olivia Brindle from Bank of America. First question on economic profitability and P&C.
+So for each line of business and also overall, given where we are with interest rates,
+there's always some maximum combined ratio that you need to be out in order to make
+economic profit. So I was just wondering if you could maybe give some sense of where
+that maximum is versus what you're delivering and perhaps particularly on the casualty
+side, is that changing much. You've got, in the US interest rates, may be moving favorably
+in Europe, unfavorably, does that offset how are you thinking about that, I think that'll will
+be interesting.
+
+Bloomberg Transcript
+
+And second question on the Life side, you talked about the growth in the Financial
+Solutions business. But then you also talked about the fee income, probably, we shouldn't
+expect that to be 70, that more like 30 to 40, I was wondering if you could sort of expand
+on why that would be? And also the second question on Financial Solutions if I may, at
+least two of your big peers are also growing in that space. Just wondering you're
+competing directly with them on that or there some approach that you're taking that's
+different?
+
+A - Nikolaus von Bomhard
+
+{BIO 3123407 <GO>}
+
+I'll start with the first one which is interest relation to the nature of the business segment.
+First your assumption is right. Of course, the interest rate by segment and currency
+country have a strong impact on our maximum combined ratio which we can afford or
+when we have to decline businesses that is right. And on the other side, there is a second
+part which has a big impact on inflation assumption. Both factors, interest rate and the
+inflation assumptions go one-to-one into our pricing and that is the reason why I do not
+have and we do not have one interest rate or one inflation assumption for all property or
+for all casualty business. But what we do is we look, let's say, almost every month into
+each of the markets by segments at current interest rate and interest rate curve and we
+look by segment at the assumption, our update or assumption on inflation rate. And what
+we then do is our pricing, we first calculate sort of speak for each of the treaties in that
+region, the expected loss and the payout pattern of the loss.
+And when we have this so to speak since it's discounted, then we apply discount factor
+and then inflation factor, these two against the current loss calculation and then we come,
+sort to speak, to a discounted loss amount and that basically plus our own cost plus our
+loading for capital and all the stuff, that gives us a maximum combined ratio for the
+specific treaty. And when you look at rounds of growth now currently in Europe for
+instance, the interest rate which we can use for discount purposes in Europe are close to
+zero now and it's euro currency.
+
+Page 46 of 55
+
+
+
+FINAL
+
+Company N ame: M uenchener Rueckversicherungs-Gesellschaft AG in M uenchen
+Company Ticker: M UV2 GR Equity
+Date: 2016-03-16
+
+On the other hand, when you look at Australia or China, for instance, here we are still -they also came down. But we still have markets here, where in casualty motor business in
+China, remember, we have this structured treaties, where combined ratio of 98% or 99%
+can still be sufficient. Why, because we still have significantly higher interest rate, which
+helps to further deliver decent profitability. So that's how we proceed here. So in other
+words, when we show profitability and in this chart, in this illustrations, that is part of the
+calculation. But as far as casualty is concerned, to be quite honest, I don't know whether
+you agree. But it cannot become much worse I would say, that's for sure.
+
+A - Torsten Jeworrek
+
+{BIO 5724439 <GO>}
+
+Bloomberg Transcript
+
+One thing that I would like to add, which is actually rather referring to primary dental
+reinsurance, the key question is of course whether we do invest also then in the very
+same currency. And interest rates are higher, take India as an example or Turkey. These
+countries were I doubt that we do invest, if we do reinsurance in the Turkish lira, in primary
+we do. And as long as we then match the duration of whatever business we take on,
+indeed you may end up with a combined ratio north of 100% and still make decent profit.
+In reinsurance, it depends on the sheer size of the very business and where do we invest
+and we do not invest in all currencies, because just we don't have enough of the business
+and then it's a proxy and accordingly also when we price we then use the proxy for the
+pricing and that may mean that in some markets, you're not really competitive because
+you'd use a hard currency with a lower interest and you compete with someone who uses
+the local interest rate. But this only is true in markets where you have high interest rates
+and where the proxy has a very low and you do not invest in the very market. But we do
+not run and you probably know it anyway, we do not run the business with combined
+ratios in the first place, we stop and the processes sounds complicated, it is a little
+complicated and we saw the other end. And in the end, combined ratio falls out of it.
+
+A - Joachim Wenning
+
+{BIO 16273429 <GO>}
+
+Then I take the life reinsurance related two questions. One was, why is the fee income
+probably shrinking 2016 onwards, the reason is that we now that one large transaction
+that produced fee income of the order of the difference has ended in 2015. And we do
+not plan or cannot plan that we are going to replace that somewhere else, that's the one
+reason.
+With regard to the financial transaction business or asset protection business, you asked
+how are we different than from our competitors. Where we didn't have or do have
+competitive edge or USB or we did have a very clear is with very huge transactions in the
+crisis, where we did transactions in 2009, 2010 and 2011 that others didn't. The second
+thing is with regard to the asset protection value proposition, where we say we are
+offering comprehensive coverages, including all of the assets risks and the liability risk of
+(inaudible) company, we have a uniqueness in the reinsurance arena, banks have they
+short of offerings. But we have that one comprehensive thing.
+And they're in the -- pretty much in the traditional financing arena, we are benefiting from
+a -- I would call it rather a delivery mechanism that the clients do appreciate when they tell
+
+Page 47 of 55
+
+
+
+Company N ame: M uenchener Rueckversicherungs-Gesellschaft AG in M uenchen
+Company Ticker: M UV2 GR Equity
+Date: 2016-03-16
+
+as we know you are going to execute, that's why we are tuning to and these are the three
+things that I'd like to highlight and the rest is then commoditized, if you like.
+
+A - Christian Becker-Hussong
+
+{BIO 19080254 <GO>}
+
+FINAL
+
+Okay. Michael, Please.
+
+Q - Michael Huttner
+
+{BIO 1556863 <GO>}
+
+On the -- so you said 500; 90% on EUR500 billion is the underwritten profits. So it's
+EUR500 million on your primary in reinsurance business. You have a 98% target on EUR18
+billion. So If I do the math, you come out with a 102% combined ratio on the rest, is that
+about right or are you planning for -- to me it doesn't sound right, it sounds as if you are
+attending to lose money in your core business and I don't get it. So I just wondered if
+that's right. And maybe I am making mistake here. Then on the capital allocation,
+Bombard, since the beginning you said you felt too much money was in market. So add
+market and credit together, that's about EUR13 billion, EUR25 billion is the undiversified; it
+is on slide 35; so it's over half. Now, what's the figure going to be next year is really my
+question. How much can you cut it? And if you do all this putting money in pallets, how
+much can you put in pallets to reduce that number and who is going to insure the fire risk
+on that?
+
+Bloomberg Transcript
+
+A - Torsten Jeworrek
+
+{BIO 5724439 <GO>}
+
+Regarding your calculation, I have not exactly made the calculation as you did it now. But I
+think you could be right, there could be a relationship between the two. I have not made
+the deal, you've done it, then I think it's fine. That's roughly true and considering that what
+we discussed before, that we have in markets like China, Australia and other markets,
+particularly for the long-term business, some interest rate support and the duration for
+the reinsurance business is by far longer since a relative contribution of duration of risk
+solution part, it is still at a profitable level. But you're right, your calculation is not wrong.
+
+A - Nikolaus von Bomhard
+
+{BIO 3123407 <GO>}
+
+As regards to the second question, of course, this is not meant to be delayed forward to
+avoid the exposure to negative interest rates. It is rather a test to see what can be done
+and maybe different means and it is also a signal to the public domain. And you may have,
+not sure whether you saw that in the UK, we had the same discussion just a week ago
+amongst the savings and loans associations in Germany and it is cooking there.
+And of course, we also -- it's very interesting actually from the insurance side. We wonder
+whether home owners policy or householders' policy in the first place are more exposed
+now to burglary, because we have to assume that people start to hold real assets from
+jewelry to money to gold and it would of course quite, in theory, dramatically change the
+exposure of these policies.
+It could also mean that we have to change the policies and say we insure more, because
+now you have sub-limits on the liquid assets or real assets of that nature art and so forth
+as well. So there's more to it. And this is in the first place a signal because the amount of
+cash that we hold of course will most likely never be stored anywhere. So we have to think
+Page 48 of 55
+
+
+
+Company N ame: M uenchener Rueckversicherungs-Gesellschaft AG in M uenchen
+Company Ticker: M UV2 GR Equity
+Date: 2016-03-16
+
+about other means to -- but we both check it. We have not done it. We'll check it. We may
+end up not been able to do it; the question is will central banks be ready to give us the
+money.
+
+A - Christian Becker-Hussong
+
+{BIO 19080254 <GO>}
+
+FINAL
+
+William Hawkins first and James Shuck and then Thomas Fossard, please.
+
+Q - William Hawkins
+
+{BIO 1822411 <GO>}
+
+These are some solvency II questions for Bernhard. So forgive me. Your tiering your
+capital you've got 90% in tier 1, which is good. But can you give us how much of that is
+restricted and how much is unrestricted?
+Secondly, the loss absorbing capacity for deferred tax, that's a massive talking point and
+uncertainty in the Netherlands, it just seems to be a non-issue in Germany. I don't
+understand why. So you could you maybe talk about whether there is any uncertainty in
+your tax assumptions for solvency II?
+Then finally, in words of one syllable, why your UFR sensitivity is negligible when your
+interest rate sensitivity is reasonably high, I would have thought that there would be some
+kind of connection between the two. So why is your UFR sensitivity so low?
+
+Bloomberg Transcript
+
+A - Nikolaus von Bomhard
+
+{BIO 3123407 <GO>}
+
+Okay. So I'll start with the last question. So the UFR sensitivity for our book is relatively low,
+mainly because the ultimate power grade or the extrapolation starts after we assume, or
+solvency II assumes, the euro curve becomes delinquent and that is 20 year plus and the
+bulk of our exposure, especially from life insurance business that is interest rate sensitive
+is then already declined to an amount which is no longer driving so much our interest rate
+sensitivity. And also we, of course, have other lines of business, life reinsurance business,
+which also is in US dollar or in other currency. So that's not so much depending on this
+euro-specific assumption.
+Then loss absorbing capacity of taxes in Germany, that are also discussions on this. But
+there also has been clear guidance by our regulator on how to treat certain elements,
+especially in the primary life business and so that at least is clarity how to do it. I would
+expect that this discussion will go on because there are still some open issues and the
+industry is also in Germany raising the hands and pointing at some issues that were
+definitely there is also room for improvement with respect to the impact on the solvency
+ratios. But currently, we are only applying those things who are absolutely certain and so I
+would not expect that there is some downside potential in on our numbers.
+On the tiering, the differentiation between restricted and unrestricted Tier 1 this is -- what
+are you referring to?
+
+Q - William Hawkins
+
+{BIO 1822411 <GO>}
+
+Page 49 of 55
+
+
+
+Company N ame: M uenchener Rueckversicherungs-Gesellschaft AG in M uenchen
+Company Ticker: M UV2 GR Equity
+Date: 2016-03-16
+
+I guess I'm kind of referring to the similar issue to what you talk about when you can
+differentiate between IFRS and HGB as I understand that your Tier 1 capital can be very,
+very high. But it could be using an awful lot of present value of future profits from a
+German GAAP point of view. So it's actually not distributable Tier 1 capital.
+
+FINAL
+
+A - Bernhard Kauf mann
+
+{BIO 18347993 <GO>}
+
+Okay, you're right. Part of it is also going back to the present value of future profit of
+especially life business. But it's for our book not more than 50% of the Tier 1. So it's not
+the dominating part of it.
+
+Q - William Hawkins
+
+{BIO 1822411 <GO>}
+
+Understood.
+
+A - Jorg Schneider
+And the official number is unrestricted for the whole Tier 1 capital is EUR35 billion and only
+EUR1.5 billion is Tier I restricted. It's in our annual report on page 130.
+
+A - Christian Becker-Hussong
+
+{BIO 19080254 <GO>}
+
+Okay. James?
+
+Bloomberg Transcript
+
+Q - James Shuck
+
+{BIO 3680082 <GO>}
+
+Thanks. James Shuck, UBS. Two questions from me please, again first one Solvency II
+question again. Looking at slide 145 where you said the bridge between IFRS NAV to the
+Solvency II the prelim eligible own funds, I am just interested in the adjustment or the
+comparability of the reserves on Solvency II to IFRS. Obviously one part of that is the risk
+margin and the other part of that is the transfer to best estimate liabilities. Could you
+break that out for me please. That'd be very helpful.
+Then my second question is I don't suppose Mr. Draghi is your favorite person at the
+moment. But I'm just interested at least one thing to think about reinvestment rate of 1.5%
+and say that you wanted to invest in corporate bonds, it's another thing to fund a liquidity
+to actually be able to invest at that level. So could you just kind of comment on whether
+you think you are going to be able to roll your paper over as the year progresses, please?
+
+A - Bernhard Kauf mann
+
+{BIO 18347993 <GO>}
+
+So on page 145 risk margin end of 2015 is about EUR9 billion and also to answer your next
+question roughly one-third of this is primary insurance.
+
+Q - James Shuck
+
+{BIO 3680082 <GO>}
+
+And the best estimate liability bridge?
+
+A - Bernhard Kauf mann
+
+{BIO 18347993 <GO>}
+
+Page 50 of 55
+
+
+
+Company N ame: M uenchener Rueckversicherungs-Gesellschaft AG in M uenchen
+Company Ticker: M UV2 GR Equity
+Date: 2016-03-16
+
+So the best estimate under IFRS at Solvency II, it's identical. So we have no difference
+between IFRS and best estimate -- in the best estimate and Solvency II. So that means it
+would only be a discounting effect that makes a difference. But I'm not sure if we have it.
+
+FINAL
+
+Q - James Shuck
+
+{BIO 3680082 <GO>}
+
+I guess what I am trying to get to is that I mean under IFRS there is an element of
+prudence on setting the reserves, under Solvency II it's sort of best estimate. So I am
+(thinking of ) what the difference is?
+
+A - Bernhard Kauf mann
+
+{BIO 18347993 <GO>}
+
+But for us it's the same -- so it's the same interpretation.
+
+A - Torsten Jeworrek
+
+{BIO 5724439 <GO>}
+
+Bloomberg Transcript
+
+The other question, Jorg showed you on one slide very (clear) picture of reinvestment
+rates according to the different asset classes including corporate bonds, it's slide 25. And
+of course we have, as you said, some 10% corporate bonds in our overall book. I can't tell
+you because this is of course a maturity picture and the 3% is certainly too high and the
+gentleman that you mentioned is not helpful even now, because one part of the package
+is not that it will buy the corporate bonds. So that will probably further drive down the
+return and we feel that the risk reward on many of those assets isn't right anyway
+anymore. We have seen some spread widening not so long ago. We see them now
+narrowing again. I think it will be further pushed to narrowing.
+On the other hand, we have the problem with a bit our spread for the lack of liquidity in
+the market. So it's very difficult to make a prediction where we go. One thing is for sure,
+of course, corporate bonds will stay a relevant S class for us. It will support our
+reinvestment rate that Jorg said most recently was closer to 1.7%. Given we have
+corporate bonds it will be even below. So we sort of mix them in. But we -- I'm not -probably you are much closer to the market than I am in that regard. But we will certainly
+continue to try to invest in corporate bonds and we have widened the universe in both -in two senses on the industries we invest in and regions too, more so even on the regions
+in the recent past to make sure that we grab and take in the number, whatever we can.
+But it's really, really difficult.
+
+A - Christian Becker-Hussong
+
+{BIO 19080254 <GO>}
+
+Okay. Thomas and then the last question for today goes to Andrew.
+
+Q - Thomas Fossard
+
+{BIO 1941215 <GO>}
+
+Thomas Fossard from HSBC. Two questions related to ERGO. Could you update us on the
+solvency position of ERGO in the current low interest rate environment? And some place
+last year asked about how far the Group was away from injuncting capital into ERGO. I
+have seen that, Nikolaus, last year you indicated that we were four or five years away in an
+environment where interest rate were still at (61.65%). We are now at 15 basis points. So
+are we getting closer to that pressure point? Thank you.
+
+Page 51 of 55
+
+
+
+Company N ame: M uenchener Rueckversicherungs-Gesellschaft AG in M uenchen
+Company Ticker: M UV2 GR Equity
+Date: 2016-03-16
+
+A - Nikolaus von Bomhard
+
+{BIO 3123407 <GO>}
+
+FINAL
+
+Who gives the -- I can give you my flavor and please ask my colleagues to correct me.
+First the ERGO holding, the top company is not the issue. The issue and I wouldn't say
+independent of interest rates. But not in today's world even. And we showed you -- I think
+we did show you the solvency ratio fully, ERGO as a whole -- we did not. But it was high
+enough and it's still high enough. That not the problem. So we were not closely injecting
+money for the holding or for reasons of the holding.
+The question rather is of course the life insurance companies. As per end of last year they
+were absolutely in the green territory, with the drop of the interest rates specifically in
+February. Of course, we are entering closer territories that were more difficult and I think
+Bernhard in the slide remark referred to how -- when you talked about the long-term
+guarantee measures as you may be repeated and specified to the extent you can on one
+to two.
+
+A - Bernhard Kauf mann
+
+{BIO 18347993 <GO>}
+
+Bloomberg Transcript
+
+So we still, of course, have the option two use any kind of Solvency II transitional or longterm guarantee measures. But that is depending on the interest rate environment and
+further development. But in the current environment we are exploiting what is the best
+strategy forward.
+When we met in London last year in November, end of November I already said it's always
+an option to apply for these long-term guarantee measures. We fulfilled the legal
+requirements as at the end of last year for all the companies. But with the interest rates
+close to zero that doesn't hold true. So there are deficiencies here and there but there is
+always the option to go for the ATG measures.
+
+A - Christian Becker-Hussong
+
+{BIO 19080254 <GO>}
+
+Okay, Andrew.
+
+Q - Andrew Ritchie
+
+{BIO 18731996 <GO>}
+
+Two quick questions. First one is actually an observation. On Solvency II, I promise my last
+question is not on Solvency II. But the penultimate question, you are indicating and
+Nikolaus you were saying, you're always slightly worried about the world, you want to
+remain the more conservative end of the world. Bernhard you highlighted the volatility of
+Solvency II. Why don't just expand the range? Why is 175% to 220% the range because in
+reality you want to remain above the 220%. So make it a different range and that 175% to
+220% was based on a different model anyway. So I'm curious if you even consider that I
+think discuss maybe you expand the range 50 points, not 30, a wider range, why is that
+the right number?
+And the last question on innovation, that EUR500 million premium number is that to date
+what you've done or is that what you did in 2015 on the new product areas? And I
+presume you are having very high combined ratios or initial loss picks on that business
+because it is quite unknown, is that fair? I mean, it is a very delayed profitability. And I think
+from memory in Monte Carlo when you launched the innovation sort of strategy you
+Page 52 of 55
+
+
+
+Company N ame: M uenchener Rueckversicherungs-Gesellschaft AG in M uenchen
+Company Ticker: M UV2 GR Equity
+Date: 2016-03-16
+
+talked about EUR2 billion to EUR3 billion of premium in a couple of years. Is there a
+number as to where you think that premium will get to?
+
+Bloomberg Transcript
+
+FINAL
+
+A - Torsten Jeworrek
+
+{BIO 5724439 <GO>}
+
+I do not remember to be very honest. But you are referring to EUR3 billion would be
+challenging, probably not within Nikolaus remaining time in the Munich Re. So we will see.
+So how did you measure the premium. That is not a premium which we generated in
+2015. That is a premium which is not -- let's say, that is a premium which is in force at the
+end of the year. But usually these are 12 months policies. So that figure is not too wrong to
+relate it to each other.
+Loss ratio pick, that is a difficult one and because you cannot write the business in the
+traditional way, that means you look at data and make a loss ratio pick and then make a
+decision I want it or don't want it, why because neither for cyber policies nor for all the
+other policies, business interruption without underlying property damage or reputational
+risk policies, performance guarantee, all the stuff, when you start for the first time you
+don't have data. So you start pretty blind if you want. You don't have data. So how can you
+make a loss pick when you don't have historic data. So what we do is the following. We try
+to look at sort of alternative data. We do not have loss history, we look at alternative data.
+Good example, I don't know whether I've mentioned it already, is when we wrote for the
+first time the performance guarantee policies for photovoltaic plants where we gave the
+guarantee over the 20-year term of (inaudible) below, let's say, 10% after 10 years or 8%
+of after 10 years and 15% after 20 years or whatever. Then we didn't have the data but
+we went here to the founder of our institute that is a very good example. And therefore
+very different reason already before as they made hundreds and thousands of test cases
+about degradation. So of course, it did not give us the loss amount but they told us at
+least there is a probability of a certain panel under certain technology how will it degrade
+it in the future. Then. So to speak we related this probability of single panel of failures of
+single panel to the underlying (inaudible) required premium and of course because of
+uncertainty load et cetera and so more data we build then in the future we came then to
+an own price if you want. And that's how we build it. And therefore it's not really surprising
+that in the first years -- of course we can see surprises. I do not exclude that. But in the
+first years our assumptions are pretty pessimistic, if you want, or conservative, be it on our
+accumulation control side where we first begin to add up limits in a very naive way to
+make sure that we are never on the wrong side and the more data, we have so to speak
+we tuned it we improve it and we finds it. And the same is true for pricing.
+And therefore I cannot exclude that we might experience a large loss but at least on
+almost all products the combined ratio are far below the combined ratio of our risk
+solution business. That means our assumptions that was built in buffers were not too
+wrong.
+The nature of the business is different for the solar panels performance guarantees more
+long term as to sort of tail element if you want so to speak. And as further we go, the
+more we know about experience. But the risk periods goes over 20 years. But more than
+12, 13, 14 years are old ones in meantime. For cyber policies it's usually more cat type
+covers, it's not the tail in nature. You can have liability covers in this segment. But even it's
+liability you need a first incident, or the accident, or take from outside. So to speak. That
+Page 53 of 55
+
+
+
+Company N ame: M uenchener Rueckversicherungs-Gesellschaft AG in M uenchen
+Company Ticker: M UV2 GR Equity
+Date: 2016-03-16
+
+means you know something was happening here and then you can make a calculation
+how much will it cost. So that means the usual tail element like under liability, casualty
+policies that's not the case here. It always need some accident.
+
+FINAL
+
+A - Jorg Schneider
+Then your first question was on the target range for our economic solvency ratio. So we
+are faced also with constraints coming from our local GAAP balance sheet and the highest
+aim we have is to avoid dividend cut. And I may add I'm also very happy that when we can
+continue the share buybacks with this pace which is close to similar to a dividend payment.
+And therefore we have to have that situation in mind and we want to preserve any tools
+of managing the local GAAP situation for a situation where we come under pressure, let's
+say, from capital market movements, from further impairments, also impairments on
+subsidiaries or things like that.
+So we want to avoid the situation where we use up our current possibilities to increase
+our distribution to the maximum mount and then later on sit on a huge equalization
+reserve and not being able to pay our dividend. That's what we want to avoid. And why
+do we not adjust our economic solvency ratio to a higher level, having in mind this
+constraint, this is because from a pure economic point of view we do not need a higher
+ratio than somewhere between 175% and 220%. And please rest assured that keeps us
+under very healthy pressure to ensure that there is enough distribution capability also
+under local GAAP requirements.
+
+Bloomberg Transcript
+
+With that I hand over to Nikolaus.
+
+A - Nikolaus von Bomhard
+
+{BIO 3123407 <GO>}
+
+We'll soon hand it over to Christian. Just one quick two or three remarks. Today's
+presentation was titled strong track record and new ideas. I think we didn't have so much
+discussion on the question whether that is a strong track record. We were enthused,
+certainly aren't you, by the length of the presentation of Torsten. You could see he
+certainly also is about what we do on the innovation front. We all are. Bernhard has his
+very own perspective on what we do there. He is a little worried rightly so. So is Jorg. But
+we try really to move the industry. But also with the industry ourselves forward here and
+we are leading that, I would dare to say.
+I understood from your that you would be way more interested in our new ideas, how we
+manage capital and get the solvency ratio into different territory. Rest assured what Jorg
+said is certainly holding true. We will do whatever it takes. This is not for me, this remark
+apparently. Then what can be done to free the capital, we would love to put it to work in
+the first place. If we can't do that of course we will have to see what we can do on the
+local balance sheet, on the local GAAP balance sheet.
+Let me finish before Christian probably says pretty much the same. Thank you for your
+personal attendance here during the conference. We know it's quite an effort to come
+from, most of you at least, from London. But also from other places. Germany is a little
+easier. But still we appreciate that and to be here face to face with you and discuss
+
+Page 54 of 55
+
+
+
+Company N ame: M uenchener Rueckversicherungs-Gesellschaft AG in M uenchen
+Company Ticker: M UV2 GR Equity
+Date: 2016-03-16
+
+whatever you have on your mind and to present to you personally and then maybe now or
+later on to speak to you means a lot to us. It's highly valuable and we appreciate it. Thank
+you.
+
+FINAL
+
+A - Christian Becker-Hussong
+
+{BIO 19080254 <GO>}
+
+Thank you. Hardly anything to add. Time to wrap up. Thanks for coming and also thanks to
+you following this conference on the web for spending your afternoon with us. Hope to
+see you here on the floor in the function room and if not then we will certainly have the
+opportunity to meet various times this year during road shows and conferences. Thank
+you very much.
+
+Bloomberg Transcript
+
+This transcript may not be 100 percent accurate and may contain misspellings and other
+inaccuracies. This transcript is provided "as is", without express or implied warranties of
+any kind. Bloomberg retains all rights to this transcript and provides it solely for your
+personal, non-commercial use. Bloomberg, its suppliers and third-party agents shall
+have no liability for errors in this transcript or for lost profits, losses, or direct, indirect,
+incidental, consequential, special or punitive damages in connection with the
+furnishing, performance or use of such transcript. Neither the information nor any
+opinion expressed in this transcript constitutes a solicitation of the purchase or sale of
+securities or commodities. Any opinion expressed in the transcript does not necessarily
+reflect the views of Bloomberg LP. © COPYRIGHT 2022, BLOOMBERG LP. All rights
+reserved. Any reproduction, redistribution or retransmission is expressly prohibited.
+
+Page 55 of 55
+
+

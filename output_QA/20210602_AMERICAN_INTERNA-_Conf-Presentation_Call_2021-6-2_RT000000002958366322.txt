@@ -1,0 +1,950 @@
+Company N ame: American I nternational Group I nc
+Company Ticker: AI G US Equity
+Date: 2021-06-02
+
+Bernstein's 37th Annual Strategic Decisions Conference
+(SDC)
+
+FINAL
+
+Company Participants
+Peter Zaffino, President & Chief Executive Officer
+
+Other Participants
+Erik Bass
+
+Presentation
+Erik Bass
+
+{BIO 19920101 <GO>}
+
+Bloomberg Transcript
+
+Good afternoon, I'm Erik Bass U.S. Life Insurance Analyst for Autonomous Research and
+I'm excited to have AIG joining us at the conference this year. The company has
+undergone an impressive turn around and transformation over the past few years and I'd
+like to welcome Peter Zaffino, who joined AIG in 2017 and became CEO in March of this
+year. Peter will kick off with a few opening comments and then we'll move into Q&A. If
+you'd like to ask a question, please click on the live Q&A feed box in the upper right
+corner of your screen.
+With that, Peter, thank you for joining us, and let me turn it over to you.
+
+Peter Zaffino
+
+{BIO 15942020 <GO>}
+
+Erik, thank you for having me and look forward to being together this afternoon. Good
+afternoon, everyone, and thank you for inviting me to participate in this conference. I
+thought I would provide a few opening remarks and then we can turn to questions.
+I think everyone here knows, I joined AIG in the second half of 2017. Since that time, we've
+been very focused on several key priorities, underwriting excellence, operational
+excellence, investing in world-class talent, fixing the core of AIG, reducing volatility and
+achieving more predictable outcomes across our businesses. Our first quarter of 2021
+financial results, which we issued a few weeks ago, reflect the tremendous progress that
+we've made. As we noted on our earnings call, we had an excellent start to the year and
+have significant momentum across the entire company.
+General insurance delivered outstanding results, especially in our commercial business
+and our international business in particular. We remain on track to deliver a sub-90
+combined ratio, excluding CAT by the end of 2022. Life retirement delivered another solid
+quarter despite a persistent low interest rate environment and our investments unit also
+delivered very good results.
+Page 1 of 15
+
+
+
+FINAL
+
+Company N ame: American I nternational Group I nc
+Company Ticker: AI G US Equity
+Date: 2021-06-02
+
+Looking back over the last few years 2020 in particular was an important inflection point
+for AIG. We managed through COVID exceptionally well with our global colleague
+showing resilience and incredible commitment to each other, our clients, distribution
+partners, and other stakeholders. The general insurance portfolio improved significantly
+and coming into 2021, we pivoted from remediation of growth. We also announced our
+intention to separate life retirement business from AIG and we made significant progress
+on AIG 200, our enterprise-wide transformation program, where we're investing in core
+processes and infrastructure.
+We did this in a remote work environment and we even accelerated some of our AIG 200
+programs. On the capital management side or liquidity capital balance sheet all remained
+very strong expect to complete our previously announced $500 million stock buyback by
+the end of the second quarter. Lastly, we continue to work hard on a minority IPL of life
+retirement, and are making good progress on this important strategic initiative. Overall,
+I'm pleased with where we are as a company and I'm confident about AIG's future.
+So I think with that Erik, I'm going to turn over to you, to questions.
+
+Questions And Answers
+Q - Erik Bass
+
+{BIO 19920101 <GO>}
+
+Bloomberg Transcript
+
+(Question And Answer)
+Perfect, thank you. That's a great overview and maybe we'll start a little bit from the
+beginning and journey that you've been on over the past couple of years, maybe
+stepping back in time a little bit what attracted you to AIG in 2017. If you can talk about
+your observations early on, what did you identify as kind of a biggest issues at AIG that
+needed to be addressed and how did you go about fixing them?
+
+A - Peter Zaffino
+
+{BIO 15942020 <GO>}
+
+Well, I think everyone knows I joined from Marsh McLennan where I had a terrific job with
+the terrific company been there for 16 years. I mean, I had been approached over time to
+pursue other public companies as a CEO, none of them were particularly appealing just
+based on what was being asked and so when I looked at the AIG opportunity one is it's an
+iconic brand. I think it had a leadership position of one point the marketplace and I was
+excited for a new challenge. Little bit I know how big the challenge was, I mean, I had a
+pretty good understanding but obviously not fully aware.
+I think people don't remember, I didn't come in to run general insurance, I came in to be
+the global Chief Operating Officer run the global field operations for all of AIG, but within
+60 days of doing extensive business reviews getting a clear picture of what was going on
+with a company I realize, we had some real foundational problems. So that's when I
+shifted into running our general insurance business in order to reposition in the
+marketplace, but I thought that AIG would be a terrific opportunity to apply sort of a skills I
+had in terms of turnarounds and repositioning it as an industry leader.
+
+Page 2 of 15
+
+
+
+Company N ame: American I nternational Group I nc
+Company Ticker: AI G US Equity
+Date: 2021-06-02
+
+Q - Erik Bass
+
+{BIO 19920101 <GO>}
+
+Bloomberg Transcript
+
+FINAL
+
+Perfect. And maybe digging into that a little bit more after you had spent some time at
+the company and probably when you transitioned to that general insurance role what
+were the biggest surprises you uncovered and where -- places you have to pivot your
+strategy or kind of change your approach?
+
+A - Peter Zaffino
+
+{BIO 15942020 <GO>}
+
+Well, as the again the CEO of Marsh and running risk and insurance services, I had a pretty
+good seat in terms of what was happening at AIG. So I didn't walk in thinking that the
+underwriting strategy was particularly strong or the relevance from the market but I do
+have to say some of the biggest surprises were just the talent and I don't know if it's a
+talent range -- think the talent was there in terms of what was being asked. The strategy
+of this large limit was heavily flawed became very commoditized. Underwriting
+capabilities, no culture of underwriting excellence and so when we looked at deployment
+of limits and taking significant risk across the portfolio and not having any really
+reinsurance strategy was something that was very troubling and it lacked operational
+capabilities which on the end-to-end is really important in underwriting, in terms of data
+capture, and quite frankly, what the amount of scientists that existed within AIG in its past I
+was expecting much more insight on data.
+That was the one area where I was expecting, I knew that the underwriting wasn't strong
+the strategy was flawed, no reinsurance unless that's fixable but like the data, and the
+data architecture, I was expecting to be significant and it just didn't exist in terms of being
+helpful. So that is why we -- once we got the underwriting turnaround moving we also had
+to get AIG 200 going because we needed to have a end-to-end process with capabilities
+extracting data, making really good decisions on the foundation.
+
+Q - Erik Bass
+
+{BIO 19920101 <GO>}
+
+Got it. Just given that as the backdrop when was the point that you kind of knew you were
+on the right track and that the general insurance business had reached an inflection point.
+
+A - Peter Zaffino
+
+{BIO 15942020 <GO>}
+
+Well, there's not a particular like I wouldn't go to a specific month or quarter. I think the
+foundational work that was being done was all about positioning the company to actually
+thrive in the future. One of the things and I'm a proud of many things at AIG and our
+colleagues, but one of the best is the team we've been able to assemble. Early on Tom
+Bolt coming into design with me a lot of the underwriting criteria and how we're actually
+going to assess risk and Charlie Fry, who was an expert at reinsurance and having him
+come onboard, followed by Dave McIlroy and Mark Lyons, Chris Shaffer mean we I could
+not get better people in the industry if you gave me any draft picks at all, I think we've
+assembled a tremendous team. So that team coming together and assessing the
+problems in terms of what we needed to do.
+I felt very good about the baseline in terms of how we were decreasing some of the risk. I
+mean, that's in the last earnings call and I almost wanted to pause because it's such a
+monumental number, but we have reduced over $650 billion of aggregate in a company
+Page 3 of 15
+
+
+
+Bloomberg Transcript
+
+FINAL
+
+Company N ame: American I nternational Group I nc
+Company Ticker: AI G US Equity
+Date: 2021-06-02
+
+and I don't know how any companies -- creates but we've reduced risk in the portfolio
+significantly since we started this and that can't go unnoticed. I think the other piece is the
+biggest validation is from reinsurers. They're in the business, they get it, they have a
+perch to look at every ceding company in the world and we were starting to do renewals
+and had more participation. More companies wanting to trade across multiple lines of
+business and multiple the multiple geographies. We felt very fortunate to have those
+relationships, but they entered by trusting the team that was here, knowing the portfolio
+is going to be challenged and then they continued to commit themselves as wanted to be
+strategic partners based on the underwriting that we are doing in the company.
+So that was a real big validation, as we got to some of our big renewals and saw more
+reinsurers coming in, bigger lines being taken and the willingness to trade across, multiple
+relationships. So I think that was, for us a big piece and then, you start to see, the traction
+that we're getting the marketplace in terms of underwriting quality, leadership
+characteristics. I talk about ventilation and I think that sometimes is not fully understood
+but AIG not only took these massive limits but they did them in lead layers and so, taking
+the portfolio and spreading it out and getting away from first losses meant a lot. So like,
+when we were ventilating, we were just taking our lead capacity and taking some of that
+and putting it in mid access and high access and when you do that, you just get better
+balance and some of the high access becomes commodity but not if you're doing the
+lead pricing because they want to make sure that they have that capacity.
+So as we started to remediate started to get acceptance in the marketplace and having
+come from the broker side brokers are greedy. Brokers ask for a lot of different things as
+they should and I would have done what I was there but the one thing they want the most
+is consistency because they have to also recommend insurance companies to their clients
+and so, one of the things we try to do is not only re-underwrite the portfolio and start to
+get a better balance, but we need to have that consistency. So we continue to get
+recommended and the renewal retention reflects that our new business -- reflects that
+and think that we have a lot of tailwinds as a result of the work that we've done.
+
+Q - Erik Bass
+
+{BIO 19920101 <GO>}
+
+Great. Now we have move to the other big strategic focus, which you hinted on your
+opening remarks and said last fall you announced the plans separate the life in retirement
+business from AIG, which is something that some investors I think of advocating for
+several years now but why do you believe this is the right strategy going forward and why
+is now the right time to pursue this.
+
+A - Peter Zaffino
+
+{BIO 15942020 <GO>}
+
+A lot of what we've outlined in the past remains the same. I mean we took a
+comprehensive review of the composite structure and we concluded that separation was
+the right path to create value for our stakeholders and also position both businesses to
+succeed in the markets they compete in. There's very little overlap in terms of
+distribution, there's no overlap and product. So I think having independence is going to
+allow us to a portion capital to strategically move those organizations forward.
+
+Page 4 of 15
+
+
+
+FINAL
+
+Company N ame: American I nternational Group I nc
+Company Ticker: AI G US Equity
+Date: 2021-06-02
+
+The other piece too is general insurance really couldn't stand on its own, until recently
+because of the profitability, volatility, and lack of track record. So I think getting a
+strengthened general insurance and having that foundation, with material reduced risk
+and volatility, and positioning it for profitable growth in the future was very meaningful. I
+think we've had effective management of the diversification benefits. We said no
+additional equity capital will be needed in the subsidiaries. So I think that was also another
+major fact. We talked a lot about the DTA -- foreign tax credits, which are part of the DTA
+need income life -- that need income from the life company and so we think we would
+consume a lot of that by the time, we would actually get to a majority sale and so like
+doing the minority IPO or minority at the time. If we were to look at a private sale, we
+would be able to preserve a lot of those foreign tax credits.
+So that was less of an obstacle and just making sure we had no surprises within the life
+retirement, property and casualty businesses. And then last, I think investors like both
+sectors but sometimes they like to choose and they don't necessarily want to choose a
+composite. They may want to choose one life company, one property casualty. So I don't
+think we were getting all the interests that perhaps we would as separate entities and
+also as we reposition, general insurance we think we're going to be an industry leader
+across the globe and so we want to make sure that business is less complicated and the
+story is a little crisper. So those are some of the reasons why we decided to pursue it but
+we did a lot of work on it and that was not a -- in October like we should do this we we've
+been working on it for quite some time.
+
+Bloomberg Transcript
+
+Q - Erik Bass
+
+{BIO 19920101 <GO>}
+
+Got it. And you've now determined that an IPO of the 19.9% stake in life in retirement is
+your preferred approach? Why do you believe that's the best -- to maximize value?
+
+A - Peter Zaffino
+
+{BIO 15942020 <GO>}
+
+Well, we always thought it was the base case and we outlined it as the path we were likely
+to take and we said that we would entertain any private -- and they were very good
+companies and quality views in terms of what we should be doing with the 99 but we
+want to make certain that no matter what we did we preserved the value on the 80.1 as
+well. And so did not want a mortgage the future, by doing something that might have a
+very positive headline price, but would have us doing things that would compromise value
+in the future and so, I think we felt we reviewed, alternatives that were in front of us and
+decided that at the point in time, when we went through earnings that, the preferred
+approach would be the base case, which was the IPO of the 99.
+
+Q - Erik Bass
+
+{BIO 19920101 <GO>}
+
+Got it. Can you walk us through the time frame for the separation and realizing it's not all
+in your control but what are the next steps in the process?
+
+A - Peter Zaffino
+
+{BIO 15942020 <GO>}
+
+Well, we outlined some of this on the earnings call and we are working hard towards
+getting the S1 filed and getting the IPO launched. The two big ones that we had to work
+on, as components of that, we're getting our standalone financial statements for life
+Page 5 of 15
+
+
+
+Company N ame: American I nternational Group I nc
+Company Ticker: AI G US Equity
+Date: 2021-06-02
+
+FINAL
+
+retirement completed and so we've made enormous progress there and then getting
+third-party actuarial reviews to complete and validate the work that's been done with the
+AIG. So that we've made enormous progress there.
+We built a separation management office as well as simultaneously so it's like AIG-200 in
+terms of having a transformation office but, so we're having work streams and actually
+how we separate life retirement from AIG with the minimal amount of disruption. So
+we've been working through that and that is going to be a critical part of making sure that
+we can execute on the 99 and then subsequent dispositions after that.
+So like working towards the fourth quarter in terms of timing but as you said there's things
+out of our control like regulatory approvals and the market we're not looking to time the
+market but there's always things that come up in terms of timing that could make it slip
+into the first quarter but, we are working with a sense of urgency to make sure that we
+have all the details flushed out and that we have a bunch of different work streams that
+are pulling up all the floorboards to make sure we're positioning this business to be highly
+attractive than think the market will respond accordingly.
+
+Q - Erik Bass
+
+{BIO 19920101 <GO>}
+
+And maybe building off of that last point. What do you think for the life in retirement
+business differentiates AIG in the marketplace and why do you think it's well-positioned to
+be a successful independent public company?
+
+Bloomberg Transcript
+
+A - Peter Zaffino
+
+{BIO 15942020 <GO>}
+
+It's got size and scale. Well-diversified portfolio, has been a very consistent performer, its
+platform and distribution network are a key differentiator in our view and the business has
+leading market positions across the board. So, I think the position of AIG's life retirement
+business will be very attractive. Also with fortitude, which we talk a lot about is that we've
+limited net exposure to legacy blocks business and therefore have addressed some of
+the more complicated issues as we are getting ready to do the 99.
+
+Q - Erik Bass
+
+{BIO 19920101 <GO>}
+
+Right. Now, maybe we'll pivot over to general insurance and so obviously the base of AIG
+going forward maybe before getting into some of the specifics for the business. Can you
+talk a little bit about how you're thinking about market conditions overall and the
+sustainability of the current hard market? Maybe what lines are geographies still need
+additional rate and where are you seeing pricing momentum slowing?
+
+A - Peter Zaffino
+
+{BIO 15942020 <GO>}
+
+Well, we've been in this market of rate improvement above lost cost for I guess we're
+entering year three. It depends on how you look at it. I think the market that we're in now
+is the market we're going to be in for a while and there's anecdotes I mean, if you think
+about, if I go right to the reinsurance market where, deal were oversubscribed on capacity
+layers within -- for cap that's an indicator, but I don't believe that incumbents were
+impacted and I think that the new capacity is going to be challenged in terms of their
+
+Page 6 of 15
+
+
+
+Company N ame: American I nternational Group I nc
+Company Ticker: AI G US Equity
+Date: 2021-06-02
+
+Bloomberg Transcript
+
+FINAL
+
+relevance in the marketplace, as clients make choices and look at quality consistency and
+ability to trade across, multiple lines of business, and multiple geographies.
+When we look at the, the current market, certainly, there's balance and so I don't believe
+in prior markets, you can pick a time and place that the rate increases or the condition of
+the global market was balanced as it is now. I mean, for instance, when we report our first
+quarters like getting rate increases in our international business on commercial being, very
+commensurate to what's happening in North America that typically doesn't happen so, I
+would say the balance has been in many geographies many products. Areas, where we're
+getting very meaningful rate increases have been driven by lines of business that -- I
+mean, some of the financial lines, casualty, property, making sure that we are focused on
+getting the right rate on a risk-adjusted basis which means understanding the risk
+components of how we underwrite. So, we've been very thoughtful on that and I guess
+the question often is like will rate slow down like, well, what are we trying to answer is
+that, are you going to get more margin this year, in terms of getting rate above lost cost
+than you did last year the answer is, yes.
+If you're looking at absolute rate, I'm not saying I won't get it, but I think like looking at
+absolute rate and declaring victory on having the highest rates sustainable on every
+quarter, you better watch your portfolio because that starts to shift to we want to make
+sure that we're getting the appropriate risk-adjusted rates for portfolio that we like on our
+underwriting basis tightening up terms and conditions and making sure we're deploying
+capital in areas where we think those risk-adjusted returns are the strongest and that's
+what we've been doing in 2021 and will continue doing it 2022. So we like the market. We
+think the market is very balanced. I think our leadership position in the overall market is
+highly valued. Our underwriting consistency across the globe is very strong and expect us
+to see real opportunities for growth in the short and medium term.
+
+Q - Erik Bass
+
+{BIO 19920101 <GO>}
+
+Perfect. And taking up on that point, I mean AIG put up an impressive massive growth
+particularly in commercial lines in the first quarter, and it sounds like you expect this
+momentum to continue. So what gives you confidence that now's the time to start
+stepping on the gas a bit from a growth perspective?
+
+A - Peter Zaffino
+
+{BIO 15942020 <GO>}
+
+Well, Mark Lyons gave a little bit of guidance that we would see growth in our personal
+insurance business in the second quarter that's different than some of the product orders
+and we can go into that if you would like but the reason I have confidence is because I
+think the underwriting that we've done as is with a portfolio that we like. I think the brokers
+have been great partners for us and are looking to find ways to grow with AIG. I don't -this is an infomercial but the time -- number of times, I've heard that the industry wants a
+strong AIG and they really like the path we are on and want to collaborate with that and
+be a partner has been tremendous, we owe a lot to our brokers and clients in terms of
+giving, while this management team didn't have a name to do with the past I mean, giving
+us another shot to, recalibrate underwriting standards and to be relevant to them.
+
+Page 7 of 15
+
+
+
+FINAL
+
+Company N ame: American I nternational Group I nc
+Company Ticker: AI G US Equity
+Date: 2021-06-02
+
+So I think that's been very well received. I think that, we have expertise and multiple lines
+of business and multiple geographies and if you think he's picked the UK is and example,
+when you look at global specialties known as a capability that we have the reaching, the
+network that we have across the globe, the ability and strong presence that we have in
+London, and also having a syndicate that we can use -- capacity to balance the portfolio.
+So we see it from a variety of different angles and then our strength, in terms of how we
+are reposition the North America business, we see lots of opportunities for growth but will
+be growth that we think drives profit and drives margin and is focused on consistency and
+improving the combined ratio.
+
+Q - Erik Bass
+
+{BIO 19920101 <GO>}
+
+Another topic we're starting to hear a bit more about is inflation. So can you talk about
+what you expect in terms of loss cost trend across different products are there any areas
+of particular concern?
+
+A - Peter Zaffino
+
+{BIO 15942020 <GO>}
+
+Bloomberg Transcript
+
+I think we've done a very good job of looking at our portfolio optimization work in terms
+of going by line of business by geography, access at all different stratifications and making
+sure that we have taken a very conservative position in terms of how we're building in lost
+cost in the -- year. So we work very closely with the underwriters with claims actuarial mark
+lines leads the portfolio optimization work and so together with making sure that we
+understand the marketplace that were we're in and that not getting a false positive on
+some of the rate increases but make sure that we're building large in the book is really
+how we apportion capital and we look to grow.
+So we are watching it very carefully. It's not something that is going to be looked at the
+beginning of the year and not get updates throughout the year. We make sure that as we
+learn what's either happening post-COVID if there's going to be some trends that start to
+emerge that were on top of it, and can anticipate, the future and as best we can. But also
+our reinsurance strategy is one that is not there to drive results other than to protect
+volatility and making sure that we don't have the pendulum swinging in terms of now we
+can take significantly more net because we feel really comfortable portfolio. We want to
+make sure that we maintain that risk appetite and deploy capital very carefully and watch
+lost cost inflation and lines of business that would concern us with a great amount of
+scrutiny.
+
+Q - Erik Bass
+
+{BIO 19920101 <GO>}
+
+Perfect. And you mentioned reinsurance we have a question coming in from the audience
+on that topic probably makes sense to go there now. In one area you've made significant
+changes over the past few years, is your usage of reinsurance. So can you talk about your
+philosophy around reinsurance more generally and how you see the program continuing
+to evolve going forward?
+
+A - Peter Zaffino
+
+{BIO 15942020 <GO>}
+
+Absolutely. I mean, we said from the beginning that we would be consistent buyers of
+Reinsurance, and that consistency is synonymous with buying Reinsurance that reflects the
+Page 8 of 15
+
+
+
+Company N ame: American I nternational Group I nc
+Company Ticker: AI G US Equity
+Date: 2021-06-02
+
+Bloomberg Transcript
+
+FINAL
+
+growth portfolio that we have today. So, what we had to buy in terms of protecting from a
+property and casualty perspective, you got to remember, I mean, AIG was taking
+substantial nets everywhere. Property, casualty, I've not seen that limits like that in the
+past, and so we needed to reduce our net position across the portfolio and so we did
+that immediately. And then simultaneously, we began the re-underwriting and so that
+takes a little bit of time.
+So, as we look to the future, meaning in 2021 and 2022, we still need as much
+Reinsurance on an absolute basis even though we're not changing our risk appetite. So,
+we've been able to improve all of our Reinsurance treaties, whether it's in terms of limits
+purchased. If you look at the property cap, we lowered attachment points in North
+America on an occurrence in an aggregate basis. On our risk retention -- for risk
+programs, we eliminated all of our annual aggregate deductibles. So, there's a lot of ways
+in which we've improved the portfolio and have improved the Reinsurance at the same
+time where we're just not taking as much risk and volatility.
+So, Reinsurance is a very important component and we have some unbelievable
+executives that have Reinsurance backgrounds. And I would say, if you're an investor,
+please don't do this, but if you were to start in terms of a Reinsurance company in terms
+of billing executives, I think actually AIG has some of the best Reinsurance minds in the
+business. And we have five to seven people that have done incredible work in the
+Reinsurance field. So, we are looking at very different ways in which we can approach our
+Reinsurance strategy that's every year. I mean, so like while we made enormous
+improvements in 2021, we were already in the planning stage for revise and what we want
+to do in 2022 to improve it. Again less volatility, more predictability and making sure we
+have a Reinsurance portfolio in terms of how we purchase that reflects the gross
+underwriting that we have in the portfolio today. We've certainly spent a lot of time on it.
+
+Q - Erik Bass
+
+{BIO 19920101 <GO>}
+
+Thanks. Another question that's come in, just a couple people asking about reserves,
+which is another area where you've done a lot of work on the past couple of years. It's -how are you feeling or are you feeling well positioned to handle any emerging areas of
+higher losses or claims inflation and if you can go through some of the puts and takes that
+we've seen in recent quarters?
+
+A - Peter Zaffino
+
+{BIO 15942020 <GO>}
+
+Well, look, Mark Lyons gives updates on this every quarter. We've looked at the portfolio
+and the back years and have done a very thorough review of that. I would say, the way in
+which we approach things is to recognize bad news when we see it and let good news, if
+there is good news, emerge over time. So, we are constantly looking at the different
+trends, the portfolio that we had, and making sure that as we look back that we're very
+confident in terms of how we have looked at the reserve adequacy of AIG. And so, again,
+it's something that we spent a lot of time on, it's not just the actuaries, it's claims, it's
+underwriting, it's taking a review, and getting into the details. And so, that's going to be a
+discipline. I mean it's not anything new that I'm telling you.
+
+Page 9 of 15
+
+
+
+Company N ame: American I nternational Group I nc
+Company Ticker: AI G US Equity
+Date: 2021-06-02
+
+But in terms of how we're going to be disciplined on taking a look at that, don't forget, we
+also have the Adverse Development Cover, now that's a -- that's not a backstop to
+prevent us from doing things that we need to do on the balance sheet. But it is still there
+and one that in the event something did emerge, we do have that in place.
+
+FINAL
+
+Q - Erik Bass
+
+{BIO 19920101 <GO>}
+
+Thanks. And so, commercial lines have gotten most of the focus for AIG. But you've also
+made some significant changes to the personal items over the past year. So, can you
+discuss how you've changed the business and how you're thinking about the goals going
+forward?
+
+A - Peter Zaffino
+
+{BIO 15942020 <GO>}
+
+Bloomberg Transcript
+
+Yeah. I think, the one that's probably the most confusing is what we did in the high net
+worth personal lines. And if we start from the beginning which is you look at where there
+is density, it's in peak zone. So, I mean whether it's in California, Florida of Northeast and
+then even Florida in the Southeast. And so, we felt that in the portfolio over time, if we
+were going to be a property underwriter that the high net worth business was going to be
+a one that's going to require more frequency purchases of Reinsurance as well as tail
+risks, and felt that in order to look at the portfolio in a manner that we can position it for
+growth that we needed to find a different structure.
+So, working with the leadership at Lloyd's and creating I think at the times large syndicate
+that's ever been created bringing in some strategic partners on the capital side as well
+the Reinsurance side allowed us to reposition the portfolio to where we're sharing risk,
+that we're dealing with the catastrophe risk as a consortium and that the positioning in
+terms of what we're doing to improve attritional loss ratios and better underwriting over
+the next 12 to 24 months was going to be critical for us, and so feel like we're in really
+good position to do that. We did get rid of our mass affluent book which is really the more
+commoditized homeowner business that's really below the high net-worth, and so we
+announced that last year and that gobbles up a lot of aggregate. And so, when we want
+to make sure that we would position the Reinsurance structure or getting the appropriate
+return periods to reduce, we need to be in the portfolio that we like. So, look at it, it's a
+re-underwriting, we have a really good portfolio that we think we can grow. What you saw
+last year was a lot of Reinsurance sessions, either going into the syndicate or going to
+Reinsurance partners, which certainly affect the net premium written.
+So, we feel that two things. One is we'll be able to now pivot to a more normalized
+growth, second quarter, third quarter, fourth quarter, and then it's a 2022. And then our
+travel business was obviously a headwind with COVID because people weren't traveling,
+and so we'll start to see that pick up and start to see some top-line growth as we get to
+the back half of the year. So, those were two significant headwinds in 2020 that won't
+exist in 2021. So, I think we'll start to see growth on an underlying basis, we will adjust
+Reinsurance to fit that specific portfolio, and then the effects of COVID will start to
+subside and therefore will be able to grow the travel business, although I don't think huge
+growth in travel will happen, but we will start to see some growth.
+
+Q - Erik Bass
+
+{BIO 19920101 <GO>}
+Page 10 of 15
+
+
+
+Company N ame: American I nternational Group I nc
+Company Ticker: AI G US Equity
+Date: 2021-06-02
+
+You mentioned in your opening comments, the guidance for achieving a sub 90% core
+combined ratio in general insurance by the end of 2022. What are the key levers to
+achieving this from here? And what are you assuming in terms of pricing and market
+conditions?
+
+Bloomberg Transcript
+
+FINAL
+
+A - Peter Zaffino
+
+{BIO 15942020 <GO>}
+
+Well, we didn't assume the current pricing environment. We considered one that was less
+than we're getting. So, I'll start there. That's a positive. There's a bunch of different
+components that will drive to a sub-90. One is, we'll start to see top-line growth, I mean,
+so I believe that momentum will come from a variety of different areas. It's going to be
+better retention, more new business and growing in areas where we think on the riskadjusted basis that we can improve profitability. I think that goes into the portfolio work
+that we said we were doing.
+The second is I don't think we're going to be buying as much Reinsurance just based on
+the gross portfolios. Again, no philosophy change, no strategic change, but less
+Reinsurance will have an impact and I think that's going to be positive. AIG 200, we're
+starting to -- I'll give you a bunch of numbers on the earnings calls, but we will have
+realized a sort of run rate that's going to start coming through the income statements and
+start to give us an expense ratio that will be better. And then just core expense discipline
+is going to be something that is part of the DNA in this company. So, in addition to what
+we're doing within an AIG 200, you should expect to see a lot of expense discipline and
+building bandwidth for own investments and believe that coupled with where I started the
+pricing environment strong and believe that the sort of underlying portfolio and (inaudible)
+base will continue to improve. So, there're those five components, it doesn't rely on all of
+them and doesn't overweigh one in particular, but think that there's a lot of tailwinds in
+order for us to achieve that as we exit 2022.
+
+Q - Erik Bass
+
+{BIO 19920101 <GO>}
+
+And maybe building on expenses which have clearly been a big focus for you, and you
+mentioned the AIG-200 strategy. Can you just talk a little bit more about the program's
+objectives and targets and how you're going about achieving them?
+
+A - Peter Zaffino
+
+{BIO 15942020 <GO>}
+
+Absolutely. And we've been talking about this for quite some time. So, when we look at
+the underlying infrastructure and end-to-end process and digital capabilities that existed
+in AIG when we arrived, it was really at the bottom quartile of businesses. And so, we took
+upon ourselves to go in deep on a variety of different work streams and talk about how
+we can substantially improve AIG's capabilities with end-to-end process, better data
+capture, using cloud technology, retiring a lot of either obsolete or technology that is no
+longer valuable to the underwriting process or operational capabilities. And again, I know
+like that part of the earnings transcripts is probably not everybody's favorite when I start
+going to the work streams of like what we're doing. But it's important because the things
+that we're undertaking as an organization that we're going to be reporting on for three
+years and we've done incredible work.
+
+Page 11 of 15
+
+
+
+FINAL
+
+Company N ame: American I nternational Group I nc
+Company Ticker: AI G US Equity
+Date: 2021-06-02
+
+And when I think about like shared services that we talked about, where it was highly
+fragmented, structure didn't really work, didn't have scale, had very little digital
+capabilities and then partnering with Accenture to do shared services for AIG, they have
+enormous skill. There were 50,000 people in the Philippines alone. So, we were able to
+have enormous resource capabilities and 54 digital capabilities we didn't have. So getting
+KPIs, customer service, cycle time decreased, but also clarity in back office in terms of its
+service expectations in AIG. This is one example. We just have also entered into a big
+migration to the cloud, which again was like okay, that's not all that innovative, but it's we
+were behind. And so, in some instances when you're behind, you don't have to do things
+in a linear basis and you can actually leapfrog to get the real value.
+So that's -- those are just a couple of examples, but the ultimate goal is to have great
+end-to-end process, customer service, better insight on data, better capabilities in terms
+of getting the type of underwriting risks to the top of the pile through, front office
+algorithms, getting to the underwriters to make better decisions faster, and also the
+optimization of the portfolio, looking at where you can actually do risks that are not
+adding, a lot of risks of the portfolio, like a property like getting in non-cap peak
+(inaudible). If I look at like anymore (inaudible)when you look at, we may have a little bit
+more European, but we've reduced Florida. So, doing things in a more digital enhanced
+way can only be done if you have foundational work flow. Again, I know it's boring, but it's
+incredible work. We're at the halfway point. We're hitting our milestone and believe that
+we will be a different company when we come out the other end. So, I'm really proud of
+what we've achieved there.
+
+Bloomberg Transcript
+
+Q - Erik Bass
+
+{BIO 19920101 <GO>}
+
+Great. Maybe another question on expenses that's come in is, do you expect any
+meaningful cost dissynergies as a result of the separation and setting up two
+independent companies?
+
+A - Peter Zaffino
+
+{BIO 15942020 <GO>}
+
+Well, if you take -- let's just park aside like what we're going to have to do from a legal
+and banking standpoint doing a public offering. Our base case and we're working through
+it now would be that the investment that's required in life retirement will be net neutral to
+the benefits it would get from AIG 200. And so, like it's going to be neutral. And then
+when we get to, AIG and position it for the future, we expect and we have some work to
+do and expect to give a little bit more guidance on our next earnings call where we would
+expect expense benefits from a combination of what remains in AIG and what currently is
+general insurance.
+I would expect in AIG (inaudible) expense benefit and our base case right now is expense
+neutral within life retirement would be additional investments, that will be required to get
+it to be a standalone public company. But we're working through the work streams now
+and be able to provide a little bit more guidance next quarter.
+
+Q - Erik Bass
+
+{BIO 19920101 <GO>}
+
+Page 12 of 15
+
+
+
+Company N ame: American I nternational Group I nc
+Company Ticker: AI G US Equity
+Date: 2021-06-02
+
+Okay. Maybe now transitioning a little bit to kind of the capital topic, we've got a few
+questions. First, just generally, can you talk about your philosophy on capital management
+and how you plan to balance investment in organic and inorganic growth with returning
+capital to shareholders?
+
+FINAL
+
+A - Peter Zaffino
+
+Okay. Well, I said we were doing the $500 million buyback in the first half of 2021. I want to
+get more specific in terms of our capital management strategy and intend to do so. But I
+mean, a big part of it is what we do with the 19.9% of life retirement because there's a
+base case there of what we need to do on the debt side and what capital we're able to
+raise in the 19.9. But generally speaking, Mark's outlined in detail what our intent is in terms
+of reducing debt. We expect to be focused on returning capital to shareholders in some
+form of buybacks for the near future. We need to talk more about the dividend and we
+need to position the company not a short-term, but eventually to have the opportunity to
+acquire businesses in the event there's something that complements the organization
+and allows us to position the company for longer term growth. I think that will be
+something in the future that we'll look to strategically. But first, the priority is the life
+retirement separation, then being able to outline with specificity in terms of what we
+intend to do with the capital and then also having regular updates in terms of how we
+intend to sort of manage capital and that capital management strategy will be something
+that we'll talk about with more frequency.
+
+Q - Erik Bass
+
+Bloomberg Transcript
+
+{BIO 15942020 <GO>}
+
+{BIO 19920101 <GO>}
+
+Perfect. And (inaudible), it may be a little bit premature, but we got a couple of questions
+as well on kind of the capital structure side and how you're thinking about leverage for
+both the AIG parent and the life and retirement business and capitalizing the different
+pieces. So, realizing it's still early, I don't know how much you can say, but any kind of
+review of how you're thinking about it would be helpful?
+
+A - Peter Zaffino
+
+{BIO 15942020 <GO>}
+
+Yeah. So obviously, we've gone through it in great detail and the base case is all focused
+around our stakeholders and making sure that, we don't have issues with rating agencies,
+regulators, and again that we don't need to raise equity capital.
+And so, making sure, I mean the base case is one, that we would raise debt for life
+retirement company. There would be dividend back to the AIG parent but our consistency
+in terms of reducing debt and making sure we have the leverage in a place where we feel
+comfortable, is the primary focus and with excess capital starting to outline what is the
+path forward on either share buybacks and/or reducing debt further, and then again I
+don't think we talked about the dividend for quite some time and intend to do that over a
+period. But I think the base case is really well thought. I don't think there's going to be a
+ton of variability, but I don't want to get into too much hypotheticals and really want to
+kind of get it away, but all the different things that Mark and I and (inaudible) have been
+talking about to the investment community still remains the same and one that we're
+executing towards.
+
+Page 13 of 15
+
+
+
+Company N ame: American I nternational Group I nc
+Company Ticker: AI G US Equity
+Date: 2021-06-02
+
+Q - Erik Bass
+
+{BIO 19920101 <GO>}
+
+FINAL
+
+Got it. I'm assuming part of the reason for doing the 19.9% stake as opposed to a bigger
+chunk is that it allows you to continue to consolidate the business which you think is
+favorable from both leverage standpoint, but also, as you alluded to earlier, to protecting
+DTAs.
+
+A - Peter Zaffino
+
+{BIO 15942020 <GO>}
+
+Yes. That is correct, Erik. I mean the other thing too is at some point, the DTA for the
+foreign tax credits will become less relevant. And I think that's really in 2022. But yeah, the
+leverage and we've got to figure out the path forward after the 19.9, which we have a lot
+of different scenarios, but I think we want to focus everybody on the initial step.
+
+Q - Erik Bass
+
+{BIO 19920101 <GO>}
+
+Got it. And then maybe coming back to you, I mean, commented a little bit about M&A
+and it sounds like it's sort of less of a near-term priority, but something you want to
+position yourself to consider at points in the future. But maybe you could talk a little bit
+about where you see potential areas of white space that might be interesting to fill in
+over time?
+
+Bloomberg Transcript
+
+A - Peter Zaffino
+
+{BIO 15942020 <GO>}
+
+Yeah, as you said, it's not a near-term objective. I mean, it's our responsibility just to think
+about strategically positioning AIG for the future all the time. And so, obviously, we think
+through where there are opportunities. I like our business the way it is. I mean, like when
+we -- like is there white space sure, but we have a tremendous international business. We
+have an incredible position in Japan, which is again if you take the big three, where the
+next largest insurance company in Japan were, we are making investments in digital
+capabilities in the front end. We are finding ways which we think we can grow and have
+more relevance to distribution in Japan. We have a great UK business that we think have
+great opportunities for growth.
+And again, we have a very good global platform. North America, we feel really well
+positioned to capitalize on the specialty businesses and we're going to talk a lot about it.
+But buying a high quality business like Glatfelter has taken us from the bottom decile of
+program performers to the upper quartile within one or two turns, and so building that
+underwriting discipline and high quality standards that a Glatfelter has in our ability to
+reposition our portfolio, we're not looking to grow substantially in programs, but it's a nice
+little niche business that we have consistency and core principles. And so, we think there's
+really good opportunities for growth and we will position the company. We've got to get
+through the -- when you think about what's in front of us, don't want to take our eye off
+the ball on the underwriting turnaround.
+And again, the turnaround is largely behind us. But our industry-leading position is going to
+allow us to make further gains in the short medium term, so I want to be very focused
+there. We've got to make sure we don't miss any of our intervals on one AIG 200. And
+that's going to be critical not only from a strategic standpoint, but operational and
+financial outcome, then separating life and retirement and doing that in a very thoughtful
+Page 14 of 15
+
+
+
+Company N ame: American I nternational Group I nc
+Company Ticker: AI G US Equity
+Date: 2021-06-02
+
+FINAL
+
+way where we maximize value for our stakeholders, then articulate a capital management
+strategy in terms of proceeds and what's the structure of that capital in the future, huge
+talent agenda.
+And then I think we'll come back to that, sort of capital management strategy as sort of a
+2.0 as to where are other possibilities for us to find ways in which we would grow, perhaps
+through acquisition in the future. But I think that's down the road and something that won't
+be part of the talk track in the short term.
+
+Q - Erik Bass
+
+{BIO 19920101 <GO>}
+
+Perfect. Well, I think that's a great summary of kind of the road ahead. You've certainly got
+work to do, but are making nice progress. Appreciate all the comments today. And thank
+you for your time.
+
+A - Peter Zaffino
+
+{BIO 15942020 <GO>}
+
+Thanks, Erik. I really appreciate the time. Take care.
+
+Q - Erik Bass
+
+{BIO 19920101 <GO>}
+
+Bloomberg Transcript
+
+All right. Thank you.
+
+This transcript may not be 100 percent accurate and may contain misspellings and other
+inaccuracies. This transcript is provided "as is", without express or implied warranties of
+any kind. Bloomberg retains all rights to this transcript and provides it solely for your
+personal, non-commercial use. Bloomberg, its suppliers and third-party agents shall
+have no liability for errors in this transcript or for lost profits, losses, or direct, indirect,
+incidental, consequential, special or punitive damages in connection with the
+furnishing, performance or use of such transcript. Neither the information nor any
+opinion expressed in this transcript constitutes a solicitation of the purchase or sale of
+securities or commodities. Any opinion expressed in the transcript does not necessarily
+reflect the views of Bloomberg LP. © COPYRIGHT 2022, BLOOMBERG LP. All rights
+reserved. Any reproduction, redistribution or retransmission is expressly prohibited.
+
+Page 15 of 15
+
+

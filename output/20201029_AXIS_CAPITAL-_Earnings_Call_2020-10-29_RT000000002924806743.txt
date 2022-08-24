@@ -1,0 +1,1294 @@
+Company N ame: Axis Capital H oldings L td
+Company Ticker: AXS US Equity
+Date: 2020-10-29
+
+Q3 2020 Earnings Call
+Company Participants
+FINAL
+
+Albert A. Benchimol, President, Chief Executive Officer, Director
+Matt Rohrmann, Head of Investor Relations
+Peter J. Vogt, Chief Financial Officer
+Peter W. Wilson, Chief Executive Officer - AXIS Insurance
+Unidentified Speaker
+
+Other Participants
+Brian Meredith
+Elyse Greenspan
+Joshua Shanker
+Meyer Shields
+Mike Phillips
+Yaron Kinar
+
+Bloomberg Transcript
+
+Presentation
+Operator
+Good morning, and welcome to Axis Capital Third Quarter 2020 Earnings Call. All
+participants will be in listen-only mode. (Operator Instructions) After the presentation
+there will be the opportunity to ask questions. Please note that this event is being
+recorded.
+I would now like to turn the conference over to Mr.Matt Rohrmann, Head of Investor
+Relations. Please go ahead.
+
+Matt Rohrmann
+
+{BIO 15132648 <GO>}
+
+Thank you, Nick. Good morning, ladies and gentlemen. I'm happy to welcome you to our
+conference call to discuss the financial results for Axis Capital for the third quarter and
+period ended September 30, 2020. Our earnings press release, financial supplement
+and 10-Q were issued yesterday evening after the market closed. If you'd like copies,
+please visit the Investor Information section of our website at axiscapital.com. We set
+aside an hour for today's call, which is also available as an audio webcast. This is also
+available to the impress -- Investor Information section of our website.
+With me today are Albert Benchimol, our President and CEO; and Pete Vogt, our CFO.
+Before I turn the call over to Albert, I'll remind everyone that the statements made during
+Page 1 of 21
+
+
+
+FINAL
+
+Company N ame: Axis Capital H oldings L td
+Company Ticker: AXS US Equity
+Date: 2020-10-29
+
+this call including the question-and-answer session which are not historical facts, maybe
+forward-looking statements. Forward-looking statements involve risks, uncertainties and
+assumptions, actual events or results may differ materially from those projected in the
+forward-looking statements due to a variety of factors including the risk factors set forth in
+company's most recent report on Form 10-K and other reports that company filled with
+the SEC. This includes companies Form 10-Q, the quarter ended September 30, 2020 as
+well as the additional risk fact -- additional risks identified in the cautionary note regarding
+forward-looking statements in our earnings press release. We undertake no obligation to
+update revised publicly any forward-looking statements. In addition, this presentation may
+contain non-GAAP financial measures, reconciliations are included in our earnings press
+release and financial supplement.
+With that, I'll turn the call over to Albert.
+
+Albert A. Benchimol
+
+{BIO 2023727 <GO>}
+
+Thank you, Matt. Good morning everyone. And thank you for joining our third quarter
+conference call.
+
+Bloomberg Transcript
+
+This has been a year of two stories for AXIS, one of exceptional catastrophe activity, but
+also one, where our repositioning over the past few years, which continues into 2020 is
+delivering demonstrably strong positive impact. First and foremost, our hearts go out to
+all who've been impacted by the pandemic, storms, wildfires and other calamities.
+We're committed to delivering on the promise we've made to our customers. To standby
+them in times of need with our industry-leading claim service. On a reported basis, this
+has been one of our more challenging years with the combined ratio of 150 on the
+quarter and 110 for the year-to-date. The reasons are evident to all of us all of us. We're
+experiencing the impacts from the global COVID-19 pandemic, and this was compounded
+by a highly active year in terms of natural catastrophes. Indeed, with storms data 2020
+has matched 2005's record in the number of named storms.
+Our cat losses in the quarter were $240 million or 22 points. Whether year-to-date, we've
+recognized $576 million in combined cat and COVID losses, contributing 18 points to our
+year-to-date combined ratio. On the other hand, it's also a year of undeniable progress
+for Axis. Our ex-cat combined ratio at 92.4 for both the quarter and the year-to-date, is
+clear evidence that our repositioning is delivering tangible results. It's a five-point
+improvement over the prior year, continuing the positive trends that we've been saying
+for several quarters. On ex-cat basis, we're seeing improvement in almost every line.
+Even in our property and catastrophe lines, our recent risk and volatility reduction activities
+have served us well. By way of illustration, in 2018 industry cat losses were about $71 billion
+and we lost 9.6% of common equity to cats. Last year, industry cat losses were about $50
+billion and we lost 8.3% of common equity to cats. This year, we estimate year-to-date
+industry cat losses at about $65 billion, excluding COVID. And while industry cat losses are
+close to 30% higher than the full year 2019. Our common equity loss to cat this year was
+
+Page 2 of 21
+
+
+
+Company N ame: Axis Capital H oldings L td
+Company Ticker: AXS US Equity
+Date: 2020-10-29
+
+FINAL
+
+down to 7.1%. Even if we had no further cat losses in the fourth quarter, that would make
+2020 the fifth worst year for our industry cat losses in the history of our company.
+However, in terms of common equity loss to cats 2020 would rank only 10th. This
+improvement is primarily due to the ongoing reduction of our catastrophe related
+exposures. Most recently, in the frequency end of the curve. While this naturally impacts
+our overall premium growth, we believe it comes with a benefit of a stronger portfolio
+that delivers both superior profitability and lower volatility.
+We're confident that our improving trend can be sustained, as we were rigorously pushing
+for improved pricing and growing where rates, terms and conditions are adequate. But
+also continuing to exercise discipline and strengthening, reducing or exiting books of
+business that do not offer sufficient profit potential.
+
+Bloomberg Transcript
+
+Our industry segment grew gross premiums written by 5% and we saw strong rate
+increases as well as significant amounts of new business growth. This was offset by
+actions we took to prune our portfolio, coupled with headwinds we faced due to the
+economic climate. All in, we're confident that we're growing where we should be and
+taking disciplined actions where necessary.
+Our reinsurance segment had 23% reduction in gross premiums written in a lower volume
+quarter. This is the continuation of the repositioning we've been reporting to you since the
+beginning of this year, accentuated by some timing issues and premium adjustments. On
+a year-to-date basis, reinsurance GPW was down 12% in line with the 10% reduction that
+we reported in the six month period. Peter will speak more about the movements by line
+in this report.
+But before I pass the floor onto Peter, I want to highlight that we are effectively executing
+on the COVID-19 technical response plan that we shared with you earlier in the year. You
+will recall the plan had three operating priorities; the first, was the stand up the
+organization to sustain operating capabilities and clients centricity. Our staff and IT team
+have responded superbly and our customers are telling us that we haven't missed a beat.
+We're receiving and processing more submissions and binding more policies this year,
+even as a remote work conditions, a testament to the agility of our team.
+The second operating priority was to minimize the downside. This was reflected in lower
+PMLs across the curve and increasing our underwriting guidelines to reduce exposure to
+industries that were most likely to be affected by the pandemic or its economic impact. A
+material reduction in our credit lines is a natural consequence of these actions.
+And the third operating priority is to prepare AXIS to participate strongly in the recovery,
+and we're well on our way to doing just that, identifying and adding resources to lines and
+markets where we expect attractive conditions. All the while, we remain on the sidelines
+or continue to improve books that are not yet providing the desired results.
+As I'll discussed later when I report on market conditions, this is a firming but not a hard
+market. Lower levels of favorable development, social inflation, the pandemic, more
+Page 3 of 21
+
+
+
+Company N ame: Axis Capital H oldings L td
+Company Ticker: AXS US Equity
+Date: 2020-10-29
+
+FINAL
+
+frequent natural catastrophes and lower interest rates drive the need for substantial price
+increases. And in many lines, it may take increases beyond 2021 before we reach
+adequate the risk-adjusted returns. This remains and underwriters market. There are
+excellent opportunities out there, but there are still many unattractive lines and markets to
+be avoided.
+With a strength of our talent our positioning in the markets showing the most impressive
+corrections and our relationships with our producers and customers, we're confident that
+AXIS is well placed to make the most of the attractive opportunities and to continue to
+improve our book of business and results, as we build a global leader in specialty risks.
+I'll now pass the floor to Pete, who will walk us through the financials. And I'll come back to
+talk more about pricing and I'll have our Q&A.
+Pete.
+
+Peter J. Vogt
+
+{BIO 17059745 <GO>}
+
+Bloomberg Transcript
+
+Thank you, Albert. And good morning, everyone. As Albert noted in his comments, this
+was a challenging quarter for the company, but it also included strong core underwriting
+results. During the quarter, we incurred a net loss attributable to common shareholders of
+$73 million and operating loss of $65 million. High catastrophe and weather-related losses
+overshadow the core underwriting results that continue to show improvement. The
+company produced a current accident year combined ratio, ex-cat and weather of 92.4%,
+which was a more than 5 point improvement over the prior year quarter.
+As previously announced, the quarter pre-tax cat and weather-related losses, net of
+reinstatement premiums were $240 million or 22.2 points, primarily attributable to
+hurricanes Laura and Sally, the Midwest derecho, wildfires across the West Coast of the
+United States, the Beirut port explosion and other weather events.
+I'll provide a bit more color on a couple of these events. Hurricanes Laura and Sally were
+combined $120 million event for us. Predominantly in insurance event, where we
+experienced approximately $100 million of insurance losses versus $20 million of
+reinsurance losses. The Midwest derecho was only an insurance event for us and
+contributed $45 million to our cat losses in the quarter.
+In the quarter, we kept our COVID-19 loss estimates steady at $235 million. As a reminder,
+the COVID-19 loss provision is associated with property, event cancellation, A&H and
+pandemic coverages. And as of September 30, the vast majority of the loss provision is
+still IBNR, and the paid amount is de minimis.
+During the quarter, the FCA test case ruling was decided. We took this information into
+account as well as other data, as we continue to monitor the level of our COVID loss
+provisions. While there was some movement between subclasses of business, we remain
+comfortable with the overall loss provision. I would remind everyone that COVID is an
+
+Page 4 of 21
+
+
+
+Company N ame: Axis Capital H oldings L td
+Company Ticker: AXS US Equity
+Date: 2020-10-29
+
+FINAL
+
+ongoing situation and we will continue to rigorously and carefully monitor developments
+across all lines of business and establish reserves if and when appropriate.
+Moving into the details of the group level. During the third quarter, we continue to see
+improvement in our underwriting results. Our current accident year combined ratio ex-cat
+and whether decreased by over 5 points as the repositioning of the portfolios in both
+segments starts to earn through. The consolidated accident year loss ratio ex-cat and
+weather at 58.5%, a decrease of over 3 points with improvement attributable to both
+segments.
+We reported essentially no net favorable prior-year reserve development in the quarter.
+We observed adverse loss experience in our liability and professional lines. And this was
+offset by favorable releases and some of our short tail lines.
+
+Bloomberg Transcript
+
+In these times of social inflation COVID and economic uncertainties, we believe it is
+appropriate to maintain a prudent approach to our reserves and to stay consistent with
+our strategy which is to take bad news early and good news only after it has been
+confirmed.
+The consolidated acquisition cost ratio was 21.1, a decrease of 1.4 points compared to the
+third quarter 2019. And again, this was attributable to both segments. The consolidated
+G&A expense ratio was 12.8, a decrease of 0.6 point compared to the third quarter of
+2019. The total general and administrative expenses decreased by $18 million. As we have
+discussed in previous quarters, due to the pandemic, we continue to experience lower
+run rate expenses in a number of areas. The temporarily lower run rate is helping our G&A
+ratio by about 1 point this quarter.
+Moving onto fee income from strategic capital partners, this was $16 million for the
+quarter, compared to $18 million in the prior year quarter. The decrease is due to lower
+profit commissions.
+We'll now discuss the segments. Let me start with Insurance. During the quarter, our
+current accident year combined ratio ex-cat and weather for insurance decreased by over
+7 points, as a repeat positioning our portfolio continue to earn through.
+Insurance segment reported an increase of gross premiums written $41 million or 5% for
+the third quarter. The increased principally came from good growth and professional lines,
+accident and health, and aviation largely attributable to new business and favorable rate
+changes. This was partially offset by decreases in liability, marine, credit and political risk,
+due to less opportunities, driven by the economic climate as well as the run off of our
+discontinued line.
+The current accident year loss ratio ex-cat weather decreased by 3.5 points in the quarter,
+compared to the third quarter of 2019. This was due to the impact of favorable pricing
+over lost trends as well as the improved loss experience in the short tail lines, largely
+associated with the repositioning of the portfolio and the exit from certain product lines.
+With respect to the longer tail lines, notably, professional lines and liability, given the
+Page 5 of 21
+
+
+
+Company N ame: Axis Capital H oldings L td
+Company Ticker: AXS US Equity
+Date: 2020-10-29
+
+FINAL
+
+uncertainty of the current situation we are currently not reflected the majority of excess
+rate over trend pricing in our expected loss ratios.
+Let's now move onto the reinsurance segment. During the quarter, our accident year
+combined ratio ex-cat and weather decreased by 2.7 points, again, as we've reposition
+this portfolio and it continues to earn through. Reinsurance segment gross premiums
+written of $395 million for the third quarter was $116 million lower in the same period in
+the prior year.
+The third quarter is a lower GPW quarter for the reinsurance segment, typically
+representing only 15% of your reinsurance gross premiums written in the year. This year
+the quarterly gross premiums written was impacted by our decision earlier in the year to
+exit the Middle East accident and health business, and the engineering line of business,
+which we believe have a positive impact on the bottom line results.
+In addition, gross premiums written decreased in motor lines due to premium
+adjustments and other timing effects. As we look year-to-date, the reinsurance gross
+premiums written is down 12%, and this is consistent with a trend we've seen earlier this
+year as we rebalance our book with lower catastrophe, agriculture and credit insured ebusiness.
+
+Bloomberg Transcript
+
+The current accident year loss ratio excluding catastrophe and weather-related losses
+decreased by over 2 points in the third quarter compared to the same period in 2019. This
+was principally due to changes in business mix and improved performance in aviation,
+professional lines and liability lines.
+Net investment income were $102 million for the quarter, was $14 million lower than the
+third quarter 2019, primarily due to the decrease in yields. Sequentially, we had a bit of a
+rebound in our alternative portfolio in the quarter as it produced $25 million of net
+investment income.
+Our current book yield is 2.3% and our new money yield is 1.4%. The duration of our
+portfolio continues to be approximately 3.4 years. Diluted book value per share
+decreased by $0.34 in the quarter to $54.75, this is primarily driven by the net loss and
+common dividends declared, partially offset by net unrealized gains.
+With that, I'll turn the call back over to Albert.
+
+Albert A. Benchimol
+
+{BIO 2023727 <GO>}
+
+Thank you, Pete. Let's do a brief overview on market conditions and outlook, and then
+we'll open the call for questions. We continue to see acceleration across virtually every
+line of business that we write. With insurance, we saw average rate increases of more
+than more than 16% across the book in the third quarter. This compares to about 15% of
+the second quarter, 10% in the first quarter of this year, and 8% in the third quarter of
+2019.
+
+Page 6 of 21
+
+
+
+Company N ame: Axis Capital H oldings L td
+Company Ticker: AXS US Equity
+Date: 2020-10-29
+
+FINAL
+
+Through the first nine months, the average rate increase was a little more than 13%.
+That's more than double the average increase in the first nine months of last year. In our
+U.S. division, we saw average rate increases of more than 16%. Within that, excess
+casualty reported average rate increases in excess of 25%, while primary casualty
+averaged over 15%. E&S property rates were up almost 20%. And our U.S. programs
+business, which focuses on homogeneous books of smaller accounts saw increases of
+about 6%.
+Moving on to our North American professional lines division, pricing they're also continued
+to accelerate, and weights were up by close to 17% in the quarter. Our commercial
+management solutions unit, average rate increases of over 35%. We saw particularly
+strong great action across public D&O, where we're essentially an excess writer at more
+than 55%. In addition, private equity was up more than 40%, and privately held companies
+up more than 30%. In addition, we're seeing great increase of about 25% in our Canadian
+specialty business, and 20% for Bermuda AXIS. Within cyber and tech we saw 6%
+improvement, as rates are now rising to reflect increased claims related to ransom-ware
+among others.
+
+Bloomberg Transcript
+
+Accident and health was essentially flat on low volume this quarter. In our London-based
+international insurance division, rates were up close to 17% on average in the quarter.
+Renewable energy where we're a global market leader was up more than 35%.
+Professional and casualty lines were up over 20%. And aviation is finally correcting with
+pricing well over 55% in the quarter.
+Our London marine, political risks and property books, averaged a bit shy of 10%, held
+back a bit by terrorism and offshore energy. Within that group though, marine cargo
+continues to outperform and was up almost 25%, at the global property, which was up
+close to 20%. Overall, in the quarter, 97% of our total insurance business renewed flat to
+up. More than half of the premiums experienced rate increases in excess of 10%. And
+within that, over 30% of the book had rate increases in excess of 20%.
+Let's move on to reinsurance. There we're seeing encouraging signs of firming. Although,
+not quite as high as insurance, with the understanding, of course, that are meaningful
+variances by market. Our year-to-date average rate increase and reinsurance is about 8%.
+And here too, we saw encouraging acceleration from lower levels at January 1, to about
+double-digits on average as the years developed. Catastrophe and some specialty lines
+including liability are in double-digits. Other than those lines, the U.S. and global specialty
+markets are seeing the strongest rate increases with EMEA and Asia lagging behind.
+Nevertheless, while we see pricing and conditions starting to respond to large trends and
+reinsurance, we believe they are not yet making up for much lower interest rates. Leading
+to less attractive total returns in some lines, we responded appropriately by reducing our
+participation in certainties and markets. Although, we're optimistic that conditions going
+into 2021, will provide opportunities to grow across a number of lines and markets.
+Overall, across both insurance and reinsurance markets, we are seeing some impressive
+numbers in terms of rate change. That said, I cautioned that with the significant increase in
+
+Page 7 of 21
+
+
+
+Company N ame: Axis Capital H oldings L td
+Company Ticker: AXS US Equity
+Date: 2020-10-29
+
+FINAL
+
+the frequency and severity of weather-related events, social inflation, the uncertainties
+stemming from the COVID pandemic and significantly lower interest rates, current pricing
+is approaching adequacy, but does not yet translate into stellar ROEs for the industry.
+We remain optimistic that we will continue to see progress with the understanding that
+more rate action is needed and very likely it'll take increases beyond 2021 in some lines to
+get to rate adequacy. At Axis, we're leveraging our hybrid model to access risk across the
+globe and a different points of the risk transfer chain. We seek to draw the parts of our
+business where we're seeing the best opportunities and create a more balanced and
+diversified portfolio of risks, delivering an appropriate risk-adjusted return. We're wellpositions in the lines and markets that are seeing some of the strongest pricing
+momentum and are confident that this will accelerate our progress.
+We feel well prepared and optimistic for the future. We've delivered meaningful progress
+in our portfolio results in recent quarters, and we're confident that we can continue this
+price -- this positive momentum through the rigorous execution of our strategy. And with
+the favorable pricing environment anticipated to extend into 2021 and beyond, market
+conditions are working in our favor. As we look to the year ahead, it feels like all the
+pieces are coming into place.
+And with that, let's please open the lines for questions.
+
+Bloomberg Transcript
+
+Questions And Answers
+Operator
+(Question And Answer)
+We'll now begin the question-and-answer session. (Operator Instructions) First question
+comes from Yaron Kinar, Goldman Sachs. Please go ahead.
+
+Q - Yaron Kinar
+
+{BIO 17146197 <GO>}
+
+Thanks for taking my questions. I guess, my first question goes to the underlying loss
+ratios in both reinsurance and insurance. Clearly, we're seeing significant improvement
+year-over-year. I seem to recall that last year you had called out some mid-sized losses.
+Are there any such losses in this quarter's results?
+
+A - Peter J. Vogt
+
+{BIO 17059745 <GO>}
+
+Yes. Hey, Yaron, this is Pete. First, I would like to do one thing before I answer that
+question, Matt, hit me on the shoulder. The derecho event in my comments. I just want to
+clarify for everybody, we had $45 million of losses on the derecho, and that was all
+attributable to reinsurance. Matt, hit me on the shoulder and he told me, I think I said
+insurance. So just to clarify for everyone that derecho was just purely a cat on the
+reinsurance side. So I just want to clarify that first.
+
+Page 8 of 21
+
+
+
+Company N ame: Axis Capital H oldings L td
+Company Ticker: AXS US Equity
+Date: 2020-10-29
+
+FINAL
+
+And then with regard to your question, yes -- last year in the third quarter was a bit spiky.
+Right now we're just looking at all losses as performance. We did have some in this
+quarter, but I would say year-over-year, there was about a 2 point delta there. And so
+overall, the loss ratios down over 3 points. I'd say about 2 of that's due to that, the rest of
+it is good performance.
+I would also say that as I mentioned in my comments, especially with regard to insurance,
+while we're getting right over trend on the long tail lines. Right now, we're kind of holding
+our ELRs, [ph] our book and our loss ratios essentially flat to last year just due to the
+uncertainties associated with the current economic climate, as well as COVID and social
+inflation. So all in all, we feel really good about the improvement we're seeing in the book,
+but about two of the three are associated to large loss. But again, I would look even yearto-date, if we look at our loss ratio year-to-date, it's at like 50 -- it's below 58 for the
+company, and that's got a fair amount of those normal puts and takes we get on the large
+loss side. And as we've re-underwritten the insurance portfolio, we have brought the
+limits down. So we are seeing less of those on an ongoing basis.
+
+Q - Yaron Kinar
+
+{BIO 17146197 <GO>}
+
+Got it. That's very helpful.
+
+Bloomberg Transcript
+
+A - Albert A. Benchimol
+
+{BIO 2023727 <GO>}
+
+The way that I look at it fundamentally is that I think our year-to-date loss ratio is probably
+just a good base. I mean there's so many puts and takes at this point given some of the
+possessions that we're taking with regard to the current environment. We think we're in a
+good place with the loss ratios we have.
+
+Q - Yaron Kinar
+
+{BIO 17146197 <GO>}
+
+Understood. And then with regards to holding BE [ph] for loss ratios, steady compared to
+last year and for long tail lines, certainly prudent in this environment of uncertainty. If you
+can maybe give us some color as to how you're thinking about when you cross that
+threshold of feeling more comfortable with booking these loss trends -- sorry, the rates
+that you're getting over trend. Is it like waiting for a vaccine to be readily available? Is it
+getting past the credit cycle? At what point you become more comfortable to release
+some of that pent-up margin?
+
+A - Albert A. Benchimol
+
+{BIO 2023727 <GO>}
+
+So there's two components to it, right? One is rate over trend. The second is the fact that
+we're seeing just less claims activity right now. The position we're taking is that this lower
+claims activity is probably temporary. We'd love it to be true, but I don't think that's a good
+basis for reserving. I think that when you look at rate over trends, the rate over trend that
+we're earning right now was last year's rate over trend, which you'll recall was more like in
+the 8% range. And so we think that given what's happening in this industry, putting it all in
+the loss ratio this year, makes perfect sense.
+I think obviously as we go into 2021, we're experiencing much higher rate over trend. And
+there I think we're going to start reflecting some of that, we're not going to put it all in the
+Page 9 of 21
+
+
+
+Company N ame: Axis Capital H oldings L td
+Company Ticker: AXS US Equity
+Date: 2020-10-29
+
+loss ratio. And then over time, as we see a little bit of maturity in these lines of business,
+we'll take -- we'll start to reflect the positive. But the way I look at it, there's -- no company
+has ever been punished for reserving prudently and then releasing afterwards.
+
+Q - Yaron Kinar
+
+{BIO 17146197 <GO>}
+
+FINAL
+
+Agreed.
+
+Operator
+Thank you. Next question comes from Brian Meredith of UBS. Please go ahead.
+
+Q - Brian Meredith
+
+{BIO 3108204 <GO>}
+
+Couple here for you. First, Albert, just talk a little bit about if we do get a double-dip here,
+if we do get a kind of increase in kind of stay-at-home orders and stuff. What kind of the
+COVID exposure is here going forward and sort of maybe some additional event
+cancellation that kind of could hit? Where should we -- how should we kind of think about
+that from that perspective?
+
+Bloomberg Transcript
+
+A - Albert A. Benchimol
+
+{BIO 2023727 <GO>}
+
+I think we're in a good place there. Let me just kind of walk you through some of the
+numbers. And Pete, feel free to jump in and complement. So obviously, we didn't have a
+lot of business that was exposed to the event cancellation. And frankly, we only had one
+event, the Olympics. We took a partial reserve against the Olympics. If we get into wave
+3, 4, 5, and the Olympics were ultimately to be canceled, obviously, we'd be closer to a
+full limit loss on the Olympics, and that full limit is 50 million. And I think we took about a
+1/3 of that give or take in the first quarter.
+With regard to policies for businesses that are -- that business interruption, obviously, we
+were very quick as were a lot of people to immediately change the wordings of our
+policies, and in particular, a good bunch of our policies were already in businesses that
+were canceled or in the process of being canceled. We believe that today, we have
+reduced the number of policies exposed to the COVID lockdowns in the UK by about
+70%, simply through the attrition of those policies expiring, not being renewed, and/or
+new language being brought in.
+In the U.S. frankly, we've always had both physical damage and virus exclusion, except for
+a very small number of policies which already reserved for. So by and large, I think we're in
+much better shape right now, if there were to be a COVID lockdown. Any more that you
+want to add to that, Peter?
+
+A - Peter J. Vogt
+
+{BIO 17059745 <GO>}
+
+No, I just want to clarify, I think you did at the end there. Brian, I think where we had most
+of the exposure this year was in the UK. And that's the area where as that portfolio has
+turned over as well as it's just turned over that we've been able to get exclusionary
+
+Page 10 of 21
+
+
+
+Company N ame: Axis Capital H oldings L td
+Company Ticker: AXS US Equity
+Date: 2020-10-29
+
+language on renewals as well as other clients that have been non-renewed, so that the
+exposure is down about 70%. And we've always felt good about where we are in the U.S.
+
+FINAL
+
+A - Albert A. Benchimol
+
+{BIO 2023727 <GO>}
+
+That obviously speaks to our insurance book. The reinsurance book is a little bit more
+difficult to evaluate, but I would expect that many of our customers would have taken
+similar kinds of corrective action. So less able to give you specific numbers there, Brian,
+but we think we're in a better place now than we were certainly at the beginning of this
+year.
+
+Q - Brian Meredith
+
+{BIO 3108204 <GO>}
+
+Got you. Two more here quickly. So Pete, I'm just curious, given the difference we're
+seeing in new money yields versus your current book yields, is there any way you can kind
+of give us some kind of outlook or guidance with respect to investment income pressures
+in fixed-income investment --
+
+A - Peter W. Wilson
+
+{BIO 4267902 <GO>}
+
+Bloomberg Transcript
+
+Yes. So Brian, I mean we're looking at down to 2.3. You'll see sequentially the rate came
+down about two tenths of a point. Again, that was some of the floaters which affect the
+LIBOR resetting even lower. LIBOR is so low right now, I don't think that's really going to
+go much lower.
+So if you look at new money yields are about 1.4 with a three-year duration, I just think the
+headwinds there are going to be on the yields, probably at about tenth of a point, a
+quarter or so, Brian, unless we can get an uptick back up into the mid-2s on those yields.
+
+Q - Brian Meredith
+
+{BIO 3108204 <GO>}
+
+Got you. And then last question, Albert, for you. So maybe you could talk a little bit about
+where you are with respect to lowering volatility. And the reason I ask is that, look at you
+guys, you lost money this quarter and granted it was a big cat-loss quarter. But if you look
+a lot of other companies, T&T companies that are reporting, they're also having large cat
+losses, but they're actually still making money this quarter. Is there an issue with kind of
+scale at AXIS that you maybe need some bigger scale or you still need to reduce
+volatility? Maybe give us a perspective on that.
+
+A - Albert A. Benchimol
+
+{BIO 2023727 <GO>}
+
+Yes. I don't think everybody's reported, number one. Number two, as you know, there are
+different kinds of accounting. Some people put all of their changes in the comprehensive
+income through their income statement. We don't. So there's a bunch of things. Some
+people have taken reserve releases. We've just told you that we think of it in this market,
+it's probably not a good idea to take reserve releases. So I'm not sure that things are
+comparable to the decimal point. But let me address your question more broadly.
+Our goal has been and continues to be to do two things: one, is to increase the
+profitability of our non-cat business; and B, to reduce the -- our exposure to the cat
+Page 11 of 21
+
+
+
+Company N ame: Axis Capital H oldings L td
+Company Ticker: AXS US Equity
+Date: 2020-10-29
+
+FINAL
+
+business. And that's exactly what we're doing. I gave you some statistics in the early part
+of the presentation about how we're much less exposed this year than we were last year
+than the years before that, and we will continue to do that. We were explicit in telling
+everybody, we are not going to be increasing PMLs into 2021, as -- even with the market
+growing there. So that would be the first thing.
+The second thing is making sure that our non-cat business contributes a bigger piece of
+profitability. And there, I'm feeling really good about our trends. And obviously, this is not
+a number that we're going to be reporting on a regular basis. But when I look at the ROE
+of this company ex-cat, which is just for the --just for our own analysis of the drag of cat.
+Our ex-cat ROE in the third quarter was up over 230 basis points. So the two parts of our
+strategy, increase the profitability of your overall non-cat business. We're making great
+progress, you see that in the improvement in the ex-cat. Combined ratio, where we're
+seeing that the improvement in the ex-cat ROE. And then secondly, continuing to reduce
+the volatility through more intelligent portfolio construction. And net-net, simply reducing
+the amount of cat exposed business that we have, the net of which is going to be a
+better result. I absolutely, I'm convinced that scale is not the issue, it's just continuing to
+work on the two levers I've just discussed.
+
+Q - Brian Meredith
+
+{BIO 3108204 <GO>}
+
+Great. Thank you.
+
+Bloomberg Transcript
+
+Operator
+Thank you. The next question comes from Meyer Shields, KBW. Please go ahead.
+
+Q - Meyer Shields
+
+{BIO 4281064 <GO>}
+
+Great. Thanks. Good morning, all. I guess, the biggest -- big picture question is, when
+should we expect the heightened level of portfolio reshaping to be done? And maybe a
+simpler way of stating that is given the pricing environment, should we expect overall topline growth in 2021?
+
+A - Albert A. Benchimol
+
+{BIO 2023727 <GO>}
+
+Well, the answer is absolutely we should expect overall top-line growth in 2021. I think that
+fundamentally, we feel that all of the big blocks of our repositioning are done. I mean,
+we're earning through it, if you would, this year as we're writing it. Cancelled a number of
+producer relationships and so on in January 1, which are running through the year, and so
+on and so forth.
+I think from now on, it's really about optimizing the portfolio. And as I've discussed with
+you earlier, we think that there are a number of areas that are not yet reflecting all of the
+headwinds that we've talked about and in particular interest rates. If we have lines of
+business in 2021, that are not appropriately responding and not giving us adequate
+returns, obviously, we will not look to grow those. But if those lines of business are giving
+us the returns that we want, then we're open to growth, and just about every line, subject
+Page 12 of 21
+
+
+
+Company N ame: Axis Capital H oldings L td
+Company Ticker: AXS US Equity
+Date: 2020-10-29
+
+of course to managing the overall volatility of our book of business. Anything you want to
+add to that, Peter?
+
+FINAL
+
+A - Peter J. Vogt
+
+{BIO 17059745 <GO>}
+
+The only I'd say is, Mayer, you're spot on there. I think as I look, especially at insurance
+where we did a fair amount through the course of 2019 of shedding some business, they
+had a headwind of about 2.5 points just due to discontinued businesses. That will really be
+gone this year. So there'll be a little bit more of an impact, a headwind in the fourth
+quarter. But as we get into '21, that should actually be a way -- go away from the insurance
+side. And that segment has actually already started to show good growth as we go
+forward. And then on reinsurance, we took a lot of the actions in the first half of this year.
+So again, as we get next year, I expect to see growth again.
+
+Q - Meyer Shields
+
+{BIO 4281064 <GO>}
+
+Okay, perfect. (Multiple Speakers) insurance --
+
+Bloomberg Transcript
+
+A - Albert A. Benchimol
+
+{BIO 2023727 <GO>}
+
+Just to be -- I just want to be as complete as I can be. Obviously, we talked earlier about a
+reduction in our credit exposed lines being a consequence. There, I think our growth is
+going to be very much subject to our expectation of where the economy is going. If
+there's going to be a lot of economic uncertainty, the odds are that we're not going to be
+looking for huge growth on the credit exposed lines. But I think what matters at this point
+in time is the book is where we want it to be. And from now on, it's really about, are we
+getting the risk-adjusted returns? Are we getting the risk that we want? And we're open
+for business in every line.
+
+Q - Meyer Shields
+
+{BIO 4281064 <GO>}
+
+Okay. No, that is very helpful. Pete, you talked in the past about how some business had -I guess, is essentially in runoff, it had something like a 2 point loss ratio headwind in the
+first half of the year. Was that factor also relevant in third quarter?
+
+A - Peter J. Vogt
+
+{BIO 17059745 <GO>}
+
+Yes, again, it's really running off, Meyer. It probably hit -- it did hit the third quarter
+negatively, but by less than 0.5 point. So it at this point has become an inconsequential,
+but I mean the exact math would have it at about four tenths of a point impact due to the
+runoff business in the quarter, but at this point, that business has pretty much gone.
+
+Q - Meyer Shields
+
+{BIO 4281064 <GO>}
+
+Okay, that's very good. And final question if I can. There -- the market I think is suggesting
+a lot of skepticism in capacity modeling, or maybe just assuming that normalized losses
+after what we've seen for the past four years are much higher than the historical record. I
+was hoping if you could share your perspective on that specific issue. In other words, how
+do you feel about the state of the industry's cat modeling relative to expectations in the
+near-term?
+
+Page 13 of 21
+
+
+
+Company N ame: Axis Capital H oldings L td
+Company Ticker: AXS US Equity
+Date: 2020-10-29
+
+FINAL
+
+A - Albert A. Benchimol
+
+{BIO 2023727 <GO>}
+
+I think it's a fair observation, right? I mean if you look at the last four years, I think three out
+of the last four years have been a disappointment to the industry. And frankly, that's why
+we've been pushing for pricing on the one hand, but that's why you're also seeing a
+reduction in our cat premiums overall. Just look at our reported numbers, you see we're
+writing less cat even on a gross basis, because we're just not feeling that the market is
+properly reflecting what we believe is an ongoing trend. I think at some point, that's going
+to have to change. But I will tell you that our cat writings of this year certainly would
+indicate our agreement with you that we don't think it's there yet. Overall, we're taking
+the position that we're going to see more frequency and severity of cat losses, which is
+why it continues to be our strategy to make our exposure to cat events a smaller part of
+our book.
+
+Q - Meyer Shields
+
+{BIO 4281064 <GO>}
+
+Great. Thank you very much. That's very helpful.
+
+Operator
+Thank you. Next question comes from Michael Phillips, Morgan Stanley. Please go ahead.
+
+Bloomberg Transcript
+
+Q - Mike Phillips
+
+{BIO 17553225 <GO>}
+
+Yes. Thanks. Good morning, everybody. I guess kind of continuing on the reinsurance
+thing, I think we hear you pretty clearly, your stance on property cat and pulling away
+there. But I guess, can you say where in reinsurance, do you see any opportunities that
+you're looking at for reinsurance? And then secondly, should we consider what we see the
+drop in premium growth this quarter? Is that at trough or we continue to see more as we
+go forward in next couple quarters?
+
+A - Albert A. Benchimol
+
+{BIO 2023727 <GO>}
+
+So I think just looking at projection, Peter, obviously some of our businesses that we've
+already cancelled is going to affect fourth quarter. So just a lot of that is on the quarter
+shares we report on a quarterly basis. So my expectation is you'll see that certainly for the
+rest of the year. Peter, would you agree with that?
+
+A - Peter J. Vogt
+
+{BIO 17059745 <GO>}
+
+Yes. I would. But I'd say, Mike, that really when you're looking at reinsurance, the third and
+fourth quarter such small volume quarters, it really looking at year-to-dates of better
+indicator of where we've actually changed the book of business where it's down 12%. I
+think this quarter in particular, there were timings, there were premium adjustments.
+That's typically what happens in the third quarter, and just year-over-year, there were
+positives last year and negatives this year. So I wouldn't read into the 23% down you saw
+in the quarter, look more year-to-date. And I think that gets to how we've been
+repositioning the portfolio, which I think is the second half of your question. And Albert, if
+you'd like to address that?
+
+Page 14 of 21
+
+
+
+Company N ame: Axis Capital H oldings L td
+Company Ticker: AXS US Equity
+Date: 2020-10-29
+
+A - Albert A. Benchimol
+
+{BIO 2023727 <GO>}
+
+FINAL
+
+Yes. So look, when you look at the big dollar numbers of reductions year-to-date, so we
+talked about cat and that's already been addressed. Agriculture, same thing, with a lot of
+climate change, there's been a couple of really difficult ag years. We ask for better terms,
+we didn't get them. There was a big reduction in agro this year.
+As we're continuing to optimize our portfolio, we felt that we were taking over lines
+between insurance and reinsurance on engineering. And we determined to get out of
+engineering on the reinsurance side, so we could offer our customers on the insurance
+side, bigger lines and not have to worry about over lines.
+We're continuing to optimize the portfolio. And so my perspective on this is that the
+reductions that we've done in reinsurance are actually all moves that optimize the overall
+consolidated portfolio. Going forward, as I said, it's really going to be a question of, will
+certain markets adjust pricing enough to give us the returns we want? Let's -- but when
+you think about our reinsurance business, over 70% of our business is quota share. And
+we've just indicated to you that a lot of the lines of business in insurance are becoming
+quite attractive. So I would expect that a lot of the quota share business, we as reinsures,
+will be able to see that improvement and we will want to participate in that. So I do think
+that kind of either year-over-year delta that you're saying in reinsurance certainly is a
+trough due to the repositioning that we've made.
+
+Bloomberg Transcript
+
+Q - Mike Phillips
+
+{BIO 17553225 <GO>}
+
+Okay, great. Thanks. Thanks, guys. And then one more on the reserve side. You
+mentioned adverse and liability offset by some of the shorter lines. On the liability, can
+you say how much of that was on the insurance versus reinsurance and then tell us about,
+I guess, how we can get comfortable with the professional lines on the reinsurance? And I
+guess (inaudible) some pressure there on reserves? And was there any adverse there
+and just kind of comfort level with your current reserves in the professional lines in
+reinsurance?
+
+A - Peter W. Wilson
+
+{BIO 4267902 <GO>}
+
+Yes. Mike, this is Pete. I'll take that. The changes were really centered or the reserves that
+we put up on the liability and pro line side. We're very much centered in the, call it the '16,
+'17, '18 kind of accident years. And looking at the pieces, we did have -- we saw some
+adverse development on the pro lines about 20 million in total, I'd say 60%, 70% of that
+was reinsurance, 30% of that was pro lines. And that was really centered in those years,
+'16, '17, '18. So we're feeling pretty good about where we are from that point forward.
+Overall, we do believe the reserves are adequate where we put them at the end of the
+third quarter. So we do believe that those increases were -- should get us to where we
+need to be in those -- both those lines of business. And liability (Multiple Speakers) liability
+about $5 million adverse.
+
+A - Albert A. Benchimol
+
+{BIO 2023727 <GO>}
+
+The other thing that I would say is also really important is, again looking at the books of
+business, we really like what we've done in our U.S.-based professional lines and casualty.
+Page 15 of 21
+
+
+
+Company N ame: Axis Capital H oldings L td
+Company Ticker: AXS US Equity
+Date: 2020-10-29
+
+FINAL
+
+And I think we've been changing the book, I think we're in the right place. Obviously, we
+through our London-based business, have had some challenges in some of the European
+professional lines. And as you know, we exited a lot of them. So we feel good that we've
+either rehabilitated or exited the challenging professional lines in Europe, and we feel
+very comfortable with our book of business in the states.
+
+Q - Mike Phillips
+
+{BIO 17553225 <GO>}
+
+If I could follow-up on Pete's comment there on the professional liability or reinsurance in - now at the end of the third quarter, you feel comfortable with where you are. Can you
+maybe qualitatively compare your level of comfort today versus maybe where you were in
+that specific line for -- about a year ago?
+
+A - Peter J. Vogt
+
+{BIO 17059745 <GO>}
+
+Bloomberg Transcript
+
+I would say, are definitely more comfortable today, because again, our underlying
+seedings have been have been getting rate, and then again, that's a big quota share
+book for us. And so I do feel that the underlying business we have there is more
+profitable today than where it was and we haven't moved ELRs [ph] We haven't
+responded to that.
+I'd say the same on our insurance side, where we've been getting a lot of rate, especially
+this year, and we really haven't responded in our ELRs. [ph] But overall, I mean this is on
+pro lines, sort of the -- on the reinsurance side, I would say, this was the first quarter
+we've actually had an increase in the PYD and adverse on reinsurance pro lines. The first
+half of the year was essentially flat. So it was just this quarter responding to what we saw
+in a couple years.
+
+Q - Mike Phillips
+
+{BIO 17553225 <GO>}
+
+Awesome. Okay. Thank you, Pete. Appreciate the comments.
+
+A - Peter J. Vogt
+
+{BIO 17059745 <GO>}
+
+You're welcome.
+
+Operator
+Thank you. Next question comes from Josh Shanker of Bank of America. Please go ahead.
+
+A - Unidentified Speaker
+Josh, you're on mute.
+
+Q - Joshua Shanker
+
+{BIO 21718992 <GO>}
+
+Sorry about that. Thank you for taking my question. You laid out a scenario where there
+will be some lines of business that still at the end of 2021, still don't won't be rate
+adequate. So I mean, there's two questions. And one is, if we think about 2021, how much
+of your top line is going to be associated with exposures that COVID-19 has sort of shrunk
+Page 16 of 21
+
+
+
+Company N ame: Axis Capital H oldings L td
+Company Ticker: AXS US Equity
+Date: 2020-10-29
+
+FINAL
+
+price, lines of business that you're just not interested and writing anymore and versus
+willingness to grow the business? I know that it's going to be impossible for you to lay out
+all four things. But can you go through each of the items, I guess, price and willingness to
+write certain lines, exposures and willingness to expand? Can you talk about those four
+categories?
+
+A - Albert A. Benchimol
+
+{BIO 2023727 <GO>}
+
+Yes. And if you don't mind, I'll wrap them up, because I think it would be difficult to actually
+parse it in those ways. So again, probably the most important thing to say is that at this
+point in time, we're open for business in every single line of business that we're in. We've
+finished the macro exits and now it is purely a question of rate adequacy and optimization
+of the portfolio.
+With regard to the optimization of the portfolio, I think we've been very clear that we are
+not looking to increase our PMLs. We think we're certainly going to get much better
+returns on property and property cats, exposed lines of business, but our objective is to
+deliver a more balanced and a less volatile book of business. So, we're happy to take all
+the rates, we're happy to continue to reposition the portfolio to optimize the construction
+through the -- there is the utilization of analytics and so on and so forth. But by and large,
+you should not be looking to us to have any kind of meaningful increase in our PMLs.
+
+Bloomberg Transcript
+
+With regard to COVID, I would say we've never been a big contingency writer. So that's
+really not -- it's frankly after the Olympics, we don't have any, right? So that's pretty
+straight forward.
+With regard to our property and BI related lines of business, as I've mentioned to an
+earlier question, we've significantly strengthened our language and exclusion. So we feel
+good about that. The real area is, what industries are going to continue to be some more
+susceptible to the downsides of COVID and its economic consequences? And there,
+through our normal underwriting, we'll certainly look to be more cautious in the
+professional lines, in the DNO area, potential liability area, potential credit areas. And
+that's simply making sure that we take risk, where we feel that the underwriting is right,
+the risk is right.
+There is one more factor, which we spoke about earlier today. And that is that there is
+less economic activity, which has been a bit of a headwind. So there's less new
+construction projects starting. Obviously a number of small businesses, a number of
+restaurants have closed down. So that's reduced the renewals of those businesses. But
+that's less, if you would, our choice and the fact that economic activity has declined. And
+of course, as the economy recovers, we would certainly expect to participate in that
+recovery with those opportunities.
+But bottom line, I feel really good about where our teams have brought our book of
+business. I feel really strong about our relationships. We're in all the right markets. The
+question will be, how are we going to get the right pricing that meets our views of loss
+trends, and in particular, the impact of lower interest rates and the uncertainties? Where
+pricing is going to give us that? Where we can structure policies to protect us against that,
+Page 17 of 21
+
+
+
+Company N ame: Axis Capital H oldings L td
+Company Ticker: AXS US Equity
+Date: 2020-10-29
+
+we will be looking to grow. And where we won't, we won't, and I expect that you will be
+happy that we won't want to grow there.
+
+FINAL
+
+Q - Joshua Shanker
+
+{BIO 21718992 <GO>}
+
+Okay. That's fairly thorough. And then when we just one -- and then when we look at lines
+of business that are absolutely not rate adequate today, some of them you were writing
+last year. To what extent, we can't look at individual lines of -- we have some
+segmentation in the triangles. But to what extent, do you think that you've put a layer of
+conservatism on those particular lines that you're certain aren't adequate given the
+current interest rate environment that investors should be confident about the portfolio?
+
+A - Albert A. Benchimol
+
+{BIO 2023727 <GO>}
+
+Bloomberg Transcript
+
+I think we've taken the corrective action to make sure that we're doing it right this year. I
+mean, I think that we've made excellent progress in our reported numbers. And we've
+just told you we've taken no credits for rate over trend in our long tail lines where interest
+rates are the biggest impact and where COVID may have an impact. It's also areas where
+we're seeing some of the strongest rate increases. So we told you, we're saying 15% plus
+on primary casualty, we're seeing 30% plus in excess casualty, we're saying 35% in CMS.
+Obviously, we are not going to take all of those increases into the loss ratio on year one.
+So I think we're already very prudently booking that business, being cautious not to reflect
+all the rates in 2020. We're certainly not going to reflect all the rate in 2021. But we think
+that those lines of business, we're taking the appropriate action in reserving them
+prudently and we feel good about where they are, and we think many of them are going
+to get better.
+In cyber, we've talked about the fact that ransomware claims are increasing, that this has
+been a line of business that has not seen a lot of price action. We think in 2021, that line of
+business will see more price action. And because we think we need to get paid for all of
+the increased ransomware claims and so on, if we don't get the pricing, we won't grow as
+much. But we like the business we're in.
+
+Q - Joshua Shanker
+
+{BIO 21718992 <GO>}
+
+Well, thank you for all the answers. And best of luck in the new year.
+
+A - Albert A. Benchimol
+
+{BIO 2023727 <GO>}
+
+Thank you.
+
+A - Peter J. Vogt
+
+{BIO 17059745 <GO>}
+
+Thanks, Josh.
+
+Operator
+Thank you. Final question today comes from Elyse Greenspan of Wells Fargo. Please go
+ahead.
+Page 18 of 21
+
+
+
+Company N ame: Axis Capital H oldings L td
+Company Ticker: AXS US Equity
+Date: 2020-10-29
+
+Q - Elyse Greenspan
+
+{BIO 17263315 <GO>}
+
+Good morning.
+
+A - Albert A. Benchimol
+
+{BIO 2023727 <GO>}
+
+FINAL
+
+Hi, Elyse.
+
+Q - Elyse Greenspan
+
+{BIO 17263315 <GO>}
+
+Hi, Albert. Thanks for fitting me in. My first question on -- you guys kind of -- obviously you
+mentioned, there's been a lot of business initiatives, right? So we have -- business saw a
+little slowdown in reinsurance in the quarter. And you pointed to growth in 2021. We're
+hearing that there's going to be a good amount of retro increases at January 1. So as you
+think about growing your top line, in 2021, how are you thinking about the growth in that
+and how that might play out 2021, I guess in reference to 2020?
+
+A - Albert A. Benchimol
+
+{BIO 2023727 <GO>}
+
+Bloomberg Transcript
+
+Right. So when you think about our insurance book of business -- I know you asked about
+retro, but let me give you the comprehensive answer. I think when you look at our
+reinsurance book of business, most of what we write or what we buy is quota share. And
+so obviously, our reinsurance are getting the benefit of all of the improvements that we're
+delivering. So I think that, that will continue whether we increase or decrease our
+retentions, frankly is the decision that we'll make at the time, when we see most of what - most of our book reinsures sometime in the spring, so we'll be reactive to that.
+With regard to the reinsurance book, we're actually not a big buyer of retro. As you know,
+we use third party capital, but that's mostly quota share. So because we're not a large
+writer of retro, we don't view changes in the retro market -- not a large buyer, I apologize,
+of retro, changes in the retro market really don't affect us in a meaningful way.
+
+Q - Elyse Greenspan
+
+{BIO 17263315 <GO>}
+
+Okay, that's helpful. And then your PMLs, every return period, I think came down in the
+quarter. Obviously, I think they came down like last quarter as well. Is that something as
+you think about 2021 taking into account rate? I think you mentioned earlier in the call that
+you have desire to take down the cat exposure a little bit. Should we expect the PMLs to
+continue to come down from here?
+
+A - Albert A. Benchimol
+
+{BIO 2023727 <GO>}
+
+Well, the PMLs in this quarter have a little bit of a benefit, because frankly with the activity
+that we've had this year, we've eroded lot of the aggregate covers. So I think that has an
+impact on the net PMLs. But I think if you look at where we were at July 1, I think that's
+probably more of an independent view. And so to my point, I think around the levels of
+July 1, maybe a little bit lower, is where I would expect where I would expect it to be.
+
+Q - Elyse Greenspan
+
+{BIO 17263315 <GO>}
+
+Page 19 of 21
+
+
+
+Company N ame: Axis Capital H oldings L td
+Company Ticker: AXS US Equity
+Date: 2020-10-29
+
+FINAL
+
+Okay. That's helpful. And my last question, the fourth quarter seems to also be pretty
+active. We've had Delta Zeta, the ongoing California fires. Do you guys just have a little bit
+of a sense of how we can think about the cat loss, the exposure to some of these events
+in the fourth quarter? Maybe I know some of them are ongoing, so not looking for an
+exact number, but more qualitative in terms of your exposure and how we should think
+about the fourth quarter.
+
+A - Albert A. Benchimol
+
+{BIO 2023727 <GO>}
+
+Well, you're right, I mean, they're literally just happened. I think Zeta, they just went
+through Louisiana yesterday. But I think both of them tend to be reasonably low level cats.
+The other thing that I would say is Zeta in particular, looks like it's going to be following
+the same path as Laura, [ph] which means that there'll probably be some complications in
+terms of attributing losses to Laura or Zeta. So my guess is that's going to be an issue for
+the entire industry, certainly not just ourselves.
+But that's kind of where we are on it. And we'll see how it develops as the fourth quarter
+goes. It's interesting. I mean if you look at the last five years, give or take, I think kind of
+median, cat losses were probably around $50 billion for the industry. We think we're at
+probably mid-60s already through the end of the third quarter. So I think that gives you an
+indication of what kind of year we're having.
+
+Bloomberg Transcript
+
+A - Peter J. Vogt
+
+{BIO 17059745 <GO>}
+
+Elyse, the only other thing I'd point out, and this is Pete, when you look historically,
+especially the '17 and '18 with the wildfires, we had been on a number of large aggregate
+treaties on the reinsurance side. And we're no longer on those treaties. So we don't have
+those aggregates in our portfolio anymore. So just as you're looking historically, I thought
+I'd point that out.
+
+Q - Elyse Greenspan
+
+{BIO 17263315 <GO>}
+
+Okay, that's helpful. Thanks. I appreciate the color.
+
+A - Peter J. Vogt
+
+{BIO 17059745 <GO>}
+
+You're welcome.
+
+A - Albert A. Benchimol
+
+{BIO 2023727 <GO>}
+
+Thanks, Elyse.
+
+Operator
+This concludes our question-and-answer session. Now I'd like to turn the call back over to
+Mr.Albert Benchimol for closing remarks.
+
+A - Albert A. Benchimol
+
+{BIO 2023727 <GO>}
+
+Page 20 of 21
+
+
+
+Company N ame: Axis Capital H oldings L td
+Company Ticker: AXS US Equity
+Date: 2020-10-29
+
+FINAL
+
+Thank you, operator. And thank you to everybody for participating and for your interest
+and your questions. Clearly, this was a quarter with a lot of noise up and down and
+sideways. But at the end of the day, I think that AXIS responded very well to the
+challenges of this year in terms of having a lower exposure than historically to cats. I think
+that we've made significant progress in our ex-cat book of business. And I think that we're
+advancing our strategy and building a global leader in specialty risk.
+Again, I want to leave you with our commitment that we're focused on our plan. We're
+disciplined in our underwriting approach. And we're managing our portfolio and
+positioning our business to thrive in the eventual recovery. We did have a fair number of
+books of business that we were repositioning in 2020, but we like where we are today
+and we are open for business when the pricing and the returns are attractive.
+To the -- to my colleagues who are listening today, I want to say thank you. I want to
+express my appreciation to all of you. You're working hard. Your commitment, your
+dedication, our clients see and our brokers see it, we see it everyday. I just want to thank
+you all for that. And so to everybody who joined our call, thank you, and we look forward
+to reporting to you on our progress in the future calls. Thank you everybody. Operator,
+this ends our call.
+
+Operator
+
+Bloomberg Transcript
+
+Conference has now concluded. Thank you for attending today's presentation. You may
+now disconnect.
+
+This transcript may not be 100 percent accurate and may contain misspellings and other
+inaccuracies. This transcript is provided "as is", without express or implied warranties of
+any kind. Bloomberg retains all rights to this transcript and provides it solely for your
+personal, non-commercial use. Bloomberg, its suppliers and third-party agents shall
+have no liability for errors in this transcript or for lost profits, losses, or direct, indirect,
+incidental, consequential, special or punitive damages in connection with the
+furnishing, performance or use of such transcript. Neither the information nor any
+opinion expressed in this transcript constitutes a solicitation of the purchase or sale of
+securities or commodities. Any opinion expressed in the transcript does not necessarily
+reflect the views of Bloomberg LP. © COPYRIGHT 2022, BLOOMBERG LP. All rights
+reserved. Any reproduction, redistribution or retransmission is expressly prohibited.
+
+Page 21 of 21
+
+

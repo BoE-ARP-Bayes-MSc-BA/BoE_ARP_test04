@@ -1,0 +1,1286 @@
+Company N ame: American I nternational Group I nc
+Company Ticker: AI G US Equity
+Date: 2019-05-07
+
+Q1 2019 Earnings Call
+Company Participants
+FINAL
+
+Brian Duperreault, Chief Executive Officer
+Kevin Hogan, CEO of Life and Retirement
+Mark Lyons , Chief Financial Officer
+Peter Zaffino, CEO of General Insurance
+
+Other Participants
+Andrew Kligerman, Analyst
+Elyse Greenspan, Analyst
+Josh Shanker, Analyst
+Paul Newsome , Analyst
+Ryan J. Tunis , Analyst
+Tom Gallagher, Analyst
+Yaron Kinar, Analyst
+
+Bloomberg Transcript
+
+Presentation
+Operator
+Good day, ladies and gentlemen, and welcome to AIG's First Quarter 2019 Financial
+Results Conference Call. Today's conference is being recorded.
+At this time, I would like to turn the conference over to Ms. Liz Werner, Head of Investor
+Relations. Please go ahead. Good morning. And before we get started this morning, I'd
+like to remind you that today's presentation may contain forward-looking statements
+which are based on management's current expectations and are subject to uncertainty
+and changes in circumstances. Any forward-looking statements are not guarantees of
+future performance or events. Actual performance and events may differ, possibly
+materially from such forward-looking statements. Factors that could cause this include the
+factors described in our first quarter 2019 Form 10-Q to be filed and our 2018 Form 10-K
+under management's discussion and analysis of financial condition and results of
+operations and under risk factors. AIG is not under any obligation and expressly disclaims
+any obligation to update any forward-looking statements, whether as a result of new
+information, future events or otherwise. Today's presentation may contain non-GAAP
+financial measures, the reconciliation of such measures to the most comparable GAAP
+figures is included in the slides for today's presentation, and our financial supplement,
+which are available on our website. This morning we ask again that you limit yourself to
+one question and one follow-up. We're joined in the room today by members of senior
+management including Brian Duperreault, President and CEO; Mark Lyons, CFO; Peter
+
+Page 1 of 21
+
+
+
+Company N ame: American I nternational Group I nc
+Company Ticker: AI G US Equity
+Date: 2019-05-07
+
+Zaffino, COO and CEO of General Insurance and; Kevin Hogan, CEO of Life and
+Retirement. At this time, I'd like to turn the call over to Brian.
+
+FINAL
+
+Brian Duperreault
+
+{BIO 1645891 <GO>}
+
+Good morning, and thank you for joining us today. Our first quarter results reflect a
+significant foundational work we've been undertaking since late 2017 and that we
+described to you in detail on our last earnings call in February. I'm pleased with our
+progress to-date. We remain confident we'll continue through the remainder of the year.
+Today we will provide additional detail on our financial results, as well as the progress
+we're making on a number of fronts in our General Insurance, Life and Retirement and
+Legacy segments. We are changing our usual lineup so after my opening remarks, I'll be
+followed by Peter Zaffino, then Kevin Hogan, and Mark Lyons will close out our prepared
+comments before we move to Q&A.
+
+Bloomberg Transcript
+
+In the first quarter, we achieved an adjusted after-tax EPS for $1.58 compared to $1.4 in the
+first quarter of last year. This reflects significant improvement in the core operations of
+General Insurance in addition to increase investment income due to the rebound in equity
+markets. Mark will provide more detail regarding the positive impact investment income
+had across our businesses, which represents $0.32 of our EPS improvement year-overyear.
+In the first quarter, General Insurance achieved an underwriting profit of $179 million and
+the calendar year combined ratio of 97.4. First quarter accident year combined ratio as
+adjusted was 96.1, this quarter's underwriting profit represents a significant milestone for
+AIG and reflects the tremendous work undertaken by Peter and his leadership team over
+the last 18 months to radically improve underwriting fundamentals. Overall, our approach
+to reinsurance dramatically reduce risk and volatility, onboard acquisitions, and then still
+continuous expense discipline across General Insurance. We remain confident that GI will
+continue to improve it's financial performance and deliver an underwriting profit for the
+full year 2019, as already evidenced by our first quarter results.
+I'd like to comment briefly on AAL, as you know, over the last few quarters, I was -- I had
+been reluctant to talk about AAL because of the significant changes taking place in
+General Insurance and because our historical disclosure was not in line with our peers. I
+did say previously that you should assume AAL would be going down, indeed it has. Our
+estimated 2019 AAL is 3.5, a number I'm not too focused on as it will continue to change
+as our general insurance strategy evolves and matures, and because we view catastrophe
+management as a balance sheet topic as opposed to P&L.
+As a result of the strategic actions we are taking, AIG is again recognized as the leader in
+the insurance market. Many of us attended RIMS last week and we're gratified by the level
+of engagement and support we received from our clients and distribution partners. The
+marketplace has taken note of our deliberate, broad-based actions to recalibrate our
+book and aggressively reduce limits, risk and volatility. It is noteworthy, that we are seeing
+corresponding improvements in almost every area, including retail, E&S, reinsurance and
+
+Page 2 of 21
+
+
+
+Company N ame: American I nternational Group I nc
+Company Ticker: AI G US Equity
+Date: 2019-05-07
+
+FINAL
+
+these improvements are not just occurring in the United States, but also in a number of
+other countries. Peter will discuss this in more detail in his remarks.
+I also want to briefly comment on the recent news about changes at Lloyd's. In my view,
+Lloyd's is taking actions that are necessary for to regain it's pre-eminent position in the
+industry. Our acquisition of Validus was driven in part because of Talbot, a Lloyd's
+platform. So we were pleased to see Lloyd's embarking on a plan to restore it's position
+in the marketplace.
+Turning to Life and Retirement; this segment delivered another solid quarter with
+adjusted pre-tax income of $924 million, and an adjusted ROE of 15%, we are
+reconfirming our guidance for Illinois for the full year and continue to expect a low to midteens adjusted ROE. Kevin will provide more detail on Illinois first quarter in his remarks,
+including the impact of the rebound in the equity markets.
+With respect to our Legacy segment, we continue to make progress on our plan to
+deconsolidate and fully separate this business, while ensuring we meet our commitments
+to our policyholders and regulators. As you saw in our press release for consolidated AIG,
+we continue to expect to achieve a double-digit adjusted return-on-equity within three
+years. Our first quarter results demonstrate that our world-class team continues to make
+progress in our journey to restore AIG as a leading insurance company in the world.
+
+Bloomberg Transcript
+
+With that, I will turn it over to Peter, to expand on General Insurance.
+
+Peter Zaffino
+
+{BIO 15942020 <GO>}
+
+Thank you, Brian, and good morning everyone. Today, I will share high level financial
+information for General Insurance. I will expand on Brian's comments and highlight some
+of our accomplishments in the quarter, including notable financial progress that's being
+realized as a result of our underwriting strategy, and the overall repositioning of our
+business. I will provide insight on our evolving reinsurance program, which has substantially
+reduced and accelerated volatility containment. And lastly, I will provide market
+observations based on our experience in the first quarter to make some brief comments
+as we look ahead to the rest of 2019.
+As Brian noted since the beginning of 2018 we've been undertaking significant
+foundational work in General Insurance around organizational structure, talent recruitment
+and improving underwriting capabilities, while at the same time, rapidly evolving our
+reinsurance program and exercising expense discipline. As a result in the first quarter of
+2019, we achieved an accident year combined ratio including actual cat of 98.8% or 96.1%
+as adjusted. The calendar year combined ratio was 97.4%, the accident year loss ratio
+excluding cats for the quarter was 61.8%, a 130 basis point improvement year-over-year,
+and a 210 basis point sequential improvement from fourth quarter 2018. In the first
+quarter, we experienced cat losses of $175 million, which were lower than a year ago.
+The first quarter expense ratio of 34.3% represents a 230 basis point improvement yearover-year and a 60 basis point improvement from the fourth quarter of 2018. The general
+Page 3 of 21
+
+
+
+Bloomberg Transcript
+
+FINAL
+
+Company N ame: American I nternational Group I nc
+Company Ticker: AI G US Equity
+Date: 2019-05-07
+
+operating expense ratio was ultimately 5% from the first quarter, in line with the fourth
+quarter of 2018 and a 240 basis points lower than the first quarter of 2018. On a like-forlike basis, excluding the impact of acquisitions, operating expenses declined by
+approximately 18% year-over-year. These reductions were achieved while we remain
+committed to making investments in talent, business process and infrastructure to
+support our long-term profitable growth objectives. The acquisition ratio of 21.8% in the
+first quarter was in line with prior year quarter and the fourth quarter of 2018, in line with
+our expectations given our current mix of business.
+In addition to improved underwriting results, net investment income was favorable this
+quarter coming in at $1.1 billion, bringing General Insurance's pre-tax operating income to
+$1.3 billion. Mark will provide more details on the General Insurance financial results in his
+prepared remarks. As we stated over the last few quarters to deliver improvement,
+particularly in our commercial businesses, our primary area of focus was to create a
+framework that clearly defined it's segments of business that we wanted to underwrite,
+while leveraging the distinct value we believe AIG delivers in the insurance market. This
+framework enabled us to develop a cohesive risk appetite and to pivot to becoming a
+value-added partner with our brokers and clients based on our expertise, not just our
+capacity.
+While it may sound simple and perhaps even repetitive, this was our major initiative in
+2018. And when coupled with the strengthening of our core underwriting fundamentals,
+the changing mix of our business, the addition of Validus and Glatfelter, and the
+improvement we have driven in rate, we were able to craft a dramatically improved
+comprehensive and strategic reinsurance program for 2019. We remain committed to our
+journey of continuous improvement across General Insurance and are executing on
+changes to core businesses to shift our overall portfolio composition.
+Some highlights of actions we are taking that are driving improved operating and financial
+results include the following. In Lexington, for both property and casualty, we've narrowed
+our risk appetite in our focus on smaller and mid-market insurance and are committed to
+the wholesale distribution channel. We're also taking aggressive action on our renewal
+portfolio to align with our new risk appetite while exiting under-performing risks. As a
+result, we've see momentum in both, property and property casualty. Property
+submissions are up over 20% year-over-year and we are achieving low to mid-teens rate
+improvement on the portfolio. In our casualty business, our submission count is up over
+20% year-over-year as the marketplace has responded positively to our more tailored
+distribution strategy, enabling us to identify opportunities for profitable new business
+program. In our casualty portfolio we're achieving low-teens rate improvement. Overall,
+we're very pleased with the pace of the re-positioning of our Lexington portfolio.
+In financial lines as I mentioned on last quarter's call, we've been focused on reducing
+gross primary limits, and we remain very committed to deploying capacity for lead layers
+while obtaining better balance by participating in excess layers. We also have been
+disciplined on rate. For example, we've achieved in primary corporate D&O over 20%
+rate, in primary private D&O over 15%, and an excess D&O over 10%. In our North
+America book across primary US D&O segments, aggregate limits were reduced by
+approximately 20% in the first quarter of 2018 to the first quarter of 2019, and we also
+Page 4 of 21
+
+
+
+Company N ame: American I nternational Group I nc
+Company Ticker: AI G US Equity
+Date: 2019-05-07
+
+Bloomberg Transcript
+
+FINAL
+
+significantly reduced our policies above $10 million in lead layers by almost 35%. The
+impact of our disciplined approach to risk selection and pricing is also reflected in our UK
+Financial lines book where our total limits across all layers of public D&O decreased nearly
+35% year-over-year yet our repeat premium was only down slightly despite our
+underwriting actions.
+In North America Property, we continue to take aggressive actions to improve our
+portfolio. Our total gross limits in the first quarter declined 49% compared with the first
+quarter of 2018. Our average gross limit for risk management accounts declined 14%. Our
+average deductible increased 25% and we've been able to achieve high single-digit rate
+increases on our in-force portfolio. In addition to these portfolio actions, the acquisitions
+of Validus and Glatfelter directly aligned with our objective to improve our core business
+and diversify our portfolio. Both companies have delivered on their strong reputation for
+underwriting excellence and track records of generating underwriting profit.
+On our year-end 2018 earnings call, we provide a considerable detail on the substantial
+enhancements we're making to our reinsurance program. I do not intend to repeat that
+information today, however, I do want to stress that reinsurance continues to play a critical
+role in our overall strategy and I'm very pleased with what we've accomplished. Together
+with the substantial improvements we're making to our underwriting approach and
+capabilities, our reinsurance program is contributing to our reduced risk profile and
+helping us reshape the better balance of our portfolio. The relationships we're building
+with reinsurers and the support we have received as we overhaul our reinsurance
+program is clear and strong industry endorsement of the work we're undertaking to
+improve our core business. We'll continue to refine and enhance our reinsurance program
+as our portfolio improves.
+Let me briefly comment on rate. As I mentioned when I highlighted our progress in some
+businesses, we're seeing broad-based market support for premium rate increases across
+multiple lines at or better than our loss cost trends which Mark will discuss in more detail.
+At a high level, we obtained rate increases of around 4% in our commercial portfolio
+including over 4% in North American commercial lines excluding Validus and Glatfelter, and
+almost 6% in the UK and 3% in Europe. While rate remains an important area of focus for
+us, we continue to believe that disciplined methodical risk selection coupled with a focus
+on terms and conditions will be the primary drivers of sustained, improved financial
+performance and profitability.
+Turning to our Reinsurance business; Validus Re had a very strong start to the year. In the
+first quarter, we did see market loss increases for Typhoon Jebi and other 2018 events.
+Despite these increases, Validus Re did not have any net adverse development in the
+quarter due to reinsurance treaties that absorb these losses. Instead, Validus Re
+produced a $16 million favorable loss development in the first quarter. Year-over-year, net
+premiums earned increased approximately 20% as we successfully executed on growth
+initiatives and diversified non-GAAP classes. We're also seeing increased evidence of
+price discipline. Ceded commissions are broadly flat to slightly down, and on excess of
+loss placements pricing is generally flat to modestly up.
+
+Page 5 of 21
+
+
+
+FINAL
+
+Company N ame: American I nternational Group I nc
+Company Ticker: AI G US Equity
+Date: 2019-05-07
+
+With now part of our first quarter results, I do want to briefly comment on the April 1
+Japanese renewals and Florida's June 1 renewals. For Japan rate increases ranged from
+15% to 25% on loss impacted cat layers, layers that were not impacted by catastrophes
+were price flat to up 6%. We chose not to increase our Japan exposure during these
+renewals. Shifting to Florida, the property reinsurance market has meaningfully
+underperformed over the last two years and we believe it will undergo a meaningful price
+correction at June 1. This is driven by loss activity in 2017 and 2018, and the need to modify
+loss cost to account both increased frequency and severity.
+Before closing, I'd be remiss if I did not acknowledge the efforts of the General Insurance
+leadership team and all of our colleagues around the world. I'm extremely proud of their
+hard work and accomplishments to-date. Our improved results are due in large parts of
+the team's tireless efforts coupled with their incredible focus, dedication and courage to
+make material changes and difficult choices, all of which have had positioned us well for
+the remainder of 2019.
+Looking ahead, we will continue to evolve our underwriting capabilities, streamline our
+operations, maintain expense control, and invest in people and strategies that will enable
+us to further strengthen relationships with our clients and distribution partners. While there
+is still much work ahead of us, we remain laser-focused on our longer-term goal of
+achieving underwriting excellence and sustained profitability. Our momentum is palpable
+and we will continue our disciplined approach to decision-making as we work to restore
+AIG as an industry leader.
+
+Bloomberg Transcript
+
+With that, I'll turn the call over to Kevin.
+
+Kevin Hogan
+
+{BIO 4650423 <GO>}
+
+Thank you, Peter, and good morning everyone. Life and Retirement recorded adjusted
+pre-tax income of $924 million for the quarter, and adjusted return-on-equity of 15%.
+Adjusted pre-tax income increased by $32 million from the prior year quarter. The primary
+drivers of this increase were capital market driven impacting acquisition costs through
+lower deferred acquisition costs amortization of $46 million due to rising equity markets in
+the quarter resulting in increased expected future fee income, and net investment
+income reflecting both higher returns on fair value option securities of $46 million driven
+by tightening credit spreads, and higher accretion income of $26 million reflecting interest
+rates declining in the quarter.
+Our earnings also benefited from non-recurring expense items and reserve refinements
+in our International Life business of approximately $25 million. These favorable impacts
+were partially offset by lower returns from alternative investments and lower fee in
+advisory income due to lower asset levels during the quarter driven by the market
+downturn at the end of last year. Prior year comparison also reflects a one-time bond
+payment recovery in the first quarter of 2018. Our full year expectations for adjusted pretax income, as well as our market assumptions have not changed. There could be some
+upside to our full year outlook should market conditions hold or improve.
+
+Page 6 of 21
+
+
+
+Bloomberg Transcript
+
+FINAL
+
+Company N ame: American I nternational Group I nc
+Company Ticker: AI G US Equity
+Date: 2019-05-07
+
+Keep in mind that declining equity markets and widening of credit spreads would
+accelerate deferred acquisition costs amortization and lower net investment income on
+fair value options securities, respectively. In addition, as on [ph] significant changes in the
+overall rate environment our current expectation is that base net spreads will decline by
+approximately zero to two basis points per quarter, at least through the end of this year.
+From a statutory perspective, we expect to generate solid earnings and for our strong
+year-end risk-based capital levels to improve over year-end 2018. Our team continues to
+do an outstanding job leveraging our broad product expertise and diversified distribution
+network to meet the evolving needs of our customers.
+In fact, LIMRA recently published 2018 results and we were ranked as the number one
+provider in total annuity sales reflecting our capabilities and balance across annuity lines.
+This is the first time we had held these positions since 2007. Although we are pleased
+with the results, I want to stress that our strategy is not about market share but instead to
+be in a position to compete at scale in each of our businesses. Our strong top line growth
+in the first quarter reflects the execution of our ongoing strategy. With favorable pricing
+conditions during the quarter we significantly grew fixed and indexed annuity sales. We
+also increased group retirement deposits, grew international life sales, and closed a large
+pension risk transfer transaction in the quarter.
+The pension risk transfer deal, which we recently announced, represented approximately
+$750 million of pension obligations. As with all such transactions, earnings will emerge
+overtime and the earnings impact during the first quarter was immaterial. We remain well
+positioned across our businesses to serve a growing market, enabling us to continue to
+deploy capital at or above our targeted economic returns, while recognizing we will incur
+some additional new business expenses associated with such growth.
+I will now talk briefly about the results for each of the businesses. For Individual
+Retirement, premiums and deposits grew by 30%. With these strong sales levels, we
+achieved positive net flows for the first time since the third quarter of 2016. Net flows for
+Retail Mutual Funds continued to be challenged. Retail Mutual Funds, which is a
+comparatively small part of our earnings, is a defensively positioned portfolio that is
+counter cyclical to our individual annuities and may continue to face headwinds in the
+current environment.
+Assets under management and related fee income decreased, driven by lower asset
+levels following the equity market decline in the fourth quarter. Net investment income
+increased primarily due to the market driven factors mentioned earlier. For Group
+Retirement, premiums and deposits grew by approximately 11% for the quarter, with
+higher group acquisitions in planned annuity contributions and individual product sales.
+Surrenders and other withdrawals increased, primarily driven by the loss of one large
+group due to the planned sponsor reducing the number of providers offered in it's plan,
+and higher individual surrenders and other withdrawals. We expect higher surrenders and
+other withdrawals to continue to negatively impact net flows, but it is important to note
+that the financial impact of outflows will vary based on product characteristics. For
+example, the impact will be lower if the outflow is from a higher guaranteed minimum
+interest rate annuity policy or from a lower margin group mutual fund offering.
+
+Page 7 of 21
+
+
+
+Company N ame: American I nternational Group I nc
+Company Ticker: AI G US Equity
+Date: 2019-05-07
+
+FINAL
+
+Despite facing negative net flows for a period of time, we've continued to produce solid
+earnings for this business and assets under administration are at the same level as the
+first quarter of 2018. After adjusting for accretion income and unusual items, new money
+rates are still below portfolio yields across our retirement portfolios, resulting in reduced
+but still attractive spreads in many products. Also in a rising rate environment, it may be
+appropriate for us to increase crediting rates for certain of our in-force business.
+For our Life Insurance business, total premiums and deposits and sales increased for the
+quarter, driven by strong sales growth in our UK Individual Protection Product line, as well
+as the addition of group protection sales with the acquisition of Ellipse. Our US Life sales
+declined as we deemphasized guaranteed universal life sales in the current interest rate
+environment. For our US Life business, we continue to make progress on making the
+necessary infrastructure changes to completely separate our operating model from
+Fortitude Re and to pursue possible transactions that would lead to deconsolidation in the
+future. Adjusted pre-tax income increased due to overall mortality experience which was
+within pricing expectations, positive reserve and reinsurance refinements, and lower
+operating expenses and commissions.
+
+Bloomberg Transcript
+
+Lastly, for Institutional Markets, as I mentioned earlier, we executed a large pension risk
+transfer transaction in the quarter, at attractive economics statutory and accounting
+returns. The market pipeline for pension risk transfer transactions over the next 12 to 18
+months continues to be robust. We also executed a GIC issuance of $250 million in the
+quarter. Overall, our institutional markets business continues to be well positioned to
+capitalize on available growth across it's product lines while remaining focused on
+achieving targeted returns.
+To close, we remain committed to our ongoing strategy to leverage our broad product
+expertise and distribution footprint and deploy capital to the most attractive
+opportunities, which we believe positions us well to help meet growing needs for
+protection, retirement savings, and lifetime income solutions.
+Now, I will turn it over to Mark.
+
+Mark Lyons
+
+{BIO 6494178 <GO>}
+
+Thank you, Kevin, and good morning all. So getting right into it; AIG's adjusted after-tax
+earnings per share was $1.58 for the quarter compared to $1.04 per share in the
+corresponding quarter of 2018. In dollar terms, AIG had $1.85 billion of adjusted pre-tax
+income and $1.39 billion of adjusted after-tax income. Book value per share excluding
+AOCI in the DTA increased $0.52 per share or nearly 1% as compared to the fourth
+quarter of 2018.
+As respect, adjusted return on common equity or ROCE, which also excludes AOCI and
+DTA, AIG returned an annualized 11.6% for the quarter and the segments achieved the
+following returns on attributed equity. General Insurance achieved a 14% return, Life and
+Retirement a 15% return, and Legacy at a 4.4% annualized return. AIG is now using the
+term return on common equity because this quarter we introduced some preferred into
+
+Page 8 of 21
+
+
+
+Company N ame: American I nternational Group I nc
+Company Ticker: AI G US Equity
+Date: 2019-05-07
+
+FINAL
+
+our capital structure. As respect, net investment income or NII, it should be noted that due
+to the markets rebounding from poor fourth quarter 2018 performance, this quarter had
+outsized gains and likes of which should not be viewed as recurrent across the next three
+quarters in 2019. As a result, I will begin my comments about NII across the company so I
+don't need to do so within each segment.
+Net investment income for the first quarter was $3.72 billion on an adjusted pre-tax
+income basis and $3.88 billion on a GAAP basis compared to $2.81 billion and $2.75 billion
+respectively in the sequential fourth quarter of 2018. This material improvement was
+predominantly due to the improving equity markets, tighter credit spreads and improved
+alternative investment performance but was also partially due to changes in accounting
+presentation by AIG, effective in the quarter in two ways. Firstly, AIG now recognizes
+changes in the fair value of loss in securities below the line, which is much more consistent
+with the vast majority of our peers. The impact of this geography change for the quarter
+was a reduction in net investment income of $79 million.
+
+Bloomberg Transcript
+
+Secondly, we reclassed NII that had heretofore been reported in the other income line of
+non-insurance subsidiary into the official net investment income line. The impact of this
+change with $116 million increase to the NII line this quarter, and it is hoped that this
+reclassification now removes a consistent source of confusion amongst the investor and
+analyst communities. It's important to note that this reclassification did not alter adjusted
+pre-tax earnings at all, simply geography.
+And I also want to point you to Pages 12 and 13 in the financial supplement, to see the
+historical quarterly impact of these two reclassifications. When assessing AIG's investment
+portfolio volatility and result in NII, we believe it's helpful to provide a summarized view,
+somewhat akin to the way our Chief Investment Officer thinks about the portfolio. This
+view looks at the portfolio as two broad asset classes; assets that are inherently fairly
+predictable and those that are inherently fairly volatile. The fairly predictable class is
+comprised of available-for-sale fixed maturity securities, mortgages and other loans and
+short-term investments, which totaled about $293 billion carrying value of assets, or
+approximately 91% of the portfolio.
+The other $29 billion of carrying value assets are fairly volatile and are comprised at fair
+value option securities, hedge funds, private equity, real estate and miscellaneous other
+investment. The fairly predictable assets provided about $12.5 billion of gross NII on an
+annual basis or about a 4.25% yield, whereas the fairly volatile assets have yielded NII of
+approximately 5.8% over the last five quarters of what you can see in this financial
+supplements, ranging from about 2% to over 9%. Therefore, just using the last five
+quarters as a simple volatility measure, the NII from the fairly volatile assets could range
+from nearly $600 million to $2.6 billion, annually.
+One must also reflect that there are annual investment expense of roughly $450 million
+that must be netted against us. The volatility shown in the fourth quarter of 2018 and the
+first quarter of 2019, implies that an overreaction to the fourth quarter's lower net
+investment income wasn't warranted and neither it's overreaction to the higher net
+investment income this quarter. It's nearly impossible to accurately forecast market
+
+Page 9 of 21
+
+
+
+Company N ame: American I nternational Group I nc
+Company Ticker: AI G US Equity
+Date: 2019-05-07
+
+FINAL
+
+performance over the balance of the year, and the simple framework we've just provided
+shows the difficulty in predicting short-term market performance.
+It's also important to recall that in the fourth quarter due to materiality, we recorded an
+$86 million pre-tax hit to income associated with hedge fund and Japanese equity mark
+usually recorded on a one-month lag. For the first quarter of 2019 forward, we are now
+recognizing hedge funds without any lag at all. So the first quarter it did indeed reflect a
+full three months of results, and therefore all current and future hedge fund commentary
+will center on that quarter's activities rather than containing one month in the prior quarter.
+The only remaining lagged investment recognition is for private equity holdings, which has
+a full one quarter lag.
+
+Bloomberg Transcript
+
+Nevertheless, the fourth quarter lagged results booked entirely in AIG's first quarter,
+contributed positive net investment income, highlighting AIG's positive selection benefit
+versus any broad applicable market index.
+Turning to General Insurance and as previously noted, the segment produced both a
+calendar quarter and accident quarter underwriting profit with an actual cat ratio of 2.7%
+this quarter versus 5.7% in the first quarter of 2018. The North America segment of
+General Insurance produced a 98% accident quarter excluding cats combined ratio within
+the North America commercial lines producing a 96.4% accident quarter ex-cats, which
+represents a 10.7 combined ratio point improvement over the first quarter of 2018.
+Although 1.8 points to this was due to expense ratio improvement, the 8.9 points of
+accident quarter loss ratio improvement can be largely attributed to the gross
+underwriting changes beginning to earn in along with the material reinsurance protection
+that Peter highlighted.
+The North American personal lines operation worsened this quarter, primarily due to
+increased frequency in the attritional loss ratio. The international segment of General
+Insurance produced a 94.5% accident quarter combined ratio ex-cats versus 96.8%
+comparable ratio in the first quarter of 2018. Both the commercial and the personal lines
+segment contributed improvement predominantly on the expense ratio side.
+Looking at the quarter from an AAL perspective, the 2019 full year AAL is estimated to be
+3.5%, and as Brian noted in his remarks, the combination of gross underwriting changes,
+most notably, the reduction in gross fire and associated parent limits, along with
+purposeful reductions in exposures, was complemented with a radically altered
+reinsurance program that provides critical and non-critical cat protection within many of
+the progress structures, along with the cat program that provides material vertical and
+horizontal, regional and global protection, which is also further enhanced with specific
+carve-out CAT program for our private client group in the United States.
+The combination of these front and back-end actions has provided material volatility
+containment at all upper return period levels, leading to a reduced AAL. My view of the
+first quarter's accident year results is therefore a 99.6% combined ratio, inclusive of AAL,
+and 98.8% accident quarter combined ratio inclusive of actual cats. As a result, we will be
+
+Page 10 of 21
+
+
+
+Company N ame: American I nternational Group I nc
+Company Ticker: AI G US Equity
+Date: 2019-05-07
+
+FINAL
+
+speaking of cats in the future only in terms of risk tolerance along with our measurement
+against that tolerance by various return periods and not focusing on AAL.
+Now shifting to the business mix in General Insurance; the overall quarter-over-quarter net
+written premium reduced by 2.3%, but some areas had large swings both up and down,
+as can be seen in the financial supplement. However, at a high level and excluding the
+impact of Validus and Glatfelter, and adjusting for the Fuji two-month lag elimination in the
+first quarter of 2018, net written premiums decreased approximately 17% after additionally
+adjusting for foreign exchange. Approximately one-third of the 70% reduction is
+associated with direct underwriting actions, and about two-thirds can be largely attributed
+to increased reinsurance spreadings.
+
+Bloomberg Transcript
+
+With respect to general operating expenses or GOE, the reduction was $237 million
+quarter-over-quarter when adjusting for Validus and Glatfelter since neither was part of
+AIG in the first quarter of 2018. This represents as Peter noted, a 240 basis point
+improvement in the GOE ratio quarter-over-quarter. As we stated on previous calls in
+General Insurance, and across the company more broadly, we continue to undertake a
+comprehensive review of workflows and process improvement opportunities, as well as
+overall expense levels.
+Turning to the prior year development, the quarter saw $74 million of net favorable
+development, with $72 million of this favorable developments stemming from General
+Insurance and $2 million favorable from the Legacy operations. There were no reserve
+deep dive into any specific line of business this quarter, but the actual versus expected
+review was uncomprehensively across our global operations. The result was that most
+areas had loss emergence either better or in line with expectation, so no material reserve
+changes would be necessary. The $74 million in net favorable development is mostly
+driven by the amortization associated with the deferred gain of the adverse development
+cover, namely $58 million and the remaining $16 million of General Insurance net bearable
+development which is scattered across many lines and regions.
+Additionally, with the revised underwriting and low per risk attachment reinsurance
+strategy, our historical reporting a net severe loss will no longer makes sense. So from
+now on will be commenting on attritional and cut losses only. Peter commented on
+General Insurance's achieved rate increases for the quarter and I'd like to additionally
+point out that for North American commercial in particular, the rate increases have been
+accelerating and the March increase alone averaged over 7% which is clearly an excess of
+loss trends and thereby providing additional margin expansion. Similarly, our monitoring of
+portfolio composition clearly shows the superior rate adequacy of new business relative
+to that of lost business, as well as improvements to the renewal books adequacy, this
+shift in overall portfolio rate adequacy provide additional lift for continued improved
+performance.
+Turning to the Life and Retirement segment, adjusted pre-tax income of $944 million
+represents a $32 million increase over the first quarter of 2018 and a $301 million increase
+sequentially over the 4th quarter of 2018. These results, as Kevin mentioned, translates to
+a 15% annualized return on average attributed common equity for the quarter. All the units
+reported an increase in the adjusted pretax income sequentially relative to the 4th
+Page 11 of 21
+
+
+
+Bloomberg Transcript
+
+FINAL
+
+Company N ame: American I nternational Group I nc
+Company Ticker: AI G US Equity
+Date: 2019-05-07
+
+quarter of last year. Individual retirement had stronger investment income and positive net
+flows for the quarter, but with based net investment spreads that are expected to
+experience a downward draft that Kevin highlighted. Group retirement net flows were
+negative due the slightly lower sequential premiums and deposits and sequentially higher
+surrenders in the growth. Group retirement business like others in the industry is exposed
+to client consolidations via mergers or by the reduction of providers offered in plans. The
+quarter saw favorable results from Life International operations and institutional markets
+for the second quarter in a row, if successful in the pension risk transfer space.
+Turning to legacy, adjusted pre-tax income was up $262 million sequentially in the 4th
+quarter of last year. But such comparisons are not overly meaningful given the nonrecurring loss recognition charge taken on certain cancer and disability A&H plant last
+quarter. However, the quarter's $89 million of adjusted FFO income translates into a 4.4%
+annualized return on attributed common equity. But given that the quarter experienced
+the already discussed investment rebound as well, our view of a 2% to 3% return for the
+full 2019 year remains valid. As respect tax, the effective tax rate is 22.5% for the quarter
+excluding discrete items applicable to adjusted pre-tax income. Including discrete items,
+the tax rate was 22.9%. As you know, the effective tax rate is updated each quarter using
+actual results then supplemented by re-forecast of the remaining quarters. And as always,
+the tax rate is heavily influenced this quarter by the geographic distribution of income by
+tax jurisdiction.
+Moving on to capital actions, we issued $1.1 billion of securities in the first quarter split
+between $600 million of 10-year debt with a 4.15% coupon, a $500 million of noncumulative preferred stock, with a 5.85% dividend. We did not repurchase any shares in
+the quarter so our Board authorization remains at $2 billion.
+With that I'll strength back over to Brian.
+
+Brian Duperreault
+
+{BIO 1645891 <GO>}
+
+Well, thank you, Mark. I think we can go to questions-and-answers. So first question,
+please.
+
+Questions And Answers
+Operator
+(Operator Instructions) Our first question now comes from Elyse Greenspan from Wells
+Fargo. Please go ahead, your line is open.
+
+Q - Elyse Greenspan
+
+{BIO 17263315 <GO>}
+
+Hi, thanks, good morning. My first question, going back to some of your comments on this
+call and on prior calls you made reference of all these underwriting changes and how
+they're beginning to earn. And I guess I'd like to get a better sense of the forward
+momentum. I know on last quarter's call, you guys had mentioned that the prior
+management teams go big strategy at AIG have resulted in multi-year policies that are
+Page 12 of 21
+
+
+
+Company N ame: American I nternational Group I nc
+Company Ticker: AI G US Equity
+Date: 2019-05-07
+
+still on your books in 2019. So, could you just give us a sense of the running off of those
+policies and how that could benefit to incremental underlying margin improvement as we
+go through the balance of 2019 and into 2020?
+
+A - Brian Duperreault
+
+{BIO 1645891 <GO>}
+
+FINAL
+
+Okay, Elyse. Well, Peter, I think you should take the...
+
+A - Peter Zaffino
+
+{BIO 15942020 <GO>}
+
+Okay. Hi, Elyse thanks for the question. There were a meaningful amount of long-term
+deals done in the core property book historically and when we had announced that we're
+changing underwriting guidelines, that was something we did not want to do going
+forward. But as you mentioned, it takes a little bit of time to earn out so we should see a
+meaningful reduction in long-term deals by the back half of 2019. So, I think as we back
+half '19 as we enter 2020 will have cut our long-term deals in half and we'll start to see
+the majority of the portfolio, increasing in terms of just annual 12-month deals.
+
+Q - Elyse Greenspan
+
+{BIO 17263315 <GO>}
+
+Bloomberg Transcript
+
+Okay, great. And then my second question, you guys referenced on strong strong prices,
+it seems like you guys saw in March really improving from the trend I guess. Could you just
+give us a sense on your forward view on pricing, and then as we think about pricing versus
+trend, can you give us a sense of when that could really start to earn and be beneficial to
+the margins you saw in the first quarter?
+
+A - Brian Duperreault
+
+{BIO 1645891 <GO>}
+
+I'm going to talk a little bit about this, and let Peter talk about the pricing itself. I just want
+to point out that, yes, this pricing, it's warranted needed. The whole industry is
+recognizing that. In our own case, we had other things we had to do to. So there's more
+things going on. Then just getting price on the portfolio and that is Peter said the selection
+process, getting the right risks on board, positioning ourselves properly in their program
+that attachment point putting the right limit out etc. So, a lot of that is causing the
+improvement on our portfolio and pricing is a component of it, unimportant component,
+but a component. Peter, do you want to go a little bit more into the pricing?
+
+A - Peter Zaffino
+
+{BIO 15942020 <GO>}
+
+Sure. I think we outlined a lot of it in the prepared remarks. I think what's happening, which
+is a little bit different is that we're seeing it across the board. It's in multiple lines -- I mean,
+certainly, Property has under-performed the most and so, whether it's cut capacity,
+attritional losses on how capacity has been deployed, we're seeing rate within the E&S as
+well as their many markets. So, that's I think going to be consistent throughout the rest of
+the year. We've seen in the financial lines. I think as we can participate in many lines of
+business and then in many parts of the program, we're seeing that momentum, as Mark
+mentioned in his prepared remarks, pickup in margin and we would expect that to
+continue throughout the year. So, it's a very orderly, meaning. It's one that is not just
+spiking in one line; it's across multiple lines and in a lot of parts of the world. So, I think this
+is something that's hard to predict how long it last but we are going to lead with -- again
+
+Page 13 of 21
+
+
+
+Company N ame: American I nternational Group I nc
+Company Ticker: AI G US Equity
+Date: 2019-05-07
+
+risk selection but also making sure we're getting paid appropriately for the limits that we
+put out and the risk that we're underwriting.
+
+FINAL
+
+A - Brian Duperreault
+
+{BIO 1645891 <GO>}
+
+Yes, this pricing isn't just the first-quarter phenomenon, it's been building through '18 and
+so, it will bleed in as we are in these premiums and as Mark pointed out, this seems to be
+some acceleration.
+
+Operator
+Our next question comes from Yaron Kinar from Goldman Sachs. Please go ahead, your
+line is now open.
+
+Q - Yaron Kinar
+
+{BIO 17146197 <GO>}
+
+Good morning, everybody. So two questions, first, I think in the press release, Brian, you
+talked about an expectation that this year will be profitable on both in the calendar year
+and as year basis. I was just curious, is that with catastrophes that your comment is based
+on?
+
+Bloomberg Transcript
+
+A - Brian Duperreault
+
+{BIO 1645891 <GO>}
+
+Well, with catastrophes, I can't tell you whether we're going to have a large catastrophe
+year, or a small catastrophe year. I mean we have this thing called AAL, which I did insert
+into the number and as I said, is 3.5. I don't really want to talk about it after that. I mean
+look at I think over a long period of time to be years where we have catastrophes years
+we don't. But on the average, we expect to make an underwriting profit and I expect to
+make an underwriting profit this year, but I can't predict whether it's going to be a big cut
+year or not, but I mean on some kind of an average basis, certainly, that is our belief, a
+very strong belief.
+
+Q - Yaron Kinar
+
+{BIO 17146197 <GO>}
+
+Okay. So, basically this comment is without using how it's still assuming some normalized
+catastrophe load?
+
+A - Brian Duperreault
+
+{BIO 1645891 <GO>}
+
+Well, we put in AAL in, I mean, I said we put in AAL in the first quarter and it was the
+arithmetic, it's under 100. You put in AAL for the whole year will be -- I'm saying we
+believe it will be under 100, but I can't tell you the actual cuts. That's my point.
+
+Q - Yaron Kinar
+
+{BIO 17146197 <GO>}
+
+Okay, appreciate it. And then my second question is on NII. So Mark, if I take the math for
+the sum of the parts of the that you weighed out, I get about $13.7 billion of NII for the
+year and I think that's a little bit above the $13 billion guidance that as I previously offered,
+so how should we think of NII on a normalized basis from here?
+
+Page 14 of 21
+
+
+
+Company N ame: American I nternational Group I nc
+Company Ticker: AI G US Equity
+Date: 2019-05-07
+
+FINAL
+
+A - Peter Zaffino
+
+{BIO 15942020 <GO>}
+
+Well, first off some features, would give you partial credit and some features just are
+binary and say yes or no. But I'll give you a partial credit on that. So, you reflected the
+$450 million of investment expenses I think gross to net. But you have to recognize that
+the original guidance of $13 billion did not include the re-class. And depending on whether
+you look at the last quarter where the request was honored $16 million or you look at a
+longer period of time where it's closer to $115 which would be $600 million, I would get
+closer to $13 billion to $13.3 billion [ph], if that's helpful.
+
+Q - Yaron Kinar
+
+{BIO 17146197 <GO>}
+
+Yes, but you also had a re-class of the equity fair value adjustment. Right?
+
+A - Peter Zaffino
+
+{BIO 15942020 <GO>}
+
+That's right.
+
+Q - Yaron Kinar
+
+{BIO 17146197 <GO>}
+
+So would get a 13 to (inaudible). Okay, so you get a 13 to 13.3 with both three classes?
+
+A - Peter Zaffino
+
+{BIO 15942020 <GO>}
+
+Yes, if you reflect that you will be approximately there.
+
+Bloomberg Transcript
+
+Operator
+The next question is from Paul Newsome from Sandler O Neill. Please go ahead, your line
+is open.
+
+Q - Paul Newsome
+
+{BIO 1541286 <GO>}
+
+Good morning. I was hoping you could talk a little bit about cat load volatility, just on a
+normalized basis there's been so much change with your business mix and reinsurance
+and the like and I guess I've been traditionally think of insurance companies is sort of
+having their the toughest cat quarter in the third, second through the second worst and
+maybe first and second is about the same. But do you think that AIG is going to follow,
+sort of the traditional pattern or with all these changes, do you think there'll be a
+difference in your normal cat load volatility from quarter to quarter?
+
+A - Brian Duperreault
+
+{BIO 1645891 <GO>}
+
+I would love to give this to somebody else. Everybody try this to start with. And so, I think
+there is -- yes, there is an inherent seasonality to cats because of the storm seasons,
+which are third and fourth quarter in the quakes can happen anytime. I mean, we've had
+whether in the first quarter winter storm losses winter storm losses etc. But, yes, by and
+large, say the first half would be a little lighter than the second half, that's just traditional. I
+don't think that's changing now, but you know, I don't -- first of all, I don't really want to talk
+about AALs anymore but anyway, we think about it as an annual number because you
+really have to think of it at least on an annual basis. Peter do you want to say some...
+Page 15 of 21
+
+
+
+Company N ame: American I nternational Group I nc
+Company Ticker: AI G US Equity
+Date: 2019-05-07
+
+FINAL
+
+A - Peter Zaffino
+
+{BIO 15942020 <GO>}
+
+So, the only thing I would add, Brian because the question was also around volatility and
+we use that word a lot in our scripts, but in addition to putting together a much more
+comprehensive program and in addition to making it an aggregate, our standard
+deviation in expected volatility around our different return periods has decreased by 50%.
+So while it's not certain, the expected value around whether it's a AALs, PMLs has
+reduced significantly in terms of what we think is going to happen. So, that is something
+that through the entire reinsurance design has been very beneficial and gives us more
+confidence.
+And one thing I would add into that, clearly, it's question, Paul is in my prepared remarks, I
+tried to show that for risk is also helpful in that regard. And that's the cat programs that
+we'll put in place, let alone the carve-out of DCG is materially better our vertical and
+horizontal protection regionally and globally. So, I think that helps with the containment,
+then I would ask you to not forget one thing we talked about last quarter, which was the
+way the gross underwriting changes earn in is because they started earlier is one due, but
+the reinsurance, mostly attached in the latter half of 2018. Some of that was risk attaching
+some of that in to the benefit of the of the cat program which is most occurring, but the
+point is, we'll look at increasing protection and volatility reduction as we go from quarter
+to quarter to quarter in 2019.
+
+Q - Paul Newsome
+
+{BIO 1541286 <GO>}
+
+Bloomberg Transcript
+
+Thank you. And then any updates on the capital management thoughts, there weren't any
+buybacks in this quarter but did raise some capital. Just wanted to see if there is any
+additional thoughts you have there?
+
+A - Peter Zaffino
+
+{BIO 15942020 <GO>}
+
+Now, if look we were largely blacked out first quarter. So, at the end of -- because of
+those offerings, you mentioned. So, I think we continue to look at it. My philosophy hasn't
+changed. I think it's an appropriate capital management tool. And as we go through the
+year, we will look at how we want to use that capital. And so, no, no changes there.
+
+Operator
+This question is from Josh Shanker from Deutsche Bank. Please go ahead.
+
+Q - Josh Shanker
+
+{BIO 5292022 <GO>}
+
+Good morning everyone. I was interested in understanding about the timing of the
+reinsurance purchasing for the remainder of the year. You had said about two-thirds of the
+reduction; I guess in the sum of AIG's invalid versus 1Q '18 premium year-over-year was
+related to reinsurance buying. Are you buying more reinsurance, which will have a similar
+effect in the quarters to come out or first quarter, the big by quarter? And then how does
+that affect expense ratio, as we go forward?
+
+A - Peter Zaffino
+
+{BIO 15942020 <GO>}
+
+Page 16 of 21
+
+
+
+FINAL
+
+Company N ame: American I nternational Group I nc
+Company Ticker: AI G US Equity
+Date: 2019-05-07
+
+Thanks, Josh. We have the only probably material impact that we foresee as of now is
+how the sort of casualty quota share will earn through the year for the US because that's a
+big session and one that just commenced on a risk attaching based in the first quarter so
+that was the most material. I don't believe that we will see any other material purchases
+on property. So, we've done a lot on the per-risk. As Mark mentioned on the aggregate
+we have done some facultative purchasing to make sure that we take out the volatility of
+our long-term deals on property and I don't think that as we look to the remaining part of
+the year we have thought about the impact of reinsurance and do not believe it will
+impact our expense ratio, as we head into the second and third quarters.
+
+Operator
+Our next question is from Ryan Tunis from Autonomous Research. Please go ahead.
+
+Q - Ryan J. Tunis
+
+{BIO 16502263 <GO>}
+
+Thanks, good morning question for Peter. Maybe Mark can now but severe assets. I know
+you're not disclosing those anymore, but could you give us some idea of how those ran
+here versus; I think $125 million was the expected level last year? And also, in terms of the
+GOE run rate is 839 this quarter in General Insurance, which is down about $50 million
+from 4Q levels, is that 839 number a pretty good one to use over the remainder of the
+year, do you think?
+
+Bloomberg Transcript
+
+A - Peter Zaffino
+
+{BIO 15942020 <GO>}
+
+So, let me comment on severe then I will turn it over to Mark. But in the quarter, we had
+less gross activity than if you looked at our multiple quarter average. But I think the bigger
+issue was just in terms of how we address the property per-risk and buying down and
+taking out volatility in addition to one of the areas of our business, which had a little bit
+more frequency on severity. We ended up working through a quota share to mitigate a lot
+of the volatility. So, I think it was -- one was the growth, but more importantly is what
+we've done to protect volatility to reinsurance. Mark, anything you want to add?
+
+A - Mark Lyons
+
+{BIO 6494178 <GO>}
+
+Yes, I would just say on the severe without getting into any specifics it was a very light
+view of it so it's, which is another reason, but the front end underwriting changes Peter
+talked about the reinsurance changes, it just changes the game, but there was nothing
+adverse on severe.
+
+A - Peter Zaffino
+
+{BIO 15942020 <GO>}
+
+Do you want to comment on the GOE?
+
+A - Mark Lyons
+
+{BIO 6494178 <GO>}
+
+The GOE, because the 839 year quoting incorporates Validus we attended two quarterover-quarter that excludes that you get apples-to-apples. So, it's probably a more realistic
+line but I think you should be thinking more in terms of ratio rather than on the dollar
+sense. We've had two consecutive quarters of GOE being 12.5% of earned premium and
+Page 17 of 21
+
+
+
+Company N ame: American I nternational Group I nc
+Company Ticker: AI G US Equity
+Date: 2019-05-07
+
+that can move a little bit as a function of miscellaneous items and accounting that could
+affect our premium and things like that, but that's probably the preferred way to look at it.
+
+FINAL
+
+Q - Ryan J. Tunis
+
+{BIO 16502263 <GO>}
+
+Okay. And then I just had a follow-up on -- We had on volatility, but curious on how you
+guys are thinking about volatility within the attritional loss ratio. So, if you have a view, what
+the central tenancies like say 63.1 you think is a good run rate, how many points away from
+that is one center deviation it could just be explained by adverse lack. Is it 1 point now, is it
+two points? Because like it companies like Travelers we're used to it being less than a
+point for quarter could be just explained by adverse activity. Are we at that point yet or
+could we still see two or three points swings often what you think you really running at?
+
+A - Mark Lyons
+
+{BIO 6494178 <GO>}
+
+So, couple of thoughts come to mind. One, I don't really look at it that way, I suppose, I
+could go back, but we have a massively diverse global geographic presence and different
+characteristics. The company you mentioned is much more of a frequency-driven a
+company and therefore more predictive. We have a lot of we're changing that mix to be
+much more mid and smaller but the in-force book still has a lot of severity characteristics,
+low frequency, high severity characteristics so I would say there's a fair amount, the
+reinsurance is going to contain that gives you asked a net loss ratio question. So, it's going
+to contain that more, but I would expect it to be wider than travel than Travelers.
+
+Bloomberg Transcript
+
+Operator
+Next question is from Andrew Kligerman from Credit Suisse. Please go ahead.
+
+Q - Andrew Kligerman
+
+{BIO 1551668 <GO>}
+
+Great, thank you. I just wanted to follow up on Paul's question about the buybacks and I
+understand you in blackout period, but given your debt to capital is pretty close to 30%, is
+it fair to assume that you probably don't want to do much by way of buyback for the
+balance of the year?
+
+A - Mark Lyons
+
+{BIO 6494178 <GO>}
+
+I don't want to predict anything here. Do I want to don't I want to I mean I think we have to
+go through it quarter-by-quarter and really understand uses of that capital. So, we have a
+buyback authorization in place, continues to be there to be used. I don't want to comment
+more than that.
+
+Q - Andrew Kligerman
+
+{BIO 1551668 <GO>}
+
+And then just with regard to the personal lines, so I know Mark earlier was talking about
+two-thirds of the normal -- when you take out the acquisitions etcetera premium were
+down -- net written premium were down 17%, two-thirds due to the reinsurance. And now
+just looking at the personal lines, North America down 6%, International down 12%; could
+you give us a sense of what the reinsurance component of that decline was and also you
+
+Page 18 of 21
+
+
+
+Company N ame: American I nternational Group I nc
+Company Ticker: AI G US Equity
+Date: 2019-05-07
+
+mentioned in the release, A&H premiums were lower, is there some competitive situation
+going on with that that's putting pressure on A&H?
+
+A - Brian Duperreault
+
+{BIO 1645891 <GO>}
+
+FINAL
+
+Peter?
+
+A - Peter Zaffino
+
+{BIO 15942020 <GO>}
+
+So on the personal insurance in the United States, our travel book; our warranty book
+came in exactly where we had thought it would in terms of combined ratio for the quarter;
+so we're really talking more about the high net worth book. And looking at the
+composition of that book, we not only had that contribute from the sort of global
+aggregate where we lowered our attachment point, we also bought more per risk, we
+also bought a specific cat program that has different attachment points depending on
+peaks zones for our high net worth book that we think will dampen volatility, and also
+allow us as we want to reposition in certain peak zones, the portfolio and accelerate our
+underwriting.
+
+Bloomberg Transcript
+
+We just hired a terrific individual, Cathleen Zortman [ph], who has decades of experience
+in driving high net worth portfolios, we're really excited she is joining us, and that will
+happen in the second quarter, and we'll begin to accelerate like we have on other
+portions of the portfolio and an improvement in terms of it's footprint, and the
+reinsurance is I think very responsible and it will respond well throughout the year
+depending on what happens in terms of cats.
+
+Q - Andrew Kligerman
+
+{BIO 1551668 <GO>}
+
+And so the question which -- how much of the.
+
+A - Peter Zaffino
+
+{BIO 15942020 <GO>}
+
+You shouldn't read anything on the A&H, it's a terrific portfolio, performance is very well in
+terms of it's combined ratio and a scenario where Brian and I very much want to grow our
+book, and we should take a longer-term view but it's an area where we think we'll have
+growth over the longer term.
+
+A - Brian Duperreault
+
+{BIO 1645891 <GO>}
+
+And we've stepped our.
+
+A - Peter Zaffino
+
+{BIO 15942020 <GO>}
+
+We just have named a global leader, Ed Leven [ph], and so he has joined us and we have
+a strategy in place and beginning to accelerate our growth, it will take some time but
+really excited about that portfolio and what it could mean for us long-term.
+
+A - Brian Duperreault
+
+{BIO 1645891 <GO>}
+
+Let me answer the one last question, and then we'll wrap it up. So operator, the last
+question, please.
+Page 19 of 21
+
+
+
+Company N ame: American I nternational Group I nc
+Company Ticker: AI G US Equity
+Date: 2019-05-07
+
+Operator
+Certainly. And this comes from Tom Gallagher from Evercore. Please go ahead.
+
+FINAL
+
+Q - Tom Gallagher
+
+{BIO 3311667 <GO>}
+
+Thanks. First question on P&C; you had big growth in specialty risk in terms of net
+premium written, just curious what kind of combined ratio that's being booked at? Is that
+going to add meaningfully to underwriting improvement as that earns in and can you just
+provide a little color what -- kind of what drove that significant growth?
+
+A - Peter Zaffino
+
+{BIO 15942020 <GO>}
+
+It was mostly the acquisition. We had Talbot and CRS, which is the crop and so that's in the
+specialty classes; and I'll look at Talbots say terrific syndicate and has very balanced
+portfolio with marine, specialty classes including energy, political risk and political violence,
+and we've been working very hard to determine what's going to fit within AIG, what's
+going to fit within the syndicate and do believe that that business will perform well over
+the short, medium and long-term and will contribute like Validus re has to our overall
+improvement in combined ratio. But it's very good and on a calendar year basis it
+performed quite well in the quarter.
+
+Bloomberg Transcript
+
+Q - Tom Gallagher
+
+{BIO 3311667 <GO>}
+
+Got you. And then, just a follow-up on net investment income; Mark, I was following the
+stable asset class returns versus the more volatile ones. And just looking at the $29 billion
+that you characterized as more volatile; if I'm looking at your guide for full year NII, I think
+that only would imply something like a 3% return on that $29 billion carrying value
+portfolio. And you have I think plenty of higher returning asset classes in there like private
+equity and alike. First off, is that right? And secondly, does that imply your $13.2 billion NII
+guidance is just conservatively assuming returns on that portfolio, can you provide some
+color on that? Thanks.
+
+A - Mark Lyons
+
+{BIO 6494178 <GO>}
+
+Well, first off Tom, the first question would be what period of time should you assess
+volatility? I purposely looked at something that worked for this since it's up which was
+current in four prior quarters or five quarters. That particular one averaged 5.8% over that
+period with a swing of 2% to 9% that shows you some of that volatility. So that's implying
+like another $1.7 billion on 5.8% basis, which to the 12.5% takes you to 14.2%; you got to
+take out the $450 million annually for investment expenses and then the re-class impact
+that wouldn't have been in there in the original guidance of $13 billion even. With -- and
+that composite gets you down to the $13 billion to $13.3 billion. But I think what question
+you have to answer for yourself is what's the proper volatility measurement, I just gave
+you an example of one.
+
+Q - Tom Gallagher
+
+{BIO 3311667 <GO>}
+
+Okay. Thank you.
+
+Page 20 of 21
+
+
+
+Company N ame: American I nternational Group I nc
+Company Ticker: AI G US Equity
+Date: 2019-05-07
+
+FINAL
+
+A - Brian Duperreault
+
+{BIO 1645891 <GO>}
+
+Very good, thanks Tom. So before we end the call, I want to thank everyone who dialed
+into your remarks. I'm approaching my two-year anniversary at AIG and I couldn't be
+prouder of what we're accomplishing at this great company. And I'm grateful for the
+tremendous support we are receiving across the industry, and I want to thank all our
+colleagues at AIG for their hard work, dedication and resiliency, and we still have a lot of
+work ahead of us, but our first quarter results demonstrate we are on the right path. So
+thank you very much. Have a great day.
+
+Operator
+
+Bloomberg Transcript
+
+Ladies and gentlemen, that now concludes today's conference call. Thank you for your
+participation, you may now disconnect.
+
+This transcript may not be 100 percent accurate and may contain misspellings and other
+inaccuracies. This transcript is provided "as is", without express or implied warranties of
+any kind. Bloomberg retains all rights to this transcript and provides it solely for your
+personal, non-commercial use. Bloomberg, its suppliers and third-party agents shall
+have no liability for errors in this transcript or for lost profits, losses, or direct, indirect,
+incidental, consequential, special or punitive damages in connection with the
+furnishing, performance or use of such transcript. Neither the information nor any
+opinion expressed in this transcript constitutes a solicitation of the purchase or sale of
+securities or commodities. Any opinion expressed in the transcript does not necessarily
+reflect the views of Bloomberg LP. © COPYRIGHT 2022, BLOOMBERG LP. All rights
+reserved. Any reproduction, redistribution or retransmission is expressly prohibited.
+
+Page 21 of 21
+
+

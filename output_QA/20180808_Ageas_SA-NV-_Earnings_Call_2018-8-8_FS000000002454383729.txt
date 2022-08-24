@@ -1,0 +1,1255 @@
+Company N ame: Ageas SA/N V
+Company Ticker: AGS BB Equity
+Date: 2018-08-08
+
+Q2 2018 Earnings Call
+Company Participants
+FINAL
+
+Antonio Cano, Chief Operating Officer & Director
+Bart Karel De Smet, Chief Executive Officer & Executive Director
+Christophe Boizard, Chief Financial Officer & Executive Director
+
+Other Participants
+Albert Ploegh, Analyst
+Ashik Musaddi, Analyst
+Bart Jooris , Analyst
+Farooq Hanif , Analyst
+Jason Kalamboussis , Analyst
+Matthias de Wit, Analyst
+Steven Haywood, Analyst
+William Hawkins , Analyst
+
+Bloomberg Transcript
+
+MANAGEMENT DISCUSSION SECTION
+Operator
+Ladies and gentlemen, welcome to the Conference Call for the First Six Months of 2018.
+I'm pleased to present Mr. Bart De Smet, Chief Executive Officer; Christophe Boizard,
+Chief Financial Officer; and Antonio Cano, Chief Operating Officer.
+For the first part of this call, let me remind you that all participants will remain on a listenonly mode, and afterwards, there will be a question-and-answer session. Please also note
+that this conference is being recorded.
+I would now like to hand over to Mr. Bart De Smet, CEO; and Mr. Christophe Boizard, CFO.
+Gentlemen, please go ahead.
+
+Bart Karel De Smet
+
+{BIO 16272635 <GO>}
+
+Good morning, ladies and gentlemen, and thank you all for dialing into this conference
+call. And for being with us for the presentation of the half year 2018 results of Ageas.
+I'm joined in the room by my colleagues of the Exec Committee, Christophe Boizard, our
+CFO; and Antonio Cano, our COO. Emmanuel van Grimbergen, our Group Risk Officer is
+
+Page 1 of 21
+
+
+
+Company N ame: Ageas SA/N V
+Company Ticker: AGS BB Equity
+Date: 2018-08-08
+
+FINAL
+
+replacing Filip Coremans, our Chief Risk Officer, who is excused today. And we have, of
+course, our Investor Relations team present in the room.
+Ladies and gentlemen, before going into detail of the six month results, I would like to
+start with highlighting the important events that occurred over the last couple of weeks.
+First of all, we now have clarity on the put option granted to BNP Paribas Fortis, which
+expired without it being exercised. We highly valued the long-lasting relationship with BNP
+Paribas Fortis Bank as distribution partner and as co-shareholder of AG Insurance.
+Secondly, the Group also received authorization from the regulator to operate
+reinsurance activities at the holding level, leading to higher fungibility of capital within the
+Group. And last but not least, the Fortis settlement has been declared binding, allowing us
+to regain full strategic and financial flexibility, and to help Ageas, its stakeholders and all
+those involved to draw a line on what has been an uncertain difficult period for everyone.
+
+Bloomberg Transcript
+
+As you have seen in a separate press release issued this morning, the Board of Directors
+has also decided to launch a new share buyback program of €200 million that will start
+next week. This is the eighth consecutive share buyback program showing our confidence
+in the Group's financial strength. By this time next year, we will have returned €1.8 billion in
+total to shareholders through share buyback programs.
+Let us now go into the six month results. Scope-on-scope, so excluding last year's €7
+million contribution from our Italian activities, our net insurance result increased by €38
+million to reach €475 million, up 9%, and this despite adverse weather events in Belgium
+and UK, which has an impact of €62 million and also €55 million lower support of net
+capital gains in the course of the first half of the year. The comparison with last year was
+furthermore affected by last year's €32 million change in reserve inflow interest rate in
+China, and the €31 million negative impact from Ogden in 2017.
+Altogether, this shows an improvement of the underlying result with some €90 million or
+24% compared to the same period last year. So it is fair to say that our insurance activities
+continue to perform very well. And barring unforeseen circumstances, we should be able
+to reach a net insurance result at the higher end of the €750 million (00:03:53) to €850
+million range.
+With respect to the dividend upstream from our operating companies, €600 million has
+already been upstreamed at the end of June, in line with our previous announcement.
+And this amount more than covers the dividend paid earlier this year, and the holding
+expenses, or in other words, an excess upstream of some €120 million that is added to
+our net cash position.
+Ladies and gentlemen, I will now hand over to Christophe for more details on the results.
+
+Christophe Boizard
+
+{BIO 15390084 <GO>}
+
+Thank you, Bart, and good morning, ladies and gentlemen. I propose to start with the
+Solvency II and III capital generation figures before going into details on the IFRS results of
+Page 2 of 21
+
+
+
+Company N ame: Ageas SA/N V
+Company Ticker: AGS BB Equity
+Date: 2018-08-08
+
+FINAL
+
+each segment. So, on slide 7, you will find the Solvency II figures. Let us start with the
+Insurance Solvency ratio. The Insurance Solvency ratio stood at 202%, an increase of 6
+percentage points.
+The good operational half year in the Solvency II scope more than covers the accrual of
+the expected dividends related to the IFRS results over the period; and this despite the
+negative impact from the weather events in Belgium and the UK. Its improvement was
+also supported by 5 percentage point following the increased fungibility of own funds as
+a result of obtaining the license to run reinsurance activities at the holding level, as already
+mentioned by Bart.
+The Group Solvency II ratio increased by 15 percentage point to 211%. This increase was
+driven by 10 percentage point of operational impact, more than covering the expected
+dividend. Next to this, there was a plus 7 point impact from the expiration of the put
+option granted to BNP Paribas Fortis, and minus 2% from the ongoing share buyback
+program.
+
+Bloomberg Transcript
+
+Regarding free capital generation, I am on slide 8. The operational free capital generation
+over the first six months amounted to €392 million on the Solvency II scope corresponding
+to the European entities. This includes €99 million dividend upstream from the nonEuropean NCP's. This leaves us for the European entities with a free capital generation of
+€293 million over the first half compared to €112 million at the end of Q1 of this year.
+You might recall that last year, we had €511 million operational free capital generation on
+our Solvency II scope companies corresponding to an average of €120 million to €130
+million a quarter. If you take into account, the management actions and risk mitigations
+with a decreasing effect on SCR, and the weather events in Belgium and in the UK
+affecting own fund, we can conclude that the underlying performance is well above the
+guidance indicated earlier.
+I would like to make one additional comment on the effect of the expiration of the put
+option on the free capital. As just mentioned, there is an immediate positive impact on
+our Group Solvency ratio of 7 percentage points. The impact on free capital is, however,
+less straightforward.
+Until now, we were obliged to consider from a solvency point of view to be the 100%
+owner of AG Insurance. This is no longer the case, and we are therefore, no longer
+obliged to cover the 175% of the full SCR on our own.
+Let me clarify with some concrete numbers. At 100%, AG Insurance has €6.7 billion of own
+funds and €2.9 billion of SCR. Based on our 175% target, this leads to a free capital of €1.7
+billion. 25% of these or €0.4 billion is for our co-shareholder. However, Solvency II
+regulations require us to deduct €1 billion as non-transferable own funds, but we consider
+that the difference, €0.6 billion can now be recognized as free capital.
+After these detailed explanations on the solvency and the free capital generation I
+propose to come back on the IFRS results.
+Page 3 of 21
+
+
+
+Company N ame: Ageas SA/N V
+Company Ticker: AGS BB Equity
+Date: 2018-08-08
+
+FINAL
+
+As you can see on slide 10, the net Insurance result for the first six months of 2018
+amounted to €475 million, which represents a 9% increase compared to last year scopeon-scope if we exclude our Italian operation, still consolidated last year. The result in the
+second quarter amounted to €176 million. The net result of the Life business increased to
+€373 million compared to €312 million last year, thanks to strong results in all segments
+and in particular an exceptionally high result in Ageas (00:10:51).
+The net result of the Non-Life activities decreased to €102 million compared to €133
+million last year due to the negative impact of €62 million related to the adverse weather
+in Belgium and the UK. Last year's results also included €7 million contributions from
+Cargeas, our former Italian operation.
+
+Bloomberg Transcript
+
+Total inflows increased slightly at constant exchange rate and exceeded again the €20
+billion threshold with strong inflow growth in Belgium, offsetting lower inflows in the UK. In
+Belgium, inflow growth outperformed the market in Non-Life, and in the Belgian Life
+activity we reversed the trend observed in previous quarter with strong growth, mainly
+thanks to unit-linked inflows considerably up year-on-year and driven by successful sales
+campaign. Inflows of the Asian non-consolidated partnership returned to growth at
+constant exchange rate during the second quarter, and this was the result of successful
+sales campaign and continued channel development.
+On the technical side, everything also remains on track as we experience solid operating
+results across all our segments with a strong guaranteed and unit-linked margin
+respectively at 110 bps and 28 bps. The group combined ratio stood at 97.8%. But as
+mentioned before, both in Belgium and in the UK, the first six months of this year were
+marked by poor weather impacting the group combined ratio by 4.7 percentage points. In
+other words, excluding the weather impact, the combined ratio would have been an
+excellent 93.1%.
+As usual, I will now give you a bit more details on each segment. In Belgium, slide 11, the
+net result stood at €220 million with a strong net result in Life at €181 million. It remained at
+the same high level as last year, despite a lower level of net capital gains. This reflects a
+strong technical performance with operating margin above target in guaranteed business
+and on target in unit-linked with respective value of 108 bps and 43 bps.
+The operating result remained in line with last year, marked by a better underwriting
+performance and supported by a high investment result. Similar to last year, the
+annualized impact of the capital gains is expected to level out over the remainder of the
+year. As mentioned, the Non-Life business was impacted by adverse weather in January
+and May, June for an amount of €29 million. The underlying performance continues to be
+strong, and excluding the weather events, the combined ratio would have been 93.1%
+with a lower level of prior year releases compared to last year.
+In the UK, slide 12, the situation continues to gradually improve, and despite a negative
+€33 million impact from bad weather, the net result amounted to €31 million compared to
+€11 million last year, helped by higher prior year releases. In a softening market
+
+Page 4 of 21
+
+
+
+Company N ame: Ageas SA/N V
+Company Ticker: AGS BB Equity
+Date: 2018-08-08
+
+environment, we continue to focus on pricing and underwriting discipline, which obviously
+weighed on inflows.
+
+FINAL
+
+In Continental Europe, slide 13, our net result went up 3% scope-on-scope, meaning
+without our Italian operation in 2017. Our operating performance remained solid in our Life
+business despite lower volumes while we delivered a strong performance in our Non-Life
+activities with a combined ratio at 91.6%.
+Finally, in Asia, slide 14, as mentioned before, we recorded an exceptional performance
+with a net result at €170 million compared to €113 million last year. This performance was
+driven by an exceptionally high first quarter result in China, which benefited from a
+positive evolution in the interest rate, partially offset though by equity impairments
+following the negative development of the China equity market during the second
+quarter.
+The net result of the General Account on slide 16 amounted to €34 million negative
+compared to €161 million negative last year, primarily driven by a positive revaluation of
+the RPN(I) for €9 million compared to a cost of €122 million last year, so a variance of €131
+million from 2017 to 2018. This brings the Group net result to €441 million compared to
+€284 million last year. The total liquid assets of the General Account stood at €1.8 billion,
+of which €0.9 billion remains ring-fenced for the settlement.
+
+Bloomberg Transcript
+
+Ladies and gentlemen, I'd like to end my comments here and to leave room for
+questions.
+
+Q&A
+Operator
+Ladies and gentlemen, we are ready now to take your question. The first question comes
+from Jason Kalamboussis from KBC Securities. Sir, please go ahead.
+
+Q - Jason Kalamboussis
+
+{BIO 4811408 <GO>}
+
+The first question is on Asia. If we exclude the realized gains, the result seems to be at a
+relatively good level in the second quarter on an underlying basis. And I would like your
+thoughts and comments on it, i.e., is it something that we should rely for the second half
+because at the end of the day, if we exclude the impairments, we are at above €80
+million? And also if you could remind us the realized gains and impairments notable in
+China, how does that work and if there is any difference with Ageas?
+The second question is on the General Account. Should we expect any legal costs relating
+to settlements in the second half ? And what should be a normalized level ex legal costs
+that we should use as a guidance for 2019?
+And the final question is if you could comment, I mean, rating agencies have given a
+positive outlook at Group level. So the three-notch difference with Insurance operation
+Page 5 of 21
+
+
+
+Company N ame: Ageas SA/N V
+Company Ticker: AGS BB Equity
+Date: 2018-08-08
+
+normally should at some point be reduced, notably now that you have put behind the
+whole litigation issue. Could you comment on that? When do you expect changes there?
+And how would that change? How you are going to run the Group and notably the
+reinsurance business? Thank you very much.
+
+FINAL
+
+A - Bart Karel De Smet
+
+{BIO 16272635 <GO>}
+
+Okay. Thank you, Jason, for the questions. The first one, we had indeed in Q2 and it could
+be part of the miss towards consensus, the €44 million impairments in China. The reason
+is that we use for impairment the Ageas rules which is as soon as it's minus 25% and so
+on, whereas local rules are less conservative. So, that also explains if you look through the
+local cost accounts of Taiping Group that you will see not the same figures as ours.
+So we, of course, cannot predict how the markets in China will evolve in the second half of
+the year, but we can, let's say, repeat our guidance that we expect for the Asian entity a
+total profit of €250 million plus. There, of course, with respect to China, you have to take
+into account that, for instance, the second half of the year is also a period where we
+already start preparing the next campaigns for the next year. So there might be some
+investments to further increase growth. But we are confident on the results in Asia, having
+one caveat and that is, of course, how markets will react and what the impact could be on
+the equity portfolio.
+
+Bloomberg Transcript
+
+Positive also to mention is that where we were far behind our, let's say, last year's figure in
+sales mainly in China. That is being fully recovered in the second quarter, and we are
+confident that we will further grow for growth in that region.
+The second half, yeah, on maybe last point in CTIH, we publish later in August. So you will
+have a bit more also view on, for instance, the commercial results of June, July.
+The General Account, the normalized cost level, we take and you can count on this
+something around €70 million on a yearly basis.
+
+A - Christophe Boizard
+
+{BIO 15390084 <GO>}
+
+Yes. Because there is almost no cost recorded during the first six months regarding
+litigations. So it's a clean General Account, I would say. Now the last question, on the rating
+implication. So, here, we expect some good news because the ambition is to gain three
+notches on the holding. So Ageas SA/NV presently rated by Standard & Poor's at BBB. And
+the ambition is to reach a full A level and with the following – for the following reasons.
+The first notch is gain through, I would say, the positive expectation on the proposed
+settlement and the homologation of the proposed (00:23:23) settlement. This would give
+us one notch.
+And then on the two additional notches, it relates to the reinsurance activities that we
+want to launch. So it means that the holding will become an operational entity, and our
+plan is to have the concept of core entity being recognized by Standard & Poor's. And in
+that case, the holding would benefit from the core entity rating of the group which is A
+like AG and like the UK. So three notches up, and you will guess that the benefits are
+Page 6 of 21
+
+
+
+Company N ame: Ageas SA/N V
+Company Ticker: AGS BB Equity
+Date: 2018-08-08
+
+FINAL
+
+really huge in term of financial flexibility, cost of financing for future financial operation,
+emission of sub debt or all these potential things. So the fact that we could reach this full
+A is really a key element for the financial flexibility. And if you have read the Standard &
+Poor's press releases, it was already preannounced. There was a press release from
+Standard & Poor's stating that there was a potential upgrade of three notches. So, that's
+not something that we are affirming on our side. This is also taken into account by
+Standard & Poor's.
+
+Q - Jason Kalamboussis
+
+Many thanks. Just a quick one on Asia, just as a follow-up. Do you find that with things that
+have changed in the market, structurally you would expect that the earnings or the
+underlying earnings are going to be better? So if I ever look through the second half and I
+look to next year, do you find that this is a genuine trend that is helping you and was this
+confirmed in the second quarter?
+
+A - Bart Karel De Smet
+
+Bloomberg Transcript
+
+{BIO 4811408 <GO>}
+
+{BIO 16272635 <GO>}
+
+Most important change in China already entered in the market beginning of the year with
+what you could call kind of a ban on low profitable single premiums. And if we reach at the
+end of Q2 almost the same volume as last year, it's, let's say, exclusively regular
+premiums and very strong, let's say, renewals where also – where, as I indicated,
+profitability is higher. This is good for the market, and we are quite confident that this will
+help us in the future profitability of that company. We also reach for the comparable
+insurers, in the meantime, a number four position coming from the eighth position some
+years ago. So we are growing stronger than the market. We are characterized by a very
+efficient sales force that is growing with, let's say, quality of sales that's high so that we
+have few lapses. So we are very confident on the future profitability of that market.
+
+Q - Jason Kalamboussis
+
+{BIO 4811408 <GO>}
+
+Thank you very much.
+
+Operator
+The next question comes from Bart Jooris from Petercam. Sir, please go ahead.
+
+Q - Bart Jooris
+
+{BIO 3470300 <GO>}
+
+Yes. Good morning. Some more general questions, if I may. Now that with the expiry of
+both the Fortis settlement and even maybe, let's say, an increase of your rating, you will
+have more free usage of the cash, you have more possibilities regarding growth
+investments or shareholder reimbursements. Does it change the way you look at things?
+Are you more actively studying certain sectors or certain countries? Could you give us an
+idea on that?
+And then on the opposite side, there was some rumors, if you may say, of a possible bet
+on Ageas by Fosun. Could you give us some insight at what that could mean for the JVs?
+Are there change of control clauses and then how do they work?
+
+Page 7 of 21
+
+
+
+Company N ame: Ageas SA/N V
+Company Ticker: AGS BB Equity
+Date: 2018-08-08
+
+FINAL
+
+A - Bart Karel De Smet
+
+{BIO 16272635 <GO>}
+
+Okay. With respect to the first part of your question, so I believe we can confirm today
+that we are a company that in the first time for the first place is looking to deliver on the
+promises which are to go for a strong, stable, increasing dividend with this clear dividend
+policy where we also try to go for further growth where, of course, mainly the Asian
+market is our growth engine and that we have – let's say, we want to have a stable
+solvency level and a cash position that permits us to keep flexibility, be it for further
+acquisitions or be it for, let's say, returning to shareholders. It's of course – your question is
+more than relevant with the expiry of the put option.
+So the potential use of the cash we had or a big part of that for the put option is off the
+table. So you could say that is cash that we can now use again for those two goals, M&A
+and/or returning to shareholders. And we will have on the 19 of September, let's say, the
+update of our strategy or the launch of a new two-year plan. We'll give more clarification
+on that. And capital management is, of course, part of that Investor Day.
+
+Bloomberg Transcript
+
+The second part of – and maybe I add also that, okay, the fact that we renewed buyback
+is also confirming that, okay, put or no put. Our strategy so far did not change. On the
+control clauses, indeed, we have a lot of joint ventures where you have change of control
+clauses, but we, for evident reasons, say also because the shareholders' agreements are
+not for publication of disclosure. We don't give details on disclosures, but you can, let's
+say, note that all of our joint ventures have a number of clauses with respect to change of
+control and what are then the consequences if that might happen. But we – okay, sorry for
+that, but we don't disclose this.
+This also, let's say, related to the rumor that we had earlier or even last week. That also
+we can confirm that a rumor is a rumor. In principle, we do not react on rumors and the
+only additional comment we have given is that we have not received any concrete
+indication of interest from Fosun with respect to Ageas. So, more than that, it's not – we
+cannot say.
+
+Q - Bart Jooris
+
+{BIO 3470300 <GO>}
+
+Okay. Thank you.
+
+Operator
+The next question comes from Matthias de Wit from Kempen. Sir, please go ahead.
+
+Q - Matthias de Wit
+
+{BIO 15856815 <GO>}
+
+Yes. Good morning and thanks for taking the questions. First on capital generation, I've
+got two questions. The first one is on the minorities. I think you disclosed it separately in
+Q1, but I don't think I'd find them again in Q2, so could you provide the share of minorities
+in the operational capital generation, please? And then secondly, also on capital
+generation, there is again an operational SCR released in Q2. I wondered if you could
+provide more details on that one. And then the third question is on liquidity and link to
+
+Page 8 of 21
+
+
+
+Company N ame: Ageas SA/N V
+Company Ticker: AGS BB Equity
+Date: 2018-08-08
+
+litigation. So now that everything is behind in terms of litigation, is there room to upstream
+the excess capital sitting in Belgium to the holding company? Thanks.
+
+FINAL
+
+A - Christophe Boizard
+
+{BIO 15390084 <GO>}
+
+I'll take your first question on capital generation and the treatment of minority interest. So
+I especially mentioned Q1, because in Q1, we were already of the opinion and we guess
+that there was a fair chance for the put not to be exercised. And we, I would say, prepare
+the ground. And if you go back to the disclosure at the end of Q1, we were still obliged to
+disclose a 100% roll forward. And because the free capital generation is backed by
+Solvency II where we are seen as owning 100% of AG at the (00:32:23) cost of the value
+of the put.
+But we isolated the – what belong, if I may say so, to the minority interest. And we tried to
+isolate what the Group share would be. And the Group share was precisely this €112
+million. So this €112 million correspond to 75% of ownership of AG, which makes it fully
+comparable to the figure we are releasing today. And so it's the reason why I especially
+mentioned this €112 million as a comparison, but it's a comparison on the same scope. So
+it is quite a valid comparison.
+
+Bloomberg Transcript
+
+Then the second part of your question was on the SCR release in Q2. It was – the main
+thing was that we took some management actions, and you referred to the €34 million,
+which is on slide 59 and also on slide 9, by the way. And so this is due to some reduction
+in risk and I'll give you two example. In the UK, there was something done on the balance
+sheet on the assets side to reduce the risk on some receivable.
+And then on the Intreas side, due to the fact that the weather impact is quite high this
+year, the Intreas team decided to buy additional protection during the year. You know that
+in the insurance sector, you can buy during the year additional covers with slightly higher
+prices. But if you buy additional cover, you suddenly had the impact in the SCR which is
+reduced because you are better covered. So the two main things are some protection on
+some asset receivable in the UK, and on Intreas, they bought an additional protection visà-vis exceptional events.
+
+A - Bart Karel De Smet
+
+{BIO 16272635 <GO>}
+
+Okay. The second question with liquidity link to litigation and more specifically the request
+or the question whether there's more room for upstream cash at the holding level. First of
+all, we have our solvency in capital management policy, which determines what dividends
+we expect to operate the companies to upstream depending on the solvency level. You
+have seen that this year, we already received €600 million. And we also mentioned in the
+press release and in the table as a footnote that we expect another €60 million from
+Malaysia and there will also still be a dividend going through Intreas. So we will be
+definitely above the €600 million which more than covers our dividend and corporate
+cost, and you could say that even gives an additional €120 million, €140 million cash to
+strengthen the cash position at the holding company level and, okay, what will now
+happen also after the reinsurance application, the rating changes and all these things give
+us some time to further work on this. But we will keep a strong solvency position in our
+operating companies also because we are market leaders in most of the countries where
+Page 9 of 21
+
+
+
+Company N ame: Ageas SA/N V
+Company Ticker: AGS BB Equity
+Date: 2018-08-08
+
+we are, and at the same time, be sure that there is sufficient cash upstream, let's say, to
+deliver on our promises with respect to dividend and with respect to buy back if there are
+no M&A files.
+
+Q - Matthias de Wit
+
+{BIO 15856815 <GO>}
+
+FINAL
+
+Okay. Thanks a lot.
+
+Operator
+The next question comes from William Hawkins from KBW. Sir, please go ahead.
+
+Q - William Hawkins
+
+{BIO 1822411 <GO>}
+
+Hello. Thank you for taking my question. Can you just remind us your target of being
+better than 97% combined ratio, how are you thinking about weather within that number?
+So if we take the, I think, 4.7 points that you have flagged for this half, should we take that
+to zero within the 97% or do you have a view about normal weather?
+
+Bloomberg Transcript
+
+And then secondly, could you talk a bit about the outlook for the UK in the second half of
+this year and into 2019? I think you talked on the first quarter about becoming a bit more
+focused on returning to growth to improve your economies of scale. If you're doing that in
+terms of being more price competitive, does that inevitably mean that there's going to
+be upside pressure to your combined ratio simply because you'll still be reserving
+conservatively with regards to Ogden or is there a compensating factor?
+And then lastly, could you just talk briefly about the meaningfulness in your view of the
+175% Solvency II ratio. I mean, you set that a few years ago. At that point, it seemed to be
+a more realistic target. You're now comfortably above that level. But many companies
+themselves kind of moving the goalposts in terms of thinking about that cushions for
+market sensitivity and other stuff like that. So, to what extent is the 175% actually a useful
+figure for us to take as a gauge? Thank you.
+
+A - Bart Karel De Smet
+
+{BIO 16272635 <GO>}
+
+The combined ratio, Antonio, you take that.
+
+A - Antonio Cano
+
+{BIO 16483724 <GO>}
+
+Your question, William, was what the impact is on weather on a combined ratio on a
+stable basis. I think if you look back, you could expect 2% to 3%, that will be a normal
+impact of weather and that's Belgium, UK, and Portugal. Your second question was on the
+outlook for the UK. So we are indeed growing again parts of the business. In the total
+numbers we showed to you, you will see that because they're part of the business where
+we're still kind of in a restructuring mode or coming back to profitability, and outlook for
+the UK remains what it was. I think at previous sessions we already indicated that for this
+year we aim at a result of about €60 million, 6-0 million euros, so we maintain that. And
+growth, there is a bit of growth, but expect that not to be huge certainly not this year,
+certainly also given the soft market in the UK.
+
+Page 10 of 21
+
+
+
+Company N ame: Ageas SA/N V
+Company Ticker: AGS BB Equity
+Date: 2018-08-08
+
+A - Bart Karel De Smet
+
+{BIO 16272635 <GO>}
+
+And so the combined ratio of 97% is indeed including a normal expected weather impact
+as Antonio said of 2% to 3%.
+
+FINAL
+
+A - Christophe Boizard
+
+{BIO 15390084 <GO>}
+
+So, on the target of 175%. So, first of all, let's not forget that it is still based – the target is
+still for the insurance activity. And I would like also to remind you, on the Investor Day of
+2015, all that this target has been set up, it is basically to be able to absorb a shock of 1 in
+30 (00:39:42) and that we are then still well above the 100% solvency capital
+requirement.
+Now for the rest, of course, we are very comfortable with the current level of
+capitalization at group level, at insurance level, but also certainly within our operating
+company. And as already mentioned, in September we have our next Capital Day, and
+there we will also give an update on our capital management.
+
+Q - William Hawkins
+
+{BIO 1822411 <GO>}
+
+Can't wait. Thank you.
+
+Operator
+
+Bloomberg Transcript
+
+The next question comes from Ashik Musaddi from JPMorgan. Sir, please go ahead. He
+hung up the line. So the next question comes from Steven Haywood from HSBC. Sir,
+please go ahead.
+
+Q - Steven Haywood
+
+{BIO 15743259 <GO>}
+
+Thanks very much. Just a quick follow-up and a couple of other questions as well. You
+mentioned that your weather impact is 2 to 3 percentage points of your combined ratio
+and normalized sort of impact throughout the year. And in the Q2, you had 2.3
+percentage points of adverse weather in it. Can you just confirm whether this is within
+normal limits, or is this on top of your – in addition to normal kind of 2 to 3 percentage
+points of weather?
+And then a couple of questions on your operational sort of capital impact. The €293
+million, I don't know if you addressed this early, but could you tell me whether this includes
+the 25% minority's amount as well, or if it – and if it now excludes this? And then also, on
+the €99 million dividend upstreams from your non-European NCP's, can you tell me where
+these have come from? Because I can only see China at €62 million and Thailand at €14
+million. Thanks very much.
+
+A - Bart Karel De Smet
+
+{BIO 16272635 <GO>}
+
+I'll take the first question on the combined ratio and clarify that a bit. So the 2% to 3%, that
+is a part of our 97% target. So within the 97%, you could expect 2% to 3% coming from
+weather events. You referred to that, after six months we're slightly – well, we are above
+2%. Bear in mind the reinsurance treaties that there are in place. There are various
+Page 11 of 21
+
+
+
+Company N ame: Ageas SA/N V
+Company Ticker: AGS BB Equity
+Date: 2018-08-08
+
+FINAL
+
+aggregate treaties in some companies. So as you build up weather-related claims, there
+is a point in time when you start (00:42:24) with the retention levels and then you will see
+no more net impact from the weather.
+Up until the six months, it was mostly within our retentions and there are a few treaties
+where we have reached retention levels, but it's not huge. Saying that, going forward for –
+certainly for Belgium, if we still would have another big flood or storms or whatever, that
+would mean mostly in the reinsurance treaties. I hope that clarifies it a bit.
+
+A - Christophe Boizard
+
+{BIO 15390084 <GO>}
+
+So Steven, on your free capital generation question. So on the first one, I can confirm that
+the €293 million is indeed after the deduction of the 25%. So it means that it is our share.
+After the expiration of the put, we are the owner of 75% of AG. So this figure corresponds
+to our holding of AG. So this is after deduction of the 25%.
+Then as regard to the NCP at €99 million, the lacking components are Malaysia where we
+received €16 million of dividend; and Turkey, €7 million. So you had China and Thailand, but
+we have Malaysia and Turkey as well, to be added in that case. If you adapt all these four
+numbers, you arrive at €99 million.
+
+Q - Steven Haywood
+
+{BIO 15743259 <GO>}
+
+Bloomberg Transcript
+
+Okay.
+
+A - Christophe Boizard
+
+{BIO 15390084 <GO>}
+
+And then on the – it was not precisely your question, but this €293 million relates to the
+European entities. And please take into consideration the fact that we have free capital
+generation under Asian business as well, and please refer to the footnote material. And
+here we can confirm that on the non-controlled participation with JVs from Asia in terms
+of free capital generation, we are very well on track with the guidance of around €250
+million.
+
+Q - Steven Haywood
+
+{BIO 15743259 <GO>}
+
+Okay. Thanks for the clarification. I appreciate that.
+
+Operator
+There are no more questions in the queue. We have a question from Farooq Hanif. Sir,
+please go ahead.
+
+Q - Farooq Hanif
+
+{BIO 4780978 <GO>}
+
+Just wanted to know in terms of the improved capital fungibility due to reinsurance. Is this
+going to change anything in terms of how you manage group liquidity or upstreams in the
+future? So, will we see kind of any immediate impact from that on cash flow?
+
+Page 12 of 21
+
+
+
+Company N ame: Ageas SA/N V
+Company Ticker: AGS BB Equity
+Date: 2018-08-08
+
+FINAL
+
+And also, going back to the points made earlier about your improving financial flexibility, I
+know you gave some sort of guidance around your debt-raising capability in the past
+when we were discussing potentially raising debt for the BNP option. Could you kind of
+update us on where you think that is now according to the S&P model, for example?
+Thank you.
+
+A - Christophe Boizard
+
+{BIO 15390084 <GO>}
+
+So on your first question on capital fungibility, so that's internal capital management
+because what we call reinsurance is more a financial operation, but based on quota share.
+What we will do is that we will take a share of the operation or the controlled entities
+within the holding. So it means that the dividend capabilities of the corresponding entities
+could be reduced – will be reduced, but we will have to add back what we will recognize
+directly within the holding. So all-in-all, there will be no change; no change. It's really an
+internal management of the group.
+In terms of group financial flexibility, what we have in mind is that there is room for
+additional leverage and our assessment is that it is around €1 billion from the – if you take
+the regulation about Tier 2 capability, we have additional room for €1 billion.
+
+Q - Farooq Hanif
+
+{BIO 4780978 <GO>}
+
+So that's based on the Solvency II regulation, presumably?
+
+Bloomberg Transcript
+
+A - Christophe Boizard
+
+{BIO 15390084 <GO>}
+
+Yeah. Yeah. Yes. Because we have limitations imposed by the Solvency II.
+
+Q - Farooq Hanif
+
+{BIO 4780978 <GO>}
+
+But just – I mean, presumably you...
+
+A - Christophe Boizard
+
+{BIO 15390084 <GO>}
+
+You have the capital credit under Solvency II. If you want to have the capital credit and to
+take that into account in your Solvency ratio, you obviously have to follow the Solvency II
+rules and you have limitations based on your Tier 1 amount, and this put limits on Tier 2.
+And with this, our very rough calculation is that the room we have is around €1 billion.
+
+Q - Farooq Hanif
+
+{BIO 4780978 <GO>}
+
+But to maintain the upgrade of notches of the holding, presumably you won't go to a full
+€1 billion. So I was wondering if there's another constraint that's...
+
+A - Christophe Boizard
+
+{BIO 15390084 <GO>}
+
+No. No. When I told you there is a potential upgrade of three notches, it is based on the
+present capital structure. So, this is a potential. If we want to increase the leverage, it's
+another discussion with the rating agency. But at this stage, we don't have the intention to
+raise this €1 billion of debt. So we will present our fight (00:48:24) to S&P with the present
+
+Page 13 of 21
+
+
+
+Company N ame: Ageas SA/N V
+Company Ticker: AGS BB Equity
+Date: 2018-08-08
+
+balance sheet structure, and it is where based on their capital model, we are, let's say –
+we are eligible – theoretically eligible to gain these three notches.
+
+Q - Farooq Hanif
+
+{BIO 4780978 <GO>}
+
+FINAL
+
+Okay. That's very kind. Thank you very much.
+
+Operator
+The next question comes from (00:48:48) from JPMorgan. Sir, please go ahead.
+
+Q - Ashik Musaddi
+
+{BIO 15847584 <GO>}
+
+Hi. This is Ashik Musaddi from JPMorgan. I'm just using Kunal's (00:48:55) line. Sorry, I had
+a – look, I was on the queue earlier, but missed it somehow. I have a few questions. So
+first of all, could you just remind us about your M&A? How do you see M&A at this point? I
+mean, in past you have mentioned that you would like to do something in Indonesian NonLife. So, where are we on that? And is there anything happening in Fidea, in Belgium? Is
+there something happening in Portugal, because still there is a lot of consolidation
+expected in Belgium, Portugal and your aspirations around M&A in Indonesia as well? Any
+thoughts on that would be great.
+
+Bloomberg Transcript
+
+The second thing is, you mentioned that it looks like you're still low on capital gains this
+year for Belgium compared to what you have done last year. So, shall we be expecting
+more cap gains in Belgium in second half or, give or take, you're done for this year in first
+half in Belgium?
+And the last bit is, I mean you're growing very rapidly in China. I mean, €12 billion flows is a
+pretty big number for first half. I mean, if I annualize that it's €20 billion, €25 billion a year.
+Do you ever get worried about such growth? I mean, is (00:50:07) relaxing some of the
+underlying behavior or they say, (00:50:12) underlying features of the product to deliver
+such a massive growth. Any thoughts on that would be great. Thank you.
+
+A - Christophe Boizard
+
+{BIO 15390084 <GO>}
+
+Thank you, Ashik, for the three questions. The first one, M&A. Okay, maybe summarize.
+When we look through the mature markets, our core markets, Belgium, Portugal, UK, we
+can say in Belgium, yes, we will look to whatever opportunity that permits us to increase
+our stake in Non-Life primarily, because we are at 25% plus market share in Life. So that's
+not really where we are looking for expansion in organic growth. And if Fidea would be a
+file that comes through the market, we will, in any case, have a look at that.
+In Portugal, okay, there are also indeed rumors indications that in the coming quarters one
+or more files might come to the market, as we have chosen Portugal to become our third
+home market after Belgium and UK. And we have been quite advanced in our
+transformation plan in Portugal. We also there will, in any case, look to those opportunities
+and see whether they can match also there again, primarily in Non-Life because also in
+Portugal in Life, we have a market share of more than 20%.
+
+Page 14 of 21
+
+
+
+Company N ame: Ageas SA/N V
+Company Ticker: AGS BB Equity
+Date: 2018-08-08
+
+FINAL
+
+The UK, for the evident reasons, we continue, as Antonio said, to first of all finalize the
+restructuring, which is really very well-advanced. And we will look how we can take up
+again with growth after two years of decline, growth in a smart way. So that's with Europe.
+If you then go to Asia, we indeed expressed already a number of years our interest for
+Indonesia. We have been looking to multiple files in the past and – or we declined
+because they were not fitting our financial criteria, or we sometimes also not withhold
+because we don't want to pay the price (00:52:24)
+So it's a difficult market to find a target that is giving us enough confidence that we can
+become, let's say, a top player in the market and also (00:52:37) conditions. So we
+continue to screen the market, but not an easy one. And then there are other countries in
+Asia where we are present or not present, where we continuously see how we can
+increase our footprint. But we will keep this discipline knowing that, okay, prices, if you
+really want to make it jump in the market, you probably have to, from time to time, pay a
+strategic premium. But we are, as you, I believe, have all seen in the past, we are not
+ready to do (00:53:13) decisions in this perspective.
+
+Bloomberg Transcript
+
+In Belgium, the capital gains, you can see – and it's on slide 25 in the pack, that we
+realized so far €79 million compared to €101 million last year. Part of our cap gains and/or a
+big part are always real estate. We can never, let's say, plan them in equal part per
+quarter. So you could say that compared to last year, you can expect a bit more in the
+second half than what we had last year. In the second half last year, we only realized, if I
+remember well, €6 million or €7 million in the second half. So I think you can count on a bit
+more.
+And then the last point on China, rapid growth. Okay, we can confirm that in any case the
+intention of our joint ventures, so as well our partner as ourselves to further invest in
+growth. So you can expect in the coming period a further increase of sales teams. As I
+mentioned earlier in the call, coming from a number eighth position some years ago, I
+think last year we were sixth. In the meantime, we're number four in total premium in
+commercial, not in new business.
+So first of all, we see that our company is – locally there, is very well equipped to recruit
+thousands – I would even say, ten thousands of agents in a short period of time to train
+them very efficiently and also to be very selective after three and six months to, let's say,
+take out those agents that are not productive.
+So it's impressive, the growth we make there, as well the number of sales as in premium
+income. But I can assure you that it's done in a very, let's say, disciplined and measured
+way. So we feel comfortable with that and don't see that as a specific risk.
+
+Q - Ashik Musaddi
+
+{BIO 15847584 <GO>}
+
+Okay. That's very clear. Thank you.
+
+Operator
+
+Page 15 of 21
+
+
+
+Company N ame: Ageas SA/N V
+Company Ticker: AGS BB Equity
+Date: 2018-08-08
+
+The next question comes from Jason Kalamboussis from KBC Securities. Sir, please go
+ahead.
+
+FINAL
+
+Q - Jason Kalamboussis
+
+{BIO 4811408 <GO>}
+
+Yes. Hi. Just a quick follow-up on the combined ratio in Belgium. You had – I mean, I can
+appreciate that you have lower reserve releases versus last year, but you had in the
+second quarter relatively large reserve release, I think above 10%. But you also mentioned
+that – and I'm not sure if I understand it well that you had reserve strengthening still in
+workers' compensation. So if you could give a bit more color there, that would help.
+And the second thing is, there is an – the expense ratio in the UK and Continental Europe
+has been increasing over the last year. Are there any main reasons behind it? I know
+you're expecting it to be a bit lower as you're going to the second half.
+
+A - Christophe Boizard
+
+{BIO 15390084 <GO>}
+
+So I think your first question was on the combined ratio of Belgium and in particular, the
+workers' comp, lower releases from previous years. There's nothing really specific there.
+It's a business line where there isn't had any (00:56:44) some volatility. And if I remember
+well, it was a specific type of contract where we had a review of reserves, but it's nothing
+really very, very special. I would say, it's part of the normal volatility.
+
+Bloomberg Transcript
+
+Q - Jason Kalamboussis
+
+{BIO 4811408 <GO>}
+
+Okay. But do you still have much larger releases in other businesses presumably, because
+you're making up for that, and also it was like a high release – prior-year reserve releases
+quarter?
+
+A - Christophe Boizard
+
+{BIO 15390084 <GO>}
+
+No, the releases are not really managed in a global way. So (00:57:16) product by product.
+So the fact that in one product there is a higher or a lower release, will never impact the
+way that the other releases are managed.
+
+Q - Jason Kalamboussis
+
+{BIO 4811408 <GO>}
+
+Okay. Thank you.
+
+A - Christophe Boizard
+
+{BIO 15390084 <GO>}
+
+So, there's nothing really – there's no real story behind that. The second question was on
+the combined – no, on the expense ratio for Continental Europe and the UK, I believe? I
+think for Continental Europe...
+
+Q - Jason Kalamboussis
+
+{BIO 4811408 <GO>}
+
+Yes, which increased over the last year or so. How do you see that progressing over the
+next 6 months (00:57:50) 12 months?
+
+Page 16 of 21
+
+
+
+Company N ame: Ageas SA/N V
+Company Ticker: AGS BB Equity
+Date: 2018-08-08
+
+A - Christophe Boizard
+
+{BIO 15390084 <GO>}
+
+I think Continental Europe, you are probably comparing a slightly different scope because
+last year at Cargeas,...
+
+Q - Jason Kalamboussis
+
+{BIO 4811408 <GO>}
+
+FINAL
+
+Correct.
+
+A - Christophe Boizard
+
+{BIO 15390084 <GO>}
+
+...our Italian operations were included there, which was like really a bancassurance type of
+operation which typically had lower expense ratios. So now actually you are looking at just
+Portugal which still has a higher expense ratio. So their work is ongoing, particularly to
+make the business we bought from AXA more and more efficient (00:58:22) potentially
+also bancassurance business, that's a very efficient business.
+In the UK, the expense ratio is really about to drop in both premium income, so your net
+earned premium goes down. And also (00:58:38) other income and commissions or
+ancillary income, that would typically kind of correct for in our expenses. So we'd also see
+a drop the last two years of this ancillary income and that has also an impact on the
+expense ratio. But we're working hard in actually resizing the operations in the UK to fit
+the current volume levels (00:59:06) business we want to have in the future.
+
+Q - Jason Kalamboussis
+
+{BIO 4811408 <GO>}
+
+Bloomberg Transcript
+
+Okay, great. Thank you very much.
+
+Operator
+The next question comes from Bart Jooris from Degroof Petercam. Sir, please go ahead.
+
+Q - Bart Jooris
+
+{BIO 3470300 <GO>}
+
+Yes. Thank you for taking some follow up questions. Coming back a little bit on Asia, and
+some of these things have been said, the second quarter, you had the impairments, you
+also made up for a large part in your gross inflows regarding, okay, the loss of the single
+premiums in the first quarter. So, I assume you had quite some more commission
+expenses, given that Q2 inherited is a low figure.
+If we take Q2 just as a run rate, that is for the following quarters, we already arrive above
+your guidance. So, could you give any comments on that? Because despite – in case there
+are no, let's say, dramatic stock exchange movements in Asia, you should exceed your
+guidance rather easily, I think this year. And then secondly, is there any update on the
+Ogden rate discussion in UK?
+
+A - Bart Karel De Smet
+
+{BIO 16272635 <GO>}
+
+Okay. Asia, if you take the Q2 result, which was €46 million, as mentioned, we have
+something like €44 million negative on cap gain. So, you could say you are more in
+Page 17 of 21
+
+
+
+Company N ame: Ageas SA/N V
+Company Ticker: AGS BB Equity
+Date: 2018-08-08
+
+FINAL
+
+underlying of €90 million. We keep the €250 million guidance as being, let's say, what we
+normally – and I think your words – that maybe easily should achieve. But reminds a
+number of elements. First of all, we are not sure what the markets will do in the coming
+months. So you have the trade war and the potential consequences on stock exchange.
+That's also what partly hit us in Q2.
+In a country like Malaysia, our result is already, to a certain extent, impacted by IFRS 9. So
+also there, the durations in markets have an impact on the – our IFRS profit. And then you
+have what you already commented a bit, the fact that we will have investments and
+further growth in China in the coming two quarters, so that will also have a kind of a
+dampening effect on the profits.
+So, it is – if you look to last year, we were at under €13 million profit in Asia after six
+months, and we ended the year in more than €290 million. We are now at €170 million, so
+we are indeed very confident that, €250 million is reachable, and with no doubt, not
+hesitate to do better. On Ogden, Antonio?
+
+A - Antonio Cano
+
+{BIO 16483724 <GO>}
+
+Bloomberg Transcript
+
+In Ogden, we can be very brief (01:02:15). And so, we hope and support that this gets
+resolved as soon as possible. But looking at the legislative calendar of the UK, where we
+already said, I think at previous calls that we did not expect any change in 2018, so
+definitely not. So, we hope that somewhere in 2019, this might be done. And more than
+that, I cannot say. I will just repeat what I said other times, don't hold your breath for now.
+
+Q - Bart Jooris
+
+{BIO 3470300 <GO>}
+
+Okay. Thank you.
+
+Operator
+The next question comes from Albert Ploegh from ING. Sir, please go ahead?
+
+Q - Albert Ploegh
+
+{BIO 3151309 <GO>}
+
+Yes. Good morning, and thank you for still taking my questions in the call. Two from my
+end, first of all, on the share buyback, I know you delivered clearly on expectations. But I
+guess, it must have been in a way an economically more difficult decision to continue at –
+with the same program given simply what the share prices, and if I simply look at metrics
+like book value.
+So how do you look at that decision in the light of what the share price is? And then
+maybe you already alluded to something of new flexibility that has been obtained, and
+then what we can expect on the Capital Markets Day in terms of, let's say, special
+distributions. Maybe you can already give us some kind of preview there?
+And the second question is on the BNP decision not to exercise the put. I remember, you
+saying that you tried to start some dialog before June 30. So (01:03:58) been any form of
+
+Page 18 of 21
+
+
+
+Company N ame: Ageas SA/N V
+Company Ticker: AGS BB Equity
+Date: 2018-08-08
+
+discussion with BNP? And if not, yeah, what do you think the reason simply was for BNP
+just to lapse the put, because I still believe, it would have been an excellent way for you
+guys to redeploy capital and to use the balance sheet? Thank you.
+
+FINAL
+
+A - Bart Karel De Smet
+
+{BIO 16272635 <GO>}
+
+With respect to the share buyback, of course, we took the process as we did it in the
+past. However, we have the timing in our board with half year results where we present
+and discuss our half year results. We come out of management with a (01:04:39) proposal
+for a buy back where we look at, of course, the cash position. We look at our solvency
+position. We also look through the economic environment then, and in all honesty, there
+are maybe a bit more uncertainties in the markets than what we had in previous years. But
+we also look to – well I would say that the return on equity of a program. And it's clear that
+the return on equity of the program, with the current share price, is lower than what it
+was, let's say, the first time or even a number of previous years.
+
+Bloomberg Transcript
+
+And so, all these elements together brought us to a decision to re-launch share buyback,
+because it's still considered a much better investment than keeping the cash as such. And
+also, let's say, by a lack of immediate M&A files, where we have to put the money on the
+table. So, all these elements together brought us to a decision on new buyback of €200
+million.
+We will, of course, again, and sorry to repeat that, but in our Investor Day, I gave clearance
+on our view on this for the coming three years. The put option, first of all, it was an option
+that was granted to BNP. So, they had the choice to exercise or not. I think, we always
+have been talking with BNP locally, with the headquarters in Paris on a number of topics.
+Of course we sometimes (01:06:19) to the put option, but there never have been difficult
+or a harsh or even discussions on whether to exercise or not. It was fully up to them to
+take a decision. And we were correctly informed at the moment that the expiry date was
+there. That they – have not the intention to exercise. And so, I think both parties are happy
+with that decision. It clarifies something, so we don't have this uncertain element
+anymore, not now, never anymore because there is no kind of renewal of an option.
+So, they are a 25% shareholder. They also, by doing that, somewhere showed their belief
+in AG Insurance and also believe in the value of distribution agreement, the distribution
+agreement that is now, you could say, a kind of a perpetual agreement with a notice
+period of two years.
+So, the end date of – end of 2020 is not valid anymore because it's every day moving up
+for at the earliest three years from the day of the potential decision to cancel the
+agreement. But also there, we can confirm that there is no indication at all that our
+important distribution partner in Belgium being BNP Paribas Fortis Bank would not be
+happy with the way we first of all work together, okay, pay decent commissions for good
+products with good service. And I think, you already are invested in a company that has a
+good solvency position and pays a nice dividend. So, I would say everybody seems to be
+happy.
+
+Q - Albert Ploegh
+
+{BIO 3151309 <GO>}
+Page 19 of 21
+
+
+
+Company N ame: Ageas SA/N V
+Company Ticker: AGS BB Equity
+Date: 2018-08-08
+
+Okay, thank you. Thank you very much.
+
+Operator
+
+FINAL
+
+As there are no further question, I would like to return the conference call back to the
+speakers; Mr. De Bart and Mr. Boizard (01:08:21)?
+
+A - Bart Karel De Smet
+
+{BIO 16272635 <GO>}
+
+Okay. Ladies and gentlemen, thank you for your good questions. To end this call, let me
+summarize the main conclusions. Over the past couple of weeks, major milestones have
+been reached with almost all the legacy stocks (01:08:37). We witnessed also a
+commercial turnaround in Asia in particular, in China and returned to growth in Life inflows
+in Belgium. The Insurance net result is strong despite adverse weather and substantial
+lower support from net capital gains. We showed a continued solid operating
+performance across all segments with UK making encouraging progress. The Solvency II
+ratio for Insurance and the Group is strong, well-above target. And we also showed a
+strong operational free capital generation.
+
+Bloomberg Transcript
+
+And finally, we launched eighth consecutive share buyback program of €200 million. One
+last thing, another day to keep in mind is the 19th of September, Wednesday, where we
+will host our Investor Day in London. On that occasion, we will update you on our new
+strategic plan for the future following the successful completion of our Ambition 2018
+plan.
+Now, with this, I would like to bring this call to an end. Don't hesitate to contact our
+Investor Relations team should you have outstanding questions. Thanks for your time. I
+would like to wish you a very nice day and for those who still have it in front of them, a
+good holidays. Goodbye.
+
+Operator
+Ladies and gentlemen, this concludes today's conference call. Thank you very much for
+attending. You may now disconnect.
+
+This transcript may not be 100 percent accurate and may contain misspellings and other
+inaccuracies. This transcript is provided "as is", without express or implied warranties of
+any kind. Bloomberg retains all rights to this transcript and provides it solely for your
+personal, non-commercial use. Bloomberg, its suppliers and third-party agents shall
+have no liability for errors in this transcript or for lost profits, losses, or direct, indirect,
+incidental, consequential, special or punitive damages in connection with the
+furnishing, performance or use of such transcript. Neither the information nor any
+opinion expressed in this transcript constitutes a solicitation of the purchase or sale of
+securities or commodities. Any opinion expressed in the transcript does not necessarily
+reflect the views of Bloomberg LP. © COPYRIGHT 2022, BLOOMBERG LP. All rights
+reserved. Any reproduction, redistribution or retransmission is expressly prohibited.
+Page 20 of 21
+
+
+
+Bloomberg Transcript
+
+FINAL
+
+Company N ame: Ageas SA/N V
+Company Ticker: AGS BB Equity
+Date: 2018-08-08
+
+Page 21 of 21
+
+

@@ -1,0 +1,1034 @@
+Company N ame: M uenchener Rueckversicherungs-Gesellschaft AG in M uenchen
+Company Ticker: M UV2 GR Equity
+Date: 2021-11-09
+
+Q3 2021 Earnings Call
+Company Participants
+FINAL
+
+Christian Becker-Hussong, Head, Investor and Rating Agency Relations
+Christoph Jurecka, Chief Financial Officer
+Unidentified Speaker
+
+Other Participants
+Andrew Ritchie , Analyst
+Darius Zekauskas, Analyst
+Ian Pearce , Analyst
+Michael Haid, Analyst
+Thomas Fossard, Analyst
+Vikram Gandhi, Analyst
+Vinit Malhotra, Analyst
+Will Hardcastle , Analyst
+
+Bloomberg Transcript
+
+Presentation
+Operator
+Good day and welcome to the Munich Re Quarterly Statement as of 30th of September
+2021 Conference Call. Today's conference is being recorded. At this time, I would like to
+turn the conference over to Mr. Becker Hussong. Please go ahead.
+
+Christian Becker-Hussong
+
+{BIO 19080254 <GO>}
+
+Thank you, Saskia. Hello, everyone. Good morning and a warm welcome to our call on
+Munich Re's Q3 Earnings Release. Today's speaker is our CFO, Christoph Jurecka. The
+procedure is very simple, straightforward, Christoph will kick it off with his introduction and
+then we will go right into Q&A.
+So, no time to lose, Christoph. The floor is yours.
+
+Christoph Jurecka
+
+{BIO 17223019 <GO>}
+
+Thank you, Christian. Well, good morning also from my side. It's a pleasure to present the
+Q3 results this morning. Q3 was a heavy nat cat quarter which was dominated by two
+major events, Storm Bernd and Hurricane Ida. These two events accounted fully insured
+market loss of almost $50 billion with Ida alone standing out at around $35 billion
+according to our own assessment.
+Page 1 of 18
+
+
+
+Company N ame: M uenchener Rueckversicherungs-Gesellschaft AG in M uenchen
+Company Ticker: M UV2 GR Equity
+Date: 2021-11-09
+
+FINAL
+
+This fits into a series of above average major losses including COVID-19 in the last five
+years. As a consequence, reinsurance have been increasingly scrutinized by capital
+markets as regards to the appropriateness of the internal models and partially perceived
+underestimation of climate change risks. Therefore, before I start with my usual remarks
+on our quarterly result, I would like to take the opportunity to speak about how many
+relooks at these topics based on the slide deck included in our Q3 presentation starting
+on Page 19.
+Climate change is not a new phenomenon for us. We have been a pioneer in the research
+of climate change for almost 50 years. We recognized quite early the relation between
+global warming and the risk of extreme weather-related events. This impact is not uniform
+and there are significant differences across regions and perils.
+
+Bloomberg Transcript
+
+To narrow these risks, we permanently incorporate new data into our internal risk and
+pricing models. And as risks are constantly changing, we also reflect forward looking
+findings and incorporate latest academic research. This in particular holds true for our 35
+peak risk scenarios, but also what we call non-peak risks.
+In total as you can see on Slide 21, I mean if remodels more than 100 risk scenarios on the
+basis for less impactful risks is somewhat less sophisticated compared to peak risks,
+which are driving our exposure management and economic capitalization. It is important
+to add here that depending on where we stand in the market cycle the theoretical prices
+cannot always be implemented in the market. Therefore exposure and cycle
+management as well as underwriting our decisive factors for the profitability of our book.
+For example, we have been traditionally very cautious with regard to frequency or
+aggregate covers and we still are.
+One example of our peak risks is flat Germany as shown on Slide 22; by the way, a risk
+which we have been modeling for quite a long time even though the flat in July was the
+costliest nat cat event in Germany history, we deem a flat loss of that order of magnitude
+to happen about once every 50 years. While the aggregate loss is consistent with our
+model, the regional distribution of losses is much more difficult to model also due to
+climate change driven developments like the increased risk of severe rainfall in local
+areas.
+Now how can we respond? First of all, it's our responsibility to help the people affected
+and support rapid reconstruction. At the same time, preventive measures have to be
+taken in addition to stricter rules defining the use of land. As there are still many
+households without flood coverage, this insurance gap has to be closed with primary
+insurance and related reinsurance cover, but only at risk adequate prices. Capital to cover
+these perils is sufficiently available in the market.
+On Page 23, you can see an example for non-peak risk. Wildfire is a risk where the impact
+of climate change is clearly visible today. As you can see in the chart, there is a positive
+correlation between global warming and the frequency and severity of wildfires in
+California. Does this mean we don't write wildfire risk anymore? No, it doesn't. We have
+
+Page 2 of 18
+
+
+
+Company N ame: M uenchener Rueckversicherungs-Gesellschaft AG in M uenchen
+Company Ticker: M UV2 GR Equity
+Date: 2021-11-09
+
+FINAL
+
+been analyzing this trend for quite a while, investing a lot of effort to improve our internal
+wildfire model. The increased risk is reflected in our pricing.
+And in addition, we've adjusted our underwriting approach and have a much more
+selective risk appetite with a focus on rate adequacy. If you compare the actual nat cat
+losses with our expectation, you'll notice that there is a certain fluctuation around the
+expectation every single year. Looking at the 10-year moving average as shown on Page
+24, this average meets our current expectation pretty well.
+Comparing last year to this year, sometimes it's just a matter of a few miles in the track of
+a hurricane whether a market loss ends up at $10 billion or multiple times higher. In the
+short term, the randomness of events and the specifics of the affected areas are much
+more relevant for the loss amount than climate change.
+
+Bloomberg Transcript
+
+In this context, it is important that we can reprice most of the cat business annually and
+thus response to any change in the risk assessment in a timely manner. The last couple of
+weeks, we were frequently asked if our expectation of around 8% nat cat losses is still
+appropriate given climate risks and the recent uptick in losses.
+As you can see on Slide 25, the 8% based on the probabilistic bottom up analysis of our
+current portfolio, considering the peril-specific impact for man-made climate change and
+factors of natural climate variability, such as the variation of sea surface temperatures in
+the North Atlantic Ocean. We also come through the changing regulation and social
+inflation such as building standards and demand surge. Even though we've expanded our
+nat cat exposure in absolute terms and permanently we defined -- refined our models,
+the expected major nat cat loss ratio of about 8% has been remarkably stable.
+Having said that, we are keeping this under regular review and we might change it but
+only if necessary. Finally, let me look at volatility from a more overarching perspective on
+Page 26. Volatility is inherent to our business model and we get paid for taking volatility
+from our seasons books. The expansion of less cat-prone and less cyclical businesses like
+Life Re, Risk Solutions and ERGO will reduce P&L volatility over time.
+Our strong balance sheet allows us to cope with volatility already in the short term. Even in
+bad years, we are committed to paying at least an unchanged dividend. Share buybacks
+increase the amount to be repatriated when no alternatives generating more value for
+our shareholders are available. And as you have seen in the third quarter results,
+diversification between earnings components like the investment and technical result and
+also between segments smoothened P&L volatility in quarters with increased loss activity.
+As a result, we are fully on track to achieve our IFRS earnings target despite the large
+events we have been seeing. This brings me now to our Q3 results. As already indicated
+in the pre-announcement, we achieved a net result of EUR366 million corresponding to an
+ROE of 6.3%. Year-to-date, the return on equity is a pleasing 12.1%. We are very happy to
+have achieved such a resilient performance given the high losses from the Storm Bernd at
+Hurricane Ida, not to forget, the Texas freeze already in Q1.
+
+Page 3 of 18
+
+
+
+FINAL
+
+Company N ame: M uenchener Rueckversicherungs-Gesellschaft AG in M uenchen
+Company Ticker: M UV2 GR Equity
+Date: 2021-11-09
+
+In our view, and as mentioned before, Bernd is a one-in-50-years-event, while Ida is onein-10-years US hurricane event. Also in Q3, we benefited from a good operating
+profitability in all fields of business, but also from a strong investment result and also
+currency result related to our investments. Therefore, let's start to look a little bit deeper
+into investment result. In Q3, we achieved an investment total of 3.3%. So result was
+(inaudible) by disposal gains from typical portfolio turnover, but also from outsourcing
+activities to third-party asset managers. As a part of the disposal gains in Q3 and even
+more so in Q4 goes back to our share reduction (inaudible). I would like to emphasize that
+our close business relationship remains wholly unaffected by this transaction which in no
+way reflects reassessment of Admiral's current or future performance.
+Due to largely stable capital markets, the derivative result was unremarkable. The
+reinvestment yield dropped to 1.4% and as a result investments in shorter maturities and
+lower interest rate during the quarter. Now turning to reinsurance. The Life and Health
+technical result including fee income of EUR9 million again fell short of the pro-rata annual
+ambition. Higher than expected COVID-19 losses of EUR168 million were driven by a surge
+in mortality in the United States as well as an ongoing high mortality in South Africa and
+India.
+
+Bloomberg Transcript
+
+For 2021, we are now expecting COVID-19 losses of around EUR600 million. We will not
+reach our annual guidance of around EUR400 million for the technical result plus fee
+income. Adjusted for COVID-19, however, the underlying performance remains strong. In
+P&C reinsurance, we posted above-average major losses as mentioned. While COVID-19
+losses were and are expected to remain insignificant, the combined ratio of 112.8% was
+burdened by the mentioned events.
+Given the high amount of nat cat losses in this year, we will not achieve our combined
+ratio guidance for 2021. However, the underlying performance remains sound including
+reserve releases the usual amount of 4 percentage points so normalized combined ratio
+amounted to 95.2%, which is fully in line with our full-year guidance. In primary insurance,
+ERGO continued its pleasing financial performance with a net result of EUR134 million in
+Q3, ERGO is on a very good track towards its full-year guidance.
+I'm pleased that the strong underlying performance with sustainable profitable growth
+and stringent cost management as well as a higher investment result could largely offset
+significant losses from Storm Bernd also of ERGO of around EUR0.1 billion. With negative
+effect of EUR12 million in Q3, the COVID-19 impact continues to be marginal.
+German Life and Health business posted net earnings of EUR80 million good operating
+performance in health and still very low claims in travel contributed to the pleasing result.
+In P&C Germany, the comment ratio of 95.6% Q3 was remarkably resilient. High flood
+losses were mitigated by ongoing profitable growth, favorable underlying claims
+development, lower large man-made losses and stringent cost discipline.
+Given this earnings power, we are sticking to our full-year combined ratio guidance albeit
+with increased uncertainty depending on further major losses development. The
+
+Page 4 of 18
+
+
+
+Company N ame: M uenchener Rueckversicherungs-Gesellschaft AG in M uenchen
+Company Ticker: M UV2 GR Equity
+Date: 2021-11-09
+
+FINAL
+
+international business of ERGO posted somewhat lower net result of EUR32 million
+affected by COVID-19 related claims in India and large losses in the Baltics and Austria.
+But the operating performance continues to be strong. The ongoing good development
+in Poland increase as well as a seasonally strong quarter in Spain contributed to the
+pleasing combined ratio of 92.3%. Now a few remarks only on capitalization. The Group's
+economic position is very sound and remains sound. Our Solvency II ratio increased to
+231% in Q3, which is largely attributable to the issue of our green bond while the change
+in all the other drivers was rather small.
+Finally, I would like to conclude with the outlook for 2021. We maintain our group net
+income guidance of EUR2.8 billion with unchanged EUR2.3 billion in reinsurance and
+EUR0.5 billion at ERGO. Within reinsurance, however, the composition of earnings
+contribution has shifted. Given the high amount of nat cat losses, we expect an increased
+combined ratio of around 100% in property casualty. And due to COVID-19, we will also
+not reach the guidance for the technical result including fee income in Life and Health. This
+has been lowered to EUR200 million.
+
+Bloomberg Transcript
+
+On aggregate, the lower underwriting result can be fully compensated for by a strong
+investment performance, which is expected to continue into Q4. All in all, we are very
+optimistic to achieve the outlook, which is built on our usual cautious planning approach,
+and reflecting higher than 12% large losses following our usual internal seasonality pentup.
+With this, I'm looking forward to answering your questions. But first, I'll hand back to
+Christian.
+
+Christian Becker-Hussong
+
+{BIO 19080254 <GO>}
+
+Yeah. Thank you, Christoph. So we can now go right into Q&A. As always, please consider
+my housekeeping remark and we would like to limit the number of your questions to a
+maximum of two per person. And if you have further questions, please go back to the
+queue.
+And with that, I'll hand it over to Saskia for the first question. Thank you.
+
+Questions And Answers
+Operator
+Thank you. (Operator Instructions) Our first question today comes from Andrew Ritchie of
+Autonomous Research. Please go ahead.
+
+Q - Andrew Ritchie
+
+{BIO 18731996 <GO>}
+
+Hi there. Thanks for the additional disclosure and discussion around catastrophes and
+climate change, et cetera. Maybe Christoph, I'm just trying to judge is the message here
+Page 5 of 18
+
+
+
+Company N ame: M uenchener Rueckversicherungs-Gesellschaft AG in M uenchen
+Company Ticker: M UV2 GR Equity
+Date: 2021-11-09
+
+FINAL
+
+then that you feel that catastrophe pricing is broadly adequate or do you -- because
+obviously you feel more or less you're on top of it or are you saying still okay with current
+pricing you can position a good portfolio, but really you would still expect to see ongoing
+higher pricing across layers and regions to reflect some of the trending effects. I'm just
+trying to understand what the message is, whether it's okay or should we want to see
+much more rate on catastrophe business?
+The second question is an easy one, I think. When you segment the investment result, is it
+a section called commodities inflation in one of the slides, which it hasn't -- there has
+been the zero or negligible effect in Q3 and nine months which surprised me a bit, what I
+would have thought maybe some of your closely-linked or inflation-linked assets would
+have had a positive result. So maybe you could just clarify that. Thanks.
+
+A - Christoph Jurecka
+
+{BIO 17223019 <GO>}
+
+Bloomberg Transcript
+
+Well, Andrew, thank you for the question. Good morning. First, pricing on the cat business.
+Well, I think it's a differentiated picture. We saw hardening of many cut owned markets
+over the last few years already, and this was highly necessary. In some markets and in
+some perils, we did not see a lot of claims, we still need higher prices. And this was s
+reflected in my introductory remarks when I was talking about the fact that theoretical
+prices are not always easy to be implemented especially -- that's especially the case
+when there wasn't a big event for a longer time.
+So in the current environment, I would now be pretty optimistic that in Europe [ph]one
+one, we see some upward movement in prices. That's at least what I hear. And looking at
+the events we saw in the past and to the pricing level we experienced in certain
+occasions, I think that's highly necessary. In other geographies, we saw quite significant
+movements in the past or the question is for sure less than in Europe.
+Summing that all up, I think what I can confirm is that cat business is clearly a profitable line
+of business earning its cost of capital and a decent margin on top of that. So on other
+more long-term perspective and looking at the book overall, we're very happy with the
+profitability.
+Second question. Commodities that I mean there's a few items in there and so there
+might be offsetting elements. The inflation in cost per se of cost are benefiting from
+higher inflation. Maybe that's a more high level answer. If you want to have more details,
+we might be forced to take it offline or you can take it up with Christian later on.
+
+Q - Andrew Ritchie
+
+{BIO 18731996 <GO>}
+
+Great. Thanks.
+
+Operator
+Thank you. We move on to our next question now from Vinit Malhotra from Mediobanca.
+Please go ahead.
+
+Page 6 of 18
+
+
+
+Company N ame: M uenchener Rueckversicherungs-Gesellschaft AG in M uenchen
+Company Ticker: M UV2 GR Equity
+Date: 2021-11-09
+
+Q - Vinit Malhotra
+
+{BIO 16184491 <GO>}
+
+FINAL
+
+Yes, good morning. Thank you. So the first one is more on the reinvestment yield, which
+you've commented due to lower maturity. Because when I look at the interest rate, it's not
+that much different. In fact the reinvestment yield of 1.4 is not very far from the December
+level of 1.3, but obviously we bonded 30 basis points, 40 basis points higher.
+So I'm just curious, are you positioning the asset side for pickup in interest rate
+consciously also seen in the duration which are moving quite a lot every quarter these
+days, but are you positioning for a rise in interest rates? That's my first question.
+Second question is just on the Life side, I picked up a comment that the ex-COVID US
+mortality or experience was negative. Is that purely -- is that something to flag in terms of
+some other trend or is it just some fallout from how COVID is reported or linked to
+COVID illnesses or deaths. So if you could just comment a bit about the ex -COVID US
+mortality, please. That would be helpful. I'll come back for more questions later. Thank
+you.
+
+A - Christoph Jurecka
+
+{BIO 17223019 <GO>}
+
+Bloomberg Transcript
+
+Thank you, Vinit. The reinvestment yield. Indeed the 1.4 is lower than what we saw in the
+last couple of quarters. The reason is that interest rates in the quarter themselves were
+lower than at quarter end, so towards quarter end interest rates went up again. But during
+the quarter they were lower. On top of that, we invested in lower duration assets. And I
+think what I can add is also that the volumes have not been spectacular high in this
+quarter.
+We're talking about the low volumes. There is always a certain element of taking a
+position in these things, but much more often, it is really ALM driven. What kind of assets
+you're investing into at which point in time. And then maybe on top of that, as you are
+aware, the green bond was also issued in this quarter. So you get in a lot of cash when
+you're issuing that bond, then it takes some time until you take the reinvestment.
+So this also is in a sense not helpful for the reinvestment yield because it takes some time
+until you reinvest it so you have it in the short-term cash like investments for some time.
+And if your overall volume is not very high then a bond issuance of EUR1 billion is making a
+difference already also from that area.
+So I think that that's the overall answer. Are we taking a big position towards interest rate
+increase? No, we don't. As you know, we are also looking at that in a very differentiated
+way when it comes to the various currencies we are investing into. And so that, no, there
+is not a big position taking. But here and there in single portfolios, of course we are trying
+to optimize our portfolio all the time also given the current environment and then small
+positions, marginal positions from an overall perspective, are always being taken.
+
+Q - Vinit Malhotra
+
+{BIO 16184491 <GO>}
+
+Thank you.
+
+Page 7 of 18
+
+
+
+Company N ame: M uenchener Rueckversicherungs-Gesellschaft AG in M uenchen
+Company Ticker: M UV2 GR Equity
+Date: 2021-11-09
+
+Operator
+Thank you. We now move on to Will Hardcastle from UBS for our next question.
+
+FINAL
+
+A - Christian Becker-Hussong
+
+{BIO 19080254 <GO>}
+
+Sorry there was -- the second question, Vinit, on the non-core -- the non-COVID US
+performance. I think I can make that very short. There's not a structural topic there.
+Potentially, there is something which is even related to COVID, we're not sure. We think
+the separation what is COVID and what is not COVID we done it as good as possible. But
+you're never 1000% sure there. So maybe that is an effect from that as well that will have
+to remain sorted out in the course of the next few quarters maybe, but altogether no
+structural issue there. And as you have seen the overall performance of the Life Re book
+was good.
+
+Q - Vinit Malhotra
+
+{BIO 16184491 <GO>}
+
+Thank you, Christian.
+
+Operator
+Mr. Hardcastle, please go ahead.
+
+Bloomberg Transcript
+
+Q - Will Hardcastle
+
+{BIO 22230376 <GO>}
+
+Thanks. First of all on the premium growth drivers in P&C Re. What were the major ones
+here? Obviously very, very strong growth Q3 discrete. Anything that shouldn't be
+extrapolated, perhaps reinstatements or is this a pretty good starting point to base our
+2022 growth off ? And secondly, again, thanks for the slides for the climate change and
+nat cat impact. Maybe just to clarify second the key messages I should take from this and
+given expected exposure growth in 2022 you're still comfortable at the 8% nat cat
+budget at this point. Is that correct or should we view that maybe there's some
+heightened risk of this increasing? Thanks.
+
+A - Christoph Jurecka
+
+{BIO 17223019 <GO>}
+
+Well, thank you, Will. I start with the second one. Yes, we are still comfortable to 8%. The
+process is unchanged, so we look at that again in the first quarter of next year with the
+mentioned bottom up analysis including this probabilistic modeling and then we'll find out
+if the 8% is still the best number to be communicated. That was the case for the last many
+years and we'll see in Q1. And if 8% is still the best number then it will be 8 and if it
+changes it will be another number.
+But at this point in time I do not see any tendencies that the change would be
+appropriate.The premium growth on P&C reinsurance segment is really across the board
+growth. So it's affecting both the traditional reinsurance as well as with solutions and in
+these business fields it's really across all markets more or less all the businesses we are
+having, because what we really see is that the current pricing environment is attractive
+really across the board more or less on a global level. And therefore we are happy to
+grow the book in all these areas.
+Page 8 of 18
+
+
+
+Company N ame: M uenchener Rueckversicherungs-Gesellschaft AG in M uenchen
+Company Ticker: M UV2 GR Equity
+Date: 2021-11-09
+
+FINAL
+
+As you know, growth per se is not a target for us. So we only do grow our book if the
+profitability prospects are correct. So with extrapolating our growth the difficulty always is
+that it's highly depending on the market environment. If it continues to be attractive, then
+we will continue to grow our book across all the sub-segments at all the businesses, but
+then it has to be attractive.
+The environment has to be attractive really for all of them. And currently, I think we are
+optimistic also for next year, but then of course eventually the cycle will break so I
+wouldn't be unrealistic that the reinsurance business and the global insurance business will
+continue to be a cyclical business. So as a matter of fact that at a certain point in time
+margins will reduce again and then we will react, of course.
+
+Q - Will Hardcastle
+
+{BIO 22230376 <GO>}
+
+Thanks. Is there any chance to get an understanding of maybe how much of that 18%
+year-on-year growth is exposure versus price? Is that possible?
+
+Bloomberg Transcript
+
+A - Christoph Jurecka
+
+{BIO 17223019 <GO>}
+
+That's a tough one. I mean, I think you're aware of the renewals, how we communicated
+them. And as a rule of thumb, I think the price increase we would deduct from that. What
+is it around 2% of that order of magnitude? But then there is a lot of business where we
+are also growing, which is not part of the renewals and there is much more difficult. Also
+given the fact that this business is also differentiated and different and then there it's hard
+to give you a number. Also, the way we measure that is somewhat different. So therefore,
+I'm a little bit reluctant, but all-in-all I think the key message is that we are growing the
+book into a more profitable environment.
+It's not like that we are having the same book and increased price significantly. It's really
+we're having more business but at more attractive prices and terms.
+
+Q - Will Hardcastle
+
+{BIO 22230376 <GO>}
+
+Brilliant. Thank you.
+
+A - Christian Becker-Hussong
+
+{BIO 19080254 <GO>}
+
+Can we have the next question, please?
+
+A - Unidentified Speaker
+Saskia, please, the next question. Hello? Saskia?
+
+Operator
+We can now take the next question from Ian Pearce from Credit Suisse.
+
+A - Christian Becker-Hussong
+
+{BIO 19080254 <GO>}
+
+Ian, please go ahead.
+Page 9 of 18
+
+
+
+Company N ame: M uenchener Rueckversicherungs-Gesellschaft AG in M uenchen
+Company Ticker: M UV2 GR Equity
+Date: 2021-11-09
+
+Operator
+We can now take the next question from Vinit Malhotra from Mediobanca.
+
+FINAL
+
+Q - Vinit Malhotra
+
+{BIO 16184491 <GO>}
+
+Hi. I'm wondering, sorry I'm back and i don't expect to be (inaudible) but just if I can just
+ask one or two more topics, please. One is, you know that the also reserve movements in
+the major loss category, not just a basic loss. Are you able to quantify then if they're
+meaningful in the third quarter? That's the first question, please.
+Second one I would say is that the FX impact. I mean, the quarter was in terms of dollar
+strengthening 3Q was not that different from 1Q, but then 3Q has a material number
+there. Could you just quantify or explain whether there was some driver behind such a big
+FX move. And just last very quick one is that, are you happy with the 95.3 normalized for
+nine months, given you only have one quarter to get to the 95? So I appreciate it's about
+in line but would you have expected a faster run through of rate for example? Thank you.
+
+A - Christoph Jurecka
+
+{BIO 17223019 <GO>}
+
+Bloomberg Transcript
+
+Thank you, Vinit. On the major losses, indeed our reserving approach is very similar to the
+reserving a portion of the basic losses. So we start from a conservative perspective and
+then a one-off is something which will occur eventually in case our assumptions are proven
+to be correct.
+In year-to-date for this year, we are talking not about a very significant number, and also
+these kind of (inaudible) developments, they fluctuate significantly between the quarter
+sometime. Therefore, we decided to release it only once a year with our annual report, as
+you know, where you can deduct the full year figures because we are of the opinion that
+that's for clear giving a much better picture than commenting on quarterly volatility with
+respect to these developments.
+Which are quite natural because we review all our major large loss provisions more or less
+every single quarter, so it's just the usual activity, what you do in claims handling and
+claims adjustment, that you review these provisions every single quarter but sometimes
+tend to be a little bit volatile. Therefore, we're only talking about them once a year. But
+again, year-to-date not very significant.
+FX, well our FX management has two components. First of all, we optimized positioning
+between the various financial dimensions we have to look at. So this is IFRS, this is the
+economic perspective, this is local GAAP, this is capital management. And there's not a
+single sweet spot, because our FX position is different according to all these various
+dimensions.
+So therefore already the definition of a sweet spot implies that you're never completely
+protected when it comes to FX movements in none of these standards. After having
+taken that sweet -- that positioning, what our our asset managers can do and what they
+are doing is they take positions on top of that.
+Page 10 of 18
+
+
+
+FINAL
+
+Company N ame: M uenchener Rueckversicherungs-Gesellschaft AG in M uenchen
+Company Ticker: M UV2 GR Equity
+Date: 2021-11-09
+
+So if they have a very strong opinion of an FX movement, of the US dollar movement, a
+pound movement or whatever, they can take a position like they do for other risky asset
+classes as well. And therefore, it may well be the case as it's very often the case, actually
+that similar FX movement and in various quarters. They result in different outcomes,
+because the positions were different and the positions of our asset managers have been
+taken. And therefore, I think the FX we saw in Q3 has an element of volatility in it, but
+there's also an element of a very good performance in that. And this, I think, is something
+I'd like to underline here.
+Third question. The development towards 95 normalized combined ratio. I think we are
+happy with the development. I mean, in any case, you shouldn't expect movements in the
+way we book things to be overly volatile, given the fact that we take conservative views
+when setting loss picks. And therefore, we are fully on track to meet the 95 guidance. So
+what else could I expect, to be honest? So, yes, indeed we are very happy with the
+development.
+
+Q - Vinit Malhotra
+
+{BIO 16184491 <GO>}
+
+Many thanks, Christoph.
+
+Operator
+
+Bloomberg Transcript
+
+Thank you. We now move on to our next question from Darius Zekauskas from KBW.
+Please go ahead.
+
+Q - Darius Zekauskas
+Hi. Thank you for taking my questions. The first question. Some of your peers have
+reported an impact to Solvency II ratio from capturing expected growth for next year in
+the 3Q solvency ratios. Does your 231% Solvency II ratio capture growth outlook for next
+year? And if so, how many percentage points of Solvency II does this amount you? That's
+the first question.
+Second question, I appreciate it's likely too early to tell, but when you have these
+discussions internally, given how you see the situation right now, do you expect COVIDrelated mortality losses next year? Thank you.
+
+A - Christoph Jurecka
+
+{BIO 17223019 <GO>}
+
+The first question. That's a very clear rule, how we do the accounting. We account in
+Solvency II for insurance contracts as soon as we have the obligation, so as soon as we
+are legally bound to a contract. And so therefore what is not included there is future when
+you was future growth which we are not obliged to take in our books already. Everything
+where we have already a contract is reflected in the Solvency II numbers.
+The second question, if I understood you correctly, was about COVID already for next
+year. As you have been -- if you have seen in P&C for this year, we reduced the guidance
+and we didn't see a lot of activity anymore in the third quarter at least. So generally it's
+trending down. There are still a few multi-year contracts which we have which might end
+Page 11 of 18
+
+
+
+Company N ame: M uenchener Rueckversicherungs-Gesellschaft AG in M uenchen
+Company Ticker: M UV2 GR Equity
+Date: 2021-11-09
+
+FINAL
+
+up having some claims next year. But all in all, I would think that's probably insignificant in
+the context of all the overall amount of claims we have in every single year anyway.
+It's more difficult on the Life and Health side. As you have been seeing, we have had to
+increase our guidance for this year twice already and I have to say unfortunately the
+pandemic by far not overview of increasing case numbers now again in Europe, but also
+United States is by far not over yet. And I think this pandemic surprised that already too
+often. So therefore, I'm a little bit reluctant to call it off already now, but I would rather say
+that also next year we have to be prepared to still have claims on the Life Re side.
+I would expect them to be lower than what we saw this year because I'm still optimistic
+and I think humankind will be making progress in fighting this pandemic so claims will be
+lower, but I'm pretty sure there will be claims also next year.
+
+Q - Darius Zekauskas
+Thank you.
+
+Operator
+Thank you. We now move on to our next questioner Ian Pearce from Credit Suisse. Please
+go ahead.
+
+Bloomberg Transcript
+
+Q - Ian Pearce
+
+{BIO 1780543 <GO>}
+
+Hi. Thanks for taking my questions. My first one is on nat cat growth. With the sort of
+statement that nat cat is doing very good returns on capital and comfort around the 8%
+budget, should we be expecting exposure growth and PML growth in nat cat business
+next year? And my second one was just around the decision to sell Admiral. If you could
+just give us a little more detail on sort of the strategic logic for selling down there and also
+what the realized gain we might expect on that stake sale in Q4 might be?
+
+A - Christoph Jurecka
+
+{BIO 17223019 <GO>}
+
+Yeah. Thank you. On the nat cat side, I think as mentioned before, we are happy to grow
+the book if the rates are adequate. And again I think it's the core of the strategy of every
+reinsurer because it's really where we started from as reinsurance businesses -- as
+reinsurance market overall. The geographic diversification is an obvious benefit we can
+deliver to the individual markets and as long as the rate is adequate, we are happy to
+grow that. How that will play out in the 1/1 renewal, I think it's too early to tell, but again if
+rates are adequate we are happy to grow that and then PMLs also would go up.
+On the Admiral side, as I said in my introduction already, what we did has nothing to do
+Admiral per se, but the concentration of a single stock in the context of our overall equity
+portfolio was just too big. So therefore, we reduced the investment amount into this one
+single stock to benefit from a better diversification going forward and to reduce the
+concentration risk here. Also having in mind, and you're probably aware of that, how well
+the Admiral stock performed over the last few years.
+
+Page 12 of 18
+
+
+
+Company N ame: M uenchener Rueckversicherungs-Gesellschaft AG in M uenchen
+Company Ticker: M UV2 GR Equity
+Date: 2021-11-09
+
+A - Christian Becker-Hussong
+
+{BIO 19080254 <GO>}
+
+Thanks. Can we have the next question, please?
+
+Operator
+
+FINAL
+
+Thank you. We move on to Michael Haid from Commerzbank. Please go ahead.
+
+Q - Michael Haid
+
+{BIO 1971310 <GO>}
+
+Thank you very much. Good morning to everyone. Two questions, both on ERGO Life
+Germany. The net profit contribution from Life/Health Germany was quite high, EUR18
+million, and year-to-date this even above EUR200 million. Can you say more specifically
+what drove this IFRS profits and is that level a level which you think is sustainable going
+forward?
+Second question, I assume the investments remained broadly unchanged despite a
+shorter duration of newly invested money. From the past, I remember you invest also in
+the US and do run from FX risk there. Is this still the case or has it even increased?
+
+A - Christoph Jurecka
+
+{BIO 17223019 <GO>}
+
+Bloomberg Transcript
+
+Yeah. Life/Health Germany, indeed we are happy with the performance and the maybe
+better than expected performance, at least in your perception, is attributable more to
+health and the travel business than the Life business per se. As you know in this segment,
+we are combining the Life businesses in Germany with the Health business and also the
+travel business.
+And Health is performing well. And also on the travel side, we have still a very good
+performance given the fact that of course also travel was restricted to some extent. So
+therefore, we would not expect that to continue like that also going forward, but a certain
+swing back to normal is something we would expect on that side maybe even more midterm than short-term. More short term on the Life side, I think what I have to mention as
+well is that from the (inaudible) realizations, you are aware of them, we already did around
+90% for this year in the first three quarters.
+So therefore, for the fourth quarter we expect much less and you know in IFRS this
+immediately translates into realized gains on the asset side and therefore also for the
+fourth quarter, your general expectation for that segment would be to contribute under
+proportionally given that lower realization level.
+The investment strategy is indeed unchanged, so we are investing significantly in the
+United States already due to the fact that also our liabilities are -- took quite a substantial
+amount in the United States. It's for sure, one of the most important markets we are
+doing business in. And so, indeed we continue to do that. We are running some FX risks,
+but as mentioned before, we're also doing some hedging there, with the technical
+difficulty that it's never possible to hedge all the various dimensions of metrics you're
+looking at. So IFRS, local GAAP, capital is all different, and on top of that, we're also taking
+FX positions deliberately sometimes if we have a very strong view on markets.
+Page 13 of 18
+
+
+
+Company N ame: M uenchener Rueckversicherungs-Gesellschaft AG in M uenchen
+Company Ticker: M UV2 GR Equity
+Date: 2021-11-09
+
+Q - Michael Haid
+
+{BIO 1971310 <GO>}
+
+That also goes for Life/Health Germany, right?
+
+FINAL
+
+A - Christoph Jurecka
+
+{BIO 17223019 <GO>}
+
+On the Life/Health Germany side, it's different. So that -- thank you for asking that more
+precisely. On the Life Health Germany side, we are investing in US assets, but there it's
+really about hedging or fully hedging the currency effect. So there, we do not take a lot of
+positions, but it's really hedging, and so the reason is that the liabilities are euro liabilities
+there and we need to have a tight match currency wise between the liabilities and the
+assets.
+So the position taking takes place in the [ph]regionals business.
+
+Q - Michael Haid
+
+{BIO 1971310 <GO>}
+
+Thank you very much.
+
+Operator
+Thank you. We now move on to Vikram Gandhi from Societe Generale. Please go ahead.
+
+Bloomberg Transcript
+
+Q - Vikram Gandhi
+
+{BIO 18019785 <GO>}
+
+Hello. Thank you for taking my questions. First one is on the IBNR level for the P&C COVID
+reserves at 65% in the United States, that looks remarkably high, so is it likely that we may
+see some releases perhaps next year? That's question one. And the second one is
+assuming the Group is able to achieve the 2.8 billion or around 2.8 billion for this year,
+which where you certainly seem quite optimistic, how should we think about potential
+return to share buybacks? I know it's a year-end decision and review then cited by the
+Board and somewhat it -- basically, I wanted to get a context of how should we think
+about potential capital return versus the group environment. So those are my two
+questions. Thank you.
+
+A - Christoph Jurecka
+
+{BIO 17223019 <GO>}
+
+Yeah, Vikram. Thank you very much for the questions. The claims adjustment process in
+COVID-19 is ongoing and, unfortunately, I have to again emphasize that is slower than I
+would have expected personally, again. There is a number of reasons for that, but what
+we do is, of course, we follow our clients and we have to rely on the claims reporting as it
+comes in from our primary insurance clients and they are sometimes still waiting for the
+outcome of some legal proceedings of some court actions, these kind of things. So it
+takes a little bit longer than expected still, and I would expect claims adjustments to go on
+in until 2022 for sure, maybe mid of the year or something and please be aware that I
+have been wrong with my assessment a number of times already so don't give too much
+credibility to what I'm saying now.
+Having said that, the EBITDA level is still high. That gives us a lot of confidence that our
+reserves are not on the Life side, but I think for everything else, it's a little bit early. When
+Page 14 of 18
+
+
+
+Company N ame: M uenchener Rueckversicherungs-Gesellschaft AG in M uenchen
+Company Ticker: M UV2 GR Equity
+Date: 2021-11-09
+
+FINAL
+
+you still do not get the notifications in and then still we are waiting for information some of
+your key clients and then it's probably too early to talk about if there are any buffers or
+not, but I also wouldn't rule that out.
+Buyback. Well, yeah, I don't have to repeat everything I think, I mean you all aware that
+share buybacks are an integral part of our capital management and that we will always
+use them for repatriating more capital as soon as it is clear, that is not a more higher value
+creation more value creation by investing the money elsewhere. Now this year so far we
+have been in a very sweet spot. We have been growing our book significantly and at the
+same time increasing our capital strength and not only by the green bond but on top of
+that really by the operational development, we have been showing.
+So this is, I think, a lot of support from our overarching capital management perspective.
+Can I predict anything now already what we will do in Q1? No, I can't. Because we wait for
+the year-end results. We wait for the 1/1 renewal business developments. And then as you
+know, we'll make up our minds only then, but so far I think we can be very happy with the
+performance of our company and with the growth and the combination of the two leading
+to an even stronger capital base. So that's encouraging, isn't it?
+
+Q - Vikram Gandhi
+
+{BIO 18019785 <GO>}
+
+Yes, indeed. Thank you.
+
+Bloomberg Transcript
+
+Operator
+Thank you. (Operator Instructions) We now move on to Thomas Fossard from HSBC with
+our next question. Please go ahead.
+
+Q - Thomas Fossard
+
+{BIO 1941215 <GO>}
+
+Yes. Good morning. Two questions. The first one will be on the Life Re business. I think
+that it's probably fair to say that the volatility of the Life Re earnings for the industry, I
+mean I think the recent kind of discovery process at the present time due to COVID. Did
+you change your view of the long-term earnings volatility of the business line, and as a
+result, the need for maybe additional pricing or margin to cover maybe higher capital that
+you need to allocate to this line of business.
+And the second question will be relating to maybe the 2022 outlook. It seems to me that
+compared to the scenario you based your five years looking for a view at the time of your
+last Capital Market Day, it seems to me that things have strengthened much more in
+terms of topline growth in terms of pricing. So I mean any comment you could put on how
+this is potentially accelerating the delivery of what you were expecting to achieve or is it
+front-loading somewhat what you wanted to report? Yeah, anything will be interesting.
+Thank you.
+
+A - Christoph Jurecka
+
+{BIO 17223019 <GO>}
+
+Thank you. Thomas, on Life Re, well I think for COVID-19 it's too early to make the final
+assessment at this point in time. When the whole pandemic started, I think we were
+Page 15 of 18
+
+
+
+Company N ame: M uenchener Rueckversicherungs-Gesellschaft AG in M uenchen
+Company Ticker: M UV2 GR Equity
+Date: 2021-11-09
+
+FINAL
+
+talking about our pandemic model also publicly saying that the 1.4 billion loss would be
+200 years event. We are, by far, not there yet.
+On the Life side, but on the P&C side, claims have been much higher. What we also still
+don't know is if this COVID-19 impact on mortality, which we are seeing now in various
+markets, if there will be an offsetting effect after the pandemic has been dampening
+down. There's a lot of speculation and debate around that, but I don't think anybody has a
+clear answer yet. So therefore, I think for final assessment, it's too early, but yes indeed
+volatility is a little bit higher due to COVID-19 compared to what we have been expecting.
+On the other hand, the way we are currently presenting Life Re in IFRS is very asymmetric.
+So worst performance shows up pretty quickly in the numbers, but a better than expected
+performance, if at all, was a long delay over a long-time only, which I think I mentioned a
+few times already, and therefore, I think the value of the business per se is not really
+reflected well enough in the current IFRS numbers. So I think it's higher than what you
+could deduct from this IFRS numbers. A few years back, we had all these kinds of debates
+around EMCV publication. Going forward, we will have IFRS 17. There are, for sure, better
+views how to look at the Life Re business than the current IFRS. Let me put it that way.
+
+Bloomberg Transcript
+
+So therefore, I'm not concerned overall, and overall, it's clearly an attractive and profitable
+business for us despite the pandemic, at this point in time, which is a short-term effect
+anyway. Having said that, of course, we are reviewing that and in certain areas where we
+think prices need to be increased and we do so. Similarly, what we are doing in the P&C
+area as well. So maybe that's on Life Re.
+On the outlook 2022, well, I mean indeed a lot happened since our Investor Day a year
+ago. So I mean it's clearly premature to talk about numbers today, and to give you an
+indication what the outlook could be for next year anyway. Maybe a few items I would look
+at if I would be in your shoes and to assess what we could be able to do in the next year,
+in the next few years.
+Let's start with growth, something you mentioned also. I think this year, we have been
+indeed growing more. Market has been more positive than what we expect. The cycle has
+been more positive, but what we, what remains unchanged is that this cycle will not last
+forever, and we're also paying a certain price for the longer cycle, discussing large losses
+a lot today already.
+So I think it's good to have that better longer cycle now, but it's also necessary. The cycle
+will not stay with us forever, but the cycle will turn again and that was our assumption
+when we released our strategy a year ago, and I don't think this has changed significantly.
+So in the later years of this strategy, we would still expect the cycle to be much less
+positive than it is today.
+The strategic answer always was to grow the businesses outside of the traditional
+reinsurance and we are very happy that we have been able to grow them as well; the -business, the Risk Solutions business, the ERGO business, the Life Re businesses, and
+
+Page 16 of 18
+
+
+
+Company N ame: M uenchener Rueckversicherungs-Gesellschaft AG in M uenchen
+Company Ticker: M UV2 GR Equity
+Date: 2021-11-09
+
+FINAL
+
+there we are making good progress to temp volatility and to have a higher share of
+earnings also from that sources.
+Summarizing all of that, yes the growth is good, the margins are good. The question out
+there is for how long it will continue to be that good? That's the growth side. On the
+claims side, volatility hit us this year above our expectation. So clearly for next year's
+outlook, we have to talk about the expectations and again what the expectation is, and
+this is too, of course, for the large losses, but then also for the normalized combined
+ratio, which will benefit from the renewals we saw this year, cover that early on today as
+well.
+
+Bloomberg Transcript
+
+At the same time, there is a significant part of our business which is not part of the regular
+renewals, so we will have to carefully analyze also the price development in these areas.
+And then also the business mix development. Because obviously we were very happy also
+to write for example proportional business with higher combined ratios as long it's
+profitable and low risk, and then it would some of course influence the combined ratios
+we expect next year. And it's maybe not always covered in the renewal reports. So that's
+also something we would look at internally and if you make up your mind what to expect
+from us, that all should, should also play a role
+On the investment side. As much as the investment return helped us in diversifying
+around the higher nat cat losses and helping us to achieve our targets as this year, you
+cannot expect that to be a new normal, this high realization at very specific reasons.
+We've been talking about Admiral, we are talking about outsourcing, and we were talking
+about portfolio management activities. So these kind of things are, not in a sense,
+sustainable that you could expect them to continue. So there you should be very cautious.
+And then finally, my last remark is a comment I gave already end of '21 when we talked
+about the guidance -- end of '20 when we talked about the guidance for 2021. Back then,
+I said the plan for 2021 is particularly stretched, and this is also something which I would at
+least to remind you of, because when you talk about -- think about what the basis then for
+next year is, this is also something we have to keep in mind.
+That's maybe from my side, what I can say about our assessment internally. I cannot give
+you anything else. The Board has still to assess our plannings, which is still ongoing
+internally, so that's about what I know myself. And so with that I can leave it with you and
+trust you take the right conclusions on that.
+
+Operator
+Thank you. As there are no further questions at the moment. I'd like to hand the call back
+over to you, Mr. Becker-Hussong, for any additional or closing remarks.
+
+A - Christian Becker-Hussong
+
+{BIO 19080254 <GO>}
+
+Yes, thank you. Nothing to add from my side and, of course, happy to follow on with you
+on any questions you might have and hope to speak and hear all of you very soon. Thanks
+for attending and bye-bye.
+Page 17 of 18
+
+
+
+Company N ame: M uenchener Rueckversicherungs-Gesellschaft AG in M uenchen
+Company Ticker: M UV2 GR Equity
+Date: 2021-11-09
+
+Operator
+
+This transcript may not be 100 percent accurate and may contain misspellings and other
+inaccuracies. This transcript is provided "as is", without express or implied warranties of
+any kind. Bloomberg retains all rights to this transcript and provides it solely for your
+personal, non-commercial use. Bloomberg, its suppliers and third-party agents shall
+have no liability for errors in this transcript or for lost profits, losses, or direct, indirect,
+incidental, consequential, special or punitive damages in connection with the
+furnishing, performance or use of such transcript. Neither the information nor any
+opinion expressed in this transcript constitutes a solicitation of the purchase or sale of
+securities or commodities. Any opinion expressed in the transcript does not necessarily
+reflect the views of Bloomberg LP. © COPYRIGHT 2022, BLOOMBERG LP. All rights
+reserved. Any reproduction, redistribution or retransmission is expressly prohibited.
+
+Bloomberg Transcript
+
+FINAL
+
+Thank you. This concludes today's call. Thank you for your participation. Ladies and
+gentlemen, you may now disconnect.
+
+Page 18 of 18
+
+

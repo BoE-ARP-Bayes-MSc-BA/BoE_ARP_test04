@@ -1,0 +1,1036 @@
+Company N ame: Fairfax Financial H oldings L td
+Company Ticker: FFH CN Equity
+Date: 2014-10-31
+
+Q3 2014 Earnings Call
+Company Participants
+FINAL
+
+David Bonham
+Eric P. Salsberg
+Prem Watsa
+
+Other Participants
+Jeff M. Fenwick
+Mark A. Dwelle
+Mikel Abasolo
+Paul Holden
+Tom MacKinnon
+
+MANAGEMENT DISCUSSION SECTION
+
+Bloomberg Transcript
+
+Operator
+Good morning and welcome to Fairfax's 2014 Third Quarter Results Conference Call. Your
+lines have been placed in a listen-only mode. After the presentation, we will conduct a
+question-and-answer session. For time's sake, we ask that you limit your questions to one.
+Today's conference is being recorded. If you have any objections, you may disconnect at
+this time.
+Your host for today's call is Prem Watsa, with opening remarks from Rick Salsberg. Mr.
+Salsberg, you may begin.
+
+Eric P. Salsberg
+
+{BIO 1552007 <GO>}
+
+Thank you. Good morning and welcome to our call to discuss Fairfax's 2014 third quarter
+results. This call may include forward-looking statements. Actual results may differ,
+perhaps materially, from those contained in such forward-looking statements as a result
+of a variety of uncertainties and risk factors, the most foreseeable of which are set out
+under Risk Factors in our Base Shelf Prospectus, which has been filed with Canadian
+securities regulators and is available on SEDAR.
+I'll now turn the call over to our Chairman and CEO, Prem Watsa.
+
+Prem Watsa
+
+{BIO 1433188 <GO>}
+
+Page 1 of 17
+
+
+
+Company N ame: Fairfax Financial H oldings L td
+Company Ticker: FFH CN Equity
+Date: 2014-10-31
+
+FINAL
+
+Good morning, ladies and gentlemen. Thank you, Rick. Welcome to Fairfax's third quarter
+conference call. I plan to give you some of the highlights and then pass it on to Dave
+Bonham, our CFO, for additional financial details.
+In the first nine months of 2014, book value per share increased by 22.1%, adjusted for the
+$10 per share common dividend paid in the first quarter of 2014. We ended the quarter
+with common shareholders' equity of $8.6 billion or $404 approximately per share. Our
+insurance and reinsurance companies had an excellent third quarter with a combined ratio
+of 91.2% with very good reserving and significant underwriting profit of $136 million. In the
+third quarter, OdysseyRe, again, had an excellent combined ratio of 88.3%, while Zenith
+had a combined ratio of 83.8%.
+As shown on page two of our quarterly release, we have realized gains on our investment
+portfolio of $16 million during the third quarter. Excluding all hedging gains and before
+mark-to-market fluctuations in our investment portfolio, we earned $138 million in pre-tax
+income. Including all hedging losses and gains and mark-to-market fluctuations in our
+investment portfolio, we reported pre-tax income of $616 million and after-tax income of
+$475 million in the third quarter of 2014.
+
+Bloomberg Transcript
+
+Our third quarter has continued the trends of the first half of 2014. You will note
+investment portfolios went up to $26.9 billion, almost $27 billion in the third quarter, in
+spite of being 79% hedged, 23% in cash and short-term investments and little exposure
+to corporate bonds. How did this happen? Long U.S. government bond rates continued to
+drop and our common stocks did much better than the Russell index, which dropped 7.7%.
+We have yet to significantly benefit from our hedges and are approximately $108 billion in
+deflation swaps. And of course, our cash position gives us great optionality. At our annual
+meeting, we made the point that while we are protecting our capital on the downside, our
+investment portfolios could also do very well. The first nine months of 2014 are a case in
+point. Our common stock portfolios continue to be hedged at approximately, as I said,
+79%. We selectively bought more stocks, but we did not add to our hedges.
+Our common stocks outperformed the index. We continue to be soundly financed with
+year-end cash and marketable securities in the holding company of $1.4 billion. A few
+more points, our total insurance and reinsurance premium volume remained unchanged in
+the quarter, adjusting for the crop insurance at OdysseyRe. At the subsidiary level, the
+change in net premiums written described on page 32 of our interim report and
+combined ratios for the third quarter were as follows.
+OdysseyRe, net premiums were down 3% with an 88.3% combined ratio; Crum & Forster,
+premiums were down 1% with a 99.7% combined ratio; Northbridge, in Canadian dollars
+7.2% increase in premiums and with a 94.3% combined ratio; Zenith, approximately 6%
+increase in net premiums with an 83.8% combined ratio; and Fairfax Asia, which had a 3%
+decrease in premiums with a 74% combined ratio.
+As we have said before , very low interest rates and reduced reserve redundancies
+means there will be no place to hide for our industry. Combined ratios will have to drop
+Page 2 of 17
+
+
+
+Company N ame: Fairfax Financial H oldings L td
+Company Ticker: FFH CN Equity
+Date: 2014-10-31
+
+FINAL
+
+well below 100% for the industry to make a single-digit return on equity with these low
+interest rates. However, with a significant excess capital in our industry today and many
+new entrants, insurance rates will likely go down first before they eventually go up.
+On the investment side, net investment gains of $494 million in the third quarter
+consisted of the following. Please refer to page two of our press release. Net gains on
+equity and equity-related investments after equity hedges of $316 million, resulted from
+the net losses of $52 million in our equity investments, offset by a $367 million net gain in
+our equity hedge, reflecting the decline in the Russell Index. We have realized gains of
+$6.6 million in our equity and equity-related holdings in the third quarter and $720 million in
+the first nine months. Also, in the third quarter, we had unrealized gains of $478 million,
+primarily on our equity hedges.
+As we've mentioned in our annual meetings, annual reports and quarterly calls, with IFRS
+accounting, where stocks and bonds are recorded at market and subject to mark-tomarket gains or losses, quarterly and annual income will fluctuate widely and investment
+results will only make sense over the long term.
+
+Bloomberg Transcript
+
+Core inflation continues to be at or below 1% in the United States and Europe, levels that
+we have not seen since the 1950s. In spite of QE1, QE2 and QE3, long-term bond rates in
+Europe are making record lows, quite often the lowest in 200 years. In Germany, almost
+half of the German government bond market is yielding negative interest rates. Also, six
+to seven countries in Europe are already experiencing deflation.
+Our CPI-linked derivatives with a nominal value of approximately $108 billion are down
+over 80% from our cost and are carried on our balance sheet at $110 million, even though
+they have 7.5 years to run. The majority of these contracts are based on the underlying
+U.S. CPI Index or the European Union CPI Index. Further information is available on page 13
+of our quarterly report.
+As I've said to you before, our deflation swap experience reminds us of what happened in
+the CDS years ago. Also, please remember that it took five years in Japan before
+deflation set in for the next 18 years. When you review our statements, please note that
+when we own more than 20% of a company, we equity account; and about 30% we
+consolidate, so that mark-to-market gains in these companies are not reflected in our
+results.
+As you can see on page 11 of our quarterly report, the fair value of our investment in
+associates is $2.17 billion, with a carrying value of $1.81 billion and unrealized gain of $356
+million not on our balance sheet. Also Thomas Cook and Ridley, which are consolidated in
+our financial statements, are doing very well compared to our original purchase price.
+We continue to be concerned about the prospects for the financial markets and the
+economies in North America and Western Europe accentuated, as we have said many
+times before, by the potential weakness in China and the emerging markets.
+
+Page 3 of 17
+
+
+
+Company N ame: Fairfax Financial H oldings L td
+Company Ticker: FFH CN Equity
+Date: 2014-10-31
+
+FINAL
+
+We have said and now we have said it for after some time, we believe there continues to
+be a disconnect between the financial markets and the underlying economic
+fundamentals. As of September 30, 2014, we have $5.9 billion in cash and short-term
+investments, which is approximately 23% of our total investment portfolio to take
+advantage of opportunities that come our way.
+As a result, in the short term, our investment income will likely be reduced. On October
+30, 2014, this year, shareholders of Pethealth Inc. overwhelmingly voted to support our
+takeover bid, which should close before year-end.
+Pethealth, operating in the United States, Canada and the United Kingdom, is North
+America's second-largest provider of medical insurance for dogs and cats. Closing of this
+acquisition is anticipated to occur during the fourth quarter. We're very excited about the
+prospects of Pethealth in the long term.
+In August 2014, we issued a $300 million 10-year bond offering, with a coupon of 4.875%.
+First time, we were able to do a 10-year bond issue below 5%. We plan to substantially
+use the proceeds to retire debt.
+Now, I would like to turn it over to Dave Bonham, our CFO, so he can give you some more
+information on the underlying financials. Dave?
+
+Bloomberg Transcript
+
+David Bonham
+
+{BIO 15243784 <GO>}
+
+Thank you, Prem. First, I'll focus on Fairfax's consolidated results for the third quarter of
+2014, then move on to the operating company results and finish with the consolidated
+financial position. For the third quarter of 2014, Fairfax reported net earnings of $461
+million or $20.68 per share on a fully diluted basis. That's compared to the third quarter of
+2013, when we reported a net loss of $572 million, a net loss of $29.02 per fully diluted
+share.
+Year-to-date, Fairfax reported net earnings of just over $1.6 billion, or $72.53 per share on
+a fully diluted basis, and that reflects a significant improvement over 2013, when we
+incurred a year-to-date net loss of $568 million.
+Underwriting profits at our insurance and reinsurance operations in the third quarter and
+first nine months of 2014 increased to $136 million and $345 million with combined ratios
+of 91.2% and 92.3%, compared to underwriting profits of $105 million and $275 million and
+combined ratios of 93.4% and 93.9% in the third quarter and first nine months of 2013.
+That represents increases of $32 million and $70 million on a quarter-to-date and year-todate basis in our underwriting profit.
+Our combined ratios benefited from net favorable prior-year reserve development in the
+third quarter and first nine months of 2014 of $96 million and $227 million, translating into
+6.2 combined ratio points and 5.1 combined ratio points. And that was somewhat higher in
+net favorable development of $86 million, representing 5.4 combined ratio points in the
+
+Page 4 of 17
+
+
+
+Company N ame: Fairfax Financial H oldings L td
+Company Ticker: FFH CN Equity
+Date: 2014-10-31
+
+FINAL
+
+third quarter of 2013, and about the same as the $228 million and 5.1 combined ratio
+points of net favorable development in the first nine months of 2013.
+Current-period catastrophe losses were lower in 2014 and totaled $65 million or 4.2
+combined ratio points in the third quarter and $151 million or 3.4 combined ratio points in
+the first nine months. By way of comparison, in the third quarter and first nine months of
+2013, we incurred cat losses of $74 million and $218 million, representing 4.7 combined
+ratio points and 4.9 combined ratio points, respectively.
+Please note that during the second quarter of 2014, OdysseyRe changed the manner in
+which it recognizes premiums from its U.S. Multi Peril Crop Insurance business. Following
+enhancements to its underwriting systems and the accumulation of sufficient internal
+historical data, OdysseyRe began to recognize the majority of the premium from its U.S.
+crop insurance business in the second quarter to more closely correspond with the spring
+planting season; whereas in 2013, these premiums were recognized in the third quarter.
+
+Bloomberg Transcript
+
+The full effect of this change on our financial reporting is described on page 44 of our
+third quarter interim report. After excluding U.S. crop net premiums written of $126 million
+from the third quarter of 2013, such that both of the third quarters of 2014 and 2013
+exclude that U.S. crop premium, net premiums written by our insurance and reinsurance
+operations was relatively unchanged in the third quarter of 2014 and increased by 1.8% in
+the first nine months of 2014.
+Now, turning to our operating company results, starting with the OdysseyRe. In the third
+quarter and first nine months of 2014, Odyssey reported underwriting profits of $73
+million and $219 million and combined ratios of 88.3% and 87.6%, compared to
+underwriting profits of $84 million and $258 million and combined ratios of 87.6% and
+85.6% in the third quarter and first nine months of 2013.
+Catastrophe losses in the third quarter and first nine months totaled $41 million and $112
+million, which translated into 6.6 combined ratio points and 6.4 combined ratio points, with
+Windstorm Ela, the largest individual catastrophe loss in 2014, accounting for losses of
+$36 million in the first nine months of 2014.
+OdysseyRe's combined ratios in the third quarter and first nine months also included the
+benefit of $35 million and $81 million or 5.5 combined ratio points and 4.6 combined ratio
+points of net favorable prior-year reserve development, and that was split relatively
+equally between catastrophe and non-catastrophe loss reserves.
+OdysseyRe wrote $568 million and a little over $1.8 billion of net premiums in the third
+quarter and first nine months, reflecting a decrease of 3% in the third quarter of 2014 and
+a nominal decrease in the first nine months of 2014. And this was principally due to
+declines in writings of reinsurance business, primarily proportional and excess of loss
+property lines of business, due to competitive market conditions, offset by growth across
+most lines of business in the U.S. insurance division and excluding the Multi Peril Crop
+Insurance net premiums written in the third quarter of 2013 as we described earlier.
+
+Page 5 of 17
+
+
+
+FINAL
+
+Company N ame: Fairfax Financial H oldings L td
+Company Ticker: FFH CN Equity
+Date: 2014-10-31
+
+Moving on to Crum & Forster, Crum & Forster reported underwriting profits of $1 million
+and $5 million and combined ratios of 99.7% and 99.4% in the third quarter and first nine
+months of 2014, compared to underwriting profits of $2 million and an underwriting loss of
+$3 million and combined ratios of 99.3% and 100.4% in the third quarter and first nine
+months of 2013. There was no net prior-year reserve development in 2014 and 2013, and
+current-period catastrophe losses were also not significant in 2013 or in the third quarter
+of 2014. But in the first nine months of 2014, catastrophe losses were $13 million,
+representing 1.3 combined ratio points.
+Net premiums written by Crum & Forster decreased by 1% in the third quarter of 2014,
+principally reflecting increased ceded premiums at CoverXSpecialty; and increased by
+10.2% in the first nine months, primarily reflecting incremental gross premiums written
+related to the renewal of the American Safety business, which was acquired last year, and
+the growth in the Fairmont accident and health business, combined with higher net risk
+retention in certain other lines of business.
+
+Bloomberg Transcript
+
+Looking to Zenith, Zenith reported underwriting profits in the third quarter and first nine
+months of 2014 of $30 million and $64 million and corresponding combined ratios of
+83.8% and 87.9%, that was a significant improvement over combined ratios of 96.8% and
+100.5% reported in the third quarter and first nine months of 2013.
+The improvement reflected a year-over-year decrease in the estimated current accident
+year loss ratios of 6.9 percentage points and 5.4 percentage points in the third quarter
+and first nine months of 2014 and that was due to favorable loss development trends for
+the accident year 2013, combined with price increases equal to estimated loss trends for
+the accident year 2014.
+And the second reason was increased net favorable development of prior year's reserves
+in the third quarter and the first nine months of 2014, representing 11.4 combined ratio
+points and 10.4 combined ratio points and that compared to net favorable development
+of 4.6 combined ratio points and 3.7 combined ratio points during those same periods
+last year.
+Net premiums written by Zenith of $153 million and $593 million in the third quarter and
+first nine months of 2014 increased by 5.9% and 3.3% on a year-over-year basis,
+principally reflecting premium rate increases.
+Northbridge. Northbridge reported underwriting profits of $14 million and $26 million and
+combined ratios of 94.3% and 96.4% in the third quarter and first nine months of 2014.
+And that's an improvement relative to the underwriting losses of $4 million and $6 million
+and combined ratios of 101.5% and 100.8% reported in those same periods in 2013.
+Northbridge's underwriting results in the third quarter and first nine months included the
+benefit of net favorable prior-year reserve development across most accident years and
+lines of business of $14 million and $57 million, and this was lower than the net favorable
+development of $45 million and $108 million in the third quarter and first nine months of
+2013.
+Page 6 of 17
+
+
+
+Company N ame: Fairfax Financial H oldings L td
+Company Ticker: FFH CN Equity
+Date: 2014-10-31
+
+FINAL
+
+Current-period catastrophe losses were also lower in the third quarter and first nine
+months of 2014, accounting for 3.1 combined ratio points and 1.1 combined ratio points in
+those respective periods. Whereas the Alberta and Toronto floods in 2013 were
+principally responsible for adding 8.9 points and 7.6 points to the combined ratios in the
+third quarter and first nine months of 2013.
+In Canadian dollar terms, net premiums written by Northbridge in the third quarter and
+first nine months increased by 7.2% and 3.6%, reflecting higher net risk retention and
+increased gross premiums written at Federated Insurance and at Northbridge Insurance in
+its Western and Ontario regions, partially offset by the strategic non-renewal of an
+unprofitable portfolio business in 2014 and excluding the one-time impact of the
+intercompany unearned premium portfolio transfer on January 1, 2013, between
+Northbridge and Group Re that we describe on page 38 of our third quarter interim
+report.
+Looking at Fairfax Asia, Fairfax Asia's combined ratio improved from 80.9% in the third
+quarter of 2013 to 74.2% in the third quarter of 2014, primarily as a result of increased
+profit commission on reinsurance ceded by First Capital, while it's combined ratio of
+87.6% in the first nine months of 2014 was comparable with the first nine months of 2013
+when it was 87.3%.
+
+Bloomberg Transcript
+
+On a year-over-year basis, in 2014, net premiums written by Fairfax Asia decreased by 3%
+in the third quarter and increased by 18% in the first nine months. Year-to-date increase
+principally reflected increased writings of commercial property – commercial automobile
+and property insurance and in the marine hull lines of business.
+The insurance and reinsurance-other segment, the combined ratios of insurance and
+reinsurance-other division were 99% and 98.2% in the third quarter and the first nine
+months of 2014, compared to 96.4% and 98.3% in those same periods in 2013. The
+decrease in underwriting profit in the third quarter of 2014 principally reflected increased
+current-period catastrophe losses, partially offset by an improvement in the noncatastrophe underwriting margins related to the current accident year and increased net
+favorable prior-year reserve development.
+Net premiums written by the insurance and reinsurance-other reporting segment
+decreased by 11.1% in the first nine months of 2014, primarily reflecting a non-renewal by
+Advent and Polish Re of certain classes of business where terms and conditions were
+considered inadequate, and excluding the one-time impact of the intercompany
+unearned premium portfolio transfer on January 1, 2013 between Northbridge and Group
+Re that we described earlier and that suppressed net premiums written by Group Re in
+the first nine months of 2013 by $39 million.
+Turning now to Runoff, Runoff completed two significant transactions in the quarter. First, it
+provided reinsurance protection to a third-party runoff portfolio of construction defect
+policies, resulting in a recognition of $85 million of non-recurring premiums and a
+corresponding $85 million of incurred losses. And second, Runoff commuted a significant
+
+Page 7 of 17
+
+
+
+Company N ame: Fairfax Financial H oldings L td
+Company Ticker: FFH CN Equity
+Date: 2014-10-31
+
+FINAL
+
+reinsurance recoverable with a carrying value of $313 million and received cash and
+investments of $310 million.
+Runoff reported operating losses of $17 million and $67 million in the third quarter and the
+first nine months of 2014 compared to operating losses of $8 million and $14 million in the
+same periods in 2013. The decrease in operating profitability principally reflected
+incremental operating expenses associated with the construction defect reinsurance
+transaction in the quarter and the American Safety acquisition, which occurred last year.
+The decrease in operating profitability on a year-to-date basis also reflected net adverse
+development at U.S. Runoff in 2014 and a gain on a significant commutation in 2013. After
+factoring in net gains on investments, Runoff reported pre-tax earnings of $75 million and
+$308 million in the third quarter and first nine months of 2014.
+
+Bloomberg Transcript
+
+Our consolidated interest and dividend income increased from $61 million in the third
+quarter of 2013 to $74 million in the third quarter of 2014, reflecting lower total return
+swap expense and a modest increase in investment income earned. In the first nine
+months, consolidated interest and dividend income increased from $273 million to $284
+million in 2014, reflecting slightly higher investment income earned, combined with a
+decrease in total return swap expense.
+The company recorded income tax provisions of $141 million at an effective rate of 23% in
+the third quarter of 2014 and $632 million at an effective rate of 28% in the first nine
+months of 2014. The effective tax rate in the third quarter of 2014 was lower than our
+Canadian statutory income tax rate of 26.5%, primarily as a result of non-taxable
+investment income earned in the U.S. and the release of provisions following the
+completion of certain prior-year's income tax audits, and that was partially offset by
+income earned in the U.S. which is taxed at the higher U.S. statutory income tax rate of
+35%.
+Moving on to our financial position, our total debt-to-total capital ratio decreased to 25.1%
+at September 30, 2014 from 26.1% at December 31, 2013, primarily as a result of the
+increase in our common shareholders' equity, reflecting the net earnings in the first nine
+months of year, partially offset by the issuance in August of $300 million principal amount
+of our senior notes due 2024 for a net proceeds of $294 million.
+We intend to use the proceeds from this offering to fund the repayment upon maturity of
+Fairfax and OdysseyRe unsecured senior notes coming due in 2015, and to redeem in the
+fourth quarter of 2014, $50 million principal amount of OdysseyRe unsecured notes and
+$21.5 million principal amount of American Safety trust preferred securities.
+And now, Prem, I'll pass it back to you.
+
+Prem Watsa
+
+{BIO 1433188 <GO>}
+
+Thank you, Dave. Now, we're happy to answer your questions. Please give us your name,
+your company name and try to limit your questions to only one, so that it's fair to all on the
+call. So, Shirley, we are ready for the questions.
+Page 8 of 17
+
+
+
+Company N ame: Fairfax Financial H oldings L td
+Company Ticker: FFH CN Equity
+Date: 2014-10-31
+
+Q&A
+Operator
+
+FINAL
+
+Thank you. As this time, we're ready to begin the question-and-answer session. [Operator
+Instruction] And our first question comes from Tom MacKinnon with BMO Capital Markets.
+You may ask your question.
+
+Q - Tom MacKinnon
+
+{BIO 2430137 <GO>}
+
+Yeah. Thank you very much. Good morning, everyone. My question has to do really with a
+little bit on the equity hedges. If I look, you made money on the equity hedges in the
+quarter, largely as a result of the Russell Index going down. But looks like you actually had
+to payout money on the equity hedges in the quarter. It looks like about $167 million from
+page 10 and page 12 of the interim report. So, maybe you can just help me understand
+why you actually had to payout that money on these hedges when – aren't they settled
+each quarter or is there just some other timing issue and accounting issue that I'm not
+quite sure of ?
+
+A - Prem Watsa
+
+{BIO 1433188 <GO>}
+
+Yeah. Thank you, Tom. That's a good question. I'll pass it on to Dave.
+
+Bloomberg Transcript
+
+A - David Bonham
+
+{BIO 15243784 <GO>}
+
+Sure. Sure. Yeah. Thanks, Tom. Yeah. You're right on the cash, the actual cash that, that
+was dispersed in the quarter. But you should also note that we do have some receivables
+setup for the mark-to-market that we'll receive in the fourth quarter. So, about $151.3
+million and $126.3 million on the equity index and equity positions respectively, so we'll be
+getting that cash in Q4.
+
+Q - Tom MacKinnon
+
+{BIO 2430137 <GO>}
+
+Okay.
+
+A - Prem Watsa
+
+{BIO 1433188 <GO>}
+
+And Dave, we – it's mark-to-market every month or – yeah.
+
+A - David Bonham
+
+{BIO 15243784 <GO>}
+
+It's mark-to-market, some of them are quarterly, some of them are monthly.
+
+A - Prem Watsa
+
+{BIO 1433188 <GO>}
+
+Yeah.
+
+A - David Bonham
+
+{BIO 15243784 <GO>}
+
+But that's when we pay the cash.
+
+Page 9 of 17
+
+
+
+Company N ame: Fairfax Financial H oldings L td
+Company Ticker: FFH CN Equity
+Date: 2014-10-31
+
+Q - Tom MacKinnon
+
+{BIO 2430137 <GO>}
+
+FINAL
+
+Okay. So, that will be – essentially be getting $380 million coming in pretty soon here and
+that should – so net in the quarter, that should help out then, I guess. All right. Then the
+next question is just with respect to the growth that we're seeing in terms of net
+premiums written in Northbridge. I think it was up 9% maybe on a constant-currency basis
+and there was a mention of an impact of a fronting arrangement as well. I'm wondering
+what impact that had on the year-over-year growth in Northbridge.
+
+A - Prem Watsa
+
+{BIO 1433188 <GO>}
+
+Do you have any comments to that. Dave?
+
+A - David Bonham
+
+{BIO 15243784 <GO>}
+
+I don't have the figure for the top-line gross premiums written, but we look pretty closely
+at our net premiums written and what we actually retain, and that fronting arrangement
+wouldn't have any impact on the...
+
+Q - Tom MacKinnon
+
+{BIO 2430137 <GO>}
+
+Okay. So, on the net premium things, it wouldn't had any impact on the – okay.
+
+A - Prem Watsa
+
+{BIO 1433188 <GO>}
+
+Bloomberg Transcript
+
+On the net premiums written.
+
+Q - Tom MacKinnon
+
+{BIO 2430137 <GO>}
+
+Okay. That's it. Thanks very much.
+
+A - Prem Watsa
+
+{BIO 1433188 <GO>}
+
+Terrific, Tom. Next question, Shirley.
+
+Operator
+Thank you. Our next question comes from Jeff Fenwick with Cormark Securities. You may
+ask your question.
+
+Q - Jeff M. Fenwick
+
+{BIO 15350794 <GO>}
+
+Hello. Good morning.
+
+A - Prem Watsa
+
+{BIO 1433188 <GO>}
+
+Good morning, Jeff.
+
+Q - Jeff M. Fenwick
+
+{BIO 15350794 <GO>}
+
+Prem, just wanted to follow up on, you've been pretty consistent in your commentary
+about the macro risks that you're seeing there and the potential impact on investments.
+Page 10 of 17
+
+
+
+Company N ame: Fairfax Financial H oldings L td
+Company Ticker: FFH CN Equity
+Date: 2014-10-31
+
+FINAL
+
+But when I look at the way that you're deploying some of your funds here, it looks like the
+amount of cash and marketable securities, the balance there has been kind of gradually
+trending lower over the last few quarters. I think it was about 30% of the portfolio start of
+the year, down below 25% now. And just wondering how are you balancing that view of
+the risk and does this imply you're seeing some areas where you are seeing value and
+where you feel the risk reward is attractive to you?
+
+A - Prem Watsa
+
+{BIO 1433188 <GO>}
+
+Yeah. So, Jeff, it's – our cash positions, whether it's 30% or 25%, is not a top-down view.
+It's looking for opportunities and when we don't see them, it's parked in cash. What we've
+seen selectively, Jeff, is opportunities that work for us. And so, the cash has come down.
+It's come down some from 30% to, as you said, a little below 25%. But we're still very
+concerned. We still look at this whole time period as a one-in-hundred-year event.
+
+Bloomberg Transcript
+
+So, if you remember, in the liability side, catastrophes were very low this year in 2014. So,
+there were no windstorms to speak about in Florida, but that doesn't mean that we don't
+protect ourselves from a category five coming into Miami, right? It hasn't come ever. But
+we want to survive that.
+So, in a similar sense, we look at the left-hand side of the balance sheet, the investment
+portfolios, and we always have to protect ourselves from the markets coming down, we
+use that 30%, 40%, 50% drop in the markets. Interest rates going up, all sorts of
+permutations and combinations. But broadly speaking, we're looking at protecting ourself
+from worst-case events on the left-hand side of the balance sheet. And at the moment, it
+doesn't seem to worry too many people. But that doesn't mean we don't protect
+ourselves.
+But the fact that our cash position has gone from 30% to 25% small, we've seen some
+positions. We've taken a position in Eurobank, for example, that's public, that's a new one
+that we've disclosed. But otherwise, our position hasn't changed in any significant way.
+
+Q - Jeff M. Fenwick
+
+{BIO 15350794 <GO>}
+
+Okay. And I guess that feeds into my follow-on question there around the CPI contracts.
+And you continue to add here to the notional value and is there some target in terms of
+just how big you'd like that exposure to be or is it just a question of these contracts, you
+can acquire them at attractive pricing today and it's just giving you more cover and you're
+happy to sit on them?
+
+A - David Bonham
+
+{BIO 15243784 <GO>}
+
+Jeff, that's a good question. We've accumulated – and when I say, it's got some similarity
+to our credit default position, I meant like, when we bought it, you'll remember in the
+credit default position, it dropped quite significantly and we averaged down. And that's
+what we've basically been doing with our deflation swaps. They're long-term contracts
+and we're averaging down. And we've got a very good position now, where I've said in
+the last few quarters that, plus/minus, we're where we want to be. We might use a little
+money just to refresh the CPI indices, get them back to where they are today.
+Page 11 of 17
+
+
+
+Company N ame: Fairfax Financial H oldings L td
+Company Ticker: FFH CN Equity
+Date: 2014-10-31
+
+FINAL
+
+But we see, in sort of worst-case events – and right now, as I said in my prepared
+comments, deflation in six or seven countries in Europe, I mean, actual deflation. China,
+there's a – China's economy is weak, no one knows how weak. But you do know that
+commodity prices have – the price of oil has gone recently from $100 to $80. The price of
+iron ore has collapsed from $190 to less than $80 a ton. And price of copper have
+trended down. So, you're seeing commodity prices come down significantly.
+China's real estate prices are coming down. We've talked about that before. And so, if
+anything happens in China, Jeff, you've got a very significant deflationary factor. And in
+that environment, if that happens, some may say when that happens, these contracts are
+– even though, they've got seven years or eight years to go, they are marketable
+contracts, they react to sentiment about inflation or deflation. So, if you think inflation,
+these contracts will be worthless. But if you – and that means we'd lose $110 million over
+some time period. So, there is very little downside in our book value for that $110 million.
+But if the sentiment changes towards deflation, these contracts will respond pretty
+significantly. And we keep that, because in a deflationary environment, and Japan is a
+great case, it's very difficult to make any money, because everything is going down; stock
+prices are going down and interest rates are going down, credit spreads widen
+significantly. So, it's very difficult to make any money. And perhaps, one of the few places
+you'll make money is on the deflation swap.
+
+Bloomberg Transcript
+
+So, we've got that in the back of our mind and we're very happy with the position that
+we've acquired, and it's been acquired over a few years, as you know. But mark-to-market
+is down like 80%, more than 80%.
+
+Q - Jeff M. Fenwick
+
+{BIO 15350794 <GO>}
+
+Okay. Great. Thank you for your answers.
+
+A - Prem Watsa
+
+{BIO 1433188 <GO>}
+
+Thank you, Jeff. Next question, Shirley.
+
+Operator
+Thank you. Our next question comes from Paul Holden with CIBC. You may ask your
+question.
+
+Q - Paul Holden
+
+{BIO 6328596 <GO>}
+
+Thank you. Good morning.
+
+A - Prem Watsa
+
+{BIO 1433188 <GO>}
+
+Good morning, Paul.
+
+Q - Paul Holden
+
+{BIO 6328596 <GO>}
+
+Page 12 of 17
+
+
+
+Company N ame: Fairfax Financial H oldings L td
+Company Ticker: FFH CN Equity
+Date: 2014-10-31
+
+FINAL
+
+Wanted to ask you about the position you have in U.S. treasuries and other fixed-income
+products outside the munis, which we know you're going to hold to maturity. In the past,
+when rates have dropped to extremely low levels such as this, we've seen you sell some
+of U.S. treasuries. Not sure you did the same this quarter. Maybe your updated thoughts
+on your holding of fixed income.
+
+A - Prem Watsa
+
+{BIO 1433188 <GO>}
+
+Yeah. So U.S. treasuries is a good – another case as to what happens in the marketplace.
+We've had QE3, I don't know, about a year ago or so or a little longer, and most people
+expected interest rates to go up and treasuries did go up. When they started tapering,
+which most people would have expected interest rates to go up, long treasuries to go up
+further, they started tapering, meaning they're no longer buying treasuries. Treasuries
+rates have come down. Long treasuries ended the year 2013 at close to 4% and they've
+been trending down every quarter. They ended the September quarter at 3.20% and now
+they're at 3.05% or something, to the surprise of many.
+
+Bloomberg Transcript
+
+So, that's another possibility of deflation being in the air, because if you have a deflation in
+the United States, or very lower rates of inflation, then of course you'd gravitate towards
+the most-secure bonds, which is U.S. treasuries, and we continue to have some. We've
+sold in the past at the 2.50% area, I think, Paul, and we keep our options open as to
+where we'd sell them. But a long treasury we've sold at approximately 2.5%. But I must
+say that Van Hoisington, who I've quoted before, came out with an excellent third quarter
+for our shareholders.
+I want you to make sure you read that, because it's an excellent third quarter report. He's
+the only guy that we know of in many – among money managers, who's got it right in the
+last 10 years. And he's been very positive on long treasuries. And he's made the point
+that the velocity of money, which impacts how an economy does, in United States, it's
+been trending down significantly, but it's been trending down in Europe even more; and in
+Japan, even more in absolute rates. And it's what looking at those figures, because it
+does make some very good points.
+So, we continue to like the treasury position. It's not cute, but it can be significant in terms
+of making some money for us. But Jeff (sic) [Paul] (40:32), it's interesting to me when I
+watch the fact that QE3 came in and interest rates, QE3, what it did was buy bonds and
+other things, which you'd expect the interest rates to come down, they did the opposite.
+When they stopped, the Fed stopped, interest rates came down.
+So, Paul, thank you for that. And what's your – anything else that you had, Paul?
+
+Q - Paul Holden
+
+{BIO 6328596 <GO>}
+
+Just one other question that's unrelated is, on the cat losses, obviously, this has been a
+year of low cat losses. If cat losses will return to more normal levels, what kind of impact
+you think that would have on the combined ratio?
+
+A - Prem Watsa
+
+{BIO 1433188 <GO>}
+Page 13 of 17
+
+
+
+Company N ame: Fairfax Financial H oldings L td
+Company Ticker: FFH CN Equity
+Date: 2014-10-31
+
+Yes. Cat losses fluctuate and our cat exposures are coming down some. But Dave, would
+you have an answer to that?
+
+FINAL
+
+A - David Bonham
+
+{BIO 15243784 <GO>}
+
+Yeah. So, I'm looking at our cat losses about 4 points – in 3 points, 4 points on the third
+quarter and first nine months, and maybe a more normal number would be 5 point or a
+little higher than 5 points. So, it would be a little more significant, but I don't think it would
+be within our expectations of how we price the business. So, there'll be no surprises
+there.
+
+A - Prem Watsa
+
+{BIO 1433188 <GO>}
+
+We take a certain amount of cat margin or we expect certain cat, this hasn't (42:03) been
+a very god year, as you know, Paul. But yeah, so I think the industry has benefited from the
+fact that there hasn't been cat. But we take that into account. We've had 2011, which was a
+huge cat year across the world and it was well within our tolerances.
+
+Q - Paul Holden
+
+{BIO 6328596 <GO>}
+
+Okay. Thank you.
+
+A - Prem Watsa
+
+{BIO 1433188 <GO>}
+
+Bloomberg Transcript
+
+Thank you very much, Paul. Next question Shirley?
+
+Operator
+Thank you. That comes from Mark Dwelle with RBC Capital Markets. You may ask your
+question.
+
+Q - Mark A. Dwelle
+
+{BIO 4211726 <GO>}
+
+Hey. Good morning.
+
+A - Prem Watsa
+
+{BIO 1433188 <GO>}
+
+Good morning, Mark.
+
+Q - Mark A. Dwelle
+
+{BIO 4211726 <GO>}
+
+Question for Dave, you commented on the Zenith and the improvement in their
+combined ratio. I just wanted to clarify, were you saying that they had an end-of-theperiod reduction in the loss PIK (42:55) for the year such that there was a kind of catch-up
+– favorable catch-up adjustment in this quarter's result, or were you just saying that the
+actual PIK (43:02) has been lower each sequential quarter this year relative to last year?
+
+A - David Bonham
+
+{BIO 15243784 <GO>}
+
+Yeah. The PIK (43:09) has been lower and I don't think there was any particular catch-up in
+the third quarter. They've been looking at the loss ratio PIK (43:18) for this accident year
+Page 14 of 17
+
+
+
+Company N ame: Fairfax Financial H oldings L td
+Company Ticker: FFH CN Equity
+Date: 2014-10-31
+
+and started to see these trends emerging earlier on in the year. So, that PIK (43:26) for
+the 2014 loss ratio has been fairly consistent throughout the year.
+
+FINAL
+
+Q - Mark A. Dwelle
+
+{BIO 4211726 <GO>}
+
+Okay, that's kind of what I thought. I just – the way it was said, it kind of threw me for a
+loop. So, thanks for that. The second question – the second topic I wanted to talk about
+was just the Runoff purchase of the Everest Re contractors business. I mean, that's a
+business line that's been notoriously difficult across the industry. I was just curious kind of
+some background or any other details you could provide about that deal.
+
+A - Prem Watsa
+
+{BIO 1433188 <GO>}
+
+Bloomberg Transcript
+
+Mark, we have a very specialized Runoff operation. There is only two or three of them
+who can compete with us. We look at every claim. We look at all the claims in detail. Our
+guys are – that's all they do. They know the exposures and our record, Mark, is excellent,
+like we've made some terrific purchases in the last five years or six years. And so, it's like
+anything else. When you buy these reserves, you have to have a margin of safety, and we
+have a margin of safety when we buy reserves from Everest Re or from other deals that
+we've done in the past. And if we don't get the margin of safety, this is not a growth
+business for us. Very simply, we won't do it.
+So, if we don't get the price that we're looking for, we don't do it. And all of us are
+involved. It comes from the Runoff, Andy looks at it. Chief Risk Officer, Peter Clarke looks
+at it and I look at it. And it has to be priced properly before we make the purchase. And
+we're very comfortable with what our CEO, Nick Bentley, who leads Runoff operation, has
+done on this purchase.
+
+Q - Mark A. Dwelle
+
+{BIO 4211726 <GO>}
+
+Okay. That's helpful. I'll drop off there. Thanks.
+
+A - Prem Watsa
+
+{BIO 1433188 <GO>}
+
+Thank you, Mark. Next question, Shirley?
+
+Operator
+Thank you. That comes from Mikelo (sic) [Mikel] (45:39) Abasolo with Solo Capital
+Management. You may ask your question.
+
+Q - Mikel Abasolo
+
+{BIO 3756596 <GO>}
+
+Yes. Thank you and good morning. My question is on Eurobank. I think that yours is a bet
+(45:53) on the Greek economy restoring balance, avoiding a structure of deflation (45:58)
+and ultimately remaining in the Euro. My question is why did you trust Greece's macro
+economy to be as resilient as Ireland's, allowing you to score similar success with
+Eurobank, perhaps, as you had with Bank of Ireland? And if I may, on your other Greek
+investments, particularly Mytilineos, what is your stance now that the stock prices have
+collapsed again in Greece? Thank you very much
+Page 15 of 17
+
+
+
+Company N ame: Fairfax Financial H oldings L td
+Company Ticker: FFH CN Equity
+Date: 2014-10-31
+
+FINAL
+
+A - Prem Watsa
+
+{BIO 1433188 <GO>}
+
+Thank you, Mikelo (sic) [Mikel] (46:27). In Greece, first of all, we've always been long-term
+investors. We like the leadership of the country. We think it's pro-business. We think
+Greece has suffered greatly in terms of its economic position and it's bottoming out and,
+in fact, increasing – economically increasing. We think Eurobank – the banking industry in
+Europe, in Greece, there were about 20, 25 banks five years, six years, seven years ago,
+while there is only four now and Eurobank is one of the four. They're approximately the
+same size and Eurobank is very well run. So, we like that.
+We like the management team of Eurobank. And we feel very confident that over the long
+term, Eurobank will do well, as well as the Bank of Ireland has done for us in Ireland. If you
+just take Ireland for two years, in 2011, it's difficult to think how Ireland – the prospects for
+Ireland was two years ago or three years ago in 2011. And today, it's so different. So, it's
+very difficult to tell how Greece's positioned will be a few years from now. We think it will
+be good.
+As far as the prices coming down, Mikelo (sic) [Mikel] (48:00), these are the fluctuations.
+They go up, they go down. We don't pay too much attention to them. We look at the long
+term. And in the long term, we think Greek investments will do very well. So, thank you for
+your question Mikelo (sic) [Mikel] (48:16). I'll pass it on to Shirley for any other questions.
+Shirley?
+
+Q - Mikel Abasolo
+
+{BIO 3756596 <GO>}
+
+Bloomberg Transcript
+
+Thank you very much. Yes. Thank you.
+
+Operator
+Thank you. And our final question comes from Marvin Dice with Royal Securities (48:26).
+You may ask your question.
+Yes. Congratulations on an excellent third quarter and nine months. And my question
+relates to the intrinsic value of Fairfax. Is there a rule of thumb, so to speak, such as 1.5
+times stated book to arrive at an approximate intrinsic value of Fairfax? I have never heard
+management refer to their approximate estimation of intrinsic value. Are you comfortable
+in issuing your appraisal of intrinsic? If you would, please, comment on this, I'd appreciate
+it. Thank you.
+
+A - Prem Watsa
+
+{BIO 1433188 <GO>}
+
+Well, thank you for that question, Marvin (49:00). We really are not – we manage the
+company. We're all long-term shareholders, have got, I don't know, 80% to 85% my net
+worth in Fairfax. But what the intrinsic value of the company is that we leave to you and all
+the shareholders who've been with us for a long time. But our track record is very good.
+Over the long term, our track record is excellent. And you have to take that into account
+and see what you think the price – the appropriate price is. But we don't estimate and we
+don't give you a sense for what we think the intrinsic value is, because really that would be
+promoting the company and the stock price and we've never done that.
+Page 16 of 17
+
+
+
+Company N ame: Fairfax Financial H oldings L td
+Company Ticker: FFH CN Equity
+Date: 2014-10-31
+
+We believe that we need to disclose all the information. We believe we have to perform.
+We want to increase book value long term 15%. Our track record since inception is closer
+to 22%. But of course, there's no guarantee that we'll get you 15% over the long term. But
+the value of the company we leave to our share holders and yourself, Marvin (50:22).
+
+FINAL
+
+Thank you, Marvin (50:25). Shirley, can I have the next question, if there is one.
+
+Operator
+Thank you. At this time, I'm showing no further question.
+
+A - Prem Watsa
+
+{BIO 1433188 <GO>}
+
+So, Shirley, if there's no more questions, I thank everyone for joining us on this call. And
+we look forward to presenting to you again after the next quarter. Thank you very much.
+
+Operator
+
+Bloomberg Transcript
+
+Thanks. And this does conclude today's conference. We thank you for your participation.
+At this time, you may disconnect your lines.
+
+This transcript may not be 100 percent accurate and may contain misspellings and other
+inaccuracies. This transcript is provided "as is", without express or implied warranties of
+any kind. Bloomberg retains all rights to this transcript and provides it solely for your
+personal, non-commercial use. Bloomberg, its suppliers and third-party agents shall
+have no liability for errors in this transcript or for lost profits, losses, or direct, indirect,
+incidental, consequential, special or punitive damages in connection with the
+furnishing, performance or use of such transcript. Neither the information nor any
+opinion expressed in this transcript constitutes a solicitation of the purchase or sale of
+securities or commodities. Any opinion expressed in the transcript does not necessarily
+reflect the views of Bloomberg LP. © COPYRIGHT 2022, BLOOMBERG LP. All rights
+reserved. Any reproduction, redistribution or retransmission is expressly prohibited.
+
+Page 17 of 17
+
+

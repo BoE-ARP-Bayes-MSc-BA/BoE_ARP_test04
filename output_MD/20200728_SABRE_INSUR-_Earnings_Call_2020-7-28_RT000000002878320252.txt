@@ -1,0 +1,1035 @@
+Company N ame: Sabre I nsurance Group PL C
+Company Ticker: SBRE L N Equity
+Date: 2020-07-28
+
+S1 2020 Earnings Call
+Company Participants
+FINAL
+
+Adam Westwood, Chief Financial Officer and Executive Director
+Geoff Carter, Chief Executive Officer and Executive Director
+Hanro van Heerden, Group Finance Quality Director
+James Ockenden, Chief Actuary
+Trevor Webb, Claims Director
+
+Other Participants
+Andreas de Groot van Embden
+Ivan Bokhmat
+Ming Zhu
+Nicholas Johnson
+Thomas Bateman
+
+Bloomberg Transcript
+
+Presentation
+Geoff Carter
+
+{BIO 20756770 <GO>}
+
+Okay, everyone. Good morning. Thank you very much for joining us. This is the first time
+we tried this via Zoom. Very sensibly, I'm not then allowed to press any of the buttons, but
+I'm sure I'm still going to find some way making a hash off of this at some point. Just a bit
+of housekeeping before we start.
+The people presenting today are the same faces you've seen before. Sorry about that,
+and also Hanro is on here as well. Hanro is a senior accountant in the finance team, and
+he's on here to help us with the questions. There's two ways of asking questions here. At
+the bottom of your screen, you'll see a chat box. If you have questions as we go through,
+then feel free to type the questions straight into that chat box and at the end, Hanro will
+ask those questions on your behalf. The other option, in the participants box, you'll find a
+raised hand bit. So when we get to the Q&A, you can virtually raise your hand, at which
+point, Hanro will tell us you're ready to ask a question. I hope that's all going to work. We'll
+find out shortly. So I think at that part we'll push on.
+So if we can go to the agenda, please. Thanks a lot. This is agenda will look pretty familiar
+to many of you. We're going to talk through the highlights, the financial results, the market
+context. Clearly, we're going to touch on the COVID impacts, a very brief reminder of our
+strategy and then the summary and outlook, the outlook being somewhat more confusing
+than perhaps in previous sessions.
+
+Page 1 of 17
+
+
+
+Company N ame: Sabre I nsurance Group PL C
+Company Ticker: SBRE L N Equity
+Date: 2020-07-28
+
+FINAL
+
+If you can click on to the financial highlights, please. One more would be great. Thanks. I
+would say we are pretty pleased with these results while we recognize there are many
+other challenges for individuals and companies in the U.K. We've continued our absolute
+focus on profitability. We think we've delivered pretty encouraging results as we start to
+exit from lockdown. We're pretty certain we've delivered leading underwriting
+performance, clearly given the strong profitability and a lot of organic capital generation.
+Premiums have been on something of a roller coaster. At times, in April, we were 40%
+down, and we'll touch on why that was later. June on the other hand has rebounded very
+strongly, 12% up year-on-year on June, and July looking very similar to June at this point.
+So a very strong rebound from a quite difficult output has not been commence. We've
+applied some data-driven temporary price reductions, and what we should probably say
+here is these are not reductions, these are less increase. Something that we've already
+put through.
+
+Bloomberg Transcript
+
+We are continuing to cover claims inflation at the level we see it, about 7.5%, 8%. And
+we're fully on track to cover claims inflation and other cost inflation through the year. So a
+very tight focus on cover and claims inflation. And I guess a highlight here is the interim
+dividend. We're really pleased that we've been able to pay our normal interim dividend
+and returned partial amount of the excess capital through the deferred special dividend
+from the year-end.
+We're very conscious on why people invest in us, and we see it as important that we do
+return dividends. Very strong capital coverage, 218% pre the dividend and 178% post. You
+can see the numbers on the right-hand side of the screen. Good loss ratio on the
+expense ratio and a very strong combined operating ratio.
+We flick to some of the operational highlights. Get the next slide please. Thanks. I guess a
+few -- the overall focus for us here really is to ensure we are pricing correctly for the longterm and not getting distracted by short-term temporary trends, and that we bring
+colleagues back to the office in a safe and secure way. What are some of the key things
+are working on? We're continuing to support customers as lockdown eases. So we're
+making sure we charge the correct price for the claims frequency we see ahead of us,
+and will assist our direct customers on any payment issues.
+We've had some temporary price discounting, which we'll talk about later. Key focus us
+right now is to unwind them in parallel to traffic in claims frequency increasing.
+Continuing to cover claims inflation, we will optimize our profit within our normal 70% to
+80% combined operating range. We are maintaining a pretty conservative set of
+assumptions, both in terms of pricing and partially in reserving to make sure we end up on
+the right side of the line. But we don't want to be too unambitious. We don't want to be
+too optimistic. We want to end up in the right place on our combined ratio first. Volume, as
+ever, is a secondary consideration for us.
+I'm delighted to say that James and the actuary was able to continue to find new rating
+factors that we've rolled out in half one, and we want to see the benefit of those start to
+Page 2 of 17
+
+
+
+Company N ame: Sabre I nsurance Group PL C
+Company Ticker: SBRE L N Equity
+Date: 2020-07-28
+
+FINAL
+
+come through in the second half. The team had done a great job to carry on work on the
+Saga implementation, and we'd hope to have that live maybe around October. And
+clearly, we'll look to maximize the benefit from that. And I guess sadly, we have to ensure
+we are still ready for any second lockdowns or national lockdowns that might occur.
+On this next -- sorry, Sam, next slide, that'll be great. This is a slide that we've
+unashamedly clipped from one of the major market seminars, just probably one of the
+key things we focus on. On the x-axis, you have the combined ratio, and on the y, you had
+the premium. We've maintained our position in the far left of this chart for a very long
+time. And probably it's one of our key focus to make sure we remain there. We're very
+pleased. This is the full year '19 numbers and that's exactly where we'd hope to be with a
+market-leading combined operating ratio. Now having stolen most of Adam's thunder,
+now I will pass to Adam and let him talk about the financial highlights.
+
+Adam Westwood
+
+{BIO 20481660 <GO>}
+
+Bloomberg Transcript
+
+Yes, thanks Geoff. So if we can flip forward to the next slide, please. Thank you. So let's
+move straight on to a summary of our H1 2020 result. So our top line premium came in at
+GBP86.9 million for the period, given our last reported position at the end of April was
+around 15% down year-on-year. This shows an improvement in the weekly run rate, with
+encouraging signs in May and then strong premium above 2019 in June and into July.
+Accordingly, net earned premium was down, but this does benefit from some of the
+earned through premium written in 2019. Combined ratio, perhaps unsurprisingly, very
+strong for H1 2020, coming in at 71.7%, which I'll discuss in more detail shortly. In
+investment return, we implemented IFRS 9 from the 1st of January and classified the bulk
+of our investment portfolio at fair value through OCI. So the investment return recorded in
+the profit and loss now has become reflective of the overall portfolio yield, with market
+value movements taken below the line.
+So profit after tax, as you would expect, is a function of all of the above, with earnings per
+share being proportionate to profits, profit after tax being GBP22.5 million for H1 2020. So
+having generated further excess capital during H1 and now having taken the time to
+assess the impacts of the lockdown environment, we are happy to announce that we've
+declared the payment of both the ordinary interim dividend of 4.3p per share and the
+deferred 5.2p distribution of excess capital, which we elected not to distribute earlier in
+the year. So the total distribution is, therefore, 9.5p per share at a interim stage. Excluding
+the capital required to fund the dividend, our post-dividend solvency coverage ratio is
+178%, so that's somewhere above our preferred operating range.
+On to the next slide please. So the usual breakdown of our underwriting performance. As
+ever, we'll take a look at our expense and loss ratio separately. So our financial loss, year
+loss ratio came in at 45.1% for H1 2020. That's a current year loss ratio of 55.4%, offset by
+a 10.3% benefit from prior years. That compares to 2019 H1 where the current year loss
+ratio was 64.3% and the prior year benefit was 16.1%. So our current year loss ratio is
+better than the prior year, offset by lower benefit from prior year runoff. That's completely
+consistent with our expectations that a lower claims frequency in H1 2020 would lead to a
+
+Page 3 of 17
+
+
+
+Company N ame: Sabre I nsurance Group PL C
+Company Ticker: SBRE L N Equity
+Date: 2020-07-28
+
+current year benefit and that the level of prior year runoff would decrease over time as
+we've seen. So expense ratio is up against 2019 at 26.6%.
+
+FINAL
+
+Removing the one-off benefit of a accrual release in 2019, the comparative expense ratio
+would have been around 24%, so still up. The increase is driven by slightly higher costs,
+particularly in things like industry fees and levies, and that's taken over a premium basis
+lower than it would have been in the comparative period.
+Our costs still remain well under control. And we do, of course, continue to cover the
+increasing cost of claims and underlying expenses in our pricing to keep our combined
+ratio within the favored 70% to 80% range.
+
+Bloomberg Transcript
+
+So on to the next slide please. Our investment portfolio, while remaining very
+conservative, does look a little different now. As we discussed in January, we appointed
+Goldman Sachs to assist with our asset management with a mandate to maintain a low
+capital, low-risk portfolio, still predominantly back to increase our yield over the long term.
+We've chosen to step carefully into our revised portfolio and have currently invested a
+small amount of our assets into highly rated corporate bonds. We've got no direct
+exposure to the equity markets and have seen relatively little impact on our portfolio of
+recent market turbulence. We've continued to maintain slightly more cash than all,
+ensuring we retain excess of liquidity.
+Then as a reminder that from the 1st of January, we adopted IFRS 9 for the first time. So
+there hasn't been any material impact on the balance sheet of doing so, but going
+forward, we recognize the market value gains and losses on our bond portfolio below the
+line in our accounts, which will result in investment gains to be recognized more
+appropriately over the life of the holdings, reducing P&L volatility. How do we recognize
+market value movements through the P&L in H1 2020? We would have showed a slightly
+higher profit than we have.
+On to the next slide please. So having traded profitably through H1 2020, we've
+generated further excess capital, leaving us at a solvency coverage ratio of 218% pre
+dividend. When we elected not to declare a special dividend in respect of 2019, we said
+that we were deferring distribution due to the very recent severe restrictions placed on
+travel and the economy. Now several months later, with lockdowns being eased and the
+economic impact becoming more clear, we've decided that it's appropriate to pay the
+special dividend we would have paid earlier as well as our interim ordinary dividend in
+respect to 2020.
+We are therefore declaring an ordinary interim dividend of 4.3p, in line with our dividend
+policy, which is 1/3 of the prior year ordinary dividend, and a special dividend of 5.2p,
+representing the deferred 2019 special. That means we're declaring a total odd interim
+distribution of 9.5p per share, and our post-dividend capital is up 178%. We consider that
+to be more than adequate to cover any reasonably foreseeable shocks, and it leaves
+headroom for growth should that be desirable.
+
+Page 4 of 17
+
+
+
+Company N ame: Sabre I nsurance Group PL C
+Company Ticker: SBRE L N Equity
+Date: 2020-07-28
+
+FINAL
+
+On to the next slide, please, on final slide. So this is just a reminder of our overall
+approach to capital management.
+In normal circumstances, we prefer to operate within the capital range of 140% to 160%
+and manage this through the distribution of surplus capital via dividends. By convention,
+this is measured as being the period end position less the cash required to fund any yearend dividend payments. And the dividend payment is not actually paid till sometime after
+the period end. So the actual level of capital we've held over the last two years has been
+considerably higher, as demonstrated on the chart on this slide. Of course, the level of
+capital held during H1 was particularly high due to a deferral of the 2019 special dividend
+and the strong levels of organic capital generation during the period.
+On that note, I'll pass back over to Geoff for the next slide please.
+
+Geoff Carter
+
+{BIO 20756770 <GO>}
+
+Bloomberg Transcript
+
+Thank you, Adam. As usual, we are going to spend some time on our view of the market
+context. So perhaps we can go to the next slide. First one is on claims inflation, very
+consistent message here.
+You would be pleased to hear we're not calling any further increases in claims inflation.
+Our view is that inflation has topped up. We don't see it increasing from here nor do we
+see any reason that it's going to decrease in here in any sensible set scenarios. I think this
+year we need to look through what will be a slightly odd picture with the lower claims
+frequency driven by the COVID impacts. So our focus is looking through those COVID
+impacts on pricing for the long term while we are still covering and recovering in this
+year's rate inflation of 7.5% to 8.5%, plus a couple of points to industry levies. So by the
+end of this year, we would have expected to have covered around 10% in price increases.
+On to the next slide if you can please. So this is exactly the same slide you put into the
+year-end. I think we will continue to focus on industry levies, especially MIB. We had our
+reinsurance renewal in July, where the increase came in exactly as we expected. We said
+we saw market increases of between 10% and 30%, and we expect to be somewhere
+just up and around the middle, and that's exactly where we ended up.
+On to the next one please. So this is the first new piece of news in some ways in the
+market context in the claims volumes in recent months. I guess if those of you who follow
+in the government traffic days, so this is a very, very similar profile, where we probably
+bottomed out at 65% or 70% down. The real question is where the volumes go from
+here. I think the most recent stats I've seen say traffic is back to 90%, maybe even 100%.
+It might be claims are late in that moving slightly. For us, the key thing is we need to
+unwind the discounts we've had in place in line with this increase in traffic as we don't
+want to get caught behind the pricing curve.
+The next slide please. Now this is an interesting slide. This is our premium over this year. If
+you recall at the full year, we came into the year really looking to, I thought, optimize and
+maximize our margin by putting on a lot of price increase in the first quarter. When we did
+Page 5 of 17
+
+
+
+Company N ame: Sabre I nsurance Group PL C
+Company Ticker: SBRE L N Equity
+Date: 2020-07-28
+
+FINAL
+
+the full year results, I think it was the same week that lockdown had commence, and we
+really didn't have much idea what was going to go on. I don't think we quite expected the
+dip we then saw.
+If you look at the graph, you can see we -- during April, up to 40% down week on week.
+As lockdown has eased, that has bounced back very, very strongly. It's almost like we hit a
+trampoline at the bottom, and we've bounced back up. What has cause that? There are
+some push and pull factors. The push factors in the recovery are that we have pushed out
+some temporary rate discounts, still pricing at 75% combined ratio. The pull factors are car
+sales recovery and the return to the market of new and inexperienced drivers and
+potentially people who use public transport in the past and are now considering car
+purchase and car usage, maybe for the first time.
+
+Bloomberg Transcript
+
+So we've seen the push from our prices and the pull from wider market. I think the
+question now really is, where do low sales go? We don't expect to continue at 10% or 12%
+outperforming on a monthly basis. As we unwind our discounts, I'm sure that's going to
+come down. Interestingly, reading the statement from one of the price comparison
+websites this morning, they painted a very similar picture in terms of volume and have
+spoken about pent-up demand in those first few weeks. So we'll have to see how much
+of that was a bubble and how much of that eases down.
+I certainly wouldn't expect to be going anywhere near the sort of bottom of that graph
+again, but nor do I expect necessarily to stay right at the top. This is quite a good
+demonstration of the Sabre strategy in a very compressed period. When something
+happens in the market that we don't understand, we stop, we take stock. We accept the
+volume decrease while that happens. We build some sophisticated data models that we
+can test our assumptions and volumes against and then we apply those prices with
+conviction, which is what we've done. What we don't do is knee jerk and we didn't chase
+volume during April. That I think would have been a bit of a false task really. Our focus on
+here is to keep focused on the correct price and let volume take care of itself.
+Next slide if you can please. This is the same slide we put up at the full year. I think what
+we're really saying here is all the issues we saw driving premium inflation still exist. They
+haven't gone away. The work actually forms an out backflow for '21. The other factors are
+still there. They just may be slightly camouflaged this year.
+Next slide, if you can. Now this is a slide that makes a appearance every time and will
+probably continue to do so. Basically, we are quite cautious if we are correct, that the
+market has to correct prices with the right volume at that point. If we're too cautious, then
+data will prove that and allow us to reduce prices, which is pretty much what happened as
+we came through April, into May, June and July. So I think this really demonstrates how we
+tend to approach life.
+Next slide, if you can, please. If you recall at the full year, we -- given we were in the first
+week of lockdown, we tried to do some crystal ball gazing. I said, what do we think might
+happen? So we thought it was only right that we march our own homework a little bit on
+this stuff. On the cost reduction factors, well, I think we can say we got that one right,
+
+Page 6 of 17
+
+
+
+Company N ame: Sabre I nsurance Group PL C
+Company Ticker: SBRE L N Equity
+Date: 2020-07-28
+
+FINAL
+
+perhaps not too surprisingly. We framed claims frequency, clearly did come down
+significantly.
+On the cost inflation side, we took a look at some of the things we were concerned about
+and what's happened. We were concerned about parts availability, principally through
+China. As lockdown has unwounded in different countries, that doesn't seem to have
+become an issue. Body shop capacity, at the moment, feels okay. We'll have to see how
+that goes as lockdown continues to ease and accidents increase. Increase in miles driven
+post distance. Well, that's still a risk. I think we're near 100%. Will the margins go past
+100%, we'll have to see.
+
+Bloomberg Transcript
+
+I think I was concern about gangs of people rampaging on the streets and the theft and
+vandalism. That didn't happen, I'm pleased to say. We still think there is propensity for
+financial stress, especially as furlough winds down which could lead to forward
+exaggerated claims. That will then feed straight into increased loss of earning and
+potentially some pull behavior from some of the claims management companies, which
+we'll talk about later.
+On the next slide, please. I guess as we sit here today, these are the new things we are
+thinking about. Some of them are positive for price and some of them are negative. What
+are the concerns? Traffic volume increases, different claims patterns start to come
+through. The market fails to rise prices -- faster raise prices in line with the increased
+exposure and the customer impacts we've discuss. All of those could be offset wholly,
+partly or not at all by things on the right-hand side, reduced volumes, transition away from
+public transport, which brings new car lines into the market, and potentially, some
+competitors needing to sharply reverse some of the price discounts that were in during
+April.
+On to the next slide, please. On some claim specific issues, some interesting stuff coming
+through here. Variations across geographic regions. Clearly, Scotland and Wales, they
+locked down for longer as an obvious one. An increase in the proportion of accidents
+involved in cyclists. Inexperienced cyclists and rusty drivers are not a great combination.
+Some pent-up demand we're seeing come through, unsubmitted windscreen claims.
+Some evidence of some pretty expensive credit hire claims. We're seeing some poor
+behaviors here. Trevor's team successfully defended a GBP300,000 claim on one credit
+hire case. That was when an Audi car, where the car was worth about GBP50,000. The
+credit hire bill was presented at GBP300,000.
+We are seeing some similar examples like that start to come through. A really interesting
+one is an increase to -- in cost to claim in sanitized vehicles. I don't think we can argue with
+the principle of cleaning vehicles. What we are seeing is a cleaning cost per vehicle range
+of between GBP5 and GBP100. Now if you think that could happen 4x on a claim, when
+the car is taken in, when the car is given back, when the courtesy car's given out, when the
+courtesy car's given back. We think we are going to see some very, very exaggerated
+parts of claims coming through for that, some pressure on raising body shops as they
+seek to recover loss of income and a possible increase in nursing and care costs.
+
+Page 7 of 17
+
+
+
+FINAL
+
+Company N ame: Sabre I nsurance Group PL C
+Company Ticker: SBRE L N Equity
+Date: 2020-07-28
+
+On the next slide, if you can. Clearly, the world is not just about COVID. We need to
+continue to maintain our tight focus on the underlying claims inflation factors we've
+discussed. The whiplash reforms, I think some people will be optimistic on the pricing
+assumptions there. Our view is until we see the detail, it's very hard to draw a sensible
+pricing conclusion out of that. Brexit is happening tumultuous. If that is slightly chaotic and
+disorderly, there could be some increase costs to nursing care costs and part tariffs. That,
+to us, will just form part of our claims inflation assumptions going forward, and other
+regulatory issues, which clearly includes the FCA loyalty pricing review.
+Next slide -- or next two slides, please. Thank you. This slide I'm sure most people are
+getting bored of it by now, but we will continue to put this up. Our strategy hasn't
+changed nor do I expect it to change. Market-wide maintained wide underwriting
+footprint. We are currently quoting for about 98% of risks in the U.K. Underwriting
+performance, well I think we've demonstrated our adherence to that and a strong
+performance year-to-date. Strong returns in cash generation, hopefully, our dividend
+announcement today has demonstrated our commitment to that piece. Premium growth,
+a sort of mixed message, I guess, this year, down, but then we've been very happy to
+accept growth as volumes have bounced back in June and July.
+
+Bloomberg Transcript
+
+The next slide will also make a regular appearance in these presentations. Just to restate
+our target, and the long-term is 75%, that's our bull's-eye. In soft market conditions, we're
+perfectly happy to write towards 80%, where that optimizes our profit. We'll be coming at
+towards 70%, and even as we've increased prices to protect capacity or some other
+good news has come towards us.
+On the summary slide, so overall, we are pretty pleased with where we sit at the half year.
+We are very comfortable with our position. We're very focused on our long-term strategy.
+We're continuing to focus on profitability, not volume. Market conditions have improved
+very significantly since our AGM trading statement. I certainly don't expect to be back in
+the troughs we experienced around volume anytime soon. We're very comfortable with
+our rating on new and renewal business.
+The price discounts we past through to customers have given -- have worked within
+cautious assumptions. So we haven't over pushed it and now we're comfortable that the
+business we're writing is still with our long-term margins. The reduced uncertainty has
+allowed us to return the excess capital through a dividend, as you're seeing today.
+The outlook, the final slide we'll talk through. Premium for the year is uncertain. As we've
+said, it's been a roller coaster. I don't expect to continue at quite the same level of
+outperformance nor do I expect to get back massively below last year. Where it is in that
+range really does depend on the market dynamics and where people price and whether
+some of the pull factors sustain as we go through the second half.
+We're very confident that core will be in our target corridor and close -- very close to our
+mid-70s target. And we're going to continue generating organic capital and we're, again,
+pretty confident we're going to deliver an attractive dividend for the full year as well. Well
+hopefully I've not turned off the screen as I've done that, and you're all still there. At this
+
+Page 8 of 17
+
+
+
+Company N ame: Sabre I nsurance Group PL C
+Company Ticker: SBRE L N Equity
+Date: 2020-07-28
+
+point, we're going to go to Q&A if that's okay. So, as a reminder, if you go to participants
+tab, there should be a sort of virtual raise your hand or you're your questions in the chat,
+whatever is easiest for you. Hanro, I think, is going to be monitoring that and Hanro, you
+will hopefully now be unmuted and can tell us who's got a question.
+
+FINAL
+
+Questions And Answers
+A - Geoff Carter
+
+{BIO 20756770 <GO>}
+
+(Question And Answer)
+
+A - Hanro van Heerden
+So currently we don't have any questions in the chat or the e-mail, but we do have a
+question from Ivan Bokhmat that's raised his hand. If we can unmute him.
+
+Bloomberg Transcript
+
+Q - Ivan Bokhmat
+
+{BIO 15378004 <GO>}
+
+Hi, good morning. Thank you for the presentation I've got two questions please. The first
+one, you mentioned that you've started to unwind some of the discounts that you've
+applied throughout the lockdown. Just wondering if you're starting to see similar actions
+taken by some of your peers, maybe kind of the most recent feeling that you have on the
+pricing in the market? And second question that's related to the regulator. I'm just
+wondering whether you've had any kind of articulated response to your decision to pay
+the dividends, including the special. And secondly, whether you've had any feeling of what
+the attitude might be towards measures to help customers through the lockdown. We
+know that one of your peers have made big refunds to customers. And in the light of the
+FCA price review, I'm just wondering if the regulator may now have a more articulated
+view of what was the appropriate approach in this situation.
+
+A - Geoff Carter
+
+{BIO 20756770 <GO>}
+
+Thanks. I'm going to take those in reverse order, if that's okay, Ivan. And maybe, James,
+you can unmute yourself, too, and talk about the pricing bit at the end. On the attitude
+towards customer measures, the discounts we've given have been to new and renewing
+customers. As you know, we don't dual-price. We charge the same price to new and
+renewing customers. We don't involve ourselves in that dual pricing process. We have
+spent our money. We've not looked at super profits. We've rebated a large part of the
+benefit we see through lower claims frequency in June and July. We think that's an
+underwriting decision and the way we should do it.
+Other things could be considered brand decisions, and that doesn't feel appropriate for
+us as a business. So we are spending our contribution through appropriate price
+discounts. The PRA, yes, we've had regular conversation with the PRA with our interim
+dividend. I'm pleased to say we have a very strong relationship with the PRA and I think
+they behaved very sensibly, very appropriately. They've asked us some tough questions
+to make sure the board had tested our thinking on the stress scenarios. So we've had a
+good relationship and good conversation with the PRA building up to today. Impacts on
+pricing, James, anything you want to say on pricing at the moment?
+
+Page 9 of 17
+
+
+
+Company N ame: Sabre I nsurance Group PL C
+Company Ticker: SBRE L N Equity
+Date: 2020-07-28
+
+FINAL
+
+A - James Ockenden
+
+{BIO 20485926 <GO>}
+
+No. I mean I think the only thing that I'd start to say are, clearly, as Geoff has stated, we've
+seen big fluctuations in the volume over the last few months. And we've taken what we
+believe is a pretty methodical approach to making sure we got our pricing correct and
+allowing for the varying levels of exposure over the lockdown period and beyond, as
+obviously we price our policy now for exposure over the next 12 months. I think what I
+would say is it only takes one or two to be irrational in their pricing. And all of a sudden,
+you could see someone massively underpin rates in the market. So I think we've seen
+evidence of that in the sense that volumes decreased significantly in April and then we
+had a stronger Q2 in terms of June and July. So that's probably indicative that rates in the
+market are changing, but clearly, we are focusing on what we're doing and what we'll to
+some extent.
+
+A - Geoff Carter
+
+{BIO 20756770 <GO>}
+
+Yes, makes sense. Did that answer your question, Ivan, or anything to follow-up? You
+might be muted.
+
+Q - Ivan Bokhmat
+
+{BIO 15378004 <GO>}
+
+Yes. Thank you. No, that's good. Just to follow up on the PRA. I don't know. Do you think
+the decision to let you pay the special dividend could be viewed as a broader indication of
+the approach to the sector? Because that's a question that I'm sure we'll be interested -many would be interested in.
+
+Bloomberg Transcript
+
+A - Geoff Carter
+
+{BIO 20756770 <GO>}
+
+I'm not going to try and talk with the PRA on this one. And so I think we're a different sort
+of company. We are U.K.-only, we're motor-only. We're invested almost entirely in
+government bonds, effectively, gilts. We're very capital generative, so I think when I look
+at our particular circumstance, we couldn't see any reason not to pay a dividend. I'm not
+going to talk for other people or how the PRA might view that.
+
+Q - Ivan Bokhmat
+
+{BIO 15378004 <GO>}
+
+Okay. Thank you.
+
+A - Geoff Carter
+
+{BIO 20756770 <GO>}
+
+Hanro, anyone else got their virtual hand up?
+
+A - Hanro van Heerden
+Yes, the next question is from Ming Zhu.
+
+A - Geoff Carter
+
+{BIO 20756770 <GO>}
+
+Ming hi.
+
+Q - Ming Zhu
+
+{BIO 17001429 <GO>}
+Page 10 of 17
+
+
+
+Company N ame: Sabre I nsurance Group PL C
+Company Ticker: SBRE L N Equity
+Date: 2020-07-28
+
+Hi. Good morning. Just one question on claims inflation, please because that same has
+been the same since your full year '19. And why has that not reduce since the claim
+frequency has reduced quite a bit in I think as showed as in one of your slides, 17? Has
+something else has increased to offset that reduction in claims frequency? Thank you.
+
+FINAL
+
+A - Geoff Carter
+
+{BIO 20756770 <GO>}
+
+James, I can see you're unmuted. I think we need to differentiate between short-term
+frequency differences and long-term severity spend.
+
+A - James Ockenden
+
+{BIO 20485926 <GO>}
+
+Absolutely. So I'll say, I mean, when we're looking at inflation, we're looking at what I'd call
+long run inflation. So we -- you're absolutely right. We've seen a temporary reduction in
+claim frequency on account of the lockdown, but that's not baked into those numbers. So
+we really think of that as a temporary one-off effect, and we see inflation as long term
+what's driving cost, so to speak.
+
+A - Geoff Carter
+
+{BIO 20756770 <GO>}
+
+Yes and all the factors we've spoken about before, the increased cost of fixing bent
+metal, theft, all the things we've been through in previous presentations still absolutely
+apply.
+
+Bloomberg Transcript
+
+A - James Ockenden
+
+{BIO 20485926 <GO>}
+
+So I think, Ming, if you -- you could do it, you can always work out a -- probably work out a
+weighted average of what the good guide for reduction in frequency versus our ongoing
+8% claims in frequency -- 8% claims inflation, but I think we would be misleading if that we
+say -- if underlying inflation have reduced on the back of what we really see as a one-off
+event.
+
+A - Geoff Carter
+
+{BIO 20756770 <GO>}
+
+Yes. Thanks, James and I think the important thing is that, James, in your price and you're
+continuing to cover that claims inflation on prior (Multiple Speakers).
+
+A - James Ockenden
+
+{BIO 20485926 <GO>}
+
+Yes, sure. Yes.
+
+A - Geoff Carter
+
+{BIO 20756770 <GO>}
+
+Thanks. Hanro, anyone else hands up?
+
+A - Hanro van Heerden
+Yes. The next question is from Nick Johnson.
+
+A - Geoff Carter
+
+{BIO 20756770 <GO>}
+
+Page 11 of 17
+
+
+
+Company N ame: Sabre I nsurance Group PL C
+Company Ticker: SBRE L N Equity
+Date: 2020-07-28
+
+Nick, hi.
+
+Q - Nicholas Johnson
+
+{BIO 1774629 <GO>}
+
+FINAL
+
+Hi.
+
+A - Geoff Carter
+
+{BIO 20756770 <GO>}
+
+We can hear you.
+
+Q - Nicholas Johnson
+
+{BIO 1774629 <GO>}
+
+Okay. Sorry, so two questions, please. Firstly, so June and July growth, very strong and
+you mention that the push pull factors. Those are -- quick nuance on that, what competitor
+appetite has been like in nonstandard risks in June and July? And also, perhaps if you
+could give us a flavor of how the mix between nonstandard and some more mass market
+risks has changed through the 6 months. And then the second question is on capital
+management. So things slowly starting to return to normal post COVID, and there seems
+to be a better pricing environment generally than it would have been a few years ago.
+So where about in the 140%, 160% range would we feel comfortable being in that
+environment? Historically, it's always been sort of towards the top end of that range.
+Should we expect that to remain the case it would be in the next year or so?
+
+Bloomberg Transcript
+
+A - Geoff Carter
+
+{BIO 20756770 <GO>}
+
+Okay. Thanks, Nick. Yes. So on June, July, we frankly don't spend much time trying to track
+and paint us in too much detail. We tend to focus on our price and actions, on what we
+think is right. What I would say is we are aware some companies have had a tough time. I
+think it's probably not the listed companies you might focus on, some of the smaller
+entities.
+For example, like Gefion you might have seen, went bust, I think, about a month ago now.
+They were providing capacity to some of the MJs in the market. Not a huge surprise that
+they went under. It had been coming for a while. So I think some of those smaller
+companies, as James said, it only takes one or two players to hold back the market. So I
+expect some of those companies may have focused more on nonstandard, so maybe
+that's eased the competition a little bit around the edges of the non-standard. On the
+mix, non-standard and standard, it feels to us like it's pretty much bounced back in June
+and July to how it looked in March before lockdown started. So it feels like our mix of
+standard non- or near-standard, what we consider more nonstandard, feels pretty
+consistent. James, anything you'd like to add?
+
+A - James Ockenden
+
+{BIO 20485926 <GO>}
+
+Yes. I mean I think we saw a reduction in newly purchased vehicles, whether they be new
+or second-hand vehicles. Unsurprisingly, they -- because they weren't changing hands
+during lockdown and we were seeing fewer first-time drivers coming through clearly as
+they were stayed -- getting their licenses and do driving tests and do driving lessons, et
+
+Page 12 of 17
+
+
+
+Company N ame: Sabre I nsurance Group PL C
+Company Ticker: SBRE L N Equity
+Date: 2020-07-28
+
+cetera. So we saw a small fluctuation for a temporary period. And as Geoff said, it's kind
+of returned back to normal now.
+
+FINAL
+
+A - Geoff Carter
+
+{BIO 20756770 <GO>}
+
+Yes. And your final question was on capital management. So I think we've always said
+140% to 160%. We've seen anything, in normal circumstances, we have seen anything
+over 160% as excess capital. And I think we've been pretty clear, Adam, in previous
+presentations that we're looking to try and provide a sustainable, probably level dividend,
+and we're happy to use that range in appropriate times as well.
+
+A - Adam Westwood
+
+{BIO 20481660 <GO>}
+
+Geoff's absolutely right. I mean if you look back to where we were towards the end of last
+year and going into this year, we were starting to talk about, well, maybe we could quite
+happy pay into that range, and there's no reason not to. Clearly, we made a point in time
+assessment at the full year that it wasn't the time to pay either the special dividend or
+down into that range. We've now paid that special dividend. I think looking forward,
+circumstances will dictate where we are, but we are certainly in normal circumstances
+comfortable to be anywhere within the 140% to 160% range.
+
+Q - Nicholas Johnson
+
+{BIO 1774629 <GO>}
+
+Okay, that's great. Thanks very much indeed. Thanks.
+
+Bloomberg Transcript
+
+A - Geoff Carter
+
+{BIO 20756770 <GO>}
+
+Thank you, Nick. Hanro, anyone else.
+
+A - Hanro van Heerden
+Yes, the next question is from Thomas Bateman. Hi Tom.
+
+Q - Thomas Bateman
+
+{BIO 21707516 <GO>}
+
+Hi, good morning Geoff. Good morning Adam. Glad you're both well and still upbeat. Just
+on claims firstly. You give us really nice color on sort of body injury claims and cyclists and
+what you think might happen sort of longer-term and also touched on sort of forging
+claim, but have you seen sort of any evidence of more bodily injury claims, particularly
+since driving you pick up a little bit and any evidence of sort of fraudulent or whiplash
+claims coming through? I'm thinking less about claims management company behavior
+and more sort of consumer. Just to follow on from that, on reserving, given there's sort of
+more uncertain outlook you've painted, to a certain extent, has there been sort of any
+additional caution or any sort of reserving buffers built in now compared to the beginning
+of the year?
+
+A - Geoff Carter
+
+{BIO 20756770 <GO>}
+
+Yes, sure. Let's go. I think this time you guys hold up. I mean according to James, upturn in
+reserving in a second. I think it's fair to say we applied exactly our normal reserving
+
+Page 13 of 17
+
+
+
+Company N ame: Sabre I nsurance Group PL C
+Company Ticker: SBRE L N Equity
+Date: 2020-07-28
+
+approach. Clearly, there is a bit more uncertainty in the most recent year. James, do you
+want to pick up from there?
+
+FINAL
+
+A - James Ockenden
+
+{BIO 20485926 <GO>}
+
+Yes. Absolutely. I mean, as Geoff alluded to the presentation, there's a few more
+complexities in the in the claims world now, which is inevitably impacting uncertainty in the
+reserving. So I think a good example was they -- using PPE in courtesy vehicles and in
+consumer vehicles pre and post-repair. There are the sorts of things that are creating
+uncertainty, and therefore, we have attempted to reflect that in the reserves. I think only
+time will tell as things get back to normal where we sit, but at the moment in time, we feel
+we have applied the typical safer approach and continued to do what we do. So we
+haven't kind of created a thunder -- an explicit buffer, but we have reflected the fact that
+there are potential adverse characteristics that could drive the reserves unfavorably.
+
+A - Geoff Carter
+
+{BIO 20756770 <GO>}
+
+Thanks, James. If you can unmute, Trevor, if that's okay. Trevor, the next question was
+around have we seen any increase in bodily injury claims, if you're there?
+
+Bloomberg Transcript
+
+A - Trevor Webb
+
+{BIO 21909270 <GO>}
+
+Yes. So Tom, let me pick that up. So in terms of cyclists, in absolute numbers, cyclists'
+claims are not reduced. But as a proportion of claims, we've certainly seen an increase
+there, partly offset by a reduction in the number of children involved in accidents where
+the child is outside of the car. So typically, some running into the street, et cetera. So
+during the lockdown period, we saw fewer of those. Bodily injury frequency has really
+fallen in line with accident frequency, so no particular pickup.
+I guess though with a mind to some of your question around fraud, what I would say there
+is we have seen some activity in terms of late notified claims coming through, so some
+claims management companies really trying to push some of those claims through. And I
+think it's fair to say that of our department, at the moment, our counter fraud team is the
+busiest, so where the rest of the department has seen a reduction in volume, our counter
+fraud team remains fully occupied.
+
+A - Geoff Carter
+
+{BIO 20756770 <GO>}
+
+Thanks, Trevor. So does that answer the question?
+
+Q - Thomas Bateman
+
+{BIO 21707516 <GO>}
+
+Yes. Yes, it does. And I guess just to recap, it's more than -- particularly on the body injury
+claims, it's more of a long-term concern over where these claims might go rather than
+sort of any evidence that you've seen thus far.
+
+A - Trevor Webb
+
+{BIO 21909270 <GO>}
+
+Yes. I would say that at the moment, there are delays in medical evidence being
+produced. So whilst the market has agreed to medical examinations being carried out
+
+Page 14 of 17
+
+
+
+Company N ame: Sabre I nsurance Group PL C
+Company Ticker: SBRE L N Equity
+Date: 2020-07-28
+
+remotely, a lot of the medical experts have been tied up and actually providing medical
+services to support NHS. So there have been some delays there, rehabilitation delays as
+well. So forward-looking, we do see some challenges coming out of that personal injury
+environment.
+
+FINAL
+
+A - Geoff Carter
+
+{BIO 20756770 <GO>}
+
+Hanro?
+
+A - Hanro van Heerden
+Currently no more hands up, Geoff, although Andreas van Embden had his hand up, so
+maybe if he does have a question, if you want to raise it.
+
+A - Geoff Carter
+
+{BIO 20756770 <GO>}
+
+Andreas, anything you'd like --
+
+Q - Andreas de Groot van Embden
+
+{BIO 1795530 <GO>}
+
+Bloomberg Transcript
+
+Yes. Yes. I just want to go back to Slide 18, if possible, please, where you just showed the
+volatility in the volumes -- or written premiums during the half year. I just wondered, this is
+a premium number. This is not a policy number, and policies were down, I think, year-todate, around 6%. I just wonder whether you could draw out sort of a rate line during this
+volatile period, because, obviously, you cut your rates in line with claims inflation and
+claims frequency from April. I just wonder where you've ended up on the rates line, if
+possible.
+
+A - Geoff Carter
+
+{BIO 20756770 <GO>}
+
+Yes. So I think one is to clarify, we haven't cut rates. We've just put less rates on I think it's
+fair to say, James, and we might have done to reflect this temporary period. So we're
+looking to cover 9% or 10% cost inflation by the year-end. We're currently seven months
+in. So James, I think our rates are pretty much in line with that approach?
+
+A - James Ockenden
+
+{BIO 20485926 <GO>}
+
+Yes, I think prior to the whole lockdown piece, as we said earlier in the year, we're seeing
+significant inflationary pressures, and we felt that prices had to go up. So we, in the first
+quarter of this year, put a reasonable amount of rates on. And it's probably in around, as
+Geoff said, it's been a case of not putting -- we did make an adjustment in April, and
+we're unwinding the adjustment temporarily to reflect the reduction -- temporary
+reduction in frequency. But fundamentally, it doesn't change the fact that inflationary
+pressures are pushing rates one way.
+
+A - Geoff Carter
+
+{BIO 20756770 <GO>}
+
+Yes. So by the end of the year, Andreas, we'd expect to be nearly 10 points up. Year-onyear, we're significantly up given the price increases we put through last year as well and
+we're comfortably into the mid-teens on year-on-year price increases.
+
+Page 15 of 17
+
+
+
+Company N ame: Sabre I nsurance Group PL C
+Company Ticker: SBRE L N Equity
+Date: 2020-07-28
+
+A - James Ockenden
+
+{BIO 20485926 <GO>}
+
+Yes.
+
+Q - Andreas de Groot van Embden
+
+{BIO 1795530 <GO>}
+
+FINAL
+
+So if your premium volume is down 14% and your policy count is down around 7%, is that
+gap -- that actually, if different, what is that made up of ? Is that mainly mix effects?
+
+A - Geoff Carter
+
+{BIO 20756770 <GO>}
+
+It's not one we have a snap as to actually, Andreas and I think, Adam, anything you want to
+say on that one?
+
+A - Adam Westwood
+
+{BIO 20481660 <GO>}
+
+No, I can take it offline with you, Andreas, but I suppose there are all sorts of things
+feeding into that. Not least the policy count, I suppose, is the right policies as at now, so a
+dip in new business and renewals coming through wouldn't proportionately impact the
+number of policies going close at the moment, unless if one canceled at the same time.
+So it's quite hard to draw that comparison exactly, but I am happy to go to into it with you
+in more detail later.
+
+Q - Andreas de Groot van Embden
+
+{BIO 1795530 <GO>}
+
+Bloomberg Transcript
+
+Thanks. Thank you.
+
+A - Geoff Carter
+
+{BIO 20756770 <GO>}
+
+Thanks Andreas. Hanro, anybody else?
+
+A - Hanro van Heerden
+No more hands, Geoff.
+
+A - Geoff Carter
+
+{BIO 20756770 <GO>}
+
+Let's give it a second in case anyone has a sudden urge. No? Okay, in that case, I'm
+pleased to say we seem to have got away with our technological test. So like if you've got
+any questions afterwards, feel free to give us a call or an e-mail, and we're happy to
+follow up on your other questions. Otherwise, thank you very much for joining us, and
+speak to you soon. Thanks a lot.
+
+This transcript may not be 100 percent accurate and may contain misspellings and other
+inaccuracies. This transcript is provided "as is", without express or implied warranties of
+any kind. Bloomberg retains all rights to this transcript and provides it solely for your
+personal, non-commercial use. Bloomberg, its suppliers and third-party agents shall
+have no liability for errors in this transcript or for lost profits, losses, or direct, indirect,
+incidental, consequential, special or punitive damages in connection with the
+Page 16 of 17
+
+
+
+Company N ame: Sabre I nsurance Group PL C
+Company Ticker: SBRE L N Equity
+Date: 2020-07-28
+
+Bloomberg Transcript
+
+FINAL
+
+furnishing, performance or use of such transcript. Neither the information nor any
+opinion expressed in this transcript constitutes a solicitation of the purchase or sale of
+securities or commodities. Any opinion expressed in the transcript does not necessarily
+reflect the views of Bloomberg LP. © COPYRIGHT 2022, BLOOMBERG LP. All rights
+reserved. Any reproduction, redistribution or retransmission is expressly prohibited.
+
+Page 17 of 17
+
+

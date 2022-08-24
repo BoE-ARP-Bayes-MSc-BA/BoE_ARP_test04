@@ -1,0 +1,2111 @@
+Company N ame: Arch Capital Group L td
+Company Ticker: ACGL US Equity
+Date: 2016-08-16
+
+Acquisition of United Guaranty Corp & AIG United
+Guaranty Insurance (Asia) Ltd from American Interna
+
+FINAL
+
+Company Participants
+Constantine P. Iordanou
+Marc Grandisson
+Mark Donald Lyons
+
+Other Participants
+Albert S. Copersino
+Amit Kumar
+Charles Joseph Sebaski
+Ian J. Gutterman
+Jay Gelb
+Josh D. Shanker
+Kai Pan
+Quentin McMillan
+
+Bloomberg Transcript
+
+Ryan Byrnes
+
+MANAGEMENT DISCUSSION SECTION
+Operator
+Good day, ladies and gentlemen, and welcome to the Arch Capital Group Limited Investor
+Call on the Acquisition of United Guaranty Corporation. At this time, all participants are in
+a listen-only mode. Later, we will conduct a question-and-answer session and instructions
+will follow at that time. And as a reminder, this conference call is being recorded.
+Before the company get started with its update, management wants to first remind
+everyone that certain statements in today's press release and discussed on this call may
+constitute forward-looking statements under the federal securities laws. These
+statements are based upon management's current assessments and assumptions and
+are subject to a number of risks and uncertainties. Consequently, actual results may differ
+materially from those expressed or implied. For more information on the risks and other
+factors that may affect future performance, investors should review periodic reports that
+are filed by the company with the SEC from time to time.
+Additionally, certain statements contained in the call that are not based on historical facts
+are forward-looking statements within the meaning of the Private Securities Litigation
+
+Page 1 of 30
+
+
+
+Company N ame: Arch Capital Group L td
+Company Ticker: ACGL US Equity
+Date: 2016-08-16
+
+Reform Act of 1995. The company intends the forward-looking statements in this call to
+be subject to the Safe Harbor created thereby.
+
+FINAL
+
+Management also will reference some non-GAAP measures of final (sic) [financial] (00:58)
+performance. The reconciliation of these measures to GAAP and definition of operating
+income can be found in the company's filings within the SEC and they're also available on
+the company's website.
+I would now like to introduce your host for today's conference Mr. Dinos Iordanou. Sir, you
+may began.
+
+Constantine P. Iordanou
+
+{BIO 2397727 <GO>}
+
+Thank you, Emily. Good morning everyone, and welcome to our call. We're very pleased
+that we have reached an agreement to purchase United Guaranty from AIG. When this
+transaction closes, it will make us the largest private mortgage insurance company and it
+will allow us to deploy our excess capital into a high return business. On a pro forma basis
+and with just a simple combination of our company's mortgage insurance will absorb
+approximately one-third of our capital and contribute approximately 50% of our earnings.
+
+Bloomberg Transcript
+
+At this time in the cycle, we like the mortgage sector because we believe that the
+mortgage insurance earnings are more stable and predictable than P&C earnings. This
+might change over time as the primary insurance and P&C re-insurance cycle changes, but
+at this point in time, we view the MI space as more attractive on a risk reward basis that
+many of the business lines in our core insurance and re-insurance business.
+The mortgage insurance industry's history has not been stellar and some of the problems
+can be linked to the mono-line structure of the industry, which has proven vulnerable to
+their own version of cat risk. In our view most of the past problems are attributed to very
+lose underwriting standards practiced by the entire industry for quite a bit of time. We
+believe that these PML can be effectively managed through prudent reselection and
+conservative capital management. United Guaranty under the AIG umbrella has been a
+strong component of risk based pricing and data analytics, which we strongly agree with
+and religiously practice ourselves by coupling the talents and capabilities of both
+companies.
+We believe it will give us a competitive advantage in managing the PML risk in the
+mortgage insurance business. From a risk management point of view, as we have done
+since our formation, we will maintain risk aggregation limit in accordance with prudent
+capital management, balance across our three business segments.
+Both organizations have developed capital market mechanisms and reinsurance
+purchases to manage PMLs and we will expect these market leadership to continue.
+I'm going to turn now the call over to Mark Lyons, who will give you the key transaction
+metrics, and after Mark, we will ask Marc Grandisson who is also here on the call with us to
+
+Page 2 of 30
+
+
+
+Company N ame: Arch Capital Group L td
+Company Ticker: ACGL US Equity
+Date: 2016-08-16
+
+give you a bit more on the strategic rationale, and then we will come back and answer
+your questions.
+With that, here it is Mark.
+
+FINAL
+
+Mark Donald Lyons
+
+{BIO 6494178 <GO>}
+
+Great, great. Good morning all. I'd like to address a few topics to help clarify things a bit.
+First, well, what did we purchase, exactly. Well, we purchased the United Guaranty U.S.
+primary mortgage operation along with UGC Asia. Additionally and to clarify, Arch will
+assume that 50% quota shares that has been provided by AIG United Guaranty. AIG will
+terminate that quota share contract on a run-off basis and keep the cash flows and
+exposures on a 50% basis, emanating from policies that incepted during 2014 through
+2016.
+Arch beginning at closing will assume 100% of the UGC policy exposures written as a
+result. This is value not immediately evident by examining the UGC S-1/A filed with the
+SEC earlier this year.
+
+Bloomberg Transcript
+
+So, what is the consideration? The consideration is $3.42 billion. This amount consists of
+approximately $622 million of cash from internal resources, $200 million from our revolver
+facility, $925 million of debt, up to $700 million of preferred and $975 million of ACGL
+common stock. I'll come back and clarify the comments backs in a moment.
+This translates to a cash payment to AIG of up to $3.45 billion. There are some wrinkles
+though that make it a bit less straightforward, and I'll discuss those now. First, there is a
+possibility that UGC will dividend to AIG, pre-closing up to $250 million. This will have the
+effect of lowering the consideration paid by Arch to $3.172 billion, but AIG would continue
+to receive the $3.42 billion I alluded to you before. It's just that $250 million would come
+from a dividend from UGC, and of course that dividend would commensurately lower
+UGC's book value as well.
+Therefore, assuming a $250 million dividend for a moment, the price paid by Arch would
+be $3.172 billion, the preferred issuance would commensurately drop to $450 million from
+$700 million, and the cash component would be approximately $2.2 billion.
+Furthermore, there was a collar structure involving $975 million of common stock. Within a
+plus or minus 7.5% band, the number of shares will adjust in order to keep the dollar value
+fixed. Outside of the collar, the number of shares remain constant, but the value per
+share can fluctuate up or down. The common is actually a common equivalent form of
+preferred, which has no coupon and no voting rights. It will convert to common in a 10:1
+ratio upon being sold.
+There is also a lock-up provision that permits AIG to begin selling the common-equivalent
+preferred beginning six months after closing with a lock-up expiring at 18 months. Lastly,
+AIG at closing is expected to be an approximate 10% to 11% shareholder of ACGL. So
+what's our view of some of the financial benefits? Well, the classical measures are all
+Page 3 of 30
+
+
+
+Company N ame: Arch Capital Group L td
+Company Ticker: ACGL US Equity
+Date: 2016-08-16
+
+FINAL
+
+positive. We expect significant EPS accretion and ROE expansion by the end of the first
+year.
+Additionally, the transaction is expected to be accretive to book value per share by the
+first year and it is expected to recover on a tangible book value per share basis by two
+years post closing. There is a no financing condition within our agreement, so we've put in
+place a facility to secure the expected capital markets execution coming from acquisition
+debt and preferred stock financing.
+Lastly, we are extremely pleased with the defensive risk management that has been put
+in place and will be put in place by UGC and AIG prior to closing. As you may be aware,
+UGC has executed already two capital market transactions known as Bellemeade I and
+Bellemeade II that help to roll off (09:13) the potential downside risk of pre-crisis
+exposures. Bellemeade I provides cover for performing loans effective between 1/1/2009
+and 3/31/2013. Bellemeade II provides cover for performing loans on policies effective
+prior to 1/1/2009.
+Additionally, aggregate excess of loss protection will be put in place pre-closing, that
+provides extreme tail risk (09:38) protection for performing loans effective between
+1/1/2009 and 12/31/2015, inclusive. These then provide a portfolio more akin to any new
+company in the U.S. mortgage insurance space.
+
+Bloomberg Transcript
+
+With that being said, I'd like to now turn it over to Marc Grandisson.
+
+Marc Grandisson
+
+{BIO 4369887 <GO>}
+
+Thank you, Mark. Good morning.
+From a strategic and operational standpoint, we are fortunate to be combining two
+operations that have similar culture of innovation, strong risk management processes and
+diversified client base and a focus on providing values to its customers. We will be building
+from much common ground and this will allow us to dedicate our efforts to enhance to
+get the benefits from the enhanced scale of the joint operations.
+Both Arch and UGC have well developed data analytics and a history of innovation that will
+allow the companies to be market leaders in risk management in the future. We are
+attaining scale at an opportune time with the acquisition of a significant book of business
+from the post 2008 quality origination years.
+In addition, as Mark mentioned the pre-2009 book is well protected by an innovative risk
+sharing structure, Bellemeade II. We've said many times and you heard Dinos said it as
+well today that we believe the economics of the U.S. MI insurance industry have been very
+favorable since 2009. With United Guaranty, we are acquiring not only a market leader,
+but a company that shares our core principles of price, cycle and risk management.
+
+Page 4 of 30
+
+
+
+Company N ame: Arch Capital Group L td
+Company Ticker: ACGL US Equity
+Date: 2016-08-16
+
+Our values are aligned and the combined companies will enhance Arch's global footprint
+and breadth in the U.S. MI industry. With this Dinos, I'll turn it back over to you.
+
+Constantine P. Iordanou
+
+{BIO 2397727 <GO>}
+
+FINAL
+
+Hey, Emily, we're ready for questions.
+
+Q&A
+Operator
+Thank you. Your first question comes from Amit Kumar. Your line is open.
+
+Q - Amit Kumar
+
+{BIO 19777341 <GO>}
+
+Thanks and good morning and congrats on the deal. Just maybe a couple of questions,
+the first question I was getting last night was – maybe a discussion on the legacy reserves
+for UGC. I'm sure you did a deep dive and you talked about some projection, maybe just
+talk about it a bit more so that we can have comfort around those numbers.
+
+Bloomberg Transcript
+
+A - Constantine P. Iordanou
+
+{BIO 2397727 <GO>}
+
+Well, the UGC has managed their book effectively. We were impressed by their thought
+process, and also, we were impressed by the innovation with their Bellemeade I and
+Bellemeade II transactions that in essence ruled off (12:41) any adverse development that
+it will emanate from the prior year. So, we got very, very comfortable with the old book,
+which is only approximately 18% of the outstanding liability. So when you look at the United
+Guaranty's book, 82% is post-crisis exposures, 18% is pre-crisis exposures and the precrisis exposures have been well booked (13:20) by these two transactions.
+Marc, you want to add something to it.
+
+A - Marc Grandisson
+
+{BIO 4369887 <GO>}
+
+Two things to add to this. First and foremost, one of the key elements of the due
+diligence was to sit down with their claims and understand the claims processes, and
+we're very, very impressed by it. They have a very active and very solid operation, as you
+would expect.
+So, I think that, in addition, we have also insight into our own book of business. We were
+competing with them as a result of the PMI. We have the data for the PMI one-off that we
+are effecting on behalf of the liquidator over there. So we had a good sense for where
+the pre-2009 roll rates or claims are developing, and they're actually developing
+favorably as you've heard on many calls and it's the same as you would expect for our
+friends at UGC. So, we're very, very comfortable there.
+
+A - Constantine P. Iordanou
+
+{BIO 2397727 <GO>}
+
+Page 5 of 30
+
+
+
+Company N ame: Arch Capital Group L td
+Company Ticker: ACGL US Equity
+Date: 2016-08-16
+
+FINAL
+
+And, Amit, I'll just throw one other thing back to the Bellemeade transaction, because it
+doesn't attach the (14:18) statement reserves. It's higher. But I think the important thing to
+keep in mind is that there's a future economic problem. The issue isn't known (14:27)
+claims, in my opinion. The issue is currently performing loans that become non-performing
+loans. And this is what this cover provides. As you know the statutory accounting model
+does not permit that kind of estimation on the balance sheet and this provides thoughtful
+cover for that.
+
+Q - Amit Kumar
+
+{BIO 19777341 <GO>}
+
+Got it. That's helpful. The second question and I would re-queue after this; Dinos, I think in
+the past you had talked about, maybe somewhat of a self-imposed limit of 25% capital to
+any risk. And MI is now sort of one-third, and I'm just trying to figure that out in terms of
+looking at the broader, new Arch and the various pieces, what other areas probably get
+pulled back in terms of trying to meet that requirement. Maybe just help us (15:17) if you
+were to fast-forward, how should we think about capital allocation for MI versus
+reinsurance versus insurance?
+
+A - Constantine P. Iordanou
+
+{BIO 2397727 <GO>}
+
+Bloomberg Transcript
+
+Yeah. Very, very good question, and you're absolutely correct. Our original goal was to
+have balance within all of our operations with approximately 25% of our capital being
+allocated to the MI space. Having said that, it's not very often that you will find something
+to merge with of the quality that we have found in United Guaranty and get you exactly to
+25%.
+So, the fact that we're at 35% today is still a very comfortable level for us based on where
+we think the mortgage insurance marketplace is and the returns that we expect from that.
+And as I said in my prepared remarks, we're going to maintain these balance over the
+year. So we're not going to allow the MI to dominate Arch. At the end of the day, Arch will
+always be a major reinsurer, a major insurer and a major mortgage insurer, and we will use
+all tools available, capital market tools, reinsurance availability in the marketplace and
+potentially investors that they want to partner with us to manage the risk to the tolerances
+that we will – us (17:03) and our board is comfortable with.
+So there is no change in philosophy, so to speak and – but for this transaction and for the
+next few years, we'll probably be committing a bit more to the MI space but that's where
+the highest returns exist. But I want to assure you that we're not going to lose sight of
+aggregations and PMLs and be comfortable with how much of that we have on the
+balance sheet.
+Mark and Marc anything to add or...
+
+A - Marc Grandisson
+
+{BIO 4369887 <GO>}
+
+No. You hit all the point.
+
+A - Mark Donald Lyons
+
+{BIO 6494178 <GO>}
+
+Page 6 of 30
+
+
+
+Company N ame: Arch Capital Group L td
+Company Ticker: ACGL US Equity
+Date: 2016-08-16
+
+Well said.
+
+Q - Amit Kumar
+
+{BIO 19777341 <GO>}
+
+FINAL
+
+Well said indeed. That's all I have for now. I will re-queue. I'm sure there are lots of other
+questions. Thank you for all the answers.
+
+A - Constantine P. Iordanou
+
+{BIO 2397727 <GO>}
+
+You're quite welcome.
+
+Operator
+Your next question comes from Ryan Byrnes. Your line is open.
+
+Q - Ryan Byrnes
+
+{BIO 16902592 <GO>}
+
+Great. Thanks for taking the call. Just had a question on – so AIG may take a pre-dividend
+out. Will you guys need to add capital to the more insurance underwriter, again, if I'm
+looking – UGC has a lower ratings than Arch MI? I just want to get your thoughts there.
+
+A - Constantine P. Iordanou
+
+{BIO 2397727 <GO>}
+
+Bloomberg Transcript
+
+Not at this point in time. But we're cognizant to maintaining a very strong capital position.
+And as the business evolves and emerges in 2017 and 2018, we will always re-examine
+our capital position based on our ratings, and then if there is a requirement at that point in
+time for us to add capital, we will do so.
+We will always try to maintain a bit of excess capital in all of our operations for two
+reasons. One, it's a good safety margin to have, even though it might hurt you a little bit
+on the return on equity. But second, if there is market opportunities that emerge, you
+won't be able to take advantage of that and you don't want to stretch your balance sheet
+to the point that it doesn't give you that flexibility to maneuver.
+And third, it's also important, we have a lot of constituents, the rating agencies, they are
+very big constituent that we need to have very good relationships with them. And usually
+we have open dialog with the rating agencies on capital needs and capital management,
+and it's all in the mix. But for closing this transaction, what we have presented to you, it
+give us comfort, that we don't need to put significant capital into UG.
+
+Q - Ryan Byrnes
+
+{BIO 16902592 <GO>}
+
+Okay, great. And then, were you guys...
+
+A - Constantine P. Iordanou
+
+{BIO 2397727 <GO>}
+
+Marc, do you want to (20:00)...
+
+A - Marc Grandisson
+
+{BIO 4369887 <GO>}
+Page 7 of 30
+
+
+
+Company N ame: Arch Capital Group L td
+Company Ticker: ACGL US Equity
+Date: 2016-08-16
+
+FINAL
+
+(20:01), Ryan, just to let you know, I mean, the key driver for capital level in the U.S., the
+mortgage basis with the PMIER complaint (20:10), which we are currently and UC is also
+currently at this point PMIER compliant, I think what we have in addition to the PMIER
+compliance to deal with or to – as a benefit to being part of a group like Arch, there are
+abilities to leverage other parts of the company perhaps through reinsurance to leverage
+some of the excess capital that some units (20:30) may have within us. So, at this point
+out, we don't believe that we need to do anything in terms of influx of capital in UGC.
+
+Q - Ryan Byrnes
+
+{BIO 16902592 <GO>}
+
+Okay, great. And then just quickly, do you guys plan on merging the – I guess, the
+statutory entities and then I'm just trying to figure out from, I know, cost efficiencies, UGC
+is running at about a 27% expense ratio legacy, I guess, Arch's MI book is around 50%. I
+guess, how quickly can the combined MI piece be in that sub-30% range?
+
+A - Mark Donald Lyons
+
+{BIO 6494178 <GO>}
+
+Bloomberg Transcript
+
+Well, it will take a bit of time, that transaction wasn't done, based just on synergies, I
+mean, we're buying a very good business. I think at a reasonable price, it's good for AIG
+and it's good for us. They have significant talent. We were impressed with the people that
+we have met. We haven't met everybody with the two independent companies, but for
+the people that we have come in touch with, we were positively impressed with the
+quality of that personnel.
+And if you're going to do a transaction purely on the basis that one plus one makes two,
+and you're going to get significant number of synergies and that's what drives the deal, in
+my view that's a bad deal. At the end of day, this deal works very well for us on the basis
+that, yes, we're going to get some synergies, this is obvious, but it's going to be done in
+a thoughtful way. We have created a team of senior executives from one side with senior
+executives from our side that they will deal with all the transition issues and what it would
+look like after closing once we close, plus we don't expect one plus one to be two. At the
+end of the day, I think the economics work very well on one plus one makes 1.7 or
+whatever. Yeah.
+
+Q - Ryan Byrnes
+
+{BIO 16902592 <GO>}
+
+Okay, thanks. I will re-queue.
+
+Operator
+Your next question comes from Al Copersino. Your line is open.
+
+Q - Albert S. Copersino
+
+{BIO 4366978 <GO>}
+
+Thank you very much. I appreciate it. I have a couple of questions. The first one is just
+following up on that last question, on costs and synergies, are you – as you purchase
+UGC, are you in fact just saying – say the back office operations of UGC?
+
+A - Constantine P. Iordanou
+
+{BIO 2397727 <GO>}
+Page 8 of 30
+
+
+
+Company N ame: Arch Capital Group L td
+Company Ticker: ACGL US Equity
+Date: 2016-08-16
+
+Well, there is a team that is going to deal with all those issues. We have some projections
+in our numbers. Yes, they might be in many different areas. It's not just...
+
+A - Marc Grandisson
+
+{BIO 4369887 <GO>}
+
+FINAL
+
+Back office.
+
+A - Constantine P. Iordanou
+
+{BIO 2397727 <GO>}
+
+...back office. It's also – there is projects on both companies on innovation of improving
+underwriting efficiency by using analytics, et cetera, and at the end of the day, it's not
+going to happen overnight. It might be gradual, over time. But we both have goals, for
+example to improve through analytics our ability to underwrite maybe seven, eight, nine
+mortgages per day, per underwriter where actually United Guaranty is better than us right
+now, we are in the four – four or five files per underwriter there a little higher than that.
+So, at the end of the day, there is going to be a lot of consolidation we got to deal with.
+But arise to create efficiency not only immediately after the transaction, but going out two
+years or three years, four years from today, how can we be the most efficient company
+on the space with the highest customer service possible.
+
+Bloomberg Transcript
+
+Q - Albert S. Copersino
+
+{BIO 4366978 <GO>}
+
+Great, thank you. One other if I could, just a follow-up. And this might be more of a
+qualitative question, I guess. But the industry – the MI industry appears to have reached
+intra-industry pricing stability that has not always been the case. I'm curious if your thought
+is that the – if the benefits of a deal such as yours, Arch is not known for giving away
+business. You guys price business very responsibly. Will the benefits of a deal like this
+accrue mainly to your shareholders? Do you think you will share some of the benefits with
+the banks and the end customers? What impact do you think this deal may have on
+pricing?
+
+A - Constantine P. Iordanou
+
+{BIO 2397727 <GO>}
+
+Well, don't forget. One of the reasons we did the transaction, in the space – in the primary
+MI space, there were only two companies who believe that re-space pricing is an
+important ingredient to incorporate into your operations. So you can access risk property
+and you priced it properly (25:45). And that was United Guaranty and us. As a matter of
+fact, they were ahead of us, they introduced risk based pricing way back in, I believe, in
+2009 and 2010. We introduced risk based pricing only about a year and half ago.
+So from that perspective is, it fits very well with our culture that this is another specialty
+line of business in our view with long-tail, and our attitude in pricing long-tail business, you
+better get your underwriting right up-front and not wait until your actuaries and your
+claims people tell you, you didn't get the pricing right up-front. So we do put a lot of
+emphasis on that. The benefits of all that, they will go to our shareholders.
+Now, there is a few differences in approach. I give you an example, I think on singles, we
+will probably accompany that, it has the lowest percentage of their book in singles. I don't
+Page 9 of 30
+
+
+
+FINAL
+
+Company N ame: Arch Capital Group L td
+Company Ticker: ACGL US Equity
+Date: 2016-08-16
+
+know what the future will bring. I think United Guaranty had a bigger percentage of their
+singles of their book in singles. I think you're going to probably see that coming down
+closer to what our numbers are. But we'd both focus and culturally are aligned to
+appropriately price risk, use all the tools in the tool kit including in-depth analytics and then
+I think we had a very good United Guaranty and hopefully that will rub off on us, not that
+we're not that very good, but sometimes we got to accept the – on the marketing side
+and on the customer satisfaction side, that we're probably a little better than we're. And I
+think we're going to incorporate that into our future operations. The very customer
+centric, they have a 1,800 relationships in the marketplace, which is very, very important.
+
+Q - Albert S. Copersino
+
+{BIO 4366978 <GO>}
+
+Marc, you've spent a lot of time in the due diligence with the people, so what is your
+view?
+
+A - Marc Grandisson
+
+{BIO 4369887 <GO>}
+
+Bloomberg Transcript
+
+Culturally, I think that's one thing that is very common to us and I said that in my remarks is
+the pricing in risk – in cycle management. I mean, they have showed and we've seen it in
+the numbers, the willingness and ability to react to market pricing, the market share will
+go up and down, if you don't think – you don't think the returns are appropriate in the
+business. And I think they had a very ROE of the economic value-added calculation that
+came to ROE calculation, whereby they react almost immediately to pricing reaction. The
+market wishes, again testament to not being a top-line focused operation and being
+bottom-line focused, which I think is also a factor in being part of a bigger multiline outfit,
+which speaks to the viability over the long-term, we believe of an MI being part of the
+multiline having multiple sources of income and earnings.
+
+A - Mark Donald Lyons
+
+{BIO 6494178 <GO>}
+
+Hey, Al – Mark Lyons, one of the thing I would add is that with risk based pricing, as Dinos,
+alluded to being the only two companies doing it, there is that real trade-off of real
+exposure to price and what's critical and both companies have it are indices that measure
+the quality of the portfolio over time and that will be reflected by are we having better
+credit related policies on the books and you can – and both companies have that and it's
+going be critical and they – each company manages by it. And it's a critically important
+tool.
+
+Q - Albert S. Copersino
+
+{BIO 4366978 <GO>}
+
+That's very thorough. Thanks so much guys. I appreciate it. The Dinos' comments on the
+singles business was also quite helpful, so thank you.
+
+Operator
+Your next questions comes from Charles Sebaski. Your line is open.
+
+Q - Charles Joseph Sebaski
+
+{BIO 17349221 <GO>}
+
+Good morning.
+Page 10 of 30
+
+
+
+Company N ame: Arch Capital Group L td
+Company Ticker: ACGL US Equity
+Date: 2016-08-16
+
+A - Constantine P. Iordanou
+
+{BIO 2397727 <GO>}
+
+Good morning, hi.
+
+FINAL
+
+Q - Charles Joseph Sebaski
+
+{BIO 17349221 <GO>}
+
+First question, is there any – given you guys just said you and UGC is the only companies
+out there doing risk-based pricing, does that create any regulatory hurdle for this
+combination. I mean, is there – you guys...
+
+A - Constantine P. Iordanou
+
+{BIO 2397727 <GO>}
+
+We don't believe so, we had – we file our plans with the regulators, we get approval, we'd
+file in almost every single state and we have approval in most, there is only exception of a
+couple. And United Guaranty does exactly the same, it's a highly regulated business, and
+we don't believe that is a problem in the marketplace. As a matter of fact, on the P&C
+side, in the Auto business or in the property and casualty in a lot of segments, it's been
+happening for many, many, many years. The only industry that had a very simple pricing
+tool it was the mortgage insurance business by using just purely credit score and LTV to
+price their business, which we believe it's the inappropriate way to assess price to the risk.
+
+Bloomberg Transcript
+
+Q - Charles Joseph Sebaski
+
+{BIO 17349221 <GO>}
+
+Okay. And then, I guess on the growth prospects, obviously this is a growth piece for your
+guys business due to the scale of UGC. But if I look at UGC over the last few years,
+profitability has been getting better, but top line premium writings kind of flat. And I
+guess, what I'm wondering is this – did you kind of buying annuity here? Does the
+combined mortgage business that Arch, going to be...
+
+A - Constantine P. Iordanou
+
+{BIO 2397727 <GO>}
+
+It's not a – we're not just buying on annuity; we're buying a company who believes in the
+same way we believe as to how you make money in the risk business. You probably price
+the risk, you don't focus on just top line, you focus on bottom line. And at the end of the
+day, you continue to find growth opportunities by navigating the company into different
+sectors, and I don't care these sectors might be on the reinsurance side, on the insurance
+side, or on the mortgage side.
+So, the fact that United Guaranty was disciplined in their pricing and in their approach of
+assessing risk. And I attribute that to their leadership; I mean, Donna has been a
+phenomenal leader for United Guaranty; I view that extremely positive. It tells you
+something about the fabric of the company, their DNA, and it has a lot of similarities to
+what we do at Arch.
+
+Q - Charles Joseph Sebaski
+
+{BIO 17349221 <GO>}
+
+Okay. That's...
+
+A - Marc Grandisson
+
+{BIO 4369887 <GO>}
+
+Page 11 of 30
+
+
+
+Company N ame: Arch Capital Group L td
+Company Ticker: ACGL US Equity
+Date: 2016-08-16
+
+FINAL
+
+Let me add to all of this, it's Marc Grandisson here. The two things I wanted you to, I said
+in my comments, but sometimes the comments get overlooked and not really listened,
+attentive to, but it's really an innovation and disruptor. The ability for UG to have done
+what they've done at risk-based pricing in our discussions with them, there is a willingness
+and ability to be innovative in delivering the credit risk to the markets, the way we are
+thinking about this.
+So, clearly in the future that technology and data analytics and innovation capabilities is
+something that, we'll be – we've just enhanced dramatically. The second thing is that
+which is not be overlooked and we have a very, very healthy book of business that they've
+written and they've attached to their book of business in 2009 and that is going to come
+to a significant extent to our shareholders for the foreseeable future. So...
+
+A - Constantine P. Iordanou
+
+{BIO 2397727 <GO>}
+
+So, the industry, I mean – the industry in the past and they've fought the old war – market
+share, market share, market share it was what drove a lot of their senior management
+decisions. And at the end, they ignored underwriting, and when you ignore underwriting,
+you go and pay dearly. And hopefully, the last war was fought and lost and the new war is
+going to be fought and won because people are going to pay attention to properly price
+their business.
+
+Bloomberg Transcript
+
+Q - Charles Joseph Sebaski
+
+{BIO 17349221 <GO>}
+
+No, I'm not – and I wasn't trying nitpick on my reference to an annuity, I was just curious if
+the market share of UGC given its size, just that mortgage insurance has been such a
+growth driver to Arch over the last three years or four years, and I just wondered does
+that pricing discipline and the current market position allow that business to expand from
+its pro forma Arch UGC, that's what I was trying to understand and that's why maybe
+annuity...
+
+A - Constantine P. Iordanou
+
+{BIO 2397727 <GO>}
+
+Well, it has potential to grow, but you got to bring it back within the boundaries of risk
+management. As I said, I'm not going to expose the balance sheet to undo PML risk. We
+do not roll the dices here; we're very cognizant of our responsibilities to our shareholders
+and the capital that they provide. However, if we find the opportunities to do more, and
+we've done it in our history through Flatiron or with Watford Re or other mechanisms; we
+might bring additional third-party capital into the mix.
+The thing that makes it important for us, those who have the underwriting capabilities,
+and the technology, and the systems, they're going to be in the driver seats in looking at
+how much profit they can provide. And now you couple that with different capital
+structures, maybe I can't get the full load (36:02) because that will be un-prudent from a
+risk management point of view. But I can continue to manufacture and sell the product and
+offload it, and get paid fees and profit commission through other structures and all of that
+is going to be in the mix.
+
+Page 12 of 30
+
+
+
+Company N ame: Arch Capital Group L td
+Company Ticker: ACGL US Equity
+Date: 2016-08-16
+
+So at the end of the day, that innovation exists within Arch today, and we've seen a lot of
+evidence of that innovation existing within United Guaranty. So, I think the combination is
+going to be fantastic.
+
+FINAL
+
+Q - Charles Joseph Sebaski
+
+{BIO 17349221 <GO>}
+
+Thank you. And then, one final – on DTA, could you give any color or commentary on what
+the value of that DTA is to Arch given your tax structure?
+
+A - Mark Donald Lyons
+
+{BIO 6494178 <GO>}
+
+Yeah. Well, Chuck, I think I can see very quick related and say to Arch it's of no value.
+We're doing a 338(h)(10) election, and the DTA stays with AIG.
+
+Q - Charles Joseph Sebaski
+
+{BIO 17349221 <GO>}
+
+Excellent. Thanks a lot for the answers, guys.
+
+A - Mark Donald Lyons
+
+{BIO 6494178 <GO>}
+
+Thanks, Chuck.
+
+Operator
+
+Bloomberg Transcript
+
+Your next question comes from Jay Gelb. Your line is open.
+
+Q - Jay Gelb
+
+{BIO 21247396 <GO>}
+
+Thanks. Good morning. Just to start off with a couple numbers questions. What's the
+tangible book value of the business being acquired?
+
+A - Mark Donald Lyons
+
+{BIO 6494178 <GO>}
+
+They have no goodwill or intangibles on the book, so their book and tangible is the same.
+
+Q - Jay Gelb
+
+{BIO 21247396 <GO>}
+
+That's what I thought, and I was just trying to square that what you comment that the deal
+will be recoverable to Arch's tangible book in the two years.
+
+A - Mark Donald Lyons
+
+{BIO 6494178 <GO>}
+
+Okay. Two different things. There's two different things, what's the balance sheet of the
+company we're acquiring, and then what is the purchase price paid on Arch's balance
+sheet on goodwill versus intangibles, two different things. I answered the question at
+best, why we're acquiring UGC, and it has no goodwill. Does that...
+
+Q - Jay Gelb
+
+{BIO 21247396 <GO>}
+
+Yes.
+
+Page 13 of 30
+
+
+
+Company N ame: Arch Capital Group L td
+Company Ticker: ACGL US Equity
+Date: 2016-08-16
+
+A - Mark Donald Lyons
+
+{BIO 6494178 <GO>}
+
+...answer that?
+
+Q - Jay Gelb
+
+{BIO 21247396 <GO>}
+
+FINAL
+
+Could you go through the second part, Mark, in terms of how we think about what
+goodwill and intangibles goes on Arch's balance sheet?
+
+A - Mark Donald Lyons
+
+{BIO 6494178 <GO>}
+
+Well, I'm not going to go through the whole amount, and I can tell you, we're still working
+through the purchase GAAP accounting aspects as we speak, but there is going to be a
+fair amount of excess purchase prices subject to being intangible being amortized as
+opposed to sitting on the balance sheet as goodwill.
+
+Q - Jay Gelb
+
+{BIO 21247396 <GO>}
+
+Okay.
+
+A - Mark Donald Lyons
+
+{BIO 6494178 <GO>}
+
+But that's in the process of being finalized.
+
+Q - Jay Gelb
+
+{BIO 21247396 <GO>}
+
+Bloomberg Transcript
+
+I see. So, there will be amortization expense from this deal...
+
+A - Mark Donald Lyons
+
+{BIO 6494178 <GO>}
+
+Correct.
+
+Q - Jay Gelb
+
+{BIO 21247396 <GO>}
+
+...in Arch's earnings? Okay.
+
+A - Mark Donald Lyons
+
+{BIO 6494178 <GO>}
+
+Correct.
+
+Q - Jay Gelb
+
+{BIO 21247396 <GO>}
+
+But we don't have that yet?
+
+A - Mark Donald Lyons
+
+{BIO 6494178 <GO>}
+
+Right. We have a range of views of it, but we got to sit down and arm-wrestle with our
+accounts.
+
+Q - Jay Gelb
+
+{BIO 21247396 <GO>}
+
+Page 14 of 30
+
+
+
+Company N ame: Arch Capital Group L td
+Company Ticker: ACGL US Equity
+Date: 2016-08-16
+
+Okay. The 35% accretion to run rate EPS, is that based on if the deal – if the two
+companies were put together today on a pro-forma basis, or is that looking out some
+point in the future?
+
+A - Mark Donald Lyons
+
+{BIO 6494178 <GO>}
+
+FINAL
+
+It's a kind of a longer-term average from 2017 forward. We just try to...
+
+A - Constantine P. Iordanou
+
+{BIO 2397727 <GO>}
+
+It's a high growth.
+
+A - Mark Donald Lyons
+
+{BIO 6494178 <GO>}
+
+...straight-line it for the average. It'll fluctuate. It'll actually increase, but it's a good way to
+think about it.
+
+Q - Jay Gelb
+
+{BIO 21247396 <GO>}
+
+Did that assume steady-state legacy Arch MI earnings or essentially that growing over
+time, which is what I would have...
+
+A - Mark Donald Lyons
+
+{BIO 6494178 <GO>}
+
+Bloomberg Transcript
+
+I think one question I'll kick it off to probably to Marc. It would assume some view towards
+what Dinos alluded to, which is the mixed of monthlies and singles likely to be altered.
+
+A - Marc Grandisson
+
+{BIO 4369887 <GO>}
+
+As well as accounting for some overlapping some client, which is not tremendously the
+case, but there's some overlapping, some clients recognizing fully that we may not be
+able to be 100% of the delivery. We'd like to be or make the case to our clients, but it may
+not happen, they may want to diversify away at least from this combined entity. So there
+some of the assumptions are in our numbers that you see.
+
+A - Constantine P. Iordanou
+
+{BIO 2397727 <GO>}
+
+Yeah. We have assumed, we're going to lose some volume because of company overlap,
+Arch and United Guaranty might be too big market share for a specific customer, and
+then, a reduction in the singles.
+
+Q - Jay Gelb
+
+{BIO 21247396 <GO>}
+
+Right.
+
+A - Constantine P. Iordanou
+
+{BIO 2397727 <GO>}
+
+So, in the usual Arch way, we are not going to try to overpromise and under deliver. We'll
+try to be conservative in our projections.
+
+Q - Jay Gelb
+
+{BIO 21247396 <GO>}
+Page 15 of 30
+
+
+
+Company N ame: Arch Capital Group L td
+Company Ticker: ACGL US Equity
+Date: 2016-08-16
+
+I appreciate that, the conservative outlook. Cost synergies on page nine of the
+presentation, I believe it does say significant cost synergies. So, I just want to circle back
+on that.
+
+FINAL
+
+A - Mark Donald Lyons
+
+{BIO 6494178 <GO>}
+
+Well, we anticipate some, and we would expect them to be realized partially in 2017, a
+little more in 2018, and then probably run rating out of that point. Admittedly, a bit of a
+swag at this point until the integration team really goes through the detail as Dinos
+alluded to, but I don't want to go into the specifics, Jay, but let me tell you, it's not an
+(41:17).
+
+Q - Jay Gelb
+
+{BIO 21247396 <GO>}
+
+Okay. And then last one, I promise. Tax saving opportunity, on the current United Guaranty
+businesses carries an effective tax rate in the 30%s, Arch overall is in the mid single-digit
+range. So, I'm wondering, if there is an opportunity there as well that's taken into account
+for your accretion expectation?
+
+A - Mark Donald Lyons
+
+{BIO 6494178 <GO>}
+
+Just keep in mind that we'll use the same tools that we use in our property casualty space
+and have done in our mortgage operation to date, which is utilizing our internal quota
+share capabilities to aid in capital management and in the topic you asked about.
+
+Bloomberg Transcript
+
+Q - Jay Gelb
+
+{BIO 21247396 <GO>}
+
+Makes lot of sense. Thanks.
+
+A - Mark Donald Lyons
+
+{BIO 6494178 <GO>}
+
+Thank you.
+
+Operator
+Your next question comes from Ian Gutterman. Your line is open.
+
+Q - Ian J. Gutterman
+
+{BIO 18249218 <GO>}
+
+All right. Dinos, it's early in the days and my question is what was for breakfast?
+
+A - Constantine P. Iordanou
+
+{BIO 2397727 <GO>}
+
+Well, listen I was the best short order cook in a Greek Diner. I could have done one case
+of eggs, we just – 36 dozen in about an hour, so...
+
+A - Mark Donald Lyons
+
+{BIO 6494178 <GO>}
+
+Ian, you are suppose to be the last questioner on the call.
+
+Page 16 of 30
+
+
+
+Company N ame: Arch Capital Group L td
+Company Ticker: ACGL US Equity
+Date: 2016-08-16
+
+Q - Ian J. Gutterman
+
+{BIO 18249218 <GO>}
+
+I thought, I would be actually, but, so before my serious questions, I did some research on
+Greek Diner, Dinos, I watched a show on Sophia Foods (42:36) so we can talk about that
+some time, but...
+
+FINAL
+
+A - Constantine P. Iordanou
+
+{BIO 2397727 <GO>}
+
+Well, listen, you can be my partner, you know...
+
+Q - Ian J. Gutterman
+
+{BIO 18249218 <GO>}
+
+I know. We'll be the fourth leg of the stool, so...
+
+A - Constantine P. Iordanou
+
+{BIO 2397727 <GO>}
+
+I don't think my Board is interested in Greek Diner, and maybe I'm, but not them.
+
+Bloomberg Transcript
+
+Q - Ian J. Gutterman
+
+{BIO 18249218 <GO>}
+
+So, my first question is, I was just wondering, if I'm sure this isn't something out, the tip of
+your finger as maybe after the deal closes on a go forward basis just how to think about
+risk in the MI business? Right. We're so used to on the P&C business talking about PMLs,
+and how to think about the zones and occurrence versus a prevent and things like that,
+and now that MI is also going to be such a big part of the business, I think it will be helpful
+even given you mentioned the cap bonds within reinsurance, just some framework down
+the road to help us think about how you manage the tail and how much capital you have
+to put in the tail and something equivalent to 1-in-250 year as a percentage of your our
+capital, I think it would be helpful to invest just trying to understand the risk?
+
+A - Constantine P. Iordanou
+
+{BIO 2397727 <GO>}
+
+Right. We haven't settled to the exact characteristic 1-in-250 year, 1-in-500 year et cetera,
+but let me give you the flavor around it. S&P, for example, set their capital at the A level in
+the MI space on the basis that home prices declined by 37% and defaults on all
+mortgages are at 14%. So, 14% of every single mortgage defaults, and at the same time,
+you have a 37% price reduction in home values.
+Now, we are having similar models that we look at where unemployment rate might go,
+where price reductions might go, what the claim ratio might be. And basically, we're
+managing through those kind of extreme events in the 1-in-250 year PML. Now we haven't
+decided yet because, I haven't – I haven't had that discussion with my board. We'll make
+that information publicly available or not, but I can assure you internally, every quarter, we
+make those calculations and François Morin which is our Chief Risk Officer and our board
+is aware of the numbers, and that's what guide us in – not only in our capital structure, but
+also how much risk we want to take on the balance sheet of Arch. And if it's still good
+business, but we don't want to take aggregation that is above what is prudent, then I said
+we might create other vehicles for us to continue to be a service and get this out of that
+activity.
+
+Page 17 of 30
+
+
+
+Company N ame: Arch Capital Group L td
+Company Ticker: ACGL US Equity
+Date: 2016-08-16
+
+Q - Ian J. Gutterman
+
+{BIO 18249218 <GO>}
+
+(45:59)
+
+A - Mark Donald Lyons
+
+{BIO 6494178 <GO>}
+
+FINAL
+
+Hey, Ian, let me approach that a little differently, give you a P&C announcement (46:04).
+
+Q - Ian J. Gutterman
+
+{BIO 18249218 <GO>}
+
+Okay.
+
+A - Mark Donald Lyons
+
+{BIO 6494178 <GO>}
+
+In the P&C space, when you get a soft market to a hard market, on a policy year basis,
+you could pretty much get a good sense of how it's going to run, and because you see
+pricing, it has to point change (46:19) so forth and so on. In the mortgage space, it was
+more of a macroeconomic event hit, it cuts across policy years. So I think on average, you
+should say if there's a macroeconomic event hitting in year X, it's going to go back two
+years X-4X minus 5X in a decreasing way.
+
+Q - Ian J. Gutterman
+
+{BIO 18249218 <GO>}
+
+Sure.
+
+Bloomberg Transcript
+
+A - Mark Donald Lyons
+
+{BIO 6494178 <GO>}
+
+So, if it has a 30% once you show (46:43) impact on the current year, it might be 20% on
+the prior year before that and 15% and then 10%, because it's simply fewer policy still
+outstanding to impact it. But so, current minus 4 or current minus 5, I think it's the way to,
+if you're thinking in a modeling sense, how to think about it.
+
+Q - Ian J. Gutterman
+
+{BIO 18249218 <GO>}
+
+Got it. Okay.
+
+A - Constantine P. Iordanou
+
+{BIO 2397727 <GO>}
+
+And, Ian, important for you to, talking about the last four versus the new (47:12). If the
+industry did not make that – what I would think classic mistakes of not focusing on
+underwriting upfront. The stress scenario I described which is for S&P is an A level tabular
+(47:34) of capital requirement, the 14% claim ratio. We will never have been reached even
+in the last crisis, if no verification and all day loans were not underwritten by the MI
+company.
+
+Q - Ian J. Gutterman
+
+{BIO 18249218 <GO>}
+
+Of course.
+
+A - Constantine P. Iordanou
+
+{BIO 2397727 <GO>}
+
+Page 18 of 30
+
+
+
+FINAL
+
+Company N ame: Arch Capital Group L td
+Company Ticker: ACGL US Equity
+Date: 2016-08-16
+
+And the data will show you – to you. If you take the old data and we have the run-off of
+PMI and we have all that information, or if you go to Bloomberg and you see on the – on
+the historical default rates by type of loan, you find out that the big problems they were
+with no verification and all day, I'm not saying they're the only problems. There were other
+things that they were problematic, over-inflated appraisals, some fraud, et cetera. But
+even with that in all in, just eliminating all days and no verification loans, you will never get
+to double-digit claim ratios. And that tells you that this industry today is in a much better
+shape than it was – ever was, not because of where the economic cycle is and where
+housing prices are, but I think hopefully, too many people put their hands on the stove,
+when they get burned, then hopefully those tuition bills, they will be put to good use
+going forward.
+I will assure you that as long as I run this company or my colleagues here they're running
+this company; we're not going to make those tragic mistakes of the past. We're not
+volume driven, we're profitability, underwriting driven and bottom-line driven, and that's
+what we believe is being in the last – at least what we've seen in the last four years, five
+years, the thesis and not only the thesis, but the performance of United Guaranty, they
+were focusing on the same things we're focusing.
+
+Bloomberg Transcript
+
+Q - Ian J. Gutterman
+
+{BIO 18249218 <GO>}
+
+Exactly, exactly. And then just to move on to the accretion math I just – Mark, I just want to
+understand that the – is the reason we get to 35% down the road but not day one, I
+assume is a little bit like what you were saying a few minutes ago, right it's just because
+you don't capture 50% of the 2014 to 2016, I'm going to make up a number maybe you're
+getting two-thirds of UGC's earnings day one and it's a 100% by year five, is that sort of
+conceptually the right way to think about and it just still...
+
+A - Mark Donald Lyons
+
+{BIO 6494178 <GO>}
+
+Yeah. That is the right way to think about it. Because as you know, the quarter show risk
+attaching and a lot of it is monthly business at the same time it's coming over. So, yeah,
+that eats its way in, but its growth and impact in 2017, 2018, and 2019 is material....
+
+Q - Ian J. Gutterman
+
+{BIO 18249218 <GO>}
+
+Yeah. That's what I was trying to understand.
+
+A - Mark Donald Lyons
+
+{BIO 6494178 <GO>}
+
+... (50:24)
+
+Q - Ian J. Gutterman
+
+{BIO 18249218 <GO>}
+
+Right. So, can you give us a sense of how much of their earnings, by just looking at AIG's
+reported financials, how much of their earnings you get in 2017 and then, is it five years till
+you get to a 100%, six years, seven years like, what's the right way to think about that?
+
+A - Constantine P. Iordanou
+
+{BIO 2397727 <GO>}
+
+Page 19 of 30
+
+
+
+Company N ame: Arch Capital Group L td
+Company Ticker: ACGL US Equity
+Date: 2016-08-16
+
+When you mean, say 100% you mean when do you...
+
+Q - Ian J. Gutterman
+
+{BIO 18249218 <GO>}
+
+FINAL
+
+Meaning that...
+
+A - Constantine P. Iordanou
+
+{BIO 2397727 <GO>}
+
+... (50:44) value?
+
+Q - Ian J. Gutterman
+
+{BIO 18249218 <GO>}
+
+Right. When that's completely run-off and you have sort of everything?
+
+A - Constantine P. Iordanou
+
+{BIO 2397727 <GO>}
+
+I think it's closer to four years to five years to be 90% plus.
+
+Q - Ian J. Gutterman
+
+{BIO 18249218 <GO>}
+
+Four years to five years. Okay, great.
+
+A - Constantine P. Iordanou
+
+{BIO 2397727 <GO>}
+
+Don't forget its 2014, 2015 and 2016, right.
+
+Bloomberg Transcript
+
+Q - Ian J. Gutterman
+
+{BIO 18249218 <GO>}
+
+Right.
+
+A - Constantine P. Iordanou
+
+{BIO 2397727 <GO>}
+
+That's the data. 2014, it would be almost gone five years from today, 2016 you will have.
+You know, so – but that's a good rough number, right.
+
+Q - Ian J. Gutterman
+
+{BIO 18249218 <GO>}
+
+Okay. Got it. And then related to that, I assume, the accretion assumes no change in – or
+essentially no buyback, where if you're going to a deal that probably would have been
+buyback down the road, can you give us a sense given how much excess capital is
+deploying into this? How many – how long does it take to sort of rebuild to a normal
+cushion? Is that two years, three years, maybe less?
+
+A - Constantine P. Iordanou
+
+{BIO 2397727 <GO>}
+
+It would be – it's not going to be three, it's going to be probably like two years. So I don't
+think we'll have buybacks in 2017, 2018 is up in the air. But at the end of the day I told you,
+I'm also very cognizant that when I make commitments independent, if it's to regulators,
+rating agencies and all that, I live up to my commitments. And at the end of the day, we're
+going to maintain those commitments.
+
+Page 20 of 30
+
+
+
+Company N ame: Arch Capital Group L td
+Company Ticker: ACGL US Equity
+Date: 2016-08-16
+
+Q - Ian J. Gutterman
+
+{BIO 18249218 <GO>}
+
+Got it. And then just one final text book question. The convert – the shares that we'll
+convert, when do those become eligible to invert, is the expectation that AIG will convert
+this upon closing or that it takes a year or two, how does that work?
+
+FINAL
+
+A - Mark Donald Lyons
+
+{BIO 6494178 <GO>}
+
+Well, I can't speak for AIG behavior...
+
+Q - Ian J. Gutterman
+
+{BIO 18249218 <GO>}
+
+Okay.
+
+A - Mark Donald Lyons
+
+{BIO 6494178 <GO>}
+
+What I can speak to is what the lockup provision is in the contract.
+
+Q - Ian J. Gutterman
+
+{BIO 18249218 <GO>}
+
+All right.
+
+A - Mark Donald Lyons
+
+{BIO 6494178 <GO>}
+
+And there is a lockup until six months...
+
+Bloomberg Transcript
+
+Q - Ian J. Gutterman
+
+{BIO 18249218 <GO>}
+
+Okay.
+
+A - Mark Donald Lyons
+
+{BIO 6494178 <GO>}
+
+And then there is points along the way, where that expands, but it's cumulative and it
+expires at18 months. What AIG chooses to do with that is completely up to them.
+
+Q - Ian J. Gutterman
+
+{BIO 18249218 <GO>}
+
+And while they're making up their mind or until the lockup hits, will those be in your fully
+equivalent shares or do they not become fully equivalent shares until they exercise?
+
+A - Mark Donald Lyons
+
+{BIO 6494178 <GO>}
+
+They are in.
+
+Q - Ian J. Gutterman
+
+{BIO 18249218 <GO>}
+
+They are in. Okay so, we don't have to really worry about their time and we should just
+put M&A shares for you guys?
+
+A - Constantine P. Iordanou
+
+{BIO 2397727 <GO>}
+
+Yeah.
+
+Page 21 of 30
+
+
+
+Company N ame: Arch Capital Group L td
+Company Ticker: ACGL US Equity
+Date: 2016-08-16
+
+Q - Ian J. Gutterman
+
+{BIO 18249218 <GO>}
+
+Okay, great. Thanks.
+
+FINAL
+
+A - Constantine P. Iordanou
+
+{BIO 2397727 <GO>}
+
+You got to think about as the equivalent shares, et cetera. And you know, this AIG is a
+small company there, that's a value to them and I'm sure within the lock-up provision
+they're going to exercise good care in the way they're going to maximize their income,
+right.
+
+Q - Ian J. Gutterman
+
+{BIO 18249218 <GO>}
+
+Right now I'm just thinking like sometimes when companies issue converts like those old
+ESUs or whatever, you can keep them out of share count for a few years. I wanted to
+make sure it wasn't one of those, so.
+
+A - Constantine P. Iordanou
+
+{BIO 2397727 <GO>}
+
+No, no.
+
+Q - Ian J. Gutterman
+
+{BIO 18249218 <GO>}
+
+Okay, great. Thank you.
+
+A - Constantine P. Iordanou
+
+{BIO 2397727 <GO>}
+
+Bloomberg Transcript
+
+Thanks, Ian.
+
+Operator
+Your next question comes from Justin Maurer (53:28). Your line is open.
+Good morning, guys.
+
+A - Constantine P. Iordanou
+
+{BIO 2397727 <GO>}
+
+Hi, (53:33).
+
+Q - Operator
+Just quick with the rating agencies, did you – I'm assuming you've talked to them in terms
+of expectations of ratings?
+
+A - Constantine P. Iordanou
+
+{BIO 2397727 <GO>}
+
+Yeah. We have – I'd say we have indications as opposed to set determinations, but our
+expectation is we retain our S&P A+ that is still in the process of discussion, such we
+expect to maintain our A+ FSR, I think the debt rating is being examined and Moody's is
+likely to move us to an A2 from an A1.
+
+Page 22 of 30
+
+
+
+Company N ame: Arch Capital Group L td
+Company Ticker: ACGL US Equity
+Date: 2016-08-16
+
+Q - Operator
+Got it, okay. And then just in terms of timing closure just given that CMG and PMI kind of
+got dragged out, how do you think about that in terms?
+
+FINAL
+
+A - Constantine P. Iordanou
+
+{BIO 2397727 <GO>}
+
+This is a different scenario. We got to go to form A, processed through the States, this is
+mostly North Carolina and Wisconsin and then the GSEs Fannie and Freddie. The
+timeframe we said by year-end maybe early part of 2017 is reasonable place to be for
+closing and is different than the PMI. We was in receivership and there was a bankruptcy
+procedure, et cetera. It's much – these are to help the well-performing companies and at
+the end of the day, it should be a shorter process.
+
+Q - Operator
+Got it. Thanks, guys. Congrats.
+Your next question comes from Ryan Byrnes. Your line is open.
+
+Q - Ryan Byrnes
+
+{BIO 16902592 <GO>}
+
+Bloomberg Transcript
+
+Sorry. Thanks, guys. Just one quick clarification, one, just want to make sure I understand
+that the – what the UGC quota share economics. So, if I look at the AIG sub, I want to say
+that the operating income was $644 million versus the S1, which I want to say was $550
+million (55:45) or so. Does that explain what the quota share is taking out?
+
+A - Constantine P. Iordanou
+
+{BIO 2397727 <GO>}
+
+There is one my understanding of it our S1 (55:55) is it reflects the UGC book as well as
+the assumption of AIG on the consolidated way on the 50% quota share. So it's a blend
+and their mix is going to be a little bit different because they've been on the quota share
+a longer since 2014.
+
+Q - Ryan Byrnes
+
+{BIO 16902592 <GO>}
+
+Got it. Okay. Thanks, guys.
+
+A - Constantine P. Iordanou
+
+{BIO 2397727 <GO>}
+
+Thank you.
+
+Operator
+Your next question comes from Quentin McMillan. Your line is open.
+
+Q - Quentin McMillan
+
+{BIO 19411547 <GO>}
+
+Hi, good morning. Thanks very much, guys. I just wanted to quickly ask about the sort of
+the markets share gain or loss, what do you guys think the insurance in force for your
+
+Page 23 of 30
+
+
+
+Company N ame: Arch Capital Group L td
+Company Ticker: ACGL US Equity
+Date: 2016-08-16
+
+book is going to be as a percentage of the overall market on a pro forma basis if you can
+take a stab at that. And is there sort of a comfortable...?
+
+A - Constantine P. Iordanou
+
+{BIO 2397727 <GO>}
+
+FINAL
+
+When, yes, when?
+
+Q - Quentin McMillan
+
+{BIO 19411547 <GO>}
+
+...as of the closing of the transactions. So, whether that's the end of this year or the
+beginning of next year, when the book sort of turns over before the full amount of AIG's
+shares over the next four years to five years are even earned in (56:59), where do you
+sort of think you will stand at at that point?
+
+A - Constantine P. Iordanou
+
+{BIO 2397727 <GO>}
+
+Bloomberg Transcript
+
+Well, when we close, all you got to do is just take our market share in there (57:09) and
+put it together and that's what it is. The actions are going to happen in 2017, 2018 and
+beyond, and we don't know. As a combined entity, we're probably at 28%, 29% market
+share. We view that, that is going to come down to maybe in the low 20%s, over threeyear period of time. But I don't – like I said, all things being equal, the only thing I'm trying
+to emphasize is that other than the comments I made on the singles, we want to maintain
+a customer relationships. We want to be – but at the end, the customers have things to
+say, too, so there might be (57:51) some of them – and it would've been unprudent for us
+to assume that all customers are going to love us and they're going to say, they love
+United Guaranty and they love Arch and then they're going to maintain all the
+relationships.
+Some relationships, we might lose or readjust, and at the end, we're going to try to do
+the best we can to maintain good relationships with a very, very broad and expansive
+customer base that United Guaranty has over 1,800 customers.
+
+A - Mark Donald Lyons
+
+{BIO 6494178 <GO>}
+
+And then, Quentin, let me just clarify because there is a difference between the IIF, the
+insurance in-force mix and the NIW mix. The NIW, which is the standard market share view
+is, I like to call it the onion skin layer of new business coming in. So that's your incremental
+to the IIF, I suppose to the in-force business. So our rule of thumb basis Arch's IIF is a
+smaller percentage than its NIW because of the growth. It's the reverse, I would think, for
+UGC that their market share has been dropping, so their in-force should be relatively
+larger on a relative basis.
+
+Q - Quentin McMillan
+
+{BIO 19411547 <GO>}
+
+Okay, that's very helpful. And then I just wanted to sort of tie that thought together and I
+know a few different people have asked about sort of the growth prospects going
+forward. But in terms of RateStar, it seems like you're obviously targeting better more
+profitable business – oh, I'm sorry, the same ROE, but kind of faster growth business. And
+if the IIF is sort of coming from high-20%s down to low-20%s, which is the prevailing
+sentiment, as you announced this, how do we think about sort of the growth of RateStar?
+Page 24 of 30
+
+
+
+Company N ame: Arch Capital Group L td
+Company Ticker: ACGL US Equity
+Date: 2016-08-16
+
+Are we going to sort of meaningfully tail off, or do you look to continue to grow RateStar
+at a very fast clip and maybe more singles as the portfolio sort of churns away from some
+of the business that you maybe don't want?
+
+FINAL
+
+A - Marc Grandisson
+
+{BIO 4369887 <GO>}
+
+I think, RateStar is not a growth engine, RateStar is a pricing engine. And it just so happens
+that it's able to select and better select risk within the risk spectrum. And for that reason
+we're able to take, we believe, the best risk part of any grid that will be crudely done on a
+rate card basis.
+So in terms of what happens one quarter or two quarters after the innovation is – the
+closing is done, they have a risk-based pricing. We have a risk-based pricing. Our
+expectation is we'll have the best of both worlds and it just allows us to be better risk
+selectors in the marketplace. So again, RateStar or their risk-based pricing model is – were
+(01:00:25) not growth engine, they're really meant to slice and dice the data more
+refinely and get better risk-adjusted returns.
+
+Q - Quentin McMillan
+
+{BIO 19411547 <GO>}
+
+Great. Thank you very much, guys.
+
+A - Constantine P. Iordanou
+
+{BIO 2397727 <GO>}
+
+Bloomberg Transcript
+
+Josh.
+
+Operator
+Your next question comes from Josh Shanker. Your line is open.
+
+Q - Josh D. Shanker
+
+{BIO 5292022 <GO>}
+
+Yeah, thank you for my question, everyone. Everyone, hear me okay? Unfortunately, I'm
+on a cell phone.
+
+A - Constantine P. Iordanou
+
+{BIO 2397727 <GO>}
+
+Yeah, that's fine Josh Ian Shanker (01:00:50).
+
+Q - Josh D. Shanker
+
+{BIO 5292022 <GO>}
+
+Yeah, (01:00:53). So anyways, I think for the past two years, the question you've gotten
+most often is, are you going to buy UGC. This is not a new story in anyways and then
+you've always been very complementary about business and whatnot, but yesterday the
+deal got announced. If we think about the last couple of years, is the deal more attractive
+now given where P&C markets are or to put in another way, has your outlook for P&C
+diminished so much that the best thing you can do with your $3 billion put into MI, how
+does the rest of the market affect your incentives to do this transaction right now?
+
+Page 25 of 30
+
+
+
+Company N ame: Arch Capital Group L td
+Company Ticker: ACGL US Equity
+Date: 2016-08-16
+
+FINAL
+
+A - Constantine P. Iordanou
+
+{BIO 2397727 <GO>}
+
+Well, the – what you said it was absolutely correct. Our interest in United Guaranty, it
+wasn't a recent interest – we. But we were disciplined with that – are there reasonable
+price. This is a company that we will like to have, because of the lot of other ingredient,
+like we said you heard me many times talk about culture, pricing culture, underwriting
+culture, and we found that, as a matter of fact I'm more – I'm happier today with a
+transaction that when I actually made my first call to Peter, because when we got in and
+they allowed us to fix their tires and all that (01:02:23), we have confirmed what we
+suspected, and it was all true.
+
+Bloomberg Transcript
+
+Having said that, you rather common (01:02:31), it's almost correct tools. The P&C world,
+especially, the reinsurance world is on, I don't know, 12, 13 consecutive quarters of giving
+upgrade (01:02:42). I think, there is price correction that needs to happen on the P&C
+side, and it hasn't happened yet, and I hope it will, but we're not going to wait – you never
+fight Mr. Market. Mr. Market, it will be whatever it is, and then you got to navigate within
+that marketplace. We view the MI space a better place to be right now.
+Again, within risk management tolerance, I can't keep emphasizing that. But we're not
+abandoning a P&C and our reinsurance. Our P&C, and reinsurance business is very, very
+core. It's our engine, it got us the ability to do this transaction, and we will continue to be a
+big participant in that in a prudent way. When the pricing improves, we'll do a lot more on
+that side too. And, if it doesn't, we're going to be defensive. And, that's a real implication
+Josh, that overtime depending upon the opportunities and the cycles and pretty much
+non-correlated cycles between them. There could be massive insurance and reinsurance
+margins, and the questions you're asking is why it's mortgage insurance only 60% to 70%
+of your capital. So, it's going to fluctuate depending upon relative market conditions.
+
+Q - Josh D. Shanker
+
+{BIO 5292022 <GO>}
+
+And given that you're now the market share leader, do you find the GSEs, first thing, when
+it comes to Stafford (01:04 05) transactions, whatnot, your left invariable (01:04:08)
+counterparty because you are already giving a lot of flow through the standard (01:04:11)
+channel?
+
+A - Constantine P. Iordanou
+
+{BIO 2397727 <GO>}
+
+Well, at the end of the day, I think we have very good relationships with the GSEs. The
+GSEs, especially when they look at the bulk transactions, they look also the balance sheets
+of the providers, and it's not just us, there's other reinsurance companies et cetera, and
+very high quality from a capital point of view, Arch will have in excess of $10 billion of total
+capital between common, preferred and long-term debt, and I think is a good place for
+the GSEs to be to have the entire balance sheet large (01:04:57) behind those
+transactions.
+
+Q - Josh D. Shanker
+
+{BIO 5292022 <GO>}
+
+Okay. So, I'm going to think there is no change.
+
+Page 26 of 30
+
+
+
+Company N ame: Arch Capital Group L td
+Company Ticker: ACGL US Equity
+Date: 2016-08-16
+
+A - Constantine P. Iordanou
+
+{BIO 2397727 <GO>}
+
+Yeah.
+
+Q - Josh D. Shanker
+
+{BIO 5292022 <GO>}
+
+FINAL
+
+Just, good luck and congratulations.
+
+A - Constantine P. Iordanou
+
+{BIO 2397727 <GO>}
+
+Yeah.
+
+A - Mark Donald Lyons
+
+{BIO 6494178 <GO>}
+
+Thanks Josh.
+
+A - Constantine P. Iordanou
+
+{BIO 2397727 <GO>}
+
+Thank you, Josh.
+
+Operator
+Your next question comes from Kai Pan. Your line is open.
+
+Q - Kai Pan
+
+{BIO 18669701 <GO>}
+
+Bloomberg Transcript
+
+Thank you and good morning. First question...
+
+A - Constantine P. Iordanou
+
+{BIO 2397727 <GO>}
+
+Hi, Kai.
+
+Q - Kai Pan
+
+{BIO 18669701 <GO>}
+
+Hi. First question on debt. So what's your debt-to-capital ratio post merger? What are your
+comparable rates? And how much of the debt is going to be issued on shore, which you
+probably had some tech divisibility?
+
+A - Mark Donald Lyons
+
+{BIO 6494178 <GO>}
+
+Well. Let me give you from a perspective of Moody's, because there are certain equity
+credits like when you issue preferreds and so forth. It's in the 24%.
+
+A - Constantine P. Iordanou
+
+{BIO 2397727 <GO>}
+
+24%.
+
+A - Mark Donald Lyons
+
+{BIO 6494178 <GO>}
+
+24%. And we anticipate, the longer tenured debt to be issued onshore.
+
+Page 27 of 30
+
+
+
+Company N ame: Arch Capital Group L td
+Company Ticker: ACGL US Equity
+Date: 2016-08-16
+
+Q - Kai Pan
+
+{BIO 18669701 <GO>}
+
+Okay. All right that's great. Then the second question, I want to push a little harder on the
+reinsurance deal, is that out of the $360 million net earnings in 2015 (01:06:18) on UGC's
+X1? How much of that you would just like – you expect to retain on day one?
+
+FINAL
+
+A - Mark Donald Lyons
+
+{BIO 6494178 <GO>}
+
+You said a reinsurance question, because the $360 million you're referencing, which I think
+it was 2015's number...
+
+Q - Kai Pan
+
+{BIO 18669701 <GO>}
+
+Yeah.
+
+A - Mark Donald Lyons
+
+{BIO 6494178 <GO>}
+
+...is net of the quota share.
+
+Q - Kai Pan
+
+{BIO 18669701 <GO>}
+
+Okay. So that's the amount if everything else is constant (01:06:47).
+
+Bloomberg Transcript
+
+A - Mark Donald Lyons
+
+{BIO 6494178 <GO>}
+
+That's right. So Kai when there is valuation metrics out there on price-to-book or price-toearnings and so forth and a supply to a $360 million, it just implicitly assumes that the
+50% quota share is always in effect, always 50% retained by UGC, and this is the valuation
+associated with the reinsurance that we're assuming.
+
+Q - Kai Pan
+
+{BIO 18669701 <GO>}
+
+Okay. So over time, the earnings, ever since (01:07:17) earnings will grow because you will
+retain more on your own balance sheet.
+
+A - Mark Donald Lyons
+
+{BIO 6494178 <GO>}
+
+That's correct.
+
+A - Constantine P. Iordanou
+
+{BIO 2397727 <GO>}
+
+Everything else being equal.
+
+Q - Kai Pan
+
+{BIO 18669701 <GO>}
+
+Okay. Great. My last question is on the imaginary retention, what's your plan for imaginary
+retention for post UGC as well as your own MI business? And also Dinos, I don't know if
+this deal impacted your retirement planning?
+
+A - Constantine P. Iordanou
+
+{BIO 2397727 <GO>}
+
+Page 28 of 30
+
+
+
+FINAL
+
+Company N ame: Arch Capital Group L td
+Company Ticker: ACGL US Equity
+Date: 2016-08-16
+
+Well, that's a mouthful. I'll address the retirement. I mean, March of 18th, the CEO job will
+go to Marc Grandisson. That's our plan. We plan for everything in this company including
+succession. I'm not going away. I mean, I have an agreement with our board and with Marc
+et cetera. As Vollaro retired in 2009, and you see him all the time and he is an advisor to
+the company and he has been doing a phenomenal job for us for now, another seven
+years since his retirement. I'm going to be in that mode. I'll be around, I'll be the Chairman
+of the company. I will continue to advise Marc on a lot of issues I've been involved, more
+over a part time basis with whatever assignments I get from Marc. But at the end of the
+day, that's what you get with Arch. You get continuity, you get – we don't make abrupt
+decisions and we move on. And it's the model that is being working very well for us. We
+prepare our people for succession in every job that we have within the organization. So no
+change in the plans, but I've been a little more expensive as to be truthfully honest with
+everybody on the call as to what we were always internally been planning now for four
+years or five years.
+Marc?
+
+A - Marc Grandisson
+
+{BIO 4369887 <GO>}
+
+Bloomberg Transcript
+
+Yeah. Thanks for that Dinos. I think in terms of the executives from UG and then the Arch,
+no matter we have very capable collective leaders and deep management throughout.
+And as Dinos mentioned already there is an executive integration group that's been
+formed, three from UGC, three from Arch Capital Group. And we'll go through that and
+make sure we have the best people in the best place, and we'll retain talent in the
+appropriate places (01:09:47) run even faster after closing.
+
+Q - Kai Pan
+
+{BIO 18669701 <GO>}
+
+That's great. Thank you so much and good luck.
+
+A - Marc Grandisson
+
+{BIO 4369887 <GO>}
+
+Thank you.
+
+A - Constantine P. Iordanou
+
+{BIO 2397727 <GO>}
+
+Thank you.
+
+Operator
+I'm not showing any further questions. I would now like to turn the conference over to Mr.
+Dinos Iordanou for closing remarks.
+
+A - Constantine P. Iordanou
+
+{BIO 2397727 <GO>}
+
+Well, thank you, Emily. Thank you, everybody. I know we took a lot of your time, but we
+appreciate the support, and we're looking forward to integrating two great companies as
+soon as we get approval to close. Thank you and have a wonderful day.
+
+Page 29 of 30
+
+
+
+Company N ame: Arch Capital Group L td
+Company Ticker: ACGL US Equity
+Date: 2016-08-16
+
+Operator
+
+This transcript may not be 100 percent accurate and may contain misspellings and other
+inaccuracies. This transcript is provided "as is", without express or implied warranties of
+any kind. Bloomberg retains all rights to this transcript and provides it solely for your
+personal, non-commercial use. Bloomberg, its suppliers and third-party agents shall
+have no liability for errors in this transcript or for lost profits, losses, or direct, indirect,
+incidental, consequential, special or punitive damages in connection with the
+furnishing, performance or use of such transcript. Neither the information nor any
+opinion expressed in this transcript constitutes a solicitation of the purchase or sale of
+securities or commodities. Any opinion expressed in the transcript does not necessarily
+reflect the views of Bloomberg LP. © COPYRIGHT 2022, BLOOMBERG LP. All rights
+reserved. Any reproduction, redistribution or retransmission is expressly prohibited.
+
+Bloomberg Transcript
+
+FINAL
+
+Ladies and gentlemen, thank you for your participation in today's conference. This
+concludes the program. You may all disconnect.
+
+Page 30 of 30
+
+

@@ -1,0 +1,1207 @@
+Company N ame: M uenchener Rueckversicherungs-Gesellschaft AG in M uenchen
+Company Ticker: M UV2 GR Equity
+Date: 2018-11-07
+
+Q3 2018 Earnings Call - Q&A
+Company Participants
+FINAL
+
+Christian Becker-Hussong, Head-Investor & Rating Agency Relations
+Christoph Jurecka, Chief Financial Officer
+Jörg Schneider, Chief Financial Officer & Director
+
+Other Participants
+Andrew J. Ritchie , Analyst
+Frank Kopfinger, Analyst
+Ivan Bokhmat, Analyst
+James A. Shuck, Analyst
+Jonny Urwin, Analyst
+Kamran Hossain, Analyst
+Michael Hermann Haid, Analyst
+Michael Huttner, Analyst
+Sami Taipalus , Analyst
+Thomas Fossard, Analyst
+
+Bloomberg Transcript
+
+Thomas Seidl, Analyst
+Vinit Malhotra, Analyst
+William Hawkins , Analyst
+
+MANAGEMENT DISCUSSION SECTION
+Operator
+Good day, and welcome to the Munich Re Quarterly Statement Conference Call. At this
+time, I would like to turn the conference over to Mr. Christian Becker-Hussong. Please go
+ahead, sir.
+
+Christian Becker-Hussong
+
+{BIO 19080254 <GO>}
+
+Thank you, Sebastian. Good morning, everyone. Thanks for joining us for our Q3 earnings
+call. Today's speakers are Jörg Schneider, our CFO. And warm welcome to Christoph
+Jurecka as well who is going to be the Group CFO as of beginning 2019.
+And at this point, I'd like to hand it back to you. And we are happy to answer the first
+question. So, please go ahead.
+
+Page 1 of 20
+
+
+
+Company N ame: M uenchener Rueckversicherungs-Gesellschaft AG in M uenchen
+Company Ticker: M UV2 GR Equity
+Date: 2018-11-07
+
+Q&A
+Operator
+
+FINAL
+
+Thank you. We will now take our first question from James Shuck from Citi. Please go
+ahead, sir.
+
+Q - James A. Shuck
+
+{BIO 3680082 <GO>}
+
+Okay. Good morning, everybody. Thank you for taking my questions. So, first question
+really was around the NatCat PYD that you experienced. So, I think you had four points of
+normal reserve releases in the quarter, but you had a very high level of releases from PYD
+relating to NatCat. Can you just elaborate a little bit about some of the drivers of that?
+Most of the markets have actually seen adverse development and some of them more
+recent losses (00:01:38) to hear about that please?
+Secondly, I'm not sure you'll be able to answer this, but could you perhaps just give me an
+indication of what your capital, your economic capital allocated to NatCat is, and how that
+has compared historically over time looking for an actual euro billions number is possible
+on that please?
+
+Bloomberg Transcript
+
+Thirdly, just around the North America Risk Solutions business, so the normalized
+combined ratio in the period 99.9% I think Q2 and Q3, you've experienced larger losses in
+North America Risk Solutions. Could you just elaborate on some of those trends, please?
+Thank you very much.
+
+A - Jörg Schneider
+Yeah, thank you, James. Good morning. Good morning, ladies and gentlemen. First
+question on PYD, for basic losses, its 4% in line with our expectation. For major losses, it
+was pretty high. It's a broad mixture of events. They range from one-year old to sevenyear old, and I see a long list of items. It's in the ordinary cause of reserve checking here
+that these come up and this is due to our perhaps and probably pretty conservative
+reserve setting. So, for example, (00:02:57) a little bit for California wildfire, it was a little
+bit for New Zealand earthquake and so, and when it comes that is random and now it was
+relatively high.
+And second question on economic capital, I have to look it up when Christoph is speaking
+later on.
+And third question is about normalized combined ratio, our normalized combined ratio, if
+we adjust for major losses and for reserve releases of basic loss reserve, it is in the order
+of 100% and this is some percent – 1 percentage point higher than originally anticipated.
+When we look at the reasons (00:03:43) from our plans come from, than it's mostly manmade losses or NatCat losses, more NatCat than man-made, which are just below the €10
+million threshold from which we call it a major loss.
+
+Page 2 of 20
+
+
+
+Company N ame: M uenchener Rueckversicherungs-Gesellschaft AG in M uenchen
+Company Ticker: M UV2 GR Equity
+Date: 2018-11-07
+
+FINAL
+
+So, as you can imagine, we intensively discussed it internally. It seems to me as being,
+let's say, 80% random and perhaps 20% real underperformance. So going forward, we
+continue trusting – continue to be confident that 99% is the current correct adjusted level
+because there are also a lot of fluctuations from currency and things like that in it. So, one
+should not read too much in that, let's call it miss (00:04:41). So, we are pretty confident
+that 99% is the current level and that we are going to improve that. And I come back to
+your second question later.
+
+Q - James A. Shuck
+
+{BIO 3680082 <GO>}
+
+Okay, Jörg. Thank you very much.
+
+A - Jörg Schneider
+Thank you, James.
+
+Operator
+We'll now take our next question from Vinit Malhotra from Mediobanca. Please go ahead.
+
+Q - Vinit Malhotra
+
+{BIO 16184491 <GO>}
+
+Bloomberg Transcript
+
+Good morning. Thank you very much for your time (00:05:13). So my two questions would
+be basically more on the volume side. So, on Life Re, you're getting to see quite a bit of a
+sharp fall again in this quarter. Just want to follow up if this is the same mix driver as we
+discussed in the 2Q (00:05:33), which was some large structured transactions?
+And then on the – on your – just following on this 80% random, 20% underperformance,
+please can I just ask is this 20% underperformance coming somewhere from the
+structured transactions or from some growth in the broker business or just a bit more on
+that would be very useful for us? Thank you very much.
+
+A - Jörg Schneider
+Thank you, Vinit. I'll start with your second question. No, it doesn't come from structured
+business. It comes from primary insurance out of reinsurance. And for this part of our
+portfolio, it is quite normal that they get hit, for example, by tornadoes or so, and these
+are not the type of events which then accumulate with the big reinsurance events
+(00:06:34) and then we call it a major loss. They are just isolated. If such a tornado hits a
+commercial property or warehouse or things like that, it might be a €7 million or €8 million
+loss, yeah, so and that is the reason where it comes from and it's difficult to say. I can't be
+100% sure where and whether it also has to do with real underperformance or whether
+it's just random. My gut feeling is it's more random than underperformance, but we have
+a close eye to that.
+Your first question about the decline in the gross premium income for Reinsurance Life,
+this is foreign exchange effect, €400 million and €1.9 billion of decline on organic decline
+and this is exactly how you say this is the same reasons as in the second quarter and that
+these are the major structured transactions, which came to an end over restructured. So,
+
+Page 3 of 20
+
+
+
+Company N ame: M uenchener Rueckversicherungs-Gesellschaft AG in M uenchen
+Company Ticker: M UV2 GR Equity
+Date: 2018-11-07
+
+FINAL
+
+no new reason. And overtime, you will see also more large transactions, because they are
+still on our radar, yeah. So, this will be – also in future will be a good source of new
+business like, also by the way in Q3, where we had various new treaties (00:08:14) in the
+UK, also new longevity contract. So, we are still open for that kind of business. It was just
+(00:08:24) the two contracts we were talking off and which caused the decline, they were
+just gigantic, yeah. So, therefore, it's visible, but it's not a structural and sustainable
+reason. Thank you, Vinit.
+
+Q - Vinit Malhotra
+
+{BIO 16184491 <GO>}
+
+All right. Thank you.
+
+Operator
+We will now take our next question from William Hawkins from KBW. Please go ahead.
+
+Q - William Hawkins
+
+{BIO 1822411 <GO>}
+
+Bloomberg Transcript
+
+Hey Jörg, hey Christoph, thank you very much. (00:08:52) the year-on-year experience
+for natural catastrophes, because you've had – 3Q has obviously been heavy in both
+years, but last year it was monstrously heavy at about 70 points. And this year even if we
+adjust for the run-off, 18 or so percentage points could have been a lot worse. So, if
+you're thinking about the big decline in those two big numbers, can you give us any kind
+of view about how much of this is kind of market related, just that there were – (00:09:18)
+was less? How much of this is a share of primary versus reinsurance?
+You were just lucky because not much of it hit the layer. And is there any element where
+you actually kind of think, well, actually we've just been better underwriters and we've
+avoided bullets, or is it all just kind of random? But given that we've gone from 17 to 18
+(00:09:34) before the reserve development, how do you kind of audit that improvement
+year-on-year in large loss experience?
+And then secondly, in ERGO, to the extent you've made this policyholder assumption
+change in the German life business, does that have a future impact on earnings as well,
+and if so how much? And then related to that given what you've just done for the 2018
+guidance for ERGO, how much should we be taking up future years for ERGO's
+performance relative to the existing plan targets you've set? Thank you.
+
+A - Jörg Schneider
+Thank you, William. Before I hand over to Christoph, let me start with your first question
+about the NatCat experience. I understand quite well your reasoning, yeah, and the losses
+are always also a result of underwriting, and therefore, if I have huge outlier losses can
+also be the consequence of a very aggressive underwriting behavior. I don't believe that
+to be the case. The structural changes in the portfolio between 2017 and 2018 are of
+minor relevance, and on that occasion, I can also answer the questions from James with
+regard to the property casualty risk. On a stand-alone basis, it's €6.3 billion, of which 40%
+is basic losses and €6 billion is major losses, and the tendency is slightly up adjusted for
+currency.
+Page 4 of 20
+
+
+
+FINAL
+
+Company N ame: M uenchener Rueckversicherungs-Gesellschaft AG in M uenchen
+Company Ticker: M UV2 GR Equity
+Date: 2018-11-07
+
+So, it jumps up and down mostly with currency because there's a lot of foreign currency
+yen and U.S. dollar exposure in it. But there's not a strong trend, but a light trend. But it's
+not a major development to higher risks. So, therefore, our experience in 2018 with the
+large losses is absolutely in line with our expectation for Q3, including the run-off, and I
+would also recommend to take the run-off into account because this run-off doesn't come
+randomly, but is also a consequence of quite cautious reserve setting and when you look
+at our major loss burden for current event, you must see that or you should see that also
+together with this positive experience on the outliers of yesterday.
+With that to Christoph.
+
+A - Christoph Jurecka
+
+{BIO 17223019 <GO>}
+
+Thank you, Jörg. Well, thank you for the question. Before going into the question, I just
+wanted to highlight how much it is a pleasure for me to be in this hall today. I have been
+involved in Investor Relations Security (00:12:31) of Munich Re in the past couple of years
+quite often already, and I met many of you before. And I enjoyed it always very much.
+
+Bloomberg Transcript
+
+So, I'm looking forward to seeing you more often in the future, and as I said, I enjoy very
+much being already here today together with Jörg, which is a great experience anyway.
+Coming to your question now, this is kind of a difficult technical – I'm sorry, now I have to
+give (00:12:57) for that. We are talking here about the assumptions, which we use in IFRS
+for the distribution of gross profit between policyholders and shareholders. This is at first
+step only an (00:13:10) IFRS assumption, which we take. And this assumption has been
+devised by the plan and the planning exercise we do every year.
+So we look into the profitability of the future, and we look in that plan how much profit we
+are going to allocate to shareholders or to policyholder going forward, specifically in local
+GAAP, which (00:13:30) the profitability of this book anyway. And there what we saw is
+that given now that the risk capacity of companies (00:13:39) increased so much, those
+are the – they are much (00:13:44) than they have been a couple of years ago.
+What we saw is that the profitability going forward is higher, which will allow us to give
+higher portion of the profit also to shareholders going forward. Therefore, we have this
+one-off effect now from the change in this assumption, which is based on the future
+planning. But going forward, the earnings assumptions are even higher than they have
+been in the past and this is exactly depicted in the assumption which we are changing
+now. And therefore, I would not expect any negative downturn now from changing the
+assumption at this stage is more the opposite that we are able to take this – to have this
+one-off effect now in our account is signaling that we are expecting higher profitability
+(00:14:24) going forward.
+
+Q - William Hawkins
+
+{BIO 1822411 <GO>}
+
+(00:14:28) I understood that I was trying to ask how much (00:14:30)?
+
+A - Christoph Jurecka
+
+{BIO 17223019 <GO>}
+
+How much, you mean, going forward is the positive impact would be on the life figures?
+Page 5 of 20
+
+
+
+Company N ame: M uenchener Rueckversicherungs-Gesellschaft AG in M uenchen
+Company Ticker: M UV2 GR Equity
+Date: 2018-11-07
+
+Q - William Hawkins
+
+{BIO 1822411 <GO>}
+
+Yeah.
+
+FINAL
+
+A - Christoph Jurecka
+
+{BIO 17223019 <GO>}
+
+I mean it's difficult to say. Of course, it's very much interest rate depending and so on.
+Rule of thumb would be that – I mean if you've changed the share that the shareholder
+gets by roughly 50%, so the increase is maybe max 50% of what we're expecting in the
+past. (00:15:07) this translate via very complex calculations into IFRS. So, it's not easy to
+really translate it one to one into an IFRS planning, and anyway, it would be too early now
+talk about future earnings expectation and we're not giving any new future projections
+right now.
+
+Q - William Hawkins
+
+{BIO 1822411 <GO>}
+
+Helpful. Thank you.
+
+A - Christoph Jurecka
+
+{BIO 17223019 <GO>}
+
+Thank you.
+
+Operator
+
+Bloomberg Transcript
+
+We will now take our next question from Thomas Seidl from Bernstein. Please go ahead,
+sir.
+
+Q - Thomas Seidl
+
+{BIO 17755912 <GO>}
+
+Yeah, thanks. Good morning. I thought actually you answered the life question, but your
+last comment make me come back to this point. I mean on the Solvency II, you're not
+recognizing any change that basically assumes you're just anticipating future profits and
+although you're saying a 50% in shareholder allocation (00:15:58) legally in Germany,
+right? So if you could comment on that.
+Secondly, on the equity impairments, can you comment what happened in Q3 and should
+we also expect more to come given that actually October was the peak of the equity
+underperformance?
+And the final question is, maybe a confirmation of my understanding, you had dividend
+policy last year, you told us in March normalized results by €2.2 billion, sounds like you're
+getting at least 10% increase this year. You paid €1.3 billion (00:16:32) dividend last year.
+Should we then all expect a 10% higher, so at least €1.43 billion dividend if this increase in
+earnings happens? Thank you.
+
+A - Christoph Jurecka
+
+{BIO 17223019 <GO>}
+
+Thomas, thank you for asking again, I was not very clear. It is not 50% of earnings the
+shareholder gets because this is of course not allowed in Germany (00:16:56) so you're
+completely right here. I was talking about 50% in addition of what we had in the past at
+Page 6 of 20
+
+
+
+Company N ame: M uenchener Rueckversicherungs-Gesellschaft AG in M uenchen
+Company Ticker: M UV2 GR Equity
+Date: 2018-11-07
+
+FINAL
+
+maximum and this is only back of the envelope calculation given the fact that in the past
+for IFRS purposes used as an assumption 10% shareholder split out of the cost surplus
+(00:17:14) and going up to 15%, and as I said, this is then completely independent IFRS
+judgment (00:17:19), independent of interest rate movements and all those kind of
+additional technical effects which might occur. So, really back of the envelope, rule of
+thumb, and don't take that seriously at this stage. But,
+(00:17:32)
+...50% more, sorry.
+
+Q - Thomas Seidl
+
+{BIO 17755912 <GO>}
+
+And why no impact on Solvency if this is basically also happening in the future?
+
+Bloomberg Transcript
+
+A - Christoph Jurecka
+
+{BIO 17223019 <GO>}
+
+Well, you could – I mean, you have to differentiate. Solvency, we are very much looking at
+the legal entity base, whereas here we're looking at the segment base. On the legal
+entity base, we have two carriers in Germany, one is Victoria Life. There, we changed the
+assumptions already some years in the past, because the Victoria has been closed the
+new business already nearly 10 years ago from now. I believe there will be a change and
+will be implemented end of the year, and we are having different cycles timing wise when
+to reflect that kind of changes in IFRS versus in Solvency II, but be careful, in IFRS, we have
+been much more cautious than the Solvency II. So, the positive impact we are seeing here
+in IFRS is relatively seen much larger than I would expect on the Solvency II. Therefore, it's
+probably something which will happen at the end of the year, but potentially not even
+really visible for you.
+
+A - Jörg Schneider
+Thomas, Jörg here. On equity impairment, so the impairments were (00:18:46) pretty
+high, but they were not all on equities, but also on alternative investments in one case and
+that was quite a substantial amount, yeah. So, we changed an assumption and since it's a
+very long-term engagement, therefore we had to write it down. And the impairments on
+equities were partially due to the rule once impaired always impaired and partially due to
+the rules at six months or 20% rule. And that's – with that, it is also clear that we are
+exposed to impairments potentially in the Q4. So, if we do it on today's stock prices, stock
+market, then there would be additional impairments but not huge amount, yeah. So, we
+can digest it easily.
+Second question on the dividend, it's too early now, yeah. So, we never did it that we
+predicted dividend level in the quarter of November because we still have one-and-a-half
+months to go. And we saw in October already that it's quite a lively natural catastrophe
+season, winter storms could be ahead of us. So, therefore, please bear with me that we
+don't say anything about dividend. What is clear that with growing earnings, we want to
+grow the dividend and but only to a level that where we are confident that it's going to be
+sustainable. Thank you, Thomas.
+
+Page 7 of 20
+
+
+
+Company N ame: M uenchener Rueckversicherungs-Gesellschaft AG in M uenchen
+Company Ticker: M UV2 GR Equity
+Date: 2018-11-07
+
+Q - Thomas Seidl
+
+{BIO 17755912 <GO>}
+
+Thank you.
+
+Operator
+
+FINAL
+
+Our next question comes from Andrew Ritchie from Autonomous. Please go ahead, sir.
+
+Q - Andrew J. Ritchie
+
+{BIO 18731996 <GO>}
+
+Hi, there. I wonder if you could just give us an update on German GAAP profit generation
+year-to-date. I'm assuming there's quite a lot of moving parts to do with the catastrophe
+losses, but also the real estate revaluation, I'm not sure how that affects German GAAP.
+And secondly related to that real estate revaluation, I mean, obviously, you've got an
+extra €1.5 billion of unrealized gains. Do you plan to harvest that or what is the kind of
+strategy on the large stock now of unrealized gains on real estate?
+And the final question, I still a bit confused on exactly what you're saying about ERGO Life
+profit in IFRS terms. I think the forecast for 2020 assumed life, I think from health
+(00:21:23) breakeven. I guess you're saying, just to be clear now, that it won't be
+breakeven now, it will be contribution to profit? Thanks.
+
+Bloomberg Transcript
+
+A - Jörg Schneider
+Let me start, Andrew. Good morning. First an update on German GAAP, real estate
+valuation is even for IFRS in off-balance sheet item. That means that even on our balance
+sheet as investments or other assets, the real estate is at amortized cost, and only as far
+as we did impairments in the past, we write it up and that happened by the way, we had
+to write the real estate up with a net effect of €100 million under IFRS. That means we
+wrote it up in the balance sheet as well as in the P&L. Apart from that, under German
+GAAP and under IFRS, it's purely off-balance sheet valuation reserve.
+You see it in our disclosure where off-balance sheet reserve on real estate go
+substantially up. The number is by the way €1.9 billion gross minus write up is €1.8 billion
+off-balance sheet. And if we apply deferred taxes on it then it's on a net basis €1.3 billion
+and this €1.3 billion is also a positive economic effect under Solvency II. So, you will see
+that and you see it already and this is quite pleasant increase of our Solvency II number in
+Q2. It has an impact of 9 percentage points on our Solvency ratio just from this updating
+of market value. And...
+(00:23:34)
+
+Q - Andrew J. Ritchie
+
+{BIO 18731996 <GO>}
+
+It has no effect on the HGB balance sheet, then it's also off-balance sheet from the HGB
+(00:23:41)?
+
+A - Jörg Schneider
+Page 8 of 20
+
+
+
+Company N ame: M uenchener Rueckversicherungs-Gesellschaft AG in M uenchen
+Company Ticker: M UV2 GR Equity
+Date: 2018-11-07
+
+FINAL
+
+That is correct. But we can realize it. We can also realize it internally if we want. That
+means if we transfer part of that real estates within our group, it wouldn't have an IFRS
+impact due to the consolidated view. But it would be beneficial for the distributable
+earnings under HGB.
+Second important item under HGB is the equalization reserve. After the events of 2017,
+we have to refill the equalization reserve and this is an expense of close to €1 billion for
+2018. So, this is a very important factor also for the earnings.
+But on the other hand, the equalization reserve also make over underwriting result
+absolutely resilient against adverse movements in the main lines here. So, it has pluses
+and minuses and it has a very important tax deteriorate aspect (00:24:51), which might
+become more interesting with rising interest rate. So far with the German GAAP situation,
+it's in good order. We have our distribution capabilities. We have additional possibilities to
+improve the situation even further. So, I'm not worried about that, but we have an eye on
+it.
+So far from me, then Christoph on ERGO.
+
+Bloomberg Transcript
+
+A - Christoph Jurecka
+
+{BIO 17223019 <GO>}
+
+Yeah. Andrew, thank you for the question. Now, I mean the more you dig into that life
+topic, the more difficult to get them, sorry for that. This has all to do also with the way we
+finance our new business. As you know, we have – let's say, we have two buckets of life
+insurance carriers in Germany. We have three of them basically, which we call Life Classic,
+which you put into one-off. So, there will be no new business anymore. And then we have
+a carrier, which we call ERGO (00:25:55), which is a carrier which will carry all the new
+business going forward. And now the one-off we're talking about is only coming from the
+Classic Carriers. And as I said, there will be higher earnings going forward, which now are
+reflected in this one-off effect, which is also a catch up due to conservative IFRS doing in
+the past when we had to increase the wiz capacity of those carriers.
+Now what's happening if we close ERGO Life, so one of the Life Classic companies in
+addition to Victoria for new business, and therefore, they bring this higher earnings and
+therefore we have this one-off there. At the same time, we will have more new business
+in the ERGO (00:26:42) Carrier, the other carrier, and there the shareholder will have to
+contribute more to financing the new business. And this will offset the higher earnings we
+are having from Life Classic to a certain extent. And then, again, very much depending on
+volume, on interest rate, on the specific business mix we are going to sell until 2020, and
+so we have two effects, one positive one from the classic from one-off companies and
+one negative one for the financing of new business out of the ERGO (00:27:12).
+And those effects are going to more or less equalize each other. But depending on
+volume and size and interest rates, there might be upside or downside. Therefore, I
+would say it's too early. I mean the potential there is upside, I wouldn't rule that out, but
+it's clearly too early and then would be premature to concretely talk about upside today
+and to confirm any higher earnings target of the life for the year 2020 or afterwards. This
+now is really one-off coming more from a catch-up effect from in the past, maybe IFRS
+Page 9 of 20
+
+
+
+Company N ame: M uenchener Rueckversicherungs-Gesellschaft AG in M uenchen
+Company Ticker: M UV2 GR Equity
+Date: 2018-11-07
+
+FINAL
+
+(00:27:48), we have been more conservative or too conservative compared to where we
+stand now. And this assumption we are changing now, we change (00:27:58). Maybe
+that's the additional flavor you find interesting.
+So, in 2012, we decided to be more conservative and now given the fact that the risk
+capacity is better, given the fact that we are no longer having new business in those
+companies, we're able to go back to the initial assumption until 2012, and therefore,
+nothing really happened. Only in the interim period, we have been more conservative
+than we are now, and now going forward, (00:28:23) carrier, which has to finance new
+business and there will be an additional burden, which will then overall – most probably will
+overall bring us in the position that the cost (00:28:35) can further support our earnings
+guidance. Potentially, there's upside, but this is bit premature to go deeper into that.
+
+Q - Andrew J. Ritchie
+
+{BIO 18731996 <GO>}
+
+Okay.
+(00:28:45)
+Thank you very much. That's great. Thanks. Thank you.
+
+Operator
+
+Bloomberg Transcript
+
+We'll now take our next question from Jonny Urwin from UBS. Please go ahead.
+
+Q - Jonny Urwin
+
+{BIO 17445508 <GO>}
+
+Good morning. Thanks for taking my questions. Just one left actually so – just around your
+growth profile in P&C Re, I'm sorry (00:29:03) – are you still confident in the profitability of
+the growth that you put on in that division? I mean from the outside one could argue that
+the underlying performance is struggling a bit as a result. And what's your growth outlook
+for 2019 (00:29:16)? Thank you.
+
+A - Jörg Schneider
+Jonny, not so easy to answer. First of all, the slight underperformance doesn't have
+anything to do with the most recent growth here. It comes from a totally different angle
+and totally different part of the portfolio. Our growth appetite is intact, so we want to
+increase the momentum of the group, not only to concentrate on risk aversion (00:29:50)
+and risk controls, but also to explore new growth opportunities, but not in a stupid
+(00:30:00) way or an innocent way. So, it's exactly in areas where we seem to have very
+good data and where we know what we are doing, and especially, the structured large
+transactions might be a good source of growth where we have a decent profitability. It
+could come along with perhaps a little bit of dilution of combined ratio, but only slight
+dilution, yeah, because sometimes it's personal lines (00:30:31), it's less volatile than the
+NatCat business is for example, and therefore, we can well live with a slightly higher
+combined ratio. But if we look at it on economic basis, then this is really well-performing
+business and we haven't had bad experience in the last couple of months with it. Thank
+you, Jonny.
+Page 10 of 20
+
+
+
+Company N ame: M uenchener Rueckversicherungs-Gesellschaft AG in M uenchen
+Company Ticker: M UV2 GR Equity
+Date: 2018-11-07
+
+Q - Jonny Urwin
+
+{BIO 17445508 <GO>}
+
+Great. Thank you, Jörg. Thank you.
+
+FINAL
+
+Operator
+We'll now take our next question from Sami Taipalus from Goldman Sachs. Please go
+ahead.
+
+Q - Sami Taipalus
+
+{BIO 17452234 <GO>}
+
+Yeah. Hi. Good morning, everyone. So, my first question is on the PYD, so on the cat
+losses. And I was just wondering if – it wasn't quite clear to me what drove this – what are
+you saying that you found new surplus here or was it a surplus you kind of saw (00:31:26)
+existed? I guess, what I'm asking here is whether this contributed to Solvency II capital
+generation in the quarter or not?
+And then my second question is on the North America Risk Solutions business, which I
+think had quite significant impact on the normalized combined ratio. I'm just wondering
+what you're seeing in terms of pricing here, if you're seeing rate increases that in
+response to the loss experience here? Thank you.
+
+Bloomberg Transcript
+
+A - Jörg Schneider
+Thank you, Sami. With regard to the PYD for the major losses, I emphasize major, it's not
+only cat, it's also some impact from man-made. Did we know about the surplus, not that
+we have it always in our sleeve and that we take it out whenever we needed. All these
+losses under observation and we tend to be more cautious with bad experience in
+comparison to good experience, we tend to get good experience, more time to develop
+and the more we get confident, the more we tend to release reserve. I frankly admit that
+it was highly welcome in Q3 because we had this strong impact from the major
+catastrophes of the quarter and it's fully as to capital relevant. So, we have the same loss
+and loss peak and loss estimation under Solvency II as we have under IFRS. It's just the
+valuation which is different that is mostly the discounting effect, but these don't play a
+major role in these short-term oriented losses, not long tail (00:33:11) business.
+And second question on North America Risk Solutions, it's difficult to identify a trend here.
+What we do is a broad mix of activities, so it's not to – the biggest part has nothing to do
+with the large industrial business, it's a totally diversified portfolio of Hartford Steam
+Boiler, American Modern, and other parts of the group. Therefore, they – why do we find
+them attractive, because they are somewhat immune from these general trends and are
+not fully correlated with the overall cyclicality of business. Therefore, my best estimation is
+here that price developments are going sideways (00:34:11) and not upwards here. Thank
+you, Sami.
+
+Q - Sami Taipalus
+
+{BIO 17452234 <GO>}
+
+Great. Thank you.
+
+Page 11 of 20
+
+
+
+Company N ame: M uenchener Rueckversicherungs-Gesellschaft AG in M uenchen
+Company Ticker: M UV2 GR Equity
+Date: 2018-11-07
+
+Operator
+We'll take our next question from Michael Huttner from JPMorgan. Please go ahead.
+
+FINAL
+
+Q - Michael Huttner
+
+{BIO 1556863 <GO>}
+
+Thank you very much. And so, on the pricing, I just wondered if you could maybe give a
+slightly broader picture. Yesterday, at the conference, the CEO of (00:34:34) expressed
+his hope, which I think (00:34:38) that pricing would go up a little bit, but any indication
+(00:34:44). And on the PYD, I may be wrong, but I think this is the first time I've seen it –
+the numbers reported in this way with a NatCat being shown net of a PYD effect. And I
+just wondered why this choice, why this change, or is an underlying change, was this – it
+seems it's different? I mean – and that's all I can say about that.
+And then on the life reinsurance, and so, I think underlying excluding one of (00:35:24),
+it's always difficult to distinguish what is and what isn't. You seem to be running already a
+bit ahead of the €475 million for your guidance. My guess is somewhere around €520
+million, €550 million. With already indications that next year would be better and I just
+wondered if you could give a little bit more granularity on that, if I'm right? Thank you.
+
+Bloomberg Transcript
+
+A - Jörg Schneider
+Thank you, Michael. So, a broader picture on pricing, I can only confirm what we hear from
+other sources of the market. It's sidewards movement. Overall, we don't expect a decline
+in pricing more or less nowhere. But on the other hand, we hope that the impact from the
+NatCat events of 2017 and 2018 will play a role, which would translate into price increases,
+especially in the loss affected areas, Caribbean, Latin America, Japan. So, overall, we are
+cautiously optimistic. At least the downward trend should come to an end. And also my
+firm belief is that the interest rates must play a role. And when we have an interest rate
+for 10-year, U.S. Treasury is around 3% then (00:36:48) investors have an alternative and
+now are not desperate for going into uncorrelated risks, although the alternative capacity
+will remain in place, but not with the strong growth momentum it had in the past.
+Second, with NatCat, we always gave the numbers net of PYD, but the PYD didn't play
+such a big role as in this quarter. Therefore, we were so vocal this time and emphasized
+the strong impact in order not to – let's say, not to underestimate (00:37:32) we had from
+the Q3. So, it's important that we also share with the market and especially with our
+clients that these were very serious events, and in Q4, we have more of that.
+And life reinsurance underlying, that's difficult, what is one-off (00:37:48), what is
+underlying. You're absolutely right. It's difficult to distinguish. You always have positive and
+negative experience and losses on our business that means also major losses on
+(00:38:01) our business. Are we ahead of our target? Yes, somewhat. But business
+continues to be volatile on an IFRS basis. And we also want to keep open the option to do
+recaptures. They are not recaptures with a major burden for the IFRS reside (00:38:23) in
+the pipeline right now. So – or at least I don't know about it, but we willingly accept some
+volatility of IFRS earnings to the benefit of the economic position. And I think that will also
+be important in future.
+
+Page 12 of 20
+
+
+
+FINAL
+
+Company N ame: M uenchener Rueckversicherungs-Gesellschaft AG in M uenchen
+Company Ticker: M UV2 GR Equity
+Date: 2018-11-07
+
+The expectation for 2019 going forward, I really don't know whether the new basis can be
+higher than the 475 (00:38:56). This is also to do with the fact that the translation from
+economics to IFRS is somewhat strange with regard to the locking of assumptions and
+unlocking when you reached some trigger points and things like that. So, some of our
+peers, and especially, Hannover Re at the Capital Markets Date (00:39:19) has intensively
+discussed that and we can only confirm that there's always some artificial impact from this
+accounting rules, but we don't have major holes here. There will be issues here and there,
+but not to a large extent. And therefore, we are confident that we can grow the
+profitability in Life and Health Re (00:39:42).
+
+Q - Michael Huttner
+
+{BIO 1556863 <GO>}
+
+Okay. Thank you.
+
+A - Jörg Schneider
+I think these were your questions, Michael.
+
+Q - Michael Huttner
+
+{BIO 1556863 <GO>}
+
+Wonderful.
+
+A - Jörg Schneider
+
+Bloomberg Transcript
+
+Thank you.
+
+Q - Michael Huttner
+
+{BIO 1556863 <GO>}
+
+Thank you so much. Thank you.
+
+Operator
+We'll now take our next question from Kamran Hossain from RBC. Please go ahead, sir.
+
+Q - Kamran Hossain
+
+{BIO 17666412 <GO>}
+
+Hi. Good morning, everyone. Just one question for me. So in the statement, you talk
+about raising subordinated debt. I guess even with this, given maturity of, I guess, your
+existing debt, you have suboptimal leverage. Jörg, if you give some advice to your
+successor on how to optimize the balance sheet, what would you say that if he decides to
+bring you back to the consultant? Thanks.
+
+A - Jörg Schneider
+Yeah. Interesting. Yes. Thank you, Kamran. I don't like debt. I frankly admit that. And
+perhaps this is one tiny reason for Munich Re not having an enormous load of debt on its
+balance sheet. It has also to do with our HGB German GAAP situation that distributions
+must always have an eye on the distributable revenues and revenue reserve, but an
+leverage ratio of zero would be definitely wrong, and if we wait for 21 and 22 for the next
+quarter dates (00:41:04) for our outstanding subordinated loan, then we would be at
+zero.
+Page 13 of 20
+
+
+
+Company N ame: M uenchener Rueckversicherungs-Gesellschaft AG in M uenchen
+Company Ticker: M UV2 GR Equity
+Date: 2018-11-07
+
+FINAL
+
+Therefore, we should have a decent level of leverage, and it's better to diversify also the
+issue and repayment date, and therefore, I would very much like to come out with – and
+use of (00:41:28) subordinated loan very soon, also to somewhat diversify our refinancing
+and to diversify our exposure to markets. The ideal leverage should be most probably
+higher than that what we have at the moment. So, to go to moderate levels, which
+probably still below the average PA (00:41:53) level, but somewhat higher than our
+current ones would be in my view very responsible guidelines, yeah. Thank you.
+
+Q - Kamran Hossain
+
+{BIO 17666412 <GO>}
+
+Thanks very much.
+
+Operator
+We'll now take our next question from Ivan Bokhmat from Barclays. Please go ahead.
+
+Q - Ivan Bokhmat
+
+{BIO 15378004 <GO>}
+
+Bloomberg Transcript
+
+Hi. Good morning. I have three questions. The first one is on the underlying combined
+ratio in P&C. I mean you're running at around 100% right now. And I was just wondering
+whether you have any observations on how the path to 2020, the 97% target is going to
+look like or whether the target is still relevant?
+And then a couple of questions on the volumes, so, first of all, in the P&C, I mean, we've
+noticed that the growth had continued. We're also hearing about large blocks of casualty
+business being brought to the market in the U.S. I'm just wondering whether that would
+fall within your current risk appetite and whether we should expect Munich to keep
+increasing the casualty business?
+And then, finally, you did mention Hannover Re and their approach to Life and Health
+business. They seem to be giving up some volumes, which may come to the market. I'm
+just wondering whether this is also something that you would be ready to consider? Thank
+you.
+
+A - Jörg Schneider
+Ivan, thank you very much. We look at everything, yeah. But let's start with your first
+question underlying combined ratio P&C around 100 path to our, let's say, mid-term path
+to 2020 or so, we stick to our financial ambition for 2020, which would be net profits in
+the order of €2.8 billion, half coming from ERGO – half of the increase coming from ERGO,
+the other half from reinsurance and also still our best estimate for 2020 for the combined
+ratio with a slight reservation with regard to business mix effect would be that we can go
+down to 97% in spite of our current, let's say, little underperformance that we are not at
+99%, but one point higher.
+The one point I had explained is more random than structural. That means we need
+another 2%. First effect would be expense reduction that is ongoing. The voluntary
+program has been finalized with a very good success. So, we could really reduce our
+workforce and are currently in the process of reducing the complexity, and I'm confident
+Page 14 of 20
+
+
+
+Company N ame: M uenchener Rueckversicherungs-Gesellschaft AG in M uenchen
+Company Ticker: M UV2 GR Equity
+Date: 2018-11-07
+
+FINAL
+
+that this will be a very good move and that we will be able to have a bit more agility also
+due to this development.
+Second effect is new business deals, which leads to volume growth, which will help to
+drive down the admin expense ratio, and perhaps there's a countervailing effect which
+could come here and there from the fact that they come along with a higher combined
+ratio themselves. Personal lines, a bit more stable business, but I don't want to overplay
+that cards right now. So that effect is a tendency, a slight shift from casualty to property,
+which had been planned, but and that brings me to your second question, we are open
+also to large blocks of casualty business, but we had never erratic changes of our risk
+appetite for casualty.
+
+Bloomberg Transcript
+
+According to my observation, we've had a very consistent path with regard to casualty
+business, especially also heavy casualty business. So, therefore, we looked with a lot of
+expertise which was out there. The big question mark always comes from the adequate
+level of reserve, but let me add here our experience with our casualty reserves, I touch
+wood now, is very good, yeah. That means that the assumptions of the colleagues in
+charge, which are extremely experienced and careful experts had been right in the past
+and found to be confirmed (00:46:24), I can't say that for the eternity, but at least the
+track record is very good.
+So, when we look at these portfolios, we do it with, I think, enough – yeah – how should I
+say, common sense plus expertise. Last question on additional life business which might
+come to the market, we are also open. We look also at big blocks wherever they come
+from. But in the past year also, let me carefully appraise (00:47:00) the track record and
+sometimes there were big blocks on the market. And I admit that I asked myself at that
+time why aren't we more aggressive couple of years ago with this or the other major
+transaction, and they were always reservations, they were always very good reasons in
+place while we didn't pick it up at the same price as others did, and it turns out here and
+there to be beneficial. So, therefore, I trust that the colleagues will do what they will know
+what they do here. So far with that, Ivan, that answers your questions.
+
+Q - Ivan Bokhmat
+
+{BIO 15378004 <GO>}
+
+Yeah. Thank you very much.
+
+A - Jörg Schneider
+Thank you.
+
+Operator
+We'll now take our next question from Frank Kopfinger from Deutsche Bank. Please go
+ahead, sir.
+
+Q - Frank Kopfinger
+
+{BIO 16342277 <GO>}
+
+Yes. Good morning, everybody. I have two questions on ERGO. First question is on coming
+back to the life topic, but from an other angle, you just started a joint venture with IBM, my
+Page 15 of 20
+
+
+
+Company N ame: M uenchener Rueckversicherungs-Gesellschaft AG in M uenchen
+Company Ticker: M UV2 GR Equity
+Date: 2018-11-07
+
+FINAL
+
+understanding is that the costs which are initiated are related to this has not yet been
+reflected within your plans, or maybe you could give any further color on this where you
+stand and where the project is going with respect (00:48:26) to costs? And related to
+this, whether you see still there had been once the decision made that you are not going
+to sell your (00:48:34) portfolio, but just would like to (00:48:38) your comments on
+whether this is really off the table or you could reconsider to start this?
+And then secondly, as we saw (00:48:48) just some cleaning up within your international
+business with the Dutch entities, whether you can comment whether there is more to
+come on the international side in respect to cleaning up your portfolio there?
+
+A - Christoph Jurecka
+
+{BIO 17223019 <GO>}
+
+Bloomberg Transcript
+
+Yeah. Well, thank you very much for your question. Yes, you're right. We're working on the
+migration with a joint venture you know that together with IBM, and I must say we are
+making good progress there. So, the project has been set up and people are really
+working, and the IFRS activities have been launched. You know this is a multi-year project.
+So, no early results to be expected anyway, but now we are up and running and the train
+is out of the station. Let me put it that way.
+Of course, we would never start an activity like that without having a business case and
+planning and knowing the costs and the revenues are coming out of that exercise. So,
+clearly this has been incorporated in our plans, and so, I can take any concerns from you
+that we did started without knowing the costs or without incorporating them in our plans.
+They are all fully included in our plans with an investment phase in the beginning and the
+project phase, and then of course on the long term, we will benefit from efficiency gains
+out of that activity. So, this is completely included in the plan.
+With respect to one-off, as you can imagine, given what I just said, we are fairly busy right
+now in our migration project. So, I can say for – at this stage, it's really off the table. We
+have been decided to offer that platform and at the later stage also to the market. Right
+now, we are concentrating on the migration of our own policies onto that new platform.
+So, for now, we are fully investing and fully concentrating on that activity and this is a
+strategy we decided to go for and that's what we are implementing right now.
+International, you're right. I mean portfolio optimization is an ongoing activity where we
+did some steps until Q3, but this exercise is for sure not over now. And so, there are
+further activities to come later this year potentially or next year. So, we continue to work
+on that. Sometimes you also depend a little bit on market circumstances, regulators,
+whatever kind of things. So, recent activity we started as you know when we kicked off the
+whole ERGO Strategy Programme, but this is still ongoing and it did not come to an end
+until now.
+Even for the fourth quarter, it might be the case that there will be some additional
+transactions, and if you look at our earnings outlook for the end of the year, which we
+increased, you might also see that this increase is not, let's say, the most bullish one in the
+world, potentially you could have been more aggressive here. So, we already included
+
+Page 16 of 20
+
+
+
+Company N ame: M uenchener Rueckversicherungs-Gesellschaft AG in M uenchen
+Company Ticker: M UV2 GR Equity
+Date: 2018-11-07
+
+there a certain portion of caution (00:51:55) in that outlook for the year end and the
+expectation that further transaction is going to happen in the fourth quarter.
+
+Q - Frank Kopfinger
+
+{BIO 16342277 <GO>}
+
+FINAL
+
+Okay. Thank you.
+
+A - Christoph Jurecka
+
+{BIO 17223019 <GO>}
+
+But it is not given. So, as I said, we are working on that, so don't take this for granted, but
+we are working on that.
+
+Q - Frank Kopfinger
+
+{BIO 16342277 <GO>}
+
+Okay.
+
+A - Christoph Jurecka
+
+{BIO 17223019 <GO>}
+
+Thanks for the question.
+
+Operator
+We'll now take our next question from Michael Haid from Commerzbank. Please go
+ahead.
+
+Bloomberg Transcript
+
+Q - Michael Hermann Haid
+
+{BIO 1971310 <GO>}
+
+Thank you very much. Good morning. Two questions. Also sorry for that on ERGO Life. You
+apparently reduced the policyholder participation in gross surplus (00:52:32) from 90% to
+85%. This will definitely get you some negative press (00:52:38) tension, which possibly
+comes in addition to the negative press (00:52:42) you received last year regarding a
+possible disposal of your (00:52:50). I think also competitors may take advantage from
+that. Are you not afraid that this will hurt your new business generation at ERGO
+(00:53:01)?
+I understand that some of these expenses – that you save (00:53:08) expenses as you
+have no new business in traditional life, but you basically give this to the shareholder and
+that's possibly also difficult to communicate to the press and to the policyholders. And the
+second question, retro protection in P&C Re, how much did it play a role in the Q3
+results?
+
+A - Christoph Jurecka
+
+{BIO 17223019 <GO>}
+
+Yeah (00:53:33). Thank you very much for the question. It's a great opportunity for me to
+reconfirm that we're not doing that on cost of our policyholders what we're doing right
+now. But what we do is we change financing streams in between the different life carriers
+we're having. You have to consider that in our Life Classic companies like (00:53:52),
+which we are now going to finally close for the major block of the new business, that the
+cost will be much lower going forward, and for that cost reduction, everybody is going to
+benefit, including also the policyholders of course. And therefore, there are offsetting
+Page 17 of 20
+
+
+
+Company N ame: M uenchener Rueckversicherungs-Gesellschaft AG in M uenchen
+Company Ticker: M UV2 GR Equity
+Date: 2018-11-07
+
+FINAL
+
+effects. We are increasing to a certain extent the payout to shareholders, but at the same
+time, due to the reduced cost base, everybody is benefiting, and for the policyholders,
+altogether it should be more or less equal.
+So, it's not about taking money away from the policyholders to put it that clearly here and
+this is specifically important in the context you were also making with ERGO (00:54:41),
+which is our new business carrier, because we want (00:54:45) to have attractive products
+and (00:54:47) now has to carry the acquisition costs, which we took out of ERGO
+(00:54:57) we have to pay that, that the proportion the (00:55:02) shareholder has to
+pay also increases for (00:55:05). So, the shareholder overall is more or less redirecting
+financing streams, but not so much taking out more money of the overall block of life
+companies if you take into consideration (00:55:19).
+
+Bloomberg Transcript
+
+If you look at altogether, it is not that much of a change. What we did change though is
+that we changed the financing flow, that we reduced the acquisition costs in one carrier,
+that we increased it in the other carrier, and we balanced the effects for the shareholder
+by increasing the policyholder – the shareholder distribution out of (00:55:40). And this all
+then translates and changed IFRS assumptions because you said 10% to 15%, we've
+increased it, but that's only the IFRS assumption, which is deducted from a local GAAP
+planning (00:55:51), which is much more detailed and has much more – that we look much
+more into the details also what exactly is happening between policy and then shareholder.
+So, this 10% or 15%, as you know, is a very high level picture only of what's really going on
+a local GAAP basis in the respective companies. And therefore, I want to also emphasize
+again that now the risk capacity of those companies is so much higher that we also
+decided to go for that higher (00:56:23) IFRS assumption now, but we only take a change
+back, which we did in 2012. And we are back to normal now. It's not that we take out more
+money than we would have done 10 years ago. It's only back to normal. It's not aggressive
+in any way, and therefore, I would like to reemphasize it's not on cost of the policyholders,
+but it's really an activity and the one-off out of the restructuring of our life business overall.
+
+Q - Michael Hermann Haid
+
+{BIO 1971310 <GO>}
+
+And the 2012 – sorry, the 2012 change that was also basically only the IFRS accounting?
+
+A - Christoph Jurecka
+
+{BIO 17223019 <GO>}
+
+This was also IFRS and this was the opposite change, right.
+
+A - Jörg Schneider
+And for me, Michael, reinsurance, property-casualty retrocession, that was your question,
+the impact on the Q3 result. So, I have adjust for the nine months here or let's – as a rule
+of thumb, we see some 1.5%. That is the cost of our retro, and I don't know by heart how
+much additional expenses we had from the reserve releases. But what we give here are
+net numbers. That means for the losses net, the impact from retro will be minor. It's just
+the proportional elements of retro, which is typically coming in form of sidecar, not the
+accelerated retro (00:57:59). It's affected with these types of losses. And the impact for
+the losses for the reserve release is there will be small impact because the New Zealand
+Page 18 of 20
+
+
+
+Company N ame: M uenchener Rueckversicherungs-Gesellschaft AG in M uenchen
+Company Ticker: M UV2 GR Equity
+Date: 2018-11-07
+
+earthquake was very large for example, but these numbers which we gave you are net of
+retro. Thank you.
+
+Q - Michael Hermann Haid
+
+{BIO 1971310 <GO>}
+
+FINAL
+
+Thank you very much.
+
+Operator
+Thank you. We will now take our last question from Thomas Fossard from HSBC. Please
+go ahead, sir.
+
+Q - Thomas Fossard
+
+{BIO 1941215 <GO>}
+
+Yes, good afternoon. Good morning. Last question for me would be, could you provide
+the year-to-date combined ratio of the Risk Solutions business, please? I think that at the
+full year 2017, you provided a combined ratio full year, which was at 106.7% and with a
+long-term average at 92%, so just to better understand that what has been the deviation
+so far this year? Thank you.
+
+A - Jörg Schneider
+
+Bloomberg Transcript
+
+Thomas, I don't have it here, but it will be little bit lower than that for the traditional
+combined ratio. Therefore, when you see the 97.3% for the nine months combined ratio
+then I would assume that Risk Solutions will perform in the order of 95%, but I'm not
+absolutely sure. What I can clearly say is we don't have an issue.
+
+Q - Thomas Fossard
+
+{BIO 1941215 <GO>}
+
+Thank you.
+
+A - Jörg Schneider
+Thank you, Thomas.
+Since this was the last question, as far as I understood, kindly allow me to briefly say a few
+words of farewell, because I will not steal your time by making a major roadshow now.
+And I hope that my colleagues from IR will invite me when you come to Munich next time
+and have some drinks in the evening. Then I would very much like to join you there, but
+kindly allow me to briefly say a few words of farewell here.
+You have always been demanding, but extremely fair and helpful to me, and I have always
+had great respect for your work, and I have always enjoyed working and discussing
+matters with you. I would therefore like to thank you sincerely for your continuing support.
+What we have presented to you has always been the result of accomplished team work
+from many colleagues from Munich Re from finance and other departments and from our
+IR team and also from our colleagues with ERGO. So, this will continue to be the case and
+as an (01:01:04) excellent successor, I'm sure that you will do a good job and that you will
+appreciate him too. And most importantly, please continue to support Munich Re. We are
+far way from being perfect, but this is a great company, which deserves your trust.
+Page 19 of 20
+
+
+
+Company N ame: M uenchener Rueckversicherungs-Gesellschaft AG in M uenchen
+Company Ticker: M UV2 GR Equity
+Date: 2018-11-07
+
+With that, thank you very much, and back to Christian.
+
+FINAL
+
+A - Christian Becker-Hussong
+
+{BIO 19080254 <GO>}
+
+Yeah. Thank you very much, Jörg. I know you don't want to hear it, but I say it anyway.
+Thank you very much also on behalf of the entire IR team for the just fantastic cooperation
+over the last many, many years. As always, a great pleasure and we will certainly miss you.
+But, of course, we are also looking forward to work with Christoph. So, thanks for joining
+us and see you all soon. Bye-bye.
+
+Operator
+
+Bloomberg Transcript
+
+This concludes today's call. Thank you for your participation. You may now disconnect.
+
+This transcript may not be 100 percent accurate and may contain misspellings and other
+inaccuracies. This transcript is provided "as is", without express or implied warranties of
+any kind. Bloomberg retains all rights to this transcript and provides it solely for your
+personal, non-commercial use. Bloomberg, its suppliers and third-party agents shall
+have no liability for errors in this transcript or for lost profits, losses, or direct, indirect,
+incidental, consequential, special or punitive damages in connection with the
+furnishing, performance or use of such transcript. Neither the information nor any
+opinion expressed in this transcript constitutes a solicitation of the purchase or sale of
+securities or commodities. Any opinion expressed in the transcript does not necessarily
+reflect the views of Bloomberg LP. © COPYRIGHT 2022, BLOOMBERG LP. All rights
+reserved. Any reproduction, redistribution or retransmission is expressly prohibited.
+
+Page 20 of 20
+
+

@@ -1,0 +1,1053 @@
+Company Name: Sampo Oyj
+Company Ticker: SAMPO FH Equity
+Date: 2019-05-08
+
+Q1 2019 Earnings Call
+Company Participants
+FINAL
+
+Jarmo Salonen, Investor Relations
+Kari Stadigh, Group Chief Executive Oﬃcer and President
+Knut Alsaker, Group Chief Financial Oﬃcer
+Morten Thorsrud, President and Chief Executive Oﬃcer, If P&C Insurance Holding Ltd
+
+Other Participants
+Blair Stewart, Analyst
+Jakob Brink, Analyst
+Jan Erik, Analyst
+Jonny Urwin, Analyst
+Kevin Ryan, Analyst
+Matti Ahokas, Analyst
+Michael Huttner, Analyst
+Phil Ross, Analyst
+
+Bloomberg Transcript
+
+Youdish Chicooree, Analyst
+
+Presentation
+Operator
+Ladies and gentlemen, welcome to this conference call on Sampo's First Quarter 2019
+Results. My name is Jarmo Salonen, and I'm the Head of Investor Relations at Sampo. And
+with me at this call, I have our Group CEO and President, Kari Stadigh; CEO of If P&C, Mr.
+Morten Thorsrud; and Group CFO, Knut Arne Alsaker.
+As has become tradition, I'll ﬁrst-hand over to Kari with his -- for his highlights on the ﬁrst
+quarter developments, but let me remind you before that that you can follow this call at
+sampo.com/results, and a recorded version of the call will later be available at the same
+address. Kari, please.
+
+Kari Stadigh
+
+{BIO 1504152 <GO>}
+
+Thank you, Jamro. Welcome to the conference call on my behalf as well. Well, what do we
+have in front of us now after the ﬁrst quarter. First of all, we have a very strong results in
+our insurance operations, especially in the P&C insurance. With a combined ratio of 86.5%
+in If and 78.2% in Topdanmark. Both either best ever or on par with best ever for the ﬁrst
+quarter results. Also Mandatum Life performed well with the result on the same level as
+
+Page 1 of 16
+
+
+
+Company Name: Sampo Oyj
+Company Ticker: SAMPO FH Equity
+Date: 2019-05-08
+
+FINAL
+
+the corresponding quarter of the previous year. However, one has to take into account
+that EUR54 million was used to lower the discount rates. All in all, very strong results.
+Secondly, the strong rebounds in equity markets impacted our total comprehensive
+income signiﬁcantly. We report EUR561 million for the ﬁrst quarter, which actually is more
+than half of what we reported for the full year 2018. In If, it is also noteworthy that the
+number of retail clients continues to grow in all markets. In general, there is a healthy
+premium growth for both If and Topdanmark.
+Our P&C operations are performing better than ever on plan or above. Nordea's numbers
+have been available already for a while and I see no need to comment on this. From an
+owners' perspective, the important thing is the new Board composition and the new
+Chairman nominated by the AGM. It is too early to see any results of their work. However,
+I'm convinced that their input will be critical when crystallizing the potential for the
+improved performance we expect to see going forward.
+As we have received several pretty technical questions on capital prior to this call, I would
+like to stop here and handover to Knut Arne, who will give a short summary on the
+regulatory issues over more technical nature.
+
+Bloomberg Transcript
+
+Knut Alsaker
+
+{BIO 18730318 <GO>}
+
+Thank you, Kari. As you have seen in our Q1 report, our solvency ratio deteriorated during
+the quarter despite the growth in own funds due to good results on the insurance side of
+our business and high investment returns. The deterioration is due to an increase in our
+capital requirement related to our 21.25% holding in Nordea. The increased capital
+requirement is coming from a signiﬁcant increase in Nordea's REAs risk adjusted assets,
+following the bank's redomiciliation to Finland.
+To include a bank in the Solvency II capital regime gives unwanted consequences. As part
+of the remedy for our reduced solvency ratio, we have this afternoon announced that we
+are looking to issue some hybrid capital out of Sampo plc. This will stabilize our solvency
+ratio short-term and increase our excess capital long-term. In addition, we are looking to
+reduce our holding in Nordea to below 20%, and by doing so, treat Nordea as an equity
+investment in our solvency calculations. This will signiﬁcantly reduce the capital. We have
+to commit for owning shares in Nordea.
+The standard capital requirements for O-SII's stocks in the Solvency II regime is 39% of
+market value. The SCR related to Nordea as of end of Q1 for Sampo was equal to 80% of
+Nordea's market value. There are some technical discussions related to change in the
+treatment of Nordea, which we currently are having with our regulator. These discussions
+have progressed during the last few weeks, and we expect to revert to our Board with
+conclusions from these discussions at the Board's next meeting in June. We expect that
+the solution will be so that our solvency ratio will exceed the level it was set at the end of
+2018.
+
+Kari Stadigh
+
+{BIO 1504152 <GO>}
+Page 2 of 16
+
+
+
+Company Name: Sampo Oyj
+Company Ticker: SAMPO FH Equity
+Date: 2019-05-08
+
+FINAL
+
+I feel that this is really a technical issue and a regulatory issue where our structure is such
+that in a way we feel -- we feel that fall between shares and I think that now we have on
+the table enough remedies for these issues of a pure technical nature, because of course,
+where Nordea move their headquarters to Finland, our risks as an owner didn't increase
+at all. So this is -- this whole discussion is more of a technical nature, but now we have the
+remedies -- in our toolbox, we can choose how to proceed more of that then in June.
+
+Jarmo Salonen
+
+{BIO 1860650 <GO>}
+
+Thank you, Kari, and thank you Knut Arne. Operator, I think we are now ready for the
+questions, please.
+
+Questions And Answers
+Operator
+Thank you. (Operator Instructions) Our ﬁrst question comes from the line of Youdish
+Chicooree from Autonomous Research. Please go ahead. Your line is now open.
+
+Q - Youdish Chicooree
+
+{BIO 17430923 <GO>}
+
+Bloomberg Transcript
+
+Good afternoon everyone. I've got three questions, please. The ﬁrst one is on, since the
+trends in P&C, you reported a ﬂat combined ratio, but if you adjust for prior the release in
+large claims, it is slightly up year-on-year. So I was wondering, is this due to weather or are
+there any underlying trends that got to us relative to last year? So that's my ﬁrst question.
+The second one is on solvency. You already give us some indications in your opening
+comments. So I was just wondering, I mean, your solvency -- your group solvency ratio is
+not a reﬂection of the cash generation or dividend capacity of the underlying business
+units. So I was wondering how would the ratio cross that 120% minimum threshold you've
+talked in the past your thinking on the Group dividend? So that's my second.
+And my last question is, ﬁrst to come back on solvency. I was just wondering, to secure
+the deconsolidation of Nordea from a solvency perspective, is it as simple as going below
+20% or are there any aspects where the regulator, for example, do they want to see
+whether you have control over Nordea or having a signiﬁcant inﬂuence or is it just a
+question of being -- of having just a lower shareholding?
+
+A - Morten Thorsrud
+
+{BIO 16111627 <GO>}
+
+Okay. Morten Thorsrud here. I'll answer the question on the Gjensidige part. We reported
+a net combined ratio of 86.5%. For the ﬁrst quarter, this is an excellent combined ratio
+bearing in mind that this is the ﬁrst quarter and inter quarter. The large claims outcome
+was EUR5 million higher than what we assume to be normal, which is actually in line with
+what we also saw last year and the prior year gains was 3.8, down from 3.9 -- 4.8 sorry,
+down from 4.9 last year. So it means that if you adjust for that, there is a small
+improvement in the combined ratio and then obviously this winter eﬀects are quite
+diﬀerent across the Nordic region.
+Page 3 of 16
+
+
+
+Company Name: Sampo Oyj
+Company Ticker: SAMPO FH Equity
+Date: 2019-05-08
+
+Q - Youdish Chicooree
+
+{BIO 17430923 <GO>}
+
+Okay. So -- because that improvement you're talking is all coming from expenses. So your
+cost ratio, your loss ratio would still be slightly up?
+
+A - Morten Thorsrud
+
+{BIO 16111627 <GO>}
+
+FINAL
+
+It'll be on last year level.
+
+Q - Youdish Chicooree
+
+{BIO 17430923 <GO>}
+
+Okay. So stable basically versus last year in terms of underlying margins?
+
+A - Morten Thorsrud
+
+{BIO 16111627 <GO>}
+
+Yes.
+
+A - Knut Alsaker
+
+{BIO 18730318 <GO>}
+
+Bloomberg Transcript
+
+On your second question, regarding Group dividend. When it comes to internal
+dividends in the Group, the subsidiaries are strongly capitalized, and of course, Nordea
+also had excess capital on their side. So I do not see a link between the consolidated
+solvency capital and the internal dividends within the Group. When it comes -- and of
+course, we expect this to be solved by the year end. So also when it comes to the external
+dividend, our dividend to our shareholders on Sampo, we do not expect this to play a
+role when we decide on the dividend -- when the Board -- AGM decide on that dividend
+next year.
+When it comes to the technical matters, there's a number of technical matters we currently
+are discussing as I'm referring to with the regulator. That is also based on the fact that we
+actually have two capital regimes that we are under, both the ﬁnancial conglomerate
+directive and Solvency II regulations. And these two are two diﬀerent regulation, meaning
+that there are a few things that we just need to have clarity together with our regulator
+before we can proceed with the plan, I referred to in my opening comments.
+
+Q - Youdish Chicooree
+
+{BIO 17430923 <GO>}
+
+All right. Congrats. Thank you very much.
+
+Operator
+Thank you. Our next question comes from the line of Jakob Brink from Nordea. Please go
+ahead. Your line is now open.
+
+Q - Jakob Brink
+
+{BIO 20303720 <GO>}
+
+Thank you very much and good afternoon. Two questions from my side. Sorry for one of
+them coming back to internal dividends. There has been a lot of talks also recently about
+whether Nordea can pay out more than 100% which consensus estimates are now
+indicating. One thing is, of course regulation, but secondly, if I'm not remembering
+
+Page 4 of 16
+
+
+
+Company Name: Sampo Oyj
+Company Ticker: SAMPO FH Equity
+Date: 2019-05-08
+
+FINAL
+
+wrong, it seems like historically you Sampo have had an ambition to keep payout ratios
+below 100%, does that also go for Nordea this year? That was the ﬁrst question.
+Second question is regarding run-oﬀ gains. You're not the only one to have seen
+signiﬁcant run oﬀ gains this quarter and I tried to calculate your ratio greater from last year
+and it seems like it's dropped a lot indicating may be you're building signiﬁcant reserves.
+So is it fair to assume that we should continue to see an elevated level of run-oﬀ gains
+going forward? Those are my questions. Thank you.
+
+A - Kari Stadigh
+
+{BIO 1504152 <GO>}
+
+Thank you, Jakob. As you are actually well aware of, I can't answer on Nordea, anything
+else than what they have communicated, and Nordea has communicated that their
+ambition is to increase the dividend year-after-year.
+
+A - Knut Alsaker
+
+{BIO 18730318 <GO>}
+
+And then on the run-oﬀ gain, yes, we report 4.8 in run-oﬀ gain this quarter, which is in line
+with what we reported Q1 2018. But also as you say, somewhat above the more longerterm run-oﬀ gains that we've seen in the past. The run-oﬀ gain is of course driven by the
+fact that we're seeing a more positive development on old underwriting years than what
+we had assumed in our models. And of course, we're not speculating on future one-oﬀ
+gains that depends on the continuing claims development whether that continue to
+develop more favorable than what we have assumed in our reserving models.
+
+Bloomberg Transcript
+
+Q - Jakob Brink
+
+{BIO 20303720 <GO>}
+
+Is there any speciﬁc sectors driving it?
+
+A - Knut Alsaker
+
+{BIO 18730318 <GO>}
+
+Yeah, it's obviously the long tailed exposures that we have. Among those motor insurance
+in Sweden, is the most long tailed, and of course, where you will see some volatility on the
+run-oﬀ gains if your assumptions on the claims development is diﬀerent than what you
+actually experience.
+
+Q - Jakob Brink
+
+{BIO 20303720 <GO>}
+
+Okay. Fair enough. Thanks a lot.
+
+Operator
+Thank you. Our next question comes from the line of Matti Ahokas from Danske Bank.
+Please go ahead. Your line is now open.
+
+Q - Matti Ahokas
+
+{BIO 2037723 <GO>}
+
+Yes, good afternoon. A question on the dividend as well. As it looks now more likely that
+Nordea may have to cut its dividend and assuming that Sampo Group wants to maintain
+
+Page 5 of 16
+
+
+
+Company Name: Sampo Oyj
+Company Ticker: SAMPO FH Equity
+Date: 2019-05-08
+
+the increasing dividend policy, would this dividend shortfall be covered by higher internal
+dividends from If and Mandatum Life or increasing the net debt in the holding? Thanks.
+
+FINAL
+
+A - Kari Stadigh
+
+{BIO 1504152 <GO>}
+
+I don't have an indication that Nordea has changed their guidance for dividend. So I don't
+really want to speculate on that. I feel conﬁdent that we can stick to our own ambition to
+increase our dividend yearly.
+
+Q - Matti Ahokas
+
+{BIO 2037723 <GO>}
+
+Fair enough. But if, let's say, the Nordea still increases their dividend by EUR0.01 which
+would be in line with their policy, still increasing the Sampo dividends, would imply that
+you would actually have to get the increase somewhere else. Would this be done mainly
+from higher dividends from If or Mandatum Life for increasing the debt? What do you
+think is the preferred alternative?
+
+A - Kari Stadigh
+
+{BIO 1504152 <GO>}
+
+I think that we have room to increase the dividends from our subsidiaries if necessary.
+
+Q - Matti Ahokas
+
+{BIO 2037723 <GO>}
+
+Thank you.
+
+Bloomberg Transcript
+
+Operator
+Thank you. Our next question comes from the line of Kevin Ryan from Bloomberg
+Intelligence. Please go ahead. Your line is now open.
+
+Q - Kevin Ryan
+
+{BIO 1814771 <GO>}
+
+Thank you, and thank you for being so clear on the capital. I just have one ﬁnal question
+on that if I may. Could you share with us what going forward, your ideal Solvency II level
+would be? And the second question which is prompted by your reduction in your Nordea
+or proposed reduction on Nordea stake, is -- has this prompted you to think about any of
+your other investments such as Topdanmark? Thank you.
+
+A - Kari Stadigh
+
+{BIO 1504152 <GO>}
+
+May be I'll start with other investments. These has nothing to do with our investments. The
+reason why we would distribute Nordea shares as dividends is only the regulatory
+technicalities, and therefore we don't want to sell any of our holdings, we -- and therefore
+we wouldn't like to sell Nordea either, we would like to pass them on to our shareholders.
+
+A - Knut Alsaker
+
+{BIO 18730318 <GO>}
+
+And if I should take the ﬁrst question, we haven't set an exact range of what would be an
+ideal solvency ratio. I'm comfortable that the solution we believe we will have from
+changing the calculation basis of Nordea will bring us above -- way above a minimum
+solvency ratio. It gave us plenty of excess capital, and with the stability of the earnings we
+Page 6 of 16
+
+
+
+Company Name: Sampo Oyj
+Company Ticker: SAMPO FH Equity
+Date: 2019-05-08
+
+have in the businesses that we own, that would just add to our view of our excess capital
+position.
+
+Q - Kevin Ryan
+
+{BIO 1814771 <GO>}
+
+FINAL
+
+Thank you.
+
+Operator
+Thank you. Our next question comes from the line of Michael Huttner from JP Morgan.
+Please go ahead. Your line is now open.
+
+Q - Michael Huttner
+
+{BIO 1556863 <GO>}
+
+Bloomberg Transcript
+
+Thank you so much, and really well done on the combined ratio. That's unbelievable,
+that's wow anyway. So on the combined ratio, I just like to -- lots of questions. But the ﬁrst
+one is, this year even though the number was the same as last, you actually improved
+your outlook by a lot to 85% to 88% I think versus last year where the minimum range, I
+think it was 86% to 89%. So I just wondered, if you can explain where this conﬁdence
+comes from relative to last year? And more color on the combined ratio the lovely to be in
+and may be you could explain how come Sweden, which is a big country had a 78%
+combined ratio, I cannot believe it. This is -- yeah -- it's -- particularly in winter. So those
+are the two questions.
+And then on the Nordea. When you start selling, temptation will always be to sell more
+and I just wondered once you've done this special dividend through or whatever, what
+just stop you the thinking, we sold some and solvency went up and it didn't seem to hurt
+any, maybe you can sell some more. You see that here. I've seen it in so many companies,
+when you start selling an asset, you -- your mindset changes. I suppose that the technical
+question, if I try to put it more formally, would be -- at what level would there be a risk for
+you being able to appoint the Chairman of Nordea? Thank you.
+
+A - Morten Thorsrud
+
+{BIO 16111627 <GO>}
+
+Okay. I'll answer your two ﬁrst questions on the If performance. Yes, we delivered an
+excellent combined ratio for the ﬁrst quarter in line with what we see so last year, 86.5%.
+That's excellent. We do see also a strong growth of 3.9% if you adjust for currency eﬀects
+and part of that growth is driven by price actions and it's fair to say that the price actions
+are somewhat above expected inﬂation which means that we have a good outlook for
+their P&C insurance business and that's why we are guiding on a combined ratio level of
+85% to 88% for the full year, which is somewhat better than what we guided after Q1 last
+year.
+When it comes to your question on the combined ratio in Sweden, yes, it is indeed very
+low and I think it's fair to say it's exceptionally low, because a larger part of the run-oﬀ
+gains that we see in ﬁrst quarter stems from Sweden, and in particular, from motor
+insurance in Sweden. So that is obviously supporting the Swedish combined ratio,
+nevertheless, underlying combined ratio level is at a decent level in Sweden as well.
+
+Page 7 of 16
+
+
+
+Company Name: Sampo Oyj
+Company Ticker: SAMPO FH Equity
+Date: 2019-05-08
+
+Q - Michael Huttner
+
+{BIO 1556863 <GO>}
+
+Morten did -- last year, if I remember, the winter was in a way diﬀerent from this year, it
+lasted much longer into the spring into the second quarter. Had that any eﬀect on your
+view on guidance or is that just so minor things that it doesn't aﬀect it?
+
+FINAL
+
+A - Morten Thorsrud
+
+{BIO 16111627 <GO>}
+
+It has some eﬀect. Of course, it's early to conclude on what will happen in Q2, but of
+course, I guess, we can conclude that winter is over. Of course there could be other
+events taking place in Q2, but the winter in 2018 is more special in the respect that it
+lasted well into Q2. So of course that is a signiﬁcant diﬀerence Q2 this year versus last
+year.
+
+A - Kari Stadigh
+
+{BIO 1504152 <GO>}
+
+Bloomberg Transcript
+
+On your second question or third question on how we view the value of our assets, I think
+that we have to separate two very diﬀerent things. One is that, we are in a regulatory
+hiccup or we are, as I said, between the chairs that the regulatory framework really
+doesn't or is not built for a structure that we have. And therefore and as Knut Arne said,
+we have two diﬀerent answer regulations that aﬀect our solvency. So the solution we are
+now proposing is not to sell Nordea at all. I repeat, we are not selling we are -- because
+we don't want to sell. So we are dividending out Nordea shares to our owners if we go
+that route. And that is not the stance on the value of Nordea as such. This is a solution for
+a regulatory issue.
+I think that, then if you -- your second question was that, how much should we own of
+Nordea and able to inﬂuence the Board composition and Chairman. It doesn't work that
+way that we count percentages. I think that when I'm on the chairing the norm comm [ph]
+of Nordea, I feel that I represent all shareholders there, and of course I want the Board
+composition to be the best possible and the Chairman to be the best possible person for
+that job. And I actually think that after Bjorn had chaired it and the Board had taken all the
+big decisions on redomiciling, ramsiﬁcation, derisking Baltics, Russia, it's a long list. Then
+it was time to focus more on operations and now we put our best man from the
+operations side to chair it, because we feel that's exactly the qualities of the Chairman
+Nordea should have. And I don't think that has to do with our percentage of ownership.
+You must remember that the norm comm when proposing this Board composition, and
+for instance (inaudible) part of it, it was unanimous. And I think someone even expressed
+that they were very happy that Torbjorn took the task to be the Chairman of that
+Company. We have said earlier that we are not a Group where we are in love with any of
+the assets. If the assets are -- if we see a value in the assets that someone is willing to pay
+us which is above what we can accomplish with our own work, we are obliged to sell the
+assets. But Nordea's case is of course the complete opposite. We see a lot of upside and
+we see a lot of upside that can be created through pure operational management work
+and that's the task the Board has taken. So it's not a question of how we see the value. It's
+clear that we see a signiﬁcant upside in the share.
+
+Q - Michael Huttner
+
+{BIO 1556863 <GO>}
+Page 8 of 16
+
+
+
+Company Name: Sampo Oyj
+Company Ticker: SAMPO FH Equity
+Date: 2019-05-08
+
+Thank you. And if I may just add, the two shares you mentioned, I think one is very soft,
+the insurance regulator, soft is wrong word, but they have certainly show understanding,
+I'm not sort of the Chair the banking regulators quite as comfortable, anyway, thank you.
+
+FINAL
+
+Operator
+Thank you. Our next question comes from the line of Blair Stewart from Bank of America.
+Please go ahead. Your line is now open.
+
+Q - Blair Stewart
+
+{BIO 4191309 <GO>}
+
+Thank you. Good afternoon. I've got a couple of questions. Firstly, just on the fair value
+adjustment reserve which has gone up in the quarter. How do you see economic value in
+that? How we use those unrealized gains in the coming years?
+
+Bloomberg Transcript
+
+Secondly, just on the non-life business and looking at the reserve to premium ratio, which
+is a very good measure, I accept, but it is signiﬁcantly higher than some of your peers?
+And I just wondered if you've done any comparative work to compare the level of
+reserves that you have compared to some of the peer group? It does suggest that you're
+very heavily reserved against peers, does that business mix impacts or I just wonder if
+you've observed that and if you've got an explanation for that?
+And ﬁnally just coming on to the Nordea dividend point, and I wouldn't expect you to
+comment on Nordea may or may not do with its dividend, but conceptually -- if you look
+at the estimates in the market conceptually, how do you feel as owners about Nordea
+potentially paying out more than 100% of its earnings to fund the dividend? Thank you.
+
+A - Kari Stadigh
+
+{BIO 1504152 <GO>}
+
+Well, if I start with Nordea, so -- it's as an owner, I think that we have followed the
+guidance from the bank, and as an owner we are happy if Nordea delivers on what they
+guide. In the end, I don't want to talk about bank regulation, but the fact is that over the
+last 10 years Nordea has been able to meet all capital requirements from the regulator
+from its own cash ﬂow and that means that there we have accumulated billions of euros
+into Nordea as capital from the proﬁts.
+And if the bank is not growing and once the bank has met all the regulatory requirements,
+it means that the cash ﬂow generates extra capital which the bank really doesn't need. So
+that's just a comment I have that. Then it's more a political question of how the surplus
+capital is treated in Europe, but the fact is that Nordea's capital generation capacities of
+the level that at one moment there will be excess capital, because I don't assume that the
+regulator will for an indeﬁnite time increase the capital requirements. That would not -that would also be detrimental for the development in the society.
+On the fair value I didn't really understand your question. Fair value is a result of increased
+valuations in the stock market and dropping interest rates. It's normal buﬀer in our
+accounting.
+
+Page 9 of 16
+
+
+
+Company Name: Sampo Oyj
+Company Ticker: SAMPO FH Equity
+Date: 2019-05-08
+
+Q - Blair Stewart
+
+{BIO 4191309 <GO>}
+
+It wasn't a great question Kari I said, but it was more a care question of whether you see
+that ﬁltering through to the P&L at some point or whether it's just a book value item?
+
+FINAL
+
+A - Kari Stadigh
+
+{BIO 1504152 <GO>}
+
+I think that if we sell assets when we think that they are fully valued or over valued, then it
+will come into the P&L.
+
+A - Knut Alsaker
+
+{BIO 18730318 <GO>}
+
+Then on your P&C Insurance question, the reserve to premium ratio is quite diﬃcult to
+compare between companies, because as you were indicating yourself, it is highly
+dependent on the business mix. And even on a mix between countries, for instance, the
+Swedish motor insurance again is one of the most long-tailed businesses in all of Europe.
+So having big exposure towards Swedish motor and Swedish bodily injury claims, it gives
+you a high reserve ratio to premiums. So it's quite hard to compare that between
+companies.
+
+Q - Blair Stewart
+
+{BIO 4191309 <GO>}
+
+Yeah. That's ﬁne. Thank you.
+
+Bloomberg Transcript
+
+Operator
+Thank you. Our next question comes from the line of Jan Erik from ABG. Please go ahead.
+Your line is now open.
+
+Q - Jan Erik
+
+{BIO 16874081 <GO>}
+
+Good afternoon. I have a couple of questions on the If P&C business, if you could shed
+some light into that. You answered the Swedish improvement on the combined ratio from
+78% -- from 88%. Could you also shed some light into what happened in Norway from
+82.5% to 93.7%. While Finland and Denmark looks sort of more fairly and suddenly on the
+private versus commercial industrial segments, could you also shed some light into how
+and where -- how the combined ratio has changed so much over the year ﬁrst half? Thank
+you.
+
+A - Kari Stadigh
+
+{BIO 1504152 <GO>}
+
+Yes, I'll start then with Norway. The diﬀerence in outcome for Norway 2018 Q1 versus 2019
+Q1 is quite simply explained by the large claims outcome. Last year in ﬁrst quarter we had
+a better outcome than what we assume to be normal in Norway. This year, we have a
+somewhat worse large claims outcome in Norway compared to what we assume to be
+normal. And of course, these impacts combined ratio quite a lot in the ﬁrst quarter, in
+particular.
+
+Q - Jan Erik
+
+{BIO 16874081 <GO>}
+
+It could be 3 to 7 percentage points?
+Page 10 of 16
+
+
+
+Company Name: Sampo Oyj
+Company Ticker: SAMPO FH Equity
+Date: 2019-05-08
+
+A - Kari Stadigh
+
+{BIO 1504152 <GO>}
+
+Excuse me.
+
+Q - Jan Erik
+
+{BIO 16874081 <GO>}
+
+FINAL
+
+It could be as much as 3 to 7 percentage points (multiple speakers)?
+
+A - Kari Stadigh
+
+{BIO 1504152 <GO>}
+
+Yes, yes.
+
+Q - Jan Erik
+
+{BIO 16874081 <GO>}
+
+Okay.
+
+A - Kari Stadigh
+
+{BIO 1504152 <GO>}
+
+And then you had a question on combined ratio development on private and --
+
+Q - Jan Erik
+
+{BIO 16874081 <GO>}
+
+Commercial and industrial which looks the same, but of course it could be the same kind
+of explanation?
+
+Bloomberg Transcript
+
+A - Kari Stadigh
+
+{BIO 1504152 <GO>}
+
+Yes, it's -- commercial is somewhat impacted by large claims. This year they have
+somewhat more large claims than normal. Industry is actually having somewhat less large
+claims than normal, but they have somewhat negative development on some prior year
+losses, some development on the single large claims. And of course, again being a ﬁrst
+quarter, it's kind of give some volatility in the ﬁgures.
+
+Q - Jan Erik
+
+{BIO 16874081 <GO>}
+
+On the private side, it's mainly the run-oﬀ gains Sweden which is entitled to the progress
+on the motor side?
+
+A - Kari Stadigh
+
+{BIO 1504152 <GO>}
+
+Yes, a larger part of the run-oﬀ gains come from motor as I said. And again, a larger part
+of that will be in the private business area.
+
+Q - Jan Erik
+
+{BIO 16874081 <GO>}
+
+If you could just elaborate on the trend underlying for private, commercial and industrial?
+Could you shed some light into what you have seen in the quarter?
+
+A - Kari Stadigh
+
+{BIO 1504152 <GO>}
+
+I think no particular trend as such in the quarter. I think we do see good price discipline
+across the Nordics and we do see that pricing is somewhat above expected inﬂation at
+Page 11 of 16
+
+
+
+Company Name: Sampo Oyj
+Company Ticker: SAMPO FH Equity
+Date: 2019-05-08
+
+the current level. And of course this diﬀers a lot from country to country and business area
+to business area. More price increases obviously in Norway than in other countries.
+
+Q - Jan Erik
+
+{BIO 16874081 <GO>}
+
+FINAL
+
+Okay.
+
+A - Kari Stadigh
+
+{BIO 1504152 <GO>}
+
+Apart from that, the claims inﬂation as such is in line with what we expect -- what we've
+seen in Q1, it's just in line with what we had -- what we expect.
+
+Q - Jan Erik
+
+{BIO 16874081 <GO>}
+
+Okay, perfect. Thank you.
+
+Operator
+Thank you. (Operator Instructions) Our next question comes from the line of Phil Ross
+from Mediobanca. Please go ahead. Your line is now open.
+
+Bloomberg Transcript
+
+Q - Phil Ross
+
+{BIO 20618440 <GO>}
+
+Hi, there. Thanks for taking my question. Just one point of clariﬁcation on me -- from me,
+sorry, and it's revisiting solvency. The detail you gave at the start of the call is very helpful.
+Just thinking about the regulatory discussions that are obviously ongoing and then the
+potential Nordea divestment which you have to decide upon, I wonder if you're thinking
+about those two things separately, particularly when you talk about the impact on capital
+moving above where it was at the year-end. So for instance, is it with the regulatory
+discussions alone, if they were successful, whatever that might look like that they would
+move the ratio above 147% at year-end or you thinking about those two things together
+are not necessarily projecting exactly where our solvency will end up? Thank you.
+
+A - Knut Alsaker
+
+{BIO 18730318 <GO>}
+
+Not sure I exactly understand your question, but I understand it so that whether or not we
+sort of combined a reduction in our shareholding of Nordea with the change in solvency
+treatment and that is combined. We expect that we will have to reduce our shareholding
+in Nordea to below 20% to change the solvency treatment.
+
+A - Kari Stadigh
+
+{BIO 1504152 <GO>}
+
+Solvency treatment will change as a consequence to the fact that we go below 20%
+automatically.
+
+Q - Phil Ross
+
+{BIO 20618440 <GO>}
+
+I just wondered on the regulatory discussions whether that was sort of something material
+in that which if you didn't change the Nordea stake, then the regulatory discussions might
+be on something diﬀerent and they could move you above say 147% or is that -- might
+think about it in too much detail that they all sort of weaved in together?
+Page 12 of 16
+
+
+
+Company Name: Sampo Oyj
+Company Ticker: SAMPO FH Equity
+Date: 2019-05-08
+
+A - Knut Alsaker
+
+{BIO 18730318 <GO>}
+
+FINAL
+
+There is a few diﬀerent things, but that is sort of, we still -- there will be -- the change in
+the solvency treatment will be as a consequence of going below 20%. So it's not a change
+and remain with 21.25% we're talking about. That is a change following reduction of our
+shareholding below 20%.
+
+Q - Phil Ross
+
+{BIO 20618440 <GO>}
+
+Yeah, okay ﬁne. Thank you.
+
+Operator
+Thank you. Our next question is a follow-up from Blair Stewart from Bank of America.
+Please go ahead. Your line is now open.
+
+Q - Blair Stewart
+
+{BIO 4191309 <GO>}
+
+Thank you. Just a quick one. I'm just curious as to why you are swapping the senior -- will
+stop that if the sell down of Nordea is going to be highly signiﬁcant, I was thinking on
+your solvency, I always thought that alone would be enough. So interested in the decision
+to raise capital qualifying debt at the same time? Thank you.
+
+Bloomberg Transcript
+
+A - Kari Stadigh
+
+{BIO 1504152 <GO>}
+
+Well, we have a possibility to issue this -- so more hybrid capital just in terms of the room
+for utilizing hybrid capital both in our solvency calculation and rating calculation and we
+are happy with the current leverage levels we have. And there is a, as you allude to Blair,
+there is 500 senior that is maturing now in May. This hybrid will stabilize the solvency
+ratio, which will otherwise deteriorate 1st of July when the SRB is introduced, and when we
+have changed to solvency treatment, the hybrid capital would further increase our excess
+capital position long-term.
+
+Q - Phil Ross
+
+{BIO 20618440 <GO>}
+
+Yeah, presumably the SRB would only matter if you still consolidate it to Nordea.
+
+A - Kari Stadigh
+
+{BIO 1504152 <GO>}
+
+That is correct.
+
+Q - Phil Ross
+
+{BIO 20618440 <GO>}
+
+Okay. All right. Thank you.
+
+Operator
+Thank you. Our next question comes from the line of Jonny Urwin from UBS. Please go
+ahead. Your line is now open.
+
+Page 13 of 16
+
+
+
+Company Name: Sampo Oyj
+Company Ticker: SAMPO FH Equity
+Date: 2019-05-08
+
+FINAL
+
+Q - Jonny Urwin
+
+{BIO 17445508 <GO>}
+
+Thanks. Just one from me, I mean, on the P&C business, things are obviously progressing
+very well from a top line perspective. You're adding customer numbers, the greatest level
+constant FX is good, it creates 4%, retention is coming up. You also was saying your
+pricing had a claims ratio, which is the ﬁrst time we've heard that from you guys for a
+while, I mean that -- what do you attribute that -- it's a bit of an improvement, is it
+investment in the brand, the distribution, is it just market conditions improving, and more
+importantly how sustainable do you think that is? Thank you.
+
+A - Kari Stadigh
+
+{BIO 1504152 <GO>}
+
+Yes, I think as you point out, the large part of the growth is actually coming from improved
+retention levels across the business areas. But, in particular, in business are private. I think
+a large part of that is coming from hundreds of internal improvements, making it easier
+and better to be a customer at If. And at the same time, I think the competitive
+environment is stable and I must say with somewhat more pricing discipline than what you
+perhaps have seen in earlier years. So that of course is also supporting that. And of
+course, again since a large part of the growth is driven by high retention, we also expect
+to see a fairly positive development also going forward.
+
+Q - Jonny Urwin
+
+{BIO 17445508 <GO>}
+
+Great, thank you.
+
+Bloomberg Transcript
+
+Operator
+Thank you. (Operator Instructions) Our next question is a follow-up from Michael Huttner
+from JP Morgan. Please go ahead. Your line is now open.
+
+Q - Michael Huttner
+
+{BIO 1556863 <GO>}
+
+Thank you very much for this opportunity. It's really a second question. I just wondered if
+you could give an indication, when you say higher -- solvency would be higher than the
+full year, I just wonder if you could give an indication of what you mean, suppose the
+more detailed question is not that important as you refer to Solvency II or conglomerate
+solvency, but any kind of indication would be precious, but it is a ﬁshing question.
+
+A - Knut Alsaker
+
+{BIO 18730318 <GO>}
+
+We are referring to Solvency II since we expect us not to be a ﬁnancial conglomerate
+following that change or a reduction below 20% and the Solvency II ratio was 140% as of
+year-end. I wouldn't be too worried of also referring to the ﬁnancial conglomerate ratio,
+which was 147%.
+
+Q - Michael Huttner
+
+{BIO 1556863 <GO>}
+
+Okay. Thank you.
+
+Operator
+Page 14 of 16
+
+
+
+Company Name: Sampo Oyj
+Company Ticker: SAMPO FH Equity
+Date: 2019-05-08
+
+Thank you. Our next question comes from the line of Jan Erik from ABG. Please go ahead.
+Your line is now open.
+
+FINAL
+
+Q - Jan Erik
+
+{BIO 16874081 <GO>}
+
+Thank you. Just trying to square the equation on the solvency. If you take the 80% as you
+referred to earlier on the (inaudible) which is the requirement and take the 39% which is
+the new sort of requirement if you go below 20%, should we go then be above 180%
+solvency ratio or is that too high?
+
+A - Kari Stadigh
+
+{BIO 1504152 <GO>}
+
+Bloomberg Transcript
+
+180% sounds a bit too high. There's a couple of things, additional moving parts which you
+have to take into consideration. Two of them is actually neutralizing each other, more or
+less depending on our issuance of hybrid capital where we will pay a dividend which we
+have -- or in a formal Nordea shares which will reduce our capital base by that amount
+500, and then we intend to issue hybrid capital whatever exact amount that will be.
+And also one adjustment you have to make in your calculation is the fact that the current
+own funds base which we use in our solvency calculation, it's somewhat higher than our
+share of the market cap of Nordea which will be currently which would -- everything else
+equal, be a negative adjustment on the ratio. The increase I was referring to -- or the
+decrease, sorry, in the SCR because of a lower capital charge would signiﬁcantly out way
+that reduction in own funds and of course could also move the beating other way around
+if the Nordea share price and currently market cap would be above our current owned
+funds. So with that simple calculation you did, it is somewhat above what I would consider
+to be a good pro forma calculation.
+
+Q - Jan Erik
+
+{BIO 16874081 <GO>}
+
+Okay. Thank you very much for your insights.
+
+Operator
+Thank you. And as there are no questions registered at this point, I will hand the word
+back to the speakers for any closing comments.
+
+A - Kari Stadigh
+
+{BIO 1504152 <GO>}
+
+Thank you. Ladies and gentlemen, thank you for your attention, and have a very good
+evening all of you. Thanks.
+
+This transcript may not be 100 percent accurate and may contain misspellings and other
+inaccuracies. This transcript is provided "as is", without express or implied warranties of
+any kind. Bloomberg retains all rights to this transcript and provides it solely for your
+personal, non-commercial use. Bloomberg, its suppliers and third-party agents shall have
+no liability for errors in this transcript or for lost proﬁts, losses, or direct, indirect,
+
+Page 15 of 16
+
+
+
+Company Name: Sampo Oyj
+Company Ticker: SAMPO FH Equity
+Date: 2019-05-08
+
+Bloomberg Transcript
+
+FINAL
+
+incidental, consequential, special or punitive damages in connection with the furnishing,
+performance or use of such transcript. Neither the information nor any opinion expressed
+in this transcript constitutes a solicitation of the purchase or sale of securities or
+commodities. Any opinion expressed in the transcript does not necessarily reﬂect the
+views of Bloomberg LP. © COPYRIGHT 2022, BLOOMBERG LP. All rights reserved. Any
+reproduction, redistribution or retransmission is expressly prohibited.
+
+Page 16 of 16
+
+

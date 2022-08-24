@@ -1,0 +1,1408 @@
+Q1 2018 Earnings Call
+Company Participants
+FINAL
+
+Giulio Terzariol, Chief Financial Officer
+Oliver Schmidt, Head-Investor Relations
+
+Other Participants
+Andrew J. Ritchie , Analyst
+Arjan van Veen, Analyst
+Farooq Hanif , Analyst
+Johnny Vo, Analyst
+Michael Haid, Analyst
+Michael Huttner, Analyst
+Nick Holmes , Analyst
+Peter D. Eliot, Analyst
+Thomas Seidl, Analyst
+
+Bloomberg Transcript
+
+Vinit Malhotra, Analyst
+
+MANAGEMENT DISCUSSION SECTION
+Operator
+Ladies and gentlemen, welcome to the Allianz Conference Call on the Financial Results of the First
+Quarter 2018. For your information, this conference is being recorded.
+At this time, I'd like to turn the call over to your host today, Mr. Oliver Schmidt, Head of Investor
+Relations. Please go ahead, sir.
+
+Oliver Schmidt
+
+{BIO 2473131 <GO>}
+
+Thank you, Esperanza. Yeah. Good afternoon from my side as well, and welcome to our
+conference call. There's nothing specific to be added from my side today. So, without further ado, I
+hand over directly to Giulio.
+
+Giulio Terzariol
+
+{BIO 17125489 <GO>}
+
+Good morning, and good afternoon to everybody. I understand that most of you had the time to
+see the numbers, to understand the numbers, so I will go quickly to the presentation, then I'm
+going to take your questions.
+Overall, we had a good start in 2018. When you go at page 3 you can see a few key indicators. Our
+revenue on an adjusted basis are up 5% and it is driven by all segments. When you look at the
+operating profits, the operating profit decreased by 6% or €176 million. We need here, however, to
+consider two effects.
+First of all, we had a translation – currency translation effect of about €140 million. And also, we had
+a positive one-off in 2017 and this positive one-off has now materialized again in 2018. If you adjust
+our operating profit for the currency translation effect and also for this positive one-off in prior
+year, the growth in operating profit would have been 4%.
+
+
+
+FINAL
+
+And then, when you look at the net income, we see an increase in net income of 7%. Here we have
+two primary effects. First, we have lower restructuring expenses compared to last year. And
+secondly, we had also a lower tax rate in 2018 with about 24% compared to 29% in 2017. The lower
+tax rate is primarily driven by the U.S. tax reform.
+If we move to page 5, you can see here the IFRS equity and the solvency ratio. The IFRS equity has
+decreased by €2.3 billion. This has to do with lower amount of unrealized gains on bonds by about
+€2 billion. Then we had the impact of the buybacks for the period January to March that was about
+€1.5 billion. And then we had also in aggregate €0.8 billion because of FX effect and Euler order
+(00:02:48) transaction. Net income is also accounting clearly in the shareholder equity with a
+positive amount of €1.9 billion.
+On the solvency ratio, you can see a decrease of 4 percentage points. I'm going to come back on
+this number in a few seconds. If you look at the sensitivities, there are no major changes compared
+to the sensitivities that we showed to you at the end of 2017.
+
+Bloomberg Transcript
+
+There is just one exception, when you look at the interest rate sensitivity, the interest rate
+sensitivity down is now minus 7% for the 50 basis points, at the end of the year was minus 11%. And
+on the way up, we have now a positive sensitivity of plus 5% versus plus 2% at the end of 2017. The
+reason for the change is a refinement to the model and the way we calculate the interest rate
+volatilities under stressed scenario. But in general, I would say the sensitivity level is pretty stable,
+and if at all, slightly improve on the interest rates sensitivity.
+If you go to page 7, we can speak a little bit about the solvency ratio development. As you see, we
+had a 4 percentage point impact due to regulatory changes. There are three main items here.
+One is the change to the UFR. We had decreased UFR by 15 basis points following the instruction
+coming from EIOPA. Then we had to include some transferability restriction related to the business
+in the UFR. And then we had a collection of minor model changes. So, each of this impact had
+more or less a contribution of one-third to the 4 percentage point deterioration that you see in this
+number.
+When you look at the operating generation, it's 10%. If you adjust for taxes and also for dividend,
+the contribution would be about 5%. This is slightly higher than the contribution that we would
+generally expect, which is more about 4%.
+On the market impact, the change is mostly due to FX. When you look at the pure market impact,
+after tax, that's very minor. And then, on the capital management, the management action, you
+see a minus 5 percentage point. Here, we have the €1 billion of dividend that we are deducting in
+the calculation of the own fund for Solvency II. And then we have also the impact due to the
+transaction with Euler Hermes and OLB.
+And finally, on the position of tax and other, most of that amount is driven by taking into
+consideration for taxes. Overall, the Solvency ratio 225% is very strong, so we continue to be at a
+very strong level of Solvency II ratio.
+And now, if we go to page 9, we can look at the numbers for our Property and Casualty segment.
+The internal growth was 4.4%. Here we need to consider that there is some volatility due to the
+AGCS business. So, if you adjust for this kind of volatility, the growth rates will be more about 3.5%,
+and this 3.5%, about 2.5% is driven by volume, slightly more than 1% is driven by price.
+If you look at the single entities, I will say Germany is standing out with a growth rate of 4.4%. We
+see also good growth rate in Spain, and then also if you go to the bottom of the page, you see
+nice growth rates in Allianz Partners and Credit Insurance.
+
+
+
+FINAL
+
+There are only two companies on this table, which are showing a negative development of
+revenue. One is the United Kingdom. This has to do however with an accounting change. If you
+adjust for the accounting change, the growth rate will be 3%. And in the case of Italy, you see a
+minus sign. The situation in Italy is however way better compared to the trend that we had one
+year ago. And finally, if you look at the change on renewal, overall, you see a situation, which is
+either positive or stable. So, from a pricing point of view, we are generally in a good environment.
+And now, if you move to page 11, you can see the development to the operating profit by different
+drivers. The underwriting results has improved by €80 million. This was driven by the combined
+ratio improvements. On the other side, the investment results decreased by about €60 million.
+Focusing now on the combined ratio, the improvement of 80 basis point has materialized, despite
+an increase in the load due to natural catastrophe, which was to 2.6% versus a very benign 1.1% in
+prior period. So now, if we adjust our combined ratio for the natural catastrophe, if we adjust also
+the combined ratio for the amount of run-off, we have an improvement of about 1.8% compared to
+the prior period.
+
+Bloomberg Transcript
+
+If we also do an adjustment for the large losses or weather related claims, the improvement in the
+combination ratio will be 1.1%. Anyway, no matter how you look at this number, there has been an
+improvement in Q1 2018 versus the level of Q1 2017. I guess the question is going to be – can we
+get to the 94%, considering that we are 94.8% as of Q1. My answer is clearly, yes. And just to give
+you a perspective, the natural catastrophe load of 2.6% is 40 basis point to 50 basis point higher
+compared to the normalized expectation. And clearly, our 94% is always based on a normalized
+expectation. So, if you adjust for that, our combined ratio for Q1 would be already 94.4%, 94.3%.
+Then, usually, our run-off at the end of the year is higher than the 3.2% that you see here. So, that
+would already put us at 94%. And then, also there is a third element usually in Q1. The combined
+ratio, the loss ratio tends to be a little bit higher than for the remainder of the year because of the
+winter condition.
+So, when we do a easy plausibility check about our ability to achieve the 94%, we believe that
+under the assumption that natural catastrophe are going to be more or less in line with the
+average of the last years, we should be definitely able to get to the 94%.
+If we move to page 13, you can see the operating profit and the combined ratio for the different
+entities. I believe, what is eye catching here is the combined ratio in Germany with 100.9%. Here
+we need to consider that we had a significant impact of natural catastrophe. Indeed, I would say
+that almost half of the natural catastrophe that we had for the group happened to be in our
+German operation. And also we had some large losses. So, if you adjust the combined ratio
+Germany for the large losses and especially for the natural catastrophe, the combined ratio would
+be in the range of 93% to 94%, which is in line with our general expectation.
+In France, you'll see a slight deterioration. This is driven by lower runoff, but the underlying business
+is proceeding well. And then you have a bunch of company with very good combined ratio. Also
+then in Australia and United Kingdom, you see normalization on the results compared to the level
+of Q1 2017. And in Latin America, we are making continuous progress towards a better combined
+ratio.
+In Turkey, you see a deterioration of about 6%, and this is driven by the change in regulation which
+happened in the second quarter of 2017, but overall we still have a good operating profit in our
+operation in Turkey. And then AGCS, you'll see also a better combined ratio compared to last year.
+And in the case of AGCS, we had higher natural catastrophe compared to 2017. But on the other
+side, the amount of large losses has been significantly lower. So, overall, I would say the good
+picture, you can see a lot of improvement in different companies.
+
+
+
+FINAL
+
+If we move to page 15, we show here the operating investment results, which decreased by about
+€60 million. Of the decrease of €60 million, I would say almost 60% is explained by FX effects, and
+then as you see, the current yield has decreased by about 2 basis point. Now, if you annualize the 2
+basis point that will be about 8 basis point for the year, which is definitely consistent with the
+expectation that we have set in our plan. Indeed, I would even say that what we see now is slightly
+better compared to what we had put in our plan.
+But that's very important when you look at this number to consider really for the impact of the FX
+because sometimes we forget that component and clearly then you need to run these FX effect
+across all line items in the P&L, not just investment result (00:12:38), but there's something that has
+to be considered as you should try to work out your numbers.
+And with that, I will close my remarks on P&C and come to the Life segment. In the Life segment,
+at page 17, the first thing to highlight is that the mix of preferred product is now 83%. Our target is
+80%, so as of Q1 we are better than our target of 80%. This is also not necessarily surprising for
+the first quarter because in the first quarter we have a little bit more production in Protection &
+Health compared to the remainder of the year.
+
+Bloomberg Transcript
+
+Still, we are confident that we are going to get to 80% or very close to 80% mix by the end of the
+year. So, from a mix point of view, we're moving definitely in the right direction. I'd like also to tell
+you that in 2013, the amount of preferred product was less than 50%. So, we had a big change in
+the quality of the business.
+When you look at the production level and the growth, adjusted for FX, the growth rate was 5.4%.
+You can see very nice growth in Germany Life. You can see in general nice growth also in France,
+Benelux, Asia Pacific; USA, where you see a negative amount of 9%. If you adjust for the FX, the
+growth rate will be plus 4% and I will say the only notable exception on the growth dimension is
+Italy, where you see a decrease of 12%. This is related to a high level of unit-linked production in
+prior periods. But overall from a growth point of view, after successful 2017, you can see that also in
+2018 we have growth back in our Life business.
+If you move to page 19, we show here the operating profit, which decreased by about €19 million.
+On the one side, there is the impact due to FX and this was about half of the €86 million
+deterioration operating profit and the rest of the impact is coming from Allianz Life. In last year, the
+market condition in the USA were very good. Just remember how low the volatility was in the
+United States with the VIX being at 10% or even lower.
+And now as we went into Q1 2018, we saw a higher level of volatility. As you maybe remember, the
+conversation that we had in the last months, we had also anticipated somehow that we are going
+to see higher volatility in overall and especially in the U.S. in 2018. So, when you look at the
+operating profit for the segment, we are at almost 1.1%, our outlook is 4.2%. So, from the point of
+view of how we are performing against our expectation in general despite having some more
+severe condition in the U.S., we are doing fine.
+And just as a note for you, the impact of what is happening in the U.S. is visible especially under the
+guaranteed savings and annuity, where you see a swing of about €80 million. This is all driven by
+the VA business of Allianz Life.
+Moving to page 21, the value of new business has increased by 8%. Generally, you see an
+improvement across the board. The improvement is driven by – in general, by higher production
+and a higher new business margin.
+Now, focusing on Germany, you can see a very nice growth both in value of new business and
+operating profit. When you look at the USA, the value of new business is down, but that is due to
+FX effect. Adjusted for that, that would be flat. And then on the operating profit side, you see a big
+
+
+
+swing. And this is a reflection of what I was saying before. Last year was extremely positive, and
+this year we are just behind plan a little bit, but that's very important to understand there is also a
+big swing from one period to the other period.
+
+FINAL
+
+In the Asia Pacific, it's down on value of new business due to FX, but when you look at the
+operating profit, you can see a healthy operating profit growth even without considering the
+adjustment for FX.
+And with that, I would move to page 23, where you can see the investment margin. The
+investment margin for Life has remained more or less stable at 23 basis points. If you annualize the
+23 basis points, you get to 92 basis points on a yearly basis, which is in line with the guidance that
+we provided to you of 90 to 95 bps.
+
+Bloomberg Transcript
+
+When you look at the net harvesting and other, you can see definitely a lower amount in Q1 2018
+versus Q1 2017, and this is clearly putting some pressure, if you want, on investment margin, but on
+the other side, the profit share is also going down. So, eventually, the profit share is going to be
+somehow adjusted also according to the level of harvest in the year getting on an IFRS basis. So,
+the end result is the investment margin is pretty stable and specially is consistent with the
+guidance that we provided to you in the past.
+Now, coming to asset management at page 25, the situation in asset management is as follows:
+The assets under management has remained more or less stable. And as you see, we have also in
+Q1 2018 a good level of inflows at AGI and clearly especially at PIMCO, but both entities have
+showed a nice inflow level. On the other side, we had a negative impact due to FX and also a
+negative impact due to market development, both on the equity side and also on the fixed income
+side because of the increase in interest rate. So net-net, when you put all together, our assets
+under management have slightly decreased compared to the level at the beginning of this year.
+And when you move to page 27, you can see that the revenue growth adjusted for FX and also for
+the inclusion of ACP in AGI, I'm going to speak about that in one second is about 9%. Clearly, the
+revenue growth is very strong at PIMCO with plus 14%. And in the case of AGI, you see a minus
+sign. The point here is driven by lower performance fees. This is not evident when you look at the
+slide because the performance fees, they look like they reduce only by €8 million, but in reality, in
+the €19 million performance fees, we have also €15 million coming from ACP, ACP is our asset
+manager, which is managing a private equity, alternative equity investment for our operation. And
+starting with Q1 2018, we have included this business into AGI. So, when you adjust the number for
+ACP, you will see that the revenue performance fees at AGI have been lower compared to the
+prior period, and this is explaining why the revenue are overall down.
+What is very important to notice on this slide is the development of the fee margin. And as you
+see in the case of PIMCO, is pretty stable and it is very much stable when you compare to the level
+in Q4 2017 and the previous quarter. In the case of AGI, is even up about 1 basis point. This is also
+driven by the fact that we don't have our Korean entity anymore, adjusted for that any way, the
+increase in fee margin will still be positive. So, overall, we saw, over the last three, four quarters, a
+lot of stability in this indicator, both at AGI and also at PIMCO.
+And now we come to page 29, as you see the operating profit has increased by 4%. And this is
+driven, at the end of the day by higher revenue and also lower cost-income ratio. When you look at
+the PIMCO numbers, you see an operating profit increase of 8%; adjusted for FX increase, PIMCO
+will be 24%, and clearly, you see here also a substantial reduction on the cost-income ratio.
+In the case of AGI, you have a decrease in operating profit. This has to do with a lower amount of
+performance fees, and also last year we had a positive one-off in AGI of about €10 million. Now, I
+think the expense ratio is kind of eye catching. It has increased by 4 percentage points. Here, we
+had the effect of ACP, which is a company, which is – as I was saying before, managing our own
+
+
+
+FINAL
+
+assets. And so, we are running this company using the cost plus markup method. So, from a costincome ratio, the cost-income ratio of this company if you want is particularly high. So, if you adjust
+for that, the increase in cost-income ratio at AGI will be 2.8%. And this increase in cost-income ratio
+is then driven by the lower amount of performance fees. So, once you do some math, you can see
+that the cost-income ratio at AGI is relatively stable.
+And now, we come at page 31 where we have our Corporate segment. Here, you see a decrease
+of €140 million. Thereof, big portion is driven by or the substantial portion is driven by holding and
+treasury. As I was saying before, we had in prior period one-off related to the cost allocation
+scheme for our pension provision between the German subsidiaries. So, there was about €150
+million, and this €150 million is now repeating this year, it's now going to repeat also for the future.
+And that has been the main driver for the decrease in operating profit in Corporate. And this was
+also part of our outlook and our plan.
+And now coming to page 33. Here, we are showing the non-operating items. In general, there are
+two things I want to say here. First of all, the restructuring charges lower compared to Q1 last year.
+So, that's a driver also the improvement in net income. And then, clearly, the effective tax rate,
+24%, is definitely below the last year level. Here we had two effect.
+
+Bloomberg Transcript
+
+First, we had the tax reform in the U.S.A. with an impact of 3 percentage point. And then, also, we
+had tax-free income and the impact of that was about 2%. So, at the end of last year or the
+beginning of this year, we gave guidance that our tax rate should be between 26% and 28%.
+Based on the numbers, how they are coming along, I would definitely guide you to the bottom of
+the range. So, the expectation is that we are going to have a tax rate of 26% by year-end.
+And so now I'm coming to the last slide, where you can see the snapshot with the KPIs, with our
+Renewal Agenda. I would like to draw your attention to the number Life/Health OEs with an RoE
+higher than 10%, and now we stay at 71%. Our target is to be at 100%. And we are still confident
+that we are going to get definitely over the 90% level and close to the 100% level.
+We have three entities, and mainly, France, which is a big entity contributing, I would say more than
+15% of our IFRS capital, which is very close to the 10% RoE, but they didn't make it in Q1, but we
+know that they're going to be able to make the RoE by the end of the year. So, from that point of
+view, also the number, which looks like distance from the 100% is going to look definitely better at
+the end of 2018.
+So, my final comment is, we had a strong quarter, start into the year with good revenue growth.
+Also if you look at the operating profit, development adjusted for FX and one-off, if you look at the
+KPIs by the combined ratio, the value of new business, the mix in Life, and also if you look at the –
+closely in PIMCO, the AGI for the first quarter, the development was in general pretty solid, and
+clearly, there is still some work we need to do, but we feel that we are on track to get to our
+objectives for 2018.
+And with that, I would open up to your questions.
+
+Q&A
+Operator
+Thank you. And we'll take our first question from Michael Huttner with JPMorgan.
+
+Q - Michael Huttner
+
+{BIO 1556863 <GO>}
+
+Perfect. Thank you so much, and it's such a delight and such easy. Well, they look like simple
+numbers, so thank you. And then, on the organic capital generation, the 5%, and I think you kind of
+
+
+
+FINAL
+
+said that the underlying rate is around 4% which is, well, maybe I'm mistaken – maybe you could
+talk us through how you see it developing?
+And I'd be interested if you know (00:26:51) going to be a positive variance versus your target of
+10% net of dividend tax by the end of the year? And I'd be interested to understand, where this
+variance comes from and how long it's likely to persist? I'm trying to kind of reconcile it to the €500
+million figure you showed at the insider series in London in November, where you showed that –
+the €500 million. That would be the first question.
+And then, the new business value growth is fantastic. It's really nice. And none of this is easy. And I
+just wondered, how much more do you think it can grow, given that you are at your target mix and
+everything, or would you expect to be stable at these levels? And maybe – but – optional, what is
+the solvency figure at year-end? Anyway, there we are. Thank you.
+
+A - Giulio Terzariol
+
+{BIO 17125489 <GO>}
+
+Bloomberg Transcript
+
+Okay. So, let me start – I'm not so sure I got fully your first question. But I think I got it. But if I didn't,
+yeah, just ask again. Anyway, I believe the question was how we would look at the 5% operating
+profit generation in first quarter compared to an expectation that we have. I would say our
+expectation will be more around 4%.
+And now if you look at the number for first quarter, you can see on the Life side, we had €1.7 billion
+of contribution. Now, you can almost spilt this €1.7 billion by taking out about €500 million of value
+of new business pre-tax and that will be €1.2 billion. Usually, we would expect the operating profit
+contribution to be about €0.9 billion. So, there is a gap of €0.9 billion to €1 billion. So, there is a little
+bit of an excess this quarter, if you want, €0.2 billion to €0.3 billion. And if you put that number after
+tax, you get close to the 1% of gap to the 4% (00:28:52).
+As far as the guidance that we gave before, we said about 10%, we have been most likely
+conservative. So, it might be that we are going to run higher than 10% as we said, and we might
+run somehow substantially higher than the 10%. But we are always very cautious somehow with this
+number. But we feel pretty good that definitely we should stay about the 10% level. So, we don't
+have doubts about that. And most likely we are going to end up more towards the 14% or 15%
+level. This answer your question?
+
+Q - Michael Huttner
+
+{BIO 1556863 <GO>}
+
+It does indeed. Thank you.
+
+A - Giulio Terzariol
+
+{BIO 17125489 <GO>}
+
+Yeah. Then you had a question how the Solvency ratio is at the end of the year. So I tell you,
+nothing changes. I gave you pretty much the numbers to do your math. So, in theory that Solvency
+ratio can go also towards 235%. But then, you have, as usual market movements, and that might
+change the picture. And clearly, then this raises the question what we are going to do from a
+potential buyback's point of view. Whether we are going to have M&A, but if you just let this
+number go up, then the expectation will be, everything else being equal there, we will be about
+235%.
+Now I'd like to show you something. When you look at slide 7, you can see that our operating profit
+generation – operating Solvency II generation was 10% after tax, after dividend is 5%. And as you
+see, we had deployed in 2018 in the first quarter also 5% of capital. Here you have for example,
+2.5% will be the amount due to Euler Hermes minority buyout and OLB deconsolidation. So, from
+that point of view, we are already deploying some of this capital generation, the rest is dividend.
+So, from that point of view, we are taking definitely action in order to put our excess capital at work
+in a productive way.
+
+
+
+FINAL
+
+And then, the last question was the – new business value growth. On the margin, which is now at
+3.3%, we don't expect to have much of an improvement. In reality the 3.3%, if you think about that,
+it's already 3.5% because in the first quarter, France is very low. So, when you adjust for that, you
+can expect the new business margin to be even higher than 3.3%. But fundamentally, from a
+margin point of view, I would say we are very happy with the situation where we are right now.
+And so, the growth is going to come at the end of the day from production. And I would expect
+that we might have the same production in the future that we had last year and in the first quarter
+this year, which is about 4% to 5%, when you adjust for FX. So, at the end of the day, I would
+expect the value of new business to grow more or less by that amount.
+
+Q - Michael Huttner
+
+{BIO 1556863 <GO>}
+
+Just one question on the 235%, you mentioned really hopefully for the year-end. Does that include
+the negative you mentioned on U.S. tax?
+
+A - Giulio Terzariol
+
+{BIO 17125489 <GO>}
+
+Bloomberg Transcript
+
+Yeah. Okay. Maybe – that's a good question. Yes. At the end of the day, the negative on the U.S.
+tax is now between 1% and 3%. So, we guide you to 3% at the beginning of the year, but now it
+looks like there is a change in the way the regulator is going to set the charges for the capital
+model. So, most likely it's going to be more towards 1%, and then we had the Taiwan transaction,
+which is coming through in second quarter. This should improve our solvency ratio by 1%. So, at the
+end of the day, the two things are more or less of a wash. So, yes, the answer is including also the
+impact coming from the tax reform in the U.S.
+
+Q - Michael Huttner
+
+{BIO 1556863 <GO>}
+
+Lovely. Thank you so much.
+
+A - Giulio Terzariol
+
+{BIO 17125489 <GO>}
+
+You're welcome.
+
+Operator
+And we'll take our next question from Peter Eliot with Kepler Cheuvreux.
+
+Q - Peter D. Eliot
+
+{BIO 7556214 <GO>}
+
+Thank you very much. If I could just ask a couple of questions on asset management, first of all. I
+guess, the overall flows for the Q1 was fairly similar to what you had given us at sort of full-year
+result stage. So, it looks like possibly they didn't continue quite strongly in the second half of the
+quarter. I'm wondering if you can comment on the trends there, and what you've seen in Q2 todate?
+Equally in the non-performance, I guess at AGI, I was wondering if you could say how much of a
+drop in performance fees there might be attributed to any change in strategy there.
+And at PIMCO, cost-income ratio a lot better than your target, I'm just wondering if you can say
+how – comment on the extent of that feat and what's driven that? And then, if I start on a different
+subject. The Corporate and consolidation, I guess, if you annualize the figure that you got in Q1,
+you get to €0.7 billion rather than the €0.9 billion guidance. So, I'm just wondering if there are any
+one-offs in there and (00:34:04) in the quarter? Thanks very much.
+
+A - Giulio Terzariol
+
+{BIO 17125489 <GO>}
+
+
+
+FINAL
+
+Okay. So, starting from the flows at PIMCO, that's a good question, by the way. So, when you look
+at the flows at PIMCO in U.S. dollar, for the first quarter there were $23 billion and of this $23 billion
+we got about $15 billion to $16 billion in January. So, you saw a slowdown or we saw a slowdown in
+February and March. And that's because of the fee, if you want, in the investor base is about
+increase interest rates.
+So there was first a slowdown as we go into April. And in the second quarter to-date, we saw
+outflows coming from the institutional segment of about $5 billion. Now, so this is, if you want,
+negative, but in reality when you look at the fee margin between the outflows that we get and the
+inflows that we get from a revenue point of view, we are still accretive. But clearly, we see on the
+institutional side that there is – there was a slowdown first, starting February, March, and then also,
+in April, we saw even some negative outflows at PIMCO.
+So, how we look at this moving forward, we think we are going through a transition period. So, we
+need just to see how this transition period is going to play out, and how long it's going to be. We
+take comfort from the fact that from a revenue point of view, the revenue mix is still positive. And
+we then believe that since our performance is still very good and outstanding, we believe that
+when the situation is stabilizing, we are going to be able to take full opportunity of higher level of
+interest rates. We should a positive for PIMCO.
+
+Bloomberg Transcript
+
+On the Structured Alpha, that was your question at the end of the day regarding AGI. No, that's not
+due to the decrease in performance fees; it's not due to a change in strategy. If you are thinking
+maybe about also the pilot that AGI is doing by changing the product to a low base fee and
+performance fees, that's nothing to do with that.
+We have a strategy which is called Structured Alpha, which is deploying option. And in the case you
+get this market volatility then these options, there must be a short gamma position. So, it means
+that we are not outperforming the benchmark, and then we get lower performance fees. So, that's
+just part of a strategy, which is not performing so nicely in a high volatility environment.
+Then you had a question about the cost-income ratio at PIMCO with 56.6%. First of all, what is
+driving the cost-income ratio at PIMCO, that level is just operational leverage. So, from that point of
+view, this is a number that in theory can stay there. Now, at PIMCO, we like also to invest. So, we're
+going to invest in distribution, we are going to invest in artificial intelligence. So, there is a plan
+there to invest over time.
+As you know, our target is to have a cost-income ratio at PIMCO below 60%. And I would say most
+likely what you're going to see in the course of the year is going to be a cost-income ratio, which is
+between the level that you see on this slide and the 60%, but clearly operational leverage has a
+big impact on the efficiency level of PIMCO.
+And then, your last question was on Corporate and Other. Yes, it's a little bit better compared to
+the guidance that we gave you of €900 million. But there is nothing really special going on. Usually,
+I would expect that we are going to see maybe some more expenses, especially on the
+Corporate level as we go through the year. But there is nothing really significant there. And also if
+we want to be precise, the number – €900 million that we gave you was rounded up. So, then in
+reality there is not much of a gap to our real final plain number.
+
+Q - Peter D. Eliot
+
+{BIO 7556214 <GO>}
+
+Thanks very much, indeed.
+
+Operator
+And we'll take our next question from Thomas Seidl with Bernstein.
+
+
+
+Q - Thomas Seidl
+
+{BIO 17755912 <GO>}
+
+FINAL
+
+Hello. Good afternoon. First one on M&A. I think you said this morning that M&A is not priority
+number one. And previously, you quoted the high valuation as well. So, could you update us on the
+financial hurdles you would apply to M&A, and in particular, whether you would be willing to
+sacrifice your 13% ROE for a potential M&A? That's the first question.
+Second one on Life, you reported on the one side close to zero harvesting, but then also a strong
+drop in the policyholder participation. My question here, is this purely mechanical? So should we
+see for the future then harvesting going back to normal and also policyholder participation or is the
+policyholder participation structurally declining from here?
+And the third question, P&C pricing 1.3% up in Q1. That's markedly lower than full year and last year
+Q1. I think main drivers; I have seen is Australia, Spain, maybe you could comment on how you think
+about this price change and to what extent this still covers claims inflation?
+
+A - Giulio Terzariol
+
+{BIO 17125489 <GO>}
+
+Bloomberg Transcript
+
+Okay. Yeah. So, starting from M&A and the question was, what is the hurdle rate that we apply to
+M&A? So, we know that our cost of equity is 9%. And so we believe if we do an M&A, we need to
+be able to price at higher than the cost of equity. In theory, the cost of equity should be enough.
+But as I say, we want to price higher. I'm assuming also here that the quality of the target is
+consistent clearly with the quality of our business.
+So, we would look, definitely, to go into a double-digit hurdle rate in the case of an M&A
+transaction. This, however, doesn't mean that we will now sacrifice the 13% ROE. Because I will say
+every time you deploy a substantial amount of capital, you don't need necessarily to deploy the
+13% ROE. Just to give you an example, if we deploy that capital at 11% ROI, then it will be in my
+opinion, which will be somehow diluted to the 13% ROE that's still value accretive.
+So, the answer is, definitely, we price above the cost of equity. It doesn't mean however the price
+above the cost of equity is now somehow diluted to the ROE from a value generation is adding
+value, definitely as long as you are beating the cost of equity. So that's the way we look at M&A.
+On the Life side, you had a question regarding the harvesting and also the profit sharing. With
+respect to the harvesting, first of all the 2 basis point you see in Q1 is not clearly the level that we
+expect in the future, 26 basis point that you saw last year is also not necessarily the level. So, if I
+should guide you to a nice harvesting level, which you might see as normalize in the future would
+almost at the average of those two numbers and maybe go towards the 10 basis points. And the
+implication for the profit sharing, I would say that in a situation where we are keeping a net
+harvesting at above 10 basis points, we can definitely keep our investment margin having
+policyholder participation, which is more or less at the 79% level. So, at a normal level of harvesting
+you shouldn't see the policyholder participation reduces significantly compared to the level that we
+had in the last two years.
+And then you had a question on the pricing with a 1.3% and maybe specific to Australia. In Australia,
+first of all, the number you see that's kind of interesting, the minus 2.5% is referring to renewal,
+and on the renewal side because of a change in regulation, we are getting pressure. On the other
+side, when you look at the total price trend in Australia including new business, the price trend in
+Australia is actually positive and not negative. So, the numbers you see just a partial representation
+of the whole story.
+How I look at the pricing P&C? I think the pricing is in general solid. I wouldn't say we are in a
+healthy market, but with the combined ratio that we have, we don't necessarily need a healthy
+market and the pricing increases that we are getting at the moment, definitely okay, to support the
+claims severity and frequency severity trend that we are seeing. So, from a pricing point of view
+compared to the claims activity we are seeing, we think in general we are doing fine.
+
+
+
+Q - Thomas Seidl
+
+{BIO 17755912 <GO>}
+
+Okay. Very clear Giulio. Thank you.
+
+A - Giulio Terzariol
+
+{BIO 17125489 <GO>}
+
+FINAL
+
+Thank you.
+
+Operator
+And we'll take our next question from Farooq Hanif with Credit Suisse.
+
+Q - Farooq Hanif
+
+{BIO 4780978 <GO>}
+
+Hi, everybody. There was a comment recently in your AGM about expense ratios and a long-term
+ambition to get these down to 22%. Obviously, you were talking very long term and you were
+talking about a digital future, but just wanted to understand how you're thinking about your
+expense ratio and the ability now to get that down. So, that's question one.
+And then, going back to pricing, I see that the pricing that you're showing is renewal pricing, but
+still there seems to be a slightly lower number there perhaps versus some of your peers,
+specifically if you look at AGCS, for example. So, I'm just wondering, is it fair to say that you are
+willing to trade off pricing for growth given the very strong internal growth? So, do you think that's
+a fair comment? Thank you.
+
+Bloomberg Transcript
+
+A - Giulio Terzariol
+
+{BIO 17125489 <GO>}
+
+So, on the expense ratio, okay, first of all, you know that for 2018 we have a clear target that we
+want to go to 28.4%. So, that's the first milestones. And as we look into that for the future, clearly
+the 22% coming from the AGN that was just a representation of what you can potentially achieve if
+you simplify and harmonize your business model. But clearly, as you said, this would be a very longterm objective.
+So, the objective anyway in the next years is to do two things. First of all, we want to be able to
+speak about productivity, the same way we can speak here about capital management. So, if you
+come to – I always like to say that if you come to Allianz, you speak about capital management; we
+can show you a lot of numbers, a lot of indicators. We can speak about capital managements for
+more dimension. If you want to have the same conversation about productivity, at least here in
+Munich, we will not be able to have the same level of conversation. So, we want to change that. We
+want to have the same level of proficiency as we speak about productivity. And then, we are
+targeting continuous improvement in productivity, which means, yes, the expense ratio should go
+down over time.
+And on that one, I would expect that, yes, we are going to be first able to bring down the expense
+ratio below 20% – 28%, but that will be the first step before we need – we commit to other
+stronger numbers in the future. But that's definitely a top priority for us here at Allianz.
+On the question about pricing and AGCS, and whether we are willing to sacrifice premium for
+growth. I would tell you, fundamentally my response will be, that we should be able to get growth
+at the pricing level that we have. So, that will be my first reaction.
+There are specific situation, where if we have really a combined ratio, which is outstanding, then
+clearly, if you start doing the math, at that point in time, might be worthwhile to do – to
+compromise to a certain degree on pricing for growth. But it really depends on the numbers
+because if you have a combined ratio 96%, I tell you there is not much to compromise on
+profitability for growth because if you start doing the math, you need a lot of growth to offset for
+the deterioration in pricing.
+
+
+
+FINAL
+
+If you run a combined ratio of 85%, the math might look very, very different. But my fundamental
+answer to your question is now really; I have been many years in a operating company. And when
+you try to play the pricing game, usually you need to expect that your competition is going to
+move accordingly. So, eventually, you end up at the same point. So, if we want to improve, we
+need to improve in service to the customers. We need to get more productive, so that we can
+lower our pricing because we have a lower expense ratio, but playing the pricing lever is in my
+opinion a very dangerous game.
+
+Q - Farooq Hanif
+
+{BIO 4780978 <GO>}
+
+Okay. That's very, very interesting. Thank you very much.
+
+Operator
+And we'll take our next question from Nick Holmes of Société Générale.
+
+Q - Nick Holmes
+
+{BIO 3387435 <GO>}
+
+Hi, there. Just one question, please. Coming back on the variable annuity losses, could you explain
+a bit more how the accounting works, since, I would've thought your hedging should've prevented
+such a big loss? So, why didn't that happen? Thank you.
+
+Bloomberg Transcript
+
+A - Giulio Terzariol
+
+{BIO 17125489 <GO>}
+
+So, on the VA side, maybe just speak about the hedging cost, right? So, one thing is the hedging is
+the hedging. So, the hedging is going to make sure that you are matching, let's say, the equity
+movement. The cost of the hedging is a function of the volatility, and from that point of view when
+the volatility is going up, you're going to have higher hedging cost. Just to give you an idea, if you
+have a volatility of – measure based on the VIX of 15% or you have a volatility of 20%, this makes
+for a difference in hedging cost of €7 million per month. So, if you multiply, this is, like, €80 million
+plus.
+Last year seeing that the volatility was 19%, this year the volatility, the VIX was even at 30% for a
+few days, so it's been much elevated. So, the hedging program is working how the hedging
+program is expect to do. But the cost of hedge is going to be a function of the volatility. So, this
+explains why you have this kind of impact.
+If you ask me, 2017 was more unusual compared to what we see in 2018. The Q1 was a little bit
+heavy from a hedging cost point of view, but at the end of the day, the level of volatility last year
+was extremely low. And we had such level of volatility – just to give you an idea, last year we made,
+I believe, €200 million profit on our VA business, if not even more. And that block is less than €30
+billion more or less, so it was almost margin getting very close to the 1%, which is very high for a VA
+block, and this is now going to repeat moving forward. That's answer your question?
+
+Q - Nick Holmes
+
+{BIO 3387435 <GO>}
+
+Yes. I mean, I suppose I'm still a bit puzzled, you must have had hedging gains, but where do you
+kind of treat those on an economic basis, so you don't show them?
+
+A - Giulio Terzariol
+
+{BIO 17125489 <GO>}
+
+No. No. Okay. Maybe I would differentiate the hedging. It is a hedging cost and hedging cost is
+higher or lower. So, I wouldn't call it hedging loss or hedging gain. It's just when you have an
+hedging program, you need to pay for the hedging. When the volatility is up, you're going to pay
+more or less. So, it's not necessarily a gain or a loss.
+From a hedging efficiency point of view, the thing that you might be referring to in the VA will be
+basis risk. That will be an hedging efficiency. And the basis risk this year was pretty much zero, so
+
+
+
+slightly positive. Last year, we had a very positive basis risk. So that will be what I will call a hedging
+gain, but the pure cost of hedge is just a function of the volatility. And this is economic and this is
+going to be there. And we are not removing it from the numbers. We are putting all the numbers
+into our operating profit. Am I clear?
+
+FINAL
+
+Q - Nick Holmes
+
+{BIO 3387435 <GO>}
+
+Yes. No, no. You're very clear.
+
+A - Giulio Terzariol
+
+{BIO 17125489 <GO>}
+
+Thank you.
+
+Q - Nick Holmes
+
+{BIO 3387435 <GO>}
+
+I mean, but it is economic rather than because insurers present these numbers in very different
+ways and some, I think, show it on an accounting basis, but you show it on an economic basis.
+
+A - Giulio Terzariol
+
+{BIO 17125489 <GO>}
+
+Yeah, yeah. We show really the hedging costs. Yeah, there is some – yeah, there are other
+competitors they are putting below the line. No, no. We are just showing this into our operating
+profit. Yeah.
+
+Q - Nick Holmes
+
+{BIO 3387435 <GO>}
+
+Bloomberg Transcript
+
+Great. Thank you very much.
+
+A - Giulio Terzariol
+
+{BIO 17125489 <GO>}
+
+You're welcome.
+
+Operator
+And we'll take our next question from Andrew Ritchie with Autonomous.
+
+Q - Andrew J. Ritchie
+
+{BIO 18731996 <GO>}
+
+Hi, there. Just first a quick question of clarification. There's been lots of interviews with members of
+the management team talking about how concerned they are or cautious they are on the macro
+outlook and the volatility in markets. I just want to clarify, I mean, you haven't really changed your
+thinking around the amount of capital and capital buffer you'd like to retain, or do you still feel – is
+there a feeling that you want to be at the kind of upper end of the range for the foreseeable given
+some concern on the (00:52:16) backdrop?
+Second question, the capital efficient products, that is mostly the U.S. FIA products. Just clarify
+there's still no contribution yet from the German capital efficient product. And in the U.S. FIA
+product, I'm assuming it's a bit harder to manage the spread on that product with rising interest
+rates and that appears to have affected one of your competitors in that line. Is there a temporary
+depression of the investment spread in that line and will there be some re-pricing and
+normalization there?
+And the final question, you have some legacy long-term care business that's been a big focus of
+attention in the U.S. of late. When was the last time you revised your assumptions and what's the
+remaining exposure? Thanks.
+
+A - Giulio Terzariol
+
+{BIO 17125489 <GO>}
+
+
+
+FINAL
+
+Yeah. So, coming from the capital and how I feel about the solvency level considering the
+comments that we are making about the volatility market, I would say that I'm always considering
+the credit spreads are very narrow right now. So, this is something to keep in mind. So, from that
+point of view, and also if you look at the equity market in general, they are pretty, pretty high, even
+if there was some correction, if you want, they are still pretty high.
+So, from that point of view, I feel pretty good about running with a solvency ratio, which is even
+slightly higher compared to the 220%. Also from that point of view, it's very important for me to
+make the point that solvency ratio can go up and down based on market development. This
+doesn't necessarily mean that the IFRS profit is changing the same way the dividend capacity of
+ROE is changing the same way because there are the restriction.
+So, from that point of view, if you ask me the way I do a check, whether we are running the
+company efficiently from a capital management point of view is to look at the IFRS ROE, and as
+long as we have an IFRS ROE, which is close to the 13% level, I think we can definitely say in good
+faith that we are managing the company efficiently, and it is in our interest to clearly use the capital
+in a very efficient way. So, but the bottom line is right now having solvency ratio, which is at 225% is
+in my opinion a good place to be.
+
+Bloomberg Transcript
+
+On the capital efficient product, I think your question refers especially to the contribution of the
+German business to our capital efficient product. For the first quarter, the operating profit
+contribution was about €11 million coming from Germany. So, from that point of view, we are now in
+positive territory. You need also to consider and I don't want to get too technical, but there is a sort
+of strain, if you want, in that number. And so as we're growing that block, you're going to see more
+and more the profitability coming through in the future.
+And on the U.S. FIA, the question was about if rates go up, that might be an issue for managing the
+spread. I will say that philosophically yes. If you have a high increase in interest rate since you are
+buying the assets, it's the exception and the customer might change the view about what is a
+good credit rate. Yes, but there are two things.
+First of all, you need to see really a substantial increase, in my opinion, interest rates before this
+becomes an issue. Second point, we don't have straight fixed annuity. It's an index annuity. Since
+you have a participation with the equity market, I think there are two components, if you want, in
+the value generation. One is clearly the budget that you allocate to the strategy and that's clearly
+the kind of thing that will be somehow impacted by the comparison to the interest rate. But then
+you have what the equity indexes are doing. So, when you combine the two things, I will say that
+there is a potential issue that's – on managing the spread in a high increasing interest rate
+environment, but I wouldn't say this is something where we are feeling any pain at the moment.
+And then you had another question, which was...
+
+Q - Andrew J. Ritchie
+
+{BIO 18731996 <GO>}
+
+Sorry. Just to clarify. Was there a temporary – I mean, there was clearly spread compression in the
+capital efficient line in Q1.
+
+A - Giulio Terzariol
+
+{BIO 17125489 <GO>}
+
+Oh, no, no. Oh, okay, yes. That's okay. What's happening there – okay, that's a little bit of a
+different story. What is happening there, when the short-term interest rates are going up, the
+hedging cost, if you want, the budget that you need to allocate is going up. Now, in reality what is
+happening, we are passing this to the policyholder. The point is once you have a situation when the
+LIBOR is going up every time, we are always playing catch up. But eventually renewal, we're going
+to be able to adjust the pricing for that. So, just (00:57:22).
+
+
+
+Q - Andrew J. Ritchie
+
+{BIO 18731996 <GO>}
+
+There is a timing issue?
+
+A - Giulio Terzariol
+
+{BIO 17125489 <GO>}
+
+FINAL
+
+Yes. Absolutely. Yeah.
+
+Q - Andrew J. Ritchie
+
+{BIO 18731996 <GO>}
+
+Yeah. Okay.
+
+A - Giulio Terzariol
+
+{BIO 17125489 <GO>}
+
+There's a timing issue. Absolutely. Yeah. On the LTC, okay. First of all, if you ask me when we do
+our review, we constantly do a review of our LTC business. So, every – in theory every quarter, let's
+say, every year, we do a review of our LTC business. When you look at our reserves on a gross
+basis, we have €4.3 billion of reserve. Of this €4.3 billion, €2.8 billion belong to the years before
+2001, and this is, if you want, a very bad LTC and this €2.8 billion is completely insured (00:58:08)
+everybody knows that. And there is a zero part (00:58:11) which is reinsured with other companies.
+
+Bloomberg Transcript
+
+So, on the business before 2001, we are completely reinsured. Then we have a business of €1.5
+billion, which is after 2002 – 2001. And this business is largely retained, not completely, but largely
+retained, and on this business, the quality is definitely better. So, bottom line is, could we have a
+negative experience in LTC? Yes. It might happen depending on how morbidity is developing,
+depending on the interest rate movement and those dependent on our ability to get rate
+changes.
+So, from that point of view, clearly, there is some uncertainty, but I'm concerned about that we
+might have a significant exposure and impact coming from LTC, I would say I'm not concerned
+about that. So, I cannot disclose that we are going to have a strengthening in the future, but I don't
+think we are going to make the headlines.
+
+Q - Andrew J. Ritchie
+
+{BIO 18731996 <GO>}
+
+Okay. Great. Thank you very much.
+
+A - Giulio Terzariol
+
+{BIO 17125489 <GO>}
+
+You're welcome.
+
+Operator
+And we'll take our next question from Arjan van Veen with UBS.
+
+Q - Arjan van Veen
+
+{BIO 5197778 <GO>}
+
+Thank you. On the Allianz Global Investors, the – even if I remove ACP, the cost-income ratio is
+above 70%, which is quite a contrast obviously to where PIMCOs are below 60%. So, just curious
+as to whether you're going to give them some time or see the strategy work, or is there work
+conversely to PIMCO where you're investing, you're going to get a bit tighter on how you run the
+business?
+The other question I had was just a bit around the tax. So, if I look at your guidance of 26% to 28%
+and more like 26% for 2018, does that implies more that the other three quarters are running at
+27%? So, should we think of sort of longer term tax rates, now that things have settled down a bit
+around the 27% mark?
+
+
+
+A - Giulio Terzariol
+
+{BIO 17125489 <GO>}
+
+Yeah. So, starting from AGI and I think your question was whether we're going to push AGI towards
+the level of the PIMCO cost-income ratio or not...
+
+Q - Arjan van Veen
+
+{BIO 5197778 <GO>}
+
+FINAL
+
+But just as (01:00:27) not particularly good (01:00:30) for a while.
+
+A - Giulio Terzariol
+
+{BIO 17125489 <GO>}
+
+Yeah. I will say – okay. First of all, that's going to create some noise in the future. If you look closely
+at page 30, you're going to see that we expect the impact from ACP or the cost-income ratio to
+be about 2 percentage points. So, from that point of view, in the future, we need always to
+remove if you want that impact from the AGI numbers. Our expectation for AGI will be adjusted for
+– clearly for this impact is that the cost-income ratio will be below the 70% level.
+
+Bloomberg Transcript
+
+What you have to consider is in the first quarter of this year, we didn't have performance fees. I
+really did the math on my own and this makes the difference in the cost-income ratio. And we
+know the performance fees are going to flow at the end of the year mostly, so you need to at the
+end of the day look at how we're going to do in the cost-income ratio at the end of the year. And
+so, performance fees, they make a difference now this ratio is coming along.
+So, if you ask me in general, from an AGI point of view, it's something that you need to consider,
+the cost-income ratio might be higher, but you need to consider also that the fee margin is higher.
+So, you always have to consider that you should almost take the net margin on assets. You know,
+when you take the fee margin after the cost-income ratio and when you look at that ratio, AGI is
+indeed doing actually pretty good, so just to put things into context. That's on the AGI side.
+And then the other question was on the tax. I would expect the tax rates to be 26% at the end of
+the year. So, I would really see these as a good guidance. So, I don't think that guidance you...
+
+Q - Arjan van Veen
+
+{BIO 5197778 <GO>}
+
+...24% in the first quarter, right? So...
+
+A - Giulio Terzariol
+
+{BIO 17125489 <GO>}
+
+Yes.
+
+Q - Arjan van Veen
+
+{BIO 5197778 <GO>}
+
+(01:02:23) for the remaining quarters?
+
+A - Giulio Terzariol
+
+{BIO 17125489 <GO>}
+
+Yeah. Okay.
+
+Q - Arjan van Veen
+
+{BIO 5197778 <GO>}
+
+(01:02:26).
+
+A - Giulio Terzariol
+
+{BIO 17125489 <GO>}
+
+Yeah. It's already a function of the amount of tax-free income that we get in every quarter. And
+maybe the 26% might be slightly conservative, but for the time being, I'd like to guide you to the
+26%. But think about also the tax-free income and how this can develop over the quarter, which is
+also a function of realized gains that we do in equity realized gains in Germany, for example, tax
+free. But 26%, I think it's not necessarily an aggressive number. Let's put this way.
+
+
+
+Q - Arjan van Veen
+
+{BIO 5197778 <GO>}
+
+Okay. So, just another way of thinking about it is longer term midpoint of that 26% to 28%, but
+maybe even a bit better than that?
+
+A - Giulio Terzariol
+
+{BIO 17125489 <GO>}
+
+FINAL
+
+Yeah. I would guide you a little to 26% by the end of the day. Yeah.
+
+Q - Arjan van Veen
+
+{BIO 5197778 <GO>}
+
+But I'm thinking slightly longer term rather than just 2018.
+
+A - Giulio Terzariol
+
+{BIO 17125489 <GO>}
+
+Yeah. Yeah. I would say I would expect 26% to be...
+
+Q - Arjan van Veen
+
+{BIO 5197778 <GO>}
+
+Okay. That's perfect. Okay, okay.
+
+A - Giulio Terzariol
+
+{BIO 17125489 <GO>}
+
+Yeah. Yeah. I would expect 26% to be – based on the information we have now, how we are doing
+things now, I could see 26% to be a good level of guidance also for the future. Yeah.
+
+Bloomberg Transcript
+
+Q - Arjan van Veen
+
+{BIO 5197778 <GO>}
+
+Okay. That's very clear. Thanks.
+
+Operator
+And we'll take our next question from Vinit Mashota (sic) [Vinit Malhotra] (01:03:45) with
+Mediobanca.
+
+Q - Vinit Malhotra
+
+{BIO 16184491 <GO>}
+
+Yes. Good afternoon. Thank you very much. So, one question on PIMCO please and one on NonLife, and possibly one on Life just to clarify one thing. So, on PIMCO, Giulio, can you say that is
+there a strategy or is there a plan to counter this impression in the market that PIMCO will perform
+poorly in driving interest rates and all this outflows? Because in the past there was this focus on
+various other strategies highlighting that PIMCO is not just (01:04:24). That's the first question on
+PIMCO strategy.
+Second question is just picking up and following up on the AGM commentary in that beautiful slide.
+Is it as simple as just saying, let's half the products number and suddenly customers become more
+loyal and we are all very productive and everything is very good? Because, if I remember a few
+years ago, the whole idea was the modular approach was supposed to be the driver of earnings
+or improvements. So, I just wanted to hear your thoughts on how do you look at that.
+And if I can just follow up quickly, recently in Italy, there's been a Supreme Court ruling regarding
+unit-linked products, whether they are insurance contracts or not. Is that story – do you have any
+opinions on that? Do you think that concerns you or affects you or what's affecting that? Thank you.
+
+A - Giulio Terzariol
+
+{BIO 17125489 <GO>}
+
+Okay. I'll start from the last one. I don't have any opinion on that one and I need to do some
+research on that, so on the unit-linked ruling for Italy on the expenses, no. We have – if you want, I
+wouldn't call it evidence, but it looks like companies which have a simplified landscape and less
+products tend to be more efficient. And also we see customer – the customer service is also
+
+
+
+FINAL
+
+better, which makes logical sense, right? When you see some kind of correlation, then you always
+try also to make sense out of it.
+And we think that there is – definitely the way to go to simplify our products. Don't think this is so
+easy because that's a little bit a point you're making. There are people that might think that
+customization is still important. By the way customization still matters, but we need to differentiate
+between what is value-adding customization and what is unnecessary customization, which means
+only complexity.
+So, at the end of the day, it's going to be also, if you want, a little bit of a cultural change, but we
+strongly believe that this is the way to go and this is going to be what we are going to push in our
+agenda for the next few years. Indeed if you ask me, that's a cornerstone of our idea how to
+reduce the expense ratio and how to get more productivity over time.
+And then on PIMCO, just to make clear, I didn't say that PIMCO is performing poorly; I just said
+PIMCO is doing good, but we see that there was a slowdown in February, March and then there
+are outflows coming through in April. I want to reiterate, however, from a revenue mix point of view
+this is pretty healthy. As far as the environment goes, this is clearly an environment which is tougher
+for fixed income.
+
+Bloomberg Transcript
+
+As I mentioned right now, I think there was also an article just a few days ago in the Financial Times,
+so this is what the environment is. But I will say that PIMCO is doing actually under the
+circumstances pretty good. So, I'm very long on PIMCO and the prospects of PIMCO and now we
+need to go through this transition period, but we are very happy with the level of performance of
+our friends in Newport Beach.
+
+Q - Vinit Malhotra
+
+{BIO 16184491 <GO>}
+
+And can I just follow-up? If the U.S. (01:08:01) keeps going up, then PIMCO's strategies are working
+or should work, is that also your understanding?
+
+A - Giulio Terzariol
+
+{BIO 17125489 <GO>}
+
+Yeah. My point is at the end of the day, customer are going to – customer can place money more
+or less depending on the environment. But fundamentally, there is definitely if you look mid, long
+term, there is an appetite to put funds into fixed income, especially when rates are going to be
+higher. I believe we are going to see even more on appetite because people going to use that as
+an opportunity in order to also do liability driven investment.
+At the point in time, usually, when the situation is stabilizing, I believe a company like PIMCO,
+whose performance continues to be very strong, is going to be the preferred asset management
+to go. So that's the reason why what I'm saying clearly now there is a transition period because
+people are watching what interest rates are going to do. Once there is less apprehension about
+the near-term development of interest rate and when the investors are going to believe there is
+stability, at that point I expect that PIMCO is going to see again strong flows.
+
+Q - Vinit Malhotra
+
+{BIO 16184491 <GO>}
+
+Thank you, sir.
+
+A - Giulio Terzariol
+
+{BIO 17125489 <GO>}
+
+And maybe I'll come back on the unit-linked. We don't expect any impact on this ruling from Italy.
+
+Q - Vinit Malhotra
+
+{BIO 16184491 <GO>}
+
+Yeah. All right. Thank you.
+
+
+
+Operator
+And we'll take our next question from Johnny Vo with Goldman Sachs.
+
+FINAL
+
+Q - Johnny Vo
+
+{BIO 5509843 <GO>}
+
+Yeah. Hi. Thank you. Just a couple of questions. Just obviously your solvency ratio is very good, but
+can you talk about other elements of capital management, such as your rating agency capital and
+your central liquidity, and how that feeds through into your capital management plans?
+And the second question is just on the recent SSCRs (01:10:10) that you put out. We noticed that a
+number of your German peers have seen quite big increases in insolvency positions in their Life &
+Savings books, but your business seems to be much more modest. I would have thought that rising
+rates would have seen a quite a big benefit to a lower SCR, and it doesn't seem to have come
+through. So, could you comment on that? Thank you.
+
+A - Giulio Terzariol
+
+{BIO 17125489 <GO>}
+
+So, first of all, on the central liquidity, on how we look at capital, clearly we look at the solvency
+ratio, then we look at the financial leverage ratio that, if you want, is more of – is a rating agency
+constrain and this is more driven by, if you want, almost the IFRS balance sheet with some
+adjustments. And then, clearly, also we look at the liquidity level that we get through the dividend.
+
+Bloomberg Transcript
+
+So, we are looking holistically at these three things. And from a financial leverage ratio, at the end
+of the year, we were at about 26%. We have – we don't want to go over 30% clearly, indeed we
+feel pretty good about the 26% level that we have right now.
+And from a liquidity point of view, as you know, we are keeping a liquidity buffer here in Munich in
+order to make sure that even if there is a financial crisis combined with Nat Cat events, we are
+going to be able to fund our ROEs and on top, clearly on this strategic liquidity reserve or what is
+on top of that can be deployed for buybacks and for M&A.
+So, from that point of view, we'll look at these three dimensions. Also just to give an idea how we
+look at, if you want, the risk profile of Allianz, we are looking at three levels. One, we look at
+Solvency II sensitivity, then we look at earnings at risk, and then we also look at liquidity at risk. So,
+these are the three things that we're looking at. And then, clearly, the three things are now moving
+in parallel. And based on the different sensitivity, the different levels that we have, we try to strike
+the best balance. So, that's how we view the world from a capital management, liquidity
+management point of view.
+From a question about us versus the competition, we don't think that it's so easy to compare our
+numbers to the competition, also because our cash flow models are different. So, from that point
+of view, we believe it's very challenging to make a comparison between us and the rest. If you look
+at our solvency ratio in Germany are very strong. And on top of it, you need to consider that some
+of our competition might be using transitional tool (01:13:22), so it's very difficult to compare.
+
+Q - Johnny Vo
+
+{BIO 5509843 <GO>}
+
+But how sensitive is the SCR to interest rates in Germany?
+
+A - Giulio Terzariol
+
+{BIO 17125489 <GO>}
+
+I think there is some sensitivity in Germany of our solvency ratio to interest. This is now not
+something that I'm personally tracking, but when you look at our sensitivity at group level, we have
+a sensitivity, which is, as of Q1, minus 7%. The numbers of Allianz Leven are included there. There is
+also a mechanism where sometimes the sensitivity maybe at Allianz Leven (01:14:04) might be
+
+
+
+FINAL
+
+higher compared to the sensitivity that we see at group level because of the impact of
+transferability.
+But I would say that Allianz Leven with a solvency ratio of about 400% is very well capitalized. And
+also what we do, we do this for all companies, and we do this also for Allianz Leven. We run
+different stress tests and like we run the stress test for the financial crisis 2018. And we want to be
+sure that even under that condition, the company is going to have a adequate level of
+capitalization.
+
+Q - Johnny Vo
+
+{BIO 5509843 <GO>}
+
+Okay. Thank you.
+
+Operator
+And we'll take our next question from Michael Haid with Commerzbank.
+
+Q - Michael Haid
+
+{BIO 1971310 <GO>}
+
+Bloomberg Transcript
+
+Thank you very much. Good afternoon. Two questions. One, I struggle to understand the
+combined ratio in Italy. Not so much if I look at the Q1 combined ratio of 80% only, but more when I
+look at it over time. It has been very, very low for years now. And the question is how long can it go
+on? And for the combined ratio for the group of 94%, what combined ratio should we expect for
+Italy and what is the underlying combined ratio in Italy?
+Second question on Euler Hermes, now that you own it 100%, can you give or is there an update
+on the plans what – how to integrate it, what actions you are going to take, any synergies, any
+update on the plans? That would be very helpful.
+
+A - Giulio Terzariol
+
+{BIO 17125489 <GO>}
+
+Yeah. I'll start from the second one. I cannot give you any update on Euler Hermes, and if and when
+we're going to do something that we can speak about what we are going to do there. On the
+combined ratio for Italy, I would like to have an 80% combined ratio forever, but let's be realistic
+this is not going to happen. So, now, when you look at the combined ratio of Italy, we have a very
+good excellent year, but also on top of that, we have a clearly positive runoff.
+I am kind of hesitant to give you the number, but I think that the Italy combined ratio might be close
+to the one of – excellent year to the one of Spain, maybe slightly better. So, we know that
+eventually we are going to see down the road less performance from Italy, otherwise going to be
+still an outstanding performance. But this is part of our consideration. So, as we speak about 94%
+combined ratio that we want to achieve not only in 2018 but also in the future. We're also factoring
+in that Italy is not always going to contribute an 80% combined ratio. So, this is something we are
+aware of and this is part of our thought process.
+
+Q - Michael Haid
+
+{BIO 1971310 <GO>}
+
+Can you talk a little bit then on the reserving position in Italy? Has it deteriorated? How much has it
+deteriorated? Just to get a better understanding because the combined ratio in Italy has been
+very low for years now.
+
+A - Giulio Terzariol
+
+{BIO 17125489 <GO>}
+
+Yeah. Now going maybe to be specific – let's put it this way, the reserving situation in Italy is very
+strong. That's what I can tell you.
+
+Q - Michael Haid
+
+{BIO 1971310 <GO>}
+
+
+
+Okay. Perfect. Thank you.
+
+A - Giulio Terzariol
+
+{BIO 17125489 <GO>}
+
+FINAL
+
+Yeah. Sorry for that. Yeah.
+
+Operator
+And we'll take our next question from Peter Eliot with Kepler Cheuvreux.
+
+Q - Peter D. Eliot
+
+{BIO 7556214 <GO>}
+
+Thank you very much for letting me come back. I guess, just following up on a couple of your
+comments, Giulio, on the performance. We didn't get that sense of third-party assets that we're
+outperforming benchmarks. (01:18:08) just wondering if you have that.
+Secondly, on the Non-Life investment income, I guess the reinvestment rate remains sort of 70
+basis points below the running yield. So, that sort of 80 basis points compression that you talked
+about, I mean, I guess that logic would say that should continue for some time, but I'm just
+wondering if you can add any comments to say why that should slow, possibly given your
+alternative investments or other?
+
+Bloomberg Transcript
+
+And then finally, on the solvency sensitivity target, I guess you've overshot the 11%, although the
+11% was that or better. I just wonder if you could update us on your thoughts on whether a lower
+sensitivity is always a good thing or whether you'd like to have some exposure there or just – what
+your thoughts are now that you're sort of well inside that target? Thank you very much.
+
+A - Giulio Terzariol
+
+{BIO 17125489 <GO>}
+
+Yeah. Okay. Starting from the performance of our Asset Manager. When you look at PIMCO, we
+have more than 90% of the funds are performing their benchmark. In the case of AGI, when you
+look at the three-year horizon, it's about 70%. So, from that point of view, also we see both at
+PIMCO and AGI stability compared to the numbers we had in the prior quarters.
+Your question on the investment income and how we see this playing out in P&C in the future. So,
+when we look at our plan, we see that by 2020, the decrease in investment income should flatten
+out. So, we still are going to have some decrease happening in 2019. And then starting 2020, we
+should have a slight development of the investment income. Clearly, if rates go up a little bit, that
+might make the breakeven, if you want to call this way a little bit earlier. If rates go down, that
+might make it a little bit later, but I would say that by 2020, we should have this headwind behind
+us.
+And then you had a question about the sensitivity. How I feel about sensitivity and so on. So, I think
+the question was, whether lower sensitivity are always a good thing. And I would say, yes. If you ask
+me, I believe that if – I would even trade level for lower sensitivity. Because at the end of the day, if
+you think about that, the capital intensity of a business is a function also the volatility that you have.
+The more volatility, the more buffer you need to keep. And so from that point of view, yes, lower
+sensitivities are a positive.
+Again, as I was saying before, we can bring the solvency ratio to be even more stable than it is
+now, but then you need to think about implications on other KPIs. But the bottom line is, yes,
+everything has been equal if you carry and use (01:21:10) the sensitivity of the Solvency II and
+maybe trading for the level. You need to run the math, but there might be good things to do from
+a capital management point of view.
+
+Q - Peter D. Eliot
+
+{BIO 7556214 <GO>}
+
+
+
+Thanks very much.
+
+A - Oliver Schmidt
+
+{BIO 2473131 <GO>}
+
+FINAL
+
+Okay. Before we continue time is almost up. I think we have time for one last question, please, if
+there's any?
+
+Operator
+At this time, there are no further questions.
+
+A - Oliver Schmidt
+
+{BIO 2473131 <GO>}
+
+Perfect. Even better. Then we thank everybody for joining the call and to say goodbye.
+
+A - Giulio Terzariol
+
+{BIO 17125489 <GO>}
+
+Okay. Bye. Have a good day.
+
+Operator
+
+Bloomberg Transcript
+
+And that concludes today's presentation. We thank you for your participation. You may now
+disconnect.
+
+This transcript may not be 100 percent accurate and may contain misspellings and other
+inaccuracies. This transcript is provided "as is", without express or implied warranties of any kind.
+Bloomberg retains all rights to this transcript and provides it solely for your personal, noncommercial use. Bloomberg, its suppliers and third-party agents shall have no liability for errors
+in this transcript or for lost profits, losses, or direct, indirect, incidental, consequential, special or
+punitive damages in connection with the furnishing, performance or use of such transcript.
+Neither the information nor any opinion expressed in this transcript constitutes a solicitation of
+the purchase or sale of securities or commodities. Any opinion expressed in the transcript does
+not necessarily reflect the views of Bloomberg LP. © COPYRIGHT 2022, BLOOMBERG LP. All rights
+reserved. Any reproduction, redistribution or retransmission is expressly prohibited.
+
+

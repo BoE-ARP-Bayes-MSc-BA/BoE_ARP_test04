@@ -1,0 +1,696 @@
+Company N ame: American I nternational Group I nc
+Company Ticker: AI G US Equity
+Date: 2020-06-09
+
+2020 Morgan Stanley Virtual US Financials Conference
+Company Participants
+FINAL
+
+Sabra Purtill, Chief Financial Officer
+
+Other Participants
+Michael Phillips , Analyst
+
+Presentation
+Michael Phillips
+
+{BIO 21023048 <GO>}
+
+Bloomberg Transcript
+
+Okay, thanks everybody for joining us for the next fireside chat on our series here today
+and continuing tomorrow as well. Again, Mike Phillips here, Morgan Stanley's PNC analyst.
+And we're joined for the next fireside chat with Sabra Purtill from AIG. Before we get into
+it, a quick disclosure, number 4 disclosures. Please see the Morgan Stanley website at
+www.morganstanley.com/disclosures. And any questions, please see your sales
+representative. So again, thanks for joining us. We have Sabra here. She is the Deputy
+CFO and Treasurer at AIG. I think all of you know her pretty well. So I'm looking forward to
+a nice discussion. We have about 25 to 30 minutes to kind of talk on various topics, so
+looking forward to it.
+Sabra, thank you very much for joining us.
+
+Sabra Purtill
+
+{BIO 1764408 <GO>}
+
+Thank you for organizing this, and hello to everybody out there. I hope everybody is
+healthy and safe these days.
+
+Michael Phillips
+
+{BIO 21023048 <GO>}
+
+Thanks. So let me just start, I guess, Sabra, with kind of just top of mind on the pandemic, I
+guess, if we can. You guys have talked about that as more of a "Earnings event", not really
+a capital event. Since then, I think -- since those conversations in 1Q, we've had a couple of
+other things happened. Now we've got some crazy stuff going on in the cities with riots,
+we've got possibly an active hurricane season as well, so a combination of a bunch of
+things. I guess, maybe first off, how do you think about those combinations of things in
+combination? Does that pose a threat to capital? Or is that still, in combination, more of
+an earnings event -- events, plural?
+
+Sabra Purtill
+
+{BIO 1764408 <GO>}
+
+Page 1 of 11
+
+
+
+Bloomberg Transcript
+
+FINAL
+
+Company N ame: American I nternational Group I nc
+Company Ticker: AI G US Equity
+Date: 2020-06-09
+
+Yes. Yes, well, I have to say, this second quarter is definitely going to be an interesting
+one for the industry because you're right, we've got what is normally a very active
+catastrophe quarter in the United States, and not so much hurricanes, but the
+thunderstorms, wind events that we tend to get in the second quarter, tornadoes and so
+on. Then you've got COVID, which, as many companies have talked about, is going to
+manifest itself in various ways across different lines, different geographies and over an
+extended period of time. And then you have the recent unfortunate events that have
+caused protests across the country and, unfortunately, some property damage and
+physical damage. So I'll start by saying, we have no idea what the second quarter is going
+to look like, but it's definitely going to be an unusual one. But having said that, we still look
+at the environment that we're in as truly an earnings event and not a capital event,
+particularly when you think about the more traditional CATs and exposures that we -- you
+would have from storm activity. AIG today is in a much better position than it would have
+been, had these events occurred even as recently as 3 years ago, and that's a
+combination of the reunderwriting and reduction in limits, particularly across the property
+book, a significant elimination of multiyear policy, which, as you know, locks in the price
+and the underwriting coverage for a period of years. And in addition, we've just
+substantially increased our utilization of reinsurance to manage the insurance risk on the
+balance sheet, and finally, have also significantly derisked the investment portfolio. So as
+you think about these various events, so for instance, the hurricanes or second quarter
+and third quarter storm activity, our CAT reinsurance programs will provide protection to
+those events, both on an aggregate as well as on occurrence basis because we have
+policies for both of those -- for both the U.S. and the International book.
+I would also draw your attention to -- this year, we have a slightly different structure for our
+Private Client Group coverages. And in addition, we've announced the formation of
+Syndicate 2019, where a significant portion of that book is going to get reinsured in the
+second quarter. So our exposure to natural CAT losses on the high net worth book that
+we have will be significantly different than what it would have looked like even last year
+when that book was 100% on our own paper, and for our own risk.
+So as we think, like I said, on the natural catastrophe side of it, our underwriting and
+reinsurance will help provide protection for there. On the civil unrest and the property
+damage, that's going to very much depend on the facts and circumstances of each
+individual loss because, as you know, a large national chain of retailers is going to have a
+very different exposure to the broken glass or property damage than a owner/proprietor
+shoe repair shop, for instance, which is going to be more first dollar coverage. But in
+general, obviously, those events are -- damage from those types of events are covered
+under traditional insurance policies, unless there's some explicit wording. So whether it
+was the -- what we saw in Baltimore several years ago or, in fact, what we saw in Chile,
+last year, property damage caused by those events, to the extent that there's insurance
+for the property, would be covered.
+And COVID, as we said, COVID is a weird one, right, because it's an insurance loss on
+both the General Insurance side to the extent that coverage terms prevail, it's a mortality
+event on the Life Insurance side, although, to date, we still think it's a very manageable
+mortality blip that we have in our book. And then the big question is really the long-term
+economic impact to both our investment portfolios as well as exposure to growth in GI or
+
+Page 2 of 11
+
+
+
+FINAL
+
+Company N ame: American I nternational Group I nc
+Company Ticker: AI G US Equity
+Date: 2020-06-09
+
+demand on the L&R side. But we -- to date, we don't see anything from either COVID or
+the combination of these things, which lead us to believe that we would need to have any
+significant increase in the capital basis or that there would be significant damage done to
+the operating company and capital basis, which would require any form of capital raise or
+recapitalization. I know that's not true of everyone. Obviously, there's been some
+opportunistic capital raises recently in this space. There's also been some defensive
+capital raises. But to date, our focus has really been on strengthening holding company
+liquidity because of the capital markets uncertainty so that we have ample liquidity to
+address upcoming debt maturities and maintain significant financial flexibility in these
+times.
+
+Michael Phillips
+
+{BIO 21023048 <GO>}
+
+Okay. Thanks. It's a good overview. I think we'll have a lot to follow-up over the next
+course of this conversation for everything you mentioned. So maybe the first one, just
+quickly, I guess, on -- this is kind of a real quick one on the riots. I mean anything you can
+quantify there or talk about potential exposure or concentration in maybe large cities,
+anything you can share there?
+
+Bloomberg Transcript
+
+Sabra Purtill
+
+{BIO 1764408 <GO>}
+
+Yes. I think it's premature because we'll have to see what we actually get in terms of the
+claims volumes. But again, I would remind you that the coverage is going to be very
+different for somebody who is a large corporate, where they basically retain the working
+layer of property damage, and we're attaching at more of an excess level. We're not a
+big player, as you know, in the small and middle market commercial space. So I think, to
+the extent, the damages were done in a part of town where there's more small business
+as opposed to like a downtown business district, then it's going to be different. And as
+you know, there's been events across the country, large towns and big cities and the rest.
+I think we tend to focus on the biggest cities, but I'm down in Virginia most of the time
+and we've had demonstrations -- peaceful demonstrations in the small town that we live
+in, and then there's been more violent protests in Richmond, which was just on the road
+from us. So -- but again, in general terms, yes, property damage caused by these sorts of
+events would be covered under somebody's property coverages subject to the
+deductions and limits that they have.
+
+Michael Phillips
+
+{BIO 21023048 <GO>}
+
+Okay. No, that's helpful. I guess, maybe at a higher level then, just to take a step back for
+a second, just talking again more about the impact of pandemic and losses from it, have
+you seen any change from clients in their perception of risk and maybe demand for
+different products or possibly thinking about retentions and self-insurance structures or
+what have you that would be a kind of a ripple effect from the pandemic itself ?
+
+Sabra Purtill
+
+{BIO 1764408 <GO>}
+
+Yes. That's probably a better question to ask the brokers because they're probably more
+actively involved in early discussions with clients about upcoming policy renewals and the
+Page 3 of 11
+
+
+
+FINAL
+
+Company N ame: American I nternational Group I nc
+Company Ticker: AI G US Equity
+Date: 2020-06-09
+
+rest. I mean what I would just note is, I think there was already conversations going on
+relative to the cost because, obviously, we've been through a pretty hardening pricing
+cycle. And as you know, when costs go up or when coverages are more limited, then you
+see people moving from the admitted to the excess market, or people go from selfinsurance to maybe some elements of excess. And I think that's more driven by the cost
+than anything else. But of course, we would expect, like I said -- when people come to us,
+we're generally not the first conversation large corporations or multinationals have as they
+think about pricing and terms and conditions with the product.
+
+Michael Phillips
+
+{BIO 21023048 <GO>}
+
+Okay, sure. So I guess, just on the pricing front -- go ahead.
+
+Sabra Purtill
+
+{BIO 1764408 <GO>}
+
+But Just to put a -- I guess, to put a -- it seems inconceivable to me with all this -- the
+unusual events of this year with COVID as well as the hardening pricing cycle, I'd be
+shocked if any major corporation or a business wasn't trying to think about what they
+needed to do for their coverages and what they can afford, frankly.
+
+Michael Phillips
+
+{BIO 21023048 <GO>}
+
+Bloomberg Transcript
+
+Right. That makes sense. Okay. I guess, sticking within the appraising theme, does -- what
+effect, I guess, does the slowing economy have on insurance companies, your guys' ability
+to push for more rates in times that we're in through the next quarter or two?
+
+Sabra Purtill
+
+{BIO 1764408 <GO>}
+
+That's a really good question. And I think, to some extent, you have to keep in mind the
+parts of the market where you're basically having to file and get approval for rates, as
+distinct from those areas where we're basically deciding based on our pricing
+expectations what we want to charge, and particularly for the E&S market. The way I think
+of it right now is that we went through a period where a lot of people went home to work
+or where some people got laid off. And obviously, for businesses that are closed, they're
+not going to be paying workers' compensation, insurance. And so we would see less
+premium from those sorts of policies, and also less losses. But in areas where you are
+seeing increased claims or activity, so whether it's, say, in the health care worker space or
+workers' comp, people are going to be pushing for rate to increase the premiums to
+cover the risks, particularly as you think about this virus being around for a while without a
+vaccine. So like I said, I think there's some countervailing forces going on, and what will
+ultimately be the determinant of the amount of rate we get will depend on kind of the
+attractiveness of the product, given where we think the loss exposure is.
+And I think that's one thing to just talk about. And we'll probably all be talking about it
+more over the course of the next couple of weeks and months is, this is going to be a
+really unusual year for the actuaries to figure out what to do with loss picks because on
+the one hand, you obviously have the claims from COVID, so whether it's mortality or
+whether it's an increase in frequency on some aspects of workers' comp book, but then
+Page 4 of 11
+
+
+
+Company N ame: American I nternational Group I nc
+Company Ticker: AI G US Equity
+Date: 2020-06-09
+
+FINAL
+
+you're going to have other areas of the book where there's probably less activity because
+of the shelter in place and working from home or just the significant change in people's
+habits, right? So there's probably fewer drunken driving accidents because people aren't
+going out to restaurants and then trying to drive home, for instance. And I think it'll take a
+little time to figure out kind of the net-net impact on loss picks and 2020 accident year
+experience because of all these changes in behaviors.
+
+Michael Phillips
+
+{BIO 21023048 <GO>}
+
+Yes. It's interesting. It's certainly got to be fun as this develops on how the loss picks
+outlook. You're right.
+
+Sabra Purtill
+
+{BIO 1764408 <GO>}
+
+Yes. Well, like, one thing that's been mentioned, for instance, is, okay, there's a huge drop
+in personal auto mileage because people aren't driving to work, but we are seeing more
+severe accidents because the roads are less crowded.
+
+Michael Phillips
+
+{BIO 21023048 <GO>}
+
+Right.
+
+Bloomberg Transcript
+
+Sabra Purtill
+
+{BIO 1764408 <GO>}
+
+On the commercial auto side, we'd note -- we still got a lot of trucks running around
+delivering things. So there's not -- I don't think there's really any significant benefit trend
+from the commercial auto side from frequency. But you would still think that with fewer
+cars on the road, there might be ultimately some benefit in the loss picks. But
+nevertheless, I think what we can all agree is that you can't try to figure out this year until
+we have more developed experience on actual accidents this year because you can't
+compare 2020 to 2019 or prior accident years in any reasonable way right now. We just
+need more true actual 2020 experience and data to understand what the trend is going
+to look like. And then there will be some favorable trends. I mean the joke I was making
+with somebody the other day is, if I'm working from home and I trip and fall down the
+stairs in my house, is that a workers' comp claim, because if I tripped and fell over at work,
+it would be, but I'm working in my own house.
+
+Michael Phillips
+
+{BIO 21023048 <GO>}
+
+Right.
+
+Sabra Purtill
+
+{BIO 1764408 <GO>}
+
+Right?
+
+Michael Phillips
+
+{BIO 21023048 <GO>}
+
+Page 5 of 11
+
+
+
+Company N ame: American I nternational Group I nc
+Company Ticker: AI G US Equity
+Date: 2020-06-09
+
+Yeah. A lot of flowing parts.
+
+FINAL
+
+Sabra Purtill
+
+{BIO 1764408 <GO>}
+
+It is. It's just going to be a very unusual year. That's why I say for this second quarter, I think
+for all of the companies in the industry, it's just going to be an unusual quarter. And we'll
+have to understand it and explain it, obviously. But it's going to be an unusual quarter. And
+that's even on the investment side, right? So think about where the markets are now
+versus what they were at March 31. I mean the S&P is -- I think it's still in positive territory
+today for the year. And that's not what we would all have expected back in late April, early
+May when we were reporting first quarter results.
+
+Michael Phillips
+
+{BIO 21023048 <GO>}
+
+Right. So I mean you mentioned something in the opening comments on the equity capital
+raises that we've seen. And as you said, some that are maybe more defensive, some are
+a little more offensive. But let's couple that with -- and in fact, we had one today that was
+probably more on the offensive side, so these things are continuing. So couple that with
+what we're seeing with the hardening reinsurance pricing environment. To what extent
+those events do you think have any kind of dampening impact on the level of price
+acceleration for reinsurance?
+
+Bloomberg Transcript
+
+Sabra Purtill
+
+{BIO 1764408 <GO>}
+
+Yes. I'm not in the best position, since I'm not working in the reinsurance business day-in,
+day-out, like many of our colleagues at AIG. But just harkening back to some of the
+comments that Peter has made, and he does believe that there's going to be an impact
+on some of the ILS and the retro market. And I would anticipate that some people are
+raising capital because they do, in fact, think that there's going to be a very attractive
+reinsurance market and that because of the trapped capital in some of these areas as
+well as potentially losses that come through from either COVID or other CATs that they
+want to have the capital to be able to write more business.
+
+Michael Phillips
+
+{BIO 21023048 <GO>}
+
+Sure. Okay. You also mentioned in the opening kind of the comments about reinsurance
+and your reinsurance changes that you've made, not just recently, but over the past
+couple of years. So you've been working through a lot to refine those programs. So how
+does -- I guess, how does the hardening market there affect your reinsurance structures
+moving forward? Do you think the rising prices and maybe tightening terms and
+conditions there, do they discourage any further reinsurance purchasing on your end?
+
+Sabra Purtill
+
+{BIO 1764408 <GO>}
+
+We'll have to see how things play out during the course of this year and what it looks like.
+As you know, most of our principal catastrophe treaties are January 1 renewals, and so we
+renewed our programs long before the recent unpleasantness, as you might say. But I
+would just note that you have to remember that the primary reason why we began the
+Page 6 of 11
+
+
+
+Bloomberg Transcript
+
+FINAL
+
+Company N ame: American I nternational Group I nc
+Company Ticker: AI G US Equity
+Date: 2020-06-09
+
+reinsurance is, one, it was prudent to have some, particularly on the catastrophe side; but,
+two, previously, the company had been writing very large limits in both Property and
+Casualty lines, large limits with limited reinsurance, and in many cases, they were
+multiyear policies. So we had to use reinsurance as a means of kind of addressing those
+kinds of concentrations, aggregations of risk. And as we've gone through, and David
+McElroy talked about it a couple of weeks ago, as we've kind of gone through two turns
+of reunderwriting on the GI side, we have reduced the limits that we're putting now,
+we've ventilated some exposures, we've raised attachment shield, we have different
+terms and conditions. And that, at the end of the day, is really the primary tool that an
+insurance company needs to manage risk. So we can probably think a little bit differently
+about our reinsurance needs as we go forward. And a classic example, of course, would
+be what we did with our high net worth personal lines business with the Syndicate. So
+effectively, we are still going to be able to participate in that business. We're going to
+write paper and reinsure it into the Syndicate or through other programs. But we'll be able
+to still be a very strong participant in an attractive part of the personal lines market
+without having all of the tail risk of the CAT cover because as you know that people who
+are very wealthy tend to live in places that have particularly a hurricane or earthquake
+exposure, and there also tends to be a concentration in certain neighborhoods, which
+creates aggregation as well. But again, I keep going back to, it's good that this is
+happening today as opposed to 3 years ago because we didn't have those sorts of
+reinsurance coverages in place, we hadn't started the repricing and the reunderwriting
+cycle. So now as we come into what's clearly a harder market than what it was at the
+beginning of the year, we have much more options and flexibility to think about both
+where we write new business or where we think about having a reinsurance coverage as
+attached or detached.
+
+Michael Phillips
+
+{BIO 21023048 <GO>}
+
+Okay. That's helpful. I guess, we've seen some areas start to reopen a bit. And maybe,
+have you seen any, I guess, differences in exposure units there between the opened
+regions versus the closed regions? And if so, maybe how big from what you're seeing
+since things are starting to able to open back up again?
+
+Sabra Purtill
+
+{BIO 1764408 <GO>}
+
+Yes. We haven't provided an update on that yet, and I would say it's still too early. I mean
+as you know, New York just went into -- New York City went into Phase 1 on Monday. And I
+think it's in some of these larger urban areas where -- such as New York, where you've
+seen much more shutdown. There's other parts of the country where it wasn't as
+dramatic. Again, in Virginia, where I am, we're on Phase 2, and they're already starting
+about -- talking about Phase 3 in another 10 days or something like that. But similar to
+what we saw in the employment report last week, I think that as people are permitted to
+engage in more normal levels of economic activity, then, obviously, we're going to see
+exposure come back. But from a insurance business that reports on a quarterly basis,
+right, we still haven't seen second quarter and what the impact has been, will be in our
+second quarter premiums relative to the shutdown. So third quarter, fourth quarter is
+probably when we can talk a little bit more about how we're seeing the increase in
+exposures from what will be lows, obviously, in the second quarter. When you think about
+it, it was March 11, right, when basically everybody was told to go home.
+Page 7 of 11
+
+
+
+Company N ame: American I nternational Group I nc
+Company Ticker: AI G US Equity
+Date: 2020-06-09
+
+Bloomberg Transcript
+
+FINAL
+
+Michael Phillips
+
+{BIO 21023048 <GO>}
+
+Right. So on that still, on -- one of the hot topics early on that was business interruption,
+and that seems to have quieted down a bit. Some states have actually even pulled back a
+bit. Louisiana has done a little bit to kind of pull -- maybe take the pressure off there, and
+it's just been relatively somewhat quieter. What do you attribute that to? Is it -- do you
+think there's the threat of BI on insurances that's kind of gone away? Or is it just kind of a
+temporary low? Or maybe any updated thoughts on the exposure there for not just you
+guys but the industry as well?
+
+Sabra Purtill
+
+{BIO 1764408 <GO>}
+
+Yeah, it's -- I think it remains to be seen what the solution is going to be for protecting
+small and medium-sized businesses from this sort of catastrophe event going forward.
+But I think an observation would be that people, and by that, I mean particularly
+legislatures where you heard or saw some of these bills passed. The issue is a lot more
+complicated. And I think there's sometimes a tendency in the popular mind for people to
+think of, "Well, my insurance company, I pay them all that money and they're big and
+wealthy and how come they're not paying me my claim because I think I'm entitled to my
+claim." But this is, obviously, cutting across huge swathes of small- and medium-sized
+businesses in the United States. And the insurance companies neither price for nor
+underwrite for a pandemic-type business interruption insurance. And I think that the
+regulators, (technical difficulty) from their own knowledge of what their purpose is as a
+regulator, which is to protect the solvency of the industry so it can pay claims for
+everybody, I think there's just been more education going on. But as you know, there are
+some proposals that are being discussed to kind of come up with like TRIA type funds to
+think about as a way of providing some protection for business interruption or losses from
+COVID that aren't currently covered by business standard kind of ISO business
+interruption forms. For us, as we've indicated, we're not a big small- or medium-sized
+business insurer, we're very large multinational Fortune 100-type insurer. And in our
+markets, we've done a really deep scrub, and less than 1% of our property limits have any
+kind of contagious disease coverage, and even in those cases, it's mostly cleanup as
+opposed to like a true business interruption-type coverage. And a lot of -- in our market,
+like I said, we're going to be very much governed by the terms and conditions of very
+specific policies as opposed to subject to some of these lawsuits you're seeing in the
+small- and medium-sized business area where people are suing their insurer or trying to
+get expanded coverage terms based on maybe less-than-clear language in contracts and
+the rest.
+
+Michael Phillips
+
+{BIO 21023048 <GO>}
+
+Okay. In earlier comments here, we talked about the difficulties for the actuaries on loss
+picks on the P&C side. I guess, let's take that over to the Life and Retirement side. You've
+guided to some higher mortality rates in 2Q, 3Q for this year because of COVID. And I
+mean, I guess, to what extent does guidance on mortality take into effect maybe indirect
+impacts on mortality, so maybe like fewer car accidents or customers getting medical care
+because of backlogs because of COVID and things like that? So maybe any update since
+then on how things are looking and some ripple effects because of -- on the mortality
+side?
+Page 8 of 11
+
+
+
+Company N ame: American I nternational Group I nc
+Company Ticker: AI G US Equity
+Date: 2020-06-09
+
+Bloomberg Transcript
+
+FINAL
+
+Sabra Purtill
+
+{BIO 1764408 <GO>}
+
+Yes. Well, as Kevin commented on in our earnings call back in May, we put up a little bit of
+IBNR on our Life and Retirement mortality book because the reported experience that we
+have seen during the quarter was actually a little bit better than pricing, but we felt pretty
+strongly that just given the kind of suddenness of the illness spike in the United States
+that there was probably delays in some of the death reporting. And in fact, as we got into
+the second quarter, we have obviously seen an increase in the number of deaths that
+were related to COVID, still very manageable overall. I think others have, in the life
+insurance space, have talked about that as well. And obviously, people do -- various
+pandemic sensitivities and the rest, although, frankly, with the curve clearly having gotten
+bent some in the United States, so hopefully, we don't have to think realistically about
+scenarios where 4 million people die or something like that.
+But going back to your point, yes, in the first quarter, we had seen better than -- pricing on
+mortality. Second quarter, we've seen more, still manageable. But again, there's some
+serious suppositions around that what you're seeing in mortality from COVID because it
+does tend to be have a higher fatality rate for older people or people with comorbidities,
+so what you might be seeing, to some extent, is a front-ending of a death that might
+have occurred any, sometime in the next 3 to 5 years anyway. And I think that will be the
+interesting point to see. Clearly, like I -- as I mentioned before, yes, personal auto
+frequency is down, but severity is up. So while you still may see lower levels of deaths
+from auto accidents, we're still going to see those. And then the other area where we're
+watching very carefully is suicides. Historically, during periods of financial crisis, there is an
+increase in suicides. We certainly saw that during the great financial crisis, and we'll
+continue to monitor that. But that tends to -- obviously, that's not an immediate reaction
+to what we're in, right now, tends to come from financial distress and stress on that front.
+
+Michael Phillips
+
+{BIO 21023048 <GO>}
+
+Okay. Thanks.
+
+Sabra Purtill
+
+{BIO 1764408 <GO>}
+
+So all in, to kind of wrap a bow around it, I would say, we would still expect mortality
+experience for this year to be higher than last year, even if we do have some benefits
+from, say, like you said, lower automobile accidents and such.
+
+Michael Phillips
+
+{BIO 21023048 <GO>}
+
+Okay. Unfortunately -- I mean, we could go all day. Unfortunately, we've got to be a little
+conscious with time.
+
+Sabra Purtill
+
+{BIO 1764408 <GO>}
+
+Yeah, I know.
+
+Page 9 of 11
+
+
+
+Company N ame: American I nternational Group I nc
+Company Ticker: AI G US Equity
+Date: 2020-06-09
+
+Michael Phillips
+
+{BIO 21023048 <GO>}
+
+Bloomberg Transcript
+
+FINAL
+
+I mean we're close, so -- and that does stink. So let me kind of throw real quickly and let
+you take them where you want. Thoughts on, one, Fortitude, given the recent closure of
+that and any comments you want to make around that. And then secondly, comments on
+capital liquidity, I guess, especially in light of the debt raise that you recently did. So maybe
+those two quickly, if you want, and then we can kind of wrap it up. Thanks.
+
+Sabra Purtill
+
+{BIO 1764408 <GO>}
+
+Sure. On Fortitude, we are really pleased to have closed that in the second quarter. We
+were -- fingers crossed, we're hoping to get it done by June 30, and we managed to get
+it across the finish line a little bit early. I know there were some concerns because of the
+market sensitivity of the long-duration assets in that portfolio. Some people were
+concerned that maybe it wouldn't close, so we were pleased to announce that it did
+close. Just a reminder to everybody on that, it is a reinsurance transaction, so you will
+continue to see the assets and the liabilities of those companies on our GAAP balance
+sheet. We will need to make some revisions to our non-GAAP measure for adjusted book
+value because of the kind of asymmetrical accounting we have with funds -- withheld
+reinsurance. But we'll walk you through all that on the second quarter when we announce
+earnings. Then also, of course, a reminder, we only own 3.5% of it going forward. So
+effectively, in the third quarter, you really won't see any earnings from Fortitude going
+forward. And I know some people still have those numbers in their estimates.
+Yes. On the liquidity side, as mentioned, we started the year in a really strong position,
+more than $7 billion of cash and short-term investments at the holding company. Taking
+into consideration the sale of Fortitude and then the debt raise that we did, we have in
+excess of -- I think after the closing of Fortitude, we're above about $12 billion in liquidity.
+We will, obviously, use -- part of the funds from Fortitude are being put down into the Life
+and Retirement and the GI subsidiaries to support their risk-based capital ratios as well as
+their financial flexibility. And then with the debt raise, that was really a pre-funding of
+upcoming debt maturities. So we've got about $2.6 billion in debt maturing this year,
+including the repayment of the revolving credit that we drew down on the first quarter.
+Then we've got another $1.5 billion. So we feel that we're in a very strong financial position
+to both meet all of our holding company obligations as well as to have the financial
+flexibility with the Fortitude transaction to put a little bit of capital down into the operating
+subsidiaries as well.
+
+Michael Phillips
+
+{BIO 21023048 <GO>}
+
+Okay. Thanks, Sabra, very much for your time. With that, I think we're probably got to wrap
+it up. More meetings to get to for you, I'm sure, and everybody else. So thank you very
+much for the time, great comments. And I thank everybody else for attending in the
+audience. And Sabra, once again, thank you, and we will talk to you very soon here.
+
+Sabra Purtill
+
+{BIO 1764408 <GO>}
+
+Great. Thank you. Thank you all.
+Page 10 of 11
+
+
+
+Company N ame: American I nternational Group I nc
+Company Ticker: AI G US Equity
+Date: 2020-06-09
+
+Michael Phillips
+
+{BIO 21023048 <GO>}
+
+Thanks guys.
+
+Sabra Purtill
+
+{BIO 1764408 <GO>}
+
+This transcript may not be 100 percent accurate and may contain misspellings and other
+inaccuracies. This transcript is provided "as is", without express or implied warranties of
+any kind. Bloomberg retains all rights to this transcript and provides it solely for your
+personal, non-commercial use. Bloomberg, its suppliers and third-party agents shall
+have no liability for errors in this transcript or for lost profits, losses, or direct, indirect,
+incidental, consequential, special or punitive damages in connection with the
+furnishing, performance or use of such transcript. Neither the information nor any
+opinion expressed in this transcript constitutes a solicitation of the purchase or sale of
+securities or commodities. Any opinion expressed in the transcript does not necessarily
+reflect the views of Bloomberg LP. © COPYRIGHT 2022, BLOOMBERG LP. All rights
+reserved. Any reproduction, redistribution or retransmission is expressly prohibited.
+
+Bloomberg Transcript
+
+FINAL
+
+Bye-bye.
+
+Page 11 of 11
+
+

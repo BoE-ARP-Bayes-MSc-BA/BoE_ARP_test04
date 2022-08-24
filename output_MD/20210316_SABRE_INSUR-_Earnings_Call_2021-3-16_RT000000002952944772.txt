@@ -1,0 +1,1440 @@
+Y 2020 Earnings Call
+Company Participants
+FINAL
+
+Adam Westwood, Chief Financial Officer, Executive Director
+Geoff Carter, Chief Executive Officer, Executive Director
+James Ockenden, Chief Actuary
+Trevor Webb, Claims Director
+
+Other Participants
+Alex Evans
+Benjamin Cohen
+Faizan Lakhani
+Ivan Bokhmat
+Ming Zhu
+Nicholas Harcourt Johnson
+Robert Murphy
+
+Bloomberg Transcript
+
+Thomas Bateman
+
+Presentation
+Geoff Carter
+
+{BIO 20756770 <GO>}
+
+Hi, good morning, everyone. Thank you for joining us. Well I know it is a very hectic morning for
+some of you. It's almost exactly a year since we found ourselves unexpectedly during our results
+presentation via Zoom. Not really sure I've moved very far from this chat, since we did the last
+results presentation. Certainly, the first one (inaudible) shared in the last year. We're very much live
+and in person as you can tell probably are fine whoever speaks, while on mute.
+As we go through these slides we are very conscious that COVID is not just a claims frequency
+issue, there's been some real human impacts, some of which have impacted us here at Sabre as
+well. So I think it's important to keep our presentation this morning within that context. We're going
+to move through this fairly quickly, I'm trying to leave plenty of time for questions at the end.
+Though some other formats are normal and we have at various points given (inaudible) to our
+internal insurance's nerdiness.
+A few more of a speak in the normal as we don't have to run up and down to the podium. Myself
+and Adam will do most the presentation, Trevor will talk about claims inflation and James will talk
+about how we've gone through pricing. As we go through this presentation if there's any technical
+faults that you can't hear you got here are the screens aren't moving on. Please put that in the chat
+when we get to questions at the end. If you can use this for the hands up facility and Han Row,
+who's facilitating will open up your screen, will open up your camera and your mic to take
+questions.
+So, today's agenda the highlights financial results. We will as usual give you a fairly full view on
+market context as we say that. A little bit on our investment case and then a summary and outlook
+for next year. So our financial highlights, continued absolute focus on profitability. The key thing for
+us is being to maintain very strong foundations during quite a complicated and turbulent year.
+COVID-19 is clearly impacted our premium. On the flip side, we've experienced reductions in
+claims, in traffic and claim frequency. We looked to pass the benefits on to customers while pricing
+
+
+
+FINAL
+
+appropriately as we've seen, we do traffic ahead of us, but we have had residual benefits which
+gives us a loss ration benefit in this year. (inaudible) will talk about, reflects the quite a lot of moving
+parts actually in the year, which we'll talk about later in this presentation.
+We're very pleased to pay our full year dividend slightly complicated way of describing it this year.
+If you include the deferred special from last year is 21.2 if you exclude that 16 pence. SER coverage
+203% post-dividend, pre-dividend 155, post dividend very comfortably within our range. You can
+see on the right hand side, good net loss ratio, expense ratio slightly up mainly because premiums
+down, and the combined ratio very much in line with our long-term target.
+
+Bloomberg Transcript
+
+The operational highlights really supported customers and staff throughout this period. We've
+maintained pricing discipline as we've gone through this year. Our prices are up by in excess of
+10% in a market where previously probably been flat or slightly reduced. So we've maintained a
+strong foundation for future growth, which we'll come back to. We've covered long-run claims
+inflation. We've continued to optimize volume within our 70% to 80% combined operating range
+and we launched about five or six new rating factors during the year to ensure our price and
+sophistication remains at the forefront. We are continuing to expand our presence in the van and
+testing new ways of raising and some footprint expansion, now. The Saga opportunity has been
+inevitably delayed as we weren't able to get on site to test the new product, but we anticipate
+that, going live in Q2. As I said we've maintained very strong foundations for growth.
+The other activities, we've had a minor operational restructure that's really to allow us to
+accommodate the growth we see coming with a increase in our headcount which will benefit our
+expense ratio. We're in the process of test launching our new cloud-based rating and
+administration system to sit alongside our current setup. This allows us to test new products very
+quickly and very cheaply, we'll talk more about that later. We think, this gives us an ability to test just
+moving slightly sideways from our current footprint. We maintained all employees on full pay and
+we continue to pay raises and bonuses as we go into this year. All employees on work-from-home
+at virtually no additional cost. Very detailed plans in place to respond to the forthcoming regulatory
+changes which we'll describe in much more detail later.
+And as I -- I'm going to reiterate price increase in excess of 10% to ensure we are entering this
+year very fully funded. Finally, our roadmap to carbon-neutral is being developed and we'll publish
+more as we go through this year. COVID is clearly impacted in a couple of ways.
+Premium, we've looked to past back or to appropriately allow for the premium discounts as we
+enter this lockdown period and James will describe in more detail how we've gone through that.
+Premium is significantly down due to a lack of car sales. Young drivers entering the market. There is
+normally about 1.6 million driving test a year in the UK about a 50% cars [ph] rate. So a very
+substantial number of young drivers haven't enter the market this year or last year adding to this
+year. And clearly, car sales, especially second-hand car sales have been very limited. So they could
+have an impact on the availability of premium in the market.
+How quickly volumes bounce back will really depend on how quickly and will lock down loosens. We
+think April, the 12th is quite a key date when hopefully car driving tests can recommence and car
+showrooms open up again.
+The flip side, claims factors, short-term benefits, reduced traffic I think is well understood perhaps
+less well spoken about is that theft is not down by the same proportion. Launch of PI claim
+settlement had been significantly slower to settle. There have been delays of court and delays in
+obtaining medical evidence for obvious reasons. And we don't yet know how consumer behavior
+reacts as lockdowns ends. Really what does the new normal look like, is it 100%, is it 105, is it 85, is
+there some sort of curve as we go through the next few months, is probably one of the unknown
+factors.
+
+
+
+So our first highlights. I want to hand to Adam, who will go through the financial highlights.
+
+FINAL
+
+Adam Westwood
+
+{BIO 20481660 <GO>}
+
+Thanks, Geoff. Hi everyone, thanks for joining us remotely this morning. I'm going to run through
+the financial highlights for 2020. So, I'll talk through our results, focusing on premiums, claims,
+expenses and dividends. I'll try to highlight the impact that the unique market conditions during '20
+had on each. Our monoline model really allows us to present a straightforward set of results. So,
+test the slides. Great.
+So the headline premium of 173.2 million is down on 2019. It's largely due to our maintaining strict
+pricing discipline during challenging conditions in 2020 which is something I want to pick in the next
+few slides. Our combined operating ratio was in line with our expectation and the guidance we
+issued for the year at around 75%. Looking through that we'll see that's the result of a very strong
+loss ratio as an uptick in our expense ratio.
+
+Bloomberg Transcript
+
+On investment return, we've removed some of the volatility here by classifying the assets in our
+buy-and-hold portfolio at fair value through other comprehensive income. So, our investment
+return grew in 2020 onwards, reflects the effective interest rate on assets hold. Removing the
+temporary impact of market value movements. The return of 1.4 million is therefore effectively the
+long-term yield across our portfolio. Profit before tax of 49.1 million, remains primarily a function of
+our premium and income and combined ratio. With decrease in earned premium and slight uptick
+in combined ratio, follows that our profit is down in 2020, which consequently feeds through to
+earnings per share.
+We've made the decision to pay out effectively a 100% of our earnings as a dividend for 2020. The
+2020 dividend quoted on this slide firstly includes the 5.2p deferred special dividend in respect to
+2019, which was paid at the interim stage. After the payment of the year-end dividend our solvency
+coverage ratio remains very comfortable at 155%.
+So, I'm going to dig into a little of what's been driving on top line during 2020. Underlying all of this
+remains our basic philosophy. We'll chase profit not volume making sure we priced our policies to
+cover all the associated costs. Because of this, despite the temporary impacts of COVID we've
+continued to price in our long-term view of claims inflation. That's against the market backdrop of
+static or shrinking average premiums over the last few years. We still believe that a significant
+correction to market pricing is required.
+As you can see from this graph, which shows our price changes versus the market. (inaudible)
+during 2020, we did reduce our rates to reflect our assumptions of the temporary reductions in
+claims frequency during various lockdowns. James will give you a bit more detail on how we
+thought about pricing as the pandemic progressed. These discounts were always based on our
+best view of the cost attaching policies. We were never going to chase the market down. We
+believe that these discounts on new and renewing business were fair and proportionate without
+undermining overall profitability.
+We suspect that some in the market were discounting far more heavily particularly during the most
+severe periods of lockdown, which of course, have an impact on our competitiveness, our overall
+premium. But the relative levels of discounting weren't the only issue. This slide shows the relative
+levels of quotes for new policies received through price comparison websites versus the same
+point in 2019.
+At Sabre, we've always been skewed more heavily towards new rather than renewing business. So
+during those periods of low shop around during 2020, we think the less premium was available to
+us. All of which, means our premium during the year, bit like this. You can see that we started to
+build a little momentum during Q1 pre-COVID where rates appear to be hardening. Then during
+
+
+
+FINAL
+
+lockdown we saw a significant dip in our premium income. This recovered strongly immediately
+post lockdown, but then shrunk and restrictions were reintroduced. So we expect our dipping topline income to be explained through primarily a loss of competitiveness relative to the market as
+competitors policies were over-discounted, and a significant reduction in the events, which would
+normally drive new business towards us such as new drivers entering the market and car sales. It's
+perhaps testament to our competitiveness within the more specialist areas of the market that
+despite this, we retained our premium at 88% of 2019 levels across the year.
+Now, the other significant impact of the pandemic on our business, which was our claims
+experience. The headlines, our loss ratio is down year-on-year to 48.6%. Our expense ratio is up to
+26.7%. I'll talk you through our loss ratio first. We can spit it into the cost recorded in respect of
+accidents in 2020, which start currently a loss ratio, and the movements on our estimated cost of
+settling claims recorded in previous years, which is our prior-year loss ratio.
+
+Bloomberg Transcript
+
+On the current year loss ratio, this came in at 51.2% which is 11.6% below last year indicating more
+favorable claim experience. It's slightly this improvement was primarily driven by the reduction in
+claims frequency due to fewer miles traveled by policyholders in 2020. While we did discount new
+renewing policies in order to reflect these savings, the improve loss ratios came through largely on
+business written pre-lockdown or where with underestimates the benefits. Our reserved position
+continues to reflect our consistent long-term approach and allows for increased volatility on the
+latest claims.
+We move to the market slowdown settlement of personal injury claims, which is of course, also
+reflected in our reserves. The prior loss ratio benefit is relatively low compared to previous year's
+at 2.6%. We've always said that the benefit from prior years will reduce as our model normalizes
+and exceptional reserve releases drop away. I previously said that this would lead to a normal prior
+reserve benefit around 4% to 5%, which would largely reflect the run-up of risk margins and open
+claims. The prior year benefits lower than that in part, because we have modestly increased our
+provision to cover things like, increasing costs of providing care, particularly in respect of potential
+periodic payment orders but also affected by the large claims.
+Overall, our reserving methodology has been completely consistent with our views on the ultimate
+cost of claims representing the best data available at the right time. Onto our expense ratio, which
+is increased year-on-year to 26.7%.
+This next slide shows a simple bridge between the 2019 and 2020 position. You may recall that
+2019, is one of the cruel release of a little over GBP3 million, which obviously didn't recur in 2020.
+Otherwise, we face some cost pressures from increasing industry lobbies, increases an audit costs
+and the cost attached recruiting new members to our Board. Although we've largely offset these
+costs by keeping a tight control over our core expense base. The main route driver of our increase
+in expense ratio is the reduction in our income. While we have a significant elements of variable
+costs, but dipping premium will always have an adverse effect in our expense ratio.
+We've maintained our staffing levels on full pay throughout the pandemic and the rewarded our
+staff with bonuses during the year despite the decrease in volumes. We're forward looking, so
+capital to manage the risk of overwhelming operations should growth surge back as it has done in
+the past. Moving slowly remote working has been broadly cost neutral with a small cost attached to
+running additional service negated by lower cost of running the business during the year. I should
+also add that we haven't taken advantage of any government assistance during lockdown.
+I've added this slide to help observers when trying to compare expense ratios across the market.
+Our expense ratios all in, as we're relatively small monoline business, there's no way to hide our
+costs. All of our costs including head office expenditure, shares gain expenses, marketing costs
+and commission are wrapped up in our expense ratio. This next slide shows our allocation of
+invested access at the year-end. Our new asset management relationship with Goldman Sachs
+was timely given the economic turmoil persisted throughout 2020.
+
+
+
+FINAL
+
+During the year, we step carefully into a more diversified, but still very low risk portfolio of assets.
+The highly-rated corporate and government bonds performed well during the air with no
+significant downgrades or losses. Our strategy centers on capital preservation in our investment
+portfolio, while attempting to earn a reasonable yield on the low risk assets. The way we record
+income and investments that's a little different this year. As I mentioned earlier, because we
+generally hold all our assets to maturity, the amount recognized in profit is the effective interest on
+those assets, which is reflected for the yield to maturity.
+Short-term market value fluctuations in the bonds are now taken below the line. Whereas in 2019,
+all fair value movements were taken through profit. Dividend, our approach continues to be to
+return excess capital shareholders with that access being defined with reference to our current
+circumstances, while keeping the post dividend period end capital in a 140% to 160% range. This
+year, we've chosen to payout 100% of our earnings which takes us a little way into our capital
+range, but still leaves us, plenty of headroom. Our full year dividend excluding the deferred 5.2
+pence with respect to 2019, is 16 pence per share.
+My last slide is, one-off trend in the past, our capital position over time. As you can see we remain
+strongly capitalized. As we generate excess capital very quickly, our capital position is tended to
+exceed our preferred range. Mainly because of the time between calculating the capital available
+to fund a dividend and paying that dividend. We continue to aim to hold post dividend period-end
+capital in the 140% to 160% range and with the post-dividend capital distribution of 155% at year
+end. We're very comfortably inside it.
+
+Bloomberg Transcript
+
+Thanks. And now back to Geoff.
+
+Geoff Carter
+
+{BIO 20756770 <GO>}
+
+Thank you, Adam. I'll just grab back control of the screen.
+
+Adam Westwood
+
+{BIO 20481660 <GO>}
+
+Okay. We are as usual going to give you our views on where the markets at. For these first few
+slides, I will drive the screen and James will talk. So we're going to go down in screen. Next slide,
+please. Approach. James, you all have to pick up.
+
+James Ockenden
+
+{BIO 20485926 <GO>}
+
+Sure. Morning, everybody. Okay. So we thought use this morning a bit of an opportunity to kind of
+describe how we went about pricing during 2020 with respect to COVID-19. So this is COVID-19
+specific as opposed to the underlying kind of claims inflation. But I guess it's important to reiterate
+what Adam said which was that we kind of -- we stuck to our knitting in terms of our pricing
+discipline. And when the lockdown struck in March 2020, what we've got here is a chart which
+shows our volumes, premium volume, the yellow bars. And then we've taken the government
+traffic volumes as a starting point. And if I can have the next slide, we were looking to predict what
+would happen based on what we could see so far. So, I think it's fair to say, the lockdown started
+and we entered the first couple of -- the first week in April, the first thing we didn't do was have a
+knee-jerk reaction. We stayed firm, collected some data from both models to take a view based
+on the information that was out there, as to how we think we're going to price going forward.
+Because clearly, we were pricing a policy at this point for the next 12 months and with quite a lot of
+uncertainty around what was going to happen and what we could see was the traffic volume is
+down.
+So I guess this first yellow, the first yellow line shows what we thought would happen to relative
+traffic and that was one of the inputs we use to get into our premium calculation appreciating again
+as the guys said that you've got things like fraud, you got things like theft not reducing during
+lockdowns, and then you've got this kind of knock-on effect on claim severity, increased severity
+
+
+
+FINAL
+
+costs potentially owing to COVID. So this was really just a starting point as to how we were thinking
+about how frequency might turn out, as of April 20. We can have the next slide, please.
+So you can see this is the government data and how things started to evolve. So actually we didn't
+get it too bad actually. I mean we undercooked a little and you can see the volumes really came
+up, but on average over the period we were kind of in the right ballpark. And then I think as more
+information -- we unlocked over the summer -- more information became available and at that
+point, I mean things were kind of going back to normal. I think if we go on another slide. Thank you.
+We then kind of saw schools went back, traffic was as nearest to normal as it had previously been.
+But then obviously we had the announcement that would be going into a lockdown during
+November and December -- halfway through November to December and we could see, we took
+an estimate at that point as to what would happen and you can see our estimate wasn't too in line
+with the government, actually what happened with hindsight.
+
+Bloomberg Transcript
+
+So you've kind of got November and December kind of up and down, with December up because
+you've got a Christmas effect wherever we knew everyone was going to be allowed out for
+Christmas so to speak, so we thought the time turns out, they went out and -- as long. And we
+took of view at that point that as that December that we -- which is the view that we didn't know
+we were going to go into a full lockdown from first part of 2021. But we had a feeling that we
+weren't going to certainly return to normal. So we took a view on where the traffic was going to be
+and where that would impact claims numbers and therefore, reflected that in the premiums. So if
+we got the next slide, please.
+Actually, what happened was then as we got the new information that we would be in a lockdown
+we redid the pricing. So each of these kind of iterations is a summary point of different iterations of
+pricing and as soon as we found out we were going back into a full lockdown from the beginning
+of January effectively we changed our assumptions around the pricing. And I guess this really
+reflects one of our of our most recent assumptions around pricing, which is we think we'll be back
+towards what I would call normal, whatever normal looks like around the June, July mark this year.
+But -- and so far I guess it's showing with our modeling hasn't been a million miles out in terms of
+the shape with respect to the actual observed traffic volumes. I think what we're kind of assuming
+is the unwinding of lockdown measures we saw over last summer is going to be very similar in
+terms of behavior, in terms of traffic volumes. But like I say, we -- our expectation based on the
+information we have from the government and (inaudible) is that we'll be back to normal by -around about July. And so in terms of traffic anyway, sorry.
+
+Geoff Carter
+
+{BIO 20756770 <GO>}
+
+Thank you James . So James has totally master degree and I don't. So he did those slides. Mine
+was a simple summary (inaudible) applied very scientifically valid discounts in a cautious way for
+limited periods. That price is reflected in declines by lower policy life not current profitability. Some
+portion was benefited this year is loss ratio and our view is over discounts are not optimistic
+assumptions that have very severe long-lasting but quite slow to emerging back and we've been
+very keen to avoid that risk.
+I guess some for those you who known us for a few years, know we expect to shrink and grow in
+various market cycles. On here you can see our year-end policy numbers in the GWP. I think our
+view is that COVID feels like it's extended, the down part of the -- the weak part of the market
+cycle by around a year. We see no reason why that market isn't going to turn. We saw very strong
+evidence at the start of this year of market rate increases like to come through. So if we look back
+on, we're just over here. We're putting through quite a lot of price discounts and our volume was
+holding very steady. So very clear indication at start of this year the market price increases coming
+through. Clearly that all got stamped on when lockdown came in as market prices shrunk again.
+We've seen some fits and starts attempts and to re-increase rates. But fundamentally, it doesn't
+seem to have happened in the market. Within there is a risk the claims frequency benefits in this
+year's P&L blind competitors. The some of the underlying claims cost increases or our race to
+behold lower for longer.
+
+
+
+Bloomberg Transcript
+
+FINAL
+
+To reiterate traffic reduction is not directly proportional to claims cost, because of things like theft
+claims. So we firmly believe that for many competitors rates need to adjust pretty sharply upwards
+in the near future. We have already dusted down our sort of scales of inflation versus deflation, for
+the eagle-eyed amongst, you will spot this looks almost exactly the same as last year already.
+COVID relating adjustments, suppress changes happening. We're going to talk through these little
+bit in detail. And for the first one is Trevor, you're going to talk through the claims impacts, if that's
+okay.
+
+Trevor Webb
+
+{BIO 21909270 <GO>}
+
+Thanks Geoff, and good morning, everybody. So overall our view of inflation remains pretty
+consistent in that bucket of 7.5% to 8%. I guess what I would say is missing from this slide is the
+impact of theft in terms of severity. But as we've outlined both from Geoff and from James, theft
+remains an issue in terms of frequency. But main drivers are around first and third-party property
+damage inflation of 10% to 12% and I'll unpack that in a couple of slides that I'm going to go
+through and we've also got personal injury severity inflation of between 5% and 6%. And I guess if
+you think that in terms of general damages that viable to the valuation of the judicial college
+guidelines came out at the end of 2019 and that had 7% impact in terms of inflation there. So I think
+overall these things tied together. We'd expect to see our competitors in a range around our
+numbers. Thanks, Geoff.
+Okay, so just sort of looking at what's happening around Bent Metal. We're seeing increased cost
+of parts. I'm just going to take you through some examples in the next couple of slides. We also
+believe that there are still to come potential post Brexit impacts on the, obviously at the moment
+we've got significantly reduced volume. So the full story isn't yet unfolding. There is greater use of
+credit repair models by our competitors. So over the last couple of years we've probably seen
+something like 25% increase in the proportion of claims that go through a credit repair model
+versus a normal insurance subrogated model. And of course costs under a repair or under a credit
+repair model are higher than the traditional costs and we're seeing higher levels of inflation there.
+And increase on repair cost is driving an increase in total loss valuations. Now, we look to combat
+these inflation factors by managing our own damage claims in our network alongside our partner
+Innovation Group. And of course, we're looking to control third-party cost where we can really to
+mitigate the industry driven increases. Thanks, Geoff.
+So with Innovation Group who manage both our first notifications, loss facility and our repair
+network, we enjoyed a material increase in terms of the buying power that we would have stood
+alone. So I'd like to thank them for some analysis that they've provided to support this
+presentation, really by providing some detail in relation to repair costs across the basket of vehicle.
+So what we've done is we've taken the most popular car makers and the list is there really just to
+look at how the cost of commonly damaged parts has been moving over time. So if we look at the
+first one, please Geoff. So this is the average cost of a car park for those top 10 manufacturers and
+you'll see between 20, 20 and 2019 we had an 8% increase with a significant increase across 2017
+to 2018. So, this is year-on-year increases that we've seen for a number of years now and these
+are parts that need to be fitted to these common vehicles.
+So we've broken this down in the next slide between, we take a right headlamp. So this is typically
+a component that will be damaged in a folk accident. So where a vehicle may have gone into the
+rear of another, this headlamp technology has moved on the increased costs. Last year, we saw an
+increase in excess of 17% in terms of the average cost of that component. Then if we look at a folk
+accident, so a rear bumper where we're clearly we gone into the back of somebody, again inflation
+on that component of almost 10% across that average jump basket of vehicles. Thank you, Geoff.
+So we're facing into some other premium inflation factors. We finally got the rules over 100 pages
+of rules and practice directions in relation to the Civil Liability Act and the changes to Whiplash. So,
+we now know that it will be implemented from the 31st of May this year on an accident occurrence
+basis. So accidents on or after the 31, May will be subject to the new rules and the new tariff.
+
+
+
+The original estimate was that there will be savings of circa 30 pence per policy in relation to cost
+savings from the introduction of the new Whiplash reforms.
+
+FINAL
+
+Our hans [ph] view is currently we believe that benefit will be materially less. That's partly due to
+the fact that there has been improved personal injury claims experience in terms of frequency
+across the last few years and that's prior to the COVID. So we were seeing a gradual reduction
+generally in terms of AI frequency.
+I think a word of caution however that it was going to be some time before impacts can be
+properly confirmed and assessed. These claims do take some time to settle and therefore, it's
+going to be a year or two before we're getting a good idea in terms of how severity is looking and
+frequency is looking in relation to these Whiplash reforms.
+So we're continuing to see significant ongoing claims inflation. As I said previously, our current view
+is between 7.5% and 8% driven by increased costs due to technology in the newer vehicles and
+more of a push in terms of credit repair models. If current dynamics continue we see no reason
+why they shouldn't, then we do anticipate with there would be competitor margin squeeze. It may
+now be a significant market turn, whilst we don't know exactly when as claims frequencies return to
+a normal position on claims inflation, which is always been there and through we think that will be
+putting pressure on the market rates. Thanks, Geoff.
+
+Bloomberg Transcript
+
+Geoff Carter
+
+{BIO 20756770 <GO>}
+
+Thanks, Geoff. We've discussed in previous sessions that clams inflation's only really one part of
+the overall cost inflation. There are some other things going on. The first is the MIB levy. The MIB
+are that is going to increase due to the (inaudible) the recent Supreme Court judgement on the
+(inaudible) suggest that we may be not picking up those liabilities through MIB, but there work to
+go on how that works and indeed when that cuts in. MIB has also taken up the operational costs of
+being MOJ.
+The FSCS levy doesn't get spoken about so much. But it's quite an important factor. There's 100%
+increase in general insurance levies this year and it's not a particularly small number, there have
+been several insurance companies, five years and I suspect there may be other periodical insurer,
+five years to come. Clearly impacts different issuers in different ways. I guess a higher volume low
+margin issuer may take more time through this process is just part of our overall cost inflation
+assumptions. A big thing is the FCA pricing review which I know has been spoken about many
+other sessions. I think everybody is aware that this effectively bans price walking between new
+business and renewals. I am not hearing much industry pushback on the fact these reforms would
+come through. I am hearing quite a lot of pushback on the timescale. I guess our view is that
+shouldn't be that long needed. What's been proposed has been known for quite some time as a
+potential solution.
+We believe there is a real risk of some insurers operating, something about how maybe strategy
+to just track the ball forward along way to build the portfolio as much as possible before the FCA
+reforms come into place. It's a last trial [ph] to try and build a book before the new business where
+all price has come through. We suspect that may come in to the market. Some people might
+execute that well, others may be forced into copying may not executed so well. We don't intend to
+indulge ourselves in that going. On the reinsurance cost, reinsurance cost increased at 31.12 as you
+know where our reinsurance renewal is mid-year. (inaudible) about 5% increase besides price
+depended on your own claims experience.
+I think we would agree with some previous comments that the value, on the lower levels is looking
+a bit shaky. So we will think about how we know what strategy as we go into this half year, but we
+won't make any fundamental changes to our approach.
+
+
+
+FINAL
+
+Bloomberg Transcript
+
+This I think is perhaps one of the key slides actually in the presentation. We've decided to steer our
+own path. I think it's fair to say as we've come to through this COVID impacted period. We decided
+not to follow people down the rabbit hole of choices, reduced volume by over-discounting
+premiums. We believe that leaves us in a very fully funded position as we sit here today. If we think
+about the tailwinds that might swing in over the next 12 to 18 months, it reflected on here what we
+think will happen in market and how that may impact us. This is not necessarily in date order, we
+don't know when these tailwinds kickoff. But some of the things that we think will have to happen
+here. Some competitors already have Whiplash MOJ reform discounts in their prices. We have not
+yet fully put our employees, so we have some amendments to make on that.
+Many competitors most still have some pretty big COVID discounts to unwind as James described
+we haven't really done that. We have a very minimal amount of discount from wan [ph] from this
+position as quote volumes increase and we hope that start coming from April the 12th. We should
+benefit from that increased volume coming through the market from car sales and new drivers
+starting to take driving test again. We do believe there is a significant market pricing correction
+needed we don't need to do that. We need to cover ongoing claims inflation in a disciplined way
+we don't need to correct. And as I think probably most people on this call know we don't
+differentiae price between new and renewal business.. So as the FCA pricing impacts come in that
+does involve market new business price increases we don't need to do that. We can hold our
+prices. So generally across this line, we would expect to see our competitive position improved as
+a next period goes by because we've been very disciplined in maintaining proper, effective fully
+funded pricing through the last year or so.
+I want to spend just a few minutes talking about the investment case. I'm very conscious many of
+you have seen this before. This first slide continues to be our key principles maintain a wide
+underwriting footprint at the moment, we're quoting for I think around 99% of risks in the UK. So
+anyone coming to a price comparison website can expect to see a price -- or a consistent margin
+approach. Market-leading underwriting footprint. So we're continuing to target in mid 70s
+combined. Strong cash returns and controlled growth across the market.
+Average quality premium last year was over GBP2,000 and written premium was over GBP1,000.
+So we maintain our slightly non-standard positioning. The largest premium last year, interest and it
+was over GBP30,000 for one risk and we had several premiums over GBP20,000 on the other
+side of the claims, our lowest premium was GBP150 then we had a lot of those as well. So we're
+very happy to write premiums very high or relatively low, add a consistent rather consistent margin.
+I'd hope we've managed to demonstrate our (inaudible) after three of these principles. The one's
+we're looking forward to demonstrating now is the control growth across the market, which we do
+believe is coming. Our pricing approach we put this in last year the Bullseye for us in stable market
+conditions is 75% combined. I think we were quite clear last year in a soft market with right tools to
+right hand side of this graph and we were prepared to write much near 80% combined. We only
+really expect to be below 75% where we've been able to either some good news as conflict,
+unexpected good news where we've increased prices because growth is outstripping ability to
+operationally handle that.
+Absolute focus on profitable business. With a key thing here is our combined ratio has been very
+consistently outperform the market for a very long time and we don't intend to upset the apple
+carts on this because of the slightly complicated year that we've just been through. I think
+important on our profitability, it goes up and down in a range, but we avoid boom and bust, so if
+you look at our profit here the bottom line you can see it reasonably smooth, it goes up and down
+a bit, but we're looking to maintain a regular flow of dividend and a sustainable traffic going
+forward.
+Adam mentioned, our (inaudible) is capital as we described before, we really focused on lots of
+profit. We have a prudent use of insurance, a low-risk investment portfolio and consistent
+preserving when we see bad news coming through claims cost will reflect that very quickly
+
+
+
+FINAL
+
+reserving. We won't shy away from it all, kick the can down the road on that. Well, I will do it in flow
+was Adam says, up and around 100% of earnings. We've been very clear that we're prepared to
+use our capital ratio to support the dividend in weaker parts of the cycle, clearly as we go through
+'21 and '22 we'll be only through lower premiums and we're absolutely compared to look at using
+our capital range to support the dividend as we go through that period.
+These are competitive advantages. High-quality underwriting always going to be at the center of
+our business. We have data lake full of the data that we have collected in a consistent way over the
+last 18 or 20 years. We use cutting-edge data enrichment, sophisticated pricing models and the
+scientific taking the human impact and subjectivity out of our pricing models. Cost advantage as
+Adam has described, we outsource where it's beneficial but we're very happy to invest in things
+that make a difference, we invested a lot of money in price enrichment and we've maintained, and
+intend to maintain our headcount and claims ahead of that anticipated growth despite the fact we
+have excess capacity at the moment.
+
+Bloomberg Transcript
+
+Distribution split between brokers and direct we get the best of both worlds. We are channel
+agnostic where it comes when we make effectively the same profit either one [ph] This is a bit of
+personal bugbear for me, if I'm being honest. This is some stuff that I've cut and pasted from
+some recent sales pitch documents (inaudible) automated underwriting, state-of-the-art pricing,
+data lakes, technology, automation, lightning fast speed, API links. It all sounds very good and very
+modern.
+I do wonder whether people think we set about with scrolls and quills when we do our
+underwriting, the point here is we do all of these things as well. And I guess we had the additional
+element that we have got a proven ability of a many years to make a profit as well. Growth, we
+really thought the 2020 will be the start of the growth phase for us and the first month to
+reconfirm that with the price increases we saw in the market. As we described COVID as help back
+that (inaudible) I guess everything we describe says we are pretty confident growth is on the
+horizon, the timers like be uncertain, but it is coming.
+We see growth being driven by two main pillars and potentially supported by two others. And
+important within this any growth initiatives have to fit within our dividend focus strategy. We won't
+undermine our ability to pay dividends to attract growth.
+So this is our sort of pillars and our focus pretty much works from left to right across these pillars.
+The key thing for us is to optimize and maximize what we already done in our existing products.
+The second column is product expansion. We described that we're looking where we are rolling
+out some value changes this year. We have other thoughts on some product enhancements and
+some product -- adjacent product development later this year.
+Going forward we probably expected to research and test and potentially launch two new product
+adjacent initiatives a year. To the third column, if you identify opportunities we have don't the
+skillet, but prepared to think about recruiting people to help us with that,. But the DNA of those
+people and their culture must be completely aligned to what we do.
+And last and in this place definitely least is M&A, with better look at M&A, but it must be good
+value and it must be complementary and supportive of our wider strategy. So our growth strategy
+very much from left to right across these pillars.
+So the wrap up, on the summary very focused on our long-term strategy we haven't amended and
+we don't intend to amend it. We believe growth is coming in foreseeable future. We describe the
+tailwinds exactly when they start to flow with a little uncertain, we're pretty confident coming this
+year. In the meantime, we're confident we can maintain our profitability, natural variation, the
+absolute level of profit as volumes flex and our pricing discipline over the last 12 months has given
+us a very strong foundation to continue to pay dividends and take advantage of growth.
+
+
+
+So by some fluke that was exactly 45 minutes. I mean now have time for Q&A. If you can use the
+Raise Hand function. Han will open your mic and individual camera, if you happy to be seen and
+we'll happy to take any questions.
+
+FINAL
+
+Han, over to you.
+
+Questions And Answers
+Operator
+(Question And Answer)
+Hi, Geoff. So first question will be from Ming Zhu.
+
+A - Geoff Carter
+
+{BIO 20756770 <GO>}
+
+Ming, hi, can you hear us? Any help? Ming, I think you maybe on mute?
+
+Q - Ming Zhu
+
+{BIO 17001429 <GO>}
+
+Bloomberg Transcript
+
+Hi, good morning. Thank you for the presentation. Just three questions for me please. Since you've
+already increase your price more than 10%. How come you still got in the combined ratio in the sort
+of a mid-70s target for this year and I thought that is really a long-term target given, where we are
+now with the lockdown. I was expecting things could be better than that.
+And the second is I think previously you've commented that your customers are not that pricesensitive. So given your top line and challenge last year. I just want to get a color in terms of the
+non-standard risk target market has that thought shrink a little bit? Is that weather challenges?
+And also my third question is, what is really a normal level of reserve release going forward? Thank
+you.
+
+A - Geoff Carter
+
+{BIO 20756770 <GO>}
+
+Okay, I'll take the second. I don't even seeing a lot and maybe James you can comment on
+reserve releases. So I think on the price sensitivity I mean we said at IPO. We thought around threequarters of our portfolio at that time was non-standard. If you look at what's happened to
+premium, we are pretty much have ended up around that sort of level. So we don't believe, we
+really lost any competitiveness in non-standard area at all. As we expected, we didn't have a
+competitive moat around the non-standard stuff and we tend to lose business in the more, the
+more mass market area and I think that's pretty much what's happened over the last year.
+Adam, you are going to talk about the COR target.
+
+A - Adam Westwood
+
+{BIO 20481660 <GO>}
+
+Yeah, certainly. So if you think back to the end of 2019, we came into 2020. Writing towards the top
+end of our combined operating ratio range in a relatively soft market. And as Geoff said that that's
+where we will place (inaudible) ratio talking to that point. We have increased prices over the year,
+with the goal that we can meet the inflationary costs that apply to that, we haven't necessarily
+stepped back down the combined ratio range. Overall notwithstanding some of the benefits that
+comes through from claims frequency from COVID for example. So -- and of course what we have
+done to various points during the year is make sure we've discounted in what we expect the claims
+frequency benefits might be. So on that basis, we wouldn't necessarily expect a significantly better
+combined ratio than one which you might have in a normal year, but nor do we expect our
+combined ratio to be at the top of the 70% to 80% range, as it might have been where we not to
+be in the situation that we currently are.
+
+
+
+A - Geoff Carter
+
+{BIO 20756770 <GO>}
+
+Yeah. Thank you, Adam. James, do you want to say anything on reserve releases?
+
+FINAL
+
+A - James Ockenden
+
+{BIO 20485926 <GO>}
+
+Yeah. I mean, I think as Adam has been saying for quite some time. We have been expecting
+exceptional releases to come towards an end at some point, they can't carry on indefinitely. I think
+it's very -- I think if I had the exact answer of how big the releases are going to be going forward,
+that's probably would've been a job, but the I think it's fair to say that we said that reserve
+releases would start to reduce, that may have reduced slightly more than expectation, but not
+outside of the realms of acceptability in terms of the how volatile they can be.
+
+A - Geoff Carter
+
+{BIO 20756770 <GO>}
+
+Yeah.
+
+Q - Ming Zhu
+
+{BIO 17001429 <GO>}
+
+Thank you.
+
+Operator
+The next question is from Nick Johnson.
+
+Bloomberg Transcript
+
+A - Geoff Carter
+
+{BIO 20756770 <GO>}
+
+Nick I think you're there?
+
+Q - Nicholas Harcourt Johnson
+
+{BIO 1774629 <GO>}
+
+Good morning all. Two questions. I think Firstly some of the peers are talking about increased price
+sophistication. Just wondering how confident you are that the loss of competitiveness, you seen in
+2020 is general pricing adjustments in the market or and not increased sophistication by some of
+the peers? That's the first question.
+And the second question on capital ratio. I think you said in the past that the capital requirement is
+forward-looking. So just wondering what level of growth is baked into the capital comment that
+you've got at the moment? Are you seeing a return to pre-COVID income in your capital comment
+number or are you seeing some additional growth as well? Thank you.
+
+A - Geoff Carter
+
+{BIO 20756770 <GO>}
+
+If I take the first one and then James you can chip in and Adam, second. I think on price
+sophistication we are about standstill. I feel -- start to introduce Matt Wright, he is our Deputy Chief
+Actuary, who with James spends really the majority of their time looking at how we can stay ahead
+of the market on pricing sophistication. We test a lot of data on a regular basis, which has new
+techniques. So I'm very happy that sophistication is not where it is and I think it's pretty mindset
+because the difference where our mindset is profit first, volume second and that's how we set
+ourselves up. So James, you -- say anything else on that.
+
+A - James Ockenden
+
+{BIO 20485926 <GO>}
+
+Yeah, I mean I kind of echo Geoff's comments. I think that I mean if we -- what you guys don't see
+in the background is us wearing away on these kind of R&D trying to find new things. So our data
+scientists is forever trying to beat the current approach and we are implementing little things on
+the side that you guys don't necessarily see and we don't necessarily chants about. Similarly is
+related to the presentation. I mean, we just at last year we deployed our single biggest week,
+deployed five to six factors, one of which was a single biggest rating factor change in terms of we
+
+
+
+FINAL
+
+think it's very exciting and it was the biggest rating factor we've implemented for probably four,
+five years.
+So I think there's no question in my mind that we continue to develop and challenge ourselves and
+find new ways of differentiating risk and that can go away from the traditional approach to rating. I
+think what we're seeing is as we have seen in previous cycles is quite a lot of the rationality in the
+market and as we've tried to stay we've -- as in my slide show, we try not to look too far ahead
+because otherwise we just be chasing the market down. We're basically emphasizing on the data
+and the information we have at the time. And being influenced by things like what the government
+telling us are going to happen rather than kind of, if last April we have taken upon and reduced our
+rates significantly. Yes, we do written more volume up, but we wouldn't have known that, there was
+no way of knowing it would have been upon, and that's not really the same way.
+
+A - Geoff Carter
+
+{BIO 20756770 <GO>}
+
+Yeah, thanks James. And then Adam, you were taking about the capital and the growth --
+
+Bloomberg Transcript
+
+A - Adam Westwood
+
+{BIO 20481660 <GO>}
+
+Yeah, I think we've been fairly open that we don't know exactly when the market will turn but we
+expect it to turn at some point. I think the key thing here is we've still got a lot of capital headroom
+and we would be very comfortable moving around within the range that we've currently got in
+order to fund that and the capital strain generated through growth is, there is some but it's not as
+substantial as it might be say our combined ratio was a lot higher. Because the business horizon is
+profitable it sort of self-funding from that perspective. So we've (inaudible) ourselves enough
+wiggle room that. We weren't necessarily need to constrain growth because of where we are in
+the capital range. But I suppose the development of how our premium looks will depend a lot on
+what happens throughout the rest of this year.
+
+A - Geoff Carter
+
+{BIO 20756770 <GO>}
+
+Thanks Adam.
+
+Q - Nicholas Harcourt Johnson
+
+{BIO 1774629 <GO>}
+
+Thanks very much.
+
+A - Geoff Carter
+
+{BIO 20756770 <GO>}
+
+Thank you, Nick.
+
+Operator
+The next question is from Ivan Bokhmat.
+
+A - Geoff Carter
+
+{BIO 20756770 <GO>}
+
+Ivan, are you there? Yeah, here you are.
+
+Q - Ivan Bokhmat
+
+{BIO 15378004 <GO>}
+
+The question is -- it's a couple actually. The first one would be on the expense ratio and on the
+degree of fixed versus floating costs. Let me say your quoting volumes have been much lower, but
+it didn't seem to brought a lot of -- a lot of benefit to the expense ratio. And secondly, it's just on
+the capital efficiency. I've noticed that if we, look very simply and divide your premiums by your or
+divide your SCR by your premium volumes, that capital intensity has increased quite a bit
+throughout 2020. Could you maybe give us a bit of an outlook on how your capital generation
+going forward should look like? I mean, is it going to be further increase in capital intensity or other
+any one-off that you would quantify? Thanks.
+
+
+
+A - Geoff Carter
+
+{BIO 20756770 <GO>}
+
+Thanks, Ivan. Not, give you time. Adam, I think you're taking those two straight away.
+
+FINAL
+
+A - Adam Westwood
+
+{BIO 20481660 <GO>}
+
+No problem, Geoff. Thanks. Thanks for the question. Expense ratio, yes, we still have a pretty high
+proportion of variable costs. If you look at the slide, I presented earlier it separates out the
+commission element which is almost entirely variable. I think that was around 8.6% of the total
+expense ratio. Beyond that, we do have staff costs, we do have property costs and other
+overheads of running the business. It's a sort of back of the envelope calculation to get to how
+much of that remaining product costs is for the variable.
+
+Bloomberg Transcript
+
+I think it's fair to say where we not in the situation we are where, a big proportion of our costs is
+variable, our expense ratio might have looked somewhat worse with the level of premium decline
+that we've seen over the past few years. So while we've seen the expense ratio tick-up by a few
+percent. I think there has been relatively resilient given the fluctuations in volume and it's entirely
+within the realms of what we would have expected. There have been some structural cost
+increases due to being a listed company, which (inaudible) times would have been swallowed up
+by premium increases which happen in the current situation.
+On capital efficiency, It's really a question, we have seen an increase in our capital requirement
+throughout 2020 largely that's been driven by the revisions to the investment portfolio. So bonds
+coming in presenting spread risk and a slight increase in the term-risk on interest rates, all of which
+have been designed to increase yield to an acceptable but still address relatively low level. But at
+the same time not generating any actual increase in our view of what the downside risks might be
+upholding those investments. So that is a genuine one-off I suppose that will move around a bit
+depending whether we're in our outs of certain bonds, but generally we've taken the hit to our
+capital to put in that new investment portfolio in place other than that we might have expected
+capital requirements to shrink a little as we shrunk in size.
+
+A - Geoff Carter
+
+{BIO 20756770 <GO>}
+
+Thank you. Ivan, anything else, or is that okay?
+
+Q - Ivan Bokhmat
+
+{BIO 15378004 <GO>}
+
+Thanks. That's it.
+
+A - Geoff Carter
+
+{BIO 20756770 <GO>}
+
+Thank you much. There's a question that's come through on the chat facility from Charlie Beeching
+with KBW. One is about what do we expect to happen to claims frequency pre and post COVID?
+Could there be an impact on customers driving more than previously as lockdown eases? I think
+this is exactly the big question. What does the new normal look like? At the moment for one to
+many better data. Whereas even the new normal looks like the old normal. Clearly, we'll be
+tracking that very closely as we see how lockdown loosens. There are theories that people might
+work from home one or two days a week that could have a decrease on frequency. There maybe
+more driving at weekends. There could be driver at different times of day. What James and Matt
+will be doing is tracking that data very closely and adjusting our pricing as we see reasons to move.
+The second question here is the market impact. Do we expect any significant market consolidation
+as much as deteriorate. I think we know that some insurers and some distributors are having a
+tough time. We've seen some M&A already in the recent past. There may be some more to come.
+I think it's interesting if you look at the public companies like (inaudible) who presented very strong,
+very good companies, there are other companies out there who are not so well capitalized and
+maybe don't have the same sophistication. So I think it's wrong to judge the market just perhaps
+on add more direct line and that's probably non-standard approach to life so there could be
+impacts that come to --
+
+
+
+Operator
+Next question, Geoff, is from Ben Cohen.
+
+A - Geoff Carter
+
+{BIO 20756770 <GO>}
+
+FINAL
+
+Ben, hi. You're coming through --
+
+Q - Benjamin Cohen
+
+{BIO 18668171 <GO>}
+
+Yeah. Hi, there. Can you hear me?
+
+A - Geoff Carter
+
+{BIO 20756770 <GO>}
+
+We can.
+
+Q - Benjamin Cohen
+
+{BIO 18668171 <GO>}
+
+Bloomberg Transcript
+
+Yeah, good. I just wanted to go back to slide 12, please on the sort of the quote ability that you
+have. I just wondered to the extent that the sort of the further deterioration started this year
+implies that the market is even more competitive than it was through last year whether there's a
+sort of a year-on-year effect. And I suppose just more generally then, ass you start the year how
+much are your premiums actually down. I think there are some later slides that imply that the
+premiums are also down year-over-year and it is this simply capturing the lockdown impact? Thank
+you.
+
+A - Geoff Carter
+
+{BIO 20756770 <GO>}
+
+Yeah sure. So net income we really happy to talk about the start of this year. In the full RNS, we've
+spoken about that we've had to run hard to maintain about 20% drop year-on-year. An important
+clarification is that's against a non COVID period. So the COVID impacts didn't really start to kick in
+until just around now last year. So we're comparing COVID period this year with a non-COVID
+period last year's. We're not really in the normal comparison period there. I think there is a risk of a
+really intense bit of almost a blood bath has been kicked off by people chosen volume. So some
+people have tried to hold out as they've lost more and more volume, I think other people are now
+having to try and compete to get some of that volume back. So their own portfolios don't shrunk
+too fast. We're in some ways might benefit from that. If some of the larger brokers need to
+maintain their own portfolios sizes when what I can see there being an intense period of
+competition through the very early part of this year as people start to play their price positions as
+COVID discounts on the need to try and maintain their portfolio size.
+
+A - Adam Westwood
+
+{BIO 20481660 <GO>}
+
+I think -- Geoff. I think it's a really good point Ben that if there are certain segments of the market
+where we're not seeing newcomers, for example, when you pick people driving tests are taking
+place. So we're not seeing new drivers to the market as just one example, that means that the pot
+is smaller and therefore, if even just a small part of the market is down, everyone chases the rest
+of it much harder and that's something that from our discipline pricing approach, we've not been
+prepared to do. So whilst in the short-term we stick to our knitting and the volume is lower, in the
+longer, I mean, it's not sustainable to continually chase volume at the cost of profit.
+
+Q - Benjamin Cohen
+
+{BIO 18668171 <GO>}
+
+Sorry. Can I ask us as a follow-up, Geoff, you mentioned that there would be competition to sort of
+position ahead of the FCA changes coming in. Could you explain that in the context of if company
+is sort of lock in on profitable business then is it not sort of unprofitable but forever. So how
+realistic is that as a scenario would you say?
+
+A - Geoff Carter
+
+{BIO 20756770 <GO>}
+
+
+
+FINAL
+
+Yeah, I think the way I've tried to rationalize this in my own mind if you believe that market prices,
+I'll make these numbers up slightly, are going to increase by 10% when the FCA price view comes
+in, if you can buy a policy this year and you have a lifetime value model of things, you can hold it
+into future years that may be cheaper than buying back their price comparison website next year. I
+think also some competitors have a profit model that's very dependent on non-underwriting profit.
+So for example claims income, so if you go into next year, to small, you only need -- they had to
+buy back the policies, you haven't got the claims income coming through at the same time. So I can
+understand the strategy. Something that executed well, I think someone. For us, it's irrelevant
+because that's not how we earn out. So we will stay disciplined as that potential turmoil goes on
+and as I think someone mentioned in the presentation last week, there will be some jockeying
+preposition as people work out where the appropriate new business and we know the price points
+are.
+
+Q - Benjamin Cohen
+
+{BIO 18668171 <GO>}
+
+Thank you very much. Thanks guys.
+
+A - Geoff Carter
+
+{BIO 20756770 <GO>}
+
+Thanks.
+
+Operator
+I still have a couple of hands raised. Next up is Tom Bateman.
+
+Bloomberg Transcript
+
+A - Geoff Carter
+
+{BIO 20756770 <GO>}
+
+Tom, hi.
+
+Q - Thomas Bateman
+
+{BIO 21707516 <GO>}
+
+Hi, good morning guys. Few questions for me. A couple on top-line. It's always come back to this
+topic. But yeah, I look back at last year's mostly comes down about (inaudible) how much can you
+catch up in 2021 as new drivers come back on, there is new car sales pick up. What's a -- how much
+of that can you realistically makeup? And I guess following on from that you talked about maybe
+you haven't lost opportunity in the non-standard rich part of market, but who are your competitors
+here? Who are writing these risks when you aren't essentially?
+I'm going to slide it along here on that topic as well. But just on electric vehicles, obviously, new car
+sales are a part of your book given the increasing penetration of electric vehicles. How prepared
+are you to write more of that business? And just one final question on the SCR investment yield
+again, SCR is increasing because the market risk essentially. How do you look at the payoff
+between additional yield -- in the portfolio and the capital requirement there? Any numbers sort of
+would be helpful. Thank you.
+
+A - Adam Westwood
+
+{BIO 20481660 <GO>}
+
+First one, I think maybe it's worth you're going back to 2015 actually, which was the last sort of
+really hard part the market and who has been to the year I joined. I am joining and we couldn't
+quite fast enough to maintain the volume to, keep the volumes down at a level where we felt we
+could cope with the operation. So it's again what the growth was in that year. I think 20
+
+A - Geoff Carter
+
+{BIO 20756770 <GO>}
+
+I mean we would have had something like twinked up. We would have put in the region of 20
+points on, I recall in March 16, we put over six points in a single month, so we felt that the growth
+was so much that we'd rather take the volume so that operationally -- guys could handle the claims
+volumes with the quality that they and the attention that they need, because we didn't want to
+compromise that kind of our ability to settle claims and I think it's important point that someone
+
+
+
+FINAL
+
+might be like say taking the business, but are they handling the claims in the same way that would - I would challenge that as well. So if that business might well come back to us as things turn out.
+I think Tom, I think that as we unquote, but I think -- making this up very slightly around half a million
+(inaudible) a week and we quote for all of them and we'll take any of them that generate our
+required margin. So there's no shortage of opportunity for us to write business in the market at all
+when the price points hit the right level. I think your next question was around electric vehicles.
+We're very happy about our electric vehicles. We write them at the moment. The claims are more
+complicated. Parts can be more expensive, but we're very happy with electric vehicles we do them
+at exactly the same margin than any other vehicle type that we write. I think you asked who's
+writing the risks. I think of course, it just goes after combination of other insurers. We don't really
+feel like we've lost lot of the non-standard business. Some of it's not been there.
+So I'm personally very grateful to Kent Police for making for just (inaudible) letter from speeding
+mishap rather than making music through a speed awareness course. So I think you haven't had
+convictions coming on driving licenses. You haven't had new drivers. There's been less (inaudible)
+all the things that drive you back into the market as a Non-standard risk just haven't happened. So I
+don't think we've really lost anything in the non-standard area that I can see. And the last question
+was around SCR and a sort of payoffs that we think about?
+
+Bloomberg Transcript
+
+A - Adam Westwood
+
+{BIO 20481660 <GO>}
+
+Yeah, thanks. Yeah, I mean it -- I'm going to give you a fairly loose answer now but by all means we
+can dig into a little offline. In very broad strokes. We have taken capital -- because of the
+investment portfolio. We're now in their will be a payback period on that capital the payback period
+will be longer in the current circumstances than it might have been if bond yields overall were
+higher nonetheless, I guess spreads a factory into that as well.
+I suppose because we've got a fairly open range of the capital in which we can operate. We're
+effectively just moved down in the capital range at no loss for the dividend available to
+shareholders if we were still a staunch at 140% mark then maybe we would be easing up on capital
+that would otherwise (inaudible) that there's a dividend so I could only question for us more as a
+team is whether after revised level of capital. After we've taken that hit with still comfortable that
+we've got enough and we are. That's it. We keep it under review. So, if we're not getting good
+value if we think the capital reviews done in moving into the investment portfolio that we've got,
+we will roll it back at the relatively little expense so it -- yeah, I'm not going to go into more of the
+math at this stage. But by all means I think we should keep it as a rolling dialogue with market.
+
+Q - Thomas Bateman
+
+{BIO 21707516 <GO>}
+
+Okay. Thank you.
+
+A - Geoff Carter
+
+{BIO 20756770 <GO>}
+
+Thanks Tom.
+
+Operator
+Our next question is from Robert Murphy.
+
+A - Geoff Carter
+
+{BIO 20756770 <GO>}
+
+Good morning Robert.
+
+Q - Robert Murphy
+
+{BIO 16621510 <GO>}
+
+Yeah. Hi guys. Just going back to the one-off prior year reserving increase that you mentioned. Can
+you actually quantify what that was. I mean you sort of implying a couple of points? And also is that
+
+
+
+mainly related to one year sort of like 2019 probably looks like one of the worst developing years
+historically I don't know --
+
+FINAL
+
+A - Geoff Carter
+
+{BIO 20756770 <GO>}
+
+If you look at the headlines out you can put in the base on, if that's okay? So we really there's a few
+moving parts here. The first one is the care home cost increase which was -- as published on a
+periodic basis. Last one came out in November which is the (inaudible) index. I think it was talking
+about -- to 5.9% increase in care worker wages. That's impacted across all largest claims. PPO
+capitalization funding is sort of a thing that's particularly related to that in how we can have, how
+their insurance, capital ratios, capitalized some of those payments and I guess just James
+reflecting all that data through as its come to light, do you have sort of further new more detail
+around that?
+
+A - James Ockenden
+
+{BIO 20485926 <GO>}
+
+Well. Yeah. I think I think you've kind of covered it off Geoff. I think we did see in the second half it
+probably would comment on the relevance of COVID-19 in that sense. But we certainly have seen
+an increase in the expected in the cost of care by (inaudible) index, not only impacts all of the
+triangles on a net basis because it impacts on the larger losses. It also impacts as just said the view
+on APIs and potential capitalization claims. So that's essentially it I think Geoff summarize it quite
+nicely.
+
+Q - Robert Murphy
+
+{BIO 16621510 <GO>}
+
+Bloomberg Transcript
+
+Thanks and just a quick follow-up on the bond portfolio as well as it's not just credit risk you've
+increased also duration risk on that?
+
+A - Geoff Carter
+
+{BIO 20756770 <GO>}
+
+Adam.
+
+A - Adam Westwood
+
+{BIO 20481660 <GO>}
+
+I'll tell that one Geoff. There's a slight uptick in duration risk, although we're still pretty well
+matched against our insurance liabilities but it's largely spread.
+
+Q - Robert Murphy
+
+{BIO 16621510 <GO>}
+
+Thanks so much.
+
+A - Geoff Carter
+
+{BIO 20756770 <GO>}
+
+Thank you.
+
+Operator
+So second last question is from Faizan Lakhani.
+
+A - Geoff Carter
+
+{BIO 20756770 <GO>}
+
+Hi Faizan. Can you hear us? Hi, Goos morning. Hi ,your question there Faizan.
+
+Operator
+Faizan, if you just want to unmute yourself ?
+
+A - Geoff Carter
+
+{BIO 20756770 <GO>}
+
+So Faizan got here -- Han could you move to the next question, so we can come back.
+
+
+
+Operator
+Sure. The next question will be Alex Evans.
+
+A - Geoff Carter
+
+{BIO 20756770 <GO>}
+
+FINAL
+
+Alex Evans? Okay (inaudible) said as well.
+
+Operator
+Sorry, Alex. You should come through now?
+
+A - Geoff Carter
+
+{BIO 20756770 <GO>}
+
+Hi Alex (inaudible) Can you unmute yourself ?
+
+Q - Alex Evans
+
+{BIO 20706796 <GO>}
+
+Can you hear me?
+
+A - Geoff Carter
+
+{BIO 20756770 <GO>}
+
+We got. Loud and clear.
+
+Bloomberg Transcript
+
+Q - Alex Evans
+
+{BIO 20706796 <GO>}
+
+Perfect. And so thanks guys. So the first one is just on the rationality of the motor market that
+you're talking about, it seems to be the case that this year, at the start of this year at least that's
+continuing. I just wonder what's the catalyst for these insurers rationalizing some of the frequency
+benefits. Is it the road traffic going back to normal levels or do you think the lower quote volume
+and more aggressiveness of some insurers means that that's going to be beyond that? And then
+just secondly as well maybe just on the FCA review. It seems like quite a significant data request to
+the insurers and appreciate it won't affect you in the same way as others. But how long do you
+envisage it to take to implement the infrastructure and everything in place and looking at the time
+liner?
+
+A - Geoff Carter
+
+{BIO 20756770 <GO>}
+
+Sure. I mean in terms of irrationality of motor, I think I've worked and I've been looking at motor
+insurance for 30 years and it's been pretty much consistently (inaudible) all that time, I would say at
+some point. There's normally someone doing something irrational. I guess at the moment is
+probably being driven by a need to maintain top line. So we do have a reasonably flexible and
+variable cost base. So we are -- our mindset is absolutely focused on profit. I think a lot of insurers
+have a trade-off tight between and understand will try to put you in top line and profit. We don't do
+that. We were only focused on the bottom line. So I think probably the drivers want to do with that
+and with the FCA being such a radical change I do understand why some issuers might want to
+maintain portfolio size going into that the area. On the FCA data request, I've seen some amazing
+quote on how much it's going to cost to make this change. I'm pretty sure -- the data requests and
+a couple of those last time, we have all the data at hand. So we see my I think no real cost to effort
+in complying with that.
+
+A - Adam Westwood
+
+{BIO 20481660 <GO>}
+
+We think should relatively straightforward. So that you don't --
+
+Q - Alex Evans
+
+{BIO 20706796 <GO>}
+
+Yeah. Thank you very much.
+
+
+
+Operator
+So, let's see if we can get Faizan back for question.
+
+Q - Faizan Lakhani
+
+{BIO 20034558 <GO>}
+
+FINAL
+
+Hi, can hear me now?
+
+A - Geoff Carter
+
+{BIO 20756770 <GO>}
+
+We can. Loud and clear. No issues. No problem.
+
+Q - Faizan Lakhani
+
+{BIO 20034558 <GO>}
+
+I just wanted to kick the tires on the pricing thesis. I mean if I may just take the opposite view for a
+second. It appears the markets of over and last year the COVID frequency benefits. Some of your
+peers have posted lower reserve releases than last year which may suggest that you had a
+marketing quite cautious. Now once that unwind , there may be a bit of gunpowder to kind of help
+any sort of weaker current year margins and even at with that reform is probably said to be slightly
+lower benefit. There are sort of two, three sort of I'd say big things pushing against harder or from
+a pricing market we know what you're sort of view on that?
+
+Bloomberg Transcript
+
+And secondly in terms of claims inflation, your guidance has stayed pretty steady. Just want to
+compare it to you. One of your large peers Direct Line where they seems to operating at 5% to
+6% claims inflation is that mainly due to business mix or is there an element of different views in
+terms of the drivers of the market or you'll get abilities? Thank you.
+
+A - Geoff Carter
+
+{BIO 20756770 <GO>}
+
+Yeah sure and I guess on the pricing thesis it wouldn't be a market. If everyone had the same view
+at all the times. I suppose our view is and we've tried to outline this in some of the slides it -- when
+you're writing the policy you could look at claims experience within next 12 months not the current
+month you are writing that policy in I think that you are P&L could look quite good for the first
+1quarter. Our concern is what were the claims cost look like for that policy across the life. James,
+would you like to add anything to that?
+
+A - James Ockenden
+
+{BIO 20485926 <GO>}
+
+I think it's a good question and fair challenge I think what we saw, what we said last year was, as
+you look at presentation slides, if you look at our volumes over time and you overlay that with the
+traffic volumes, it would appear that there is a significant correlation between our relative
+competitiveness and the traffic volumes. And as we've said that doesn't perfectly correlate to
+pricing and we have seen that last year. I think we went from being something like the month. April
+was 40% down year-on-year. And the month of June was 10% up year-on-year now, we took a
+strategic view on what we thought the pricing should be. And how -- when with that view. The
+traffic changed reasonably significantly and we saw that reasonably significant change in volume.
+That would imply that there is a lot of irrational top-line driven irrational pricing in the market I
+would suggest and the fact that we have not been what's the word learning to chasing that I think
+sets us out as a differentiator and make no mistake as Geoff said that if we write a policy today, we
+have to take a view on what the what the claims, what exposure and what therefore the claims
+experience is going to be like, not just for not just for the month of March and April. It's going to be
+for the next 12 months and you really have to be confident if you've got a crystal ball with the
+future and then great, but if you haven't you got to take a sensible approach and I would argue
+that is feeding potential a rational pricing along with the fact that currently the P&L is a probably
+looking quite healthy. But I guess what I'm saying is once that was that business that you write
+today. If you've missed priced it when it starts to learn through, it really starts to buy it and we
+haven't been subjected to that because of our philosophy and our approach.
+
+
+
+Q - Faizan Lakhani
+
+{BIO 20034558 <GO>}
+
+The overview on which players have been overly aggressive or irrational. I mean you've seen, I do
+for example write a lot of business, but they seem too comfortable with it and deal with you in
+terms of where the pressure will come.
+
+FINAL
+
+A - Geoff Carter
+
+{BIO 20756770 <GO>}
+
+I don't think it's for us to comment on competitors on this stuff. I think it's important and we've
+mentioned a few times. It's important not to base a market if you want to add more direct line and
+us I think that's probably what we're tiny but I think had more than a third of the market. That's a lot
+of the market who don't report numbers publicly. So I think you shouldn't assume we're told say
+competitors we're not talking about just thought like that (inaudible) any stretch of the imagination.
+I think an important point to make here is that if we have been too cautious. So if our assumptions
+are right, others have to catch up is our view. If we've been overly cautious and we're wrong.
+They're not arrogant enough to say we're right that means we've overfunded against that
+expectation and that because of the ability to reduce prices to get growth. So our assumption,
+scenario A is that we are right places need to catch up. Scenario B is we'll be over improvement
+which case we can reduce prices if we've over a same traffic.
+
+A - Adam Westwood
+
+{BIO 20481660 <GO>}
+
+Bloomberg Transcript
+
+And I think to add to that Geoff the balancing, the balancing item would be in the simplest terms if
+our margins 20% and we get and we decide we want that margin to be 19% a year. We get 5% of
+it away. We need to write at least 5% more business and we do see at certain point price points.
+We do see a greater level of elasticity and that's really where we're balancing
+What we expect to happen going forward and the actual elasticity still in the market and making
+sure that we are kind of we are optimizing the absolute profit for our shareholders.
+
+A - James Ockenden
+
+{BIO 20485926 <GO>}
+
+Yeah, I think your second question Faizan down to claims inflation. So we are talking around 7 to 8. I
+think others have talked -- spoken already been somewhat over 5. The main difference could be
+around theft. I think it's fair to say forgot. We are prepared to write cars that are more prone to
+debt within that could have a slight uptick on our claims inflation compared to others. But probably
+in the region of a point also.
+Geoff do you want to --
+
+A - Geoff Carter
+
+{BIO 20756770 <GO>}
+
+Yeah possibly and of course we look at inflation across a long period we're not just looking at it on
+a 12 month basis and I suspect that if you ask a bunch of claims directors or a bunch of actors, you'll
+come up with different views in terms of actually how they measure inflation, but it seems to us
+quite clear that this isn't a bottle that you can keep the cork in forever.
+
+Q - Faizan Lakhani
+
+{BIO 20034558 <GO>}
+
+Yeah, thank you very much.
+
+A - Geoff Carter
+
+{BIO 20756770 <GO>}
+
+Thank you.
+
+Operator
+It doesn't seem like we've got any further questions. So no more raised hands, or open questions.
+
+
+
+A - Geoff Carter
+
+{BIO 20756770 <GO>}
+
+Bloomberg Transcript
+
+FINAL
+
+Okay, if anyone does have anything we are certainly here in happy to take any other questions. If
+not, thank you very much for your time today, very much appreciated. Hopefully, we've unpacked
+the result and our views on the future, and I know some of how to run off to another presentation.
+So, how could we give me a chance to do that? Thanks so much for your time.
+
+This transcript may not be 100 percent accurate and may contain misspellings and other
+inaccuracies. This transcript is provided "as is", without express or implied warranties of any kind.
+Bloomberg retains all rights to this transcript and provides it solely for your personal, noncommercial use. Bloomberg, its suppliers and third-party agents shall have no liability for errors
+in this transcript or for lost profits, losses, or direct, indirect, incidental, consequential, special or
+punitive damages in connection with the furnishing, performance or use of such transcript.
+Neither the information nor any opinion expressed in this transcript constitutes a solicitation of
+the purchase or sale of securities or commodities. Any opinion expressed in the transcript does
+not necessarily reflect the views of Bloomberg LP. © COPYRIGHT 2022, BLOOMBERG LP. All rights
+reserved. Any reproduction, redistribution or retransmission is expressly prohibited.
+
+

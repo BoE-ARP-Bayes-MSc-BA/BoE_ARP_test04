@@ -1,0 +1,1381 @@
+Company N ame: St James' s Place PL C
+Company Ticker: STJ L N Equity
+Date: 2020-07-28
+
+S1 2020 Earnings Call
+Company Participants
+FINAL
+
+Andrew Croft, Chief Executive Officer
+Craig Gentle , Chief Financial Officer
+Ian Gascoigne , Managing Director
+Ian MacKenzie , Chief Operations and Technology Officer
+Robert Gardner, Director, Investment Management
+
+Other Participants
+Abid Hussain, Analyst
+Andrew Baker, Analyst
+Andrew Crean, Analyst
+Andrew Sinclair, Analyst
+Colm Kelly, Analyst
+Jon Hocking, Analyst
+
+Bloomberg Transcript
+
+Oliver Steel, Analyst
+
+Presentation
+Andrew Crof t
+
+{BIO 5711239 <GO>}
+
+Good morning everyone, and welcome to our 2020 Half-Year Results Presentation. Given
+COVID-19, today's presentation has been pre-recorded and we will be hosting a live Q&A
+at 10.45 AM. The agenda for this morning is an introduction from me, followed by Craig
+running through the financials. Ian will then cover how the partnership is adapted to
+COVID-19, before I wrap up and look at the outlook.
+The first six months of 2020 has been an extraordinary period, both here in the UK and
+across the world. A six-months period of two halves, pre and post-COVID. We began the
+year with renewed confidence and momentum in the business on the back of strong
+investor sentiment following the UK General Election result in December 2019. We were
+back in the groove, so to speak, and experienced strong growth in new business during
+the early months of the year.
+Gross inflows in the first quarter increased by 12% to GBP4.04 billion. Given the continuing
+strong retention, net inflows for the period were up 9% at GBP2.37 billion. This
+represented annualized growth of 8.1% on opening funds under management.
+Unfortunately, the momentum that was building was then interrupted by the COVID-19
+pandemic, which has had a profound impact on all of our lives. Social distancing and other
+government imposed measures have resulted in real changes to our normal routines. The
+Page 1 of 23
+
+
+
+Company N ame: St James' s Place PL C
+Company Ticker: STJ L N Equity
+Date: 2020-07-28
+
+FINAL
+
+pace of change too has been incredible and we have all had to adapt rapidly developing
+new habits and practices in short order.
+Key to our ability to react quickly has been the investment we have made over time in our
+technology systems. Including our back office administration system Bluedoor. The
+COVID-19 pandemic has demonstrated the real benefit of this investment with our
+business being more operationally resilient, not least through greater use of electronic
+business processing. Our advisers have reacted with remarkable agility to ensure that
+they have been able to engage with clients, despite the challenges presented by social
+distancing. By making greater use of digital channels, including webinars, video
+conferencing and social media, advisers who are able to provide relevant and valuable
+information at an uncertain and difficult time. Ian will provide more color on how the
+partnership has adapted later.
+
+Bloomberg Transcript
+
+We also accelerated the rollout of new and complementary innovations to support
+advisers and their clients. This included rolling out Qwil, a secure messaging tool, digital
+data capture systems and DocuSign, a virtual verification process. We have also
+commenced the rollout of Salesforce software to our 2,500 SME Partner businesses.
+However, despite the agility of the partnership and the organization, the difficult trading
+environment, together with social distancing has naturally impacted our new business.
+During the second quarter gross flows at GBP3.22 billion were 15% lower, taking the six
+months gross flow to GBP7.26 billion, down just 2%. Despite stock market volatility and
+economic uncertainty, retention continued to be very strong, with net flows for the second
+quarter at GBP2.15 billion, 5% lower than the second quarter of 2019. This resulted in net
+flows for the six months of GBP4.52 billion, actually up 2%. Given the external
+environment, the outcome for both gross and net flows was strong, demonstrating the
+resilience of the business and the partnership.
+At the outset of the pandemic, we took the decision to provide monthly updates of our
+gross and net flows, due to the unprecedented trading environment many investors had
+no reference point for forecasting our business flows. From this additional disclosure, you
+can see, however, that there was no material difference in gross or net flows month- bymonths during the quarter. And going forward, now we have four months into this, we
+believe now is the right time to return to our historic quarterly market updates. The strong
+net inflows, together with the impact of investment markets resulted in funds under
+management of GBP115.7, billion, only marginally lower than the start of the year.
+Turning now to growth in the partnership. As social distancing prevented face-to-face
+meetings and in recognition the difficulties many experienced financial advisers will have
+been facing. We decided it was right to moderate our outbound recruitment activity at the
+height of the crisis. Consequently, the growth in the partnership was motivated with an
+increase of 1.2% taking the partnership to 4,324. Despite this more moderated growth in
+the first half of the year, the Partnership is nonetheless 6% larger than 12 months ago. We
+have adapted some of our recruitment practices including the launch of a virtual insight
+session for prospective recruits, as well as introducing an online introduction to Wealth
+Management, which is an accreditation course for new joiners to the Partnership.
+
+Page 2 of 23
+
+
+
+Company N ame: St James' s Place PL C
+Company Ticker: STJ L N Equity
+Date: 2020-07-28
+
+FINAL
+
+Our Academy operations have moved to an online delivery and we are continuing to work
+closely with the Chartered Insurance Institute to ensure that the 379 individual at various
+stages in the program continue to have access to professional examination sittings as
+necessary. We did, however, defer all new entrants, but these individuals will be joining in
+the second half of the year as the academy is restarted.
+During these challenging times, it is important that we also remember the hundreds of
+individuals and small businesses with whom we have a relationship, including the charities
+that rely upon our support. I'm pleased with how the corporate, our Charitable
+Foundation, and our community have responded. It is during such challenging times that
+the value of coming together as a community is most evident.
+I'm now going to hand you over to Craig to run through the financials.
+
+Craig Gentle
+
+{BIO 20095126 <GO>}
+
+Bloomberg Transcript
+
+Thanks Andrew, and good morning everyone. When I presented our full year results back
+in February, I explained that 2020 felt very difference, and when I said that I had no idea of
+the significance of that statement. Within three weeks of saying it, we were in a national
+down and having to consider scenarios that would have been almost unthinkable in the
+first two months of the year. Nonetheless, our financial business model is once again
+proving itself to be resilient in times of stress. And in the next few minutes, I'll talk you
+through the highlights of the past six months.
+Andrew has already commented specifically on gross and net inflows and the Partnership,
+so I won't repeat this; instead, I'll comment on our cash result, the EEV results and our
+capital position. I'll also cover the dividend position, which remains unchanged since our
+announcements in April. Net income from funds under management grew by 10% to
+GBP218.9 million. Growth has obviously been somewhat challenged by negative markets,
+but it has been boosted into net growth territory by strong and consistent net inflows,
+together with funds maturing from gestation and beginning to contribute to the results.
+The net AMC margin for the first six months is in line with the guidance we've given you
+and this will remain the case in the next half and for the foreseeable future. The balance
+of funds in gestation at the 30th of June stood at GBP39.4 billion. As a reminder, these
+funds are not yet contributing to the net AMC margin, but they will do so in the future.
+And based on market values at the 30th of June, once they will mature, there will be an
+additional GBP349 million of income annually in the cash result with no additional cost.
+It's worth noting and you'll see from our disclosures that the rates at which gestation
+matures increases quite sharply from 2021 onwards. And this reflects the significant boost
+given to pension flows following pension freedom in 2015, which resulted in a change in
+composition for new business in favor of pensions from that point onwards, this
+represents a significant store of value. The margin arising on new business has reduced
+by 6% to GBP58.2 million, this is principally the result of gross flows being lower by 2%,
+but as I've mentioned before, there is some operational gearing in this calculation
+
+Page 3 of 23
+
+
+
+Company N ame: St James' s Place PL C
+Company Ticker: STJ L N Equity
+Date: 2020-07-28
+
+FINAL
+
+because of short-term fixed costs. This gives a benefit in times of growth and results in a
+cost in times of lower flows.
+Establishment expenses have grown by 8%, which is 1% below the amount I guided on
+back in February. It's worth remembering that this guidance reflected the fact that adviser
+numbers were some 8% higher going into 2020 than 2019. The saving we've made is
+largely attributable to discretionary cost reduction activity carried out during the course of
+the second quarter. It's also important to note that approximately two-thirds of our
+establishment expenses are people and property-related and therefore fixed in nature.
+They are also planned in advance, taking into account growth plans.
+
+Bloomberg Transcript
+
+Our growth expectations for 2020 half after getting off to a very strong start, clearly
+being disrupted by a challenging operating environment. And at this point, it's reasonable
+to assume that this could continue at least for the remainder of this year. We remain
+committed to protecting our operations and keeping them primed for the current
+demands being placed on them and for future growth, but we will of course remain
+focused on reducing any discretionary costs that can be deferred or canceled altogether
+for the remainder of 2020 without damaging the model. For the purpose of your
+modeling, I would suggest you assume an overall increase in establishment expenses of
+8% over the 2019 cost.
+Operational developments have increased to GBP14.1 million. There have been a number
+of specific accelerated developments during the first half, all geared towards enabling
+remote working and seamless client engagement. This included an electronic signature
+rollout, a web enabled identity validation and other developments, which was so
+important to ensure that business was not interrupted following lockdown. It's worth
+saying that these investments will undoubtedly result in long-term efficiency as well. The
+charge also reflects our decision to rollout Salesforce to our 2,500 SME Partner
+businesses, which once fully up and running will bring significant benefits in terms of
+clients' experience, business efficiency, and risk management. Some of these expenses
+will continue to run into the second half and for modeling purposes, I think the best
+assumption to make is that the full year charge will be equal to twice the half year charge.
+For the Academy, in April we reported that we were confident we could complete the
+training and development programs that have already started, but that we would defer in
+those intakes that had not yet started. This decision is reflected in costs in the first half
+that's down by 4%. For your models, I would assume that there are further 2020 cohorts
+and I would anticipate a total cost broadly in line with that of 2019.
+FSCS costs are GBP27.8 million, remain an increasing cause for concern for us. And
+although we're fundamentally supportive of a mechanism that protects consumers, we
+agree with the comment made by the FCA Chairman when he said that, all too often the
+polluter doesn't pay the cost of bad behavior by firms, which then fail is usually neutralized
+through the FSCS rather than borne by the wrong doers. We welcome the goal that has
+been outlined by the FCA of redesigning a system to make sure the polluters pay.
+
+Page 4 of 23
+
+
+
+FINAL
+
+Company N ame: St James' s Place PL C
+Company Ticker: STJ L N Equity
+Date: 2020-07-28
+
+The June position on tax relief from capital losses has been materially influenced by
+movements in the markets for the first half of the year. And yet, it's only the year-end
+calculation, that actually determines a cash flow. The position in June shows a credits of
+GBP28 million, but for the year-end, our range of estimates show that GBP18 million of this
+is likely to reverse, leaving an actual cash flow for the year of approximately GBP10 million.
+For this reason, we've allocated GBP18 million of the June credit to a positive variance
+included under underlying cash and you should assume that this reverses in full by the
+year end.
+Asia and DFM combined have seen a net investment increase of 26% and this reflects an
+underlying expenses increase of around 9%, compounded by a reduction in income
+attribute to the operating environment. This is clearly similar to the experience of the
+Group as a whole from Q2 onwards. Expense management is under scrutiny across the
+Group, and this is particularly the case in these two areas. Given short-term uncertainty is
+difficult to be precise on what the year-end outcome will be, but for modeling purposes
+you might pencil in similar full year outcomes as in 2019 for both Asia and DFM.
+
+Bloomberg Transcript
+
+Strategic development costs of GBP5.6 million include a cost in 2020 for reconfiguring
+over 2,500 SJP Partner business websites. This will result in a more dynamic content and
+significantly improved search engine optimization. I expect the total charge for the year on
+this line to be equal to around twice the half year charge. Taking all of this into account,
+the underlying cash result for the first half was GBP114.4 million, which is 9% lower than for
+2019 and a very strong result given the operating environment in the second quarter.
+I've already commented on the tax variance, which we expect to reverse in the second
+half and so the only charge that we expect to see by the year end in this part of our cash
+results is the GBP10 million that I guided on for back-office infrastructure. Of this, GBP6.5
+million has been spent in the first half as we decommissioned old systems and finalized
+new business processes and I anticipate final costs of GBP3.5 million to arise in the
+second half, bringing the total cost for the year to around GBP10 million, in line with
+guidance. Taking the into account, the cash results is GBP124.7 million, some 25% ahead of
+last year. But given the predicted reversal of the tax variance, I would suggest that an
+increase of around 7% better describes the like for like position, but again a strong result.
+I'll now turn to the EEV result, where there are two items worth commenting on. Firstly, we
+saw an EEV operating profit of GBP418.7 million, this is some 10% lower than for 2019 and
+this is a combination of costs for the new business margin that I've covered elsewhere in
+the cash result. Secondly, we saw an investment variance of GBP329.7 million negative
+which reduced the EEV profit before tax to GBP45 million. The EEV result in any given year
+will always be sensitive to market conditions and changes in the tax regime, but it's
+important to note that fundamentally our embedded value remains in very strong shape
+with excellent retention of some 96% and consistently strong gross inflows, both of which
+results in consistent growth in funds under management, supporting an EEV per share of
+GBP12.78 per share.
+Turning to Solvency, our capital position remained strong. The first half has seen an
+enormous amount of volatility in all markets, but as you'll be aware, our business is unitlinked and asset matched, which means that our assets and liabilities move in sync
+Page 5 of 23
+
+
+
+Company N ame: St James' s Place PL C
+Company Ticker: STJ L N Equity
+Date: 2020-07-28
+
+FINAL
+
+whatever the conditions. This is largely why our UK Life Company approach of holding
+Solvency II capital equal to 110% of the standard formula is a strong and sustainable
+approach.
+At the half-year point, the Solvency II ratio in our Life businesses was 124%, which is
+significantly higher than the 115% we reported at this point last year. There are, however
+two areas where we benefited during the first half that are important to note in order to
+understand the like-for-like comparison. If you take these into account, both of which will
+reverse over time, our underlying solvency ratio remains broadly consistent with last year
+at 115%.
+
+Bloomberg Transcript
+
+Finally I'll recap on something that we announced in April and that concerns dividends. We
+believed that the more extreme potential scenarios that we modeled back in April haven't
+materialized. And indeed, there are some encouraging signs of a gradual return to a
+more normal life. There is still, however, significant uncertainty for the world ahead and for
+this reason the Board remains satisfied with the decision that it reached in April and we
+will continue to retain approximately one-third of the previously proposed 2019 final
+dividend until such a time as the financial and economic impacts of COVID-19 become
+clearer.
+In addition, the Board will make one decision on the 2020 dividend in February, 21, when
+we believe we'll be in a stronger position to assess the impact that all of this has had on
+our 2020 business. We're of course mindful of the importance of cash returns to
+shareholders and we'll continue to balance this with the need to ensure the business is
+protected even in extreme circumstances. So, overall, a strong set of results delivered in
+a period characterised by an extraordinary range of trading and operating conditions.
+I'll now hand over to Ian who'll give some insights into the way in which the Partnership has
+responded to these conditions.
+
+Ian Gascoigne
+
+{BIO 4439479 <GO>}
+
+Good morning, everyone. I'm delighted to provide some observations as to have the
+Partnership has responded to the challenges and opportunities presented by CVOID-19
+and the lockdown. So to start, let's just remind ourselves that the partnership is not a
+homogeneous entity, but a rich varied diverse community of over 2,500 advisory
+businesses with a geographical spread ranging from Plymouth to Aberdeen and Mayfair
+to Lombard Street.
+It consists of a range of business structures from boutique, single partner practices to
+multi-adviser businesses with 40 advisers and 100 support staff. We have businesses
+have been with us since 1992 and we have recent graduates from our Academy who have
+barely three months standalone experience within the business. Some of our businesses
+manage over a GBP1 billion of their clients wealth. And as I've indicated, some are very
+much in the start-up phase of building that businesses.
+
+Page 6 of 23
+
+
+
+FINAL
+
+Company N ame: St James' s Place PL C
+Company Ticker: STJ L N Equity
+Date: 2020-07-28
+
+So, to the exam question, how has the Partnership responded to the severe dislocation
+caused by COVID and the lockdown? Well, for me, it would be characterized by resilience,
+agility and adapting to new ways of working and embracing technology to enhance client
+engagement. We have to remind ourselves of the situation at the end of March, a volatile
+market downturn and the announcement of lockdown. For a while, it was scary and this
+was when clients wanted to speak to their advisers and that is exactly what happened.
+The immediate response at the end of March was one of the incredibly high levels of
+client engagement, reassuring clients at the height of uncertainty, helping them to be
+rational and calm, to avoid making poor short-term decisions, simultaneously moving to
+remote working themselves and utilizing Zoom and Teams for client meetings.
+
+Bloomberg Transcript
+
+Partners have continued these high levels of client engagement throughout this period
+and if anything, my observation is that relationships have strengthened during this period.
+Goodwill has been banked, value added. Internally, we've run a range of workshops and
+best practice sessions to assist and improve virtual presentation skills, the use of split
+screens, the importation of visuals and animations, forward agendas and more creative
+ways of interacting. And at the same time, we've re-engineered some of our own internal
+processes making business easier to process.
+For example, the use of DocuSign. Partners are seeing clients returned 47% of documents
+within one hour and 75% within the day. Client ID is now routinely collected utilizing the
+Capture app and these all add operational efficiencies within Partner businesses and I've
+no doubt that we've also benefited from our previous investment in Bluedoor and the fact
+we were well on our digital journey. The general lockdown mood in the UK has meant that
+clients welcomed virtual meetings and wanted contact from Partners who reported a
+deepening of client engagement during this period.
+It was also helpful that clients were a lot easier to get hold of and often had more time to
+talk about their affairs and what really mattered to them. Our younger partners have
+adapted very quickly and our older partners usually have tech-savvy individuals in their
+support staff. So COVID-19 has done a lot to accelerate the journey towards digitally
+supported face-to- face advice. The changes we made internally to process business
+demonstrated a commitment to treating this is an opportunity, more than a challenge.
+Now the mature businesses have rightly spent more focus on existing client reviews
+during this time in the market. I think that is evidenced by our retention figures. There's
+also a lot to suggest that some new business has been deferred until a great
+resemblance of normality returns. And traveling at the pace of the client is important, our
+partners take a long-term perspective. Younger businesses have faced probably the
+biggest challenges in marketing for new clients, but again there have been creative
+responses such as virtual client events, seminars, webinars, presentations and more
+informal interactive sessions such as wine tasting.
+There are many and increasing examples of Partners taking a potential client from initial
+first meeting through the full advice process and on-boarding them fully as clients and
+doing this entirely remotely. Interestingly, this also opens up an entirely new horizon in
+terms of Partner reach, in terms of their own geography and referrals. So this hybrid
+model of client acquisition and maintenance is an exciting development and outcome.
+Page 7 of 23
+
+
+
+Company N ame: St James' s Place PL C
+Company Ticker: STJ L N Equity
+Date: 2020-07-28
+
+FINAL
+
+What has also been very clear is the client and potential clients' total acceptance of virtual
+meetings and consultations and our skilled partners are becoming increasingly good at
+this. However, we also have a full schedule in place for the reopening of our offices and
+this call today is from Lombard Street, open and ready for safe client meetings.
+So there is no doubt that COVID and lockdown has been a short-term shock to the
+system. However, if there is one attribute that characterizes the Partnership, is it's
+resilience. It is the attribute which has made them successful and it is that coupled with
+adaptability and agility which has led to more creative ways of working with clients. And as
+I've said, clients have proven very receptive to these meetings and themselves have
+been keen to take stock, think about their own mortality and life goals during this
+dislocation. Strategic advice is valued in times of uncertainty.
+And as you'd expect, internally we've held numerous virtual meetings across the business,
+sharing best practice, as well as building a sense of community and mutual support. We
+are seeing a change in work patterns, greater flexibility and agility, more use of
+technology to drive efficiencies and an overall positive response to the challenges, as you
+would expect from 2,500 small dynamic businesses. I hope that has given you a flavor of
+what's been happening over the last three months or so.
+I would now like to hand back to Andrew.
+
+Bloomberg Transcript
+
+Andrew Crof t
+
+{BIO 5711239 <GO>}
+
+Thank you, Ian. It's great to see how the Partnership has adapted. Some final reflections
+from me on the first half, before finishing on outlook. As I said earlier, the business
+adapted very well to the extraordinary environment we all found ourselves in. Against the
+backdrop of empty streets, empty bars and restaurants and empty offices we have
+nonetheless achieved what in my view are very good and resilient set of results. To recap,
+gross flows were GBP7.3 billion and net flows of GBP4.5 billion, the equivalent to 8% of
+opening funds under management on an annualized basis.
+Against the backdrop of low world stock markets, funds under management were
+GBP115.7 billion, just 1% lower. The underlying cash result at GBP114.4 million was only down
+9% with the total cash result actually higher than the first half of 2019. And let's not forget
+the six months embedded value operating profit of GBP418.7 million, a measure of the
+long-term value added during the six months. With the embedded value per share at the
+half year, being GBP12.78.
+Before moving to the future, a couple of other comments on the first half of the year. The
+last four months have been a period where the value of trusted personal long-term
+financial advice has been really demonstrated as individuals have sought to navigate
+complex, volatile and uncharted waters. It's during times like these that having someone
+to hold your hand, communicate and provide piece of mind, as well as prevent behavioral
+mistakes is worth its weight in gold.
+
+Page 8 of 23
+
+
+
+FINAL
+
+Company N ame: St James' s Place PL C
+Company Ticker: STJ L N Equity
+Date: 2020-07-28
+
+Financial advice transforms lives by helping people build well diversified portfolios to
+achieve long-term goals in line with the their risk profile. In this respect, our portfolios have
+fared better on the downside, compared with the broader markets. Advice also delivers
+wider benefits such as inheritance tax planning, maximizing the use of tax allowances and
+even the discovery of missing pension pots, alongside the advice is our proposition which
+we continue to enhance. In February, we appointed Somerset Capital Management as a
+new manager of our Global Emerging Markets Fund and more recently we have
+appointed Pzena Investment Management, Sanders Capital and Artisan Partners, to
+manage our Global Value Fund. We look forward to working with all of our new managers.
+Alongside achieving long-term financial goals, our portfolios also look to invest
+responsibly. As previously reported, we were awarded A Plus in the latest United Nations
+Principles for Responsible Investment Annual Assessment. We also continued to influence
+our investment managers to become signatories to the principles, an important step to
+further embed responsible investing in our investment management approach and
+towards our goal of helping clients achieve financial wellbeing in a world worth living it.
+
+Bloomberg Transcript
+
+We've recently published our first quarterly Portfolio Carbon Emissions Report which
+compares the carbon footprint of our portfolios with their equivalent benchmarks. We
+believe it is a significant step forward in providing our clients with greater insight into their
+investments. We will continue to develop and shape our proposition to meet the changing
+future needs of our clients and our clients' value both our proposition and the advice they
+receive and I'm pleased to report that St. James's Place has once again received
+numerous awards.
+A particular highlight was being voted the City of London Awards 2020 Wealth
+Management Company of the year. We have now received this award eight out of the last
+nine years and I would like to thank our clients who voted for us. So, what does the future
+hold? The country is slowly emerging from the lockdown. Restaurants have open, with
+businesses large and small starting to open their doors. At SJP we are facing the
+reopening of our offices in measured and cautious, but deliberate steps and safety of our
+community in our clients is paramount. By the end of this week we had have opened the
+majority of our offices with the remainder scheduled to open during August and early
+September.
+It is also important to remember there across the country 85% of our Partner businesses
+operate from their own offices, many of which are open for business. As you've just heard
+from me, the Partnership has adapted extraordinarily well, embracing new technology to
+manage both existing clients and build new client relationships. However, to return to
+normal and get back into the groove, it is important to be able to have face-to-face, albeit
+socially distant meetings.
+As the population at large recovers from more than four months of lockdown, we
+anticipate a period of recuperation for the UK. Nonetheless, from what we have
+experienced so far in July, we still expect the total value of new business flows for the
+third quarter to be similar or slightly lower in terms of value to the level of flows recorded
+for the second quarter. We are then hopeful that as the country returns from the summer
+break refreshed and ready for a return to the office and given the high levels of client
+Page 9 of 23
+
+
+
+Company N ame: St James' s Place PL C
+Company Ticker: STJ L N Equity
+Date: 2020-07-28
+
+FINAL
+
+service provided by the Partnership since lockdown that we will see momentum build
+through the final quarter.
+Overall, 2020 is set to be another year of major net inflows as our business model proves
+resilient in a really difficult period. We are more confident than ever that we will deliver
+growth over the longer term, given the strengths of St. James's Place and the dynamics
+of our market. And let's remind ourselves of the long-term structural fundamentals of our
+business model.
+The number of individuals with investable assets of between GBP50,000 and GBP5
+million is large and growing. The demographic profile of the population is also favorable
+and with the demise of defined benefit pension schemes, individual need to save for their
+retirement and long-term care. Individuals need to be their own actuary, investment
+manager and trustee if you like or alternatively find someone to assist them. This
+challenge for individuals is compounded by the very low interest rates, which are unlikely
+to increase to a meaningful level any time soon.
+
+Bloomberg Transcript
+
+Planning for ones future financial wellbeing is complex and requires a skill to navigate
+through the multitude of rules and maximize tax allowances. We also live in a globally
+interconnected world and having a trusted adviser help establish a well-diversified
+portfolio which meet your own attitude to risk, aspirations and time horizon provides
+peace of mind. Then at the same time there is a large intergenerational transfer of wealth
+occurring in the UK, which we estimate could amount to GBP1 trillion over the next decade.
+All this points to the need for trusted financial advice. And here is the most interesting
+point, there is simply not a sufficient supply of financial advisers in the UK and given the
+number of the existing industry pool of advisers reaching retirement age, the supply will
+become further constrained over the coming years. A perfect environment for a face-toface business like ours, and therefore the long-term prospects for St. James's Place
+remain as strong as they ever have been.
+In fact, I would argue that as we emerge from COVID-19, our prospects will be even
+brighter. For me the need for a trusted face-to-face adviser has only grown stronger. We
+have all adapted to new ways of working and embraced technology which will make us
+more efficient, supported by our recent technological investment. This investment not
+only put us in a good position to adapt to COVID-19, but also provides us with a great
+platform to continue our technological journey from which the business will benefit in
+coming years. Recognizing the advice gap, we continue to invest in the Academy, which is
+now well established with 379 individuals currently in the program. The majority of whom
+will graduate into the partnership in the next couple of years.
+The difficult trading environment caused by COVID-19, whilst at the same time is
+increasing regulatory and PII cost, will increase the attraction of existing industry advisers
+joining the St. James's Place partnership. With both the savings gap and an advice gap we
+are ideally placed to continue to grow. We are therefore planning for GBP200 billion of
+funds under management in the not too distant future.
+
+Page 10 of 23
+
+
+
+Company N ame: St James' s Place PL C
+Company Ticker: STJ L N Equity
+Date: 2020-07-28
+
+That's me finished. I will leave you with a summary of the results, thank you for watching.
+
+Questions And Answers
+
+FINAL
+
+Operator
+Good morning and a very warm welcome to the St. James's Place Half Year Results
+question-and-answer session. (Operator Instructions)
+I will now hand over to Andrew Croft, Chief Executive to chair the call.
+
+A - Andrew Crof t
+
+{BIO 5711239 <GO>}
+
+Good morning, everyone. Welcome to our conference call this morning. I hope you've all
+had the opportunity to watch the presentation. I've got a number of my colleagues on the
+line for this Q&A session, which we intend to run for 30 minutes. So, for the first question.
+
+Operator
+The first question comes from Andrew Sinclair from Bank of America. Andrew, please go
+ahead, your line is open.
+
+Bloomberg Transcript
+
+Q - Andrew Sinclair
+
+{BIO 17749036 <GO>}
+
+Thanks. Morning, everyone. Three for me as usual, if that's okay. Firstly, just when you look
+at flows across the business over the period since lockdown started till now, how has
+performance as far as across the Partnership, has there been a clear criteria of both
+Partners have been adopting quickly or are slower to the new world or is actually just
+pretty consistent across the partnership?
+And secondly, was just on the Academy. Can you give us some color in terms of what you
+expect for new entrants since the Academy have in the second half of 2020, should be
+expecting to get bumper intake and likewise, what you're expecting in terms of graduates
+over the next couple of years?
+And third question was just on the dividend. Just really looking at the portion that was
+retained with the 2019 dividend, that's clearly GBP60 million, just really wanted (inaudible),
+it seems fairly small in a Group context, can you give us a bit more color on the adverse
+scenarios that you see here and probably that was the right portion to retain?
+
+A - Andrew Crof t
+
+{BIO 5711239 <GO>}
+
+Okay. Thank you, Andrew. I'm going to pass over to Ian Gascoigne to answer the flows
+and the Academy.
+
+A - Ian Gascoigne
+
+{BIO 4439479 <GO>}
+
+Page 11 of 23
+
+
+
+Company N ame: St James' s Place PL C
+Company Ticker: STJ L N Equity
+Date: 2020-07-28
+
+FINAL
+
+Okay. Hi, Andrew. Thank you. I think the first question relates to flows and whether some
+Partner businesses adapted quicker or whether it was pretty consistent across the place? I
+think it's fair to say the announcement of lockdown and the market downturn, there was
+some variety in terms of how Partner businesses initially reacted. So, some Partner [ph]
+businesses very quickly to adapt, took it as an opportunity, grow forward, didn't miss a
+beat and have shown growth over the period.
+Other businesses slightly longer to adapt to come up to speed with the technology and
+what's required and the kind of psychological acceptance of how to respond to situation.
+So, it's not consistent across the community would be unfair to say that, but I would say
+that three months in, best practice is emerging, it is becoming more of a new normal and
+businesses have adapted very well through sharing with each of best practice and
+basically responding to client requests and meetings as appropriate.
+On the second point on the Academy, I think the numbers are about 340 Academy
+students in play of various levels of the process and who will tend to graduate over the
+next 18 months or so. When we reopen the doors we will be reopening in the doors the
+normal rates of digestion. We don't expect a bumper, we're not going to double the size
+of the Academy in the final quarter or new joiners. What it may well do is the pent-up
+demand might actually have an impact of allowing us to be more selective in the quality of
+people who come into our Academy.
+
+Bloomberg Transcript
+
+So that's the -- that would be my feedback from the Academy.
+
+A - Andrew Crof t
+
+{BIO 5711239 <GO>}
+
+And I'm just going to pass to Craig for the dividend.
+
+A - Craig Gentle
+
+{BIO 20095126 <GO>}
+
+Yeah, the question on the dividend, the decision to retain the amount that we retained
+was a balanced decision that took account of the potential need to support a wider
+business in the event that certain, again potential extreme scenarios, which manifest
+themselves. With the need to make sure that we maintain shareholder returns, the
+description of the GBP60 million was modest. I think the reality is that combined with the
+resource that the Group has was sufficient to make sure that we are in a position to make
+value-added long-term decisions in the events of a very extreme shock to the Group.
+Those conditions haven't manifested themselves, but there's still a lot of uncertainty
+ahead, but really that decision goes back to the work we were doing in March-April when
+we first made the decision.
+
+A - Andrew Crof t
+
+{BIO 5711239 <GO>}
+
+Thank you, Craig. Can we have the second question please.
+
+Operator
+The next question comes from Jon Hocking from Morgan Stanley. John, please go ahead,
+your line is open.
+Page 12 of 23
+
+
+
+Company N ame: St James' s Place PL C
+Company Ticker: STJ L N Equity
+Date: 2020-07-28
+
+Q - Jon Hocking
+
+{BIO 2163183 <GO>}
+
+FINAL
+
+Should we look at 2020 as a year where both through the Academy and experienced
+hires, we're going to see a below normal level of recruitment and then we'll get back to
+usual sort of 7% or so expansion in 2021? That's the first question.
+And then secondly, I'd be interested in an update from Ian in terms of the behavior of the
+Partnership in terms of signing up new clients, and clearly the retention has been very
+strong, I assume it was harder to get new relationships at the moment, if you could give
+some thoughts there would be appreciated.
+And then finally, in terms of Federal cash and dividend upstream, I just wondered and it's
+just that the liquid assets had come down GBP300 million or so from the full year. Given
+that you're going to make a single payment of the dividend next year, are you going to
+continue upstreaming from operating entities as usual, or are you going to wait and do
+that later than would have been normal given the environment? Thank you.
+
+A - Andrew Crof t
+
+{BIO 5711239 <GO>}
+
+Okay. Thank you, Jon. I'm going to pass over to Ian again on the recruitment and new
+client experience.
+
+Bloomberg Transcript
+
+A - Ian Gascoigne
+
+{BIO 4439479 <GO>}
+
+Yeah, I think it's fair to say that net manpower growth this year will be below our normal
+range of what we've experienced and I would suspect that going forward will revert to a
+more normal range of recruitment next year this year. This year, it's fair to say we don't
+anticipate the 6% to 8% that we've been experienced over the last four years or five
+years.
+In terms of new clients. This is the interesting dynamic, the good news is obviously that
+people can have face-to-face meetings again, and we've got COVID secure offices and
+so that, that moment in time where you couldn't see people face-to-face has past, but it
+is clear that Partners have through the use of technology discovered ways of engaging
+with people through the whole process and on-boarding them as clients without physically
+meeting them. And some Partner practices are doing this incredibly well, others had taken
+a bit longer to come to terms with that way of working. In fact, some Partner practices
+don't feel that as appropriate way of working and don't forget, there is 2,500 different
+business models, working with clients in their own particular way and some work with
+referrals and existing clients far more than a model where they will be on-boarding clients
+that they've never met.
+
+A - Andrew Crof t
+
+{BIO 5711239 <GO>}
+
+Thank you Ian. And again, I'll pass over to Craig for the dividend upstreaming.
+
+A - Craig Gentle
+
+{BIO 20095126 <GO>}
+
+Yes, Jon, I think the figure that you're referring to is the all included within it, is the GBP810
+million of fixed interest, so the investments in Collective Investment Funds actually is
+Page 13 of 23
+
+
+
+FINAL
+
+Company N ame: St James' s Place PL C
+Company Ticker: STJ L N Equity
+Date: 2020-07-28
+
+unrelated. A lot of the movements in that line, both up and down tends to be caused by
+different types of settlement in and out of the underlying funds and what we've seen
+during the first half was quite a sizable input to those funds in the form of the equivalents
+of tax credits. So, really what you're seeing there is the normal mechanics of working
+capital within the Group. But turning to your question, the way in which cash flows within
+the Group from the operating subsidiaries, the operating regulated subsidiaries into
+TopCo [ph], if you like for homeward [ph] use and distribution will remain unchanged,
+there'll be no change that we would see there.
+
+A - Andrew Crof t
+
+{BIO 5711239 <GO>}
+
+Thank you, Craig. Can we have the third question please.
+
+Operator
+Our third question comes from Andrew Crean from Autonomous. Andrew, please go
+ahead, your line is open.
+
+Q - Andrew Crean
+
+{BIO 16513202 <GO>}
+
+Bloomberg Transcript
+
+Good morning all. Three questions if I can. Firstly, looking at your controllable cost per
+average adviser, they are still growing 6%, which is in line with the long-term average. Do
+you see with the advent of Bluedoor that you can get this growth rate down to more like
+inflation rate, and if not, why not?
+Secondly, has the last six months caused you to reflect at all up on having a small loss
+making business halfway around the world? And what is the future as you see in the Asian
+business?
+And then thirdly, could you comment on the average initial charge, both in Life and
+Pensions and in Unit Trust and ISAs compared with the 6% and 5%. I think one point you
+said, it was done to about 2.9%, is that still true?
+
+A - Andrew Crof t
+
+{BIO 5711239 <GO>}
+
+Okay. I think I'm going to ask Craig to pick up the first two and I'll probably come on, on
+Asia as well. But Craig, do you want to pick up the first two on expenses?
+
+A - Craig Gentle
+
+{BIO 20095126 <GO>}
+
+Yes. So, controllable cost per adviser, I think it's fair to say that we would always have an
+ambition to reduce the controllable cost per adviser, if you use that uptick to look at the
+P&L account. I'm not sure though that Bluedoor would be the answer to that. Bluedoor is a
+back office that is certainly scalable, it's been worth its weight in gold over the last few
+months with lockdown and the need for electronic exchanges of information rather than
+paper exchanges. But I think the answer is likely to come through the normal economies
+of scale that you would see and it's important to remember that a lots of the benefit that
+we've had from Bluedoor has already appeared within the cash result, because the
+inefficiency of running the old systems was posted below the line and now those old
+
+Page 14 of 23
+
+
+
+Company N ame: St James' s Place PL C
+Company Ticker: STJ L N Equity
+Date: 2020-07-28
+
+FINAL
+
+systems are being switched off, that will no longer appear there. So, I think it's important
+to bear those costs in mind that have already exited with only GBP6.5 million below the
+line for the first half.
+The other thing I will also say, Andrew, which I think is relevant to the question. When we
+plan our expenses, we do so based on growth plans and in this half year it's actually quite
+extraordinary when you think about it, because if we'd have taken a snapshot view of
+where we had very strong belief we were headed, say mid-February, you would see a
+fundamentally different outcome to the one that you perhaps would have seen, if you
+took the same snapshot in April. So, it was one of those half years, where the first quarter
+was one of real acceleration and then we will know what happened in the second quarter.
+So sometimes there is a need to plan for some of these costs, which are fixed in nature in
+order to accommodate growth you believe you can achieve. Whether that growth is
+expressed through the size of the business in terms of the number of advisers or the
+profitability within that business.
+
+Bloomberg Transcript
+
+Asia, so I'll start with Asia from a financial position. I think it's fair to say that this is the
+second tough year that Asia has had in terms of the operating environment. I think in the
+last presentation, I did, I expressed some disappointment that we haven't gone at least
+Embedded Value neutral on those businesses, but the root cause of that was something
+that we understood very clearly. And this year has been very much the same. I would view
+Asia really as a microcosm of the wider Group, but it's a microcosm that doesn't have the
+benefit of 28 years of trading behind that. And therefore, the moment you do get any
+kind of deviation from a planned level of income, the cost base exposed itself to the way
+that the Group wouldn't necessarily do so.
+
+A - Andrew Crof t
+
+{BIO 5711239 <GO>}
+
+Yeah, look, I think I'll just add there. If you look at the performance of Asia first six months,
+new business is up 22%. We now have SJP funds under management of around GBP1
+billion, so we are building critical mass there and it's all about making sure that business
+now becomes -- efficient now, it's got critical mass and the investment will reduce over
+time and then start becoming positive. I'm going to try and say -- yeah, we remain
+committed, yeah.
+I'm just going to pass over to Ian on the sort of initial charge question, and also why there
+would be differences as well.
+
+A - Ian Gascoigne
+
+{BIO 4439479 <GO>}
+
+So, hi Andrew. Yeah, as you know the initial advice fees agreed with the clients through
+the customers remuneration process and dependent on the complexity of the case, the
+client will agree the initial advice fee. In terms of Unit Trust and the bid-offer spread, that
+also includes our ISA portfolio and it's hard to argue that ISAs are a complex financial
+planning issue. And in Partners, in conjunction with conversations with the client, often do
+that for far a less than the bid-offer spreads. So, in terms some partners will actually give
+advice on ISAs at no initial charge and so the range across the portfolio is under 3% and
+between -- it's actually between 2.5% and 3% on an average for that portfolio of our
+business.
+Page 15 of 23
+
+
+
+Company N ame: St James' s Place PL C
+Company Ticker: STJ L N Equity
+Date: 2020-07-28
+
+A - Andrew Crof t
+
+{BIO 5711239 <GO>}
+
+Okay. Thank you, Andrew. Can we take the fourth question, please.
+
+FINAL
+
+Operator
+The next question comes from Andrew Baker from Citi. Andrew, please go ahead, your
+line is open.
+
+Q - Andrew Baker
+
+{BIO 20402705 <GO>}
+
+Hi guys, thanks for taking my question. Three for me. Just, first, back on the dividend. Can
+you just remind me of the intent for the retained 3% of the full-year 2019 dividend? Is the
+intend to return this at a later date? And then also, as we think about 2020 dividend, is
+80% of the underlying cash result still the guidance to be thinking about there?
+And then second question is on, are you expecting any impact on flows from the FCA
+change in the DB-DC charging structure?
+And then finally, are you able to give an update on whether you've seen any increase in
+under-performing or non-performing Partner loans in the first half ? Thank you.
+
+A - Andrew Crof t
+
+{BIO 5711239 <GO>}
+
+Bloomberg Transcript
+
+Okay, thank you for your questions, Andrew. I'm going to pass the dividend and underperforming one to Craig, it's quite good chairing these many things and --
+
+A - Craig Gentle
+
+{BIO 20095126 <GO>}
+
+So, the way I think we would see the retained dividend is the same today as it was when
+we talked about this last back in April. And yes, we do see this as a retention and it's an
+amount that we expect to retain until we are clear on what the final impacts on the Group
+is, of the conditions that we will find ourselves in, excuse me, at the moment. So, that is
+unchanged.
+That part B of your question was on the guidance. And what we've said, just as a
+reminder, is that typically we would expect to distribute approximately 80% of underlying
+cash. We haven't changed that. And the only way to -- puts on that is the one that we
+always put on it, which is that -- that is the core approach that we would take, but then we
+would always take into account the results for any given period and critically, we would
+take account of the outlook at the points that which any dividend decision is made. And I
+suspect that's exactly the same answer as I would have given this time last year and the
+year before that. So again, there is no change there.
+The third bit was on a question of underperforming Partner loans. The short answer is no,
+there has been very, very little movement there. And actually if you stand back and
+consider why that might be. Well, it's for the same reasons really. We have strong security,
+but that's not really what drives that outcome, what drives that outcome is the underlying
+success of the business and when you look at the sort of cash result that we're posting at
+Page 16 of 23
+
+
+
+Company N ame: St James' s Place PL C
+Company Ticker: STJ L N Equity
+Date: 2020-07-28
+
+the moment, that shows that there is underlying success and that underlying success is
+replicated across the businesses that have taken out those loans. So, we're in good
+shape.
+
+FINAL
+
+A - Andrew Crof t
+
+{BIO 5711239 <GO>}
+
+And I'll answer the question on the DB change, I think firstly it is important to remember
+that doing a DB transfer is not right for everyone. And in many cases, it would not be the
+right advice, but in other cases it most definitely is the right advice. Not all of our partners
+are licensed to do this business. We have a high bar for acceptance and all business is
+pre-approved by our Business Assurance team which is independent to the Partnership
+anyway. So, a very high bar and most cases that goes through Business Assurance will be
+approved. And so, do we expect there to be an impact? I'm sure there will be a small
+impact on this, but we don't expect it to be a large impact.
+I've also got Ian MacKenzie who looks sort of after the advice guidelines on the call and I
+might just ask Ian if he'd like to add anything to that.
+
+Bloomberg Transcript
+
+A - Ian MacKenzie
+
+{BIO 18366729 <GO>}
+
+Yeah, thanks Andrew. I think that covered it quite well there. In terms of sort of where the
+Partnerships are and the feedback we're getting from our advice policy perspective is that
+the changes will be embraced and indeed some partners who are specialists in this area
+see the changes increasing the demand for the specialism, because the advice and the
+decision to consolidate your DB pensions in the DC environment is for many of our clients
+and we're talking to the right advice for them and the right thing to do. And I would hazard
+against a number of people on this call would help them as well, been doing that journey.
+So, it is appropriate Financial Planning, Wealth management advice and the Partners are
+looking to embrace that going forwards within the new constructs.
+
+A - Andrew Crof t
+
+{BIO 5711239 <GO>}
+
+Thank you, Ian. Could we go on to the fifth question, please.
+
+Operator
+The next question comes from Colm Kelly from UBS. Colm, please go ahead, your line is
+open.
+
+Q - Colm Kelly
+
+{BIO 19140684 <GO>}
+
+Thanks, thanks very much, and morning, everyone. First question just on margins, can you
+comment -- you commented on the net income cash margin on the average mature funds
+under management was within the guidance of 63 bps to 65 bps. Would you mind just
+telling us if the exact number for 1H and see if that's just the number I roughly calculated is
+falling slightly outside of that range, although clearly I've less information to work with.
+And the second question is on adviser growth, clearly this year will be a bit tougher for
+adviser growth. But even though the numbers are quite robust at half year, do you think
+
+Page 17 of 23
+
+
+
+Company N ame: St James' s Place PL C
+Company Ticker: STJ L N Equity
+Date: 2020-07-28
+
+FINAL
+
+COVID-19 might help accelerate adviser growth in future years given it has enabled SJP to
+showcase its digital capability and the value of the platform to non-SJP advisers? So I'd be
+interested in comments there.
+And then lastly on recent press articles commenting on incorporating more passive funds
+within the fund offering. Just wondering if you could update on this, as opposed the
+current investment management process and selection process of actively managed
+funds is quite a core competitive advantage of SJP and is somewhat differentiated and
+very essential to the client value proposition. So, I'd be interested on comments around
+any potential incorporation of more passive funds into that offering? Thanks very much.
+
+A - Andrew Crof t
+
+{BIO 5711239 <GO>}
+
+Good, thank you very much. I'm going to pass the margin question over to Craig.
+
+A - Craig Gentle
+
+{BIO 20095126 <GO>}
+
+Bloomberg Transcript
+
+Yeah, Colm, we weren't planning on disclosing the actual margin at any half year interim
+point, you'll be pleased to hear though that we did so last year for the full year and we will
+do so for the full year for 2020. The amounts as I've said in the presentation was within
+that range for the first half. And the cluster of estimates that we had when we were
+gathering consensus was actually reasonably tight, so I'm pleased at the very least that
+the guidance we gave has enabled people to have a pretty good estimate of the income
+for the first half. And I have to say that's particularly credible given the level of volatility
+we've seen within funds under management. So that's probably what I'd say on that.
+
+A - Andrew Crof t
+
+{BIO 5711239 <GO>}
+
+Okay, thank you. Ian, do you want to pick up the adviser recruitment point?
+
+A - Ian Gascoigne
+
+{BIO 4439479 <GO>}
+
+Yeah, hi, Colm. And there is two or three things on this. The first one is, during previous
+market dislocations, there is absolutely a flight to quality and we are seeing in inbound
+calls from people wanting to hear a little bit more about SJP's proposition, particularly how
+we've adapted during this period. So, that's a very -- that's very positive.
+The second is that we can afford to be more selective. I think the issue of quality going
+forward is more and more important than ever before. It always was important, but I think
+we can afford it be higher up the hierarchy now, so we can be far more selective.
+And finally, there is the -- there is a slight issue in the industry in terms of selecting people
+who were appropriate for our business and that their own back catalogue and their own
+back book of business. My contain advice and issues that were not too happy with and so
+we have to turn them away. So, there's lots of dynamics in there. But coupled with the
+success of the Academy and the success of being able to place our advisers in our
+successful Partner businesses, I think the future is quite positive in that respect.
+
+A - Andrew Crof t
+
+{BIO 5711239 <GO>}
+Page 18 of 23
+
+
+
+Company N ame: St James' s Place PL C
+Company Ticker: STJ L N Equity
+Date: 2020-07-28
+
+Thank you, Ian. I'll have Rob Gardner who looks after our Investment divisions. I'm just
+going to ask Rob to answer the question assets.
+
+FINAL
+
+A - Robert Gardner
+
+{BIO 15404543 <GO>}
+
+Thanks, Andy. Hi, Colm. So, a couple of things to kind of set the context. I think the first
+thing is that on the passive, I was misquoted in the press. So let me sort of articulate what
+the plans are. So, when I joined, one of the things I wanted to do was ensure that we have
+enough capacity our MA to ensure that it's never a constraint for growth. So we've built a
+capacity model out to GBP200 million, GBP400 million, GBP600 million and beyond. And
+as you know, based on our flows and our growth in our markets over the medium to long
+run, we will grow to GBP200 billion. So managing capacity in our fund is key.
+
+Bloomberg Transcript
+
+To put it into context, SJP as an asset owner is one of the largest asset owners in the UK
+and it's the same size as Texas Retirement. We're really trying to think like a long-term
+asset owner. The second big drive that you will have seen from us is to position SJP really
+as the leading wealth manager in the UK around responsible investment on ESG. And so
+the key move this year was to increase our fund managers all being signed up to UNPRI
+and the release of our carbon footprint.
+And so going forward, we're going to have four global equity building blocks. So we've
+got our Global Value one; we're going to re-profile and have Global Growth; and then
+Global Quality; and then the new fund is going to basically be a low cost, but I'll come
+back to what I mean by low cost. RI integrated but low carbon, so a key thing within ESG is
+how do we lower the carbon footprint of our portfolios. Our global equity funds have
+about half the carbon footprint of the MSCI and our goal is to continue to be able to put
+clients who want to kind of flatten that carbon footprint and demonstrate that that
+financial well-being in a world worth living in is going to deliver in line with the Paris Climate
+Court.
+And then in terms of asset management. This is not passive, we're using a technique
+called systematic, which is really using algorithms and AI and machine learning and
+because of our size and scale, we can do this for about 10 basis points to 15 basis points.
+The average external fund manager fee is about 39 basis points. So I suppose to say,
+what and all of that is, that is not passive, in my mind that is high capacity, low fee, low
+carbon fund and that's the fund that was being talked about in the press.
+
+A - Andrew Crof t
+
+{BIO 5711239 <GO>}
+
+Thank you, Rob. I'm conscious of time. So we try and take two more questions. So, could
+we go to the next question please.
+
+Operator
+The next question comes from Abid Hussain from Credit Suisse. Abid, please go ahead,
+your line is open.
+
+Q - Abid Hussain
+
+{BIO 20229932 <GO>}
+Page 19 of 23
+
+
+
+Company N ame: St James' s Place PL C
+Company Ticker: STJ L N Equity
+Date: 2020-07-28
+
+FINAL
+
+Hi, morning all, thanks for taking my questions. I've got three questions, if I can. I know you
+are out [ph] of time. So the first one is just on the client interactions. I was just wondering,
+June, July have you seen an increased willingness of clients to take face-to-face meetings
+or even transact virtually? Just sort of more color on what you've seen since these -- of
+the lockdown, please.
+And then the second question was on your operational leverage. Thank you for the
+guidance in the 8% growth on the operational expenses. I was wondering if there's
+anything you could do further was a potential to reduce the expense growth below that,
+given the out-turn on flows might be might be looking at -- might not be as robust as a
+little bit like in the second half ?
+And then the final question is on the fund performances. Could you just give us an update
+or any color if there is available on the individual fund performances versus your
+benchmarks on a, say, one-year, three-year or five-year basis? Please.
+
+A - Andrew Crof t
+
+{BIO 5711239 <GO>}
+
+Okay. Thank you, Abid. I'm going to ask Craig to pick up the operational gearing point and
+of course part of the expenses is to do with growth in adviser numbers as well. So, we get
+interconnected questions here, but Craig.
+
+Bloomberg Transcript
+
+A - Craig Gentle
+
+{BIO 20095126 <GO>}
+
+Andrew has stolen my first line. The question is quite specific though, is there something
+we can do? There is always something you can do, but there is then a question, should
+you do it? Because I would estimate over two-thirds of our cost base is sort of fixed in
+nature, it's property and people. And the overall framework that we have, which you see
+reflected in establishment expenses is all geared towards supporting the business as it
+stands today, but also accommodating the future growth, which we've consistently
+achieved.
+So the challenge here is always to reflect on the cost base. But to ensure you can see
+through to the other side of whatever particular problem you may be faced with. And at
+the moment, I think we're all very clear that the next few months, and it could be the next
+six months, look very, very uncertain. But every time we've experienced something like
+this, whether it's this type of crisis or a financial crisis, there is another side and you need
+everything in excellent shape in order to benefit from that. So I think there is a short-term
+and a long-term answer here.
+The way we see things at the moment, there's another side to this. And therefore the
+guidance I've given remains the case and that's 8% growth year-on-year with some
+benefit from the previous guidance I gave to reflect the fact that there is discretionary
+expenditure that can either be delayed or canceled. There is, then a long-term question
+and I can't really answer the long-term question, but needless to say if something would
+happen that really raised a question over that long-term growth potential. Then we're no
+different to any other business and yes of course, there are things that could happen.
+
+Page 20 of 23
+
+
+
+Company N ame: St James' s Place PL C
+Company Ticker: STJ L N Equity
+Date: 2020-07-28
+
+A - Andrew Crof t
+
+{BIO 5711239 <GO>}
+
+Thank you, Craig. And I'm going to pass to Rob again, just on the fund performance point.
+
+FINAL
+
+A - Robert Gardner
+
+{BIO 15404543 <GO>}
+
+Yeah, hi. With nine portfolios, 39 funds and 70 sub strategies, I don't think I'm going to do
+the one, three and five-year performance. But I think a key thing to note is the average
+client with SJP invest in eight to 10 funds and those eight to 10 funds are designed to
+meet the goals within the risk tolerance of that client. And remember the key thing to
+financial advice is making sure the clients have a global allocation of equities, bonds and
+properties around the world.
+Now our funds that are global and growth oriented have done very well and you all know
+that in the last five years, two-thirds of US stock market performance has been driven by
+just the FANGs and Microsoft and the US market makes up over 50% of global stock
+market returned. So our UK managers that have a bias towards value have done poorly,
+but they have done in line with what we'd expect, because they are UK and they are
+value-based. Our alternative funds on our platform again haven't fared as well as we
+would have liked and they are funds that we're working on.
+
+Bloomberg Transcript
+
+So, an overall level and when we think about our funds, in terms of the funds under
+management, our Global Growth Funds have done very well in absolute and relative
+performance and where we thought over exposure to UK or value, they've
+underperformed over the last five years, but that's in line with the benchmark that was set
+as by managers.
+
+A - Andrew Crof t
+
+{BIO 5711239 <GO>}
+
+Thank you, Rob. And Ian will pick up the client interaction point for these (inaudible)
+Partners.
+
+A - Ian Gascoigne
+
+{BIO 4439479 <GO>}
+
+Yeah, hi Abid, I think I don't want to generalize and say, but I think there are some
+interesting dynamics going on in the kind of psyche of clients at the moment. At the end
+of March, towards the start of lockdown and the market correction. I think there's a lot of
+anxiety amongst clients and the levels of interaction with their advisers was high. I think if
+we go forward, now I would characterize clients has been far more reflective and are
+open to deeper conversations with our Partners about their own life goals, wanting to be
+more organized, and actually what I would call a more reflective phase in this kind of weird
+world we're living in.
+They also have their own personal risk appetite in terms of whether they want to meet
+their partner remotely through Zoom's call or actually face-to-face and partners are
+reporting high levels of desire for meetings and some clients are more than happy to
+have those meetings face-to-face with clients, obviously with social distancing, but in
+terms of wanting themselves to kind of have those conversations, they are keen to do it.
+
+Page 21 of 23
+
+
+
+Company N ame: St James' s Place PL C
+Company Ticker: STJ L N Equity
+Date: 2020-07-28
+
+A - Andrew Crof t
+
+{BIO 5711239 <GO>}
+
+Thank you, Ian. And can we just a -- we're sort of over time, but we'll take one final
+question, please.
+
+FINAL
+
+Operator
+The last question comes from Oliver Steel from Deutsche Bank. Oliver, please go ahead,
+your line is open.
+
+Q - Oliver Steel
+
+{BIO 6068696 <GO>}
+
+Gosh, Just squeaked in before the bell, thanks for taking the question. I'll keep it to two.
+The first is your new business margin, the one that goes through the cash result. It was
+down 6% year-on-year, you got the 1% fall in gross flows. And I'm sort of surprised that it
+was down, because last year you said the ratios, the margin between the two effect that
+was down because of a fall in new business. It was new business much more leveled this
+year versus last year, I had a thought then you should or actually seen that ratio dip,
+because you should have seen a rising new business margin, not a falling one.
+And second question is on the growth in the Agency numbers, it's up 1% year-to-date. Are
+you still seeing a circa 5% per annum retirement rate to the older Partners? In which case,
+we've seen a sort of slight sort of mix shift towards young and experienced partners
+implicit within this calculation?
+
+Bloomberg Transcript
+
+A - Andrew Crof t
+
+{BIO 5711239 <GO>}
+
+Okay. Thank you Oliver, I'll pass to Ian first to do the growth in the agency and then I'll
+leave Craig to finish.
+
+A - Ian Gascoigne
+
+{BIO 4439479 <GO>}
+
+Yeah, hi, Oliver and well done on just making the cut there, I was pleased to hear your
+voice. In terms of the recruitment, we're not seeing any real trends of early retirement or
+older partners jumping off at the moment, we're not seeing that. We are seeing a greater
+number of useful professional people wanting to come into the business. And as you
+know, the Academy and Next Generation has produced some great candidates and there
+has been a driver of growth over the last three or four years for the business. I think next
+year will revert back to normal growth levels; this year, it just didn't seem appropriate to
+be very active in recruitment at the start of the COVID period.
+
+A - Andrew Crof t
+
+{BIO 5711239 <GO>}
+
+Alright, thanks, Ian. And Craig, do you want to just pick up the operational gearing point in
+the new business margin.
+
+A - Craig Gentle
+
+{BIO 20095126 <GO>}
+
+Yeah, and that's exactly what it says. Hi Oliver, it is that operational gearing point with
+certain costs that are pre-determined and therefore I'd describe a short-term fixed costs,
+
+Page 22 of 23
+
+
+
+Company N ame: St James' s Place PL C
+Company Ticker: STJ L N Equity
+Date: 2020-07-28
+
+FINAL
+
+so with a 2% fall-in in gross flows you begin to get a non-linear comparison to some of the
+fixed costs that go into that calculation before any new business is written. And it's always
+the case that in periods where you have lower flows than you anticipated that will be a
+cost, but for many years, it was a benefit, but not clearly visible because obviously by the
+sides of that new business, margin are very, very large figures.
+
+Q - Oliver Steel
+
+{BIO 6068696 <GO>}
+
+Thank you.
+
+A - Andrew Crof t
+
+{BIO 5711239 <GO>}
+
+I'm going to draw it to a close everyone. So, thank you very much for coming into the call. I
+think it's probably a bit of a new experience doing an investor presentation on a call like
+this. So, thank you.
+
+Bloomberg Transcript
+
+On the sort of also apologies for anyone that had some questions and we've run out of
+time, but do please contact Hugh or Tony with any outstanding questions and we'll get
+back to you. So, thank you everyone.
+
+This transcript may not be 100 percent accurate and may contain misspellings and other
+inaccuracies. This transcript is provided "as is", without express or implied warranties of
+any kind. Bloomberg retains all rights to this transcript and provides it solely for your
+personal, non-commercial use. Bloomberg, its suppliers and third-party agents shall
+have no liability for errors in this transcript or for lost profits, losses, or direct, indirect,
+incidental, consequential, special or punitive damages in connection with the
+furnishing, performance or use of such transcript. Neither the information nor any
+opinion expressed in this transcript constitutes a solicitation of the purchase or sale of
+securities or commodities. Any opinion expressed in the transcript does not necessarily
+reflect the views of Bloomberg LP. © COPYRIGHT 2022, BLOOMBERG LP. All rights
+reserved. Any reproduction, redistribution or retransmission is expressly prohibited.
+
+Page 23 of 23
+
+

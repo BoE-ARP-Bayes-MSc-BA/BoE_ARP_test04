@@ -1,0 +1,1197 @@
+Company Name: Topdanmark AS
+Company Ticker: TOP DC Equity
+Date: 2020-10-23
+
+Q3 2020 Earnings Call
+Company Participants
+FINAL
+
+Lars Thykier, Chief Financial Oﬃcer
+Peter Hermann, Chief Executive Oﬃcer
+Unidentiﬁed Speaker
+
+Other Participants
+Asbjorn Nicholas Mork
+Jakob Brink
+Jonathan Denham
+Mads Thinggaard
+Per Gronborg
+Youdish Chicooree
+
+Presentation
+
+Bloomberg Transcript
+
+Operator
+Good afternoon, everybody, and good morning to the USA. Thank you for joining us at
+this conference call. With me is Lars Thykier, CFO; and Steﬀen Heegaard, Group IR
+Director. We're holding this conference call because earlier today, we published the Q3
+report, but I would like to start the conference call with a few opening remarks.
+Q3 was not a good quarter for Topdanmark. First of all, the quarter was negatively
+impacted by a deterioration of the claims trend on house insurance. And in Q1 and Q2
+reports, we addressed the issue of higher level of rain and water pipe claims. In Q3, we
+furthermore had few but very large ﬁre claims. The claims trend in -- on house insurance
+deteriorated the overall claims trend by 2.6 percentage points in Q3, which explains the
+drop in the underlying claims trend of 1.3 percentage points.
+We have taken action in order to regain proﬁtability on house insurance by way of riskbased pricing, by increased focus on acceptance criteria and transformation and also
+procurement eﬀorts. Q3 was also negatively impacted by lower runoﬀ aﬀecting the claims
+trend by 2.4 percentage points compared with Q3 last year.
+As mentioned in the Q2 report, the lower level of runoﬀ proﬁts in 2020 compared with
+previous years was aﬀected by outliers in the short tail business lines with substantial runoﬀ losses on professional liability and property. We have ﬁxed most of that, but it was also
+aﬀected by the steady fall of the risk premium on motor third liability and accident which
+has characterized the last many years now levelling oﬀ.
+Page 1 of 17
+
+
+
+Company Name: Topdanmark AS
+Company Ticker: TOP DC Equity
+Date: 2020-10-23
+
+FINAL
+
+So we assume that the risk premium on motor third liability and accident will remain
+stable in the coming years, meaning that we do not expect the same level of run-oﬀ gains
+going forward as we have seen historically where it's been between 3% and 5%. But Q3
+however was very low come on run-oﬀs. On the positive side, COVID-19 impacted the
+claims trend positively by 1.9 percentage points in Q3, and we still have a good
+momentum in new sales and churn rates.
+Turning to the proﬁt forecast model for 2020, we have upgraded the assumed combined
+ratio from previously between 88 and 89 to now around 88 excluding run-oﬀ in Q4, and
+the post-tax result has improved 150 million from previously between 550 million and 70 - 750 million to now between 750 million and 850 million excluding again, run-oﬀ in Q4.
+The main reason for the upgrade is a more positive view on the impact of COVID-19. Thus
+we now expect a positive impact on the technical result of between 50 million and 100
+million for the year.
+
+Bloomberg Transcript
+
+In the Q2 report, we expected the COVID-19 eﬀect for 2020 to be between minus 50 and
+zero million. And furthermore, the assumed investment return for 2020 has been
+increased by 110 million, and the improved investment return together with
+postponement of some costs in connection with our new life system is also the reason
+why the life result has been increased by 50 million.
+And due to the good momentum in sales and churn rates, we had upgraded the
+expected growth in non-life from between previously 2 to 3 to about 3% now. And then
+short on the assumptions on for 2021, as usual, we announced some key assumptions for
+the coming year in the Q3 report. For 2021, we assume that premium growth in non-life
+will improve from about 3% in 2020 to just above 3% in 2021. And the combined ratio is
+assumed to be around 90 excluding one-oﬀs.
+Likewise, in the Q3 report last year, we also assumed a combined ratio of around 90 for
+2020. However, compared with the assumed combined ratio a year ago, this assumed
+combined ratio for 2021 is negatively impacted by 0.3 percentage points due to lower
+interest rates level and by 1 percentage point due to an increased level of investments in
+Topdanmark's eﬃciency program that partly also will give some eﬀects next year.
+And eﬃciency program, just a few words on that, in the Q3 report, we announced that the
+three main focus areas in our program, and they are automation and digitalization of
+routine based processes, its data analysis with risk and pricing and its procurement, and
+the impact of the eﬃciency program will start to materialize from 2022 with increasing
+impact to 2025.
+And we actually expect that the eﬃciency gains will absorb the increase in the level of
+depreciations with a clear margin in the coming years, meaning, with a better proﬁtability.
+But this is what concludes my opening remarks, so we are now ready to answer your
+questions.
+
+Page 2 of 17
+
+
+
+Company Name: Topdanmark AS
+Company Ticker: TOP DC Equity
+Date: 2020-10-23
+
+Please keep your questions to one or two at a time. And if you have more questions, feel
+free to enter the queue again for a second round. And operator, may we have the ﬁrst
+questions, please?
+
+FINAL
+
+Questions And Answers
+Operator
+(Question And Answer)
+Thank you. (Operator Instructions). Please hold until we have registered the ﬁrst
+questions. Our ﬁrst question comes from the line of Asbjorn Mork of Danske Bank. Please
+go ahead. Your line is now open.
+
+Q - Asbjorn Nicholas Mork
+
+{BIO 17028219 <GO>}
+
+Bloomberg Transcript
+
+Yes, good afternoon. And thanks for the initial remarks. That was very helpful. I have two
+questions, then one on life insurance, the guidance for next year, the DKK52 million to
+DKK100 million, if I understand you correctly, there's a 50 million impact from the IT cost
+that you take from 2020-2021. My question is more on the outlook for 2022 given the
+return assumptions that was an update a couple of weeks ago. Is it fair to assume that,
+that will lift the 2022 life insurance pre-tax by DKK50 million? So we're talking mid-range
+of DKK75 million next year, then DKK125 million in 2022. And what can you do to sort of
+improve the pre-tax in the next couple of years from that level which seems to be quite a
+lot lower than the market was expecting? Thank you.
+
+A - Peter Hermann
+
+{BIO 20507411 <GO>}
+
+Yes, we have postponed sort of the investments from in our life business. We still have
+some teething problems that we mentioned in the report with the system. It is a -- it's a
+well working system, but there are still things to do. We have postponed some of the
+investments, meaning that this year we have upgraded the result from 0 to 52 -- now
+DKK50 million to DKK100 million, and that's true, that has an eﬀect on the next year's
+assumptions being between 50 and 100. But as you also mentioned, it's aﬀected by the
+lower assumed return assumptions next year.
+And we will do our best actually as you can say, to decrease costs, because one thing is
+that we have some depreciations, but we also still expect some eﬃciency gains going
+forward in terms of operating, and of course, we're looking into how can we improve
+proﬁtability also in our business, now it's in life alone, but also in conjunction with the
+accident and illness products which have raised prices on. But it is a matter of being still
+competitive on an overall level, meaning that the cost level we have on our investments,
+we'll of course look at that, but it mainly will be operational eﬃciencies going forward that
+can improve also the result. But it's true that the investment return is a lower level and
+that's, of course, aﬀecting the investment result. But the investment result in life is actually
+non-life money, so we could also have the lower investment result in non-life.
+
+A - Lars Thykier
+
+{BIO 16427122 <GO>}
+Page 3 of 17
+
+
+
+Company Name: Topdanmark AS
+Company Ticker: TOP DC Equity
+Date: 2020-10-23
+
+I say we really don't make forecasts, as you know, but if you think DKK150 million, it will
+not be very wrong. (inaudible) or 2022 where was that would say. Okay, thanks.
+
+Q - Asbjorn Nicholas Mork
+
+{BIO 17028219 <GO>}
+
+FINAL
+
+DKK150 million for 2022? Well, is that what you said?
+
+A - Lars Thykier
+
+{BIO 16427122 <GO>}
+
+Yeah.
+
+Q - Asbjorn Nicholas Mork
+
+{BIO 17028219 <GO>}
+
+Okay. Thanks.
+
+A - Lars Thykier
+
+{BIO 16427122 <GO>}
+
+Yes, and were -- saying that I don't give forecasts for 2020?
+
+Bloomberg Transcript
+
+Q - Asbjorn Nicholas Mork
+
+{BIO 17028219 <GO>}
+
+No, of course. I'm just -- I just wanted to hear yourself, your general thoughts, but that's
+very clear. Then on your solvency in your dividend capacity, you have a solvency ratio of
+200%, you have just -- you continue to reﬁnance the capital that is beginning today and
+then you still need to pay out DKK8.5 of dividend for 2019, which I guess will cut around
+19 percentage points from your solvency, if my math is correct. So, I'm just thinking
+basically your solvency I guess is somewhat lower at this stage than you anticipated six
+months ago. So how do you look at the dividend capacity for 2020 -- 2020, sorry,
+excluding the DKK8.5 from 2019?
+
+A - Lars Thykier
+
+{BIO 16427122 <GO>}
+
+We haven't changed our mind about the dividend capacity, but is obviously a slight
+adjustment in our solvency (inaudible) is that were made, and that is to please the
+regulator. We have our own risk and solvency assessment. We have put aside DKK100
+million for operational risks related to our new IT, DKK100 million was -- again.
+
+Q - Asbjorn Nicholas Mork
+
+{BIO 17028219 <GO>}
+
+When will this disappear?
+
+A - Lars Thykier
+
+{BIO 16427122 <GO>}
+
+During the -- in the capital plan, we have put the (inaudible)
+
+Q - Asbjorn Nicholas Mork
+
+{BIO 17028219 <GO>}
+
+Okay. Fair enough. Okay. That was all from my side.
+
+A - Peter Hermann
+
+{BIO 20507411 <GO>}
+
+Page 4 of 17
+
+
+
+Company Name: Topdanmark AS
+Company Ticker: TOP DC Equity
+Date: 2020-10-23
+
+We also have the intention to replace the subordinated loan. So we are actually -- one
+thing is that we're redeeming one of the subordinated loans, but we also have plans
+actually do take a new one.
+
+Q - Asbjorn Nicholas Mork
+
+{BIO 17028219 <GO>}
+
+FINAL
+
+Sure, but the 200% solvency, that is including the capital that you redeem today, right?
+
+A - Peter Hermann
+
+{BIO 20507411 <GO>}
+
+That's true. Yes. And then this 187% is without the redeemed loan, yes.
+
+Q - Asbjorn Nicholas Mork
+
+{BIO 17028219 <GO>}
+
+Yes. Okay. All right. Got it. Thank you. Thanks a lot.
+
+Operator
+Thank you. Our next question comes from the line of Youdish Chicooree of Autonomous
+Research. Please go ahead. Your line is now open
+
+Bloomberg Transcript
+
+Q - Youdish Chicooree
+
+{BIO 17430923 <GO>}
+
+Hi. Good afternoon, everyone. So I've got two questions. The ﬁrst one, I just wanted to go
+back on your underlying claims trend. You mentioned claims in house insurance had an
+adverse impact of 2.6 percentage points in the quarter, and you've taken a number of
+actions including pricing. So could you just tell us, I mean what level of price increases are
+you pushing through? And how does that compare with your expected inﬂation in that
+line? Because I'm pretty sure in that you've been having issues in this line for probably 18
+months now, in the winter you tend to have frozen burst pipes. In the summer rainfall
+seems to be generating claim. So I was wondering, like what kind of margin improvement
+are you targeting in that line. So that's my ﬁrst question. The second one is on dividends.
+Are you concerned that the restrictions on dividend payments from the regulator could
+be extended beyond January 2021, and therefore, did you have any discussions with your
+regulator on what you could do next year?
+
+A - Lars Thykier
+
+{BIO 16427122 <GO>}
+
+We haven't ﬁnalized the thinking on the house products yet. So I can give you -- I can't
+give you a number for what we expect in price increases. But it is not only the price
+increases, it will be looking at the claims handling as well. So there are more possibilities
+to improve proﬁtability than price increases.
+
+Q - Youdish Chicooree
+
+{BIO 17430923 <GO>}
+
+Okay. All right.
+
+A - Lars Thykier
+
+{BIO 16427122 <GO>}
+
+Concerning the dividends, Youdish, I would be very surprised if the regulators should
+postpone our dividends further.
+Page 5 of 17
+
+
+
+Company Name: Topdanmark AS
+Company Ticker: TOP DC Equity
+Date: 2020-10-23
+
+A - Peter Hermann
+
+{BIO 20507411 <GO>}
+
+That is not the expectation after talking to them. But they haven't said -- they haven't given
+an acceptance that we can do it, but they have not said you cannot do it. It will be a
+surprise if they make further restrictions.
+
+FINAL
+
+Q - Youdish Chicooree
+
+{BIO 17430923 <GO>}
+
+Okay. You're talking about the half year you had to postpone or are you talking about the
+fact that maybe 2020 -- there won't be any issues on the 2020 dividend as well?
+
+A - Peter Hermann
+
+{BIO 20507411 <GO>}
+
+No, they're actually -- what they have said until now is that they said to the market don't
+pay out dividend in the year of 2020 and that has -- so that was more to do with either for
+'19 or if you paid out dividend through the year. So we see that going into 2021, it should
+be allowed to pay out dividend both from '19 and also from '20.
+
+Q - Youdish Chicooree
+
+{BIO 17430923 <GO>}
+
+All right. understood. Thank you.
+
+Operator
+
+Bloomberg Transcript
+
+Thank you. Our next question comes from the line of Jakob Brink of Nordea. Please go
+ahead. Your line is now open.
+
+Q - Jakob Brink
+
+{BIO 20303720 <GO>}
+
+Thank you very much. Just coming back to the question on price increases and premiums.
+So, what did you say about the -- last about the house price increases? I'm just thinking
+that you mentioned yourself illness and accident, I think also some of your peers have
+been now talking about workers comp prices going up sort out of 10% to 15% next year.
+So as I think one percentage point seems relatively low, given it's a rather big share of
+your total premiums that will be priced up both motor, workers comp, and illness &
+accident. Why does that only get one percentage point? That was my ﬁrst question. And
+then on the -- yeah, actually, let's just start with that one, please.
+
+A - Lars Thykier
+
+{BIO 16427122 <GO>}
+
+Yeah. It's a major part of the 1 percentage point, that had two price increases on illness
+and accident, the reservation with workers compensation, that's not price increases, that is
+just indexing. I don't know exactly as I said before I don't know exactly what we are going
+to do and how. But we will work, we will do risk-based pricing in the -- as usual, and that
+means that there may be some price decreases as a well in parts of the country.
+
+A - Peter Hermann
+
+{BIO 20507411 <GO>}
+
+But it will improve proﬁtability next year. And then the workers' compensation, that's on
+premium. That is not within the 1%.
+
+Page 6 of 17
+
+
+
+Company Name: Topdanmark AS
+Company Ticker: TOP DC Equity
+Date: 2020-10-23
+
+Q - Jakob Brink
+
+{BIO 20303720 <GO>}
+
+FINAL
+
+But then it does still seems relatively low. So workers comp is 8% of your premiums and
+motor is and illness and accident is, what is it to 35% combined. So how do you get to
+only one, I understand the 8 is not included, but still then in your around 3% doesn't seem
+like much when you're also getting more than 2% from normal indexation. So what is
+going the other way?
+
+A - Peter Hermann
+
+{BIO 20507411 <GO>}
+
+On premiums?
+
+Q - Jakob Brink
+
+{BIO 20303720 <GO>}
+
+Yes, I'm just thinking around 3% or just above 3% doesn't sound like much when you're
+increasing or least your peers are increasing 10% to 15% on workers comp with the index.
+And then also potentially pretty big increases on the illness and accident, and you're
+doing additional increases on house prices. So why is that only getting to around 3%?
+
+A - Peter Hermann
+
+{BIO 20507411 <GO>}
+
+It's all sort of a little conservative.
+
+Q - Jakob Brink
+
+{BIO 20303720 <GO>}
+
+Bloomberg Transcript
+
+Okay. (Multiple Speakers)
+
+A - Peter Hermann
+
+{BIO 20507411 <GO>}
+
+But we haven't decided fully on the indexation on the workers' compensation, but it's true
+that it's a high index for the year, but we're looking to the competition situation. Then of
+course we think that if you look at the partnerships, actually, we think that would level out
+in terms of Nordea and Danske next year and of course, we have a decrease -- it will
+decrease due to the loss of our Sydbank, but yes, the 3% of level will be conservative.
+
+Q - Jakob Brink
+
+{BIO 20303720 <GO>}
+
+Actually, on the Nordea partnership, wouldn't it be fair to assume that okay, in 2020, you
+have lost because basically Tryg Danske started earlier than Top or Nordea. Now you
+could argue that you have to start digging into the old Tryg portfolio, so now which
+should be a small positive delta instead of a negative one or why is it only neutral?
+
+A - Peter Hermann
+
+{BIO 20507411 <GO>}
+
+Yeah. That is due to the indexation also. We still think that in this year it will be negative.
+As you said, they have started 15 months ahead -- 15 months ago. We started 9 months
+ago. We're still on a very good traction. If you look at Q3 alone, actually it's not that
+negative. It still is negative, but still over the years, it's 1.1%. Next year, that has been the
+assumption that it will level out. But it's again, depending a little on how aggressive will
+Tryg be, how aggressive we will be. So of course, we hope that if we can keep the
+progress that could also be a plus, but that is just an -- the best estimate is that we would
+actually arrive at the, as you can say, at a neutral level.
+Page 7 of 17
+
+
+
+Company Name: Topdanmark AS
+Company Ticker: TOP DC Equity
+Date: 2020-10-23
+
+FINAL
+
+If we compare actually, we read that (inaudible) said that they received -- they have
+received 26,000 new customers in the 15 months. That's about 1,700 customers per
+month. And I can say that if we look at our months, the 9 months we have with Nordea, we
+have actually to over 2,000, 2,200 new customers come up. So we are still gaining in on
+the last until now.
+
+Q - Jakob Brink
+
+{BIO 20303720 <GO>}
+
+Okay. Fair enough. And then just my second question was regarding your investments
+and depreciations going forward. How would that be timed? So you're stating that going
+forward, it will be a clearly positive margin on those investments, but how about 2022? So
+will that be more of an investment year and then 2023, 2024 will be the positive year or is
+every year going to be with a positive margin?
+
+A - Lars Thykier
+
+{BIO 16427122 <GO>}
+
+I think that we will manage to make a gain every year, but not of the same size.
+
+Q - Jakob Brink
+
+{BIO 20303720 <GO>}
+
+So small one in '22, and then increasing going forward?
+
+A - Lars Thykier
+
+{BIO 16427122 <GO>}
+
+Bloomberg Transcript
+
+That depends, that depends. I mean sometimes you're accelerating things and sometimes
+you're delaying things and I don't know exactly how it's going to look in '22.
+
+Q - Jakob Brink
+
+{BIO 20303720 <GO>}
+
+Okay, fair enough. Thank you.
+
+Operator
+Thank you. Our next question comes from the line of Jon Denham from Morgan Stanley.
+Please go ahead. Your line is now open.
+
+Q - Jonathan Denham
+
+{BIO 19972914 <GO>}
+
+Good afternoon, everyone. Thank you very much to take my questions. Firstly, just to go
+back to the higher claims in home, I am just wondering why do you think peers aren't
+mentioning this? Is there anything here in your portfolio that looks Denmark speciﬁc? And
+secondly, and how certain are you that the costs of implementing the new IT system in the
+life business won't continue to increase further given that it sounds like from the release
+the problems aren't yet solved, maybe kind of the worst-case scenario around this?
+Thanks.
+
+A - Lars Thykier
+
+{BIO 16427122 <GO>}
+
+You're asking why the competitors don't mention the house properly, partly because
+we've hit on price on run-oﬀs, very big private homes that is not included in our large
+claims, but still we are talking about substantial amounts and I suppose that's part of the
+Page 8 of 17
+
+
+
+Company Name: Topdanmark AS
+Company Ticker: TOP DC Equity
+Date: 2020-10-23
+
+explanation and I think that while I have no doubt that we share the problem with piping
+with all our competitors that frequency and average claim on piping is increasing pretty
+fast.
+
+FINAL
+
+A - Peter Hermann
+
+{BIO 20507411 <GO>}
+
+In regards to lever, you can say that now the system was implemented last year. We are
+getting of course more and more knowledge about the system. We can see that we still
+have some problems and we have set aside some you say investment activities so that will
+hurt cost that we've postponed into next year. So that's how we see it.
+We still need to do some investments also next year, but then, we think that it will return
+to a more normal situation in terms of stabilizing the system. But the problem is that at the
+moment, it is still a situation where it's I will quote, it's still the charter thesis. And we
+expect that we are close actually now, but still we will need the next year as well to do
+some enhancements, and then this should be better. So of course, everything can go
+wrong always, but we are in better shape now, and we are pretty convinced that next year
+will be a turning point in terms of going to a more normal stabilized situation.
+
+A - Unidentiﬁed Speaker
+
+Bloomberg Transcript
+
+Okay. Just returning to your question about of house insurance. Of the 53 million with the
+claims trend on house increased in Q3 around between 20 million and 30 million, it came
+from ﬁre claims, which we see as a statistical coincidence in Q3. Therefore, we don't
+expect this to be brought forward into Q4 in '20 and '21.
+
+Q - Jonathan Denham
+
+{BIO 19972914 <GO>}
+
+Brilliant. Thank you. Can I just check the issues with the life system are completely
+independent of the larger non-life system that you're going to be building?
+
+A - Peter Hermann
+
+{BIO 20507411 <GO>}
+
+Yes. Complete independent.
+
+Q - Jonathan Denham
+
+{BIO 19972914 <GO>}
+
+Okay. Perfect. Thank you.
+
+Operator
+Thank you. Our next question comes from the line of Mads Thinggaard of ABG. Please go
+ahead. Your line is now open.
+
+Q - Mads Thinggaard
+
+{BIO 15369662 <GO>}
+
+Yes. Thank you. Mads from ABG here. I'm a bit, I mean more curious on your eﬃciency
+program. If you could put a bit of more ﬂavor on I mean what is kind of -- is there any kind
+of new possibilities here perhaps related to behavior from COVID-19? And what are kind
+
+Page 9 of 17
+
+
+
+Company Name: Topdanmark AS
+Company Ticker: TOP DC Equity
+Date: 2020-10-23
+
+of -- I mean you have these three elements, but I don't know if you could put a bit of more
+ﬂavor on exactly what it is you are looking into as the ﬁrst question.
+
+FINAL
+
+A - Peter Hermann
+
+{BIO 20507411 <GO>}
+
+Yes, I can say a little. You can say that if you look at the ﬁrst point, the automation
+digitalization, we're working very much on being more focused on actually using our
+eﬀorts, turning our business to our new systems, the way we're building our new core
+system for non-life. We have in a period actually built a little too much on both the old
+system and the new system, now we're focusing more eﬀorts turning over to the new
+systems. Meaning that we'll also reduce number of hands working with the old system,
+that could give some cost eﬃciencies and also we'll get some improvements in terms of
+automization.
+The other thing working with data and risk, we think that we can be even better with our
+customer scoring model with our segmentation. Now we have mentioned house, maybe
+it is not only a matter of pricing, it's also a matter of segmentation. So -- but we think we
+can actually improve and that trends also being even better with the more risk-based
+pricing and the price sensitivity and so on.
+
+Bloomberg Transcript
+
+And then the last thing, procurement. We have thought actually to be okay and pretty
+decent in terms of procurement, but we can see that now we have gathered all our ﬁve
+procurement people in one separate division and we have some -- we think we have
+some pretty good ideas and initiatives to actually prove our bargaining power, and
+actually make some good returns of being even better on procurement. So that's -- you
+can see that's the main part of our eﬃciency programs.
+
+Q - Mads Thinggaard
+
+{BIO 15369662 <GO>}
+
+Okay. But I mean looking at the elements here, I think it's very much, I mean internal in
+Topdanmark which seems you are looking into. It's not like meeting customers in any way
+or --
+
+A - Peter Hermann
+
+{BIO 20507411 <GO>}
+
+No, you can say that (Multiple Speakers) -- yeah, but you can say that working with
+digitalization is a lot to do with when I was meeting the customers. Procurement, of
+course, is a matter of saving money, but it could also be actually to improve customer
+experience by actively having some better providers, maybe not only price but also in
+terms of value for the customer. And also risk and pricing, that's as you know it, but
+automation and digitalization, we are still working on actually making it even easier to be
+a customer in Topdanmark. For example, now, we are looking to also improving again the
+level of automations going when we do the claims reporting. And as we are looking into
+diﬀerent scenarios, it could be that instead of actually typing in your claim on the web,
+you could actually just call it in still in an automated ﬂow. So we have a lot of ideas how
+you can do that. Also as you can say aﬀecting the positive customer satisfaction hopefully.
+
+Q - Mads Thinggaard
+
+{BIO 15369662 <GO>}
+
+Page 10 of 17
+
+
+
+Company Name: Topdanmark AS
+Company Ticker: TOP DC Equity
+Date: 2020-10-23
+
+If this plays out as you kind of plan and hope for, I mean what would be kind of the gain
+from this, is it likely DKK100 million a year in 2025, or kind of your best-case investment
+basis?
+
+A - Lars Thykier
+
+{BIO 16427122 <GO>}
+
+FINAL
+
+You'll see it in years to come.
+
+A - Peter Hermann
+
+{BIO 20507411 <GO>}
+
+Plenty of work -- We think actually have as a positive view on probability on this one and
+that's the reason why we are saying that we think it will absorb this increase in level of
+depreciation with a clear margin, but we will get closer to that when we -- we'll tell you
+when we reach it going forward.
+
+Q - Mads Thinggaard
+
+{BIO 15369662 <GO>}
+
+Okay. Thanks a lot. And then just a second question, a short one on COVID-19, next year. I
+think the report reads a bit like you're still expecting gains next year, but much smaller
+net. Is that correct or --
+
+A - Lars Thykier
+
+{BIO 16427122 <GO>}
+
+That's right.
+
+Bloomberg Transcript
+
+A - Peter Hermann
+
+{BIO 20507411 <GO>}
+
+That's right between 0 and 50 million, 30 million or so. It should trade to 30 million. And
+the reason why, it maybe that will be interpreted as conservative. But the reason why we
+have been a little afraid until now is that for this year was also that the level of
+unemployment is still pretty low compared with the situation and we still expect that
+unemployment would rise and that will actually have some negative eﬀects. But yes,
+there's a little positive next year as well in the 90s for the next year.
+
+Q - Mads Thinggaard
+
+{BIO 15369662 <GO>}
+
+Okay. Thanks a lot.
+
+Operator
+Thank you. Our next question comes from the line of Per Gronborg of SEB. Please go
+ahead. Your line is now open.
+
+Q - Per Gronborg
+
+{BIO 15910340 <GO>}
+
+Thank you. A couple of questions from my side as well. If you take the big picture, looks
+that in 2019, you had a quite tremendously good ﬁrst half, signiﬁcantly less good second
+half. Now you are showing negative year-over-year comparisons in the third quarter. To
+me, it -- what's the reason why second half again this year seems to be a challenge for
+you. Of course, you don't know how the fourth quarter will look. Any comments on that?
+
+Page 11 of 17
+
+
+
+Company Name: Topdanmark AS
+Company Ticker: TOP DC Equity
+Date: 2020-10-23
+
+A - Peter Hermann
+
+{BIO 20507411 <GO>}
+
+No.
+
+Q - Per Gronborg
+
+{BIO 15910340 <GO>}
+
+FINAL
+
+You should basically now meet the easy comparisons, which you have not been able to
+beat in the third quarter. Is this a new seasonality we should expect or just coincidence?
+
+A - Peter Hermann
+
+{BIO 20507411 <GO>}
+
+I think it's coincidence.
+
+Q - Per Gronborg
+
+{BIO 15910340 <GO>}
+
+Okay. My second question is pretty plain vanilla. You are making incremental digitalization
+eﬀorts of one percentage point. Does this imply that your cost guidance for next year will
+be somewhere in the area of 17.5%, maybe we should add 1 percentage point to the
+outcome for this year.
+
+A - Peter Hermann
+
+{BIO 20507411 <GO>}
+
+No. This is partly paid for by the claims expenses. So and --
+
+Q - Per Gronborg
+
+{BIO 15910340 <GO>}
+
+Bloomberg Transcript
+
+I think this is the part of 1% in extra investments will booked as on the claim side or --
+
+A - Lars Thykier
+
+{BIO 16427122 <GO>}
+
+Yes, that's what we expect, and at the same time, we will ﬁnd some savings.
+
+A - Peter Hermann
+
+{BIO 20507411 <GO>}
+
+We expect around 16 still this year.
+
+Q - Per Gronborg
+
+{BIO 15910340 <GO>}
+
+Around 16 next year, but I guess 16 will be hard to will be hard to -- will probably be more
+like 16.5% this year. Isn't that a fair assumption?
+
+A - Lars Thykier
+
+{BIO 16427122 <GO>}
+
+I think it's is a -- ?
+
+A - Peter Hermann
+
+{BIO 20507411 <GO>}
+
+Sorry, can you repeat that?
+
+Q - Per Gronborg
+
+{BIO 15910340 <GO>}
+
+Page 12 of 17
+
+
+
+Company Name: Topdanmark AS
+Company Ticker: TOP DC Equity
+Date: 2020-10-23
+
+FINAL
+
+(Multiple Speakers) When you look at your cost ratio year-to-date is 16.2. If I look at the
+seasonality last year, you added some 25 basis point from Q -- from nine months to full
+year. If you do the same this year, you end up at approximately 16.5 or we should expect
+the cost rate to go down to the 16% level again in 21 despite that you were adding more
+costs (Multiple Speakers)
+
+A - Peter Hermann
+
+{BIO 20507411 <GO>}
+
+Around 16. And this -- and this year we also said it would be a little above 16 and that will
+probably also be true this year, but next year will be around 16.
+
+Q - Per Gronborg
+
+{BIO 15910340 <GO>}
+
+Okay, even though that you're adding additional cost in?
+
+A - Lars Thykier
+
+{BIO 16427122 <GO>}
+
+Or little above.
+
+Q - Per Gronborg
+
+{BIO 15910340 <GO>}
+
+Okay. Thank you.
+
+Operator
+
+Bloomberg Transcript
+
+Thank you. (Operator Instructions) Our next question comes from the line of Jakob Brink
+of Nordea. Pleased go ahead, your line is now open.
+
+Q - Jakob Brink
+
+{BIO 20303720 <GO>}
+
+Thank you. You said we should go back in the queue if you wanted more, so I have one
+more follow-up question on life. So obviously now life insurance result will be quite weak
+this year, even though you postponed some proﬁts to next year. It will also be very weak
+next year, and you're basically guiding that we might be able to foresee DKK150 million in
+2022, which is also lower than we were used to be getting from life. So I guess my
+question is, do you still think that Topdanmark Life should be a part of Topdanmark
+group? With much more investments in IT, regulatory pressure and lower earnings. Why is
+this still important to own?
+
+A - Lars Thykier
+
+{BIO 16427122 <GO>}
+
+We have made the investments in the IT systems. So that's not another reason to dispose
+of life and as we've always said, we are not religious about owning a life company. But if
+we should dispose of it, we need a decent price and we have not been shown any decent
+price yet.
+
+Q - Jakob Brink
+
+{BIO 20303720 <GO>}
+
+Okay, thank you. And then just one follow-up on run oﬀ games. The very ﬁrst thing you
+said Peter about run oﬀ games in your intro, I didn't hear that. Could you repeat that
+maybe? About we should not -Page 13 of 17
+
+
+
+Company Name: Topdanmark AS
+Company Ticker: TOP DC Equity
+Date: 2020-10-23
+
+FINAL
+
+A - Peter Hermann
+
+{BIO 20507411 <GO>}
+
+I had said said, that we have aﬀected -- if you look at the run-oﬀ level, then we have seen
+that we also have had run oﬀ losses in the short tail business. That is not very good, and
+that's not something we are used to see and we are dealing with that and have sold most
+of that as we see it. But I also said that if you look at what has resulted in one-oﬀ gains
+historically, it has also been the falling risk on most of our third liability and accident. And
+what we're seeing is that the risk premium on motor third liability -- third-party liability and
+accident, we see that, that will remain stable in the coming years, meaning that you just
+expect to see the same level of run-oﬀ gains, as we have seen historically, where it's been
+between 3% and 5%. So that was what I said. But actually, but Q3 was low.
+
+Q - Jakob Brink
+
+{BIO 20303720 <GO>}
+
+So 2% to 3% is that what or around 3% or --
+
+A - Lars Thykier
+
+{BIO 16427122 <GO>}
+
+What we said and what we've said in many, many years is that when we make our
+provisions, we are aiming at 1.5% to 2% above in the business.
+
+Q - Jakob Brink
+
+{BIO 20303720 <GO>}
+
+Okay. That's not too far away from Q3 then.
+
+Bloomberg Transcript
+
+A - Lars Thykier
+
+{BIO 16427122 <GO>}
+
+No, not too far. But if Q3 was impacted by this very, very large short tail runoﬀ losses
+which we are not proud of and which we should not be. But there has -- we have had tremendous gains on the motor third party liability when the risk premium has fallen by
+almost 50% during the last 10 years and that cannot continue forever.
+
+Q - Jakob Brink
+
+{BIO 20303720 <GO>}
+
+Okay. Thank you.
+
+Operator
+Thank you. Our next question comes from the line of Per Gronborg of SEB. Please go
+ahead. Your line is now open.
+
+Q - Per Gronborg
+
+{BIO 15910340 <GO>}
+
+Yes, good. Also I have also one additional question, very much later also to what Jakob
+just addressed. Your prior year gains. What clearly sticks out is that on the -- on your
+corporate book, you have had the net losses year-to-date. You basically had sale results
+the last 2 quarters. Can you put any ﬂavor of that? Is that a question of you are
+provisioning up for workers' compensation for a tougher labor market or is this the area
+where you took the one oﬀ or can you put any light on why the prior year gains have
+come down to this highest tenant and what the outlook is if we look into '21 on the prior
+year gains on your corporate book?
+Page 14 of 17
+
+
+
+Company Name: Topdanmark AS
+Company Ticker: TOP DC Equity
+Date: 2020-10-23
+
+A - Peter Hermann
+
+{BIO 20507411 <GO>}
+
+Lars?
+
+FINAL
+
+A - Lars Thykier
+
+{BIO 16427122 <GO>}
+
+Yes I think we will probably still see some positive run-oﬀ from -- or we will see some
+positive run-oﬀ from the workers' compensation. But we have -- yes, what was the
+question, sorry?
+
+Q - Per Gronborg
+
+{BIO 15910340 <GO>}
+
+So, the question is basically, if I look at prior year gains in your corporate segment, has
+there been gains from workers compensation this year? Or is it workers compensation
+that has been the major delta versus the solid gain you had in 2019?
+
+A - Lars Thykier
+
+{BIO 16427122 <GO>}
+
+There has been gains in workers compensations this year. We said we had positive run-oﬀ
+that has been on the illness and accident and (inaudible) and workers compensation.
+
+A - Peter Hermann
+
+{BIO 20507411 <GO>}
+
+Bloomberg Transcript
+
+And also had actually one-oﬀ gains on worker compensation during Q3 and also for the
+year. But we also have losses on, for example, professional liability, but we have the short - more short tail is actually quite long. But on the short tail business has been negative.
+That's the reason why on the SME segment that the run-oﬀ is very low.
+
+A - Lars Thykier
+
+{BIO 16427122 <GO>}
+
+We are not supposed to have run-oﬀ losses on building and houses, but nonetheless that
+is what we had in Q3.
+
+A - Peter Hermann
+
+{BIO 20507411 <GO>}
+
+(Multiple Speakers) We also had actually loss on third party and comprehensive actually in
+Q3 on run-oﬀs, the run-oﬀ losses on that. That's not only -- we haven't seen that before, so
+as well.
+
+Q - Per Gronborg
+
+{BIO 15910340 <GO>}
+
+That also applies to the corporate segment, not only to the private segment?
+
+A - Peter Hermann
+
+{BIO 20507411 <GO>}
+
+Yes, some of that.
+
+Q - Per Gronborg
+
+{BIO 15910340 <GO>}
+
+Okay. Some of it. Okay. Thank you.
+
+Page 15 of 17
+
+
+
+Company Name: Topdanmark AS
+Company Ticker: TOP DC Equity
+Date: 2020-10-23
+
+Operator
+Thank you. Our next question comes from the line of Asbjorn Mork: Danske Bank. Please
+go ahead. Your line is now open. Asbjorn, please go ahead. Your line is now open.
+
+FINAL
+
+Q - Asbjorn Nicholas Mork
+
+{BIO 17028219 <GO>}
+
+Sorry, sorry. I'm here. I muted the phone. Sorry. Yeah, I just have a follow up. And sorry, it's
+a bit on the same topic, but the run-oﬀ losses in Q3, if I understand you correct, is within
+house insurance. So what exactly is driving that run-oﬀ loss? Why is that all of a sudden
+loss in Q3? And maybe a bit on the same topic, but the claims within water pipes, fungus
+claims, et cetera, it seems to be in housing. Have you been sort of underprovisioned in
+that area or how do you see that -- sort of the trends we've seen in the last three, four
+quarters?
+
+A - Lars Thykier
+
+{BIO 16427122 <GO>}
+
+Bloomberg Transcript
+
+The simple answer is, yes, that is what we have. There has been a development in lot of
+this claims that has surprised us because things have grown much worse than we
+expected to be in the ﬁrst place. One of the reasons for this is probably the precipitation
+we had in Q1 where a lot of these claims, they have developed in an unpleasant way with
+more from (inaudible) and stuﬀ like this. And then there are the piping claims. When we
+get the piping claims, we have an expectation about how much is this going to cost but
+we have seen an increase in both those frequencies as I mentioned before, and a
+substantial increase in the average claim. So, we are taken a little by surprise by the
+development we have seen in this year.
+
+Q - Asbjorn Nicholas Mork
+
+{BIO 17028219 <GO>}
+
+So that is what is driving the runoﬀ losses as well, is that correctly understood?
+
+A - Lars Thykier
+
+{BIO 16427122 <GO>}
+
+Yes. And that's not the only private houses, it is commercial building as well.
+
+Q - Asbjorn Nicholas Mork
+
+{BIO 17028219 <GO>}
+
+Okay. And what is the magnitude of this runoﬀ loss?
+
+A - Lars Thykier
+
+{BIO 16427122 <GO>}
+
+The property and house, it's DKK80 million.
+
+Q - Asbjorn Nicholas Mork
+
+{BIO 17028219 <GO>}
+
+Okay. Thanks. That was all from my side. Thanks a lot.
+
+Operator
+Thank you. There are currently no further questions at this time. I will now hand back to
+the speakers.
+Page 16 of 17
+
+
+
+Company Name: Topdanmark AS
+Company Ticker: TOP DC Equity
+Date: 2020-10-23
+
+A - Peter Hermann
+
+{BIO 20507411 <GO>}
+
+Yes, but thank you for taking the time to attend our conference then, and as you know,
+you're most welcome to call us if you have any further questions, and then we'll be happy
+to answer them. Have a good day or evening. Bye.
+
+FINAL
+
+A - Lars Thykier
+
+{BIO 16427122 <GO>}
+
+Or morning.
+
+Bloomberg Transcript
+
+This transcript may not be 100 percent accurate and may contain misspellings and other
+inaccuracies. This transcript is provided "as is", without express or implied warranties of
+any kind. Bloomberg retains all rights to this transcript and provides it solely for your
+personal, non-commercial use. Bloomberg, its suppliers and third-party agents shall have
+no liability for errors in this transcript or for lost proﬁts, losses, or direct, indirect,
+incidental, consequential, special or punitive damages in connection with the furnishing,
+performance or use of such transcript. Neither the information nor any opinion expressed
+in this transcript constitutes a solicitation of the purchase or sale of securities or
+commodities. Any opinion expressed in the transcript does not necessarily reﬂect the
+views of Bloomberg LP. © COPYRIGHT 2022, BLOOMBERG LP. All rights reserved. Any
+reproduction, redistribution or retransmission is expressly prohibited.
+
+Page 17 of 17
+
+

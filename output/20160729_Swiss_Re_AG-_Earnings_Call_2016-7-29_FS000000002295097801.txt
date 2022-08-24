@@ -1,0 +1,1306 @@
+Company N ame: Swiss Re AG
+Company Ticker: SREN SW Equity
+Date: 2016-07-29
+
+Q2 2016 Earnings Call
+Company Participants
+FINAL
+
+Christian Mumenthaler
+David Cole
+Philippe Brahin
+
+Other Participants
+Andrew J. Ritchie
+Frank Kopfinger
+In-Yong Hwang
+Kamran Hossain
+Olivia Brindle
+Philip Kett
+Sami Taipalus
+Thomas Fossard
+Vikram Gandhi
+Vinit Malhotra
+
+Bloomberg Transcript
+
+William Hawkins
+Xinmei Wang
+
+MANAGEMENT DISCUSSION SECTION
+Operator
+Good morning or good afternoon. Welcome to the Swiss Re's Second Quarter 2016
+Results Conference Call. Please note that today's conference call is being recorded.
+At this time, I would like to turn the conference over to Christian Mumenthaler, Group
+CEO. Please go ahead.
+
+Christian Mumenthaler
+
+{BIO 6479864 <GO>}
+
+Thank you very much. Good morning or good afternoon, everybody, and welcome to our
+Q2 results conference call. I'm here with David Cole, our Group CFO; as well as Philippe
+Brahin, our Head of Investor Relations.
+Let me start with a brief overview of the results we published this morning. As you've
+seen, we reported solid results even though the quarter was impacted by large losses
+
+Page 1 of 21
+
+
+
+Company N ame: Swiss Re AG
+Company Ticker: SREN SW Equity
+Date: 2016-07-29
+
+FINAL
+
+and persisting challenging market conditions. Q2 2016 Group net income was $637 million,
+bringing us to a total net income of $1.9 billion and an ROE of 10.9% for the first half.
+P&C Reinsurance reports an ROE of 9.4% this quarter impacted by series of large losses,
+such as wildfires in Canada, earthquakes in Japan, and floods in Europe. In the July
+renewals, we continued reducing capacity to our flow business and growing our portfolio
+of large and tailored transactions. These transactions are placed with us on a private basis
+and offered differentiated economics. In this context, we managed to maintain our risk
+adjusted price quality at 102% year-to-date.
+Life & Health Reinsurance maintained its solid performance with an ROE of 10.1%.
+Corporate Solutions results are impacted by two large 2015 related casualty losses; and
+the Business Unit reports a negative ROE of 4.2%. Because Corporate Solutions currently
+mainly operates in the excess layer business, it is exposed to a relatively high degree of
+volatility.
+Life Capital delivers another quarter of strong performance with an ROE of 13.4%, once
+again benefiting from net realized gains from the derivative portfolio of Guardian. We
+continue to reduce the exposure of this portfolio to this volatility during the quarter.
+
+Bloomberg Transcript
+
+Finally, our asset management team produced a strong ROI of 3.7%, despite a low
+interest rate environment. Overall, our invested asset base increased driven by the
+Guardian acquisition. All business units have now paid dividends to the Group and the
+capital position of the Group remains very strong.
+With that, I hand over to our Head of Investor Relations, Philippe Brahin, who will introduce
+the Q&A session.
+
+Philippe Brahin
+
+{BIO 19081619 <GO>}
+
+Many thanks, Christian; and good day also to all of you from my side. Just before we turn
+to the Q&A, I would like to remind you to please restrict yourself to two questions each
+and re-register for follow-up questions.
+So with that operator, could we please take the first question?
+
+Q&A
+Operator
+Sure. The first question is from Xinmei Wang, Morgan Stanley. Please go ahead.
+
+Q - Xinmei Wang
+
+{BIO 17860767 <GO>}
+
+Hi. There are two questions, please. My first question is on the losses in the pricing
+environment. So given that we've seen quite unusual losses in this quarter, I was
+
+Page 2 of 21
+
+
+
+Company N ame: Swiss Re AG
+Company Ticker: SREN SW Equity
+Date: 2016-07-29
+
+wondering how unusual do you think the losses are? And would you say that given these,
+there is an opportunity now to deploy capital in this market in that?
+
+FINAL
+
+And then my second question is on the combined ratio guidance for 2016 in P&C Re. So
+do you think the 99% underlying guidance is still achievable, given the results? And I think
+Matt also mentioned on the 1Q conference call that we should be expecting more growth
+in casualty and maybe some more pricing impacts to come through? Thank you.
+
+A - Christian Mumenthaler
+
+{BIO 6479864 <GO>}
+
+Okay. I'll take the first one. So, in terms of the nat cat losses, Q2, I think overall the sum
+was $351 million. The biggest chunk of it comes from Canada. That is higher than
+expected for Q2, but I have to put it in context, so I think in Q1 we had no nat cat losses.
+And so, together actually Q1 plus Q2, the overall cat losses are slightly below our
+expectation.
+
+Bloomberg Transcript
+
+So taken that into account, I doubt that this in itself will lead to higher prices in the next
+renewal round. I think what will eventually move prices apart from the potential large loss
+is a whole series of other factors. Pressure is coming from all different angles, one of
+which being already the low interest rate environment which hurts people; one could be
+on the reserving side if reserve releases start to be less abundant.
+And then yes, if loss ratios overall just approach the average expected loss and you take
+some of the other factors, it could get into a situation that even in the absence of a very
+large loss, prices start to stabilize again and maybe go slightly up. But I'd say, Q2 in itself is
+really nothing particular in terms of the cat loss.
+
+A - David Cole
+
+{BIO 7251632 <GO>}
+
+Let me then come back to the second question; thanks for that. Indeed I recall the
+discussion with Matt, at the time of our Q1 results. You recall in Q1 we had adjusted
+combined ratio for P&C Re of little bit below 96% or 95.7%, now with Q2 reporting 101.9%.
+So for the first half 98.8%, which is just slightly underneath the guidance we've given for
+the entire year of 99%.
+There is nothing at this point that would lead us to conclude that we should adjust that. I
+think what Matt was talking about is just the inherent uncertainty of these estimates, if you
+will, given the uncertain exact mix of our business, what happens with pricing over the
+various subsequent periods. So there's nothing now in our Q2 results or developments off
+the back of the July renewals that would suggest to us that the 99% guidance is still not
+the appropriate figure.
+
+Operator
+Our next question is from Olivia Brindle, Bank of America Merrill Lynch. Please go ahead.
+
+Q - Olivia Brindle
+
+{BIO 17273762 <GO>}
+
+Page 3 of 21
+
+
+
+Company N ame: Swiss Re AG
+Company Ticker: SREN SW Equity
+Date: 2016-07-29
+
+FINAL
+
+Hi, there. My first two questions. The first one, just thinking about your updates of
+combined ratio methodology. When you talked about that at 1Q, you mentioned there's
+$300 million of cat losses which effectively come through as prior-year development the
+following year. So I was wondering if you could update us on how much of this is in the
+year-to-date numbers so far to be (6:35) relating to 2015. How do we think about that
+$300 million?
+And then secondly on the reserving position and thinking about your buffers, the longer
+tail lines of business. I was just trying to quickly look through the triangles that you
+published and compare them to where we were previously. And so it sort of looks like on
+your general liability lines you're slightly healthier, but the motor is maybe slightly weaker.
+Just wondering if that seems like a fair assessment and in particular in light of some of the
+reserve additions you've made on the motor side year-to-date, how has that sort of
+restored your buffers to previous levels? And that'd be helpful to hear. Thank you.
+
+A - David Cole
+
+{BIO 7251632 <GO>}
+
+Bloomberg Transcript
+
+Thank you (7:15) I actually start with the second and come back to the first. So thanks for
+mentioning the reserve book that we also publish, as you know, every year at this time.
+Couple of general comments. So we haven't changed our reserving philosophy. We
+continue to be prudently reserved, best estimate across the entire book which we go
+through the process four times a year.
+There always are individual adjustments on various lines across the different geographies,
+but overall, I would say we've maintained our comfort in terms of where we are within the
+best estimate range, and we tend to be north of 50, actually generally positioned
+somewhere between 60 and 80, and that continues to be the case. All these individual
+lines a little bit above that and lies a little bit below that, but overall I think we continue to
+feel that we have a very appropriate, prudent level of reserves and nothing has changed
+now related to developments in Q2 that alters that position.
+As to the adjusted combined ratio, actually I'm going to say, Olivia, not a whole lot I'm
+going to give you on that. We've published our numbers for Q1 and for Q2. We're going to
+come back of course at least on an annual basis and give you folks some updates on that.
+But I think sometimes there is a little bit of a move toward an almost overly defined,
+overly experienced type of granularity and accuracy in some of these things.
+So, we're going to keep with the numbers that we've produced. There is nothing that's
+changed. We still have the overall expected loss budget of $1.5 billion. The recognition
+that not all of it comes through in the form of actual claims during the course of the year
+that some part of it will hold over from previous year. So, no update there.
+
+Q - Olivia Brindle
+
+{BIO 17273762 <GO>}
+
+If I could just follow-up on the reserving side for motor quickly. Are you comfortable now
+having made, I guess, three quarters of additions on the U.S. side and that's reflective of
+the market conditions or should we expect anything further there?
+
+Page 4 of 21
+
+
+
+Company N ame: Swiss Re AG
+Company Ticker: SREN SW Equity
+Date: 2016-07-29
+
+A - David Cole
+
+{BIO 7251632 <GO>}
+
+FINAL
+
+No, absolutely. I mean, of course I don't know what will happen going forward, but based
+on all the information that we know, the information we received from our cedents, we've
+gone through our portfolios, we've topped them up as you mentioned earlier this year,
+second time now in Q2. But we believe that the level of reserving that we have for that
+business is also they're prudent.
+
+Q - Olivia Brindle
+
+{BIO 17273762 <GO>}
+
+Okay. Thank you.
+
+Operator
+Our next question is from Kamran Hossain, RBC Capital Markets. Please go ahead.
+
+Q - Kamran Hossain
+
+{BIO 17666412 <GO>}
+
+Hi. Afternoon, everyone. I've got two questions; one for Christian. I guess four weeks into
+the job of CEO, could you just maybe run through what are the biggest concerns I guess
+that you're looking to address at Swiss Re in the coming years? So kind of what are the
+things that are on your desk at top priority?
+
+Bloomberg Transcript
+
+And the second question, I guess, one for David. In terms of the realization of gains,
+obviously second quarter saw quite a bit of that, again, in Life Capital specifically, will
+these continue throughout the year or are you pretty much done now? Thanks very much.
+
+A - David Cole
+
+{BIO 7251632 <GO>}
+
+Yeah, thanks.
+
+A - Christian Mumenthaler
+
+{BIO 6479864 <GO>}
+
+Thanks Kamran, for a tricky question. Very smart way to asking. So anyway, to me there is
+obviously no big surprises because I've been part of the Executive Committee for 10
+years now. So, my life hasn't completely changed in these last four weeks. No, I haven't
+discovered anything I didn't know before. So, it's very much everything in a continuous
+mood. What is very clear and obvious is that, we're in a cycle, we enter a period that is
+more difficult, right, the whole industry enters that and it has started a while ago. And I
+think all the new CEOs in Europe, in particular in the insurance industry, will face some of
+that.
+One obvious one is the low interest rate environment, which now off this quarter is
+probably going to stay even low, which particularly impacts Life & Health – primary Life &
+Health to some of our clients, but also some of us, right, because the investment that is
+really important. So that must be a concern of every CEO in the insurance industry.
+And the other one is the obvious pricing cycle in P&C, which is nothing new as always
+happens and we certainly keep very calm, but we know it's concerning and it's not
+pleasant when you're on the way down. So we see some slowing down of that, but it's
+Page 5 of 21
+
+
+
+Company N ame: Swiss Re AG
+Company Ticker: SREN SW Equity
+Date: 2016-07-29
+
+not yet the bottom it seems. And so, I'm mentally prepared for one or two difficult years
+before the cycle inevitably turns, because I still believe in cycles. Obviously I see nothing
+that would prevent cycles to continue in the future.
+
+FINAL
+
+So I've no big news for you. I think it's pretty simple. We have the assets side and we've
+the liability side, and on the liability side it's the P&C (12:04) area, which is a high concern.
+Other than that, I have nothing particular in my mind.
+I'm sure we'll hear more in December.
+
+A - David Cole
+
+{BIO 7251632 <GO>}
+
+Bloomberg Transcript
+
+Thanks. Let me pickup the second question. Thanks for that. Let me be very sure. There is
+no way that we would expect the level of profits that Life Capital has delivered in the first
+half would be repeated in the second half. As you know, we acquired Guardian. We're in
+the process and in fact of – by and large than what we wanted to do to bring that portfolio
+under our governance, positioning it also from a Solvency II, moving a little bit out of the
+derivatives market more into the cash market. Also looking at the underlying investments
+and determine either they meet our quality expectations as well.
+So we've been transitioning that investment portfolio over the course of the last six
+months and we've frankly benefited. Sometimes it's good to be lucky, so we frankly
+benefited from during that period of time, interest rates have been reducing while we
+were still sitting on that derivatives portfolio. But that is now, as I mentioned, by and large
+done. There's still maybe a little bit of trimming and managing the portfolio that we would
+expect to do subsequent to the Part VII transfer, which as you know we anticipate during
+the course of 2017.
+Offsetting the P&L benefit that we've seen, it has had a little bit of a drag on the level of
+cash generation that we report, as a result of the same lower interest rates driving a
+higher solvency requirement under Solvency II. We experienced impact of that a little bit
+more significantly in Q1 than in Q2. Actually, very happy to see that the underlying business
+is very much performing in line with our expectations. The integration of Guardian is very
+much going in line with our expectation. And also on that basis, we've reconfirmed our
+target of $1.4 billion to $1.7 billion of cash coming off of that business during the period
+2016-2018.
+
+Q - Kamran Hossain
+
+{BIO 17666412 <GO>}
+
+Fantastic. Thanks very much.
+
+A - David Cole
+
+{BIO 7251632 <GO>}
+
+Thank you.
+
+Operator
+The next question is from William Hawkins, KBW. Please go ahead.
+
+Page 6 of 21
+
+
+
+Company N ame: Swiss Re AG
+Company Ticker: SREN SW Equity
+Date: 2016-07-29
+
+FINAL
+
+Q - William Hawkins
+
+{BIO 1822411 <GO>}
+
+Hello. Thank you very much. Can you tell us what lessons you're learning from these two
+losses you've taken in the Corporate Solutions division? And also I understand the fact
+completely, but on the one hand there seemed to be two completely discrete loss
+events, but there seems to be a great coincidence in location, size, timing and nature of
+loss. And so, is there something on the underwriting side that you need to learn from
+that? Or yeah, I mean what's going on with those losses? And then very brief on a point of
+detail, did you get your exposure there as the follow up in a syndicate, or were you the
+leaders of bad exposure (14:47)?
+And then secondly, a capital management question. This looks like we're heading towards
+the first year – about four years when you're going to have a normal P&C results. If that
+happens, it looks like your P&C Re earnings is going to be at least $1 billion lower than
+they've been for the past few years, which may imply that the dividend from P&C to the
+center could be lower than for the past few years, which then makes it look like the
+buyback coverage into the future carry significantly greater risk. You've never kind of
+committed medium term on that point, but how concerned should we be about the
+sustainability of the buyback if you do end up getting a few more normal years of P&C
+results? Thank you.
+
+Bloomberg Transcript
+
+A - Christian Mumenthaler
+
+{BIO 6479864 <GO>}
+
+So, I can take the first one even though of course this is obviously not yet my specialty, but
+I'm working a lot to get interest. So as you can imagine, we studied that in quite some
+detail these two losses. And I think there's really – I can't see any commonality between
+the two, except that maybe they're in California and they have a tort system there that
+gives very generous rewards to claimants. But I would say, taking a step back, if you think
+about the whole strategy of Corporate Solutions, to me it still makes complete sense to
+have that strategy as we're a risk knowledge company and gives us access to risks
+wouldn't have otherwise.
+I think the philosophy of it is also quite clear that is we write risks to the balance sheet – to
+the full balance sheet of Swiss Re, so we don't try to optimize, this is a little sub part of
+the business which means they don't buy tons of re-insurance to isolate themselves from
+returns. As a result of that, I would expect a higher overall return on average from
+Corporate Solutions compared to some peers, but also some higher volatility where
+sometimes they have larger losses.
+And the team hasn't changed over the years. And if I look at their track record, I think they
+definitely completely fulfilled that expectation. So, the general performance has been
+higher than average in the industry, but this quarter – we don't see our compares yet, but
+this quarter has been hit by two losses which is disappointing, but has to be expected.
+I think another factor is a rule which is that, the book isn't that large yet. So, that adds I
+guess to the volatility we have to expect from that book of business and that's something
+that should take care of itself over time. I mean this said, it's clear that in this part of the
+business, everywhere the margins are going down as they do in P&C Re. And the only
+right thing to do for the team is to be very careful on their underwriting side, having
+Page 7 of 21
+
+
+
+Company N ame: Swiss Re AG
+Company Ticker: SREN SW Equity
+Date: 2016-07-29
+
+FINAL
+
+strong discipline. And I think there is a lot of evidence of that that I could find. In particular,
+they have stopped growing basically now. 2015, they haven't grown; this year they grew a
+bit, but that's due to acquisitions. If you take everything out, they are actually quite
+disciplined. So, I have full trust in that business, and at this stage I don't think we need to
+change anything drastically just because of these two losses.
+
+Q - William Hawkins
+
+{BIO 1822411 <GO>}
+
+So to summarize that, it does sound like you're thinking it's more bad luck than anything
+you need to address.
+
+A - Christian Mumenthaler
+
+{BIO 6479864 <GO>}
+
+Yeah.
+
+Q - William Hawkins
+
+{BIO 1822411 <GO>}
+
+Okay.
+
+Bloomberg Transcript
+
+A - David Cole
+
+{BIO 7251632 <GO>}
+
+Well, let me pick up the second question about capital management. The first thing is, just
+to reiterate that the way that we've expressed this in the past continues to apply today.
+And I say that really just to underline what we hope will over time really be seen as
+consistency. There is no commitment indeed to future share buybacks. Even the possibility
+for 2016 is subject to how our capital position will develop during the course of the year,
+as well as the opportunities that we would see to invest it back into the business at
+acceptable returns and that's also in line with what we've said in the past.
+There is no doubt that if you just look back over the last several years, absolutely correct,
+we've I think printed some extraordinary profits off of our P&C Re business. Even the first
+half of this year, notwithstanding the fact that pricing has been under pressure, given the
+loss burden so far in the first half, ROE for the business is still a very respectable 13.7%.
+But in terms of forward-looking comments, let me just reiterate our approach which is of
+course to maintain the financial strength, to maintain the regular dividend. We are able to
+increase the regular dividend whenever we are successful in investing into attractive
+opportunities in the business, that takes precedence over additional share capital
+repatriations. But sill when we find ourselves sitting on this excess capital that we don't
+really believe we'll be able to reasonably deploy within a fairly short period of time then
+we look to give it back, and that takes place in the first instance of course through the
+dividend. But then as an additional tool, we have the authorization which needs to be
+renewed in principle every year, we have the authorization from our shareholders.
+So I would caution about penciling in these things, we said that before. There's no
+difference today than what I've said about that in the past. We'll continue to watch how
+the business develops, our capital position develops, some opportunities to invest
+develop. And later in the year, if we come to the conclusion that it looks like we're going
+
+Page 8 of 21
+
+
+
+Company N ame: Swiss Re AG
+Company Ticker: SREN SW Equity
+Date: 2016-07-29
+
+to be sitting on this excess capital then we'll come back to the market with some further
+communication around the buyback.
+
+Q - William Hawkins
+
+{BIO 1822411 <GO>}
+
+FINAL
+
+Thank you, guys.
+
+A - David Cole
+
+{BIO 7251632 <GO>}
+
+Yeah.
+
+Operator
+The next question is from Andrew Ritchie, Autonomous Research. Please go ahead.
+
+Q - Andrew J. Ritchie
+
+{BIO 18731996 <GO>}
+
+Bloomberg Transcript
+
+Hi, there. I'm actually just following up on William's question just on capital deployment.
+The first question, David, year-to-date you've seen very strong growth in the business
+particularly bespoke – three bespoke transactions. Is that still sort of diversifying growth
+because obviously it's been in casualty lines such that the economic capital – the
+incremental economic capital required or SST capital required hasn't been that significant,
+or are we at the point where it's no longer diversifying because casualties sort of reached
+50% of the book? So maybe just comment on the capital intensity of the 18% growth
+year-to-date?
+And second question linked to capital deployment. You're very confident regarding that
+Guardian is going well, that's now integrated. Are we at a point now where you'd be
+comfortable looking for further deals in the UK? Is the business ready to do more deals?
+We obviously saw some press commentary about third-party capital, which I think you
+commented on in the press. Maybe for Christian, if you just remind us again what your
+attitude is to third-party capital in Admin Re and (21:24) further deals? Thanks.
+
+A - David Cole
+
+{BIO 7251632 <GO>}
+
+So let me pick up the first one, Andrew. Yeah, you're right, up until now the additional
+casual business that we've been riding has been more diversifying than anything else.
+That of course will not continue forever, particularly if we continue to on the one hand
+grow that line of business, while we are taking a little bit of capital off the table and the
+windstorm property nat cat area.
+But so far it actually has been – growth hasn't really overall across the group required a lot
+of additional capital. Our capital position remained strong. You've seen of course all the
+dividends come up to the Group, but also on an economic basis. Obviously, we have
+some volatility in the marketplace, but our capital position allows us I think to carry that
+volatility quite nicely. So, so far that additional business mix or development hasn't really
+taken a whole lot of additional capital.
+I'll turn now to Christian for the second.
+Page 9 of 21
+
+
+
+Company N ame: Swiss Re AG
+Company Ticker: SREN SW Equity
+Date: 2016-07-29
+
+A - Christian Mumenthaler
+
+{BIO 6479864 <GO>}
+
+FINAL
+
+Yes. Yeah. I mean you saw our reaction which was basically that we wouldn't comment on
+the market rumors. So, not surprisingly. I think this said, we said at the Investor Day last
+year that we would be exploring options to have other capital in that business. And I think
+the main reason is that, it's clearly a very interesting business with potentially a lot of
+growth potential, in particular now in the environment you see, I think from all of our
+segments that could be actually one where there's a lot of interest.
+You see tons of capital who'd love to enter, but doesn't get access because there's a
+regulator here who'll be worried to give it to them, there are clients who don't want
+actually to give this to a hedge fund or a private equity group, et cetera. And at Swiss Re
+in the middle which has all the knowledge, the capabilities and everything, but potentially
+not all the capital to do significant transactions in this space. So, it's all about this puzzle
+and how to solve it and I think there could be interesting opportunities, and we're going
+to continue to explore these opportunities.
+
+Q - Andrew J. Ritchie
+
+{BIO 18731996 <GO>}
+
+And Guardian is sufficiently integrated now that there wouldn't be a lot of risk in buying
+another block, is that fair or?
+
+Bloomberg Transcript
+
+A - Christian Mumenthaler
+
+{BIO 6479864 <GO>}
+
+Yeah. Guardian is on track and you have to think about the lead times of anything.
+Obviously, if we found shareholders for the existing book that's not distracting anybody
+from a further acquisition. If it is about further acquisition, there's always a lead time of at
+least six months, if it's not nine months. And then if it's a separate legal entity and you do
+Part VII, you can also park it for one or two years or three years and then do it.
+So I don't think we're, let's say, limited in doing a transaction and you have all the
+timelines, but the integration is not finished. But if I think about all of these pieces, I think
+fundamentally we can discuss about other transactions at this stage.
+
+Q - Andrew J. Ritchie
+
+{BIO 18731996 <GO>}
+
+Great. Thank you.
+
+A - Christian Mumenthaler
+
+{BIO 6479864 <GO>}
+
+Thanks.
+
+Operator
+Our next question is from In-Yong Hwang, Goldman Sachs. Please go ahead.
+
+Q - In-Yong Hwang
+
+{BIO 18784369 <GO>}
+
+Good afternoon and thank you for taking my questions. My first one is on the large
+transaction that you've been seeing. Just wondering from the demand side, what is
+Page 10 of 21
+
+
+
+Company N ame: Swiss Re AG
+Company Ticker: SREN SW Equity
+Date: 2016-07-29
+
+FINAL
+
+driving these deals? Are they very much client-specific issues or do you see a common
+theme such as regulatory changes for the large deals that you've done in the last year or
+so?
+And my second question is on the Life & Health. There is a comment in the presentation
+about an adverse experience in the Americas, just a bit more detail on what that is
+because I think one of your life reinsurance competitors in the U.S. has reported quite
+good U.S. mortality strength, so – yeah. Thank you.
+
+A - Christian Mumenthaler
+
+{BIO 6479864 <GO>}
+
+Yeah. So let me take the large transaction bit. There were various motivations, but I think
+the common pattern is, when you have a new CEO, new CFO taking over, they look at
+their whole portfolio, they look at what kinds of ROE they get from all bits and pieces,
+they have new plans to grow in certain areas, and they like to free up capital in all the
+areas, sometimes even if it's a loss, sometimes without generating IFRS or GAAP loss.
+
+Bloomberg Transcript
+
+And then these transactions themselves can be all kinds of things. They could be adverse
+development coverage for P&C reserves for example, it could be a going-forward quota
+share that takes out business that has a high combined ratio if that's what bothers them, it
+could be a nat cap protection over several years or in aggregate on the nat cap
+programs, and aggregate meaning a program that adds up all the losses in the year and
+it's the sum of small losses in a year exceeds a certain amount we pay.
+There are structured solutions that are very specific to the needs of a company, but
+generally it's for people who want to free up capital or take out volatility. It's not so much
+driven by Solvency II, let's say, or regulatory regimes at this stage. One exception to that
+is the big Life & Health transactions, they are sometimes driven by that.
+
+Q - In-Yong Hwang
+
+{BIO 18784369 <GO>}
+
+Sure.
+
+A - David Cole
+
+{BIO 7251632 <GO>}
+
+Let me pick up the second question about experience on the Life & Health side. This one
+quarter doesn't really say a whole lot. You made reference to some other players who've
+referenced some positive experience. I think if you look back over the past couple of
+years more often than not, we've also had relatively speaking positive experience on the
+mortality, morbidity side. This quarter we had a little bit less positive experience versus
+expectation, but there's no real trend here.
+The underlying business continues, I think, to perform in a way that gives us comfort
+regarding the – through the cycle type of return. We had 10.1% ROE this quarter,
+notwithstanding a higher equity base and notwithstanding some periodic adjustments that
+we do just going through and looking at the valuations, and as on top of that the quarterly
+negative experience versus expectations. So, I don't see anything in here that suggests
+something other than just a random volatility.
+
+Page 11 of 21
+
+
+
+Company N ame: Swiss Re AG
+Company Ticker: SREN SW Equity
+Date: 2016-07-29
+
+Q - In-Yong Hwang
+
+{BIO 18784369 <GO>}
+
+Sure. Great. All right. Thank you.
+
+Operator
+
+FINAL
+
+The next question is from Vinit Malhotra, Mediobanca. Please go ahead.
+
+Q - Vinit Malhotra
+
+{BIO 16184491 <GO>}
+
+Yes. Thank you very much. One on P&C and one of Life, please. On P&C, we will be
+looking at these nat cat pricing and noticing lot of comments in the industry that pricing is
+stabilizing a bit. So, I was a bit surprised to see that you're saying now that we are
+reducing nat cat in the U.S. (27:57) July renewals. Could you just comment a bit about, is
+this in your view the right time to reduce the U.S. nat cat? So that's the first question.
+
+Bloomberg Transcript
+
+And then on the Life & Health, obviously we've seen the turnaround in Life & Health as a
+segment. But just going one step lower into the segment Life & Health separately, I
+noticed that health has shown some of the adverse effects that In-Yong just discussed
+with you, and the health EBIT is actually a bit lower than the recent history as well in this
+quarter.
+So, just if you could comment once again, in 1Q you changed the ROE target definition
+from the old $5.5 billion equity base to current equity base, but equity base has again
+gone up by $1 billion or so in this quarter. So, in this whole context of health being a bit
+weakish depending on model updates and changes, you see 10% ROE to 12% ROE on a
+new current ROE still in place? Thank you.
+
+A - Christian Mumenthaler
+
+{BIO 6479864 <GO>}
+
+Okay, I'll start with the nat cat, while the others think (29:08) health questions. So, I mean
+when people say prices are stabilizing, I think that's a nice description for further
+decreases. So from a mathematical point of view, I would say the second derivative is
+turning positive, but not the first one, which means that the decline-after-decline is not
+happening anymore. So instead of whatever minus 10%, you now have minus 3%, minus
+2% or minus 5%, but it's still negative.
+And as you can see in our long-term price adequacy of 102%, we cannot afford much
+more. We're hitting the target of where we stop creating value for shareholders. And so, I
+absolutely told the team already in January, but now although preparing for the renewal, if
+prices go down further even if it's a smaller amount that we should scale back on the flow
+business further. We have already scaled back 7%, we've scaled back some of the U.S. nat
+cat and we will scale back that further if necessary. And I think that's the only right thing to
+do. So it's a question really of, if the margin is very thin, even a small decline makes it
+really uneconomic and we should be very consequential in that.
+
+Q - Vinit Malhotra
+
+{BIO 16184491 <GO>}
+
+Okay.
+
+Page 12 of 21
+
+
+
+Company N ame: Swiss Re AG
+Company Ticker: SREN SW Equity
+Date: 2016-07-29
+
+A - Christian Mumenthaler
+
+{BIO 6479864 <GO>}
+
+On Health, I don't know it's...
+
+FINAL
+
+A - David Cole
+
+{BIO 7251632 <GO>}
+
+Yeah, Life & Health. Let me just first start with the second part of your question, which is
+about the equity base. You're absolutely right, whenever we were, let's say, in the
+business doing the work that we had identified back in 2013, we said – we thought that by
+2015 we'd be able to generate an ROE of 10% to 12%. So we're completely
+uncomfortable with what may happen with interest rates over that period of time. So we
+said, let's fix the equity base at that $5.5 billion.
+Of course, we proceeded to implement those different actions, continue to write good
+business, put the right asset mix in place, dealt with some of this pre-2004 issue in the
+U.S., and then also finalize with putting the right capital structure in place for the segment.
+
+Bloomberg Transcript
+
+Now, we're a couple of years beyond that. I think 2015, we were very pleased with the
+result. Also through 2016, we have an ROE of the quarter for 10.1%, but for the half that's
+still 12.6% I think off the top of my head. If you look more specifically, indeed the equity
+base has gone up, but we said that we thought that 10% to 12% would still be an
+appropriate target, independent if you will, somewhat of the equity base, I guess it's not
+without risk, that statement, but we think we also need to be able to give some sort of
+sense of confidence to our investors.
+The health results in Q2, actually, there were some updates on the assumptions and
+valuations of course, had a negative impact in health. The actual experience for health in
+Q2 was positive versus our expectations. So, I certainly would not see something there to
+indicate a trouble in terms of performance going forward.
+Just to reiterate, that 10% to 12% is a through the cycle target. We're not going to hit it
+every quarter. There will always be some volatility also in the Life & Health business. Just
+take a second to think about the absolute magnitude size of our in-forced book, as we go
+in order just to completely rigorous cost basis going through our portfolios on the basis of
+new data, on the basis of reviews of our model, assumptions that made from time-totime need to be adjusted. There is always going to be some volatility, but we feel
+comfortable that the book as a whole has a good quality, and the underlying performance
+will continue to meet our expectations.
+
+Q - Vinit Malhotra
+
+{BIO 16184491 <GO>}
+
+All right. Thank you.
+
+A - David Cole
+
+{BIO 7251632 <GO>}
+
+Sure.
+
+Operator
+Page 13 of 21
+
+
+
+Company N ame: Swiss Re AG
+Company Ticker: SREN SW Equity
+Date: 2016-07-29
+
+The next question is from Sami Taipalus, Berenberg. Please go ahead. Mr. Taipalus, your
+line is open.
+
+Q - Sami Taipalus
+
+{BIO 17452234 <GO>}
+
+FINAL
+
+Hello. Afternoon, everyone. Can you hear me?
+
+A - Christian Mumenthaler
+
+{BIO 6479864 <GO>}
+
+Yes.
+
+Q - Sami Taipalus
+
+{BIO 17452234 <GO>}
+
+Yeah. Perfect. Sorry, I think I had the phone on mute actually. Just first question on your
+liability business and some of the stuff that you've got in your reserve disclosures. If you
+look at the ultimate loss ratios, they tend to be in sort of mid-80%s to 90%s on the
+liability reinsurance. And if you add on the expense ratio to that, you get to probably
+around 120% for recent treaty years in terms of ultimate combined ratio.
+
+Bloomberg Transcript
+
+I'm just – I just want – how that sort of the combined ratio makes sense in the current
+interest rate environment, because (33:34) you've been growing quite a bit recently, and I
+appreciate what was said before about it's being relatively capitalized when you're
+diversifying, but it seems nevertheless like there's pretty low level of profitability. That was
+the first question.
+Then the second big thing I wanted to ask about was, the reserves and costs at this time,
+even if you strip out actually major large claims that you flagged, there still seem to be a
+little bit of adverse PYD in Q2 and there was a bit of adverse PYD in Q1 as well, which is
+quite a sharp turnaround from what we're seeing last year and the year before that. Is
+there any trend there or is this just sort of random volatility? Thank you.
+
+A - David Cole
+
+{BIO 7251632 <GO>}
+
+So on the second question, yeah, there is a small little bit of PYD excluding these. These
+two specifically also a little bit challenging in that regard, because it happened in 2015 and
+we only got real information about it this year. It shows up as a PYD, but in the general
+context the way we discussed, PYD is somewhat of a different animal.
+If I look back over the last couple of years, we've had years where that's been positive,
+years where it's been negative, PYD, I'm talking about. There's little bit of a quarterly
+volatility around that. But if you strip out this $100 million (35:00) these two losses, a
+meaningless figure for Q2 for Corporate Solutions, so there's – I don't think there's really
+a story there.
+But I'd to say, you've puzzled me a little bit with your first question and I don't exactly
+recognize some of the figures, but maybe we can take it offline to go into a little bit more
+detail of about a specific line or specific year that we're referring to. But just in general,
+we recognized it from time-to-time the combined ratio on a reporting year basis can
+sometimes even go above 100% and still be an attractive book of business to write. But I
+Page 14 of 21
+
+
+
+Company N ame: Swiss Re AG
+Company Ticker: SREN SW Equity
+Date: 2016-07-29
+
+don't think it would be appropriate sense that you may have that somehow we're sitting
+on the serious lines of business or reserves, where we're expecting an ultimate loss
+somewhere in the range of 120%. I think we can follow up, if you don't mind, offline but I
+don't recognize that.
+
+FINAL
+
+Q - Sami Taipalus
+
+{BIO 17452234 <GO>}
+
+Well, it's really isn't anything complicated. If you look at the slides in your reserving
+presentation, I mean I may have misread this. But where it says ultimate loss ratio, it's kind
+of between 85% and 90% roughly for all [Technical Difficulty] (36:09) since 2007. I mean,
+your normal expense ratio is around 30% to 35%. So if you add those two together, you
+get to somewhere around 120%. So, I mean that seems quite a bit above 110%, so I'm just
+wondering why? And there's no [indiscernible] (36:30)
+
+A - David Cole
+
+{BIO 7251632 <GO>}
+
+Bloomberg Transcript
+
+There could be individual – yeah, I mean I can pick any one of the different slides, I'm
+happy to go through it in detail. There's some years of course in soft markets, where you
+do have ultimate loss ratios in excess of 100%, but if you look at the overall book across
+the different accident year, treaty years, you'll see I think a very consistent figure below
+the ultimate loss level of a 100% on the book.
+So, there may be individual lines, individual years that have experienced of course the
+ramifications of soft market environments. But one thing I can tell you is that, consistently
+across our book with the exception of recently some updates on the motor side and of
+course the ongoing story around asbestos in United States, particularly we remain I think
+very comfortable with the way the existing reserves are developed and the overall level
+of prudence associated with that.
+As I mentioned, typically we sit somewhere between 60% and 80% of the best estimate
+range. Notwithstanding the fact that over the last couple of years, for different reasons,
+we've had some prior-year positive development, actually in the overall positioning within
+the range we have not gone down. So, we basically stay flat or even in some lines of
+business has moved up a little bit.
+
+Q - Sami Taipalus
+
+{BIO 17452234 <GO>}
+
+Yeah. All right. Okay.
+
+A - David Cole
+
+{BIO 7251632 <GO>}
+
+We're happy to follow-up afterwards, if you don't mind.
+
+Operator
+Our next question is from Thomas Fossard, HSBC. Please go ahead.
+
+Q - Thomas Fossard
+
+{BIO 1941215 <GO>}
+
+Page 15 of 21
+
+
+
+Company N ame: Swiss Re AG
+Company Ticker: SREN SW Equity
+Date: 2016-07-29
+
+FINAL
+
+Yes. Good afternoon. One question left on my side, which will relate to the other rates
+you've got in mind regarding any, I will say, big deals or acquisitions or ability to deploy
+excess capital. In the back of my mind, I've got an 11% other rate which probably days from
+couple of quarters back. Is there any change in your thinking of how much is (38:31) right
+now? Are you still looking for 11% or has it changed in light of the new interest rate
+environment? Any update on that. Thank you.
+
+A - David Cole
+
+{BIO 7251632 <GO>}
+
+Quick answer, no. No, it hasn't changed. Obviously, that's the kind of thing that from timeto-time you may have to review. But we continue to believe that for large allocations of
+capitals, I'm not talking about every individual transaction that we do, but certainly for
+large allocations of capital that having that type of rule of thumb, if you will, 11% ROE on a
+U.S. GAAP basis, is not a bad thing to have, of course we look at transactions using a
+number of other metrics.
+And as you correctly indicated with your question, at some point with low interest rates
+and overall lower available returns, it may not be the appropriate number to continue to
+apply. So for the time being, as Group CFO, I continue to apply it relatively rigorously.
+
+Bloomberg Transcript
+
+A - Christian Mumenthaler
+
+{BIO 6479864 <GO>}
+
+I think maybe one thing to add is, if you write casualty that's on a GAAP basis, but on a PV
+basis. So, you could have a large casualty transactions where in the first year you have to
+setup reserve (39:40) high and then you have the interest rates coming through for seven
+years. So, it meets 11% overall on a PV basis, not necessarily in the first year. In every large
+transaction, we have a document and in the document we see the whole EVM view and a
+whole GAAP view over time year-on-year, and it has to meet this 11% hurdle.
+
+Q - Thomas Fossard
+
+{BIO 1941215 <GO>}
+
+Okay. Can I take from your comments that the transaction, the last transaction with AIG at
+the start of the year was based on this type of metrics, because I think that there were
+some comments in the market saying that, potentially you may have taken this deal on
+relatively low profitability level. So typically, the size of the transaction with AIG (40:30) to
+this kind of other rates?
+
+A - David Cole
+
+{BIO 7251632 <GO>}
+
+I have to say, we're extremely happy with that particular deal, but we look at different
+metrics, right. We look at it – we don't look at accounting year combined ratio being great
+every single year. We look at overall on the economic basis, EVM and also GAAP, how will
+this accumulate. So what is the – if you want the PV combined ratio, the present value
+combined ratio, and that was attractive for that particular deal.
+So (41:01) and I think that's where you get interesting transactions. Win-win transactions is
+when two companies have different KPIs, they try to optimize then and there are in
+different regimes, then you have interesting opportunities. And so, I'm sure they're very
+happy with the deal and we are very happy with the deal and that's possible.
+
+Page 16 of 21
+
+
+
+Company N ame: Swiss Re AG
+Company Ticker: SREN SW Equity
+Date: 2016-07-29
+
+Q - Thomas Fossard
+
+{BIO 1941215 <GO>}
+
+Okay. Sure. Thank you.
+
+Operator
+
+FINAL
+
+The next question is from Philip Kett, Macquarie. Please go ahead.
+
+Q - Philip Kett
+
+{BIO 19507232 <GO>}
+
+Good afternoon, everyone. Just one final question from me. On the Life & Health
+Reinsurance business, there is a comment in the presentation about successful renewals
+in China and Australia. Is that now a significant portion of the business? Thank you.
+
+A - Christian Mumenthaler
+
+{BIO 6479864 <GO>}
+
+So, it's not that significant, no, because we have some renewal business also in Europe by
+the way, but that's one-one. It's not a big part of the business, not driving it.
+
+Q - Philip Kett
+
+{BIO 19507232 <GO>}
+
+Thank you.
+
+Operator
+
+Bloomberg Transcript
+
+Our next question is from Frank Kopfinger, Deutsche Bank. Please go ahead.
+
+Q - Frank Kopfinger
+
+{BIO 16342277 <GO>}
+
+Good afternoon, everybody. I have two questions. My first question is on the P&C Re
+combined ratio. Could you elaborate a little bit on the underlying trends. And I'm thinking
+specially about either on your adjusted way – the way from the 95.6% that we had in Q1 to
+102% almost now in Q2, but you could also do – you strip everything out like the reserve
+releases, nat cat, man-mades and so on. Do you see the hiccup in Q2? And could you
+walk us through this increase, what the drivers are here? I think especially on (42:56) by
+the shift mix, by seasonality and also by the expenses, if you took on the combined ratio?
+And then my second question is on your buyback. Now that you've upstreamed $3.5
+billion of dividend through the holding, you've generated $1.9 billion in profit, have still
+leftover of $850 million of nat cat budget. What could derail you really now to the
+buybacks for next year or this year?
+
+A - David Cole
+
+{BIO 7251632 <GO>}
+
+Listen, there are all sorts of different scenarios about what could happen in the remainder
+of the year that may lead us to conclude that there are better usage of capital than on the
+buyback. It could be losses that occur, real losses, so independent of what we have in our
+budget. Windstorm takes place somewhere in the North America, somewhere in Europe,
+earthquakes somewhere around the world, could be opportunities that arise to invest
+capital.
+Page 17 of 21
+
+
+
+Company N ame: Swiss Re AG
+Company Ticker: SREN SW Equity
+Date: 2016-07-29
+
+FINAL
+
+So, I think I'd just go back to my earlier comment about the way in which we think about
+capital and the hierarchy that we think about it. But as we get towards the end of the year,
+if we find ourselves sitting in a situation where the amount of capital we hold is in excess
+of that that we think we should reasonably hold to continue to be able to respond to
+opportunities that arise, then we'll think about the best way to return that excess capital
+to our shareholders.
+As for your first question, there's really not a whole lot more that I can add, there's
+seasonality of course, every individual quarter is a little bit different. Our business mix
+continues of course to evolve a little bit. It's also a business that we've written in previous
+periods, previous renewals now flowed away through our P&L in terms of earned
+premium and loss expectations.
+We've walked you through earlier a little bit the way that we think about our large nat cat
+budget, and in fact that is not exactly linear throughout the year. We've provided with
+some information about the actual versus expected nat cat and the prior-year impact. I
+don't really have a whole lot more to add in that in terms of granularity or insight, other
+than I would just caution you that the 99% estimate is an estimate for full year. There are a
+number of things that can move to change that over the course of the year. We still
+believe after two quarters that it's an appropriate number. I think the actual adjusted – we
+are adjusting for the expected versus actual and the prior accident year development
+coming in at just under 99%, so just shy of the 99% estimate is at least some indication
+that the number may not be too far off, but time will tell.
+
+Bloomberg Transcript
+
+Q - Frank Kopfinger
+
+{BIO 16342277 <GO>}
+
+Okay. Thanks.
+
+Operator
+Our next question is a follow-up by Vinit Malhotra. Please go ahead.
+
+Q - Vinit Malhotra
+
+{BIO 16184491 <GO>}
+
+Yeah, sorry. Thank you for taking a follow-up. I just wanted to just check on these two
+losses in California that we are talking about today. How does Swiss Re normally look at a
+loss? I mean, if the loss occurred in 3Q 2015 or 4Q 2015, then should it not be the case
+that it should be reserved to some magnitude back in those quarters? I mean, I just want
+to understand how does reserving philosophy works be, if you don't mind? Thank you.
+
+A - David Cole
+
+{BIO 7251632 <GO>}
+
+No, that's perfectly fair. And the short answer to your answer is, yes. The specifics of
+these two losses however meant that both the responsibility for the losses – these were
+not property losses, these were casualty coming through liability. So the determination of
+responsibility for the loss and also determination of the magnitude of the loss didn't
+actually take place, it wasn't possible until effectively in Q2.
+
+Page 18 of 21
+
+
+
+FINAL
+
+Company N ame: Swiss Re AG
+Company Ticker: SREN SW Equity
+Date: 2016-07-29
+
+So it wasn't possible at the time that the events actually started or occurred. But in
+principle, you're absolutely right. I mean this is one of the things that makes us somewhat
+unusual. In fact, we have two of these now in the same quarters, even more unusual. But
+rest assured, we've looked into this quite closely to see as Christian indicated, there are
+some sort of trend. And the only thing that we can really see is the fact that both of them
+are in California, so that's completely unrelated to each other. The circumstances just
+developed in such a way that we didn't have a view of the loss back in the quarter when
+they've been occurred. Now it became quite clear to us, specifically also this culpability,
+the responsibility issue during the course of Q2 of this year.
+
+Q - Vinit Malhotra
+
+{BIO 16184491 <GO>}
+
+All right. Thanks (47:39)
+
+A - David Cole
+
+{BIO 7251632 <GO>}
+
+Sure.
+
+Operator
+Our last question is from Vikram Gandhi, Societe Generale. Please go ahead.
+
+Bloomberg Transcript
+
+Q - Vikram Gandhi
+
+{BIO 6133175 <GO>}
+
+Hi. It's Vikram Gandhi from SocGen. Couple of questions. One is on the amount of shortterm investments and the cash that you hold. If I look at the total of these two elements,
+the short-term and the cash, it's about $17 billion plus. I appreciate it's come down a bit
+from the last quarter, but it still looks substantial. So, any thoughts around how you intend
+to deploy this cash and translate into some form of running investment income, would be
+helpful?
+And the second is related to the Life & Health Re business. About three years ago, you
+did a cleanup of the book particularly with regard to the YRT and PLT. So can you give us
+some comfort around the PLTs. So let's say, couple of years down the line (48:45). We
+wouldn't have another cleanup exercise I think in a year or two? So those are my two
+questions. Thank you.
+
+A - David Cole
+
+{BIO 7251632 <GO>}
+
+Yeah, thanks. So, I'll take the first and Christian will maybe pick-up the second. So, you're
+right, you're looking at slide 29 I suppose, you see the cash and short-term investments.
+We still hold a good cash position unless we more or less match in terms of overall asset
+liability management. We're currently I think minus $2.9 billion DVO1.
+We have been actually moving some cash into government bonds, as you see that
+number has gone up a little bit, as well as in the short-term investments which are typically
+also short-term government paper. But you can imagine, not government paper with a
+negative yield, the government paper that still has a positive yield, albeit those papers
+are also becoming fewer and far between and the yields are becoming a little bit less.
+
+Page 19 of 21
+
+
+
+FINAL
+
+Company N ame: Swiss Re AG
+Company Ticker: SREN SW Equity
+Date: 2016-07-29
+
+There remains a little bit of quagmire, we have no intent to start putting a lot of cash in
+vaults or cash in mattresses or anything of the sort. We're looking for good quality credit,
+we want to maintain the overall asset allocation ranges that we've previously indicated.
+Actually during the course of Q2, we took a little bit of risk off the table with the equities
+and alternatives. We continue to look for opportunities to invest in high-quality assets, but
+it's hard for me to say exactly where that cash will go. We're not going to go chasing yield,
+that's for sure. We continue to hold a good cash position, no doubt, at least for the
+foreseeable future.
+
+A - Christian Mumenthaler
+
+{BIO 6479864 <GO>}
+
+Yes. In terms of PLT, that is post-level term issue in the U.S. on our old book of business, I
+think nothing has changed over the last two years. So, it continues to be a drag, it will be a
+drag going forward. We have a whole team mitigating it. So that's I think what we talked
+about at the time of Investor Day, and that's going quite well. The team by working
+together has declined and mitigated by having basically more people staying off the PLT
+period with decline, which is better economically for the client and for ourselves. But it
+can't mitigate it completely away.
+
+Bloomberg Transcript
+
+I think the relevant thing for all of you and our investors is that we have taken that into
+account into all of our projections and the 10% to 12% ROE we want to achieve. So it just
+means we have used the time and continue to use the time to add on more good
+business and do large transactions where we can, so that we can stay within this 10% to
+12%. So, if I could – if I was a magician, if we could get away with that business, I would
+immediately get rid of it, but it's not possible. And so, we just work with it as we do to
+whole in force book.
+
+Q - Vikram Gandhi
+
+{BIO 6133175 <GO>}
+
+Okay. I appreciate that. Thank you.
+
+A - Philippe Brahin
+
+{BIO 19081619 <GO>}
+
+Thank you. This is Philippe Brahin, again. So we've come to the end of our Q&A session.
+Thank you very much all of you for joining. And if you have any follow-up questions, please
+do not hesitate to contact any member of the Investor Relations team, and (51:50) will
+follow-up with you on the P&C reserve book as David mentioned. So, thank you again
+everyone for participating today.
+
+Operator
+Thank you for participating, ladies and gentlemen. You may now disconnect.
+
+This transcript may not be 100 percent accurate and may contain misspellings and other
+inaccuracies. This transcript is provided "as is", without express or implied warranties of
+any kind. Bloomberg retains all rights to this transcript and provides it solely for your
+personal, non-commercial use. Bloomberg, its suppliers and third-party agents shall
+Page 20 of 21
+
+
+
+Company N ame: Swiss Re AG
+Company Ticker: SREN SW Equity
+Date: 2016-07-29
+
+Bloomberg Transcript
+
+FINAL
+
+have no liability for errors in this transcript or for lost profits, losses, or direct, indirect,
+incidental, consequential, special or punitive damages in connection with the
+furnishing, performance or use of such transcript. Neither the information nor any
+opinion expressed in this transcript constitutes a solicitation of the purchase or sale of
+securities or commodities. Any opinion expressed in the transcript does not necessarily
+reflect the views of Bloomberg LP. © COPYRIGHT 2022, BLOOMBERG LP. All rights
+reserved. Any reproduction, redistribution or retransmission is expressly prohibited.
+
+Page 21 of 21
+
+

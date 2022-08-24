@@ -1,0 +1,1026 @@
+Company Name: Sampo Oyj
+Company Ticker: SAMPO FH Equity
+Date: 2019-02-07
+
+Q4 2018 Earnings Call
+Company Participants
+FINAL
+
+Jarmo Salonen, Head-Investor Relations & Group Communications
+Kari Henrik Stadigh, Group Chief Executive Oﬃcer and President
+Torbjörn Magnusson, President & CEO-If P&C Insurance Holding Ltd
+
+Other Participants
+Blair Stewart, Analyst
+Jakob Brink, Analyst
+Kevin Ryan, Insurance Analyst
+Matti Ahokas, Analyst
+Michael Huttner, Analyst
+Per Grønborg, Analyst
+Youdish Chicooree, Equity Research Analyst
+
+MANAGEMENT DISCUSSION SECTION
+
+Bloomberg Transcript
+
+Jarmo Salonen
+
+{BIO 1860650 <GO>}
+
+Ladies and gentlemen, welcome to this conference call on Sampo Group's Full Year 2018
+Results. I'm Jarmo Salonen, Head of Investor Relations at Sampo. And with me at this call,
+I have our Group CEO and President, Kari Stadigh; our new Group CEO and President,
+Torbjörn Magnusson, starting from 1st of January, 2020; and our new Group CFO, Knut
+Arne Alsaker.
+As always, we'll start with Kari's introduction into the fourth quarter of 2018, but let me
+remind you before that you can follow this call live on our website sampo.com/result and
+a recorded version will be available at that same address later on.
+Kari, I'll hand over to you.
+
+Kari Henrik Stadigh
+
+{BIO 1504152 <GO>}
+
+Thank you, Jarmo. Welcome to the conference call on my behalf as well. We have a
+history of presenting numbers very brieﬂy before the talk, but today I would like to talk a
+little bit about people and governments because business in the ﬁnancial sector in the
+end is all about people. And therefore, of course, I'm very happy that our board has
+decided to nominate as my successor Torbjörn Magnusson. We have been Chairman and
+CEO pair for 17 years, and delivered over the years something, which I think all of you
+have appreciated. But this is maybe not the main point. The main point is that Torbjörn
+Page 1 of 16
+
+
+
+Company Name: Sampo Oyj
+Company Ticker: SAMPO FH Equity
+Date: 2019-02-07
+
+FINAL
+
+successor, Morten Thorsrud is also an internal nomination, and Ingrid who takes over from
+him as Head of Private is also an internal nomination.
+In front of me sits for the ﬁrst time on this call Knut Arne Alsaker as the new Group CFO
+and he is also an internal nomination. I think this is a critical thing within the ﬁnancial
+sector that you are able to create a culture which develops shareholder value and that can
+be seen in the numbers year-after-year. So I would claim that these nominations really
+create less volatility and stable and predictable earnings, because it's culture, people and
+knowhow that counts. These can actually be seen in our last year numbers really well
+because even if the investment environment was diﬃcult, our operative KPIs for the
+insurance business were excellent.
+If we correct it for one-oﬀs, the combined ratio for the full year 2018 was best ever. The
+fourth quarter standalone was the best ever standalone measured by combined ratio.
+Also our cost eﬃciency increased once again and the cost ratio is the lowest ever, and
+really as the cherry on the cake, I think it's impressive that our growth continued. I think
+we have now had almost two years with growth within the P&C sector, and we were
+growing in all territories, all client segments, very promising indeed.
+
+Bloomberg Transcript
+
+You saw Topdanmark's numbers very stable, very good results and Torbjörn has been
+chairing Topdanmark; in the next AGM, Torbjörn will step down in order to concentrate
+the rest of the year more on his new chairmanship in If and chairing Nordea. Ricard
+Wennerklint too has been on the board will become Chairman, and then Morten
+Thorsrud, the CEO of If will join the Topdanmark board.
+So after the management changes that have been executed in Topdanmark and the
+continuity these nominations give to the board, I expect Topdanmark to perform well in
+line of expectations going forward as well.
+Mandatum Life reported its best ever operating proﬁt. That is of course to a great extent
+thanks to the €197 million they booked from the agreement with Danske, but more
+importantly Danske is now as the third largest bank in Finland, they have an exclusive
+distribution agreement with Mandatum for insurance products. And of course
+Mandatum's expense result was highest ever as were their unit linked sales. So, all in all,
+excellent operational results on the insurance side.
+On the investment side, it was disappointing to see that the investment market turned
+really sour in the end of the year and I think on the whole we lost roughly €200 million in
+our portfolios. However, the good news is that it's almost exactly the sum that we have
+recovered in the ﬁrst weeks of this year. So we are back in the rink ﬁghting fully which is of
+course very nice to see even if the volatility has been exceptional in last year, at the end of
+last year in December.
+We have made from the parent ﬁve investments in our core area which is the Nordic
+ﬁnancials and with the hindsight if I look back to that I would do the investments again.
+Probably, I could do some of them at a lower valuation. But on the other hand, we
+wouldn't catch up the loss time if we were now in the market. And the loss timing is
+Page 2 of 16
+
+
+
+Company Name: Sampo Oyj
+Company Ticker: SAMPO FH Equity
+Date: 2019-02-07
+
+meaningful because Saxo has launched a bid on BinckBank. Nets has already done a few
+add-ons as well as Nordax and Asiakastieto is in the middle of a merger with UC. So very
+good and promising development on that front as well.
+
+FINAL
+
+And lastly but not least we could see a good quarter for the parent given the interest rate
+and currency rate development. This is, Jarmo, my summary for today. Shouldn't we open
+up for questions?
+
+Jarmo Salonen
+
+{BIO 1860650 <GO>}
+
+Yes, let's do that. Thank you. Operator, we are now ready for the questions.
+
+Q&A
+Operator
+Thank you. Our ﬁrst question comes from the line of Youdish Chicooree of Autonomous
+Research. Please go ahead. Your line is open.
+
+Q - Youdish Chicooree
+
+{BIO 17430923 <GO>}
+
+Bloomberg Transcript
+
+Good afternoon, everyone. I've got three questions, please. The ﬁrst one is really on the
+personnel changes. Your announcement today talks of the need to inject new energy in a
+new phase of development. So I was wondering if you could elaborate on this new phase
+and what role the new investor Cevian has to play in this, please? That's the ﬁrst question.
+The second one is on whether you think the cost targets at Nordea are ambitious enough.
+And ﬁnally the last question on non-life, and there seems to be some pricing momentum
+in merger in Norway, and considering that your claims inﬂation experience is not as high
+as peers, is it fair to say you're improving your margins in this business at the moment.
+Thank you.
+
+A - Kari Henrik Stadigh
+
+{BIO 1504152 <GO>}
+
+The ﬁrst question I just want to clarify was it on Nordea that you...
+
+Q - Youdish Chicooree
+
+{BIO 17430923 <GO>}
+
+That's right.
+
+A - Kari Henrik Stadigh
+
+{BIO 1504152 <GO>}
+
+...on the energy and the new persons. I could answer in the role of the chairing the
+nomination committee, how the nomination committee looked at this. And as you
+remember in the nomination committee, we have representation from the four biggest
+shareholders i.e., Sampo, Nordea-fonden, Alecta, Varma. And then in the last meeting we
+also had Cevian present as the newcomer.
+
+Page 3 of 16
+
+
+
+FINAL
+
+Company Name: Sampo Oyj
+Company Ticker: SAMPO FH Equity
+Date: 2019-02-07
+
+I think that the discussion in the NomCom has been unanimous on all fronts and we
+shared a view on the board changes. So what was NomCom really looking for. I think it
+was clear that now and Nordea during the chairmanship of Björn Wahlroos has done all
+the big calls, €1 billion in IT, €700 million in compliance investments, de-risking, taking
+down the risks in Russia, selling oﬀ Baltics, private banking Luxembourg, life business in
+Denmark, and so on, it's a long list. On top of that, there has been re-domiciling the
+headquarter, there has been branchiﬁcation of the legal structure. So huge major
+projects.
+Then the next phase naturally is execution. So the NomCom was looking for execution
+expertise. And then they turned their eyes to Torbjörn who was proposed to become the
+new Chair, and of course three very experienced people with a banking background. So,
+that's the background for the decision, and it was unanimous. And as said, I have been
+working together with Torbjörn for 17 years. So, I think I know him better than anyone in
+the business sector or business life, and I'm convinced that the shareholders of Nordea
+will get what they see.
+
+Q - Youdish Chicooree
+
+{BIO 17430923 <GO>}
+
+Yes, very clear, very clear, thank you.
+
+A - Kari Henrik Stadigh
+
+{BIO 1504152 <GO>}
+
+Your second question was.
+
+Bloomberg Transcript
+
+Q - Youdish Chicooree
+
+{BIO 17430923 <GO>}
+
+On the cost targets at Nordea.
+
+A - Kari Henrik Stadigh
+
+{BIO 1504152 <GO>}
+
+I think that's up to Nordea to answer, and not up to us. We can see a positive cost
+development, and you have to be patient, and wait what Nordea communicates on that.
+
+Q - Youdish Chicooree
+
+{BIO 17430923 <GO>}
+
+Okay.
+
+A - Torbjörn Magnusson
+Torbjörn then. On the non-life question, you very accurately described the situation in
+Norway, and we have as always been long term in our thinking, the market is receptive for
+rate increases. So, they are coming through in a way which we feel is also accurate.
+Let me add to that, that the one market which I have year after year being a bit
+disappointed in the large corporate Nordic market has also been receptive to corrective
+price actions. As you probably know, the big renewal there is the 1st of January and we
+have been pleased to see the best renewal for at least 10 years.
+
+Page 4 of 16
+
+
+
+Company Name: Sampo Oyj
+Company Ticker: SAMPO FH Equity
+Date: 2019-02-07
+
+Q - Youdish Chicooree
+
+{BIO 17430923 <GO>}
+
+Just one follow-up, would it be fair to say that actually at the moment, you're potentially
+improving your margin but also increasing your client numbers as well.
+
+A - Kari Henrik Stadigh
+
+{BIO 1504152 <GO>}
+
+FINAL
+
+We're maximizing value in doing both, yes.
+
+Q - Youdish Chicooree
+
+{BIO 17430923 <GO>}
+
+Very clear. Thank you very much.
+
+Operator
+Thank you. Our next question comes from the line of Jakob Brink from Nordea. Please go
+ahead. Your line is open.
+
+Q - Jakob Brink
+
+{BIO 20303720 <GO>}
+
+Bloomberg Transcript
+
+Thank you very much. I have three questions please. The ﬁrst one is about Swedish
+growth in premiums, in net earned premiums. Torbjörn, could you give us just some help
+on what we should look for in 2019 given the tax change on motor in 2018 and how the
+growth or what's the impact of that would on growth rates in 2019 please?
+The second question is about the Mandatum Life SCR in Q4, is the decline and the SCR
+fully markets driven or is something else going on there? And then, ﬁnally on this group
+solvency on the ﬁnancial conglomerate, with Nordea increasing around €1 billion towards
+the end of the year, I estimate that your solvency will drop to around 125%. I seem to recall
+that, that's the sort of threshold you said you could not go under some years ago. Could
+you give us some update on solvency and the whole change of the capitalization of
+Nordea, please? Thank you.
+
+A - Torbjörn Magnusson
+The ﬁrst question, thanks for that really easy question to predict how many cars will be
+sold in Sweden by month for this year. My expectation is that the comparison to the ﬁrst
+half of last year will be a bit stretched as most suites chose to buy a car in the ﬁrst six
+months, because of the tax change on 1st of July and then that the comparison numbers
+become easier towards the end of the year, and that's probably as much as I can say
+about that.
+
+A - Kari Henrik Stadigh
+
+{BIO 1504152 <GO>}
+
+And the second question on the SCR, yes it's market driven, also market related due to
+the fact that there's a metric adjustment for equities in Mandatum changed. As market
+goes down that metric is – adjustment is a dampener on that impact according to its own
+regulation, contrarian market increase, it will increase also the SCR risk somewhat.
+
+Q - Jakob Brink
+
+{BIO 20303720 <GO>}
+Page 5 of 16
+
+
+
+Company Name: Sampo Oyj
+Company Ticker: SAMPO FH Equity
+Date: 2019-02-07
+
+Okay.
+
+A - Kari Henrik Stadigh
+
+{BIO 1504152 <GO>}
+
+Could you repeat the third question on the group solvency?
+
+FINAL
+
+Q - Jakob Brink
+
+{BIO 20303720 <GO>}
+
+No, it's just if you adjust for the sort of increasing in Nordea capital consumption in
+Sampo during 2019 as this Finnish systemic risk buﬀer increases. I get somewhat lower
+solvency ratio for Sampo towards the end of the year than the end 2018, one. And so just
+could you give us some help on what solvency level will you target, and is there any
+updates on the implications of the Nordea capitalization change?
+
+A - Kari Henrik Stadigh
+
+{BIO 1504152 <GO>}
+
+Bloomberg Transcript
+
+There's no news Nordea reported a risk exposure assets perfectly in line with what was
+previously communicated. And that in itself is increasing our solvency requirement due to
+the fact that, that increases Nordea's Pillar 1 requirement, which is what we use for our
+solvency calculation.
+What happens during 2019 is the systematic risk buﬀer for banks as introduced in Finland,
+it will increase from zero to 2% 1st of January and will increase to 3% 1st of July which
+again will be the percentage multiplied by the risk exposure assets in Nordea and our
+share in Nordea that will impact Sampo's capital requirement. Then we have an ongoing
+discussion with the regulator regarding this matter and other technical matters as well
+since our clear view of course is that the risks for Sampo due to Nordea's moves to
+Finland has not changed.
+
+Q - Jakob Brink
+
+{BIO 20303720 <GO>}
+
+But let's say you don't get anything out of the Finnish regulator then your capital
+requirement will go up in Nordea by €1 billion as far as I estimate by Q3 of this year. And
+your own funds will be roughly unchanged if you keep the current dividend, so slightly
+increasing, which means that your solvency ratio will drop from current level to around
+let's say 125% to 130%. Would that be a problem if that happens?
+
+A - Kari Henrik Stadigh
+
+{BIO 1504152 <GO>}
+
+Okay. If that happens, we will look into taking other measures to increase the solvency
+ratio somewhat.
+
+Q - Jakob Brink
+
+{BIO 20303720 <GO>}
+
+Okay, fair enough. Thanks a lot.
+
+Operator
+Thank you. Our next question comes from the line of Matti Ahokas of Danske Bank. Please
+go ahead. Your line is open.
+Page 6 of 16
+
+
+
+Company Name: Sampo Oyj
+Company Ticker: SAMPO FH Equity
+Date: 2019-02-07
+
+Q - Matti Ahokas
+
+{BIO 2037723 <GO>}
+
+FINAL
+
+Hi. Yes. Good afternoon. I'd like to continue on the same topic, i.e., the Solvency I.
+Obviously, we saw the decrease in the capital requirement from the internal models by
+roughly €500 million in the quarter, but you're still writing the report that you expect or
+you're looking into diﬀerent measures to counter the impact of the higher Nordea
+requirement as Jakob mentioned earlier. What are these measures all together and or is
+this still – are you referring to the internal model?
+The second question is regarding the weather we're seeing here in the Nordics, a lot of
+snow reminding me a bit like last Q1. What have you seen so far in terms of claims in the
+normalized business weather related, should it be somewhat similar to Q1 2018? Thank
+you.
+
+A - Kari Henrik Stadigh
+
+{BIO 1504152 <GO>}
+
+On the ﬁrst question, the discussions around the internal model is one of the discussions
+we have ongoing with the regulator. As you saw in Q4, we got an agreement to use that
+for the ﬁnancial conglomerate calculation, and that is also a discussion with the same
+regulator to use for Solvency II purposes, so that's one of the things. There's a list of
+things, which would adjust the risk position in the group somewhat, the drivers of the risk
+position and there is also possibilities to utilize the fact that the Sampo groups have
+ample hybrid capital capacity which we could use to increase the own funds. But the ﬁrst
+action is to continue these discussions with the Finnish regulators.
+
+Bloomberg Transcript
+
+A - Torbjörn Magnusson
+Turning to the weather experts (00:19:41). There are two things that decide how much
+winter losses, climate losses, winter weather losses you will have in the non-life insurer in
+the Nordic region, one is how early and how severe the winter is when it comes because it
+makes the ground frozen and houses freezing. That was late this year, so that's helpful.
+Secondly, it depends on how prolonged the winter is and that was the issue last year
+when we came out of it in Q1 with an expectation of a normal to benign winter and then
+the winter continued for another month. So that's all I can say at this point in time.
+
+Q - Matti Ahokas
+
+{BIO 2037723 <GO>}
+
+So I interpret Torbjörn your answer that it has not been as bad as Q1 2018.
+
+A - Torbjörn Magnusson
+We're in the beginning of February.
+
+Q - Matti Ahokas
+
+{BIO 2037723 <GO>}
+
+Fair enough. Thanks.
+
+A - Torbjörn Magnusson
+Page 7 of 16
+
+
+
+Company Name: Sampo Oyj
+Company Ticker: SAMPO FH Equity
+Date: 2019-02-07
+
+I remember 2010 when Kari asked me around this point in time if we would have loss or
+winter losses, and I said probably not. And now we had the worst winter for 30 years.
+
+Q - Matti Ahokas
+
+{BIO 2037723 <GO>}
+
+FINAL
+
+Great. Thanks.
+
+Operator
+Thank you. Our next question comes from the line of Kevin Ryan of Bloomberg
+Intelligence. Please go ahead. Your line is open.
+
+Q - Kevin Ryan
+
+{BIO 1814771 <GO>}
+
+Thank you. I just wanted to ask a little bit more about Mandatum and the Danske situation.
+Could you give us some guidance on what you expect Danske to sell in terms of volume
+this year and also what sort of product types, so we can get a feel for the capital usage
+and that sort of thing? But any additional background on that would be really helpful.
+Thank you.
+
+Bloomberg Transcript
+
+A - Kari Henrik Stadigh
+
+{BIO 1504152 <GO>}
+
+Yeah. If I remember the volume in 2018 through Danske was maybe half of what it was a
+year earlier. And that of course the uncertainty whether the distribution agreement would
+be prolonged or not made an inﬂuence here, and possibly also some internal issues. Now
+after we signed the new agreement, we started oﬀ by promoting risk insurance, mainly
+loan insurance combined to their mortgage sales. And as a percentage of how many of
+their mortgages have loan insurance, I don't know if Danske has published that ever but
+we are doing much better now than a year ago. So that's not a volume product that you
+see, but it's of course an important product for our risk ratio.
+
+A - Torbjörn Magnusson
+And it's not a driver of capital consumptions in Mandatum neither that nor the unit linked
+product that Danske sells.
+
+A - Kari Henrik Stadigh
+
+{BIO 1504152 <GO>}
+
+Yeah. Then of course, the next step which we would like to promote is that Mandatum is
+one of the leading, or if not leading house, on alternative assets. So it would be great if
+also these could be sold through the Danske distribution. But those plans have not yet
+progressed. And they would also be sold – under probably a big part of the reinsurance
+wrappers or even directly and that would not take capital either. So we are in the fee
+business mode with them and share the fees.
+
+Q - Kevin Ryan
+
+{BIO 1814771 <GO>}
+
+Thank you.
+
+Operator
+Page 8 of 16
+
+
+
+Company Name: Sampo Oyj
+Company Ticker: SAMPO FH Equity
+Date: 2019-02-07
+
+Thank you. Our next question comes from the line of Blair Stewart of Bank of America.
+Please go ahead. Your line is open.
+
+FINAL
+
+Q - Blair Stewart
+
+{BIO 4191309 <GO>}
+
+Thank you, and good afternoon. I've got a few questions. Firstly, just coming back to the
+considerations around the solvency position as and when the capital requirements for
+Nordea go up. I was just wondering what considerations do you take into deconsolidating
+Nordea given that the earnings yield is pretty much the same as a dividend yield would
+make a great deal of diﬀerence to the numbers, but you would of course avoid after you
+consolidate (00:24:07) the capital position.
+Second question relates to the dividend, the dividend growth over the last few years has
+been I think on the last six years has been averaging about 13%, 1-3-percent which has
+outpaced the level of the underlying earnings growth. So I guess the question for you,
+Torbjörn, as an incoming CEO, your ability to commit to the same level of generosity that
+your predecessor has exhibited, that's my second question.
+
+Bloomberg Transcript
+
+And thirdly, I listened to the press conference call earlier today and you seemed to be
+implying, rather simplistically but you seemed to be implying that the success that you've
+had with the P&C business focusing on the customer, good IT, and good underwriting
+replicating that success is what you're looking to do at Nordea. But of course the banking
+and the insurance industries are very diﬀerent; the competitive challenges are diﬀerent;
+the regulatory challenges are diﬀerent, so I just wonder if that's maybe an overly simplistic
+assessment of the way forward. Thank you.
+
+A - Kari Henrik Stadigh
+
+{BIO 1504152 <GO>}
+
+Yeah. On the deconsolidation, I don't think that tool – we have every measure in our
+toolbox. But that toolbox, I wouldn't call it imminent because I remember how much I
+enjoyed the investment community's approach to us when we started consolidating. So
+some of my colleagues say that it's less important whether you consolidate or not. But
+maybe I'm the old school, and then we see what the successors do.
+Of course the situation might be diﬀerent if the reporting is fully in mark-to-market
+environment, then these one line consolidations don't play that much into the game, but
+that's in 2021. So I think that we have ample time to consider that mark-to-market
+environment where it wouldn't be very diﬀerent if we are consolidating or not.
+On the dividend, I would like to spare Torbjörn here a little bit and say that if I interpret
+him. I think he's very artistic, so he really likes the – not really the percentages, but I think
+he's actually artistic, he sings in a choir and so it might be that he adopts this idea of
+beautiful graphically increasing dividend.
+(00:26:48)
+
+Q - Blair Stewart
+
+{BIO 4191309 <GO>}
+
+Page 9 of 16
+
+
+
+Company Name: Sampo Oyj
+Company Ticker: SAMPO FH Equity
+Date: 2019-02-07
+
+... he's an actuary, he's not artistic at all.
+
+A - Kari Henrik Stadigh
+
+{BIO 1504152 <GO>}
+
+How about Torbjörn, what would you say?
+
+FINAL
+
+A - Torbjörn Magnusson
+Let's move on to the third question.
+
+A - Kari Henrik Stadigh
+
+{BIO 1504152 <GO>}
+
+On dividends, I think we are all committed to increasing dividends, and we see many
+ways to continue to be owners and investors in businesses that create a growing dividend
+yield for our shareholders.
+
+A - Torbjörn Magnusson
+And then, Blair, yes I think that banking and non-life insurance are very diﬀerent animals,
+and I did not mean to say what I said at the press conference was the only actions
+necessary for Nordea.
+On the other hand I think that the ﬁelds that I mentioned are ﬁelds that were similar or are
+similar between If P&C and Nordea and that there are also lessons to be learned.
+
+Bloomberg Transcript
+
+Q - Blair Stewart
+
+{BIO 4191309 <GO>}
+
+Yeah, yeah. I was the one who was simplifying Torbjörn, I do recognize a point, but
+Nordea is hugely complex animal, I guess, so you've certainly got a challenge there.
+Good luck with it.
+
+A - Kari Henrik Stadigh
+
+{BIO 1504152 <GO>}
+
+Yeah. Blair, I also think that – that one thing to consider is that if you have an oil tanker that
+turns slowly once it creates momentum then it turns quite nicely also. And the banking
+sector has one thing, it's really scalable. So I think that with the investments that are being
+done there then the scale plays into a role. And then we must remember that all
+disruptive businesses, there are also things where the new ﬁntech solutions, and so if we
+look at them all the ﬁntechs, they want to have Nordea as their partner because Nordea
+has the biggest amount of customers in the Nordics. It's the only truly pan-Nordic bank.
+So therefore, as Nordea has developed the capabilities to be a gatekeeper and choose
+the right ﬁntech partners, these could also improve their relative market position, because
+I think many of us have been annoyed that the oﬀering between the Nordic banks is really
+similar, and there has not been really diﬀerentiation. I think that in the digital world, we
+will see more of a diﬀerentiated or client oﬀering and then I think Nordea is really wellpositioned. So I see the potential as signiﬁcant here.
+
+Q - Blair Stewart
+
+{BIO 4191309 <GO>}
+
+Page 10 of 16
+
+
+
+Company Name: Sampo Oyj
+Company Ticker: SAMPO FH Equity
+Date: 2019-02-07
+
+Okay. Thank you.
+
+Operator
+
+FINAL
+
+Thank you. Our next question comes from the line of Per Grønborg of SEB. Please go
+ahead. Your line is open.
+
+Q - Per Grønborg
+Yes. Thank you. Just a single question from my side. I struggled a little bit with the
+dividend from If, if I look at page 10, it looks like the equity capital you have on page 10 for
+If has not been that the dividend haven't been paid. If I look at the page 46 with the S&P
+Capital base, that's obviously been deducted. Can you clarify what's the diﬀerence
+between these two slides?
+
+A - Torbjörn Magnusson
+Sorry, Per what was the number of the ﬁrst slide?
+
+Q - Per Grønborg
+Slide 10 and slide 46.
+
+Bloomberg Transcript
+
+A - Kari Henrik Stadigh
+
+{BIO 1504152 <GO>}
+
+I think we do so that they now know the page numbers and we give them some time to
+look into the details either during the call we will get an answer or then we will call you up
+with the answer.
+
+Q - Per Grønborg
+Perfect. Thank you.
+
+Operator
+Thank you. Our next question comes from the line of Michael Huttner of JPMorgan. Please
+go ahead. Your line is open.
+
+Q - Michael Huttner
+
+{BIO 1556863 <GO>}
+
+Can you hear me? I'm calling from my mobile. So I have three questions. The ﬁrst one is
+on the dividends and the growth. Maybe you could give a little bit of a feeling for where
+you have potential buﬀers. The reason I ask is not all operations grow their dividends
+smoothly year-on-year. And so, if one large division didn't have growth, what would be
+the possibility for the others to kind of make the slack, and I just wondered if you could
+give a feel for the excess capital in the various divisions, or maybe in the parent, which is
+available to (00:31:26) should it be needed? This is really just the question.
+The other one is the combined ratio of 85.2% and I apologize came to the call (00:31:36)
+and maybe a bit late. How sustainable is this? This is an extraordinary number. However,
+Page 11 of 16
+
+
+
+Company Name: Sampo Oyj
+Company Ticker: SAMPO FH Equity
+Date: 2019-02-07
+
+FINAL
+
+listening to the early answers, you seem to imply that the margin is actually rising both in
+Norway and in Finland commercial lines. And so that margins are rising from this level.
+And I just wonder if you can give a feel for are we now at a stable level? We've been at
+85% in the last two years or can we now improve as a further kind of step function going
+forward?
+And then the ﬁnal one is Kari you said – and I was looking at Bloomberg that you said you
+came to retirement only in a legal sense and I just wondered what you meant by that?
+Thank you.
+
+A - Kari Henrik Stadigh
+
+{BIO 1504152 <GO>}
+
+Well, that was a very personal comment. I don't like the word retire. So legally I'm
+deﬁnitely out from Sampo by the end of the year. But privately, I'm of course continuing to
+work in some other capacity, but not within the Sampo Group. On the dividend side, if
+you want us to paint the picture that if something awful happened, could we manage one
+year with interim dividends for instance. If that's your question, I think you must remember
+that we are strongly capitalized.
+
+Bloomberg Transcript
+
+So we have never taken any internal dividends to the extreme. And I think we have
+communicated that the surplus capital through a theme (00:33:14) capitalized is how
+much. It's €1 billion probably. So there are ample resources and then we have of course
+many times commented to you that we haven't maximized subordinated debt in the
+entities within the group.
+And of course the third lever is that now we have direct investments in the parents which
+are not there to be kept forever. So all these together – but then the fundamental thing of
+course underlying here is that as a group, we are geared to beneﬁt a lot from increase in
+interest rates if that ever happens. The deposit margin will appear in the bank P&L, the
+discount rates will release capital from our liability side, and of course our ﬁxed income
+portfolio will earn much more. So we are still positioned in a situation where we target
+slowly increasing dividends.
+
+Q - Michael Huttner
+
+{BIO 1556863 <GO>}
+
+And the bad book (00:34:30) from Mandatum is that still releasing capital?
+
+A - Kari Henrik Stadigh
+
+{BIO 1504152 <GO>}
+
+That's also a good comment, you are on the ball. So the goal with (00:34:37) proﬁt
+portfolio decreases by at least €200 million a year, and if we have a solvency of 25% that
+releases €50 million a year as well. You're right.
+
+A - Torbjörn Magnusson
+And then the 85.2% combined ratio is not an extraordinary number. We aim for high
+returns, which you can also see in Topdanmark where the combined ratio is lower than
+that, but also and as importantly I think, if you look at the Nordic market as such, our peers
+are also at least striving for combined ratios in the region of what we are achieving.
+Page 12 of 16
+
+
+
+Company Name: Sampo Oyj
+Company Ticker: SAMPO FH Equity
+Date: 2019-02-07
+
+Q - Michael Huttner
+
+{BIO 1556863 <GO>}
+
+That's really helpful. Excellent. Thank you very much.
+
+FINAL
+
+Operator
+Thank you. And our next question is a follow-up from Blair Stewart of Bank of America.
+Please go ahead. Your line is open.
+
+Q - Blair Stewart
+
+{BIO 4191309 <GO>}
+
+Thank you. I didn't expect to come on so soon. A couple of things. Can we come back to
+the €1 billion comment that you just made in terms of the surplus capital within the P&C
+business because on an S&P basis, I know that you've paid the dividend at the end of the
+year, it's more like €200 million, so I just wonder how you got to that €1 billion?
+Secondly, on Mandatum looking at Q4, you earned almost as much in the risk result and
+the expense result in Q4 as you did in the ﬁrst nine months of the year. I just wonder is
+there anything exceptional within there or is that just a very strong quarter?
+
+Bloomberg Transcript
+
+And Kari, you talked about losing €200 million due to investment markets which had
+been replaced so far this year. If I look at your fair value adjustment reserve, it went down
+by €400 million. So I just wonder how we can reconcile that, and has that €400 million
+more or less been topped back up so far this year with market moves? Thank you.
+
+A - Torbjörn Magnusson
+On the excess capital of If, you're right if we were to look at the rating of cluster A
+(00:36:46) dividend then a €1 billion is stretching it. But of course the rating – for exactly
+the S&P model, but that's not an exact number. And Kari's comment was also related to
+having a more lower Solvency II ratio in If and focusing more on maximizing the capital
+from a solvency perspective and not necessarily referring back to the rating, the S&P
+model. And the other one was on at Mandatum at Q4.
+(00:37:25)
+
+A - Kari Henrik Stadigh
+
+{BIO 1504152 <GO>}
+
+So if there is anything exceptional on cost and risk result?
+
+A - Torbjörn Magnusson
+On the costs, there is no exception, it was a very strong Q4 and full year on the expense
+result in Mandatum, it was the best ever, actually. Then if you were to look forward, you
+should remember that we previously said that when Danske starts selling the commission,
+we'll pay to Danske. It's somewhat higher than what would be the average commission
+level in 2018.
+
+Page 13 of 16
+
+
+
+Company Name: Sampo Oyj
+Company Ticker: SAMPO FH Equity
+Date: 2019-02-07
+
+FINAL
+
+So you should bear that in mind when thinking about the expense result going forward.
+But in Q4 excellent expense result in Mandatum and full year as well. The only thing that
+was special was a smaller reserve release which contributed to the good risk result in
+Mandatum in 2018 and in the fourth quarter of – sort of single digit million euros, low
+single digit million euros that's the only special item in the Q4.
+
+A - Kari Henrik Stadigh
+
+{BIO 1504152 <GO>}
+
+And did you ask about...
+
+Q - Blair Stewart
+
+{BIO 4191309 <GO>}
+
+Sorry to interrupt, Kari, should we think about those numbers as a run rate apart from the
+reserve release given that the Danske agreement is now back up and running fully, should
+we think about those numbers for a run rate going forward?
+
+A - Torbjörn Magnusson
+I think the risk result for Mandatum has been fairly stable at the current level for a number
+of years, so I would consider that as a run rate. The expense results which we had in 2018,
+I think is also a reasonable run rate. My comment was also that you shouldn't expect that
+to increase in the same way that its assets down over the last few years.
+
+Q - Blair Stewart
+
+{BIO 4191309 <GO>}
+
+Bloomberg Transcript
+
+Understood. Thank you.
+
+A - Kari Henrik Stadigh
+
+{BIO 1504152 <GO>}
+
+Yeah. There was the question of €200 million of – so to get that numbers to match, I think
+that we lost €200 million last year on investments and we have made up that this year. But
+then, the reserves were partly – or do you want to answer?
+
+A - Torbjörn Magnusson
+The fair value reserves, it's both the mark-to-market value changes and the fact that we
+sold oﬀ some assets, reduced our equity exposures during the year and then in Q4, which
+contributed as of end of Q3 to the fair value reserve.
+
+Q - Blair Stewart
+
+{BIO 4191309 <GO>}
+
+Okay. Thank you (00:40:08)
+
+Operator
+Thank you. And we have a follow-up from Michael Huttner at JPMorgan. Please go ahead.
+Your line is open.
+
+Q - Michael Huttner
+
+{BIO 1556863 <GO>}
+
+Page 14 of 16
+
+
+
+Company Name: Sampo Oyj
+Company Ticker: SAMPO FH Equity
+Date: 2019-02-07
+
+FINAL
+
+(00:40:33) I'm just asking a little bit more and maybe you've answered it, so then I listen
+to the replay. Apart from the pricing where you said the merger in Norway and I think
+liability of commercial lines in Finland what's the price doing in the other markets, please?
+And on the weather where it sounds to me in weather I'd just say is you really don't know
+but sounds to me with 2018 was maybe a little bit behind due to the late start of winter. Is
+that something we should kind of normalize for? Thank you.
+
+A - Kari Henrik Stadigh
+
+{BIO 1504152 <GO>}
+
+Pricing in Sweden is very rational, there have been very few moves in market share for a
+long time, no change there except for the large corporate business Torbjörn had just
+mentioned, Finland big changes in 2017, rate reductions and despite that we have a very
+good result in Finland and no change, no big changes in market share this year. Denmark
+same thing. And the winter last year was deﬁnitely not benign, maybe not that much
+worse than normal, but you don't need to normalize anything there because it continue
+for so long into the – what is normally the spring in April and before it ended.
+
+Q - Michael Huttner
+
+{BIO 1556863 <GO>}
+
+Got it. Thank you very much. And a ﬁnal question (00:42:03) there was a storm right on
+the cusp of the New Year's Day, can you say anything about that? Sorry, this maybe a very
+late question.
+
+A - Kari Henrik Stadigh
+
+{BIO 1504152 <GO>}
+
+Bloomberg Transcript
+
+The answer was timing.
+
+Q - Michael Huttner
+
+{BIO 1556863 <GO>}
+
+All timing. Thanks you. That's all I had. Thank you.
+
+Operator
+Thank you. The next question is another follow-up from Blair Stewart, Bank of America.
+Please go ahead. Your line is open.
+
+Q - Blair Stewart
+
+{BIO 4191309 <GO>}
+
+Yeah, just more of a comment than a question. I just wanted to say congratulations
+Torbjörn on the promotion. It's been a long time coming and it's nice to see a fellow
+actually going up in the world, but listening to the press call today, I noticed the Chairman
+and CEO refer to each other as cookie and Nalla (00:42:50). So one observation would
+be that you're going to have to get yourself a nickname if you're going to be successful in
+this job.
+
+A - Torbjörn Magnusson
+Thanks a lot, Blair. I'll keep that in mind and think about it.
+
+Q - Blair Stewart
+
+{BIO 4191309 <GO>}
+Page 15 of 16
+
+
+
+Company Name: Sampo Oyj
+Company Ticker: SAMPO FH Equity
+Date: 2019-02-07
+
+If I can help let me know.
+
+A - Kari Henrik Stadigh
+
+{BIO 1504152 <GO>}
+
+Thanks Blair.
+
+FINAL
+
+Operator
+Okay. So there are no further questions coming for at this time, I'll hand back to our
+speakers for the closing comments.
+
+A - Jarmo Salonen
+
+{BIO 1860650 <GO>}
+
+Thank you operator and thank you all for your attention and Knut and I will come back to
+you in a few minutes about the slides you referred to. I'm not sure that (00:43:44). Talk to
+you soon. Thanks. Bye, bye.
+
+A - Kari Henrik Stadigh
+
+{BIO 1504152 <GO>}
+
+Bloomberg Transcript
+
+Thank you.
+
+This transcript may not be 100 percent accurate and may contain misspellings and other
+inaccuracies. This transcript is provided "as is", without express or implied warranties of
+any kind. Bloomberg retains all rights to this transcript and provides it solely for your
+personal, non-commercial use. Bloomberg, its suppliers and third-party agents shall have
+no liability for errors in this transcript or for lost proﬁts, losses, or direct, indirect,
+incidental, consequential, special or punitive damages in connection with the furnishing,
+performance or use of such transcript. Neither the information nor any opinion expressed
+in this transcript constitutes a solicitation of the purchase or sale of securities or
+commodities. Any opinion expressed in the transcript does not necessarily reﬂect the
+views of Bloomberg LP. © COPYRIGHT 2022, BLOOMBERG LP. All rights reserved. Any
+reproduction, redistribution or retransmission is expressly prohibited.
+
+Page 16 of 16
+
+

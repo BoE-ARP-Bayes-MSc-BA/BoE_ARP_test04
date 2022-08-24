@@ -1,0 +1,2352 @@
+Company N ame: Arch Capital Group L td
+Company Ticker: ACGL US Equity
+Date: 2016-07-28
+
+Q2 2016 Earnings Call
+Company Participants
+FINAL
+
+Constantine P. Iordanou
+Marc Grandisson
+Mark Donald Lyons
+
+Other Participants
+Amit Kumar
+Brian Robert Meredith
+Ian J. Gutterman
+Jay Arman Cohen
+Jay Gelb
+Josh D. Shanker
+Kai Pan
+Michael Nannizzi
+
+Bloomberg Transcript
+
+Quentin McMillan
+
+MANAGEMENT DISCUSSION SECTION
+Operator
+Good day, ladies and gentlemen, and welcome to the Arch Capital Group Second Quarter
+2016 Earnings Conference Call. At t his time, all participants are in a listen-only mode.
+Later, we will conduct a question-and-answer session and instructions will follow at that
+time. As a reminder, this conference call is being recorded.
+Before the company gets started with its update, management wants to first remind
+everyone that certain statements in today's press release and discussed on this call may
+constitute forward-looking statements under the federal securities laws. These
+statements are based upon management's current assessments and assumptions and
+are subject to a number of risks and uncertainties. Consequently, actual results may differ
+materially from those expressed or implied. For more information on the risks and other
+factors that may affect future performance, investors should review the periodic reports
+that are filed by the company with the SEC from time to time.
+Additionally, certain statements contained in the call that are not based on historical facts
+are forward-looking statements within the meaning of the Private Securities Litigation
+Reform Act of 1995. The company intends the forward-looking statements in the call to
+be subject to the Safe Harbor created thereby.
+
+Page 1 of 34
+
+
+
+Company N ame: Arch Capital Group L td
+Company Ticker: ACGL US Equity
+Date: 2016-07-28
+
+Management also will make reference to some non-GAAP measures of financial
+performance. The reconciliation to GAAP and definition of operating income can be found
+in the company's current report on Form 8-K furnished to the SEC yesterday, which
+contains the company's earnings press release and is available on the company's website.
+
+FINAL
+
+I would now like to introduce your host for today's conference, Mr. Dinos Iordanou. Sir, you
+may begin.
+
+Constantine P. Iordanou
+
+{BIO 2397727 <GO>}
+
+Thanks, Abigail. Good morning, everyone, and thank you for joining us today for our
+second quarter earnings call.
+
+Bloomberg Transcript
+
+We had a good quarter on a relative basis, and I might say it was a very acceptable
+quarter also on an absolute basis. In today's market, we are emphasizing to our troops
+underwriting discipline, execution and risk management in order to preserve capital and
+maintain balance sheet integrity. We continue to believe that our strategies of diversifying
+revenue streams and actively managing the allocation of capital will allow us to better
+navigate in this environment, which is challenging for all of us.
+As reinsurance returns have narrowed and as you can see in our second quarter financial
+statements, we're fortunate to have our other business segments, the primary property
+casualty segment and the mortgage segment, contribute more meaningfully to our
+operating results. Our reported combined ratio moved to a bit under 90% for the second
+quarter, as catastrophe losses added 4.1 points to our combined ratio. Loss reserve
+development remains favorable in each of our segment which in the aggregated reduced
+our combined ratio by nearly 9 points.
+There were no noticeable changes in the property casualty operating environment from
+last quarter. There are some signs that reinsurance terms, especially ceding commissions,
+may have bottomed out. In our insurance segment, we saw a slight deterioration in rates
+across some sectors, particularly in the excess capacity layers and short tail areas. But
+rates were generally stable as most other lines, while the mortgage insurance
+environment remains very, very healthy. Marc Grandisson will give you more details on the
+segments in a few minutes.
+On an operating basis, we produce an annualized return on equity of 9%, while on a net
+income basis, we earn an annualized return on equity of 13.2% for the quarter and a 7.9%
+on a trailing 12-month basis, which is a better measure to see a long-term profitability.
+Remember that net income movements can be more volatile on a quarterly basis, as
+these earnings are influenced by changes in foreign exchange rates and realized gains
+and losses in our investment portfolio.
+Net investment income per share for the quarter was $0.57 per share, flat sequentially
+from the first quarter of 2016. Despite volatility in the investment and foreign exchange
+markets in the second quarter of 2016, on a local currency basis, total return on our
+Page 2 of 34
+
+
+
+Company N ame: Arch Capital Group L td
+Company Ticker: ACGL US Equity
+Date: 2016-07-28
+
+investment portfolio was a positive 163 basis points. Once we include the effects of
+foreign exchange, total return was 127 basis points in the quarter in dollar terms.
+
+FINAL
+
+Our operating cash flow was $153 million in the second quarter as compared to $232
+million in the second quarter over a year ago. Mark Lyons will discuss the cash flow and
+other financial details in a few minutes.
+Our book value per common share as of June 30, 2016 was $52.04 per share, a 4.4%
+increase from the first quarter of 2016. While some segments of our business have
+become more competitive, we believe that group-wide and on an expected basis, the
+present value ROE on the business written in the 2016 underwriting year should continue
+to produce ROEs in the range of 10% to 12% on allocated capital.
+Before I turn the call over to Marc Grandisson, I would like to discuss our PML, which is
+essentially unchanged from April 1. As usual, I would like to point out to you that our cat
+PML aggregates reflect business balance through July 1, while the premium numbers
+included in our financial statements are through June 30, and that the PMLs are reflected
+net of all reinsurance and retrocessions.
+
+Bloomberg Transcript
+
+As of July 1, 2016, our largest 250-year PML for a single event remains in the Northeast at
+$495 million or about 8% of common shareholders equity. Our Gulf of Mexico PML at $434
+million and our Florida Tri-County PML increased very slightly to $392 million.
+I kept my promise to be brief, and I will now turn it over to Marc Grandisson to comment
+on market conditions before Mark Lyons discusses our financial results. Marc?
+
+Marc Grandisson
+
+{BIO 4369887 <GO>}
+
+Thank you, Dinos. Good morning to all.
+The insurance industry returned to an average level of cat losses in the second quarter,
+with insured claims estimated in the $13 billion to $15 billion range worldwide. As you know,
+Arch underwrites globally, and we will pay a portion of these losses. However, previous
+underwriting actions taken in both our reinsurance and insurance segments helped
+minimize Arch's exposure to these events.
+You may have heard us discuss cycle managements in previous calls, but I feel it's worth
+repeating today that our appetite for assuming risk is directly related to our ability to earn
+an appropriate margin in our view. It's not prudent to grow lines of business where the
+expected margins are not adequate relative to the risk assumed. The insurance industry
+continues to face dual headwinds from low investment returns available in the market and
+underwriting margin compression as we raised sales (08:18) to keep up with loss trends in
+many lines of business.
+Our focus remains on deploying capital judiciously and carefully in the P&C space. But we
+are continuing to redeploy it aggressively in our mortgage or MI segment, where returns
+Page 3 of 34
+
+
+
+Company N ame: Arch Capital Group L td
+Company Ticker: ACGL US Equity
+Date: 2016-07-28
+
+FINAL
+
+are very attractive and above our long-term goals. We remain bullish on the sector and
+believe that returns will remain above our hurdle rates for the next several years.
+Within the U.S. mortgage MI sector, we estimate that our market share of the primary new
+insurance written or NIW in the U.S. was in the 9% to 10% range in the second quarter, up
+from 6.4% in Q1, as Arch MI continues to gain traction in the bank channel. The acceptance
+of RateStar, our risk-based pricing module, is a primary driver of this growth, and we
+believe that it will allow us to earn better risk-adjusted return.
+In addition, we continued our market leadership in underwriting new U.S. GSE risk-sharing
+transactions and continued to see good volume from our Australian primary insurance
+relationship. Our U.S. MI operation increased its NIW to $6.4 billion during the second
+quarter of 2016, of which approximately 76% came through the bank channel. Over 80%
+of our bank channel borrowed or paid MI commitments by the end of the second quarter
+were obtained through RateStar. Our current return expectation across our MI segment is
+in excess of our long-term ROE target of 15%.
+
+Bloomberg Transcript
+
+Let me turn now to our primary P&C insurance operations in the United States. Overall, we
+saw rate changes of negative 180 basis points this quarter versus a positive 20 basis
+points last quarter. We believe that we have mitigated some of that rate erosion after
+consideration of our ceded reinsurance coverage. Most of our controls or low-volatility
+segments had rates changed in a zero to positive territory, while our cycle managed
+segments experienced single to double-digit rate decreases. As we noted, frequently,
+our cycle managed segments are more heavily reinsured.
+Our UK operation is still pressured from a rate level perspective, with an overall rate
+decrease across all our product lines of 4.6% this quarter. Our cycle management culture
+is a key factor in our strategy, and we are reacting accordingly to market conditions. Our
+net written premium was essentially flat, but we continued to realign the portfolio towards
+the more effective opportunities in the UK.
+Globally, our insurance group continues to adjust its mix of business on a gross basis and
+also in a net basis, as we are able to buy reinsurance on favorable terms. Ceded
+premiums increased 5% in our insurance group this quarter over the same period last
+year.
+Areas of opportunity for growth in the insurance sector in the second quarter were in our
+construction, national accounts, travel and alternative market lines. The vast majority of
+our growth came as a result of our ability to take advantage of the current dislocation in
+areas where major players are challenged. In contrast, our executive assurance, excess
+property and program businesses are areas where rate levels lead us to a more
+defensive strategy.
+Turning to our reinsurance group, which continues its strong performance. Our teams are
+increasingly more selective given the conditions in their markets. Underwriting year returns
+in many of the traditional reinsurance lines are in the low-single digit and some are even
+negative on an expected basis.
+Page 4 of 34
+
+
+
+Company N ame: Arch Capital Group L td
+Company Ticker: ACGL US Equity
+Date: 2016-07-28
+
+Adjusting for one large loss portfolio transfer and the impact of the Gulf Re acquisition
+last year, our reinsurance net premium written declined by 2% for the second quarter of
+2016 versus 2015.
+
+FINAL
+
+And with that, I'll hand it over to Mark to cover the detailed financial result.
+
+Mark Donald Lyons
+
+{BIO 6494178 <GO>}
+
+Thank you, Marc, and good morning, all. As getting into the financial information, I guess,
+I'll be the most verbose (12:42) side of the – out of the three of us. So, as was true in my
+previous calls, the comments that follow are on a pure Arch basis, which excludes the
+other segment, that being Watford Re, unless otherwise noted. I will continue to use the
+term core to denote the results without Watford Re and the term consolidated when
+discussing results including Watford Re.
+
+Bloomberg Transcript
+
+However, due to an all industries clarification issued recently by the SEC regarding nonGAAP measures, our earnings release now emphasizes GAAP measures as some
+previous tables and commentary that used to be in the earnings release have been
+shifted into the financial supplement. So please read them together.
+Various examples are on page 7 of the earnings release, we now show the reconciliations
+from net income to after-tax operating income, where previously, it was the reverse. The
+point being is that you start with the GAAP measure, not the non-GAAP measure. We also,
+on page 1 of the earnings release, now present consolidated underwriting result that
+includes Watford Re rather than the core underwriting result that previously had excluded
+it.
+Lastly, the schedule showing prior period development and cat losses by segment, along
+with the schedule displaying the components of net investment income and investment
+total return, are now on pages 21 and 23 of the financial supplement, respectively. So,
+hopefully, that provides a little bit of a roadmap.
+Okay, with that said, the core combined ratio for this quarter was 89.9%, with 4.1 points of
+current year cat-related events, which are net of reinsurance or reinstatement premiums,
+compared to the 2015 second quarter combined ratio of 87.9%, which reflected only 1.9
+points of cat-related events.
+Losses recorded in the second quarter from 2016 catastrophic events, net of reinsurance
+recoverables and reinstatement premiums, totaled $36.3 million versus $15.9 million in the
+corresponding quarter last year, primarily emanating from U.S. Texas hailstorms and
+floods, Fort McMurray, Canada wildfires, and earthquake events in Japan and Ecuador.
+This was a quarter that experienced the high throughput via cat events, yet the largest of
+these have less than an $8 million net impact to Arch. This result evidences our continued
+emphasis on property lines setting and the overall focus towards reducing our cat PML
+exposure given that in our view, current pricing does not adequately compensate for the
+exposure assumed in many cases.
+Page 5 of 34
+
+
+
+Company N ame: Arch Capital Group L td
+Company Ticker: ACGL US Equity
+Date: 2016-07-28
+
+FINAL
+
+The 2016 second quarter core combined ratio reflected 8.9 points of prior year net
+favorable development, net of reinsurance-related acquisition expenses, compared to
+the nearly identical 9.2 points of prior-period development on the same basis in the
+second quarter of last year. This resulted in core accident quarter combined ratio,
+excluding cat for the second quarter of 94.7%, compared to 95.2% in the corresponding
+quarter last year. This quarter, the reinsurance segment had two unique transactions that
+impacted the financial segment in different ways, both related to loss portfolio transfers.
+The first reflects the commutation of a pre-existing contract that resulted in recognizing
+$19.1 million of other underwriting income. However, this contract had been accreting
+approximately $1.5 million of gain a quarter. So, the incremental impact is approximately
+$17.5 million for the quarter. This contract had been receiving the positive accounting
+treatment since inception, since it did not pass risk transfer under GAAP. Since this gain
+shows up in other underwriting income, it is outside of the combined ratio.
+
+Bloomberg Transcript
+
+The second transaction involves a newly bound loss portfolio transfer with a long-term
+client, where we have familiarity with the underlying exposures. This contract has sufficient
+risk transfer under GAAP and, therefore, receives insurance accounting treatment.
+As a result, we booked this contract at approximately 100% combined ratio and its impact
+is solved (16:44) directly in the combined ratio. Furthermore, it covers the cedents net
+after all annoying (16:49) reinsurances, thereby making this a frequency contract. That
+said, the reported calendar quarter of reinsurance segment combined ratio of 82.1%
+would actually be 79.4% without the impact of this new loss portfolio transfer. In addition, it
+results in a 7.7-point increase in the calendar quarter loss ratio with a five-point benefit to
+the expense ratio, therefore, totaling a 2.7-point worsening of the calendar quarter
+combined ratio over what it would have otherwise been.
+Now, getting back to our results for the quarter, the reinsurance segment 2016 active
+quarter combined ratio excluding cat was 98.4%, compared to 94% even in the 2015
+second quarter. This quarter's combined ratio reflects the impact of the loss portfolio
+transfer we just discussed, that contributed approximately $40 million of net written and
+net earned premiums, as well as the impact of a large marine attritional loss that had no
+equivalent in the second quarter of last year. Without the impact of these items, the
+accident quarter loss ratio was nearly flat over last year's quarter.
+In the insurance segment, the 2016 accident quarter combined ratio excluding cat was
+96.3%, compared to an accident quarter combined ratio of 97.6% a year ago. This 130basis-point decrease was driven by 100 bps in the loss ratio and 30 bps in the expense
+ratio, with the loss ratio decrease reflecting a lack of the large attritional losses that we
+experienced during the second quarter of 2015. When one adjusts for this, the non-cat
+non-large attritional loss ratio was essentially flat quarter-over-quarter.
+The mortgage segment 2016 accident quarter combined ratio was 66.1%, compared to
+77.4% in the second quarter of last year. This decrease is predominantly driven by the
+continued expense ratio improvement in our U.S. primary MI book due mostly to growth,
+
+Page 6 of 34
+
+
+
+Company N ame: Arch Capital Group L td
+Company Ticker: ACGL US Equity
+Date: 2016-07-28
+
+FINAL
+
+along with beneficial mix changes towards GSE transactions receiving insurance
+accounting treatment in lieu of derivative accounting treatment.
+Regarding prior periods' reserve development, the insurance segment accounted for
+roughly 6% of the total net favorable development in the quarter and this was primarily
+driven by shorter-tailed lines from the 2012 through 2014 accident years, with some
+contributions from longer-tailed lines spread primarily across accident years 2003 through
+2012, and partially offset by a large energy casualty claim from the 2015 accident year
+(19:25) Bermuda insurance operations.
+The reinsurance segment accounted for approximately 81% of the total net favorable
+development in the quarter with approximately 70% of that's due to net favorable
+development on short-tailed lines concentrated in the more recent underwriting years,
+and the balance due to net favorable development on longer-tailed lines, primarily from
+the 2002 through 2013 underwriting years.
+
+Bloomberg Transcript
+
+The mortgage segment contributed to the balance or 13% of the total net favorable
+development in the quarter, which translated to a near 17-point beneficial impact to the
+mortgage segment loss ratio, primarily resulting from continued lower-than-expected
+claim rates from our U.S. primary mortgage insurance operation and from the quota share
+treaty covering the 2009 to 2011 book years as part of the original PMI and CMG purchase
+transaction.
+As discussed in previous quarters, almost all of the favorable development benefit is
+offset by the contingent consideration earn-out mechanism negotiated within the
+purchase agreement. This contingent consideration impact, however, is reflected in
+realized gains and losses and not within underwriting income.
+This quarter, the nominal payout cap within the contingent consideration mechanism was
+reached, which is 150% of the transaction closing book value. Effects will still be felt in
+future quarters, though, as we continue to accrete to the contractual payment date and
+the discount rate employed to account for increased certainty decreases over time.
+The overall core expense ratio improved by 180 basis points, but this was affected by the
+loss portfolio transfer referenced earlier. Controlling for this transaction, the core expense
+ratio improved by 20 basis points driven by the continued improvement in the mortgage
+segment expense ratio and continued marginal improvement in the insurance segment
+expense ratio.
+On a written basis, ceding commissions achieved within the insurance segment quota
+share sessions improved 210 basis points over the second quarter of 2015. As stated last
+quarter, the growth at alternative markets business reduces this benefit somewhat due to
+the associated capital cessions (21:36).
+Core cash flow from operations was $153 million as Dinos mentioned in the quarter versus
+$231 million in the second quarter of 2015. This reduction was caused primarily by higher
+
+Page 7 of 34
+
+
+
+Company N ame: Arch Capital Group L td
+Company Ticker: ACGL US Equity
+Date: 2016-07-28
+
+FINAL
+
+loss to be paid net of recoveries and the timing of outflows associated with ceding more
+premiums this quarter versus a year ago.
+Core interest expense for the quarter was $12.4 million, compared to $12.6 million in the
+first quarter, and $4 million in the prior year's quarter. The prior year quarter amount
+included a favorable adjustment for a deposit accounting transaction, which resulted in an
+$8.4 million reduction in the interest expense in that quarter. As mentioned earlier, this
+deposit contract was commuted during the quarter.
+Our effective tax rate on pre-tax operating income available to Arch shareholders for the
+second quarter of 2016 was an expense of 5.9% compared to an expense of 3.9% in the
+second quarter of last year. This quarter's 5.9% effective tax rate includes approximately
+20 basis points or $250,000 related to a true-up of the prior year's tax provision to the
+estimated annual effective rate as of June 30.
+As always, fluctuations in the effective tax rate can result from variability in the relative mix
+of income or loss reported by jurisdiction. Our total capital was $7.6 billion at the end of
+this quarter, up 4% relative to March 31. Our debt-to-capital ratio this quarter remains low
+at 11.7% and debt plus hybrids represent only 16% of our total capital, which continues to
+give us ongoing financial flexibility. We continue to estimate having capital in excess of our
+targeted position. We did not purchase any shares this quarter under our authorized share
+buyback program and the remaining authorization is approximately $446 million as of
+June 30.
+
+Bloomberg Transcript
+
+With these introductory comments, we're now pleased to take your questions.
+
+Constantine P. Iordanou
+
+{BIO 2397727 <GO>}
+
+Abigail, we're ready for questions.
+
+Q&A
+Operator
+Thank you. Our first question comes from Kai Pan with Morgan Stanley. Your line is open.
+
+Q - Kai Pan
+
+{BIO 18669701 <GO>}
+
+Good morning and thank you.
+
+A - Constantine P. Iordanou
+
+{BIO 2397727 <GO>}
+
+Hi, Kai.
+
+Q - Kai Pan
+
+{BIO 18669701 <GO>}
+
+First question – hi. These two large portfolio transfer transaction, can you give me more
+details about it? For the one you commute, what's the reason for that and for the one you
+Page 8 of 34
+
+
+
+Company N ame: Arch Capital Group L td
+Company Ticker: ACGL US Equity
+Date: 2016-07-28
+
+just booked? And so, how do you – what attractive to you, what (24:16) to you and do you
+see other opportunity – similar opportunities?
+
+FINAL
+
+A - Constantine P. Iordanou
+
+{BIO 2397727 <GO>}
+
+Well, the first one we commuted, we always try to keep very good relationships with our
+clients. It was a client request, they want it, and we felt the terms of commutation, they
+were attractive to us, so we accepted it. The second is in the normal course of business,
+we always look with transactions and this was a transaction presented for us. We like the
+economic, so we did it. Marc, you want to add with?
+
+A - Marc Grandisson
+
+{BIO 4369887 <GO>}
+
+Yeah, the only thing I would add on the second one, it was really as a result of being
+intimately very familiar with the book of business. It's a kind that we have known for many
+years and the years under which that LPT is – the year just covering (25:00), we actually
+had underwriting risk alongside with that party as well, and that came as a result of a –
+again, a request by the client to seek and improve their capital ratios, and that's really a –
+this is why it's driven, that's what it's driven by.
+
+A - Constantine P. Iordanou
+
+{BIO 2397727 <GO>}
+
+Yes, it's a capital relief situation here.
+
+Q - Kai Pan
+
+{BIO 18669701 <GO>}
+
+Bloomberg Transcript
+
+Do you see more similar opportunities?
+
+A - Constantine P. Iordanou
+
+{BIO 2397727 <GO>}
+
+Yeah, we see activity in that sector as a matter of fact. But we don't make predictions as
+to – are we going to do any of that, because I have the faintest idea if that's going to
+happen. The instruction to our guys is, you look at them, you like the economics, we do
+them, we got the capital. If you don't like the economic, we pass.
+
+A - Mark Donald Lyons
+
+{BIO 6494178 <GO>}
+
+Yeah. And Kai, so it's always tough with the long runway on those. Hit ratio is below, but
+we continue to see them and entertain them.
+
+Q - Kai Pan
+
+{BIO 18669701 <GO>}
+
+Okay. That's good. On the MI side, the Australian reinsurance transaction, is that
+considered like a one-off or is it a continuing relationship if that could recur?
+
+A - Marc Grandisson
+
+{BIO 4369887 <GO>}
+
+This is an actual ongoing relationship. It's a quota share of a primary insurance book of
+business.
+
+Q - Kai Pan
+
+{BIO 18669701 <GO>}
+Page 9 of 34
+
+
+
+Company N ame: Arch Capital Group L td
+Company Ticker: ACGL US Equity
+Date: 2016-07-28
+
+Okay, so...
+
+A - Constantine P. Iordanou
+
+{BIO 2397727 <GO>}
+
+FINAL
+
+And we will continue until we can.
+
+A - Marc Grandisson
+
+{BIO 4369887 <GO>}
+
+Until we both can and the good parties agreed to.
+
+A - Constantine P. Iordanou
+
+{BIO 2397727 <GO>}
+
+Right.
+
+Q - Kai Pan
+
+{BIO 18669701 <GO>}
+
+Okay. Are there additional sort of like gross opportunity with that client?
+
+A - Marc Grandisson
+
+{BIO 4369887 <GO>}
+
+At this point, we don't perceive that we had a very significant portion of their portfolio and
+we're sort of happy, very comfortable with that position.
+
+Bloomberg Transcript
+
+Q - Kai Pan
+
+{BIO 18669701 <GO>}
+
+Okay. And lastly, it's on your rate commentary in the insurance industry. It seems like it's
+down like decelerated in term of pricing decline. Could you give a little bit more color on
+the pricing dynamics there? And in this environment, how do you sort of imagine your
+portfolio? It looks like your, like, core combined ratio actually improved in the insurance
+segment, you said mostly due to mix change. Will that be enough to keep the margin?
+
+A - Constantine P. Iordanou
+
+{BIO 2397727 <GO>}
+
+Well, it's a complicated question. Let me give you the strata data. We don't give you the
+granular performance or in each one of the sectors for obvious reasons. You listen but so
+our (27:28) competitors et cetera, so we're not going to tell them everything that we do.
+But it's true in our comments that the aggregate rate reduction across the entire renewal
+(27:41) group was about 1.8%, that's 180 bps.
+And then, you're factoring some loss claims trend. That means that's not a good market
+to operate. Now, having said that, we have sectors that we're very defensive because
+that's where we're seeing the significant rate reductions. I mentioned in my remarks,
+property lines and access both in D&O, professional and liability line with the capacity
+players. And at the end, there is no – it's pure supply and demand. There is no
+differentiation in the product, et cetera. And it's under pricing pressure.
+We try to manage those down and we try to put more emphases on a small to mediumsize business that we have more control on the rating and also the quality of the risk, et
+cetera. Now, I'm going to turn it over to Marc Grandisson, because he runs the insurance
+group now. He runs all of our operations. And he's more granularly involved with this
+Page 10 of 34
+
+
+
+Company N ame: Arch Capital Group L td
+Company Ticker: ACGL US Equity
+Date: 2016-07-28
+
+decision as he does the review to the profit sense, et cetera, to give you a little more
+flavor.
+
+FINAL
+
+A - Marc Grandisson
+
+{BIO 4369887 <GO>}
+
+Yeah, the flavor was actually given in the remarks. I did mention specifically the controlled
+and low-volatility business, which is a small to medium size where we have more intimate
+and more influence over what's happening in the form and pricing. We are getting flat to
+single-digit rate increases in many instances.
+The ones that are more cycle-managed, more open market, a lot more competitive, a lot
+more commoditized, this one had the single-digit 5% to 7% rate decrease. So, and as I
+mentioned also in my comments, the cycle-managed one is the one where we are a little
+bit more willing and then, working harder to buy reinsurance to actually mitigate those
+rate decreases.
+
+A - Mark Donald Lyons
+
+{BIO 6494178 <GO>}
+
+And I would just add on top, because Marc nailed it, is the additional layer that we talked
+about, the ceding commissions. So, on the commoditized product line, you manage your
+mix to increase reinsurance, and this is the environment you're getting – continuing those
+big overrides that drop the bottom line and really help the net income.
+
+Q - Kai Pan
+
+{BIO 18669701 <GO>}
+
+Bloomberg Transcript
+
+This is great. Thank you so much, guys.
+
+A - Constantine P. Iordanou
+
+{BIO 2397727 <GO>}
+
+Thank you.
+
+A - Marc Grandisson
+
+{BIO 4369887 <GO>}
+
+Thank you.
+
+Operator
+Thank you. Our next question comes from Jay Gelb with Barclays. Your line is open.
+
+Q - Jay Gelb
+
+{BIO 21247396 <GO>}
+
+We've heard some other reinsurers and perhaps even some of the brokers say that they
+view the reinsurance market is bottoming. Would you agree with that?
+
+A - Constantine P. Iordanou
+
+{BIO 2397727 <GO>}
+
+In general, I do. Marc, (30:39)?
+
+A - Marc Grandisson
+
+{BIO 4369887 <GO>}
+
+Page 11 of 34
+
+
+
+Company N ame: Arch Capital Group L td
+Company Ticker: ACGL US Equity
+Date: 2016-07-28
+
+FINAL
+
+Yeah, my comment on this is – I will be careful because we don't know again the future.
+There are certainly signs that reinsurance markets are pushing back on markets like
+property cat for instance. There is some layers that have to be re-priced in the second
+quarter, because there was too much aggressiveness in trying to get the price down. So
+there's some pushback. It's still going down, but not to the same level.
+In addition, we also have pushback from the market on getting increased ceding
+commission. We are successful in getting a couple of points, which Mark and Dinos
+mentioned before. But this is landing around 1% to 2% increase, but there's a lot of push
+to get more than that. So, there's still a lot of pushback from the market at this point in
+time.
+What I tell our troops is, again, we're going to react to whatever we see in the
+marketplace. It could be a bottom, it could be a plateau before more damage being
+done. It's really too early to tell.
+
+A - Constantine P. Iordanou
+
+{BIO 2397727 <GO>}
+
+But you see shortfalls. That's an indication that there is a pushback if you can fill the
+placement and you got to go back with filling a shortfall.
+
+Bloomberg Transcript
+
+So, there are signs that we're hitting the bottom. Listen, where interest rates are, where
+investment income is, you better make it on the underwriting. And if you're not making it
+on the underwriting, you better pack it in and go and open a Greek diner. You make more
+money doing that.
+
+Q - Jay Gelb
+
+{BIO 21247396 <GO>}
+
+Okay. The next topic I wanted to touch on is the mortgage insurance business. And based
+on our model, it looks like the underwriting profits from that could double this year
+compared to 2015, driven by the strong top-line growth and improving margins. How big
+of a business can you envision this being over time?
+
+A - Constantine P. Iordanou
+
+{BIO 2397727 <GO>}
+
+Well, first, you got two questions there. One is you're projecting earnings – I don't think
+your comment is actually solely correct. You got to understand that in our MI book, we
+have U.S. MI, we have the Australian MI which is more steady. We got GSEs which is more
+steady. And then, we have some early transactions. We had a couple of reinsurance
+transactions that did declining because they're maturing. They were a vintage 2012 and
+the duration is six, seven years. So, we're towards the end of those. So, I would say yes,
+the contribution of earnings is going to grow, but it's not going to be exponential the way
+you put it.
+Having said that, the second part of your question is do we like the sector and, yes, we do
+and we're willing to contribute more of our capital. But we don't want it to be totally the
+dominant exposure that we have. And the way we think about it, we want to have a
+balance over time between reinsurance, insurance and mortgage.
+
+Page 12 of 34
+
+
+
+Company N ame: Arch Capital Group L td
+Company Ticker: ACGL US Equity
+Date: 2016-07-28
+
+FINAL
+
+Having said that, in different parts of cycles, depending which segment is the most
+attractive, the earnings might be coming heavier in one area and lighter in another area.
+But that's the beauty of allowing us to navigate and allocate capital into our three
+businesses.
+At the end of the day, we'll not be 100% mortgage company, we won't be 100%
+reinsurance company, and we won't be 100% P&C company. But the market will
+determine which sector is a little bigger or a little smaller. But for us – because at the end,
+we're only chasing margins. And if you're chasing earnings, you got to go where the
+earnings are.
+
+Q - Jay Gelb
+
+{BIO 21247396 <GO>}
+
+Of course. On the mortgage insurance front, do you envision it being organic growth, the
+charges going forward, or is Arch interested in acquisitions in that space?
+
+A - Constantine P. Iordanou
+
+{BIO 2397727 <GO>}
+
+We're interested in everything. I mean, we like the sector but our history has been let's
+make sure that we have the right strategies that we can always grow organically and
+depend on that, because acquisitions, sometimes they happen, sometimes they don't.
+And at the end of the day, you don't have.
+
+Bloomberg Transcript
+
+We don't have a strategy that is focusing on acquisitions for growth. Our strategy is
+focusing on let's see if we can build it organically. But we're not excluding anything that
+you might be thrown that way and is attracted to us. Marc you do you agree.
+
+A - Marc Grandisson
+
+{BIO 4369887 <GO>}
+
+I agree with you, yes.
+
+Q - Jay Gelb
+
+{BIO 21247396 <GO>}
+
+Thank you.
+
+A - Marc Grandisson
+
+{BIO 4369887 <GO>}
+
+Welcome.
+
+Operator
+Thank you. Our next question comes from Michael Nannizzi with Goldman Sachs. Your line
+is open.
+
+Q - Michael Nannizzi
+
+{BIO 15198493 <GO>}
+
+Thank you so much. One question, Mark, just on the reinsurance business or the LPT
+specifically. It seems like all of that was earned in the second quarter. Should we assume
+that there really isn't a durable impact for the remainder of the year either in terms of top
+line or losses, firstly? And then, secondly, should we assume that it renews again in the
+Page 13 of 34
+
+
+
+Company N ame: Arch Capital Group L td
+Company Ticker: ACGL US Equity
+Date: 2016-07-28
+
+second quarter next year and we should see that lift in premiums again when that
+happens? Thanks.
+
+FINAL
+
+A - Mark Donald Lyons
+
+{BIO 6494178 <GO>}
+
+Okay. Good question. So, both of those, you should view that as a unique special event,
+not recurrent and really not earnings that was virtually fully earned right away. So, consider
+it a quarterly outlier.
+
+Q - Michael Nannizzi
+
+{BIO 15198493 <GO>}
+
+Okay, so not expected to...
+
+A - Constantine P. Iordanou
+
+{BIO 2397727 <GO>}
+
+There is no underwriting gain or loss. We booked it at $100 million (36:43) combined. And
+at the end of the – yeah, that's small increment on the flows that is going to run (36:53),
+it's going to be there. But there is – for all intents and purpose and for your model, ignore
+both of them. Yes.
+
+A - Mark Donald Lyons
+
+{BIO 6494178 <GO>}
+
+I mean, Michael, is it possible a year from today, we reevaluate the ultimate as favorable
+or what have you?
+
+Bloomberg Transcript
+
+Q - Michael Nannizzi
+
+{BIO 15198493 <GO>}
+
+Sure.
+
+A - Mark Donald Lyons
+
+{BIO 6494178 <GO>}
+
+But don't think of it as a quarter-by-quarter impact.
+
+Q - Michael Nannizzi
+
+{BIO 15198493 <GO>}
+
+Got it. Okay, great. Thanks. And then, looks like Watford premiums were down year-overyear. So, I was just curious, because it look like sessions and the segments were up. So,
+does that just mean that you're ceding business to more non-Watford entities, or how
+should we think about that?
+
+A - Mark Donald Lyons
+
+{BIO 6494178 <GO>}
+
+Well, I think you've got – Marc already talked about it. If you're looking at overall session,
+you have the insurance group continuing to cede a little bit more.
+
+Q - Michael Nannizzi
+
+{BIO 15198493 <GO>}
+
+Yes.
+
+A - Mark Donald Lyons
+
+{BIO 6494178 <GO>}
+
+Page 14 of 34
+
+
+
+Company N ame: Arch Capital Group L td
+Company Ticker: ACGL US Equity
+Date: 2016-07-28
+
+I think in totality, it was roughly the same net of growth at an ACGL level. But the mixture
+between, you still got the reinsurance guys doing some retrocession there, because
+mostly leveraging reinsurance from the insurance sector side.
+
+Q - Michael Nannizzi
+
+{BIO 15198493 <GO>}
+
+FINAL
+
+Yes.
+
+A - Marc Grandisson
+
+{BIO 4369887 <GO>}
+
+There's not much change in the buying as well on the reinsurance side as well. It's very
+consistent.
+
+Q - Michael Nannizzi
+
+{BIO 15198493 <GO>}
+
+Got it, okay. But just the net, like the dollar amount of sessions and the businesses was
+higher whereas the net premiums in your other segment, which I assume is all Watford,
+were down. So, I was just curious if your strategy in terms of how much business you're
+placing with Watford was changing or if that's – there's some other distortion in there.
+
+A - Constantine P. Iordanou
+
+{BIO 2397727 <GO>}
+
+Bloomberg Transcript
+
+No. Let me take you back and then, I'll turn it over to Marc. At the end of the day,
+dependent if we're shipping premium out to third-party reinsurance or to Watford, it's got
+to make economic sense. So, we're not going to – if I can get it cheaper in the open
+market, I'm not going to give it to Watford just to maintain volume.
+I'm going to go and buy from where is the most attractive place for me. Having said that, I
+don't think we have changed anything strategically as to what we'll do with Watford. Our
+responsibility with Watford is to be the underwriting managers and underwrite business
+that at the end of the day, it's going to give them flow as close to zero, of course, that's
+possible. And when we find those opportunities, we do it and we give it to them.
+And if the business produces returns that are acceptable to Arch, we won't cede it out.
+We'd keep it at Arch. So, our philosophy and our strategy have not changed.
+
+Q - Michael Nannizzi
+
+{BIO 15198493 <GO>}
+
+Okay. Got it. Thank you. And then, just lastly, just back to mortgage for just a second,
+written premiums both gross and net have increased nicely. I'm guessing a lot of that is
+the GSE business – I mean, all the business but GSE seems to be growing more. Earned
+premium has lagged that growth. So, I guess I'm just trying to figure out how – yeah?
+
+A - Marc Grandisson
+
+{BIO 4369887 <GO>}
+
+I can answer some of that.
+
+A - Constantine P. Iordanou
+
+{BIO 2397727 <GO>}
+
+Go ahead, Marc.
+Page 15 of 34
+
+
+
+Company N ame: Arch Capital Group L td
+Company Ticker: ACGL US Equity
+Date: 2016-07-28
+
+A - Marc Grandisson
+
+{BIO 4369887 <GO>}
+
+The premium written, a lot of it – half of the growth actually comes from Australia as a
+result of being the product with a single premium upfront. So you get all the premium
+upfront and the earnings pattern is extremely (40:12) drives along.
+
+FINAL
+
+Q - Michael Nannizzi
+
+{BIO 15198493 <GO>}
+
+Okay.
+
+A - Marc Grandisson
+
+{BIO 4369887 <GO>}
+
+And also, on the written premium for that, but the rest of the unit, there will be a lag in
+earnings, because we have to write the business and it takes a long time to write and we
+have some singles as well on the Arch U.S. MI, so we did write some singles there, not as
+much as the other guys in the world, but we did some. So, there is definitely going to be a
+lag between the written by virtue of being single upfront mostly from the Australian
+business.
+
+A - Constantine P. Iordanou
+
+{BIO 2397727 <GO>}
+
+Bloomberg Transcript
+
+In the way you got to think about this is that, first, the mortgage business has a six to
+seven years earning pattern, right? The Australian market, a lot of it is single upfront, but it
+was still earned over six, seven years. So, you have lack in the earnings and lack on the
+income that is going to come over time.
+In the U.S., you see our numbers. We do about 20% singles, 80% is the monthlies. The
+monthlies, they book and earn on a month by month. The singles, they're written upon,
+but they earn over six, seven years.
+So, as long as you monitor those two, it would give you a good ability to put both the
+earnings stream as it's going to come in and also the net income stream that is delayed.
+That's why some people like to talk about embedded value in the mortgage sector, which
+some of you might have models predicting what's going to happen in the future.
+
+A - Mark Donald Lyons
+
+{BIO 6494178 <GO>}
+
+And Michael, just – I think you're probably going to go back and you're thinking about how
+you're going to project this stuff on a go-forward basis. I just want to clarify, both Marc and
+Dinos talked about Australia being a singles market. I just want to make sure you realize
+that the contract itself is not a big bullet single. It's a contract over a whole set of singles
+that they accept one month and one day after the other after the other, I think. So, it's a
+book of business that has singles incepting (42:15) throughout the term. It's not a big
+bullet single...
+
+Q - Michael Nannizzi
+
+{BIO 15198493 <GO>}
+
+Right. But it's not a bulk transaction.
+
+A - Constantine P. Iordanou
+
+{BIO 2397727 <GO>}
+Page 16 of 34
+
+
+
+Company N ame: Arch Capital Group L td
+Company Ticker: ACGL US Equity
+Date: 2016-07-28
+
+We're getting it every month, but we're not getting a little component month by month
+over seven years. We get it all upfront.
+
+Q - Michael Nannizzi
+
+{BIO 15198493 <GO>}
+
+FINAL
+
+Right, I got it. So it's not bulk, it's...
+
+A - Constantine P. Iordanou
+
+{BIO 2397727 <GO>}
+
+So, all the mortgage is going to be one in one year (42:32). The premium is going to be
+booked in that particular year. But it's going to be book month by month.
+
+Q - Michael Nannizzi
+
+{BIO 15198493 <GO>}
+
+I understand. So, it's flow business, not bulk business. It just happened to be single.
+
+A - Constantine P. Iordanou
+
+{BIO 2397727 <GO>}
+
+Yes.
+
+Q - Michael Nannizzi
+
+{BIO 15198493 <GO>}
+
+Okay. Got it. Great. Thanks so much.
+
+A - Constantine P. Iordanou
+
+{BIO 2397727 <GO>}
+
+Bloomberg Transcript
+
+You're Welcome.
+
+Operator
+Thank you. Our next question comes from Quentin McMillan with KBW. Your line is open.
+
+Q - Quentin McMillan
+
+{BIO 19411547 <GO>}
+
+Hi. Good morning, guys. Thanks very much. Mark, you had a lot of information in there and
+thanks for walking us through everything with a little bit of a more complicated quarter, a
+couple of those one-off things.
+But one thing that I wanted to understand just a little better is you mentioned the reserve
+development in the mortgage that had an offset in the contingent consideration reaching
+the nominal payout cap.
+Can you explain that a little bit better for us, sort of how the reserving works there and
+why you had this big – relatively bigger $11 million reserve development and it sounds like
+it's an offset somewhere else in the balance sheet, so it's not really a gain? Is that the
+right way to think about it?
+
+A - Mark Donald Lyons
+
+{BIO 6494178 <GO>}
+
+Page 17 of 34
+
+
+
+Company N ame: Arch Capital Group L td
+Company Ticker: ACGL US Equity
+Date: 2016-07-28
+
+FINAL
+
+Well, think of it more as an (43:37). You've got prior period development. Rough number
+(43:42) for $10 million or $11 million, I think, in totality. So, it was $10 million or $11 million on a
+realized loss is how it goes through. And then, you've got the standard part of your
+development. So, it has to be coming from the same source, kind of like a profit
+commission, some client does (44:02), with a loss ratio increase and might decrease the
+profit commission.
+Similarly here, you've got the subject years of what we've purchased. So, it was – it's
+continually lower delinquency rate and claim rates associated with those that dictates and
+indicates the reduction, because on the CMG transaction, we bought – it was a provision
+that was a stock purchased. So, we initially paid 80% of book with an earn-out mechanism.
+And depending upon the...
+
+Q - Constantine P. Iordanou
+
+{BIO 2397727 <GO>}
+
+Actual performance.
+
+A - Mark Donald Lyons
+
+{BIO 6494178 <GO>}
+
+...the actual performance, which is exactly what this is indicative of. We could pay out more
+up to 150% of the closing book value. We hit that nominally – not present value, but
+nominally this quarter, but it's directly related. So, I think it continues to have good
+performance as mostly shown through improved loss reserve development, you get an
+increase in the contingent consideration.
+
+Bloomberg Transcript
+
+Q - Constantine P. Iordanou
+
+{BIO 2397727 <GO>}
+
+Then, from now on, anything that is positive we will continue. It sticks to our ribs. They
+have ate all of them here. It's (45:12) done.
+
+Q - Quentin McMillan
+
+{BIO 19411547 <GO>}
+
+Okay. That's great and very clear and really helpful. Thanks very much. And secondly, on
+the MI side as well, you mentioned 80% of the 75% of the bank channel – I'm sorry, 76% of
+the bank channel came through RateStar.
+Obviously, that's having great success for you guys. Can you just talk to us about what
+you're seeing the competitors now do in response to RateStar or maybe sort of what you
+expect the competitive environment to look like because of that?
+
+Q - Constantine P. Iordanou
+
+{BIO 2397727 <GO>}
+
+Well, I don't know what they're going to do and as far as we're concerned, at the end of
+the day, RateStar is the proper way in our view to price mortgage. This is no different than
+in the auto sector, when you introduce many different variables to price risk appropriately
+and that's what we've been doing. We're pretty happy with not only the performance
+from a production point of view, but also when we go and back that, what RateStar gives
+us versus rate card. But we still have the rate card. Our clients – some 20% of our business
+and 50% of our business in the credit union channel is coming through the rate card. But
+we test both and what we like a lot about the RateStar is that, first and foremost, the
+Page 18 of 34
+
+
+
+Company N ame: Arch Capital Group L td
+Company Ticker: ACGL US Equity
+Date: 2016-07-28
+
+FINAL
+
+(46:38) variability around the mean is very narrow. And we like that, it gives us stability and
+more predictable earnings, while the rate card has much bigger variability.
+And now, how competitors, they're going to – their response? I don't know. I think the best
+way for them to respond is just – and I don't want to give my competitors advice, is go to
+a risk-based pricing tool and make sure that they're pricing risk appropriate. I mean, that's
+the proper response. If they try to just cut rates on the rate cut and all that, it's like
+somebody in a quicksand and they keep moving their feet.
+
+A - Marc Grandisson
+
+{BIO 4369887 <GO>}
+
+So, one thing I would add to this is the only – the other one that's a big competitor of ours
+is the FHA as you guys know. So that one is a government agency, that's also even harder
+for us to even figure what they want to do with the prices. So, I just want to make sure I
+put it out there, yeah.
+
+Q - Quentin McMillan
+
+{BIO 19411547 <GO>}
+
+So, the government's tricky to figure out. That's unusual.
+
+A - Marc Grandisson
+
+{BIO 4369887 <GO>}
+
+Exactly.
+
+Bloomberg Transcript
+
+Q - Quentin McMillan
+
+{BIO 19411547 <GO>}
+
+If I can sneak just one more in. I'm sorry. On – the valuation of the stock, obviously, is a very
+high quality problem to have. It's been up there and above what your three-year return
+threshold would be for buybacks and I'm kind of assuming that's why buybacks were
+limited in the quarter.
+Just assuming that we stay in the sort of heightened valuation for the stock in the near
+term over the long-term, how do you guys sort of expect to deploy capital or what might
+you do?
+
+A - Constantine P. Iordanou
+
+{BIO 2397727 <GO>}
+
+Well, I think you're reaching a conclusion that, in my view, right; it might not be. It wasn't as
+much the valuation of our stock, but it was more where we see opportunities in the
+marketplace. And let's face it, we've seen most of the opportunities on the MI space.
+So, basically we kept that powder dry for the reason that we can deploy more capital in
+the MI space and that was the main reason behind it.
+
+A - Mark Donald Lyons
+
+{BIO 6494178 <GO>}
+
+And as Dinos alluded to, though, it's a combination of things. We never have a price line,
+as you know, on that. It's more of a guidance. And for most of the quarter, we rated I'd
+say a little south of 14 (49:00) to book value. So, it's got to be a little clearer than that
+given the combination of things.
+Page 19 of 34
+
+
+
+Company N ame: Arch Capital Group L td
+Company Ticker: ACGL US Equity
+Date: 2016-07-28
+
+A - Marc Grandisson
+
+{BIO 4369887 <GO>}
+
+Right.
+
+Q - Quentin McMillan
+
+{BIO 19411547 <GO>}
+
+FINAL
+
+Okay. Perfect. Thanks very much guys.
+
+A - Constantine P. Iordanou
+
+{BIO 2397727 <GO>}
+
+Thank you.
+
+Operator
+Thank you. Our next question comes Josh Shanker with Deutsche Bank. Your line is open.
+
+Q - Josh D. Shanker
+
+{BIO 5292022 <GO>}
+
+Yeah. Thanks very much, everyone. I want to look at the favorable development of the
+mortgage reinsurance segment and understand – I mean, I realize that this is very low loss
+content business, but you're only weighing a short period of time and almost took all
+losses out for the quarter. I mean, what's going on? Is that onetime in nature? Is the
+business so good that it's not showing any losses, sort of ?
+
+Bloomberg Transcript
+
+A - Mark Donald Lyons
+
+{BIO 6494178 <GO>}
+
+Josh, it's been a continual march downward on the delinquency rates and the associated
+claim rates as they come out of that. So remember, this is really 2011 and prior, so there's
+vintage seasoning associated with this.
+So, it's not like the PC and it's really – you got to think of it as more of a report year
+(50:09) view of the triangle. So...
+
+A - Constantine P. Iordanou
+
+{BIO 2397727 <GO>}
+
+Yeah, this is CMG mostly, which is the credit union of business and we bought that
+company and we bought the reserves and we bought all the assets and the liabilities that
+come along with it and we had that pricing mechanism, the adjustment we talked about.
+But at the end of the day, you got to report that performance and the performance was
+better than we even expected ourselves. Otherwise, I am the dumbest on two legs,
+because what I negotiated didn't work for me, work for them, because I'm paying a lot
+more for that company than if I would have taken 100% book value at that time. In
+retrospect, if I know what I know today, I would've negotiated better.
+
+A - Mark Donald Lyons
+
+{BIO 6494178 <GO>}
+
+You can't see us nodding here, Josh.
+
+Q - Josh D. Shanker
+
+{BIO 5292022 <GO>}
+Page 20 of 34
+
+
+
+Company N ame: Arch Capital Group L td
+Company Ticker: ACGL US Equity
+Date: 2016-07-28
+
+So, if I look at the mortgage loss reserve, what percentage of it in broad terms is legacy
+business versus Arch MI business?
+
+A - Mark Donald Lyons
+
+{BIO 6494178 <GO>}
+
+FINAL
+
+I don't have that at my finger tips. But I would say substantially.
+
+A - Constantine P. Iordanou
+
+{BIO 2397727 <GO>}
+
+The vast majority – all the stuff.
+
+Q - Josh D. Shanker
+
+{BIO 5292022 <GO>}
+
+Okay. So, the fact, that you're not favorable developments (51:32) to negate your current
+accident year losses. So if you – comparing apples and oranges, you have a huge back
+reserve and a small sort of new co-reserve.
+
+A - Constantine P. Iordanou
+
+{BIO 2397727 <GO>}
+
+That's correct.
+
+A - Mark Donald Lyons
+
+{BIO 6494178 <GO>}
+
+Bloomberg Transcript
+
+That's right. And remember, Josh, we kind of alluded to it, I think, in the prepared remarks
+that sort of part of their original transaction was a quota share on 2009 to 2011, I call it
+back book. And so that is also experiencing some of the same aspects. So that wasn't the
+CMC, that was CMI.
+
+Q - Josh D. Shanker
+
+{BIO 5292022 <GO>}
+
+And do you have any reason to believe that business that you can protect RateStar
+underwritten business has a better loss ratio than rate card business?
+
+A - Constantine P. Iordanou
+
+{BIO 2397727 <GO>}
+
+We priced RateStar and rate card to give us the same ROE, so we have the same target.
+Now, as we back testing both, because every month, I ask the guys and we back test
+based on the volume that comes in and we underwrite. The only difference between the
+two, it's not on expected return on equity. I think both of them, on an expected basis,
+they're about the same. And we did price both at about 15% ROE.
+The difference is that, RateStar is – the RateStar produce business is very narrow –
+narrower around – it's 3 to 4 ROE points up and down SME. Rate card (53:16) is much
+wider. Give you an example, if you had just (53:24) credit score has one variable that
+you're going to test for, if you're testing the 750 (53:29) in the rate card that says
+RateStar, the rate card, even though the mean might be 15%, it might be as some
+business all the way up to 20%, 22% and some all the way to 7% or 8%, where with
+RateStar it's more like 12% to 13% all the way up to 17%, 18%.
+
+Q - Josh D. Shanker
+
+{BIO 5292022 <GO>}
+Page 21 of 34
+
+
+
+Company N ame: Arch Capital Group L td
+Company Ticker: ACGL US Equity
+Date: 2016-07-28
+
+Okay, that makes sense. Well, I appreciate the answers if I'm right. Maybe I'll be ceding
+the microphone to Ian right now, so we'll see what happens.
+
+FINAL
+
+A - Constantine P. Iordanou
+
+{BIO 2397727 <GO>}
+
+Well, you were right on your write-up, but just you couldn't predict our one-off
+transactions. And when you're ready to predict our one-off transactions, I want you to call
+me because you and I will go to Vegas together.
+
+Q - Josh D. Shanker
+
+{BIO 5292022 <GO>}
+
+I'll make sure I do that. Take care.
+
+A - Constantine P. Iordanou
+
+{BIO 2397727 <GO>}
+
+Thanks. Take care.
+
+Operator
+Thank you. Our next question comes from Amit Kumar with Macquarie. Your line is open.
+
+Bloomberg Transcript
+
+Q - Amit Kumar
+
+{BIO 19777341 <GO>}
+
+Oh, man, this sucks. No, Ian – I'll try to ask some intelligent questions now. This is a big
+thing for me. So very quickly, these are more – most of my questions have been
+answered. But sort of big picture question. One is sort of tying in the comments in
+response to other questions. If returns were stable in reinsurance and insurance and if
+your MI business is growing rapidly, should we expect a slow trend up in the AY ROE? And
+if that is the case, does your book value grow at a faster clip than the industry, all those
+being kept equal?
+
+A - Constantine P. Iordanou
+
+{BIO 2397727 <GO>}
+
+No, because your assumptions, I don't think you were totally listening to us correctly. We
+said that reinsurance is deteriorating. I mean, still very good results, don't get me wrong,
+but is under pressure, so we're losing ground there. And we're losing lesser ground on
+the insurance side, but both those sectors were losing ground.
+So in essence, from a profitability point of view, they're not going to have the same ROEs
+as before. And that's – the reason I didn't change the 10% to 12% on an underwriting basis
+because I'm offsetting what I'm losing on those two sectors by what I'm gaining through
+mix change on the MI sector, and that's the way you got to think about it.
+
+Q - Amit Kumar
+
+{BIO 19777341 <GO>}
+
+Got it. Yes, that's a fair comment. And I'm sure Ian has already disappointed and me. The
+next question I have is, again, on MI, with the Baron story coming out on Sunday, there has
+been a lot of focus, a lot of sort of new investor feedback, as well as from traditional
+investors. The one question which I was getting, and this is sort of interesting, is that the
+traditional P&C investors were asking, if things go south, wouldn't Arch be locked in unlike
+Page 22 of 34
+
+
+
+Company N ame: Arch Capital Group L td
+Company Ticker: ACGL US Equity
+Date: 2016-07-28
+
+FINAL
+
+traditional P&C, where you can cut back on your writings, pull back on the capital and then
+wait for the cycle to turn? It seems that there was some fear on that thought process,
+whereas Arch becomes bigger and bigger in MI, maybe a different class of investors cycle
+in a traditional investor cycle out. What would you say to that in terms of if the cycle does
+turn, how easily can you sort of pull back or pull out or change your strategy?
+
+A - Constantine P. Iordanou
+
+{BIO 2397727 <GO>}
+
+Well, let me see – it's a very complicated question but it's a very, very good question,
+because it talks about what you need to do from a risk management point of view on
+capital allocation and also what the history has taught us in this particular sector.
+Let me start by pointing out to you that the performance on the bank channel versus the
+credit union channel was even – the worst year for the credit union channel through the
+financial crisis was a 152 (58:08) loss ratio. Nothing to write home about but not
+catastrophic, right? And what I'm sharing with you is information we have through the PMI
+transaction, right?
+
+Bloomberg Transcript
+
+On the bank channel, you've got in excess of 300, (58:29) 2x. When we examine that,
+and we've done a lot of analysis on it, most of it, it wasn't just economic conditions. Yes,
+economic conditions will have an influence. And that's the cat event that you have to plan
+for and make sure that from an aggregation point of view, you're comfortable with how
+much risk you're taking.
+(58:54) will tell you that if you don't violate your underwriting guidelines, your
+performance even in down economic conditions and employment going to 15% and
+prices coming down by 25%, you can withstand all that as long as you discipline on your
+underwriting side. Because most of the delinquencies, they came from fraudulent loans,
+loans that there was very little verification, the underwriting information, it was very
+suspect, and on top of it, very, very loose underwriting, people writing risk that they
+shouldn't be taking that risk.
+Having said that, it's no different when you write long-tail liability lines on the P&C world. If
+you're pricing your workers comp at 20% or 30% below, independent, if you stop writing
+tomorrow, you're going to have that tail that is going to continue hitting you with adverse
+loss development year after year after year. For the duration of those liabilities, it's
+probably even longer than the duration that you have on the MI space. They kill this
+business in my view and in all of our underwriters is to maintain discipline in accepting risk.
+The beauty of it is that even when you stop underwriting, let's say, your pricing is at – and
+where risk-based pricing maybe the market will reject your pricing and they're going to
+find it cheaper from a set of competitors. You continue to have means of revenue coming
+from what you underwrote properly in the prior year. And then the only thing you need to
+worry about is the broad economic downturn, increase in unemployment and price
+reduction in the housing market, et cetera.
+And we test for that and we have cash flows and also that determine as to what size we
+want MI to be as part of the overall Arch family, so that that's what we are. Marc?
+Page 23 of 34
+
+
+
+Company N ame: Arch Capital Group L td
+Company Ticker: ACGL US Equity
+Date: 2016-07-28
+
+FINAL
+
+A - Marc Grandisson
+
+{BIO 4369887 <GO>}
+
+One difference I would say with casualty and I totally agree with the analogy is that we
+have a lot of tools that are – that we can use to really assess and evaluate the origination
+at any given time. So you know exactly what's been originated at any one point in time.
+We can assess what the risk is in our portfolio. And I would argue that in MI book of
+business, there's a lot more when we continue than a casualty book of business, all lines
+of business, more and more genius, much more stable, a lot more predictive in terms of
+what you bring to the table by virtue of the variable use of price. So it's always a factor.
+Things could change after you've underwritten it, but certainly when you underwrite it, you
+have a very good sense for the quality of what you have underwritten.
+
+A - Constantine P. Iordanou
+
+{BIO 2397727 <GO>}
+
+Yeah. And then I'll just add one more thing. Your premise is that all PC business can be
+decisions on an annual basis. As the market softens, you get an increased proportion of
+multiyear contracts, and this is as an industry statement. And this is a differentiator
+between carriers. And it's a difference between having multiyears, but legitimate reunderwriting abilities versus one where you're locked in. And that's becoming increasingly
+common. And as that grows in proportion, it's not quite of a stark difference as you think.
+
+Q - Amit Kumar
+
+{BIO 19777341 <GO>}
+
+Got it. That is actually very, very helpful. Thanks for the answers and good luck for the
+future.
+
+Bloomberg Transcript
+
+A - Constantine P. Iordanou
+
+{BIO 2397727 <GO>}
+
+Thank you.
+
+A - Mark Donald Lyons
+
+{BIO 6494178 <GO>}
+
+Thanks, Amit.
+
+Operator
+Thank you. Our next question comes from Jay Cohen with Bank of America Merrill Lynch.
+Your line is open.
+
+Q - Jay Arman Cohen
+
+{BIO 1498813 <GO>}
+
+Great. Thanks for that last answer. That was actually helpful. A question on mortgage
+insurance, shocking. When I look at the results for the quarter and I take out the favorable
+development and I come to this kind of accident year of loss ratio, first of all, is that a
+reasonable concept in mortgage insurances?
+
+A - Constantine P. Iordanou
+
+{BIO 2397727 <GO>}
+
+No. Sorry, to interrupt you halfway through, Jay, but...
+
+Page 24 of 34
+
+
+
+Company N ame: Arch Capital Group L td
+Company Ticker: ACGL US Equity
+Date: 2016-07-28
+
+Q - Jay Arman Cohen
+
+{BIO 1498813 <GO>}
+
+No, that's helpful.
+
+FINAL
+
+A - Constantine P. Iordanou
+
+{BIO 2397727 <GO>}
+
+Yeah, you've got to think of it as a – it's report year. You're closer to a claims made in view
+of business and in current view. So accident year and claims made business really is report
+year, and this is really the same thing.
+You can't reserve unless you have a delinquency and that's – we don't like the accounting
+model. We talked about it in other calls, but at the end of the day, I'm not setting up the
+rules. I just play by them.
+
+Q - Jay Arman Cohen
+
+{BIO 1498813 <GO>}
+
+The trend I've seen in this ratio, which has kind of steadily calm down, that not necessarily
+is kind of the thing to look at going forward?
+
+A - Constantine P. Iordanou
+
+{BIO 2397727 <GO>}
+
+You mean the delinquency rate or...
+
+Bloomberg Transcript
+
+Q - Jay Arman Cohen
+
+{BIO 1498813 <GO>}
+
+The loss ratio excluding whatever you want to call it, the loss ratio you're reporting
+excluding the prior-year development which has gone from 30 down to 17 makes it hard
+for us to forecast that number. Is the more recent year – recent quarter, is that a
+reasonable number to use?
+
+A - Mark Donald Lyons
+
+{BIO 6494178 <GO>}
+
+It's really – there's more mixture going on here than you think. Marc and Dinos talked
+before about the glide path difference on some of the old reinsurance contracts that are
+now running out. The insurance accounting treatment on a lot of the GSEs have a different
+loss expectation than does some of the primary U.S. So I hate to say it, but it does come
+down to a lot of mixture.
+
+A - Constantine P. Iordanou
+
+{BIO 2397727 <GO>}
+
+If we were a pure primary MI, it would be easier for you because – then you will see what
+the average claim cost is, which doesn't move very much in the mid-40,000 range. And
+you will look at the delinquency and that is improving bit by bit. But because we have – we
+got the Australian business, we have the GSE business and those that depends what
+blocks will you add gets a little more complicated.
+
+Q - Jay Arman Cohen
+
+{BIO 1498813 <GO>}
+
+Got it. It's a bit of a modeling challenge certainly.
+
+A - Constantine P. Iordanou
+
+{BIO 2397727 <GO>}
+Page 25 of 34
+
+
+
+Company N ame: Arch Capital Group L td
+Company Ticker: ACGL US Equity
+Date: 2016-07-28
+
+I mean, listen, you've got to have some challenges.
+
+FINAL
+
+A - Mark Donald Lyons
+
+{BIO 6494178 <GO>}
+
+Jay, a high level to help you, I think the way we think about it in the run rate basis, the
+expenses is about 25 to 30 and the run rate, I mean, I think about it globally in the industry
+mature book of business. And currently, the loss ratios anywhere to see them reported
+20 to 30. It sort of use give a range and kind of had to be if nothings happens, we think
+that significantly below this, but trying to get you a long-term average.
+
+A - Constantine P. Iordanou
+
+{BIO 2397727 <GO>}
+
+That's the way we think at ultimate...
+
+A - Mark Donald Lyons
+
+{BIO 6494178 <GO>}
+
+Look at a long-term average.
+
+Q - Jay Arman Cohen
+
+{BIO 1498813 <GO>}
+
+Got it, that's helpful. The second question was on the – this contingent consideration.
+Mark, what was the cap that they – what was up to a $550 you said?
+
+A - Constantine P. Iordanou
+
+{BIO 2397727 <GO>}
+
+Bloomberg Transcript
+
+I don't know.
+
+A - Mark Donald Lyons
+
+{BIO 6494178 <GO>}
+
+At 50% of the stated value at closing.
+
+Q - Jay Arman Cohen
+
+{BIO 1498813 <GO>}
+
+Okay, got it.
+
+A - Mark Donald Lyons
+
+{BIO 6494178 <GO>}
+
+But it was unknown provision, basically we will continue to the recalculating the book value
+based on the actual performance of the loan portfolio from the date of closing in prior.
+
+Q - Jay Arman Cohen
+
+{BIO 1498813 <GO>}
+
+So it's on that that basically has kind of helps your operating earnings and it was offset in
+the kind of the net income some extent?
+
+A - Mark Donald Lyons
+
+{BIO 6494178 <GO>}
+
+Yes, we have net income or just realized.
+
+Q - Jay Arman Cohen
+
+{BIO 1498813 <GO>}
+
+Right.
+Page 26 of 34
+
+
+
+Company N ame: Arch Capital Group L td
+Company Ticker: ACGL US Equity
+Date: 2016-07-28
+
+A - Mark Donald Lyons
+
+{BIO 6494178 <GO>}
+
+So it's operating versus net income.
+
+FINAL
+
+Q - Jay Arman Cohen
+
+{BIO 1498813 <GO>}
+
+Yes, but going forward, it sounds like that offset on the unrealized loss or realized loss
+won't be there to the same degree anyway, in FY starts to focus through more right to
+net income.
+
+A - Mark Donald Lyons
+
+{BIO 6494178 <GO>}
+
+You will as I commented because the financial statements reflect more of the present
+value of it. So it would increase over time like any interest unwinding.
+
+Q - Jay Arman Cohen
+
+{BIO 1498813 <GO>}
+
+Right.
+
+A - Mark Donald Lyons
+
+{BIO 6494178 <GO>}
+
+Well, especially if we capped out an anomaly will accrete towards the payment date plus
+will required through GAAP accounting to – as it becomes more certain, we have to drop
+the discount rate used in that present value cap. You get both forces causing additional
+affect in future calendar quarter.
+
+Bloomberg Transcript
+
+Q - Jay Arman Cohen
+
+{BIO 1498813 <GO>}
+
+Yes.
+
+A - Mark Donald Lyons
+
+{BIO 6494178 <GO>}
+
+Yes, but they're going to be smooth. So don't get too over excited.
+
+Q - Jay Arman Cohen
+
+{BIO 1498813 <GO>}
+
+But that make sense, and then lastly just on the political environment, your – fairly global
+company and since those parties have miss used with free trade. Are you – can one
+concerned about this? Two, are you doing anything to prepare for maybe a challenge in
+the trade environment?
+
+A - Mark Donald Lyons
+
+{BIO 6494178 <GO>}
+
+Not specifically because at the end of the day, listen free – will affect that global GDP and
+global GDP will affect the revenue for the insurance sector. But having said that, because
+we're highly regulated business, a lot of work we do is global, it's local from the regulation
+point of view.
+You operate and local licenses and you participating with the local market et cetera. I
+don't see significant change in the way that insurance business is done, if there are
+barriers that they put on. At the end of day though, if GDP growth is very low, it will affect
+
+Page 27 of 34
+
+
+
+Company N ame: Arch Capital Group L td
+Company Ticker: ACGL US Equity
+Date: 2016-07-28
+
+our ability to get revenue, and it's been always like that. You can track the growth on the
+PNC world of insurance as – with GDP and there is very, very good power licensing.
+
+Q - Jay Arman Cohen
+
+{BIO 1498813 <GO>}
+
+FINAL
+
+Great. As usual, helpful comments, thank you.
+
+A - Mark Donald Lyons
+
+{BIO 6494178 <GO>}
+
+Thank you.
+
+Operator
+Thank you. Our next question comes from Brian Meredith with UBS. Your line is open.
+
+Q - Brian Robert Meredith
+
+{BIO 3108204 <GO>}
+
+Thanks. I'll be quick here. So just back on the MI business, I'm just curious that the
+Australian reinsurance business have better economics than the U.S. IM business, as that
+going to come, then is that contributing to maybe the improved loss ratios and stuff we're
+seeing? And then as – is that any other opportunities that you are seeing in the Australian
+market?
+
+Bloomberg Transcript
+
+A - Constantine P. Iordanou
+
+{BIO 2397727 <GO>}
+
+So, on the Australian market, right now the Australian transaction that we have is really like
+an insurance of flow business that we've done with that partner of ours down under. That
+has not gotten a lot of earned premiums. I wouldn't expect a lot of pickup from that really.
+We have done in the past some reinsurance transactions that we – to go back to your
+point about – second question about opportunities, there were opportunities in the past.
+That's also what got us to really focus more intently on Australia, we had quota share
+reinsurance transactions with a couple of players down there. But since we have started
+significant relationship with that bank, we don't feel that we have the need to do anything
+more in this segment.
+
+Q - Brian Robert Meredith
+
+{BIO 3108204 <GO>}
+
+Got you. So you have capped out in Australia, you wouldn't do anything else?
+
+A - Constantine P. Iordanou
+
+{BIO 2397727 <GO>}
+
+For now, the answer is we're comfortable where we are right now.
+
+Q - Brian Robert Meredith
+
+{BIO 3108204 <GO>}
+
+Great. That's helpful. And then I'm just curious on the LPG transaction, just trying to
+understand that, what kind of interest rate or return assumptions are you using when
+you're doing a transactions like that ticket returns that you did?
+
+Page 28 of 34
+
+
+
+Company N ame: Arch Capital Group L td
+Company Ticker: ACGL US Equity
+Date: 2016-07-28
+
+A - Constantine P. Iordanou
+
+{BIO 2397727 <GO>}
+
+Right now, our units are doing pricing – transactions or portfolios using a treasury fee rate
+by and large. That's what we're using that how they compensate on when they calculate
+the ROEs.
+
+FINAL
+
+Q - Brian Robert Meredith
+
+{BIO 3108204 <GO>}
+
+So if you do under combined ratio, that means that there's like virtually zero capital sign,
+but – okay.
+
+A - Constantine P. Iordanou
+
+{BIO 2397727 <GO>}
+
+No, capital, no, there's no return. No return. The capital is allocated based – no
+underwriting return. But the duration of liabilities there, I would say, five years there will be
+take that five years and that's 5% pickup on the float. Now, when you look at the contract,
+we assign capital to it and you got to see what's the upside, downside and how much
+capital it goes and you make those calculations.
+
+Bloomberg Transcript
+
+So, again, some of these transactions, they have a limited risk transfer. Some of them,
+they have mores transfer, and that's when we got to go through a test, if this is going to
+be the positive accounting or reinsurance accounting. This one has enough risk transfer.
+But we're happy with it, because the familiarity of the book of business and our
+participation on that book of business has that quota share participant in prior years.
+Having said that, don't misconstrue on the combined that might be the expected value of
+the contract over time. At the end of the day, you're reserve conservative. Then if you're
+wrong, nobody is taking the money out of your pocket. You – the sale that we get it
+eventually.
+
+Q - Brian Robert Meredith
+
+{BIO 3108204 <GO>}
+
+Gotcha. And then last question, is there any update on your ability to kind of take
+advantage of opportunities from AIG and some of the other companies that have been
+doing re-underwriting, we've talked about that in the past...
+
+A - Constantine P. Iordanou
+
+{BIO 2397727 <GO>}
+
+We don't target specifically any company. I mean, there is re-underwriting be done by
+many companies, including AIG and others. All I have to say is that, we've seen some
+increased opportunities in sectors that we believe we have good underwriting expertise.
+And we're getting into the batter's box so to speak. We haven't been hitting a lot of
+doubles, triples or home runs, maybe a single here and there, which tells you that the
+market hasn't come up to our liking yet. But we have increased – the opportunities that we
+see have increased noticeable.
+
+Q - Brian Robert Meredith
+
+{BIO 3108204 <GO>}
+
+Great. Thank you.
+
+Page 29 of 34
+
+
+
+Company N ame: Arch Capital Group L td
+Company Ticker: ACGL US Equity
+Date: 2016-07-28
+
+A - Constantine P. Iordanou
+
+{BIO 2397727 <GO>}
+
+Welcome.
+
+Operator
+
+FINAL
+
+Thank you. Our next question comes from Ian Gutterman with Balyasny. Your line is open.
+
+A - Constantine P. Iordanou
+
+{BIO 2397727 <GO>}
+
+It's not kept that as he's like you know, on the lunch menu today.
+
+Q - Ian J. Gutterman
+
+{BIO 18249218 <GO>}
+
+My first question is going to be about big diners, but given the call is getting long, I just
+thought, I hold off.
+
+A - Constantine P. Iordanou
+
+{BIO 2397727 <GO>}
+
+Are you ready to invest with me – where the two of us. As I'm getting closer to retirement,
+I got to think of things to do, so think.
+
+Bloomberg Transcript
+
+Q - Ian J. Gutterman
+
+{BIO 18249218 <GO>}
+
+Exactly, I'll be opened to kind an offer. So I won't ask about anything. I want to stick to the
+other two legs of the stool. And probably a lot of these are number say questions this
+late. In insurance, you talked about in the release some of the adverse development from
+an energy casualty claim, any color on that?
+
+A - Constantine P. Iordanou
+
+{BIO 2397727 <GO>}
+
+Yes, it's a – as I name it, Sempra Energy, it's out of our Bermuda operation, where you
+have a plane down there given the towers need attachments and where we play, there
+are Wall Street Journal front page events. This was a gas leak explosion. The estimate is
+$660 industry loss. Also where we are on two layers, the look lowest of which is excess of
+$265 million, nowhere on the key self and another layer above it. So we fully reserved it
+on a net basis, so can't move any more than where it is.
+
+Q - Ian J. Gutterman
+
+{BIO 18249218 <GO>}
+
+Yes, got it.
+
+A - Constantine P. Iordanou
+
+{BIO 2397727 <GO>}
+
+But it was a big loss for us. It's a manmade disaster cat, call it that exactly.
+
+Q - Ian J. Gutterman
+
+{BIO 18249218 <GO>}
+
+Exactly.
+
+A - Constantine P. Iordanou
+
+{BIO 2397727 <GO>}
+Page 30 of 34
+
+
+
+Company N ame: Arch Capital Group L td
+Company Ticker: ACGL US Equity
+Date: 2016-07-28
+
+That's why, I think you saw our cat losses in the insurance pool.
+
+A - Marc Grandisson
+
+{BIO 4369887 <GO>}
+
+FINAL
+
+That was the Bermuda insurance market.
+
+A - Constantine P. Iordanou
+
+{BIO 2397727 <GO>}
+
+Right. That made the kind of complex risk so to try.
+
+Q - Ian J. Gutterman
+
+{BIO 18249218 <GO>}
+
+Another one I ask you is, so did you – I thought this is an adverse development with the
+cat as well?
+
+A - Marc Grandisson
+
+{BIO 4369887 <GO>}
+
+No, it's on a cat.
+
+A - Constantine P. Iordanou
+
+{BIO 2397727 <GO>}
+
+In the accumulation of the natural catastrophe was – but it was in the adverse
+development.
+
+Q - Ian J. Gutterman
+
+{BIO 18249218 <GO>}
+
+Bloomberg Transcript
+
+Okay. That's helpful. Okay.
+
+A - Constantine P. Iordanou
+
+{BIO 2397727 <GO>}
+
+15-year, and it just takes a while for the things and especially there has been things like
+that.
+
+Q - Ian J. Gutterman
+
+{BIO 18249218 <GO>}
+
+Sure. And so my question on the cats and the insurance segment, I guess, that was higher
+than I thought, and I just look back, I think the first time and long time that cats and
+insurance have been greater than reinsurance. I guess I just was curious there was
+anything unusual that cause that?
+
+A - Marc Grandisson
+
+{BIO 4369887 <GO>}
+
+Nothing unusual. But listen on the insurance side, you get on two buildings and got 5
+million or 10 million a day, and then all of a sudden you kind of, you can have 15 million.
+And we got an operation in Canada. So I don't know exactly the specific account. But it
+wasn't a significant number of claims, it was a few claims that – and don't forget, we don't
+like personal line.
+So for us to get hit, we've got to hit on apartment buildings, or school or something of
+that store, and it's been very easy to get quote with 5 million on a couple of them. And all
+of a sudden. We're not reporting tens of millions of dollars. I mean, at the end of the day,
+Page 31 of 34
+
+
+
+Company N ame: Arch Capital Group L td
+Company Ticker: ACGL US Equity
+Date: 2016-07-28
+
+FINAL
+
+yes, it was slightly higher than the insurance. But it was nothing unusual for us. Those
+losses we had in the second quarter were mostly insurance, no losses. So it was heavily
+some of the reinsurance in Canada, but a lot of that outside was insurance – more in
+reinsurance. And I will echo with Dino said, I think a small loss of cat loss of about 10 million
+in our insurance group. It's not having variability of about 10 million is not a big deal for us.
+
+Q - Ian J. Gutterman
+
+{BIO 18249218 <GO>}
+
+Understood. I was curious to know.
+
+A - Marc Grandisson
+
+{BIO 4369887 <GO>}
+
+Within the variability. Yes, it can happen – it was reviewing the whole hospital or in the
+whole apartment building in the wrong- and you put 10 million up, you're going to get hit,
+you get hit.
+
+Q - Ian J. Gutterman
+
+{BIO 18249218 <GO>}
+
+And sort of relate to that just overall for the combined insurance – the reinsurance
+business just looking at the cash for the quarter was at basically in line with the catalog
+you've talked, I think on the envelope. A lot of the call people are talking about this being
+an active pack quarter making it seem like this is much above average. Is that your view, or
+this is an above the average quarter and you came in average or just as an average
+quarter and people are kind of talking about making it seem like a bigger...
+
+Bloomberg Transcript
+
+A - Constantine P. Iordanou
+
+{BIO 2397727 <GO>}
+
+When you have 13 billion or 15 billion worldwide, I would say, it's slightly above average, I
+don't. If you're a pan, and you say 40 billion annual cat mode worldwide is maybe that's
+the expected number. But I haven't spent a lot of time maybe, Mark, you have – I know
+there's a lot of statistics and we look at that. But I would characterize this, it's slightly
+above average.
+
+Q - Ian J. Gutterman
+
+{BIO 18249218 <GO>}
+
+Okay.
+
+A - Constantine P. Iordanou
+
+{BIO 2397727 <GO>}
+
+But not, this is not something that is not going to happen, I guess.
+
+A - Mark Donald Lyons
+
+{BIO 6494178 <GO>}
+
+It definitely is slightly in the above average in the U.S., if you're going to see those
+numbers, they're not totally outside. So one thing I'll tell you that, Canada is really, really
+outside of north, that's really what takes a lot of time. Most of our guys and it's not really
+reflected in the cat load of anything that people like in general around the world.
+
+A - Constantine P. Iordanou
+
+{BIO 2397727 <GO>}
+
+Page 32 of 34
+
+
+
+Company N ame: Arch Capital Group L td
+Company Ticker: ACGL US Equity
+Date: 2016-07-28
+
+I would offer that perspective varies depending upon whether your results are two or
+three times your cat load versus inside your cat load.
+
+FINAL
+
+Q - Ian J. Gutterman
+
+{BIO 18249218 <GO>}
+
+That's kind of what I was getting out a little bit, okay. So my last one is just, Mark, if you can
+help me on the LPT math, I just want to make sure I'm doing this right. So the 2.7% you talk
+about was on the overall combined. So on the accident year – the accident year is higher
+than the calendar year. The accident year is getting maybe 30 bps or so, so it was that
+much of an impact, is that right?
+
+A - Constantine P. Iordanou
+
+{BIO 2397727 <GO>}
+
+I'll say, we did it on a calendar year basis.
+
+Q - Ian J. Gutterman
+
+{BIO 18249218 <GO>}
+
+But your accident year was 98 something. So 100 versus 98 doesn't change it too much.
+
+A - Constantine P. Iordanou
+
+{BIO 2397727 <GO>}
+
+Yes, that's correct.
+
+Bloomberg Transcript
+
+Q - Ian J. Gutterman
+
+{BIO 18249218 <GO>}
+
+Yes. So the question is, so when I get into the accident year, when it pull it out was still
+pretty close to a 98, maybe high 97s, that was up about 3, 4 points and even running. I'm
+curious what happened there. I know you mentioned some large losses, but was it just
+that or...?
+
+A - Mark Donald Lyons
+
+{BIO 6494178 <GO>}
+
+No, I mean, when you think there was a – we had a marine loss with the vessels that – it
+does – we believe loss. So when you take that large threshold, that was pushing 300 bps,
+I believe. So and there's a couple of the noise, but that really account for it.
+
+Q - Ian J. Gutterman
+
+{BIO 18249218 <GO>}
+
+Make sense, perfect. All right enjoy the cat events, talk to you next quarter.
+
+A - Constantine P. Iordanou
+
+{BIO 2397727 <GO>}
+
+Thank you.
+
+A - Mark Donald Lyons
+
+{BIO 6494178 <GO>}
+
+Thank you.
+
+Operator
+
+Page 33 of 34
+
+
+
+Company N ame: Arch Capital Group L td
+Company Ticker: ACGL US Equity
+Date: 2016-07-28
+
+I'm showing no further questions. I would like to turn the conference back over to Mr.
+Dinos Iordanou for closing remarks.
+
+A - Constantine P. Iordanou
+
+{BIO 2397727 <GO>}
+
+FINAL
+
+Thank you all. Enjoy your lunch and we'll talk to you next quarter.
+
+Operator
+Ladies and gentlemen, thank you for participating in today's conference. This does
+conclude the program. You may all disconnect. Everyone have a good day.
+
+Bloomberg Transcript
+
+This transcript may not be 100 percent accurate and may contain misspellings and other
+inaccuracies. This transcript is provided "as is", without express or implied warranties of
+any kind. Bloomberg retains all rights to this transcript and provides it solely for your
+personal, non-commercial use. Bloomberg, its suppliers and third-party agents shall
+have no liability for errors in this transcript or for lost profits, losses, or direct, indirect,
+incidental, consequential, special or punitive damages in connection with the
+furnishing, performance or use of such transcript. Neither the information nor any
+opinion expressed in this transcript constitutes a solicitation of the purchase or sale of
+securities or commodities. Any opinion expressed in the transcript does not necessarily
+reflect the views of Bloomberg LP. © COPYRIGHT 2022, BLOOMBERG LP. All rights
+reserved. Any reproduction, redistribution or retransmission is expressly prohibited.
+
+Page 34 of 34
+
+

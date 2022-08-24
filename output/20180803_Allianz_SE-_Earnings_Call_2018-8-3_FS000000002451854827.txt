@@ -1,0 +1,1566 @@
+Company Name: Allianz SE
+Company Ticker: ALV GR Equity
+Date: 2018-08-03
+
+Q2 2018 Earnings Call
+Company Participants
+FINAL
+
+Giulio Terzariol, Chief Financial Oﬃcer
+Oliver Schmidt, Head-Investor Relations
+
+Other Participants
+Andrew J. Ritchie, Analyst
+Farooq Hanif, Analyst
+Johnny Vo, Analyst
+Michael Haid, Analyst
+Neel Shah, Director
+Nick Holmes, Analyst
+Peter D. Eliot, Analyst
+Rahul A. Parekh, Analyst
+Thomas Seidl, Analyst
+Vinit Malhotra, Analyst
+
+Bloomberg Transcript
+
+William Hawkins, Analyst
+
+MANAGEMENT DISCUSSION SECTION
+Operator
+Ladies and gentlemen, welcome to the Allianz Conference Call on the Financial Results of
+the Second Quarter 2018. For your information, this conference call is being streamed live
+on allianz.com and a recording will be made available shortly after the call.
+At this time, I would like to turn the call over to your host today, Mr. Oliver Schmidt, Head
+of Investor Relations. Please go ahead, sir.
+
+Oliver Schmidt
+
+{BIO 2473131 <GO>}
+
+Thank you, Cecilia. Yeah, good afternoon from my side as well and welcome to our
+conference call. I am aware that this call may be the last obstacle between you and a welldeserved vacation. So I keep it brief and turn it over directly to Giulio.
+
+Giulio Terzariol
+
+{BIO 17125489 <GO>}
+
+Okay, good afternoon and good morning to everybody. I am happy to know I am an
+obstacle, okay. And I suggest that we go straight through the presentation. And ﬁrst, we
+
+Page 1 of 25
+
+
+
+Company Name: Allianz SE
+Company Ticker: ALV GR Equity
+Date: 2018-08-03
+
+FINAL
+
+have a short exhibit about the six months results and then we will go more in details
+through the second quarter performance.
+If you move to page 3, the ﬁrst message here is that over the six months, we had a good
+performance and we are on track to achieve our targets. When we look at the revenue
+side, we had an internal growth of about 6%. We clearly see nice growth double-digit in
+Asset Management. We also see solid growth on the Life/Health side. But I think the really
+good news is to see a 6% growth for the six months on the Property-Casualty line of
+business.
+With respect to the operating proﬁt, we are now per June at about €5.8 billion of
+operating proﬁt. You remember that for the year we have an outlook, midpoint of the
+outlook of €11.1 billion. So if you divide €11.1 billion by 2, it's slightly north of €5.5 billion. So
+from that point of view, you can see that we are deﬁnitely on track to at least achieve the
+€11.1 billion.
+
+Bloomberg Transcript
+
+On the operational KPIs you can see an improvement in the cost income ratio in Asset
+Management, also slight improvement in the new business margin in Life and also the
+combined ratio has improved, despite having larger Cat losses compared to the prior
+period. And then when we look at the shareholder net income, it's relatively ﬂat here we
+need to consider that we had the impact of the Taiwan transaction. And then when you
+look at the development of the earnings per share you can see a good growth rate of 5%
+compared to the level of last year.
+So, all-in-all, when you look at our picture for the six month, no matter if you look at the
+revenue development or if you look at how we are performing operationally compared to
+our target, so if you look at the earnings per share development, you can see a good
+strong picture, which is positioning as well for the remainder of the year.
+And now I suggest that we move to page 5, where we show the main indicators for the
+second quarter standalone. On the revenue side, you see also in the second quarter, a
+nice growth rate of 6.5% that's adjusted for consolidation and FX eﬀect, also for the
+second quarter the growth is coming from all segments. On the operating proﬁt, you can
+see an increase in operating proﬁt of 2%. If you adjust the operating proﬁt development
+for the impact of FX, then you get to a growth rate of 6%. And if you consider that we are
+at a level of €3 billion of operating proﬁt, I think we are really moving, on a high level of
+performance.
+The net income for the quarter is down compared to the prior period by about €100
+million. This is driven, as I was saying before by the impact of Taiwan, which was about
+€220 million. So again, for the second quarter indeed even better performance
+operationally compared to what we had in the ﬁrst quarter of 2018.
+Moving to page 7, we can get into our capitalization measure. On the IFRS equity, you can
+see a decrease of about €3 billion. On the one side we have clearly the recognition of the
+net income of €1.9 billion which is ﬂowing into the numbers, but then on the other side we
+have about €4 billion of distribution to our shareholder either as dividend or as buyback.
+Page 2 of 25
+
+
+
+Company Name: Allianz SE
+Company Ticker: ALV GR Equity
+Date: 2018-08-03
+
+FINAL
+
+And then as usual you had the movements on the unrealized gains on bonds, which has
+been negative for the quarter because of the increase in interest rates in the U.S. On the
+other side, we had some positive development out of the development of the U.S. dollar
+versus the euro.
+When we look at the Solvency II development, the Solvency II ratio has improved by 5
+percentage points. And if you deduct for the buyback that we announced in the
+beginning of July, the improvement will be still 2 percentage point. So from that point of
+view the Solvency ratio remains high and is improving. On this page, I like to draw your
+attention to the sensitivities, which are in general very stable. The only sensitivity that has
+changed compared to what we showed you in the ﬁrst quarter, the sensitivity to the
+interest rates in the ﬁrst quarter the sensitivity to the minus 50 basis point movement was
+minus 7% and now we are at minus 10%. The reason for the increased sensitivity is not due
+to any change in the way we are running the business from a duration matching point of
+view is all driven by the convexity of the capital requirement, and that's a function also if
+you want of the model complexity, but there is no change in the way we run our asset
+liability management.
+
+Bloomberg Transcript
+
+Moving to page 9, you can see the development of the Solvency II but a diﬀerent driver. I
+would say that the quarter has been boring. If you can say the Solvency II can be boring,
+but in reality there was not much happening. There were no model changes for the
+quarter. On the operating development, the contribution pre-tax and pre-dividend to our
+Solvency ratio was about 8%, which is more or less in line with what we saw in the
+previous quarter, slightly below what we saw in the previous quarter, but not much
+diﬀerent.
+On the market movement, we had small movement negative and positive, and all drivers
+have moved in one way or the other, but the net impact was slightly positive at 1% in our
+case mostly driven by the equity development and also a little bit from the corporate
+spread and something coming from FX. On the capital management action, you can see a
+change of minus 2 percentage points. Here we have the impact of the dividend that we
+need to accrue. If you adjust for the dividend accrual, you would have a slight
+improvement of 1%, which is mostly driven by the transaction of Taiwan, which was
+accretive on the own fund and also reducing our capital requirements.
+Now, we can move to page 11 where we show the development of revenue for the
+segment Property and Casualty and also for the major entities. First of all, when you look
+at the internal growth for the quarter, we had a very good internal growth of 7%. Now I'd
+like to draw your attention to a couple of numbers below like AGCS where we have an
+internal growth of 20%, also like credit insurance where we have a growth of 9%. Here we
+have some seasonality or some special eﬀects, but even if we adjust the internal growth of
+the segment by the special eﬀects, the growth rates for the segment will be over 5%. So
+from this point of view, we see, in general, good growth. I believe I'd like to highlight
+Germany with a growth rate of 4% and, also for the six month, Germany is growing at
+more than 4%.
+In Italy, we have a positive sign which has not been the case for a while or at least for a
+few quarters and then we have, as usual, growth in Australia, also growth in Spain. In the
+Page 3 of 25
+
+
+
+FINAL
+
+Company Name: Allianz SE
+Company Ticker: ALV GR Equity
+Date: 2018-08-03
+
+case of United Kingdom, this is a little bit of consequence, the negative or the transfer of
+business that we want to do to LV, because we are transferring the personal lines business
+to LV. So from that point of view, there is a little bit less momentum on that business, but
+on the commercial business we are recording a nice growth rate. And ﬁnally at AGCS, as I
+was saying before, we have also highlighted in the comments, the growth rate adjusted
+for the seasonality is about 9% and Allianz Partners is growing, as usual, close to doubledigits. So, overall, a nice picture on the growth side. Also important is to look at the
+momentum on renewals. And as you see the momentum on renewals is either stable or
+positive, so this should be a good factor, as we move into the second half for 2018, and
+also into 2019.
+
+Bloomberg Transcript
+
+Now, if we go to page 13, you can see the developmental of the operating proﬁt. We had
+a slight reduction of the underwriting results, which was more than compensated by the
+improvement in the investment results. The reduction of the underwriting results is
+explained by the combined ratio development where we see an uptick of 30 basis points.
+This uptick of 30 basis point is explained by the higher amount of natural catastrophe
+compared to the prior period. Then you can also see that our expense ratio is signiﬁcantly
+below the prior year level. So usually you would expect to see also a better combined
+ratio compared to what we are showing here. But in the second quarter, we had also a
+high amount of weather-related claims and large losses compared to what we would
+usually – what we had last year.
+Now, the question here is going to be, are we still conﬁdent to make our combined ratio
+94% by the end of 2018? Keep in mind that we are 94.4% for the six months. My answer to
+the question will be yes. And the reason for that is we've seen improvement in the
+attritional basis – in attritional loss ratio. If this improvement is going to carry-over and
+assuming we are going to have a normal level of natural catastrophe and large losses in
+the second part of the year, we should be able to get to the 94% even considering for an
+increase or pickup of the expense ratio back to our target level for 2018, which will be
+28.4%. So as of now, we are slightly behind of the combined ratio, but the attritional
+development is positive, so if everything continues the way we see we should be able to
+get to 94% by the end of the year.
+Now moving to page 18, here you can see the operating proﬁt and combined ratio for the
+diﬀerent entities. I'm going to focus on the highlights if you want, positive or negative
+highlights. In the case of France, we had a deterioration of the operating proﬁt by about
+45%, which is driven by higher Cat losses, higher large losses and also higher weatherrelated claims. If you look at the normal underlying development is indeed according to
+plan and satisfactory, but again this is a country where we had some volatility in the
+quarter.
+In the case of Australia, you see a nice improvement in the operating proﬁt, which is
+driven by positive runoﬀ. We have changed our assumption for the inﬂation because they
+were very conservative, so now we brought it down to a level which is more reﬂective of
+what we might experience in the future. And then in the case of Spain, you see nice
+growth rates driven by the improvement in the combined ratio. And then if you go all the
+way down, Turkey is negative in the operating proﬁt development. As you see the
+combined ratio is going up.
+Page 4 of 25
+
+
+
+Company Name: Allianz SE
+Company Ticker: ALV GR Equity
+Date: 2018-08-03
+
+FINAL
+
+In reality, the deterioration to combined ratio is more than oﬀset by high investment
+income and, in the local currency, you're going to see an increasing proﬁt. But when we
+do the translation back in euro, you'll see a negative number as we measure here at
+group. And ﬁnally, AGCS had a reduction of the operating proﬁt due to higher large loss
+activity. Bottom line anyway there are plus and minuses. At the end of the day we have
+been able to report a strong operating proﬁt of about €1.5 billion for the quarter.
+At page 17 we show the investment income. As you see the investment income went up by
+about €50 million. And the improvement in the investment income is driven by income on
+equity. Also you can see that the current yield has gone up by about 2 basis points. Now
+both on the equity investment income and also on this current yield, we have some noise.
+I will quantify this noise if you put two numbers together in about €30 million. But even if
+you adjust for this noise you can see there is an increase in the operating investment
+results and our current yield would be at least at the level of last year.
+
+Bloomberg Transcript
+
+So from this point of view, we see some resilience in our investment income and we are
+going to monitor this development also in the future. We had a conversation these last
+months about how we view the development or the investment income over time. We
+expect that by 2020 we should be ﬂattening out. We also said maybe it's going to happen
+a little bit beforehand. This number might indicate that we're going to see stabilization a
+little bit earlier, but for the time being we still stick to our theory that by 2020 we should
+see the stability kicking in.
+And now at page 19, I would like to talk about the Life segment. Looking at the production
+of the Life segment, we have given ourselves three targets. One is the mix of preferred
+products. We want 80% of our production to be in preferred products, in Q2 we are at
+81%. And so also in Q2 we had been able to achieve this target. On the new business
+margin, we like to have a new business margin about 3%, we are now at 3.5%, so we were
+able to achieve also this target. And the third target will be we like to see growth in
+production P&C when you look at the numbers we have been able to grow the present
+value of new business premium by 3% or adjusted for FX by 4.5%.
+Now there is a comment here if you look at the contribution by country, you can see that
+Germany Life has been doing the heavy lifting. Otherwise we had some negative signs in
+some case also it's playing by FX eﬀects like in the USA, deﬁnitely for a few companies in
+the group the second quarter has been a little bit tough because of a decrease in unitlinked production, but bottom line for the segment we have been able to grow at 4.5%
+adjusted for FX.
+Now if we move to page 21, here we're showing the development of the operating proﬁt.
+The operating proﬁt went down by about €50 million. Here on the one side we have the
+impact of the FX, that was about €30 million and the rest is the normalization of results we
+have been talking about, last year was particularly strong also because of the volatility for
+example in the U.S. was very low. Now we have a more normal level of volatility. So from
+this side, this number is very much consistent with our expectation. As you know our
+outlook for the year is €4.2 billion, so a €1.1 billion – almost €1.1 billion, we're deﬁnitely
+achieving the run rates for getting to the €4.2 billion outlook.
+
+Page 5 of 25
+
+
+
+Company Name: Allianz SE
+Company Ticker: ALV GR Equity
+Date: 2018-08-03
+
+Bloomberg Transcript
+
+FINAL
+
+And maybe just a ﬁnal comment as you see in the guaranteed savings and annuity line,
+we have a reduction of the operating proﬁt of €50 million and most of this reduction is
+coming from the VA business in the United States, which is more of a normalization as
+opposed to a bad performance out of the VA business which is by the way not, per se, a
+proﬁtable business, but that's a diﬀerent story.
+So now if we go to page 23, you can see that our value of new business has increased by
+5% improvement in the value of new business, so the increase in the value of new
+business is driven by the higher production. Otherwise the new business margin has been
+very healthy, but relatively stable over the prior period. And then as I was saying before
+on the operating proﬁt, you can see that the USA is down, that's a combination of the VA
+results and also the FX. Now in the case of Germany Life, you also see a reduction of 10%,
+but that's just if you want volatility between the quarters when you look at the six months
+for Germany Life, we are up 3% over the prior period. So again on the operating proﬁt on
+the life side, we are no track to get to our outlook.
+And then at page 25 I would like to make a comment about the investment margin. As
+you see for the quarter, the investment margin is at 22 basis points. This is slightly below
+the level that we had in the second quarter 2017. And also if you annualize the 22 basis
+points, you get 88 basis points, which is somehow below the range or the expectation
+between 90 basis points, 95 basis points that we're usually discussing. Here there are two
+things speciﬁcally to the quarter, you can see that the proﬁt sharing has been a little bit
+more elevated compared to also what we had last year. But the other point is also the net
+harvesting is very, very low. Usually, we would expect to see about 10 basis points on net
+harvesting. If you take out a policy or the participation then you will get into the 98 basis
+points kind of a range. So a little bit lower for the quarter, but keep in mind that net
+harvesting is at a very, very low level for the quarter.
+Now we can go into the Asset Management segment at page 27. First of all, when you
+look at the total assets under management for the group, we are close to the €2 trillion
+level and this is the highest level in the history of Allianz, so that's a statistical information,
+but still a nice statistical information. When we looked in at the development of the thirdparty assets under management, you can see that we had an increase in the quarter. The
+increase was, however, driven by a ﬁxed impact because of the appreciation of the U.S.
+dollar versus the euro. When we focus on the net ﬂows, we can see that for the quarter,
+they were negative both at AGI and PIMCO.
+Now especially focusing on PIMCO, you have a few comments. First of all, we lost a big
+institutional mandate with very low fee. So if you adjust for this mandate, the inﬂuence of
+PIMCO would have been rather ﬂat. On the six months view, the inﬂuence for PIMCO
+positive. Now when you look at the run rate revenue that we are achieving on the net
+position, the inﬂows or outﬂows in this case, they are still positive. So it means the assets
+we have put in the books, the new assets are generating higher fees compared to the fees
+that we are losing on the assets going out.
+And then the last comment is both in June and July PIMCO has posted positive inﬂows,
+and also I will say very healthy positive inﬂows. So from this point of view, we feel very
+good about where we are right now from a inﬂow situation. Also I would say, you know
+Page 6 of 25
+
+
+
+Company Name: Allianz SE
+Company Ticker: ALV GR Equity
+Date: 2018-08-03
+
+FINAL
+
+the market has been challenging I believe in general, so I believe our performance also
+compared to the competition is pretty good.
+Now if we move to page 29, you can see somehow the translation of what I try to convey
+and you see that revenue up, but especially when you look at the fee margin is up both at
+AGI and PIMCO. And there we saw a lot of stability on these KPI over the last six, seven
+quarters. And the number that we are posting now are indeed the highest since the
+beginning of – at least since the end of 2016. These are the numbers I'm looking at. So
+from this point of view we see stability and even an increase and we think that this kind of
+level can be also sustainable for the near future.
+And with that we come to page 31 and clearly when you have increasing assets under
+management, when you have better fee margin and when your cost to income ratio is
+going down, the operating proﬁt development is going to be very positive. We see
+double-digit growth. That's also very important. The operating proﬁt development is not
+being supported by FX. The FX has been supporting the assets under management at the
+end of the quarter, but when you look at the development quarter-over-quarter then
+you'll even see that we have been able to grow double-digit operating proﬁt despite
+negative FX development.
+
+Bloomberg Transcript
+
+A ﬁnal comment on the cost income ratio, it has improved by about 1 percentage point
+here. We have also the eﬀects of having incorporated ACP into AGI, if you – which is – ACP
+is a fund manager, which is managing funds for our company. We run this company at a
+cost coverage kind of system. So if you remove ACP from that calculation, the
+improvement in the cost-income ratio apple-to-apple will be about 2 percentage point.
+Now page 33, there is nothing in my opinion really signiﬁcant to say about page 33. So I
+would like to go straight to page 35 where we show the line items below the operating
+proﬁt line. There are not many movements. Here we see on the restructuring expenses
+they are more or less at the level of the prior period. And then in the amortization of
+intangible assets here we are recognizing the loss on the disposal or the Taiwanese
+transaction. And as you see, the data is pretty much equal to the number that we quoted
+before in terms of pre-tax loss.
+And then a ﬁnal comment on the tax rate. It has improved by 2 percentage point over the
+level of last year. Clearly the reason for that is the tax reform in United States. So right now
+we are running at 26%. The number in Q1 was even slightly below 26%, so we gave you an
+expectation for the tax rate of 26% to 28%. Right now we are deﬁnitely running at the low
+end of this expectation.
+And now coming to page 37, where we have just the scorecard of how we're doing as of
+now compared to the targets that we gave ourselves for 2018 a few years ago. As you see
+on the EPS, we are deﬁnitely good on the way, positive also in achieving the 13% ROE
+target, on the combined ratio, we are at 94.4%, but by looking at the underlying
+development we should be able, if we don't have headwinds to get to the 94%. Then we
+have capital on Life which is performing at more than 10%. We are right now 93%, by the
+
+Page 7 of 25
+
+
+
+Company Name: Allianz SE
+Company Ticker: ALV GR Equity
+Date: 2018-08-03
+
+FINAL
+
+end of the year we should be able to lift this number above 95%. And the new business
+margin is given at this point in time.
+So when you look at the left hand side, I believe we're going to meet all objective or very
+close – to be very close to all targets – and then, on the left hand side – when we look at
+the right side, I'd like to draw your attention just to the Net Promoter Score which is very
+important indicator for us. We really believe that getting this indicator up might make a
+diﬀerence for the future. We are now at 60%, our expectation for the end of the year is to
+be about 70%, which is now going to be exactly 75%, but close. But on this KPI we should
+remember that three years ago we were below 50% and this is a KPI which is really you
+need to do a lot of work to move it up over time. So if we don't get to the 75%, if we get to
+70% or more I think this is a very good development.
+And with that I can just say we had a strong quarter, we had strong six months. So from
+this point of view, if everything goes according to plan in the second part of the year we
+should be deﬁnitely able to achieve the midpoint of the outlook and even be on the
+upper half of the range. But we remember last year, we had signiﬁcant Cat losses in the
+second half. So we have a good memory. So we always keep this in mind. But as of now,
+we feel we are well positioned for a good 2018.
+And with that, I would like to receive your questions.
+
+Bloomberg Transcript
+
+Q&A
+Operator
+Thank you. And we'll go ﬁrst to Peter Eliot of Kepler Cheuvreux.
+
+Q - Peter D. Eliot
+
+{BIO 7556214 <GO>}
+
+Thank you very much. I had three questions please. The ﬁrst one was obviously very, very
+impressive development on the non-Life expense ratio. I'm just wondering if you can sort
+of highlight whether there is any one-oﬀs in there or exactly how sustainable that level is
+that you have reported? And second question was in Life usually the solvency capital
+generation is quite long way ahead of the IFRS earnings, and this quarter it was basically
+in line. And I'm just wondering what it was that caused that, because I mean the value of
+new business as you showed is still very strong, so, yeah just wondering if you could
+explain that.
+And the third thing just on the combined ratio in France, apologies if you commented
+more than I heard, and if I missed anything. But I guess one of your peers reported
+yesterday a much lower impact from just a weather events, and I'm just wondering if there
+was anything speciﬁc to Allianz there, were there any sort of any speciﬁc events or
+anything you were exposed to that caused that large delta? Thank you very much.
+
+A - Giulio Terzariol
+
+{BIO 17125489 <GO>}
+
+Page 8 of 25
+
+
+
+FINAL
+
+Company Name: Allianz SE
+Company Ticker: ALV GR Equity
+Date: 2018-08-03
+
+Yeah. So maybe starting from the non-Life expense ratio, on the 27.8%, there are no much
+of one-oﬀ, in reality there are no one-oﬀs. I'll tell you anyway – I don't expect anyway, our
+expense ratio to be 27.8% by the end of the year. I'll tell you what is happening now. There
+is always if you want, call it seasonality, but especially I believe that our OEs are – they are
+very focused on achieving their targets by the end of the year. And so most like a very shy
+now and they want to make sure they achieve the target. So we might see some uplift in
+the second part of the year as they get more conﬁdent that they're going to achieve the
+target.
+So no one-oﬀ, but I believe there is a little bit of psychology at play right now. So at this
+point in time what means for us, ﬁrst of all, that we feel very good about getting the
+28.4%, maybe we can get even slightly below that. But for me, and this is about your
+questions about sustainability, we said this already before 28.4%, 28.3% whatever the
+number is going to be at the end of the year is not the end of the journey. We want to get
+to a continuous improvement of the expense ratio over time. So my answer is we are
+going to bring the expense ratio down compared to the level that you saw in the prior
+years. That's on the expense ratio.
+
+Bloomberg Transcript
+
+On the Life side, yes, indeed if you look at the contribution of the Life segment to the
+operating earnings and the Solvency II regime, the quarter has been lighter and this is a
+function of some negative operating variances, but here we are talking of volatility
+between the quarters. If you look at the ﬁrst quarter, we had about 1.7% contribution.
+Usually, we would expect about 1.3%, including the value of new business, so you can see
+there was a swing positive in Q1, there is a little bit of an oﬀset in Q2. When you look at
+the six months, we are at 2.7%, and we think these numbers is representative of what you
+would expect in a normalized level.
+And then on France, in reality, the issue in France is that on the Cat losses we disclosed
+about 3.3% you can see there, I'm not so sure about what the peers are doing, but in our
+case the main issue has been also the increase in large losses. So, we had a substantial
+increase in large losses, so these are not natural catastrophe. Just to give you an idea, we
+had three ﬁre claims in commercial property, in the second quarter the sum of these three
+ﬁre claims was about €40 million. So, we have natural catastrophe, we have some
+weather-related events, but we had also an accumulation if you want of large losses. So,
+this might be the reason why our numbers might look weaker in the case of France
+compared to some competitor.
+
+Q - Peter D. Eliot
+
+{BIO 7556214 <GO>}
+
+Very clear. Thank you very much.
+
+Operator
+Our next question comes from Andrew Ritchie of Autonomous.
+
+Q - Andrew J. Ritchie
+
+{BIO 18731996 <GO>}
+
+Oh, hi there. There been some companies in the past who have been a bit too conﬁdent
+about their attritional experience because they've attributed large loss to large loss noise.
+Page 9 of 25
+
+
+
+FINAL
+
+Company Name: Allianz SE
+Company Ticker: ALV GR Equity
+Date: 2018-08-03
+
+Can you reassure us on – I mean, you looked at large loss experience, which has been
+quite lumpy the last two years and there is no trend there, there is no underwriting
+messages, because obviously you can excuse that away quite a lot, just want some
+reassurance on that. Secondly, the net ﬂows into PIMCO in the last two months, what
+product areas are they going into and why those product areas so much higher margin in
+terms of revenue margin? And the ﬁnal question, you're running at 13.8% ROE, the target
+was 13%. You kind of are running where you want to be on Life, the tax rate is apparently
+sustainable. So is 13% the new ﬂoor for ROE going forward rather than the kind of it was, I
+guess, you were aspiring to get there before? Thanks.
+
+A - Giulio Terzariol
+
+{BIO 17125489 <GO>}
+
+Bloomberg Transcript
+
+Yeah. So starting with the attritional, yeah, we are very careful about the issue of large
+losses and also the classiﬁcation of large losses versus the attritional. And so we are
+always looking into, is this really noise volatility, or there is something fundamentally ﬂow
+with the underwriting in some countries. So the response to now is, as we look into that,
+we believe that we are dealing with volatility. But that's clearly an ongoing review that we
+do and every time we get additional large losses we take a look and we try to get to the
+bottom of it. But our answer to your question is based on our review. We believe that the
+way we look at attritional loss ratio is the right way and we feel conﬁdent about the quality
+of what we deﬁne attritional loss ratio. But again, I don't want to underplay this, this is
+deﬁnitely always something that we need to keep front and center as we evaluate our
+numbers.
+On the net inﬂows, the question – as I stated, at the end of the day, when you have a
+change in mix towards retail versus institutional then you're going to get higher fee
+margins. So that's the main driver why you see a better performance. And don't forget
+that last year we have increased the fees on the income fund, but fundamentally the driver
+is the mix between institutional and retail. On the ROE, yes, I would say 13% is the target
+and I will say that 13% will be most likely also the targets moving forward. So I don't see
+us, at this point in time, to move away from this target in one direction or the other.
+
+Q - Andrew J. Ritchie
+
+{BIO 18731996 <GO>}
+
+I'm sorry. Just to clarify, are the inﬂows still into the income fund strategy? I'd appreciate is
+it retail lines, institutional or is it other strategies that's going into it as well?
+
+A - Giulio Terzariol
+
+{BIO 17125489 <GO>}
+
+I can tell you in general because I don't want to go to speciﬁc. In general, we see –
+especially if you remove the big mandate that we lost, you see inﬂows into America, you
+see some weakness in Europe, and Asia it's more or less – it's slightly down, but
+fundamentally we see strength in the U.S. business compared to other regions.
+
+Q - Andrew J. Ritchie
+
+{BIO 18731996 <GO>}
+
+Okay. Thanks.
+
+Operator
+Page 10 of 25
+
+
+
+Company Name: Allianz SE
+Company Ticker: ALV GR Equity
+Date: 2018-08-03
+
+And we'll go next to Nick Holmes with Société Générale.
+
+FINAL
+
+Q - Nick Holmes
+
+{BIO 3387435 <GO>}
+
+Hi, there. I had just a couple of quick questions. Firstly, German Life new business grew by
+very, very strong 23%. I wondered if you could give us a bit more color about what's
+driving that. And then secondly, sort of, on the same theme, I wondered how much
+further does it go with your capital-light strategy, I mean you have 19% of the sales in the
+traditional products and I just wondered is that at the target level or is that further to
+reduce? Thank you.
+
+A - Giulio Terzariol
+
+{BIO 17125489 <GO>}
+
+I didn't understand your ﬁrst question?
+
+A - Oliver Schmidt
+
+{BIO 2473131 <GO>}
+
+The German Life new business driver.
+
+A - Giulio Terzariol
+
+{BIO 17125489 <GO>}
+
+Okay, that's driven by the production level. So if you see the new business margin is ﬂat,
+but we have – if you go to page 19, you can see growth in production was 22%. So it's
+pretty much driven by the level of increase in production. So that's the driver for the
+increase in the new business, yeah.
+
+Bloomberg Transcript
+
+Q - Nick Holmes
+
+{BIO 3387435 <GO>}
+
+Yes. So the thinking in terms of products, I mean you're pushing the capital eﬃcient
+products, if you could – has there been new product launches or things like that?
+
+A - Giulio Terzariol
+
+{BIO 17125489 <GO>}
+
+Yeah. So it's Giulio. (38:13) From a proﬁtability point of view, we are targeting proﬁtability
+which is a function of the assets under management. So from that point of view, we are
+recording in this capital-light product, a healthy proﬁtability, at the end of the day, think
+about that, we are speaking of a product also which has a long duration. So from that
+point of view, the 4% of business margin is a sort of margin that you would expect in this
+kind of environment. And so, from that angle, I think there is nothing really new on this
+proﬁtability. We are constantly also looking at new products but fundamentally the
+proﬁtability of Allianz Leben is driven by the targeted fees if you want to call it this way
+that we are achieving on the assets under management that we put on the books. Now if
+you ask me about the mix that we have in Germany, I think we are very satisﬁed with the
+level of the mix. We are satisﬁed with the level of production, so we don't see any reason
+why we should change the course of what we are doing right now.
+
+Q - Nick Holmes
+
+{BIO 3387435 <GO>}
+
+And most of these products are the sort of Perspektive products are that they carry a
+simple guarantee, no interest rate guarantee?
+
+Page 11 of 25
+
+
+
+Company Name: Allianz SE
+Company Ticker: ALV GR Equity
+Date: 2018-08-03
+
+A - Giulio Terzariol
+
+{BIO 17125489 <GO>}
+
+FINAL
+
+Yeah. Usually there is a guarantee if you want that you are going to get your principal after
+10 years. In the case you go into an annuity, we are somehow setting the assumption for
+an annuity-based on the interest rate level at a time you can get the annuitization and also
+the mortality table that we're going to use are based on the mortality expectation at that
+point in time. So from that point of view, the guarantee level is in the case you want to get
+a lump sum is you're going to get your – paid in premium back.
+
+Q - Nick Holmes
+
+{BIO 3387435 <GO>}
+
+Great. And sorry, with your targeted level of capital-light, are you there basically already
+or is there further scope?
+
+A - Giulio Terzariol
+
+{BIO 17125489 <GO>}
+
+Sorry, say again.
+
+Q - Nick Holmes
+
+{BIO 3387435 <GO>}
+
+With the 19% of Life sales that are still guaranteed that you classify as traditional and not
+(00:40:47) do you want to take that down further or is not...
+
+Bloomberg Transcript
+
+A - Giulio Terzariol
+
+{BIO 17125489 <GO>}
+
+No, no. So, 80-20, we think we are comfortable with the level of 80-20 also it might be the
+natural is going to get even slightly lower, but we are comfortable at this level. And also if
+you look at the new business margin on the guaranteed savings in annuity, 2.4% are
+relatively satisfactory. So, I think when you look at the portfolio of Allianz, it's ﬁne. There
+might be maybe one or two countries where we would like to see some change, but not
+deﬁnitely in Allianz Germany, we are very comfortable with the current mix.
+
+Q - Nick Holmes
+
+{BIO 3387435 <GO>}
+
+That's great. Thank you very much.
+
+Operator
+And we'll go next to Thomas Seidl of Bernstein.
+
+Q - Thomas Seidl
+
+{BIO 17755912 <GO>}
+
+Yeah. Good afternoon. Thank you. First question is, I mean, you just shown and
+demonstrated, David, you are well on track to achieve the ROE and EPS growth targets.
+So I wonder what the rationale was for the recent €1 billion new buyback you announced
+in July 2. What is the rationale? What do you want to tell the market with this rather small
+additional buyback? Second question is on growth. You said underlying growth in P&C is
+some 5% which is well ahead, I think of what the market is growing at. So I just wonder
+what allows you to take this market share right now and basically for the ﬁrst time in a long
+time, this is coming through now. And thirdly on PIMCO, you used to disclose it, but may
+be you can tell us what the outperformance level is at PIMCO and also at the AllianzGI.
+Page 12 of 25
+
+
+
+Company Name: Allianz SE
+Company Ticker: ALV GR Equity
+Date: 2018-08-03
+
+FINAL
+
+A - Giulio Terzariol
+
+{BIO 17125489 <GO>}
+
+Yeah. So starting from the question about the buyback, why we did a buyback, at the end
+of the day, we already told you, right, we're going to look at our option whether there are
+organic growth opportunity or external growth opportunity and we are also going to look
+at fundamentally whether the best option is to invest in our own stocks and based on
+what the diﬀerent teams are going to tell us, then we are going to decide whether we
+want to do a buyback or not. And in July based on the consideration about our
+expectation for growth versus investing in our own stock, we came to the conclusion that
+investing our own stock was a good move to do. So moving forward we are always going
+to evaluate what is in front of us and we're going to make our decision as we see
+appropriate.
+
+Bloomberg Transcript
+
+On the PIMCO, to start on the PIMCO, with respect to performance, I would say that you
+look at the one, three or ﬁve years, we are, let's say at 90% or above 90%. So the
+outperformance is 89% for the one year and then 93%, 95% for the three and ﬁve years. In
+the case of AGI we are more between 70%, 75%. So that's the outperformance level that
+we have. And so, we feel very good both for AGI and especially for PIMCO. So that's also
+one of the reason why I'm relatively bullish on the PIMCO franchise.
+And then on the growth, what is allowing us to grow, let's say 5% I think that a lot of things
+are going well at the same time in diﬀerent entities. Let's take Germany where we are
+growing at 4%, that wasn't the case a few quarters ago, a few years ago, we talked about
+the fact that we wanted to grow in Germany and we have also changed our risk model
+without sacriﬁcing performance and that's what we are seeing that our initiatives are
+working. In Italy also, we said we want to get back to growth and the initiative that we put
+in place are working. Then in AGCS, we are getting good momentum also in the U.S. and
+also in lines of business (00:45:12) where we are looking for business that we like. So from
+this point of view I think we are getting to a situation where diﬀerent OEs are performing
+better compared to what they did in the past and the usual suspects like Spain and
+Australia are keeping their – are also if you want to Eastern Europe are keeping their level
+of performance. So I might be slightly surprised if you ask me so, but I'm not completely
+surprised by the fact that we are seeing good growth coming through.
+
+Q - Thomas Seidl
+
+{BIO 17755912 <GO>}
+
+And on the buyback I mean what's the price about the timing why not holding back let's
+say until next year because there was really no urgency around doing it now?
+
+A - Giulio Terzariol
+
+{BIO 17125489 <GO>}
+
+No, there was no urgency. But as we said, we want to avoid this kind of to almost give you
+a phone call before we do a buyback. So I think we – again we like to keep our option
+open and we said it's in July look at the market condition, also to be honest look at all the
+noise around what we are going to do, what we are not going to go. So if people are
+deciding for us what we are going to do then we make a statement about what we want
+to do. So that's a little bit of that too.
+
+Q - Thomas Seidl
+
+{BIO 17755912 <GO>}
+Page 13 of 25
+
+
+
+Company Name: Allianz SE
+Company Ticker: ALV GR Equity
+Date: 2018-08-03
+
+Okay. Very clear. Thanks Giulio.
+
+Operator
+
+FINAL
+
+We'll go next to Farooq Hanif of Credit Suisse.
+
+Q - Farooq Hanif
+
+{BIO 4780978 <GO>}
+
+Hi, there. On P&C pricing, it looks like there has been a bit of an acceleration in 2Q versus
+1Q. Do you feel quite conﬁdent that that sort of I think more than 2% pricing in 2Q is kind
+of sustainable for the rest of the year? Secondly on the reinvestment yield, you pointed
+out some of the one-oﬀs in the current yield. Is there any one-oﬀ in the P&C reinvestment
+yield? So is 2.2%...
+
+A - Giulio Terzariol
+
+{BIO 17125489 <GO>}
+
+Yes.
+
+Q - Farooq Hanif
+
+{BIO 4780978 <GO>}
+
+...what we should be modeling? And lastly, can you just comment on what your holding
+cash is now, particularly after the buyback? Thanks.
+
+Bloomberg Transcript
+
+A - Giulio Terzariol
+
+{BIO 17125489 <GO>}
+
+So starting from the P&C side and the pricing momentum, yes, I feel pretty conﬁdent that
+we are going to keep this momentum and that's also one of the reasons why I'm also
+conﬁdent that we should get to the 94%. So from this point of view, we're seeing also
+improvement or the attrition of loss ratio, not only when we compare the second quarter
+2018 to the second quarter 2017, we are seeing the improvement also when we compare
+second quarter 2018 to the ﬁrst quarter of 2018. So there is a momentum there that's
+according to our analysis is clearly visible.
+On the reinvestment yield in P&C, yes, we had a strong number for the quarter, as usual, I
+invite always to take this number for a quarter with some caution, because clearly, our
+investment guys have a target allocation for the portfolio and the target allocation for the
+year, and then in every single quarter, they can move more or less in asset class. But I can
+tell you that increased – also compared to Q1, which was more than 1.8% is driven by a
+slightly higher allocation to emerging markets. But the main driver is just the yields went
+up; the yield went up signiﬁcantly both for emerging markets and also even for traditional
+for the – how you call it, mature markets. So in reality we saw a lift in the yield compared to
+what we had in the other quarter. So it's a little bit of mix, but on the mix always, keep in
+mind every quarter can have a diﬀerent allocation as the investment guys are moving to
+midyear targets and then also an increase in yield. On the cash, I will not comment on
+how much cash we have (00:49:24), you can imagine we had done our calculation and
+clearly we want also to keep our option open for the future.
+
+Q - Farooq Hanif
+
+{BIO 4780978 <GO>}
+
+Can you comment on debt capacity, if not cash?
+Page 14 of 25
+
+
+
+Company Name: Allianz SE
+Company Ticker: ALV GR Equity
+Date: 2018-08-03
+
+FINAL
+
+A - Giulio Terzariol
+
+{BIO 17125489 <GO>}
+
+Debt capacity, yes. So it depends how you deﬁne debt capacity. So in the case we do an
+acquisition versus just increasing debt, but I can tell you something we go back to maybe
+I'll translate this into the question of what kind of acquisition we could do without raising
+equity, and I would say that potentially a €10 billion acquisition would be possible without
+raising the equity, then we would most likely use some equity in this case. But technically
+speaking, if we like to stretch our leverage ratios we might be able to do a €10 billion
+without raising any equity, then it depends also on the quality of the target and then it
+also depends on the leverage of the targets. But fundamentally to give you an idea €10
+billion is more or less the number. Otherwise in terms of leverage ratio, I think you had the
+numbers for the end of the year they didn't move signiﬁcantly compared to the end of the
+year more or less we are at a – on the Moody's, yeah we are in about 20%, 26%, the way
+we present. And then Moody's ratio is a little bit higher and the S&P ratio it's a little below
+lower 20%, 26%.
+
+Q - Farooq Hanif
+
+{BIO 4780978 <GO>}
+
+Thanks, Giulio. Thank you very much.
+
+A - Giulio Terzariol
+
+{BIO 17125489 <GO>}
+
+Okay.
+
+Q - Farooq Hanif
+
+{BIO 4780978 <GO>}
+
+Bloomberg Transcript
+
+Thank you.
+
+Operator
+We'll go next to William Hawkins of KBW.
+
+Q - William Hawkins
+
+{BIO 1822411 <GO>}
+
+Hello. Thank you very much. Sorry, I'm going to slightly follow-up on a couple of the other
+questions. First of all, just a point of details, on slide 21, you showed €204 million of
+operating proﬁt from capital eﬃcient products. I'm assuming that's still ﬁxed indexed
+annuities and German hybrid stuﬀ. Could you give me an indication of what was the
+German hybrid contribution to that? So, that's number one. Number two, for the ﬁrst time
+in a while slide 9 is showing no reduction in SCR this quarter, I appreciate it's all quite
+small, but is there anything in particular that stopped the trend of reducing the SCR from
+what we've seen in the past?
+And then lastly, on the capital management point, sorry again to come back to it, but
+given that you were able to launch a buyback in July, just based on your preliminary views
+of how strong you were in the rest of it, was there not a temptation to up the program
+once you conﬁrmed the very strong numbers this quarter? And if you did decide, I know
+you're not going to, but if you did decide to distribute as much as you possibly can, which
+would be the ﬁrst binding constraint that would bite? Thank you.
+
+Page 15 of 25
+
+
+
+Company Name: Allianz SE
+Company Ticker: ALV GR Equity
+Date: 2018-08-03
+
+Bloomberg Transcript
+
+FINAL
+
+A - Giulio Terzariol
+
+{BIO 17125489 <GO>}
+
+Okay. So, starting from the operating proﬁt on the capital eﬃcient product, this is in
+closing the FIA business and also the German capital light product. The contribution of
+Germany in the quarter is being minor. Again, there is always a noise. So it's been slightly
+below compared to what we would usually expect. We need also to consider any way one
+factor. The way we do the translation from a local account into IFRS is penalizing the IFRS
+performance, of this line of business because of the way we account for policyholder
+participation. In reality, we are accounting for 90% policyholder participation, also on the
+acquisition expense adjustment when in reality we should just use 50%. But in – so that's a
+little bit of a factor that especially when you have a strong growth, by the one we are
+recording now is going to bring to a certain dilution of the proﬁt. Fundamentally, just to
+be very clear economically on this business we make a fee which is equal to what we do
+on the traditional business on the assets under management and then we have a
+translation in IFRS that might lead to some distortion especially in a quarterly basis. So
+that's on the capital-light products.
+The other question was on the SCR development, yes, indeed, usually, we showed in the
+past about €100 million of positive development. In this case you see zero, in reality, it's a
+slight positive or negative – so a slight positive contribution. The diﬀerence between this
+quarter and what you saw in the last quarter is the growth in Property and Casualty and so
+people might believe this or not. But even Property and Casualty has a capital intensity,
+and in reality the ratio of SCR – the way at least we compute for this calculation to
+premium is about 35%. So you just need €200 million more of basis to get to a number
+which is above €70 million of SCR increase. On the other side we have our recurring €100
+million of release on Life, but now when you look at a number you get to see pretty much
+zero, although we still have a small positive contribution. But bottom line is driven by the
+fact that we are increasing our P&C production.
+And then the last question was on the capital generation. I'm going just straight to what
+could be the constraint, and if I understood the question on doing buybacks or this kind
+of things, the main constraint, the primary constraint, if you look at the numbers, it's
+clearly not a solvency ratio. If you look at the conversation that we had just right now
+about the leverage ratio it's not the leverage ratio. So at the end of the day, the constraint
+would always be the amount of liquidity that we are capable to generate at the holding
+level. Also considering that, we like to do a little bit of both. So think about that, we did a
+€1 billion buyback by now and we also did the announcement just a few weeks ago that
+we are buying Multiasistencia, which is a €300 million transaction. But somehow as you
+want to do both bolt-on acquisitions and buybacks eventually I will tell you the constraint
+could be the amount of cash that we are capable to bring to the holding level.
+
+Q - William Hawkins
+
+{BIO 1822411 <GO>}
+
+Sorry to come back, but should I be surprised by that? Because I thought you guys are not
+a pure-holding company. You are an operational holding company. So your ﬁnancial
+ﬂexibility at the top should be really quite big.
+
+A - Giulio Terzariol
+
+{BIO 17125489 <GO>}
+
+Page 16 of 25
+
+
+
+FINAL
+
+Company Name: Allianz SE
+Company Ticker: ALV GR Equity
+Date: 2018-08-03
+
+Yeah. But I'll tell you, we have a very strong ﬁnancial risk management function, so we
+cannot – actually we have ample liquidity, but we are not using the assets matching the
+reinsurance liability for acquisition. We are not using the assets matching the pension
+portfolio for acquisition. You might argue that this could be an option, but that's not what
+we are doing. So we are kind of separating the three buckets and we are very diligent
+about keeping this ﬁnancial discipline because that might be very, very healthy one day, if
+you go into crisis situation, you never know in life you might see things diﬀerently. But yes,
+fundamentally, yes, with a diﬀerent management style, we would have ample opportunity
+to do a lot of things.
+
+Q - William Hawkins
+
+{BIO 1822411 <GO>}
+
+That's great, Giulio. Thank you.
+
+Operator
+We'll go next to Vinit Malhotra of Mediobanca.
+
+Bloomberg Transcript
+
+Q - Vinit Malhotra
+
+{BIO 16184491 <GO>}
+
+Yes. Good afternoon. Thank you. So two questions please. One is, Giulio, thanks for the
+PIMCO comments on very healthy inﬂows last two months. I was just more curious that the
+fact that you lost a large mandate in April, May whenever it was, is it because of the
+attraction of passive funds in the market, is it because investor clients are going, we can
+get 3% treasury return why do we have to stay with PIMCO. I mean I'm just trying to see
+what are the risks for or what are the large clients thinking in your view around investing in
+PIMCO product. That's the ﬁrst question.
+Second question is, just wanted to see how happy you feel with the Euler buyout
+transaction. I mean I can see a slight, maybe minus 1% pricing cut, I have also seen that
+one of the competitors of Euler said that 1Q was sort of the peak of proﬁtability. And are
+you generally happy with the timing of (00:58:26) of the Euler transaction, and how that
+business is going? Thanks.
+
+A - Giulio Terzariol
+
+{BIO 17125489 <GO>}
+
+Yeah. Perfect. So, starting from PIMCO, no I will not see that withdrawal as an indication of
+some underlying change in behavior. Indeed, that's a withdrawal from a client that put
+some money last year and then there was also very low fee mandates, so it was almost like
+you say depot and now they took it away. And also last year we've been very clear about
+the fact that we had a large inﬂow, which was not that sustainable. So from that point of
+view, I wouldn't say that there is a change in the way at least we don't see, in our case,
+how institutional investors are looking at putting funds into PIMCO, and indeed also the
+performance in the last two months are kind of indicating that, in general, we are back to
+a stable situation. So answer is no indication because of this withdrawal.
+On the Euler Hermes buyout, I feel, ﬁrst of all, very good. And when you do a transaction
+of this kind, you need always to look anyway the franchise of the business or the potential
+of the business long-term. So from that point of view, I think we did a good choice, buying
+Page 17 of 25
+
+
+
+Company Name: Allianz SE
+Company Ticker: ALV GR Equity
+Date: 2018-08-03
+
+FINAL
+
+the rest of the minorities, at Euler Hermes. But important point is, I saw the
+communication coming from some of our competitors. I think you know their track record
+is somehow diﬀerent compared to our track record. So I would start from there. So every
+company is not similar to another company. And then the economy is doing very good
+and now it's always interesting how you look at numbers.
+So we see that the days of outstanding sales is going up. This is not – somebody might
+interpret this as a negative indicator. And I would say usually this is more of a positive
+indicator that there is conﬁdence in the economy. So suppliers are willing to extend more
+credit from a time point of view. So I think, clearly, we are in a strong economy, but I don't
+see this economy deteriorating very quickly. So from this point of view, I feel that we have
+still a good environment in front of us. But it's clear that one day we are also to go
+through a downside, but I don't see this as being something imminent.
+
+Q - Vinit Malhotra
+
+{BIO 16184491 <GO>}
+
+Many thanks. Can I just follow up quickly on one of the earlier questions, please? You
+talked about the...
+
+A - Giulio Terzariol
+
+{BIO 17125489 <GO>}
+
+Yes.
+
+Bloomberg Transcript
+
+Q - Vinit Malhotra
+
+{BIO 16184491 <GO>}
+
+...the P&C volume being so high, the 5%. Can I just say – you just answered in another
+(01:01:23) question said that you were pushing the P&C product. So is it a correct
+understanding that you're pushing more and that is leading to the volume growth and not
+just that the economy is growing or somewhere or there is a bit more demand, it's that
+you are pushing the product, is that a correct interpretation?
+
+A - Giulio Terzariol
+
+{BIO 17125489 <GO>}
+
+Yeah. I'm not sure. In my opinion, there are two eﬀects. First of all, I believe there is some
+underlying goods development when I was look at some numbers, also from the
+competition, I think you see some growth there. So there is this development, but also we
+have been very clear that, in Germany, we want to go back to growth and, clearly, it's
+understood it has to be proﬁtable growth. But I think we didn't make any secret that we
+want to go back to growth in our home market, for example.
+
+Q - Vinit Malhotra
+
+{BIO 16184491 <GO>}
+
+All right. Thank you very much.
+
+A - Giulio Terzariol
+
+{BIO 17125489 <GO>}
+
+Welcome.
+
+Operator
+Page 18 of 25
+
+
+
+Company Name: Allianz SE
+Company Ticker: ALV GR Equity
+Date: 2018-08-03
+
+We'll go next to Rahul Parekh of JPMorgan.
+
+FINAL
+
+Q - Rahul A. Parekh
+
+{BIO 18787842 <GO>}
+
+Hi. I have two questions, please. The ﬁrst is on motor insurance, can you tell me what is
+the trend in motor insurance and in the combined ratio in that business and in terms of
+the cost of bodily injuries and claims frequencies, some of the trends there? And my
+second question is again going back to the capital management thing; you said that in
+July, you evaluated the €1 billion buyback. So I just want to know when do you generally
+have these evaluations take place. Thank you.
+
+A - Giulio Terzariol
+
+{BIO 17125489 <GO>}
+
+Bloomberg Transcript
+
+The motor development, we are not seeing anything – our development in motor is stable
+from this point of view and, clearly, we indeed even slightly improving. And then clearly,
+we always look at frequency severity. At this point in time, it depends on the markets,
+right? But in Germany, we don't see anything unusual on frequency severity, a recent
+conversation in the U.K. about what is happening to the rates, but on the other side, there
+is an expectation that the claims activity might be going down in the future.
+So as we look at a diﬀerent portfolio, I would say that we don't see any major change
+compared to the experience that we have seen as of recent, so nothing really changing
+neither on frequency or not on severity, but then clearly it's a diﬀerent conversation
+market by market. And sometimes, in reality, what is happening is you might see an
+increasing severity but this is oﬀset by decreasing frequency or the other way around. But
+when you put the two factors together, we don't see a trend of increasing claims or at
+least not exceeding rate increases, that's on the motor development.
+With respect to the buybacks, I would say, I always think about deployment of capital and
+we always think about deployment of capital. So from this point of view, that it's an
+ongoing conversation that we have, and then when we decide to take actions, that's a
+diﬀerent story. But clearly, we are constantly look at our numbers, we are constantly look
+at diﬀerent option, so this is part of our job not diﬀerent from the way we look at solvency
+ratio constantly, we look at our IFRS proﬁt on a monthly basis, so we are constantly
+analyzing what our options are.
+
+Q - Rahul A. Parekh
+
+{BIO 18787842 <GO>}
+
+Okay. Thank you.
+
+Operator
+We'll go next to Michael Haid of Commerzbank.
+
+Q - Michael Haid
+
+{BIO 1971310 <GO>}
+
+Yes, good afternoon. Thank you for taking my questions. Both on P&C insurance, again on
+the expense ratio, the improvement of 1 percentage point quarter-over-quarter or yearover-year actually. I assume growth helps to improve this expense ratio. Is it possible to
+
+Page 19 of 25
+
+
+
+FINAL
+
+Company Name: Allianz SE
+Company Ticker: ALV GR Equity
+Date: 2018-08-03
+
+say how much growth contributed to this expense ratio? And the internal growth at this
+stage is probably higher than what you expected it before when you set the target for
+2018 to 28.4%. So, should we not become much more positive on the expense ratio?
+Second question on claims inﬂation in general, you report price increases of more than
+2% in the second quarter. What are your observations or expectations regarding future
+claims inﬂation? And you mentioned Australia, where you reduced your expectations and
+Turkey, probably you had to increase. So what are your general expectations regarding
+claims inﬂation?
+
+A - Giulio Terzariol
+
+{BIO 17125489 <GO>}
+
+Yeah. So, on the improvement of the expense ratio, but clearly, when you have growth
+rates, if you look at the NPE of 4%, this is going to help the expense ratio. Now I didn't do
+the math, but I could expect that if you grow the NPE by 4%, this could contribute 40
+basis points, 50 basis points assuming ﬂat expenses to the improvement of the expense
+ratio. So, deﬁnitely I just tell you right now if we continue to grow 4% in NPE, considering
+the eﬀorts that we have put on the expense ratio then yes, you might see very, very, very
+nice trends in the expense ratio in the future because top line growth helps that KPI a lot,
+but now that's very important. We have given us a target to improve this expense ratio in
+the future, even if we don't get this kind of growth. So that's very important, now getting
+consistently this kind of growth in the future that will deﬁnitely then put an additional bust,
+if you will, our improvement to the target that we have given ourselves. So that's on
+expense ratio on the – yeah.
+
+Q - Michael Haid
+
+{BIO 1971310 <GO>}
+
+Bloomberg Transcript
+
+Can you say what growth you assumed when you set the expense ratio?
+
+A - Giulio Terzariol
+
+{BIO 17125489 <GO>}
+
+Yeah. In our plan we have – in our old plan now we're going to see how the new plan
+goes usually we assume a 2 percentage points, it stands between 2 percentage point and
+3 percentage point of growth which is more or less the kind of growth that we had or so
+over the last three, four years. That's when I look at the whole plan that's the kind of
+growth that you're going to see in our plan. And now we're going to see whether we
+need to revisit this growth or not, i.e. I don't know at this point in time, but that's our
+assumption.
+
+Q - Michael Haid
+
+{BIO 1971310 <GO>}
+
+But internal growth...
+
+A - Giulio Terzariol
+
+{BIO 17125489 <GO>}
+
+Internal growth, yeah, absolutely. Yeah. Absolutely, internal growth we are not planning
+for M&A, so that's internal growth. If you look at our growth rate in the past in PropertyCasualty it has been about 3% over the last three, four years, last year was a little bit lower,
+but if you go back to 2016, 2015, 2014 was 3% and this is also the expectation for the
+future. So usually it's maybe a little bit slower in the ﬁrst year and then people get more
+conﬁdent as you go into the last year or the planning season to plan for high growth,
+
+Page 20 of 25
+
+
+
+Company Name: Allianz SE
+Company Ticker: ALV GR Equity
+Date: 2018-08-03
+
+FINAL
+
+three years down the road as opposed to ﬁrst year. But fundamentally we are speaking of
+about 3% organic growth in our plan.
+And the other question the claims inﬂation, again, it clearly is a conversation which is
+diﬀerent country-by-country, right. That's the fundamental point. So as you were
+referencing, Turkey can be diﬀerent from Italy, and so on. The point is we see, for
+example, in Italy we see just to give an idea some higher frequency in Property, but then
+you have lower severity in other lines of business. In Benelux, we see an improvement in
+frequency in general. In France, right now we see also, but frequency and severity and
+then you have a situation in another country where the severity might go up. So when you
+put all together and you know you have a big portfolio like our proﬁle, you're going to
+have plus and minuses. But then that's also very important is more about, your premium
+increases going to be able to match any potential increase in frequency and severity. And
+my response to it is for the time being based on the momentum we see, yes, it looks like
+we are now getting pressure on our larger portfolio because of claims inﬂation exceeding
+our ability to force rate increases and clearly Turkey is a totally diﬀerent story, but that's a
+diﬀerent story, but also in Turkey never forget that investment income is going up also
+accordingly. So you need to put also in the case of Turkey that into the equation and then
+you go back to – there you could argue the cost of capital is going up too where we can
+get into a long philosophical conversation. But if you look at the major countries where
+we are active for the time being, we don't see any problem in matching claims inﬂation
+with tariﬀ increases, if needed.
+
+Q - Michael Haid
+
+{BIO 1971310 <GO>}
+
+Bloomberg Transcript
+
+Okay. Perfect. Thank you very much.
+
+Operator
+We'll go next to Johnny Vo of Goldman Sachs.
+
+Q - Johnny Vo
+
+{BIO 5509843 <GO>}
+
+Hi. Thank you very much. Just a couple of questions. Just the margin in your asset
+management in particular PIMCO was obviously high and you said you lost a relatively
+large contract that was very low in margin. The new inﬂows, are they more institutionalrelated? So should we expect the margin to come back again on that front? That's the ﬁrst
+question. The second question just relate to your €10 billion capacity for M&A. Clearly this
+is predicated on how much goodwill you're buying. So I saw on Bloomberg that you said
+that you're potentially interested in Asset Management businesses. Clearly your capacity
+to do Asset Management businesses may be diﬀerent to your capacity to do a closed Life
+book or a P&C business. So could you discuss that €10 billion on M&A. Thank you.
+
+A - Giulio Terzariol
+
+{BIO 17125489 <GO>}
+
+I guess you have to repeat the second question. Was it about Asset Management and
+sales...
+
+Q - Johnny Vo
+
+{BIO 5509843 <GO>}
+Page 21 of 25
+
+
+
+Company Name: Allianz SE
+Company Ticker: ALV GR Equity
+Date: 2018-08-03
+
+Yeah.
+
+A - Oliver Schmidt
+
+{BIO 2473131 <GO>}
+
+In general.
+
+FINAL
+
+Q - Johnny Vo
+
+{BIO 5509843 <GO>}
+
+Yeah.
+
+A - Giulio Terzariol
+
+{BIO 17125489 <GO>}
+
+So coming to the PIMCO, yes, we have fundamentally more mutual fund or retail business
+versus institutional and this contribute to the increase in margin compared to what you
+saw in the prior quarter. So that's deﬁnitely the driver of business mix and clearly
+institutional has higher margin compared to – sorry retail has higher margin compared to
+institutional. So it's driven by mutual funds. On the Asset Management side, clearly our
+priority number one is Property-Casualty.
+
+Bloomberg Transcript
+
+When then I explained to Bloomberg what are the priorities, (01:13:05) give the message,
+Life is the number three and then I put the Asset Management in-between. In Asset
+Management, I think that it might make sense for us to do acquisition especially if we can
+do acquisitions that are adding to the diversiﬁcation of our business that can be a nice ﬁt.
+And we don't need to talk about huge acquisition. There can be also small acquisition,
+but they can contribute deﬁnitely to the franchise either of PIMCO or AGI. So that's the
+reason why I put always Asset Management as second. But I will also say that PropertyCasualty is deﬁnitely the number one and I would mostly focus on that comment. But...
+
+Q - Johnny Vo
+
+{BIO 5509843 <GO>}
+
+Yeah, but Giulio, just a quick question, just a follow up. I mean your capacity is dependent
+on how much goodwill you're buying. So, if you're buying a lot of goodwill then clearly
+your capacity is less, is that fair?
+
+A - Giulio Terzariol
+
+{BIO 17125489 <GO>}
+
+Yeah. I wouldn't say that. I understand what you say. The point is true that when you're
+buying an asset manager, you have a lot of goodwill on the other side, you don't have a
+lot of SCR. So at the end of the day, you need to look at both, right because when you buy
+a P&C company or Life company, you might have less goodwill, but then you have a lot of
+SCR coming. So it depends, I will say it depends but I will say look at both sides of the
+equation, not just at one side of the equation. And SCR can be very punitive because it
+gets into the denominator.
+
+Q - Johnny Vo
+
+{BIO 5509843 <GO>}
+
+Okay. Thank you.
+
+A - Giulio Terzariol
+
+{BIO 17125489 <GO>}
+
+Welcome
+Page 22 of 25
+
+
+
+Company Name: Allianz SE
+Company Ticker: ALV GR Equity
+Date: 2018-08-03
+
+Operator
+We'll go next to Neel Shah with Crédit Agricole.
+
+FINAL
+
+Q - Neel Shah
+
+{BIO 18778141 <GO>}
+
+Good afternoon. Just (01:14:58) question, you discussed a lot about return on capital.
+Could you discuss what your plans are for bond issuance for 2018 and 2019, and also in
+terms of your upcoming costs as well? You have a solvency ratio of 230%, so what kind of
+range are you in your management plans do you have a comfortable buﬀer above your
+current range that you want to use to return to shareholders capital and also to improve
+your kind of debt equity mix? Thank you.
+
+A - Giulio Terzariol
+
+{BIO 17125489 <GO>}
+
+Bloomberg Transcript
+
+Yeah. From a debt issuance point of view, we are not going to make any substantial move
+in the cost of the yield, so going to 2019. So we feel comfortable with the level of leverage
+ratio. So, we actually have a bond which is potentially coming to maturity. So we're going
+to see what we're going to do with that, it can be replaced, but fundamentally, we're not
+going to change our leverage ratio. So in general, the message is status quo. Now the
+only thing we are looking into, but this is a long process is looking to RT1, another would
+be an instrument, but for that we need to talk both to our regulators and also to clarify few
+tax issue, that will be the only thing that potentially if we get all the necessary approvals,
+we must thinking to dip into that instrument. But we are not there, yet. So for the time
+being the message is, you're going to see a lot of stability on this front.
+
+Q - Neel Shah
+
+{BIO 18778141 <GO>}
+
+And what is your range of Solvency II that you've grown internally as a management that
+you feel comfortable with and what you believe is above the minimum requirement, that
+you feel comfortable with?
+
+A - Giulio Terzariol
+
+{BIO 17125489 <GO>}
+
+Yeah, for the solvency ratio, you know, you mean Solvency II ratio, right?
+
+Q - Neel Shah
+
+{BIO 18778141 <GO>}
+
+Yes.
+
+A - Giulio Terzariol
+
+{BIO 17125489 <GO>}
+
+Yeah. So, we are being clear that our range is 180% to 220%, that's also something that
+we want to address in the Capital Market Day, because we believe it makes sense to have
+a low end of the range, so I would say the 180% makes absolutely lot of sense. To discuss
+about an upper end of the range, it's a little bit diﬀerent, because sometimes you can get
+a very high end of the range just driven by markets movement, reducing the solvency
+ratio just because the markets are doing very nicely, might be very counter-cyclical. And
+our point is clearly as investors, they want to see us to manage capital eﬃciently. But then
+for that we will point out to the IFRS ROE.
+
+Page 23 of 25
+
+
+
+FINAL
+
+Company Name: Allianz SE
+Company Ticker: ALV GR Equity
+Date: 2018-08-03
+
+So we will say as long as we can produce an IFRS ROE, which is good and strong then the
+level of a Solvency II capital shouldn't be a big issue, especially on the high side. And also
+I'd say we have been proven over the last 18 months that we are not shy at utilizing capital
+also for buybacks, when we have the opportunity. So the message is right now we have a
+ratio of 182% to 220%, but as we come to the Capital Market Day in November, we're
+going to discuss with you the sense or relevance to have an upper end of the range. But
+clearly in this case, it's going to be the more important to be very focused on the ROE,
+IFRS as a proof that (01:18:33) we are managing the company in an eﬃcient way from a
+capital point of view.
+
+Q - Neel Shah
+
+{BIO 18778141 <GO>}
+
+Thank you, that's very clear.
+
+Operator
+Okay.
+
+A - Giulio Terzariol
+
+{BIO 17125489 <GO>}
+
+I guess if we ...
+
+Operator
+
+Bloomberg Transcript
+
+And at this time, we have no further questions in queue.
+
+A - Oliver Schmidt
+
+{BIO 2473131 <GO>}
+
+Perfect, thanks. So yeah if we have no further questions then thanks to everybody for
+joining the call, we say goodbye for now and we wish you a very pleasant weekend and
+perhaps even a longer pleasant vacation afterwards. Thank you.
+
+A - Giulio Terzariol
+
+{BIO 17125489 <GO>}
+
+Bye.
+
+Operator
+Again this does conclude today's call. We appreciate everyone's participation today. You
+may now disconnect.
+
+This transcript may not be 100 percent accurate and may contain misspellings and other
+inaccuracies. This transcript is provided "as is", without express or implied warranties of
+any kind. Bloomberg retains all rights to this transcript and provides it solely for your
+personal, non-commercial use. Bloomberg, its suppliers and third-party agents shall have
+no liability for errors in this transcript or for lost proﬁts, losses, or direct, indirect,
+incidental, consequential, special or punitive damages in connection with the furnishing,
+Page 24 of 25
+
+
+
+Company Name: Allianz SE
+Company Ticker: ALV GR Equity
+Date: 2018-08-03
+
+Bloomberg Transcript
+
+FINAL
+
+performance or use of such transcript. Neither the information nor any opinion expressed
+in this transcript constitutes a solicitation of the purchase or sale of securities or
+commodities. Any opinion expressed in the transcript does not necessarily reﬂect the
+views of Bloomberg LP. © COPYRIGHT 2022, BLOOMBERG LP. All rights reserved. Any
+reproduction, redistribution or retransmission is expressly prohibited.
+
+Page 25 of 25
+
+

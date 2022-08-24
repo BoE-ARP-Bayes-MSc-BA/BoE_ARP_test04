@@ -1,0 +1,1583 @@
+Company N ame: Axis Capital H oldings L td
+Company Ticker: AXS US Equity
+Date: 2018-10-25
+
+Q3 2018 Earnings Call
+Company Participants
+FINAL
+
+Albert A. Benchimol, Director, President & Chief Executive Officer
+Matt Rohrmann, Head-Investor Relations
+Peter J. Vogt, Chief Financial Officer
+
+Other Participants
+Amit Kumar, Analyst
+Brian Meredith, Analyst
+Elyse B. Greenspan, Analyst
+Jay A. Cohen, Analyst
+Josh D. Shanker, Analyst
+Kai Pan, Analyst
+Meyer Shields , Analyst
+Yaron Kinar, Analyst
+
+Bloomberg Transcript
+
+MANAGEMENT DISCUSSION SECTION
+Operator
+Good day and welcome to the Third Quarter of 2018 AXIS Capital Earnings Conference
+Call and webcast. All participants today will be in a listen-only mode. After today's
+presentation, there will be an opportunity to ask questions. Please note today's event is
+being recorded.
+And with that, I'd like to turn the conference over to Mr. Matt Rohrmann, Head of Investor
+Relations. Please go ahead.
+
+Matt Rohrmann
+
+{BIO 15132648 <GO>}
+
+Thank you, Brian. Good morning, ladies and gentlemen. I'm happy to welcome you to our
+conference call to discuss the financial results for AXIS Capital for the third quarter and
+period ended at September 30, 2018. Our earnings press release and financial
+supplement were issued yesterday evening after the market closed. If you would like
+copies, please visit the Investor Information section of our website at axiscapital.com.
+We set aside an hour for today's call, which is also available as an audio webcast through
+the Investor Information section of our website. A replay of the teleconference will be
+available by dialing 877-344-7529 in the United States, and the international number, 412317-0088. The conference code for both replay dial-in numbers is 10125053.
+Page 1 of 24
+
+
+
+FINAL
+
+Company N ame: Axis Capital H oldings L td
+Company Ticker: AXS US Equity
+Date: 2018-10-25
+
+With me on today's call are Albert Benchimol, our President and CEO; and Pete Vogt, our
+CFO. Before I turn the call over to Albert, I will remind everyone that the statements made
+during this call including the question-and-answer session, which are not historical facts,
+may be forward-looking statements. Forward-looking statements involve risks,
+uncertainties and assumptions. Actual events or results may differ materially from those
+projected in the forward-looking statements due to a variety of factors including the risk
+factors set forth in AXIS' most recent report Form 10-K, as well as the additional risks
+identified in the cautionary note regarding forward-looking statements in our earnings
+press release issued yesterday evening. We undertake no obligation to update or revise
+publicly any forward-looking statements.
+In addition, this presentation may contain non-GAAP financial measures. Reconciliations
+are included in our earnings press release and financial supplement, which can be found
+on our Investor Information section of our website, which again is located at
+axiscapital.com.
+With that, I'd like to turn the call over to Albert. Albert?
+
+Bloomberg Transcript
+
+Albert A. Benchimol
+
+{BIO 2023727 <GO>}
+
+Thank you, Matt, and good morning, everyone and thank you for joining us to review our
+third quarter results. For AXIS, the story of the third quarter is that we're continuing to see
+positive momentum in our business, and our efforts to grow our leadership in selected
+markets are generating real traction. It's been a very productive year for AXIS and one in
+which our improved results are beginning to demonstrate the potential of our business.
+Like the rest of the industry, our third quarter was impacted by cat activity in the
+Southeastern United States and in Asia, as well as elevated attritional property losses.
+Within this context, the strength of our results speak to our teams' work to build resilience
+within our portfolio.
+We reported operating ROE of 7.2% in the quarter. But as you know, we believe this to
+understate the true run rate profitability of our business due to PGAAP rules. Excluding
+PGAAP entries, our third quarter results would have been an operating ROE of 8% and
+our year-to-date ex-PGAAP operating ROE was a solid 10.2%. In recent years, we've
+worked hard to establish AXIS as a profitable relevant player in specialty lines with a
+differentiated hybrid platform. Our underwriting expertise, outstanding service and
+industry leading claims capabilities have helped us build deep and meaningful
+relationships with our clients and partners and distribution.
+With close to $7 billion in premium and at top 10 positions in all of our key markets, we
+believe we are the perfect size to succeed. We have the scale, talent and breadth of
+products to be impactful to our markets and partners in distribution, but with the agility
+required to execute and leverage change to our advantage in a rapidly evolving industry.
+In recent calls we've spoken to you about our transformation program to enhance
+operational effectiveness and efficiencies while leveraging increased capabilities in data,
+analytics and digital technology. We continue to make progress against plan and much of
+
+Page 2 of 24
+
+
+
+Company N ame: Axis Capital H oldings L td
+Company Ticker: AXS US Equity
+Date: 2018-10-25
+
+FINAL
+
+the heavy lifting on the organizational side has been completed. In parallel, we're also
+continuing to integrate Novae into our business and are pleased with the progress that
+we're making there.
+Of note, the Novae portfolio we acquired last year delivered a year-to-date underwriting
+profit. You also recall that we had previously advised that between our transformation
+program and the Novae integration, we were targeting $100 million in savings of our 2017
+expense levels. I am pleased to say that as of the third quarter, we've already achieved
+$68 million in annualized savings on a run rate basis.
+We're now focusing the bulk of our energy on enhancing our key capabilities and investing
+in our markets and in our future. We've launched several exciting initiatives including AXIS
+Digital Ventures, a new unit that is accelerating our InsurTech partnership efforts and a
+number of promising new projects to put better tools and data in the hands of our
+underwriters so that it can deliver improved and accelerated service to our clients and
+partners in distribution. One of them is our recent launch of a tech-enabled platform for
+accelerated underwriting of small commercial risks.
+As we approach the end of the year, we're encouraged by the momentum and pricing
+improvements that we're seeing across our business. We've never had stronger market
+positions. And our team is working very hard to make the most of upcoming renewals and
+creating new opportunities for profitable business in our chosen markets.
+
+Bloomberg Transcript
+
+And with that, I'll turn the call over to Pete, who'll go through the figures in more detail.
+Pete?
+
+Peter J. Vogt
+
+{BIO 17059745 <GO>}
+
+Thank you, Albert, and good morning, everyone. Building on Albert's earlier comments,
+this was a quarter where we saw continued improvement across several key areas in our
+business. During the quarter, we generated net income of $43 million. Our operating
+income for the quarter was strong at $81 million, generating an annualized ROE of 7.2%.
+On an ex-PGAAP basis, our operating income was $90 million generating an ex-PGAAP
+annualized operating ROE of 8%.
+The quarter benefited from improved underlying, underwriting results in our reinsurance
+segment. Both segments reported lower level of cat and weather related losses. And
+both segments continued to report favorable, prior year reserve development. In
+addition, the quarter benefited from strong investment income. These positive factors will
+partially offset by attritional property losses, net realized investment losses, and
+amortization of value of business acquired or VOBA.
+Before I get into the specifics of the income statement, I would like to provide an update
+on several items. First, we reported $92 million in cat and weather losses during the
+quarter. This was driven mostly by Hurricane Florence, which we saw primarily as an
+insurance event. Separately, our exposure to the cat activity in Asia was minimal.
+
+Page 3 of 24
+
+
+
+Company N ame: Axis Capital H oldings L td
+Company Ticker: AXS US Equity
+Date: 2018-10-25
+
+FINAL
+
+Second, with regard to the acquisition of Novae in the quarter, we recognized
+amortization of VOBA of $39 million. The expense affected the company's consolidated
+operating income, but it was not included in the segment results. Underwriting income in
+the quarter continued to include the earn-out of Novae's unearned premium as of the
+closing date without the recognition of the associated acquisition costs since the DAC
+asset was written off at closing.
+We estimate the consolidated acquisition costs on an ex-PGAAP basis would have been
+approximately $29 million higher resulting in an acquisition cost ratio of 22.7% versus the
+reported 20.3%. The net drag on operating income from the VOBA/DAC adjustments
+was $10 million pre-tax or $9 million after tax, which is approximately $0.11 per share. As
+previously disclosed, the VOBA/DAC adjustment is expected to be immaterial beyond
+mid-2019. I'll also remind you that we did add disclosure to the supplement that details
+this information for you.
+
+Bloomberg Transcript
+
+As an update to our expense initiatives, in the quarter, we generated Novae integration
+savings of $11 million and we also delivered $6 million in savings associated with our
+transformation initiatives. As Albert noted, on an annualized run rate basis of $68 million,
+you can see that we are well on our path to delivering $100 million in run rate savings by
+year-end 2020. Lastly, non-operating reorganization expenses associated with Novae
+integration and our transformation program totaled $16 million in the quarter.
+Now let's move into the details of the consolidated income statement. The current
+quarter consolidated combined ratio was 97.9%, an improvement of 55 points from the
+third quarter of 2017. As I mentioned earlier it's important to note that the quarter
+benefited from the absence of the amortization of some acquisition costs. The ex-PGAAP
+combined ratio of 100.3% is almost 53 points better than the comparable period last year.
+This improvement is largely driven by an almost 54 point decrease in the cat and weather
+related loss ratio; a reduction of over 3.5 points in the current accident year loss ratio, excat weather partially offset by an increase in the ex-PGAAP acquisition cost ratio.
+The current accident year loss ratio ex-cat weather improvement was driven by the
+addition of the Novae book, favorable rate in excess of trend, especially in the property
+and motor lines and improved experience across most classes. This was partially offset by
+elevated attritional loss experienced in property, especially in the insurance segment. The
+increase in the ex-PGAAP acquisition cost ratio of 3.6 points was primarily driven by the
+addition of the Novae book.
+We reported net favorable prior year reserve development of $46 million in the quarter,
+of which $14 million came from insurance and $32 million came from reinsurance. This
+includes a reduction in our estimate of the 2017 hurricanes, Harvey, Irma and Maria of $21
+million.
+During the quarter the consolidated G&A expense ratio of 12.7% increased by 0.4 points
+compared to the third quarter of 2017. The normalized G&A ratio this quarter would have
+been 13.1%. The year ago quarter pro forma G&A ratio, which would include Novae
+expenses was 15%. So, on a like-for-like basis, the G&A ratio is down almost 2 points. This
+
+Page 4 of 24
+
+
+
+Company N ame: Axis Capital H oldings L td
+Company Ticker: AXS US Equity
+Date: 2018-10-25
+
+decrease in the G&A ratio was driven by the expense actions, I mentioned at the
+beginning of my comments.
+
+FINAL
+
+Fee income from strategic capital partners was $18 million this quarter compared to $6
+million in the prior year. This important part of our business continues to grow well with
+year-to-date fees aggregating to almost $43 million, up from $28 million last year. We'll
+now discuss in detail the underwriting results of both insurance and reinsurance.
+Let's begin with insurance. The insurance segment reported an increase in gross
+premiums written of $318 million with all the increase coming due to the addition of
+premium from the acquisition of Novae. The legacy AXIS book was flat year-over-year,
+where we saw increases in the professional lines and liability classes offset with declines in
+the property and A&H lines.
+
+Bloomberg Transcript
+
+Insurance net premiums written increased by $195 million during the quarter. Excluding the
+impact of Novae, the net premiums written decreased by $15 million due to the increasing
+premiums ceded in liability and property lines. Reported combined ratio was slightly over
+102 points. Again, we think the best way to look at this ratio was adjusting for PGAAP. So
+adjusting for $29 million in DAC acquisition costs or 4.7 points on the acquisition ratio, the
+ex-PGAAP combined ratio would be nearly 107 points, which is an almost 62 point
+improvement over the same period last year.
+The improved combined ratio is driven by a significant decrease in cat and weather
+related losses and improvement of almost 4 points in the current accident year loss ratio
+of ex-cat and weather. This was partially offset by an increase in the ex-PGAAP acquisition
+cost ratio of slightly over 8 points. This quarter pre-tax cat and weather related losses was
+$62 million, primarily attributable to Hurricane Florence and other weather events. This
+solid performance is the result of repositioning of our portfolio – our property reinsurance
+coverage that we completed in the second quarter.
+The insurance segment's current accident year loss ratio, ex-cat and weather, improved
+by almost 4 points, driven by a mix of business largely related to the Novae book, the
+favorable impact of rate over trend and improved experience in most lines. This was
+partially offset by a higher attritional loss experience in property and to a lesser extent
+elevated aviation losses. The insurance segment's acquisition cost ratio on an ex-PGAAP
+basis was 22.9%. This increase over prior year was predominantly driven by the addition of
+the Novae book of business. The quarter's ex-PGAAP combined ratio of 106.9% compares
+to a nine-month ex-PGAAP combined ratio of 99.7%. These figures reflect elevated losses
+in property and aviation consistent with what we've seen in the industry experience.
+In looking at our international division, this is the first January 1 renewal period where we
+have the integrated AXIS Novae portfolio. When we acquired Novae, it had always been
+our plan to optimize our portfolio, which includes shrinking or exiting underperforming
+parts of our business. This process has been underway throughout the year and we
+expect to make further refinement as we head into the January 1 renewal season. This
+reflects our larger enterprise strategy to concentrate our resources in areas of our
+business where we can be a market leader and drive sustained profits.
+
+Page 5 of 24
+
+
+
+Company N ame: Axis Capital H oldings L td
+Company Ticker: AXS US Equity
+Date: 2018-10-25
+
+FINAL
+
+Moving to reinsurance, during the quarter, we saw solid results within our reinsurance
+business. The reinsurance segment reported a decrease in gross premiums written of
+$80 million in the quarter. The decrease is driven by re-instatement premiums included in
+the prior year numbers, premium adjustments in A&H, in timing and motor.
+Reinsurance net premiums written decreased by $108 million compared to the same
+period 2017. The decrease in net premiums written reflected the decrease in gross
+premiums written together with an increase in premiums ceded in A&H and liability. The
+current quarter combined ratio is 89.5%, which is an over 47 point improvement from the
+same period last year. The improvement is largely driven by a significant decrease in cat
+and weather related losses and a reduction in over three points in the current accident
+year loss ratio ex-cat weather.
+Pre-tax cat and weather related losses were $30 million, primarily attributable to Hurricane
+Florence, Typhoon Jebi and U.S. related events in the quarter. The reduction in the
+reinsurance segment's current accident year loss ratio ex-cat and weather was driven by
+rate increases, especially in property and motor, favorable changes in business mix and
+the addition of Novae book. The reinsurance segment's acquisition cost ratio is 22.5% on
+an ex-PGAAP basis. This is comparable to the prior year.
+
+Bloomberg Transcript
+
+Onto the investment returns. Net investment income of $114 million for the quarter
+increased from $95 million in the third quarter of 2017. This was due to an increase in
+income from fixed maturity securities attributable to a larger investment base from the
+acquisitions of Novae and Aviabel, and the increase in interest rates.
+Our current book yield is 2.9%. And our new money yield is 3.5%. The duration of our
+portfolio is approximately three years. The 60 basis point spread between the current
+book yield and new money rates provides an ongoing opportunity for increased
+investment income in the future as our bond portfolio continues to roll over.
+Diluted book value per share increased by 0.4 points in the quarter to $52.70, principally
+driven by operating results, partially offset by net realized and unrealized losses on
+investments, re-organization expenses and our common dividend. Again, overall it was a
+solid quarter for AXIS and one in which we saw promising results in a number of areas of
+our business.
+With that, I'll turn the call back over to Albert.
+
+Albert A. Benchimol
+
+{BIO 2023727 <GO>}
+
+Thank you, Pete. Let's spend a few minutes reviewing market trends and then we'll open
+the call for questions. The bottom line is we continue to see improved pricing in the
+marketplace. Within our insurance segment, average rate increases were comparable to
+the second quarter at close to 4%. However, we saw a positive trend throughout the
+quarter with rates increasing each month to an average of 5% in September.
+
+Page 6 of 24
+
+
+
+Company N ame: Axis Capital H oldings L td
+Company Ticker: AXS US Equity
+Date: 2018-10-25
+
+FINAL
+
+In our U.S. division, renewal rates were very modestly lower than in the second quarter by
+a few decimal points, but still in the 7% range overall. As lower rate increases in property
+at about 8% were offset by higher rate increases in excess casualty at over 12%. We need
+to see these double-digit rate increases for excess casualty as we've been very cautious
+keeping in mind the potential for inflation and higher loss trends. Separately, U.S.
+programs continue to show steady rate increases at about 4 points and our primary
+casualty rate for the quarter was up about 1 point.
+In our London based International insurance division, the average rate change for the third
+quarter was nearly 3% and here again we saw higher rates in each subsequent month of
+the quarter. Within that, property rates were positive across all classes with the largest
+rate increase observed in Global Property at 9%.
+
+Bloomberg Transcript
+
+Of note, international professional lines pricing has also picked up in the quarter with
+average rate increases of 5%. Within our North American professional lines division, price
+increases have picked up some pace although they remain relatively low at 2%. We
+continue to see more pricing on primary and less on excess. Please note that we are not
+much exposed to loss trends and primary D&O for large accounts as we substantially
+reduced our exposure to that book several years ago.
+Additional highlights included increased rate changes in Healthcare at plus 5% as well as in
+cyber and professional firms which both saw increases of 3%. Overall across our entire
+insurance segment, 86% of our business renewed at flat or better in the quarter. Turning
+to our reinsurance segment, quota share treaty is benefited from improvements in the
+underlying primary pricing, while ceding commissions were generally flat or down
+modestly.
+Excess of loss pricing has generally been rational and follows recent loss activity with the
+exception of catastrophe reinsurance where pricing is essentially set at the margin by
+growing ILS market. Hopefully, the adverse developments reported by others on the 2017
+cats and recent storm losses in the U.S. and Asia provide somewhat of a floor for cat
+pricing to head in a favorable direction at the next renewals.
+As you know, by now we share about half of our property cat business with capital
+partners. In our Europe, Middle East and Africa division, the market remains stable with
+pockets of continued improvements in line such as liability and motor. In our North
+American division, pricing was also relatively flat in non-cat lines with regional and middle
+market accounts typically performing better than large accounts. Property lines remain
+competitive, but we'll have to see how the recent storms impact the broader market
+place at upcoming renewals.
+In Asia, the market remains broadly flat from last quarter. We have seen some
+competition pull back from certain lines of business such as portions of the property,
+marine and engineering markets and we've also seen a few companies exiting Singapore
+and Hong Kong. This disciplined behavior is encouraging.
+
+Page 7 of 24
+
+
+
+Company N ame: Axis Capital H oldings L td
+Company Ticker: AXS US Equity
+Date: 2018-10-25
+
+FINAL
+
+Separately we've had some opportunities to participate in new backup covers in Japan,
+where we were happy to support our strong Japanese relationship. It'll be interesting to
+see how the next renewals reflect the higher loss activity in that market. Overall in both
+insurance and reinsurance while we may debate the adequacy of the quantum of change,
+conditions are continuing to move in the right direction. After a decade of price cuts, we
+are seeing some encouraging signs of strength and discipline within the industry.
+We support and applaud Lloyd's for their recent actions to mandate the use of electronic
+placement and reduce unprofitable underwriting. The impact of their pressure is visible in
+the many announcements of reduced capacity, market exits and even in the closure of
+syndicates. My hope is that the recent actions by Lloyd's will have some positive impact on
+pricing.
+
+Bloomberg Transcript
+
+We should also expect that the loss activity that the industry experienced in the last few
+years would be driving better pricing. But we recognize that there remains an abundance
+of capital in the marketplace. So while we're not predicting a meaningful firming on
+pricing, everything that we are seeing and hearing points to strong justification for
+continued improvement in the market.
+Within this environment at AXIS, we do not intend to be an index. We have our own views
+on risk and return, and we'll take independent actions to secure a more stable and
+profitable portfolio. Our research tells us that we've been demanding and getting price
+increases that are a bit ahead of the market. Looking forward ongoing modest pricing
+increases should make several lines more attractive to us. And where our appetite is
+warranted, we're confident of winning the business we want. On the other hand, we've
+already reduced business that did not offer adequate returns and we are resolute to shed
+more business if we do not get the right risks at the right price.
+I'm convinced that the future belongs to those companies that invest in winning
+capabilities, including underwriting expertise, new product development, claims service
+and analytics, and who have the courage to take decisive actions to ensure their ongoing
+profitability. With our transformation program and our investments in growing our
+relevance in the key markets, AXIS is already part of the lead pack. We have a talented
+team that is working hard to position AXIS to capitalize on the opportunities created by
+the changing marketplace. And if we stay true to our strategy, we will be well-positioned
+to break out ahead of the pack and create an exciting future for our clients, partners in
+distribution, employees and shareholders.
+And with that, we'll be happy to answer your questions. Brian, please start the question
+period.
+
+Q&A
+Operator
+We'll now begin the question-and-answer session. Today's first question will be from Kai
+Pan with Morgan Stanley. Please go ahead.
+Page 8 of 24
+
+
+
+Company N ame: Axis Capital H oldings L td
+Company Ticker: AXS US Equity
+Date: 2018-10-25
+
+Q - Kai Pan
+
+{BIO 18669701 <GO>}
+
+Thank you, and good morning. My first question...
+
+A - Albert A. Benchimol
+
+{BIO 2023727 <GO>}
+
+FINAL
+
+Good morning, Kai.
+
+Q - Kai Pan
+
+{BIO 18669701 <GO>}
+
+Good morning. You have make a lot of changes repositioned portfolio on the property cat
+side and reduced volatility. The results are evidenced in the third quarter results that your
+cat exposure is actually less than some of your peers. So, I'm wondering – so what's your
+normalized sort of cat loads going forward because you have done a lot of things? Is this
+first nine months your cat – cat – yeah, cat loss ratio about 4.5%? Is that sort of like a
+normal going forward or is that actually below sort of what do you think your normalized
+cat load?
+
+A - Albert A. Benchimol
+
+{BIO 2023727 <GO>}
+
+Bloomberg Transcript
+
+Well, Kai, as you know, this is a very difficult question to answer. On the one hand, we
+don't publish a cat load, but more importantly, cats by definition are very volatile. But I
+think that what I would say is that we would expect to see an ongoing continuing trend in
+our average exposure to cat as we go forward. And we've shared some of that
+information with you.
+2017 was a difficult year for us, but still compared to the prior years of 2011 and 2005 are
+the impact of the cats on our book of business, on our shareholders' equity had
+diminished across that and we would expect that we would continue to see on average
+lower. So what I would say to you is every year is different, but if you take the last three to
+five years, they're probably better than the three to five year period before that. And our
+hope is that we will continue to make progress in that direction.
+
+Q - Kai Pan
+
+{BIO 18669701 <GO>}
+
+Okay. And do you have any early indication from potential losses for Michael?
+
+A - Peter J. Vogt
+
+{BIO 17059745 <GO>}
+
+Well, Kai, this is Pete. What I would tell you is with regard to Michael, it's still very early
+days. Looking at Michael compared to Florence, one, we definitely believe it's going to be
+a bigger event. Florence is pegged in the $4 billion to $5 billion range and Michael is
+looking more to, I'll call it $8 billion to $10 billion. We're also looking that is probably being
+more of a reinsurance event, with the carriers that cover that area of Florida, most of
+those insurers buy an awful lot of reinsurance. So we expect it to be more of a reassurance event and we do expect it to be bigger than Florence. But right now, our claims
+teams are working with our clients and our cedants in doing a bottoms-up, but wouldn't
+be prudent for me to give you any sort of range at this moment.
+
+Q - Kai Pan
+
+{BIO 18669701 <GO>}
+Page 9 of 24
+
+
+
+Company N ame: Axis Capital H oldings L td
+Company Ticker: AXS US Equity
+Date: 2018-10-25
+
+That's fair. My second question is on the insurance operation. Could you quantify the, like
+the higher attrition losses from property lines in the third quarter?
+
+FINAL
+
+A - Peter J. Vogt
+
+{BIO 17059745 <GO>}
+
+Yeah. So, Kai, again this is Pete. I'll handle that for you. If you look at our property class
+from the third quarter of last year to the third quarter of this year, you can actually see
+that the loss ratio is up a bit and we believe that the loss ratio is probably got about, it's
+about 2 points high on the insurance segment, just associated from what we're seeing
+from attritional property year-over-year. In addition to that, we expected to see a 2 point
+improvement in the insurance book given all the actions we had taken with regard to
+getting rate and with regard to portfolio actions. So I guess what I'd tell you is in the
+quarter, the insurance segment's probably got a drag on it of close to 4 points or maybe
+even a little north of 4 points due to what we're seeing as basically a frequency of
+property loss issue in the quarter.
+
+Q - Kai Pan
+
+{BIO 18669701 <GO>}
+
+That's great. If I'm following on that one to say, you do talk about the potential the pricing
+above your loss trend and improving your underwriting – underlying loss ratio by 2 points.
+Albert, you talked about a 4% average rate increases. Could you expand a bit more on
+the loss cost trend side to give you a confidence that you can have the 2 points margin
+expansion?
+
+Bloomberg Transcript
+
+A - Albert A. Benchimol
+
+{BIO 2023727 <GO>}
+
+Yeah, I'm not sure we talked about the 2 point margin expansion, I think we talked
+specifically to the property.
+
+A - Peter J. Vogt
+
+{BIO 17059745 <GO>}
+
+Just to property there.
+
+A - Albert A. Benchimol
+
+{BIO 2023727 <GO>}
+
+If you look at our book of business...
+
+Q - Kai Pan
+
+{BIO 18669701 <GO>}
+
+Okay.
+
+A - Albert A. Benchimol
+
+{BIO 2023727 <GO>}
+
+If you look at our book of business all in, I would say that we've probably got a little under
+1 point of improvement coming in from rates which is better the trend, that's a little bit
+better on the reinsurance side, because we've had the impact of the Ogden rate change.
+And so that was a significant amount of rate change, but that impacted the reinsurance
+book. But on both insurance and reinsurance, when you put them all together, there's a
+little under 1 point of improvement there.
+
+Page 10 of 24
+
+
+
+Company N ame: Axis Capital H oldings L td
+Company Ticker: AXS US Equity
+Date: 2018-10-25
+
+FINAL
+
+And I would add that right now, it looks like almost every line of business is offering rate
+above trend except for marine by a little bit and some professional lines, so there the
+improvement really comes through changing mix, changing books of business, changing
+attachment points. The improvement will come, but we're not looking for the market to
+bail us out.
+
+Q - Kai Pan
+
+{BIO 18669701 <GO>}
+
+That's perfect. Thank you so much for the answers.
+
+A - Albert A. Benchimol
+
+{BIO 2023727 <GO>}
+
+Good.
+
+Operator
+Next question will be from Jay Cohen with Bank of America Merrill Lynch. Please go ahead.
+
+Q - Jay A. Cohen
+
+{BIO 1498813 <GO>}
+
+Yeah. Thank you. Just one follow-up to Kai's question and one other question. When you
+talked about Michael versus Florence, you said it's a bigger event. Was that a comment
+relative to the industry or AXIS or both?
+
+Bloomberg Transcript
+
+A - Peter J. Vogt
+
+{BIO 17059745 <GO>}
+
+Yeah. It was a comment with regard to the industry, Jay, but because it's bigger with
+regard to the industry, we do think that at least early days here, Michael will more than
+likely be a bigger event to us in the fourth quarter than Florence was in the third quarter.
+
+A - Albert A. Benchimol
+
+{BIO 2023727 <GO>}
+
+But we do caution you, it's really early.
+
+A - Peter J. Vogt
+
+{BIO 17059745 <GO>}
+
+It's really early.
+
+A - Albert A. Benchimol
+
+{BIO 2023727 <GO>}
+
+Yeah. I wouldn't want to do – I wouldn't want to project anything on this at this point in
+time. We need to leave the claims process follow its normal course.
+
+A - Peter J. Vogt
+
+{BIO 17059745 <GO>}
+
+And...
+
+Q - Jay A. Cohen
+
+{BIO 1498813 <GO>}
+
+That's very fair.
+
+Page 11 of 24
+
+
+
+Company N ame: Axis Capital H oldings L td
+Company Ticker: AXS US Equity
+Date: 2018-10-25
+
+A - Peter J. Vogt
+
+{BIO 17059745 <GO>}
+
+FINAL
+
+And to give you a follow up on that, Jay, I guess, let's say in the third quarter and the $92
+million of cats we reported, $68 million were due to Florence, $11 million were due to Jebi,
+$5 million were from the California wildfires, and then the remaining $8 million was just
+from various PCS events.
+
+Q - Jay A. Cohen
+
+{BIO 1498813 <GO>}
+
+That's good disclosure. Thank you. And then the other question, I guess for Albert. You
+talked early on about some investments you're making and you mentioned AXIS Digital
+Ventures and I'm wondering if you could speak a little bit more about that.
+
+A - Albert A. Benchimol
+
+{BIO 2023727 <GO>}
+
+Absolutely. We've said this before, I think this industry is in an arms race when it comes to
+data, analytics and technology. And there is a huge amount of start-ups and
+developments in terms of using technology to enhance every part of our business from
+the underwriting, our ability to respond quickly to our customers, the ability to add thirdparty data to the submission data so that we can make better decisions, the ability to
+enhance the claims process by using things that you've heard about like drone
+technology, geospatial mapping, you name it.
+
+Bloomberg Transcript
+
+So, there's tons of stuff that we could be using to what I call enhance the underwriting
+process and make sure that not only do we make better decisions because we give our
+underwriters better tools, but actually make faster decisions, and able to turn around and
+give our clients and our brokers the information they need.
+To do that, obviously you need to be connected to all of the developments that are
+happening in the technology world. It will come as no surprise to you that there is more
+hype than facts in that world. And in many cases what you need to do is go through a
+whole lot of proposals and then do proof-of-concept projects, small projects to validate
+whether or not there's promise in those things.
+And then once you prove them, then start to create a squad to see how you can put that
+into effect in your business. And so to do that, our AXIS Digital Ventures is really meant to
+be the point of the spear of AXIS towards the InsurTech world and make sure that we are
+in the flow of all the ideas that are coming out there.
+
+Q - Jay A. Cohen
+
+{BIO 1498813 <GO>}
+
+Got it. Interesting times.
+
+A - Albert A. Benchimol
+
+{BIO 2023727 <GO>}
+
+Yeah. Exciting times.
+
+Operator
+Today's next question will be from Brian Meredith with UBS. Please go ahead.
+Page 12 of 24
+
+
+
+Company N ame: Axis Capital H oldings L td
+Company Ticker: AXS US Equity
+Date: 2018-10-25
+
+Q - Brian Meredith
+
+{BIO 3108204 <GO>}
+
+Yes. Thanks. Albert, I'm just wondering you guys have done a great job with this expense
+saves at Novae and the transformation. Do you think there's upside to the $100 million
+here given how quickly things are coming through?
+
+FINAL
+
+A - Peter J. Vogt
+
+{BIO 17059745 <GO>}
+
+Hey Brian, this is Pete Vogt...
+
+Q - Brian Meredith
+
+{BIO 3108204 <GO>}
+
+Okay, Pete. Sure.
+
+A - Peter J. Vogt
+
+{BIO 17059745 <GO>}
+
+I'll take that question. Right now, one, I'd remind you we did already moved the Novae
+number up once...
+
+Q - Brian Meredith
+
+{BIO 3108204 <GO>}
+
+Yeah.
+
+Bloomberg Transcript
+
+A - Peter J. Vogt
+
+{BIO 17059745 <GO>}
+
+...this year, but right now, it's still early days. We have – actually have our eye on the
+expenses and we're looking at it, but we still need to make sure that we continue to
+invest in tools and data and analytics; what Albert was just talking about with regard to
+AXIS Digital Ventures. So while we think that we're trending in the right direction, we know
+we're trending in the right direction on the expenses. We're staying firm right now to our
+$100 million as we get out to 2020 and not looking to move that number right now.
+
+Q - Brian Meredith
+
+{BIO 3108204 <GO>}
+
+Great. Thank you. And then Albert, you kind of briefly kind of commented about loss cost
+trends and kind of expectations. Maybe you can kind of get a little more detail in kind of
+what you're seeing there? I know you commented on the professional lines and moreover
+in a large classes is where they are seeing it. Any other areas that you're concerned
+about?
+
+A - Albert A. Benchimol
+
+{BIO 2023727 <GO>}
+
+Concerned, no because, A, we're watching it, we're reserving it properly and we're
+pricing for it. And if we're not getting the rates we need, then we don't write it. So I
+wouldn't say concerned. We are watching a number of lines. So one that I discussed
+earlier in my prepared remarks, we've heard and we're seeing some high loss trends,
+especially in large accounts D&O.
+You've seen high activity in class actions, but you also know that we started taking serious
+corrective action in our professional liability book, probably around $13 million, $14 million
+and so we've significantly reduced our exposure to the large accounts, we've reduced our
+Page 13 of 24
+
+
+
+Company N ame: Axis Capital H oldings L td
+Company Ticker: AXS US Equity
+Date: 2018-10-25
+
+FINAL
+
+exposure to primary, we've increased attachment points. So where we are playing, we're
+comfortable with the loss the trends that we're seeing.
+We're not that exposed on the primary large account side. We've already spoken to you
+about our concern around excess casualty and you'll recall earlier in this year, I was telling
+you that notwithstanding the fact that we were seeing mid-to-high single-digit pricing
+increases on excess casualty, we were still shrinking the book because we didn't think that
+that was good enough the number. We're now seeing that number going into the doubledigits, which I think is more reasonable, and so we're pleased to see that going.
+The other area that's obviously an issue for us is and it's affected our results is the
+increased frequency around aviation and property. And that clearly needs more work to
+make sure that we're not only are we getting the right pricing, but then we're also
+adjusting our risk appetite and our portfolio construction to make sure that we get ahead
+of that.
+
+Q - Brian Meredith
+
+{BIO 3108204 <GO>}
+
+Got you, make sense. And then I'm just curious, on the Ogden, was there any benefit on
+the year-over-year basis just in the attritional or loss ratios?
+
+A - Albert A. Benchimol
+
+{BIO 2023727 <GO>}
+
+Bloomberg Transcript
+
+There was Brian as we're now starting to earn through the rate increases that we got on
+Ogden.
+
+Q - Brian Meredith
+
+{BIO 3108204 <GO>}
+
+Right.
+
+A - Albert A. Benchimol
+
+{BIO 2023727 <GO>}
+
+And it was specifically in the motor book. Off the top of my head, I don't recall what that
+number is. I can get that for you if you'd like. But it was pretty small in the quarter just as
+it's continuing to earn in. We did get some rate last year in the first half of 2017. So there
+was some rate already coming into the third quarter of 2018.
+
+A - Peter J. Vogt
+
+{BIO 17059745 <GO>}
+
+And there's a few points of improvement...
+
+A - Albert A. Benchimol
+
+{BIO 2023727 <GO>}
+
+Yeah.
+
+A - Peter J. Vogt
+
+{BIO 17059745 <GO>}
+
+...in the loss ratio for excess motor as a result of that, but we expected that. Right. I
+mean...
+
+Page 14 of 24
+
+
+
+Company N ame: Axis Capital H oldings L td
+Company Ticker: AXS US Equity
+Date: 2018-10-25
+
+Q - Brian Meredith
+
+{BIO 3108204 <GO>}
+
+Yes.
+
+FINAL
+
+A - Peter J. Vogt
+
+{BIO 17059745 <GO>}
+
+...that was required because the rates changed after the bulk of the 1/1 renewal in the
+prior year. So we had that drag for all of 2017, which obviously we're seeing disappearing
+as we're getting through 2018.
+
+Q - Brian Meredith
+
+{BIO 3108204 <GO>}
+
+Right. Right. Right. What's your outlook for what's going to happen with Ogden rate?
+
+A - Peter J. Vogt
+
+{BIO 17059745 <GO>}
+
+My guess is that it's going to go up from 0.75%, but it can go to zero, it can go to 0.5%.
+We don't have any, as you know, rates in Europe are much lower than they are in the U.S.
+So, we don't hold any, any expectation that it's going to be a big number. But for the
+moment, we continue to reserve it at minus 0.75%. We know that it's a prudent number,
+but that's how we approach it.
+
+Q - Brian Meredith
+
+{BIO 3108204 <GO>}
+
+Great. Thank you.
+
+Bloomberg Transcript
+
+Operator
+Today's next question will be from Elyse Greenspan with Wells Fargo. Please go ahead.
+
+Q - Elyse B. Greenspan
+
+{BIO 17263315 <GO>}
+
+Hi. Good morning. My first question, Albert, in your prepared remarks when you were
+discussing the reinsurance market you were alluding to some of the recent storms and
+adverse development that we've seen from others is now potentially leading to a floor
+with cat pricing.
+So, I guess, this year's losses were much lower than last year's losses and it does seem
+like they're -obviously there's still a lot of capacity in the market. So what gives you
+comfort, I guess, it will be at a floor? And do you have an initial view on what we might see
+at the upcoming January 1, 2019 renewal season?
+
+A - Albert A. Benchimol
+
+{BIO 2023727 <GO>}
+
+So, let me first answer the factual question. It's an interesting coincidence that there's
+been several $100 million of adverse development that came up soon after the June 1
+renewals. So, those were not reflected in the June 1 renewals. You've also seen significant
+NAV reduction coming in the number of ILS funds. My view is that those kinds of
+developments don't make people eager to reduce pricing even further.
+
+Page 15 of 24
+
+
+
+Company N ame: Axis Capital H oldings L td
+Company Ticker: AXS US Equity
+Date: 2018-10-25
+
+FINAL
+
+So, again I'm very conscious of the capacity that there is out there, but I also don't see a
+lot of reasons for significant price cuts. Now, there's one thing that I've learned in my
+years in the business. It's, you're more likely to be wrong making predictions about the
+next renewal. So I'm cautious. I don't expect a lot of change up or down. I'd like to believe
+that it will be flattish maybe a little bit up, but whether you're plus 2% or minus 2%, I mean
+that's close enough for horseshoes.
+I don't expect major price movement either way, but I'd – it would really, I would find it
+hurtful to see more pricing declines given the adverse development that we've seen in
+this market.
+
+Q - Elyse B. Greenspan
+
+{BIO 17263315 <GO>}
+
+Okay. And then in terms of expenses you said in the prepared remarks, G&A normalized
+was about 13.1%. Is that the right runway for modeling purposes? And then could you give
+us a sense of how much of that $68 million of annualized savings to date is falling to the
+bottom line?
+
+Bloomberg Transcript
+
+A - Peter J. Vogt
+
+{BIO 17059745 <GO>}
+
+Yeah, Elyse, this is Pete. Right now, that $17 million in the quarter did fall to the bottom line,
+so that was impactful on our G&A ratio. When I looked at normalized at $13.1 million in the
+quarter, it's been coming down through the course of the year. We will continue to drive
+our expenses on a go forward basis, but I think this quarter was an exceptionally good
+quarter for us on an expenses basis and well, I don't want to project for your models I
+would just say looking at where we are at year-to-date and then coming down from there
+would be more appropriate way to look at it.
+
+A - Albert A. Benchimol
+
+{BIO 2023727 <GO>}
+
+And one comment on your question. When we gave the $100 million target Elyse, that
+was net of, of additional investments elsewhere, so – and perhaps this is a follow on to
+Brian. We fully intend that our gross savings are in excess of a $100 million. But we do
+intend to invest some of those savings, so when we're announcing the $68 million, those
+are net savings.
+
+Q - Elyse B. Greenspan
+
+{BIO 17263315 <GO>}
+
+Okay, great. And then, you guys pointed a couple of times spoke about the non-cat
+weather and the impact on your insurance book in the quarter. We did see an impact last
+quarter as well. So is it that you guys are looking to take more price to kind of account for
+this being a new normal of elevated losses or do you expect the level of losses
+normalized to more historical levels? And can we just get a little bit of color? Is this to – in
+the U.S. and internationally, is this like fire or water losses? What's really driving this kind of
+elevated non-cat losses that you guys saw in the past couple of quarters?
+
+A - Albert A. Benchimol
+
+{BIO 2023727 <GO>}
+
+I think, Elyse, it's an excellent question. And in fact, I think if you look at it, I would argue
+that the last couple of years have been seeing higher than normal attritional losses in
+Page 16 of 24
+
+
+
+Company N ame: Axis Capital H oldings L td
+Company Ticker: AXS US Equity
+Date: 2018-10-25
+
+FINAL
+
+property and frankly, we're seeing it a lot in the U.S., but we're also seeing it elsewhere in
+the world. And it's not just kind of property, property, it's all property related lines. There's
+energy on shore lines, there's some marine business. So when we talk, call it the property
+losses, we're talking to the general class.
+And I think that's – back to the question that I answered earlier, this is one of the areas
+where we're putting extra attention because it's not just one spike quarter. The industry
+has seen additional activity over the last several quarters and I think it requires both a
+combination of improved pricing and a fresh look at the way we're approaching property
+and the kind of risk that we're prepared to write and on what terms.
+
+Q - Elyse B. Greenspan
+
+{BIO 17263315 <GO>}
+
+Okay, great. That's helpful. And last question on investment income, you guys spoke kind
+of bullish with the new money rates versus the yield in your current portfolio. Should we
+kind of consider modeling, expecting growth on a sequential basis in the fourth quarter
+and then continuing when we get into 2019? There was nothing kind of one-off in the
+numbers in the quarter, correct?
+
+A - Peter J. Vogt
+
+{BIO 17059745 <GO>}
+
+That's correct, Elyse. So I'd say there's nothing one-off in the quarter. So you know we are
+feeling good about where the new money rate is and the duration of our portfolio, and
+we believe that does provide upside opportunity in the future.
+
+Bloomberg Transcript
+
+Q - Elyse B. Greenspan
+
+{BIO 17263315 <GO>}
+
+Okay. Thank you very much. I appreciate the color.
+
+A - Peter J. Vogt
+
+{BIO 17059745 <GO>}
+
+You're welcome.
+
+Operator
+Today's next question will be from Yaron Kinar with Goldman Sachs. Please go ahead.
+
+Q - Yaron Kinar
+
+{BIO 17146197 <GO>}
+
+Good morning, and thanks for taking my questions. I guess, first question is around the
+insurance accident year loss ratio. So if you look at the sequential move, it's roughly about
+250 basis points of deterioration. I think you called out roughly 4 points of non-cat
+weather, this quarter 3 points to 4 points, last quarter. So maybe you can talk a little more
+about what else is driving that sequential change? I think in the prepared remarks you
+talked about aviation, which is I think a relatively small component of your overall insurance
+book. So any additional color on what may be driving that sequential change would be
+helpful?
+
+A - Peter J. Vogt
+
+{BIO 17059745 <GO>}
+Page 17 of 24
+
+
+
+Company N ame: Axis Capital H oldings L td
+Company Ticker: AXS US Equity
+Date: 2018-10-25
+
+FINAL
+
+I guess what I'd say is in the prepared remarks when I noted aviation that was really – this
+is Pete Vogt – the year-over-year comparison to aviation. Actually sequentially from
+second quarter to three quarter, aviation got better. Still not where we want it to be
+elevated losses and as you know a smaller portion of our book.
+With regard to the property, I think it's the same commentary that Albert has talked about
+and that now we've discussed is, we're seeing elevated losses across most of our
+property classes are coming from a variety of factors. And we are – it's sort of would be
+the same issues that we would have seen in the second quarter that we've seen over the
+last few quarters. It's just a little bit higher in this quarter than you saw in the second
+quarter.
+
+Q - Yaron Kinar
+
+{BIO 17146197 <GO>}
+
+So I guess I'm still a little confused because I thought you called out kind of 3 points to 4
+points of non-cat weather related issues in 2Q, about four just north of 4 points in 3Q. So
+on top of that non-cat weather you have additional roughly 250 basis points or 200 basis
+points of deterioration property, is that's the way to think about it?
+
+A - Peter J. Vogt
+
+{BIO 17059745 <GO>}
+
+I haven't looked at it quarter-to-quarter sequentially.
+
+Q - Yaron Kinar
+
+{BIO 17146197 <GO>}
+
+Bloomberg Transcript
+
+Okay.
+
+A - Peter J. Vogt
+
+{BIO 17059745 <GO>}
+
+So we can get back to you on the details of actually modeling that up, but I do know
+property did get somewhat worse from the second quarter to the third quarter. So that
+did happen. I don't have the exact numbers in front of me. We'll get back to you.
+
+Q - Yaron Kinar
+
+{BIO 17146197 <GO>}
+
+Okay, I'll follow up offline. And then on Jebi, I see you have about $10 million of losses
+there compared to a 1-in-50 PML of just over $50 million. So is it fair to think about Jebi as
+a kind of one in 10-year event at the most?
+
+A - Peter J. Vogt
+
+{BIO 17059745 <GO>}
+
+Yeah, I think you can look at it as about a one in 10-year event for us. I mean, what we
+would say is that we really aren't very heavily concentrated in Asia and so it would be
+more of a one in 10 event.
+
+A - Albert A. Benchimol
+
+{BIO 2023727 <GO>}
+
+Yeah, if you look at our charts you can tell that we've got more exposure on Japanese
+quakes than we have on Japanese winds. Historically Japanese wind was less attractive to
+us than Japanese quake. And so that's just one part of the market where we have a
+smaller market share.
+Page 18 of 24
+
+
+
+Company N ame: Axis Capital H oldings L td
+Company Ticker: AXS US Equity
+Date: 2018-10-25
+
+Q - Yaron Kinar
+
+{BIO 17146197 <GO>}
+
+FINAL
+
+Okay. And then final question maybe more of a clarification point in professional lines, you
+talked about loss trends still being in excess of pricing and yet you're growing into the
+new – you're growing professional lines through new business. So I just want to be clear
+here, the loss trends you were talking about in excess of pricing that's for the overall
+market and yet you're seeing opportunities in ex-primary large accounts that are – where
+pricing is better than loss trends, is that a fair way of thinking about it?
+
+A - Albert A. Benchimol
+
+{BIO 2023727 <GO>}
+
+Thanks, Yaron. I appreciate you're asking for the clarification. If you look at our
+professional liability book, the bulk of the growth is actually coming from cyber.
+
+Q - Yaron Kinar
+
+{BIO 17146197 <GO>}
+
+Okay.
+
+A - Albert A. Benchimol
+
+{BIO 2023727 <GO>}
+
+Bloomberg Transcript
+
+And if you look at some of the other lines, frankly, there's – it's pretty stable and in some
+cases, it's down. So the bulk of the increase that you're going to see for us is cyber, which
+we find to be a very interesting line, just to give you a plug on cyber, I think it's a line of
+business which is going to be very important for our industry going forward and we're
+establishing leadership early on and we think that's going to be good for us going
+forward.
+
+Q - Yaron Kinar
+
+{BIO 17146197 <GO>}
+
+Got it. Thank you very much.
+
+Operator
+Next question will be from Amit Kumar with Buckingham Research. Please go ahead.
+
+Q - Amit Kumar
+
+{BIO 15025799 <GO>}
+
+Thanks, and good morning. Just a few follow-ups. So the first question goes back to the
+discussion on the Japanese PMLs. And I think you alluded to looking at the pricing and
+then sort of thinking about the exposure. Is there like an upper limit in terms of how we
+can think about what your PMLs could look like even if pricing goes up materially or how
+should we think about any changes in your Japanese exposure down the road?
+
+A - Albert A. Benchimol
+
+{BIO 2023727 <GO>}
+
+I think that certainly, we would have appetite for more growth in Japan. I think if you look
+at where we are in terms of the composition adding Japanese growth would probably
+improve the diversification and the balance in the portfolio. So from a portfolio
+construction perspective, we have some appetite as long as it's in the right price, but I
+think we also have to be realistic.
+
+Page 19 of 24
+
+
+
+Company N ame: Axis Capital H oldings L td
+Company Ticker: AXS US Equity
+Date: 2018-10-25
+
+FINAL
+
+The Japanese clients are wonderful clients, they're loyal clients and they don't turn over
+their panel willy-nilly every renewal, you have to work hard for every time you have an
+opportunity to grow. So I think our appetite to grow would be there, if terms improve, but
+we also have to be realistic as to how much potential growth there is given the behavior
+of Japanese clients.
+
+Q - Amit Kumar
+
+{BIO 15025799 <GO>}
+
+Fair enough. The other question I had was if you look at where the stock is trading at and
+obviously there's a lot of market volatility and gyrations, have you sort of revisited or
+rethought the discussion on buyback going forward in terms of the price to book multiple?
+
+A - Albert A. Benchimol
+
+{BIO 2023727 <GO>}
+
+So there are – there are two ways of – there's two comments in your question. So the first,
+I'm happy to agree with you that the price is low, so you can do something about that. But
+with regards to the repurchases, as we told you, the best time to do this is when we
+finalize the plan, do the 1/1 renewals and we'll be happy to update our intentions on that
+soon after the 1/1 renewals.
+
+Q - Amit Kumar
+
+{BIO 15025799 <GO>}
+
+Bloomberg Transcript
+
+Got it. And final question, I think it was maybe Kai's question on or maybe Yaron's
+question on the non-cat weather volatility. And again this has been in sort of a broader
+discussion topic. Is there something which can be done or you might be doing differently
+to address this non-cat volatilities, so that I guess the true earnings power can emerge?
+
+A - Albert A. Benchimol
+
+{BIO 2023727 <GO>}
+
+I'm sure that's a question that is going through every single property underwriter and
+executive in the industry right now because this is not an issue which is particular to AXIS. I
+think what we're seeing is just as Peter mentioned earlier and we are looking at every one
+of our property divisions higher frequency and certainly what we're hearing from others is
+the same. And frankly, we're seeing that too in our reinsurance.
+So we see what our clients are saying. I mean, short of not writing the business at all, I
+think that you have to expose yourself. But I think if you see what we've done is we've
+actually reduced our business in property. You'll recall that a little over a year ago, we
+exited the large account property business in the U.S. and we did that because we felt
+that there was a lot of volatility in the large account business, you had to put up big limits. I
+mean you weren't getting pricing. So we got out of that.
+We earlier at the end of last year beginning of this year, we announced our desire to get
+out of onshore energy, again, because we felt that the losses weren't there. So I believe
+that we are taking the right decisions with regard to markets that we believe are not likely
+to move in the near future, and in the market that we believe are close to getting to the
+right point of pricing. What we're trying to do is we're trying to modulate a foot on the
+price pedal and a foot on the appetite and construction pedal.
+
+Page 20 of 24
+
+
+
+Company N ame: Axis Capital H oldings L td
+Company Ticker: AXS US Equity
+Date: 2018-10-25
+
+So I'm not sure that there is a silver bullet. I assure you if there were one, we would have
+fired it a long time ago, but we're working through it right now. And my expectation is that
+as you see our book emerge over 2019, it will be a modestly different book than we have
+currently as we continue to execute on some changes in our portfolio appetite.
+
+FINAL
+
+Q - Amit Kumar
+
+{BIO 15025799 <GO>}
+
+Yeah. That's a good answer. I'll stop here. Thanks for the answers.
+
+A - Albert A. Benchimol
+
+{BIO 2023727 <GO>}
+
+Thank you.
+
+Operator
+Next question will be from Josh Shanker with Deutsche Bank. Please go ahead.
+
+Q - Josh D. Shanker
+
+{BIO 5292022 <GO>}
+
+Yeah. Thank you very much. Just curious, if maybe it's possible to do a post-mortem on
+Novae. The premium there ultimately did you renew more of it or less of it I think you
+thought you would with the competition for that business more aggressive or less
+aggressive than AXIS proper and, and how does the pricing you've gotten for those
+pieces differ from what you're talking about broadly from the former AXIS book?
+
+Bloomberg Transcript
+
+A - Albert A. Benchimol
+
+{BIO 2023727 <GO>}
+
+That's an excellent question Josh. Thank you for asking. So I think what I would say with
+regards to the book of business and now we've been in that company for over a year is
+we've had absolutely no surprises. And I think that's always a good thing in an M&A
+environment.
+The second thing I will tell you is that we have not yet shed all of the business that we
+were planning on shedding on Novae. So when we look at the book business we had a
+sense of what we were getting, but you'll recall Josh that we took formal control of the
+company only in October of last year, and that frankly limited some of the actions that we
+could take in terms of the book of business that renewed at 1/1.
+And so there were actions that we've taken subsequent to 1/1, but there are other books
+of business where our next opportunity is at 1/1 and so there is more action that we've
+been planning to take that we will take at 1/1. So that I think should help you there.
+I think with regards to the book of business per se, see it's in the Lloyd's market, the way
+the rest the same as the rest of our Lloyd's markets there isn't substantial difference
+because in many cases we're competing for similar type business. What I will say is that
+where this company has strong leadership positions and I look at lines of business like
+marine liability, political and credit risk, cyber, that leadership combined to ours has really
+made for a very powerful presence in the market. I'm really pleased with that.
+
+Page 21 of 24
+
+
+
+Company N ame: Axis Capital H oldings L td
+Company Ticker: AXS US Equity
+Date: 2018-10-25
+
+And again, I'm quite aware of the things that were said when we acquired Novae last year,
+but let's not deny that that book of business is delivering an underwriting profit year-todate and we're very proud of that accomplishment, and we're ahead, as Pete said, on the
+synergies. So it's been a very good acquisition so far.
+
+FINAL
+
+Q - Josh D. Shanker
+
+{BIO 5292022 <GO>}
+
+And given sort of this experience, can you talk about your appetite for pursuing name not
+M&A per se, but large tracts of other books that you can improve the profitability of ?
+
+A - Albert A. Benchimol
+
+{BIO 2023727 <GO>}
+
+The truth is that right now our appetite is low. Never say never; I mean it's something
+were to be really perfect. We would do it, but we also have to recognize that acquisitions
+can be – certain acquisitions can be very distracting. One of the appealing factors with
+Novae is that it was very focused on the one market where we wanted more scale, and
+we were able to do that in a way that it not overly disturbed the rest of the operation.
+Josh, we are so excited about the things that we are doing right now in our company that
+I'm not sure that we would want the distraction of a large acquisition.
+
+Q - Josh D. Shanker
+
+{BIO 5292022 <GO>}
+
+Okay. Well, thank you for all the answers and good luck with the year-end.
+
+A - Albert A. Benchimol
+
+{BIO 2023727 <GO>}
+
+Bloomberg Transcript
+
+Thank you.
+
+Operator
+And today's next question will be from (sic) Meyer Shields with KBW. Please go ahead.
+
+Q - Meyer Shields
+
+{BIO 4281064 <GO>}
+
+Great, thanks. So Albert continuing on that, can you talk about your expectations for, I
+guess, one whether Lloyd's will be able to materially reduce its overall expense loads and
+second of all whether the marketplace can then keep that incremental margin?
+
+A - Albert A. Benchimol
+
+{BIO 2023727 <GO>}
+
+Let's be honest, I don't think Lloyd's has a choice. I think Lloyd's know it. I'm very excited
+by the conversations that I'm having with the leadership at Lloyd's. I think they're
+approaching it the right way. We have no choice at Lloyd's, but to reduce our costs and to
+bring Lloyd's back to its core value add, which is not to provide capacity for binders and
+MGAs, but to be the champion and the world capital for innovation and specialty risks.
+And I think a smaller than a more profitable Lloyd's is more attractive to me than a Lloyd's
+that just provides capacity at a cheap rate. And I have to tell you I'm not the only one who
+feels that way, and I am confident that Lloyd's is going to work in that direction. And you
+can rest assured that our voice at Lloyd's will be pushing in that direction.
+Page 22 of 24
+
+
+
+Company N ame: Axis Capital H oldings L td
+Company Ticker: AXS US Equity
+Date: 2018-10-25
+
+Q - Meyer Shields
+
+{BIO 4281064 <GO>}
+
+Okay. And I guess implicit in that is the expectation that if there is incremental margin,
+then (00:59:54).
+
+FINAL
+
+A - Albert A. Benchimol
+
+{BIO 2023727 <GO>}
+
+Yeah. The things we've been discussing about it is, I can't imagine a lot of executives in
+other markets just lining up to say I'm really looking forward for a more of the business
+that's so bad that Lloyd's doesn't want to write. I think, at some point, there's got to be
+some rationality in the market. And there may be one or two markets that view this as an
+opportunity to grow, but my view is that this market needs leadership. I think Lloyd's is
+providing that leadership. And my hope certainly is that a lot of people will follow through.
+And by the way we talked about one of the fears that some of these businesses could be
+written in remote markets, but we've seen a number of companies literally get out of
+Singapore. We've seen a stalling of the growth of Middle Eastern markets. We've seen
+companies get out of Hong Kong. We see in the U.S. some of the strongest pricing that
+we're seeing elsewhere. So, from my perspective, I don't see other than potentially in the
+ILS market, I don't see any appetite for deteriorating results.
+
+Q - Meyer Shields
+
+{BIO 4281064 <GO>}
+
+Bloomberg Transcript
+
+Okay, no, that's fantastic. And then one quick numbers question, I guess Pete, can you
+quantify reinstatement premiums I guess both outward in insurance and inward in
+reinsurance for the third quarter?
+
+A - Peter J. Vogt
+
+{BIO 17059745 <GO>}
+
+Well on the reinsurance side, Meyer, it was $33 million last year and I think it was pretty – I
+don't think it was any this quarter. So that was a big driver of the year-over-year change in
+the reinsurance GWP.
+
+Q - Meyer Shields
+
+{BIO 4281064 <GO>}
+
+Okay.
+
+A - Peter J. Vogt
+
+{BIO 17059745 <GO>}
+
+And...
+
+Q - Meyer Shields
+
+{BIO 4281064 <GO>}
+
+No – go ahead, I'm sorry.
+
+A - Peter J. Vogt
+
+{BIO 17059745 <GO>}
+
+Yeah, it was pretty – and there was really no reinsurance statement premiums on the
+insurance side either this quarter.
+
+Q - Meyer Shields
+
+{BIO 4281064 <GO>}
+Page 23 of 24
+
+
+
+Company N ame: Axis Capital H oldings L td
+Company Ticker: AXS US Equity
+Date: 2018-10-25
+
+Okay. Perfect. Thanks so much.
+
+Operator
+
+FINAL
+
+At this time, this will conclude today's question-and-answer session. I'd like to turn the
+conference back over to management for any closing remarks.
+
+A - Albert A. Benchimol
+
+{BIO 2023727 <GO>}
+
+Thank you, Brian. And to all of you, thank you for your time and interest this morning. As I
+said at the beginning of today's call, this has been a quarter, we've continued to see
+positive momentum in our business. Our transformation program, the integration of
+Novae into our business and our efforts to grow market leaderships have generated real
+traction.
+And if you don't at all mind, I'd like to take a moment to express my appreciation to all the
+members of our team for their continued commitment and hard work. Your actions have
+helped put AXIS on a very strong fast-forward and together, we're owning our future. And
+so to everyone, we look forward to updating you on continuing progress and
+achievement in future calls. Thank you for your engagement and goodbye.
+
+Operator
+
+Bloomberg Transcript
+
+The conference is now concluded. We want to thank you for attending today's
+presentation. And at this time, you may now disconnect.
+
+This transcript may not be 100 percent accurate and may contain misspellings and other
+inaccuracies. This transcript is provided "as is", without express or implied warranties of
+any kind. Bloomberg retains all rights to this transcript and provides it solely for your
+personal, non-commercial use. Bloomberg, its suppliers and third-party agents shall
+have no liability for errors in this transcript or for lost profits, losses, or direct, indirect,
+incidental, consequential, special or punitive damages in connection with the
+furnishing, performance or use of such transcript. Neither the information nor any
+opinion expressed in this transcript constitutes a solicitation of the purchase or sale of
+securities or commodities. Any opinion expressed in the transcript does not necessarily
+reflect the views of Bloomberg LP. © COPYRIGHT 2022, BLOOMBERG LP. All rights
+reserved. Any reproduction, redistribution or retransmission is expressly prohibited.
+
+Page 24 of 24
+
+

@@ -1,0 +1,2406 @@
+Company Name: Allianz SE
+Company Ticker: ALV GR Equity
+Date: 2015-02-26
+
+FY 2014 Earnings Call
+Company Participants
+FINAL
+
+Dieter Wemmer, CFO
+Maximilian Zimmerer, CIO
+Michael Diekmann, CEO
+Oliver Schmidt, Head of IR
+Unidentiﬁed Speaker, Unknown
+
+Other Participants
+Andrew Ritchie, Analyst
+Andy Broadﬁeld, Analyst
+Farooq Hanif, Analyst
+Frank Kopﬁnger, Analyst
+James Shuck, Analyst
+Jon Hocking, Analyst
+Michael Huttner, Analyst
+Nick Holmes, Analyst
+
+Bloomberg Transcript
+
+Paul De'ath, Analyst
+Thomas Seidl, Analyst
+William Hawkins, Analyst
+
+Presentation
+Operator
+Good day, ladies and gentlemen. Welcome to the Allianz conference call on the ﬁnancial
+results for 2014.
+For your information, this conference is being recorded. At this time, I'd like to turn the
+conference over to your host today, Mr. Oliver Schmidt, Head of Investor Relations. Please
+go ahead, sir.
+
+Oliver Schmidt
+
+{BIO 2473131 <GO>}
+
+Thank you, Suzette. Yes. Good afternoon from my side, as well. Welcome to our
+conference call about the results of ﬁscal 2014. We will follow the same procedure as last
+year. Dieter will kick it oﬀ with the key numbers. Then Max will talk about our investments.
+And, last but not least, Michael will wrap it up and comment on the outlook 2015.
+
+Page 1 of 39
+
+
+
+Company Name: Allianz SE
+Company Ticker: ALV GR Equity
+Date: 2015-02-26
+
+We have scheduled two hours for the call. In case that is not suﬃcient to cover your
+questions, please come and meet us at our analyst meetings next. We will hold one in
+Frankfurt, one in London. And one in Paris.
+
+FINAL
+
+That's all from my side so far. And with that, I hand over to Dieter.
+
+Dieter Wemmer
+
+{BIO 4755450 <GO>}
+
+Okay. So. Good morning, all the callers from the States. Good afternoon for the European
+callers. Let me start with the ﬁnancial highlights. So on page three of the presentation.
+Q4 numbers, revenues up 12%. So we kept our double-digit internal growth rate. Group
+operating proﬁt shown of EUR2.3 billion. We had a number of additional smaller one-oﬀs
+we faced as headwinds in the Fourth Quarter. We booked an operating loss for Brazil of
+EUR150 million, Russia $40 million. We had a new regulatory ﬁne in France for very old
+cases from the time where we still did not own the Company. And we booked additional
+premium deﬁciency reserves in Korea. But also we had a positive one-oﬀ in the corporate
+segment. So all in all, it's about EUR200 million that I would consider as one-oﬀs in the
+Q4.
+
+Bloomberg Transcript
+
+That leads -- that, then, leads to a 96.5 combined ratio in the Fourth Quarter, where our
+Life and Health business continues to grow rather strongly, new business margin doing
+well. And I will go into more detail of the asset management business, as usually, later in
+the presentation.
+When we go to page ﬁve and look at total results, EUR10.4 billion, just short of the
+maximum outlook point of EUR10.5 billion. P&C slightly up, Life and Health had, again, a
+great year. And Asset Management following the outlook. And the non-repetition of the
+one-oﬀ performance fees down. And Corporate segment slightly up.
+When we got to the overall shareholders' equity development on page 7, shareholders'
+equity a record high, short of EUR61 billion, driven by retained earnings, increase in
+unrealized gains, also for the beneﬁt of the shareholder. Max will tell you how the gross
+unrealized gains developed in total. And our year-end number includes EUR1.6 billion, net
+of taxes, additional pension liabilities for our own pensions, which -- where we reduced
+the discount rate from 3.5% to 2%.
+Conglomerate solvency, which is still only mattering the revenues, has stayed fairly ﬂat
+over the year. The Solvency II capitalization stayed, also, almost ﬂat over the year. Actually,
+when you include that we have now in the year-end '14 number a higher dividend
+included than in the year before, which makes 2percentage points and slightly lower
+leverage, actually, the number looks almost ﬂat over the year, although it was a year with
+many volatilities built in.
+Let me start, ﬁrst, with the external market movement. The 10-year point of the US swap
+curve end of 2013 was 200 basis points. That swapped to 80 basis points a year later. So,
+a drop of 60% in one year. Parallel, the volatility in the ﬁxed income doubled. So, actually
+Page 2 of 39
+
+
+
+Company Name: Allianz SE
+Company Ticker: ALV GR Equity
+Date: 2015-02-26
+
+it was a year which really did stress the whole system calculation. And also, the riskbearing capability.
+
+FINAL
+
+But we managed this parallel with actually increasing our risk taking substantially. When
+you will look at Max's ﬁgures, you will see that our investment portfolio is more than
+EUR700 million up. So, a total exchange that is cognizant of our great growth eﬀorts in the
+life business. So we are taking quite a lot of additional risk on board.
+But there are also many model changes, as we are not disclosing to you a stable internal
+economic model. We are, as we said in the previous quarter, moving gradually forward to
+the Solvency II model, which we are going to ﬁle in the Second Quarter this year.
+So we have already used the appropriate discount rate in the calculation, which makes at
+year end the 80 basis points I mentioned, minus 10 basis points credit shift, plus 13 basis
+points volatility adjuster. So some 83 basis points for the 10-year euro point.
+
+Bloomberg Transcript
+
+So we have seen not only the parallel shift I have mentioned, actually the yield curve over
+the year ﬂattened. And in particular in Q4. And the doubling of the VOLA is also very
+much a Q4 event. So when you just look at the number between end of September to
+end of December, you can say ﬂattening yield curve about 7 points, parallel shift 8 points,
+doubling VOLA 9 points.
+And we changed in the Fourth Quarter and moved to US equivalents. I told you in the
+past that we were agnostic to this, because the number was pretty much the same,
+whether we used equivalents or internal models. However, at a 2% interest rate for the 10year Treasury in the US, there is a beneﬁt for you, as shareholders. And, hence, for us to
+do it. And also it makes our numbers, I think, more comparable to the peers who have US
+subsidiaries, because we were the only one staying away from it. In fact, we are also the
+only one who has. So far, a charge for government bonds into the calculation, I think we
+should, maybe, start limiting the diﬀerences, also, to our peers a little bit.
+So let's move to the more exciting ﬁgures, that is actually the growth in the P&C sector.
+Fourth quarter added a 10% growth, which is, I think, for many quarters the ﬁrst time that
+we would have double-digit growth in P&C. And the growth is actually carried by quite a
+number of entities, starting with the UK, which continues with great numbers. But also
+AGCS had a very strong year-end performance.
+In total, we grew in the year 3% ﬂat, that's a ﬂat number over the 12 months. That is our
+mid-term strategic target to achieve this. But so far, we missed it always a little bit.
+Actually, that number includes, even, that we are shrinking in Russia substantially, as we
+explained that we have a negative premium development in Brazil. And also in the US.
+When I take the three out, 4.5% is the growth rate for all our Anglo markets and other core
+markets, which is a fantastic number.
+It's all -- overall, with all the pluses and minuses, very much volume-driven. So therefore,
+we could also add 2 million customers over the year. The price eﬀects across all markets
+leveling out.
+Page 3 of 39
+
+
+
+Company Name: Allianz SE
+Company Ticker: ALV GR Equity
+Date: 2015-02-26
+
+FINAL
+
+When you move now to the operating proﬁt of the entity, over the whole year 94.3%
+absolutely ﬂat underwriting margin. So we still see that underwriting added EUR80 million
+to the proﬁt line additionally. That is equivalent to a net earned premium of 4.1%. And that
+is the driver of our additional underwriting proﬁt.
+While you could say, at a ﬁrst glance, you had a 2percentage point better capacity ratio.
+So, where is the money? I think the cat ratio and better related events was maybe
+1percentage point better. We had a lot of mid-size events over the year. But also in the
+Fourth Quarter.
+Still, our accident-year loss ratio worsened. And, actually, when you do just the attritional
+accident-year loss ratio comparison, it is 1.2% oﬀ. We had over the year. But in particular in
+Q4, some more large losses. So that makes the 0.3% and 0.9% for the other weatherrelated events I mentioned already.
+So the one-oﬀ ratio is slightly lower than last year. The positive developments of the
+majority of the countries unchanged to last year. But in 2014 we had to strengthen
+reserves in Brazil, Russia. And the US. US was already at the half-year number. So,
+therefore, when I look just at the countries with positive runoﬀ it is, more or less, at the
+same level as the year before.
+
+Bloomberg Transcript
+
+Expense ratio pretty much ﬂat. We had additional one-oﬀ costs from the Unipol
+transaction. And we had also additional expense loads from the write-down of premiums
+in Brazil in Q4.
+So moving to our operational proﬁts slide for the P&C business. And also the individual
+combined ratios of the major OEs, well, obviously, Germany doubling operating proﬁt,
+other markets holding up very well. And AGCS is not a big plus. And the negative
+numbers I have already mentioned and I will explain in more detail on the next page,
+where we show the portfolio overview.
+I think, still, the majority of our units, two-thirds of the gross written premium below 95%.
+And 27% in the category just above 95% with stronger growth. And 9% of the portfolio are
+the ones above 100 where Fireman's Fund had 120%, Russia 140%, Brazil 125% for the
+whole year.
+I think you know the action items. Fireman's Fund has been -- the personal lines business
+has been sold to ACE, where the transaction is expected to close April 1. The commercial
+business if around $1.5 billion of premium going to be integrated with AGCS US. Actually,
+the integration process started with the beginning of the year.
+Russia we are downscaling the retail operation substantially. And I just will add one thing,
+that means that the retail earned premium for 2015 will be substantially smaller than last
+year. And the focus is on proﬁtable business. And, yes, also continuing the health
+business in retail.
+
+Page 4 of 39
+
+
+
+Company Name: Allianz SE
+Company Ticker: ALV GR Equity
+Date: 2015-02-26
+
+FINAL
+
+Brazil is actually a combination of IT platform issues, which are creating -- did create some
+thought around our underlying business issues emanating from business written in the
+second half of 2013, where we did, after we understood the situation much clearer, a lot of
+cleaning up in the Fourth Quarter, cleaning up in the sense that we have now booked our
+best understanding of the situation. And also the turnaround steps are being initiated.
+Page 17, on CMV's [ph] similar income, I know that Max will comment on it. I think the
+highlight I would like to mention is that it stayed stable over the year, actually EUR17
+million more than the year before, as a tremendous stable investment income.
+Now let's move to the Life and Health sector. The growth story of the previous three
+quarters continued at the full Fourth Quarter. So the driver of the growth is the German
+life business, the US. And Italy. Germany, our market share in new business is, obviously,
+around of the third of the market. In the US, the great sales success of the ﬁxed index
+annuity business continues.
+So actually, when you look at the US, ﬁxed business annuities are up by EUR5.1 billion,
+where actually our VA [ph] premium is down by EUR650 million. So it's really all the ﬁxed
+index annuity.
+
+Bloomberg Transcript
+
+And in Italy, the growth number is two-thirds unit-linked and one-third non-unit-linked.
+In Asia-Paciﬁc, the growth is clearly supported by our HSBC distribution arrangement.
+And in country terms, it's mainly Taiwan. But also our local sales activities in Korea have a
+strong positive.
+When we move, then, to the proﬁtability of the Life business, EUR3.3 billion operating
+proﬁt at the upper end of our expected range for the year.
+Please remember that we moved about EUR110 million operating proﬁt from the smaller
+Asset Management units into the Life and Health segment with our pension companies in
+Poland, Spain, et cetera. So that is a change in the allocation.
+And what drives the additional proﬁt? Well that is actually clearly the higher investment
+margin. And here we have, besides good underlying investment results, also one-oﬀs that
+it's a recovery of emerging market currency against the euro that was a fairly sizable
+negative in 2013. And now it is positive in '14. So the swing is double. And also, we have
+gains on the interest rate protecting us against falling interest rates in Q4. So, that is also a
+positive number. In total, I would say maybe in the Life there is some EUR100 million to
+EUR150 million of these individual one-oﬀs.
+The increase in expenses, all driven by additional expenses for acquisition of the new
+business is obvious with the high volume increase that is oﬀset in the stronger
+capitalization of debt.
+
+Page 5 of 39
+
+
+
+Company Name: Allianz SE
+Company Ticker: ALV GR Equity
+Date: 2015-02-26
+
+FINAL
+
+You wonder why our technical margin is down, when we say we want to have more asset
+risk? Well that is the change in Germany where we are now only giving -- or allowed to
+take 25% for the shareholder on technical result and 75% goes to the policy holder. That
+reduction of EUR99 million has, in the German business, very much been oﬀset on the
+investment margin side. That means when you add both numbers together that it is still a
+total decline calculation what we paid our policy holder in proﬁt, the number is pretty
+much zero.
+So moving to the new business value, new business value up 45%, mainly driven by
+volume growth but also new business margins, actually at 2.4%. The obvious question is,
+well, in this interest rate environment, would you do the business again in 2015?
+We have tried to calculate with current yields and then it would -- the new business
+margin would be at 1.7% to 1.8%, if you take exactly the same mix. But you can be assured
+that we work on our mix in 2015. So don't take it as a forecast for 2015.
+
+Bloomberg Transcript
+
+So how did the yields work. And, actually, what are the guarantees? I think that Max has in
+his presentation the same slide. So, I would refrain from here on making further
+comments. And let me directly move to the Asset Management business. So I'm now on
+page 27 of the presentation.
+At ﬁrst glance, third-party AUMs stayed very stable, just EUR12 billion from EUR1,329
+billion to $1,313 billion. But behind the stable numbers are big movements. The outﬂows
+at PIMCO of EUR236 billion, inﬂows at Allianz Global Investors of EUR10 billion. And this is
+being -- the outﬂows, then, are being compensated by 11% foreign currency impact and a
+market impact in the falling yield environment. And the rising equity markets of 4.2%.
+The FX impact is actually in the numbers very much only visible on the balance sheet
+numbers. I should have mentioned right in the beginning of my presentation. The
+EUR10.4 billion of operating proﬁt include roughly EUR40 million net impact of all the FX
+changes during the year '14 compared to '13 in operating proﬁt, whereas balance sheet
+items are being calculated at the year-end spot rates, you see a much bigger impact of
+the euro to dollar conversion.
+And therefore, when we -- that is the basis for our earnings in 2015. So very important to
+understand for the outlook. However, when we look at the dynamic of the 2013 results,
+ﬁrst at the revenue of the Asset Management business on page 29, a PIMCO decline by
+12.5%, Allianz Global Investors 8% up with great results that did not stop that we have
+overall an 8.6% decline in revenues.
+And actually the margin at Allianz Global Investors dropped for two reasons. We included
+some advisory-based business, which added some AUM. But no fees. And then also the
+mix in more institutional business also weakened the margin slightly.
+At PIMCO, the margin drop of 1 basis point is very much explained by the outﬂows during
+the year were more on the retail space than on the institutional space. And it all happened
+in the US. Actually, euro and Asia are fairly stable with PIMCO customers.
+Page 6 of 39
+
+
+
+Company Name: Allianz SE
+Company Ticker: ALV GR Equity
+Date: 2015-02-26
+
+FINAL
+
+Let me now translate both information to the operating proﬁt development at Asset
+Management. So it dropped 15% to EUR2.6 billion. The two drivers the outﬂows with the
+margin compression I just explained. But also the one-oﬀ performance fees of the year
+2013.
+Actually, when we take out the one-oﬀ performance fees from 2013, the recurring
+performance fees, also at PIMCO, were actually higher in absolute numbers than in 2013,
+which I think is great news, because the quality of its asset manager and its perception
+with the customers is driven by its investment performance. And investment performance
+continues to stay high. And I think we're really free of any damages with the management
+transition which created so much media attention. Therefore, the basis for 2015 is fully in
+place.
+
+Bloomberg Transcript
+
+When we discuss the outlook, we will also talk about one-oﬀ performance fees at PIMCO
+we expect at (inaudible) and 2015. But let me ﬁrst complete the P&L of the Asset
+Management sector.
+We have certainly a reduction in expenses based on the proﬁt sharing at PIMCO, the
+70/30 formula. However, our expenses did not drop parallel with the reduced revenues
+for several reasons. I think most of the operating expenses which have been transactional
+are variable. But staﬀ, of course, numbers are not moving as fast as we have the seen
+move in the First Quarter, plus, as we explained already in the Q3 results, we are actually - have implemented a special retention program, which was -- had the ﬁrst booking in the
+Fourth Quarter. And we added a substantial marketing budget for the Fourth Quarter and
+really raising the presence of PIMCO in many media. That did, then, lead to a cost to
+income ratio of 61% for PIMCO in the Fourth Quarter.
+So overall, I think in this (inaudible) transition year for our (inaudible) business, the total
+result of EUR2.6 billion is holding very well. And is still in line with our expectations.
+So when we then go to the Corporate segment, I think the big swing at the banking
+segment but that was the restructuring costs in 2013 for Allianz Bank Deutschland, a retail
+bank which we closed, almost EUR100 million restructuring costs, precisely EUR88 million.
+So that was a negative one-oﬀ. And also we have, through our German regional bank
+called OLB, we have a small shipping portfolio where we have in the last three years put
+up loss-loan provisions for the shipping portfolio. There were no -- there was no need to
+increase reserves in 2014. And we see, also, a better operating result.
+And the Holding and Treasury segment has a number of one-oﬀs. There is, on one hand
+higher admin costs. And also we had from the IT restructuring we had in 2013 a release of
+a restructuring provision. But also we changed our Company pension in Germany, which
+created EUR160 million positive impact in 2014.
+I can now come to the total summary from operating proﬁt to net income. EUR10.4 billion,
+3% up compared to the year before. So non-operating items with minus 1.55 billion look
+unusually high. But there is a special tax treatment I will explain in a moment. Actually our
+
+Page 7 of 39
+
+
+
+Company Name: Allianz SE
+Company Ticker: ALV GR Equity
+Date: 2015-02-26
+
+harvesting was lower than last year, almost EUR150 million lower is the ﬁgure on equity
+and debt. So that means we are not churning in the P&C segment our future.
+
+FINAL
+
+Impairments are lower as we had almost non sizable impairments. What is shown under -as the income from ﬁnancial assets and liabilities is carried at fair value. That includes
+some cash ﬂow hedges in France. But also the overlay hedge, which we do for our US life
+business to protect our local statutory capital that could us EUR140 million.
+And now, let me explain the tax rate. We are showing here a tax rate of 32%, the tax rate
+paid by the shareholder. But as we did in a large court case in Germany that we can tax
+deduct realized losses and impairments on investments from the years 2001 and '02, that
+order is actually almost EUR1.05 billion as positive tax result.
+This tax result we are sharing, to a large extent, with the life policy holders. This is this
+EUR901 million. So it is, in the end, a direct booking from taxes back from the tax
+authorities directly to the policy holders in the German life book.
+
+Bloomberg Transcript
+
+We are showing the number here as neutral in the pre; and post-tax lines. So, we have the
+positive in the income tax. And then the negative in the reclass of tax beneﬁts from this
+court case on the tax decision EUR1.05 billion. So, EUR150 million helped our corporate
+taxes. Therefore, we are slightly down compared to the 34% of last year. But this is also
+because we had less one-oﬀs.
+Going forward, I think 32% is a good starting point, also, for the year 2015. But, of course,
+we are always trying to work on that. But have also foreseen that some countries are
+working against us with their policy to increase the tax burden for their corporations.
+Overall, let me summarize. The revenue double-digit up, operating proﬁt 3.3% up,
+shareholders' net income 4% up. I did not mention that this is very good news for the
+dividend. But I think Michael will talk about it at the end.
+And overall, we have a strong capital and balance sheet position where I think we have
+brought available capital back towards the previous year.
+And with this, I hand over to Max.
+
+Maximilian Zimmerer
+
+{BIO 2557503 <GO>}
+
+Yes, hi. Good afternoon. Coming to B3, that's the investment portfolio.
+As you can see, seems there are not many changes and we grow our assets by roughly
+EUR80 billion. The main reason for that is, let's say, half of that is business growth and the
+other half, a little bit more than that, is purely performance driven.
+
+Page 8 of 39
+
+
+
+Company Name: Allianz SE
+Company Ticker: ALV GR Equity
+Date: 2015-02-26
+
+FINAL
+
+This is the IFRS number. If I would compare that to the pure market view, the real estate
+part would be a little bit higher that means it would be at a weighting of 4%. As you know,
+real estate is booked under IFRS to book values. And it does not include the own assets.
+The market value number, the 4%, would include those.
+But this is the main diﬀerence. If you think of the quality of the investment portfolio, it has
+really not changed. The duration numbers have changed. You see them on the right side.
+The main reason for that is the lower interest rates. They had an impact on the asset side.
+But also on the liability side, overall.
+You can see there the slight mismatch. We are longer on the asset side on the P&C side.
+And a little bit shorter on the Life side. But we are pretty long, also, I think in comparison
+to the market. That saves us, if you think of the very low interest rates. But I come to that
+later.
+
+Bloomberg Transcript
+
+Now, the next page, B4, there I tried to come up with a summary of the investment
+performance, starting with the current income. We achieved EUR21 billion of current
+income. That is a little bit higher than last year. I am a little proud of, because the
+reinvestment rates have been pretty low overall. The current yield right now is at 2.7%,
+which came down from 3.9%. Then if you add to that the realized gains and losses,
+impairments, trading result. And investment expenses, the overall total investment of our
+investments is at EUR21.6 billion, a little bit higher than last year.
+Then that's a more interesting ﬁgure if you think of total performance, that's a change in
+unrealized gains and losses, it's a very large number. It's EUR46 billion. That brings us,
+then, to the total performance of 11.8%.
+But let's face it, most of that comes from lower interest rates. That's wonderful for the
+performance, not so nice for the reinvestment yields in the end.
+What was really interesting in this year is that ﬁxed income, at least if you were invested in
+very long-term bonds, outperformed heavily stocks, what was a surprise to me, I can tell
+you. Stocks did, also, very well. But not to the same extent as long-term bonds.
+Now, what did we do last year on the investment side? The active changes you see on
+page B5. We invested additionally in equities, public equity that EUR3.7 billion. The timing
+was okay. But it would have been better if we had started only in the last quarter of last
+year. If you take the January performance, I'm very happy that we did that.
+Then on the private equity, real estate. And also alternative debt side, we, as you know,
+have a strategy that we want to have more in that respect. And that brings me, also, to the
+page B6. There it is shown the real asset-based ﬁnancing.
+This is a chart that usually I very much. As you know, we had a mid-term goal of EUR80
+billion for the next three years. We already achieved EUR74 billion. And our next threeyear target would be around EUR110 billion. That is not a ﬁxed target, only to say that it's
+Page 9 of 39
+
+
+
+Company Name: Allianz SE
+Company Ticker: ALV GR Equity
+Date: 2015-02-26
+
+FINAL
+
+very -- very much dependent on market conditions. But also on the risk capital we would
+need to ﬁnance that.
+Overall, I like this sector very well, because it's diﬀerentiating us from competition. And
+aﬀords to the possibility to gain some extra margin. This is truly the margin that goes to
+the bank. And the second thing is usually you can add some diversiﬁcation if you
+compare that to ﬁnancing banks, at least, to avoid cluster risks. And also, I think, the
+transparency of the risks are better if you do it directly. But what is needed there, you
+need really professional expert teams. I'm happy that we have them, not only at Allianz
+Investment Management. But also at Allianz Global Investors. We have really professional
+teams. And I think that we are a little bit ahead of the market.
+Now coming to the new investment yields on page B7, overall they were much lower than
+the year before, in comparison to the very low yields we have right now, they are pretty
+strong, I think. On the P&C side, it's 2.4%, near the same as in the year 2013. On the life
+side, because we are longer there, it's 2.7%. If you add to that the current yields on the
+real assets, that's the 4% overall. You can see also maturity diﬀerences and Life, in
+average, you can say four years longer if you think of the reinvestments as such.
+
+Bloomberg Transcript
+
+That brings me to page B8. That's a comparison between the total yield of our portfolio
+and the minimum guarantees. The total yield you can relate to your assets. And it will
+bring you to a yield of 4.7%. But you can also do -- 3.9%. But if you relate it to the technical
+reserves, because we have more assets than technical reserves, the number is at 4.7%.
+That means we have still a margin of 2.3% in comparison to the minimum guarantees of
+2.4%. I think that's really a strong buﬀer. And what is also stated here that now the
+reinvestment yield in Germany is only at 0.7%. If we would cut all the crediting rates at
+once. And would say do we need at a reinvestment yield to ﬁnance the guarantees of
+Germany, that would bring us to the 0.7%.
+You can compare that with the 2.7% we had as a reinvestment yield, that means we have
+strong buﬀers, also, in that respect.
+Now, if you compare that to the new business, the reinvestment yield, I already said, 2.7%.
+The average guarantee for new business is at 1.0%. That means, obviously, there still a
+relatively high margin of 1.7%. I think what worked very well that we started the lower
+guarantee products, especially in Germany, (inaudible). But also in Italy, using linked and
+ﬁxed-index annuities in (inaudible) product. And if would take -- make a forecast for this
+year, I think the guarantee for the new business will go further down, (inaudible) around
+0.7% and 0.8%.
+Now to remind the outlook overall, I think I forgot to describe what has happened on the
+markets in 2014. And the most important for us was the announcement for us was the
+announcement of the quantitative easing by the ECB that will start in 1st of March this year,
+that brought the interest rates dramatically down to all-time lows.
+
+Page 10 of 39
+
+
+
+Company Name: Allianz SE
+Company Ticker: ALV GR Equity
+Date: 2015-02-26
+
+Fortunately, Mrs. Yellen announced two days ago that we will see at least one or two or
+three hikes in 2015. I think, at least, that should work as a kind of stop order for the
+European rates. But you're seeing overall, I think, that real assets are much more
+interesting than bonds, because, I think, we are in bubble mania on the bond side.
+
+FINAL
+
+That's the thing I would like to end with. Thank you.
+
+Michael Diekmann
+
+{BIO 1733646 <GO>}
+
+Great. So. Good afternoon, everybody. I've been moved to Section C. That's probably
+what happens when you are phasing out. I accept that.
+Then, I was little surprised, frankly, about the harsh reaction of markets this morning.
+(inaudible) down now, that seems to level out a little bit. And I'm very happy that we have
+the opportunity to talk to you and sort of talk about all the technical questions around
+solvency and sensitivity and so on.
+Anyhow. So, if I make the assessment of what went well, what went wrong, the revenue
+and proﬁt growth, I think, is very good, especially translating into real customer growth of
+2 million. So as Dieter has said, it's volume-driven and not price-driven.
+
+Bloomberg Transcript
+
+Capital strength I would still defend as a very strong point of Allianz. Then, when we look
+at the -- what I would outperformance in Germany of Allianz Life and Allianz Global
+Investors, added about an improvement of EUR1 billion, I think that's very encouraging.
+Now, diﬃcult -- the reinvestment environment. But I would also say from a competitive
+point of view, it's an opportunity. So regulatory uncertainties remain. But I don't want to
+go too deep into that, because otherwise we're going to lose ourselves in technical
+details. And obviously, the political tensions that we see all around Europe are bad. Now,
+for us, it's good that our direct exposure to Russia, Middle East. And Nigeria is pretty low.
+PIMCO outﬂows higher end of our expectations. And then three underperforming units
+oﬀer potential for next year. But, obviously, we're not happy about that.
+Now, when we turn the next page, which we head by Business Highlights 2014, I would
+like to point out a little bit of the operational underlying trends.
+And here you can see under P&C non-motor retail very good progress in digital products.
+I think that's going to be a competitive advantage, going forward. And the shift on the Life
+side to asset-liability matched products in Life. I think we've made very good progress,
+especially here in the market in Germany. Let's just see this year, 2014, as a sort of
+opening up of this market, which I think, for a market leader is the appropriate action. And
+I'm very happy that the market accepts this proposal so we can work on that stronger in
+2015.
+
+Page 11 of 39
+
+
+
+Company Name: Allianz SE
+Company Ticker: ALV GR Equity
+Date: 2015-02-26
+
+FINAL
+
+Now, turning to our portfolio measures on the next page, I'm going to talk about
+acquisitions a little later. I think we were very timely in addressing the issues in Russia and
+Ukraine. We did not wait. We did not wait as long as with Fireman's Fund. But Fireman's
+Fund, I think the solution that we found to get to competitive levels in the corporate
+business. And to ﬁnd a good home for our private business with ACE is a very good
+achievement. Then, last but not least, the transition in PIMCO, I think is working very well,
+despite the noise on the portfolio side.
+Now, if I look at the next page, operating proﬁt, I was a little disappointed on the Q4 in
+P&C, as well. But as Dieter has explained, I think it's the right actions that we took to make
+sure that 2015 we're not getting any surprises here.
+Now, the capital management and growth, we discussed for years and years the dividend
+policy. Now we have a dividend policy I can (inaudible) information that my colleagues
+have not given yet. And that's about the evaluation of unused budget for external growth.
+We've spent a lot, EUR900 million of a budget of EUR1.2 billion in 2014. So we will add
+around EUR300 million to the budget in 2015 that is, then, up evaluations.
+
+Bloomberg Transcript
+
+The next slide, EUR6.84 I've sensed a little bit of dissatisfaction with that, as people were
+expecting something like 7. Now, if we compare the 6.84 to what you can achieve from the
+market today at the low volatility of the result of Allianz, I think we should give this a little
+bit of a positive sense. And let's not forget there's a ratchet here, which I think should
+make the stock very attractive, going forward.
+Now, when we look at the next slide and the acquisition side, we also have regular
+debates about how disciplined is Allianz on the acquisition side. If we look at the activities
+in 2014, I think they are totally in line with the discussions we had. The 725 agencies that
+we've added in Italy, exactly in the right region, in a business that is scalable. And, by the
+way, the 722 agencies have been fully integrated into the digital agency model now. I
+think it's going to be a good contribution to the performance in Italy in the future.
+I'm also very happy about the small. But not unimportant addition that we could achieve
+in Australia, where we have a great management and this will add to diversiﬁcation,
+because we were under-represented in the territory.
+Now, on the next page, coming to underlying growth in P&C, Dieter has already said if
+you exclude Fireman's Fund, Russia. And Brazil where we are shrinking the business, we
+have an underlying growth of 4.5%. Very happy about the smallest number here, 2.6% in
+Germany, because that really shows us that we have crossed the line now of negative
+growth and adding premium to the existing customer base.
+We will have a press conference next week with our German colleagues and they will
+actually tell us about net growth in customers on the P&C side. And also much more
+activity on the non-motor side, which I think is good, as well.
+
+Page 12 of 39
+
+
+
+Company Name: Allianz SE
+Company Ticker: ALV GR Equity
+Date: 2015-02-26
+
+FINAL
+
+Dieter has mentioned AGCS or AWP. I think that's working very well. And that's an
+important one, because that's the backbone of our digital strategy where we add a lot of
+service components from Allianz worldwide partners.
+Now the Life side, I've talked about the German shift. And we deﬁnitely have to accelerate
+that. The lower traditional guarantees in the Italian and the move to the unit-linked cycles
+our partner, UniCredit, works very well. And the ﬁxed-income annuities in the US, as you
+can see here, are working very well, as well.
+When Dieter and myself were in the US earlier this year, shareholders urged us to increase
+that business because it's just the right environment and the right oﬀer in that
+environment.
+Now, coming to PIMCO on page 14, we not only believe in PIMCO as our subsidiary. But
+we also believe in them as investing our assets. You can see on the right-hand side that
+Allianz manages about 55% of our assets. And this is at arm's length. And we wouldn't do
+that if the performance wouldn't be justifying that.
+
+Bloomberg Transcript
+
+So we have been outperforming third-party assets under management of 88%, which, I
+think, helps us also on the competitiveness side, with our Life business.
+Now, the market gives us the feedback on our digital strategy that we are well positioned.
+And I would conﬁrm that, that we are making a lot of progress, as I've shown on the
+second page on digital products, modular products, a lot of them are priced real time.
+And the (inaudible) for direct quotes where, just to give you a number, since we've
+introduced direct quote in Italy in 2012, we've made over 10 million quotes already. So
+that's becoming more and more a standard that, by the way, we've introduced in many
+other countries now, as well.
+We've started early to address not only multi-channel. But multi-access. And we get a
+good integration now of online and agent channels. Our advanced analytics, just to give
+you one practical case where we apply that, that's for the detection of fraud cases. That's a
+very interesting move, now especially when you look at organized motor fraud. And on
+the automation side, obviously, we are making good process in process automation of
+standard cases, which in (inaudible) is now up to 90%.
+Data protection becomes a more issue. And we've started early with our data center
+consolidation project, where we are in the middle of consolidating 140 data centers down
+into 7, which, then, will help us much better to deal with the personal data protection.
+Now, I'm turning to the page on our operating outlook, where this outlook of EUR10.4
+billion, plus/minus EUR400 million, I think, is taking two things into consideration.
+It's the good performance, solid performance, in 2014. And also cautious look at 2015,
+without any up-selling. So, giving you an impression of our conﬁdence to manage the
+volatility result even better than in the past. And now, when we look at the operating proﬁt
+Page 13 of 39
+
+
+
+Company Name: Allianz SE
+Company Ticker: ALV GR Equity
+Date: 2015-02-26
+
+FINAL
+
+outlook 2015 on the segment side, that's the next page, I would just like to give a little
+add up on where do you think that we have a good indicators, underliers for proﬁt in
+2015.
+Now, ﬁrst, I would like to mention, again, the growth in 2014 of 10%. It was actually nearly
+20% P&C volume-driven, close to 4% was good performance of our new modular retail
+products. We do see a higher operating asset base. And together with investment
+expertise that Max has talked about, that should help. And, also, we have higher reserve
+levels on the P&C side.
+Now, the one-oﬀ in P&C 2014 that's around EUR500 million, at least, at Russia, Fireman's
+Fund. And Brazil. But also about EUR80 million of integration costs in Unipol business in
+Italy. We do see a consistent great performance of PIMCO and Dieter has talked about
+the performance fees, the success fees.
+
+Bloomberg Transcript
+
+Then we have a clear expectation for higher performance fees from closed funds in Q4
+2015. We have the exchange (inaudible) the dollar that has not translated into additional
+earnings on the PIMCO side. Then the long duration of our investments and the growing
+asset base.
+Then last but not least, we have replaced two board members with two very experienced
+new board members. So the technical expertise and the market expertise on the board
+has not weakened at all. I think it's even stronger than it was before. And then last but not
+least, the transition to the new CEO is working very well. There are no frictions in the
+team. And Oliver is just visiting all the places that he doesn't know yet and where he
+might not have the time to visit them once he is in charge. But he is, obviously, a part of all
+the decisions we are making that have an impact on the future.
+On this note I would like to close, just on time. And open the Q&A, if Oliver doesn't want
+to do that.
+
+Oliver Schmidt
+
+{BIO 2473131 <GO>}
+
+Now we are ready and happy to take your questions.
+
+Questions And Answers
+Operator
+(Operator Instructions)
+Our ﬁrst question comes from Michael Huttner of JPMorgan. Please go ahead.
+
+Q - Michael Huttner
+
+{BIO 1556863 <GO>}
+
+Thank you very much. Answer however many of them that you like. You can cut me oﬀ.
+
+Page 14 of 39
+
+
+
+Company Name: Allianz SE
+Company Ticker: ALV GR Equity
+Date: 2015-02-26
+
+FINAL
+
+My ﬁrst question is on the solvency. Just to get a feel for how you judge it internally, the
+ratio of 191% isn't great compared to what we've been used to. I know the moving parts
+you said positive adjustments and then negative from low interest rates. But where do you
+see it kind of settling around. And at what level should to feel, ooh, we need to worry a
+bit, we can't ﬁnd the liftoﬀ?
+The second is very speciﬁc. It's just can you give an update on German ZZR, albeit the
+premium refund reserve calculation, et cetera. And also the unrealized gains in
+Switzerland. Zurich gave a very good answer, which was to say that past 2018. So in 2019,
+funding the ZZR would cost them operating losses. So that's a negative.
+Then the last point, which was not really serious question, it's more well done, Mr.
+Diekmann. And thank you very much. But also given that there's only EUR200 million to
+be missing to be at consensus was, weren't you a bit tempted, just a little bit, to
+(inaudible)?
+Anyway, thank you very much.
+
+Bloomberg Transcript
+
+A - Michael Diekmann
+
+{BIO 1733646 <GO>}
+
+Yes, I can start with the second question. No. I was not tempted, because for me it's very
+important that we have a solid result here, not work on some record results. We had a
+Supervisory Board meeting yesterday with audits and boﬃns. And that was my ﬁrst
+question to the auditors, is there anything in the result that was mortgaging the future?
+And the clear answer was no, just the opposite. And that's exactly the way how I would
+like to exit.
+
+Q - Michael Huttner
+
+{BIO 1556863 <GO>}
+
+Thank you.
+
+A - Michael Diekmann
+
+{BIO 1733646 <GO>}
+
+You're welcome.
+
+A - Dieter Wemmer
+
+{BIO 4755450 <GO>}
+
+Michael, I think I would like to explain on all the movement of Solvency II. Well ﬁrst of all,
+we cannot guarantee that our internal model as being approved as applied for. So that is
+an uncertainty I think all companies in Europe have to live with until they get the green
+light from the regulator and you can anticipate that the green lights will come somewhere
+in December 2015. And that is for almost the players the same.
+Secondly, as I've tried to indicate, we are really trying to do an active management of the
+level. And that means that we think our -- as long as we are a sound level above the 160%.
+And I think that is what you actually wanted to ask, you don't need to concerned about
+the dividend announcement. And we will keep the level soundly above the 160 level, as
+you would expect. And we will actively manage the number. But I think we have also built
+in quite a lot of conservative things.
+Page 15 of 39
+
+
+
+Company Name: Allianz SE
+Company Ticker: ALV GR Equity
+Date: 2015-02-26
+
+FINAL
+
+So you ask how the RfB and ZZR is developing and the ﬁnancing. I think when you would
+calculate all the funds in our German Life subsidiary, you come to a substantial number in
+percentage of the reserves as clearly above 25%. We have in -- on the asset side, as well
+as on the liability side, in cushion. And I wouldn't see any ZZR ﬁnancing out of the
+operating results, based on this starting point.
+And even if we do the calculation longer than the 8-9 years, because I think Max said,
+when we do reinvest our money at 0.7% in Germany, we can pay oﬀ all the guarantees.
+That means, in the end, even with the ZZR going to 0.7% down would still be carrying
+through as a fairly low number. Well you never know how many years the quantitative
+easing in Europe is holding. But it's certainly not in the next couple of decades.
+
+Q - Michael Huttner
+
+{BIO 1556863 <GO>}
+
+Okay. Thank you very much.
+
+A - Dieter Wemmer
+
+{BIO 4755450 <GO>}
+
+You're welcome.
+
+Operator
+Our next question comes from Farooq Hanif of Citi.
+
+Bloomberg Transcript
+
+Q - Farooq Hanif
+
+{BIO 4780978 <GO>}
+
+Hi, there. Thank you very much.
+I just want to ask one more question on solvency. Can you tell us what your kind of
+minimum RBC ratio assumption is? I think there's a bit of confusion in the footnote. I just
+wanted to understand how yours compares to some of your peers.
+Then secondly, on the life business, I'm intrigued by your forecast of roughly ﬂat proﬁts,
+given the great achievements you're making in shifting mix, the fact that you're defending
+your margins, I was just wondering kind of what the drivers are on that? Then, associated
+with that, you mentioned the 2.7% reinvestment yield in Life. But you're making
+considerable investments in real assets. So what do you think the income yield would be,
+if you included those real assets on top of the 2.7%?
+Thank you.
+
+A - Dieter Wemmer
+
+{BIO 4755450 <GO>}
+
+Okay, I'll take the easy question on the US RBC ratio. So we had in the disclosure we
+called it 100% (inaudible). That is a classical insurance-style misleading information. So we
+mean 200% of local statutory requirements. So the 200% is called the Company actual
+level. That means that it's suﬃcient.
+
+Page 16 of 39
+
+
+
+Company Name: Allianz SE
+Company Ticker: ALV GR Equity
+Date: 2015-02-26
+
+FINAL
+
+I can also turn it around in the other way. As you calculate now the Group solvency, at the
+weighted average between the US number and the internal model number, our US model
+goes into the calculation with 175%, because we run day to day, also due to our A.M. Best
+rating the Company at 350% of statutory base requirements. So the 350 divided by 200%
+capital actual level. So you have 175% ratio how it is, then, being weighted with the ratio of
+the internal model countries. So it dilutes, slightly, the ratio.
+
+Q - Farooq Hanif
+
+{BIO 4780978 <GO>}
+
+And the forecast on the --
+
+A - Maximilian Zimmerer
+
+{BIO 2557503 <GO>}
+
+Yes. The forecast, only driven by Life. You can say that the current yield, all in all, will go
+down, perhaps something between 0.1% and 0.2% every year, because that's the running
+rate you have in there. The real assets are included.
+
+Q - Farooq Hanif
+
+{BIO 4780978 <GO>}
+
+Oh, no, I meant, sorry -- If I may return on that, I meant the 2.7% you're masking on ﬁxed
+income -- maybe I misunderstood your answer -- but how much additional yield do you
+make on top of the 2.7%?
+
+Bloomberg Transcript
+
+A - Maximilian Zimmerer
+
+{BIO 2557503 <GO>}
+
+Yes. That is also discovered on PB6. If you go only for the real assets, all the return to
+ﬁxed-income assets are included in the 2.7%. And if go now only for the equity part, that's
+real estate, that's equities. And that's the renewable part in infrastructure, there the
+running yield, current yield, is at 4%. Then you can say, in addition to that, also, price
+increases. But that depends very much on the asset classes. That can be something
+between 2% and 5%.
+But what -- I can't tell you the inﬂuence on the reinvestment yield. What I've said right now
+is the inﬂuence on the yield of the portfolio for the next year. And the overall impact of
+lower interest rates and the lower reinvestment yields, including real assets, is about 0.1%
+or 0.2% lower for next year, yes?
+
+Q - Farooq Hanif
+
+{BIO 4780978 <GO>}
+
+And do you think this is why you're forecasting ﬂat to slight proﬁts, or is there other --?
+
+A - Maximilian Zimmerer
+
+{BIO 2557503 <GO>}
+
+Yes. Too. But because we have a growth overall in the business, itself.
+
+Q - Farooq Hanif
+
+{BIO 4780978 <GO>}
+
+Okay. Thank you very much.
+
+Operator
+Page 17 of 39
+
+
+
+Company Name: Allianz SE
+Company Ticker: ALV GR Equity
+Date: 2015-02-26
+
+(Operator Instructions) Our next question comes from Andy Broadﬁeld of Barclays. Please
+go ahead.
+
+Q - Andy Broadﬁeld
+
+{BIO 7273415 <GO>}
+
+FINAL
+
+Oh, hi there. A couple of questions, please.
+Just on Italy P&C I fear you may have answered this in the past. But I'm just wondering, for
+the organic number, organic growth if you like, or internal growth, is negative, given your
+very strong performance there I would have that would be -- part of the strategy was to try
+and see if you could actually grow that. I'm just wondering if you can explain why that was
+negative, the P&C internal growth in Italy?
+On your decision to include US equivalents when in the past I think you -- you described it
+as being agnostic -- I thought you'd take it as a sort of slightly more purist view that you
+would just have a consistent methodology across the Group. I'm just interested. You've
+included it now. Is this now, it's in for good, or is this a sort of strategy to cherry pick, or
+just whatever is convenient? I'm a little confused why you should do that now?
+
+Bloomberg Transcript
+
+And just a ﬁnal question, just on your slide B8, which references the 0.7% reinvestment
+yield, I just want to understand what that really means. Does that mean if you were to
+retain all the proﬁts you made between now and the running yield collapsing to below
+the guarantee levels, you'd be able to take all those. And that would pay for the losses
+afterwards, or does it mean that you would be breakeven by the end? I'm not quite sure
+how to interpret quite what that statement is.
+
+A - Oliver Schmidt
+
+{BIO 2473131 <GO>}
+
+That's right. It's okay.
+
+A - Michael Diekmann
+
+{BIO 1733646 <GO>}
+
+So Andy, hi. Maybe I can start with the Italian side. If you look at the market, the price or
+rate you're going to ﬁnd, is negative. We are better than the market here. And that's the
+internal growth side. So that's minus 1.2%.
+Now, if you add Unipol, then you arrive at a growth of 4.1%. That's the total growth, yes?
+So we divide between organic and un-organic growth.
+
+Q - Andy Broadﬁeld
+
+{BIO 7273415 <GO>}
+
+I guess my expectation was that, given the very, very margins you were making, I know the
+market is, in general, as well. But you were still somewhere ahead of the market, that'd
+you be able to give more. And, therefore, grow more on the sort of -- on the non-Unipol
+part of the business.
+
+A - Michael Diekmann
+
+{BIO 1733646 <GO>}
+
+Page 18 of 39
+
+
+
+Company Name: Allianz SE
+Company Ticker: ALV GR Equity
+Date: 2015-02-26
+
+Well that's what we do. The risk growth is there. And the growth of the -- the organic
+growth is much better than market. I think the market has declined by around
+4percentage points.
+
+Q - Andy Broadﬁeld
+
+{BIO 7273415 <GO>}
+
+FINAL
+
+Okay.
+
+A - Michael Diekmann
+
+{BIO 1733646 <GO>}
+
+And the Italian was down 6%, 7% over at least the ﬁrst nine months. The 12 months I guess
+I have not yet seen. So total market minus 4, motor minus 6, 7. So, minus 1 is still a small
+increase in market share.
+
+Q - Andy Broadﬁeld
+
+{BIO 7273415 <GO>}
+
+Okay. So probably policies in force has grown. But premiums not? Okay?
+
+A - Michael Diekmann
+
+{BIO 1733646 <GO>}
+
+Yes, sure. That is -- coming from a substantial outperform on the combined ratio, that is
+what you expect.
+
+A - Dieter Wemmer
+
+{BIO 4755450 <GO>}
+
+Bloomberg Transcript
+
+We are keeping a positive -- a strong positive distance to the performance of the market.
+But you cannot expect that it just does not relate to the market.
+And your question on US equivalents, well, as I said, I think, on one hand, it is certainly
+good for the overall status of management. I think it makes us, indeed, more comparable
+to our peers. And also, I think we have ﬁgured out -- we have, already, probably the
+largest number of legal entities in our internal model, which are going through approval
+process. And the simpliﬁcation of it is, actually, not bad. And US Life business is, in
+particular, for European regulators, quite an alien portfolio.
+So the simpliﬁcation overall, I think, is probably helpful for us in all the negotiations and
+all the explanation we have to do in the ﬁrst nine months. So that is probably what makes
+it to be a reasonable decision, plus the fact at the current interest rate level, yes, it had a
+positive eﬀect. But as we all believe that the US will be the ﬁrst country in the Western
+world to recover interest rates. So mid-term, the impact on the solvency ratio is very
+ﬂattish.
+
+Q - Andy Broadﬁeld
+
+{BIO 7273415 <GO>}
+
+So you say you persist with that now, that's the end. And that's going to stay?
+
+A - Dieter Wemmer
+
+{BIO 4755450 <GO>}
+
+Yes. Well not ﬁling it -- well, I can't say for ever, because what is also true is that as soon as
+the internal model is approved, we will actually ﬁle a new application, beginning of 2016
+Page 19 of 39
+
+
+
+Company Name: Allianz SE
+Company Ticker: ALV GR Equity
+Date: 2015-02-26
+
+for a number of changes we do in our internal Group organization and new software
+packages, et cetera.
+So this approval process is, anyway, a new industry, which has been created.
+
+FINAL
+
+Q - Andy Broadﬁeld
+
+{BIO 7273415 <GO>}
+
+And will you manage the business based on US equivalents, or based on sort of
+consistent --
+
+A - Dieter Wemmer
+
+{BIO 4755450 <GO>}
+
+It's the internal benchmark and pricing of the product which we stick to our internal
+model, which is not completely consistent with the Solvency II model. We have done
+some stricter economic assumption in it. And the Solvency II will (inaudible) stipulating.
+
+Q - Andy Broadﬁeld
+
+{BIO 7273415 <GO>}
+
+Okay. Thanks.
+
+Bloomberg Transcript
+
+A - Maximilian Zimmerer
+
+{BIO 2557503 <GO>}
+
+Now coming to the question to Life Germany, you know that the average guarantee right
+now in Life Germany is around 3%. But it goes down every year by, let's say, 5 to 7 basis
+points. What is shown here with the reinvestment yield of 0.7% is the pure risk scenario
+that is not what I expect, only to say that. And that works into the assumption of a run-oﬀ.
+And that means, also, we cut all the crediting rates to the customers. We pay only the
+minimum dividend to the shareholders. And then, the buﬀers we have right now would
+be suﬃcient, with the reinvestment of 0.7%, to pay all the guarantees.
+
+Q - Andy Broadﬁeld
+
+{BIO 7273415 <GO>}
+
+So eﬀectively, no earnings, on dividends?
+
+A - Maximilian Zimmerer
+
+{BIO 2557503 <GO>}
+
+There are dividends. But these are minimum dividends, they are -- this is a requirement by
+law, yes?
+
+Q - Andy Broadﬁeld
+
+{BIO 7273415 <GO>}
+
+Okay.
+
+A - Maximilian Zimmerer
+
+{BIO 2557503 <GO>}
+
+And only to compare that number it has been at 1%. That means we have lowered the
+minimum numbers, also, due to some measures we have taken. That's also the ZZR. But
+also the extension of the duration. And the new products have also worked into that
+duration.
+
+Page 20 of 39
+
+
+
+Company Name: Allianz SE
+Company Ticker: ALV GR Equity
+Date: 2015-02-26
+
+Q - Andy Broadﬁeld
+
+{BIO 7273415 <GO>}
+
+Okay. Thanks very much. That's very helpful.
+
+Operator
+
+FINAL
+
+Our next question comes from William Hawkins of RKW [ph].
+
+Q - William Hawkins
+
+{BIO 1822411 <GO>}
+
+Oh, thank you. I think I'm still at KBW.
+Three quick questions. What's the outlook for your Life investment margin? You had a
+good 80 basis points last year. You did talk about sort of -- I think you talked about gains
+and the rest of it hedging beneﬁts. So should that ﬁgure be trending down, or do you
+think it's a ﬁgure that you can sustain in a low-yield environment?
+Secondly, I think this has been asked before. But I've forgotten the answer. Last year, how
+were you achieving 2.5% to 2.7% yields on government bonds, when the vast majority of
+your portfolio is in Europe? And can you just remind us what the new money investment
+rate is? Because, again, I'd be amazed if it was much north of 2% on governments.
+
+Bloomberg Transcript
+
+Then ﬁnally, I think you referred to more performance fees in PIMCO in 4Q of '15. And I
+thought, Dieter, previously you were saying that actually the performance fees would be
+lumpier from 2016. So has something changed in the timing of PIMCO's performance
+fees?
+Thanks.
+
+A - Dieter Wemmer
+
+{BIO 4755450 <GO>}
+
+Okay. I'll start with the PIMCO performance fees. Yes. It was not really clear when the
+maturity of the other two closed funds would happen. It depends when the investment
+targets are reached. And then the sales start. And that is now being expected in the
+months more at the end of this year. So probably starting somewhere in September,
+October, November, December. And that would, then, bring in the performance fees into
+this year, 2015. And there will be, also, some overhangs in 2016.
+
+Q - William Hawkins
+
+{BIO 1822411 <GO>}
+
+May I just cut in there? Does that mean we're eﬀectively just accelerating what you'd
+hoped from '16, or is it actually an aggregate bigger number?
+
+A - Dieter Wemmer
+
+{BIO 4755450 <GO>}
+
+It is certainly an eﬀective number. But I did -- we did only mention it that you will not say
+when you look at the average result of PIMCO in the ﬁrst three quarters and say, how do
+you want to make your target range for the whole year? Q4 will have a substantially higher
+operating proﬁt than Q1, 2. And 3. That is just by the fact of the performance fees. And in
+Page 21 of 39
+
+
+
+Company Name: Allianz SE
+Company Ticker: ALV GR Equity
+Date: 2015-02-26
+
+'16 I think we will certainly still have some of the one-oﬀ performance fees. The total might
+also be higher than what we talked about a year ago.
+
+FINAL
+
+So also, Life investment margin is still in the range of 75 basis points, plus or minus. With
+the mark-to-market of some of the investments, it is not absolutely controllable to the last
+basis point.
+
+A - Maximilian Zimmerer
+
+{BIO 2557503 <GO>}
+
+Now to the question on the investment side, you're referring to page B7, I think. The
+reinvestment yield for governments for the Life business, it was at 2.7% last year and, as
+shown, the average maturity was 15 years. And that is mainly, let's say, between 70% and
+80% developed markets. These are mainly euro markets. But also US. And then emerging
+markets are around a little bit more than 20%. And the developed markets, the average
+yield, reinvestment yield, was at 2.2% and the emerging market side is 4.5%.
+To say that emerging markets it's two-thirds, usually, hedged against euro or US dollar.
+And the rest you read in the local currency. And the average rating on the emerging
+market was BBB and on the developed markets it's an A.
+
+Q - William Hawkins
+
+{BIO 1822411 <GO>}
+
+And where are we right now, give or take, right now?
+
+Bloomberg Transcript
+
+A - Maximilian Zimmerer
+
+{BIO 2557503 <GO>}
+
+That's a very good question. I can't give you the number. I can only tell you that in the last
+quarter, reinvestment yield, overall, went down from 2.7% to 2.3%. That's the only thing I
+can say.
+January, I think, is a little bit too early to call the number for the year.
+
+Q - William Hawkins
+
+{BIO 1822411 <GO>}
+
+Thank you.
+
+Operator
+Our next question comes from Andrew Ritchie of Autonomous. Please go ahead.
+
+Q - Andrew Ritchie
+
+{BIO 18731996 <GO>}
+
+Oh, hi there. A couple of quick questions. First of all, just on the guidance, the mid-point
+of the guidance, let's say, what's your -- what's the overall tailwind from FX that you're
+building in there? I think it -- roughly, back of the envelope, it would be a couple of
+hundred million euros. Maybe just clarify what is the overall FX beneﬁt in '15?
+Secondly, on PIMCO, I guess I just wanted to understand a bit more about your
+conﬁdence in the result and the outlook. And it sounds like a large part of that is the
+Page 22 of 39
+
+
+
+Company Name: Allianz SE
+Company Ticker: ALV GR Equity
+Date: 2015-02-26
+
+performance fees, because, Michael, you referred to outﬂows being higher than you
+expected. So what gives you conﬁdence that we'll start to see some stability in those
+outﬂows. And maybe bring us up to date on that?
+
+FINAL
+
+And I guess the other point on PIMCO is the margin continues to deteriorate. What's your
+feeling in terms of the resilience of that margin from here?
+That was it, thanks.
+
+A - Dieter Wemmer
+
+{BIO 4755450 <GO>}
+
+Yes, I don't know whether I got you the right answer. But in this guidance you refer to
+outlook upper end of --
+
+Q - Andrew Ritchie
+
+{BIO 18731996 <GO>}
+
+No, no, I'm referring to the 2015 outlook. And what the tailwind from FX in the 2015
+outlook? It must be quite substantial.
+
+A - Maximilian Zimmerer
+
+{BIO 2557503 <GO>}
+
+Maybe I do the FX tailwind. We have used in the outlook calculation a euro/dollar
+exchange rate of 1.20. So that means current -- a small, 1.13, 1.14. So we did not go this far.
+We have taken, as you know us, a conservative stand on this point.
+
+Bloomberg Transcript
+
+So that's --
+
+Q - Andrew Ritchie
+
+{BIO 18731996 <GO>}
+
+That's still an average 10% lower rate, or a 10% better rate than '14, I guess.
+
+A - Maximilian Zimmerer
+
+{BIO 2557503 <GO>}
+
+That is 10% better than '14. There it was 1.33 was the average. So it's 13%. So that makes,
+then, some EUR250 million, EUR300 million for all the US businesses together. So that
+aﬀects the US Life business, which has, obviously, with the great new business an
+improved proﬁtability next year. And the P&C business we write in the US. And also the
+Asset Management.
+
+A - Michael Diekmann
+
+{BIO 1733646 <GO>}
+
+And the conﬁdence on PIMCO, I think we are mentioning these performance fees
+because it will give us some additional tailwind. But I'm actually building my conﬁdence
+on diﬀerent things. First, I'm talking on a weekly basis to large clients of PIMCO. And to
+large distributors like UBS, Morgan Stanley. And so on. So basically, the conﬁdence of our
+investors is unbroken. I'm not only talking about German or European corporates, I'm
+including Asians, Middle East. And US corporates, plus pension funds, as well.
+
+Page 23 of 39
+
+
+
+Company Name: Allianz SE
+Company Ticker: ALV GR Equity
+Date: 2015-02-26
+
+FINAL
+
+So the ﬁrst wave that we've seen of outﬂows was linked to retail investors in the US. I think
+that is probably always the weakest spot, because you don't have a direct contact to these
+clients.
+Then you have, obviously, over the change of the year, the execution of trustee decisions
+that might have been taken already in October and November. So if I look at the pattern
+now, that we are following we think this wave one on the retail side, wave two institutional
+investors and trustees is over. And I've talked to a couple of the PIMCO guys yesterday.
+And asked them for -- give me some hints on where do we see inﬂows.
+So we are collecting new money. And not only in the US. But also in Europe, Asia. And the
+Middle East. So I think this sort of negative spill that you're getting into is something that
+is basically linked to the Bill Gross departure and consequent decisions. And has nothing
+to do with the current situation and performance.
+So that makes me conﬁdent. I'm not declaring victory here. But it's really the feedback
+that I'm getting from investors. And just to give you an idea how I do this. So I going to
+call -- I would call the CEO of a large corporate client and tell him I want to talk to you in
+three days about PIMCO and your investments. So please talk to your investment people
+so that we don't have an uneducated discussion. But really an educated one. So I put a
+high reliability on these feedbacks in the market.
+
+Q - Andrew Ritchie
+
+{BIO 18731996 <GO>}
+
+Bloomberg Transcript
+
+So you're still anticipating net outﬂows through the ﬁrst half? Is that correct?
+
+A - Michael Diekmann
+
+{BIO 1733646 <GO>}
+
+Yes, I wouldn't be surprised. But I expect them at a lower volumes, as we've seen in Q4.
+
+Q - Andrew Ritchie
+
+{BIO 18731996 <GO>}
+
+And the discussion on margins. I know there's a mix eﬀect.
+
+A - Michael Diekmann
+
+{BIO 1733646 <GO>}
+
+Yes, sure.
+
+Q - Andrew Ritchie
+
+{BIO 18731996 <GO>}
+
+Is there any pricing eﬀect, as well as mix eﬀect?
+
+A - Michael Diekmann
+
+{BIO 1733646 <GO>}
+
+Well I would say, it's natural, if you lose retail clients, that basically come in at a higher
+margin, that the margin is weakening a little bit. But if I look at the development, this is not
+a substantial shift here, yes?
+
+A - Dieter Wemmer
+
+{BIO 4755450 <GO>}
+Page 24 of 39
+
+
+
+Company Name: Allianz SE
+Company Ticker: ALV GR Equity
+Date: 2015-02-26
+
+FINAL
+
+It's mainly mix-driven. And going forward in '15, I think that it's more the point that we
+have, still, in '15 the heightened level with the retention program. So certainly, in '15 we
+will not have the cost/income ratio starting with a 5. The cost/income ratio will probably
+start with a 6. But that is with the heightened expense. Spending's quite obvious. But that
+is an investment in the -- all this re-change, restructuring program at PIMCO. And I think
+what we have forgotten to discuss and mention is that actually the Total Return Fund
+regained its 5-star rating.
+So it was, I felt, a bit prematurely reduced to 4 stars. And now, after everybody recognized
+that, also, the new team is actually understanding how the Total Return Fund works,
+actually performance data's very good. In particular, last month was really adding a top
+month.
+So we are back on track with this fund. As this is always getting the highest media
+attention, I think that it's also there that pivoting that development of PIMCO in the future.
+
+A - Michael Diekmann
+
+{BIO 1733646 <GO>}
+
+Bloomberg Transcript
+
+And yes, I would also like to add another one, because we've been asked this by the
+media this morning, the same question. And I was referring back to Max and the asset
+allocation of Allianz.
+Now, as everybody's talking about equities these days, probably if you could, you would
+be invested at a much higher rate into equities, some welcome back deja vu, 2002-2003.
+Unfortunately, capital, solvency and so on, will not allow people to do what they would
+like to do as private people these days. So there will always be a very high allocation to
+bonds. And I think at some point in time, people will realize that if you have to manage a
+bond portfolio, you better get the portfolio manager whose best at that. And I think there
+is no doubt out there that the reputation of PIMCO was not only earned by Bill Gross. But
+by the whole organization.
+
+Q - Andrew Ritchie
+
+{BIO 18731996 <GO>}
+
+Okay. And just to be clear, are you giving us the numbers for outﬂows in January and
+February?
+
+A - Dieter Wemmer
+
+{BIO 4755450 <GO>}
+
+In February it's substantially lighter than January. I think the -- we are not disclosing the
+number. But the trend is clearly, absolutely ﬁne.
+
+Q - Andrew Ritchie
+
+{BIO 18731996 <GO>}
+
+Okay. Thanks.
+
+Operator
+Our next question comes from James Shuck of UBS. Please go ahead.
+
+Page 25 of 39
+
+
+
+Company Name: Allianz SE
+Company Ticker: ALV GR Equity
+Date: 2015-02-26
+
+Q - James Shuck
+
+{BIO 3680082 <GO>}
+
+FINAL
+
+Thank you. Good afternoon. I had two questions, please.
+Michael, the ﬁrst question is just around technology and digital. And I was keen to kind of
+get your thoughts on how we've progressed over the past sort of two or three years under
+your stewardship, what you think Allianz has done well, particularly at the center, in terms
+of using eﬃcient operating models. And implementing best practice throughout the
+Group?
+Then, kind of looking forward a bit more over the next few years, I mean, technology and
+digital is creating a lot of challenges for companies like Allianz. And you're likely to come
+into contact with greater competition from non-insurance companies. There's a number of
+things going on, whether it's usage-based insurance, or whether it's connected cars or
+connected homes.
+So obviously, you're not disappearing into the sidelines. But I just wanted to kind of get
+your kind of big picture thoughts about what the future actually looks like for a properly
+digitally enabled company as Allianz should intend to be?
+
+Bloomberg Transcript
+
+Then secondly, just in terms of kind of the earnings growth potential, I mean, kind of
+linked to the ﬁrst question. But at the moment, your guidance for next year is limited in
+terms of earnings growth. But that's clearly understandable in the low bond yield
+environment. But you have a number of one-oﬀs dragging on the numbers. The near-term
+outlook probably doesn't look too strong, in terms of growth.
+But there's going to be a time when you become operationally more eﬃcient. And that
+should be as a lot of this technological change starts to grind through. Your competitive
+positioning looks stronger. And particularly in places like France and Germany and the
+UK.
+So I guess once we get past this initial kind of headwind, in the next year or two of lower
+rates and just the level of investment that's needed, what is the kind of medium-term
+earnings growth potential of Allianz?
+Thank you.
+
+A - Michael Diekmann
+
+{BIO 1733646 <GO>}
+
+I think that's a very good question for Oliver. I don't want to put him on the spot here.
+But if look at what we've done in Allianz so far, we've always started from the architectural
+side. So architecture means business model ﬁrst. And then we go into applying that.
+So business model in this sense was the target (inaudible) model that I think is really a
+(inaudible) for a change than on the business model side. The ﬁrst thing that needed to
+be addressed was to move to get away from a sales channels tiering to multi-access
+Page 26 of 39
+
+
+
+Company Name: Allianz SE
+Company Ticker: ALV GR Equity
+Date: 2015-02-26
+
+FINAL
+
+tiering. Then we have rationalized product portfolios. Then we've rationalized the IT
+platforms.
+Then we founded AWP as a sort of central source for digital partnerships. And our service
+components. And now, just to give you another ﬂavor, not only from the insurance side.
+But from the Asset Management side, we've just put in place an aﬃnity platform for Asset
+Management products that we can -- we have tested that. It was in (inaudible) and now we
+can apply that to large corporate customers, as well.
+So there's a whole bouquet of activities now. And then you have an innovation piece that
+we never talk about. Some of our competitors do. And maybe get higher attention on
+this. But the same sort of partnerships that our French friends are undergoing, obviously,
+we do, as well. We do this a little bit more silent on the automotive side, on the
+telecommunications side. We are talking to Internet companies, just as well. And we have
+a little innovator -- innovation platform in AWP and here in Munich that provides us with
+some interesting ideas but also as a partner for venture capitalist partners outside of
+Europe.
+So I think there's a whole range of things that, obviously. And that is more the focus from
+Oliver and our COO, will, then, at some point in time, not only reach sales levels. But also
+get into eﬃciency that right now all these gains are being reinvested developing further
+capabilities.
+
+Bloomberg Transcript
+
+I think Oliver will be very happy to talk about this going forward, because it's, obviously,
+one of the future questions for the industry and for Allianz.
+
+Q - James Shuck
+
+{BIO 3680082 <GO>}
+
+Okay. Thank you very much.
+
+A - Michael Diekmann
+
+{BIO 1733646 <GO>}
+
+You're welcome.
+
+Operator
+(Operator Instructions) Our next question comes from Jon Hocking of Morgan Stanley.
+
+Q - Jon Hocking
+
+{BIO 2163183 <GO>}
+
+Good afternoon, everybody. I've got three questions, please.
+Firstly, on capital, I wonder if you could comment as to whether you've made any other
+methodology changes in the Fourth Quarter, in addition to the equivalents? And in
+association with this, Dieter mentioned internal model approvals starting next quarter.
+Could you comment on whether you be above 160 if you were using the standard model,
+vis-a-vis the internal model? So this is the ﬁrst question.
+
+Page 27 of 39
+
+
+
+Company Name: Allianz SE
+Company Ticker: ALV GR Equity
+Date: 2015-02-26
+
+FINAL
+
+Second question, on the sort of nat cat experience, on the headline numbers you look like
+you've got a big sort of headwind to the numbers in '14. You mentioned some of the
+smaller losses that maybe wouldn't be classiﬁed at nat cat but were larger than normal. I
+just wonder whether you could give a number as the beneﬁt you saw on your view in '14
+from the nat cat?
+Then just ﬁnally, on guarantees, on the slide, I think it was B8, you've got the minimum
+guarantee for new business across the Life book of 100 basis points, I think. I just
+wondered what your view was, given how quickly yields have declined, is there an
+argument that that rate should be coming down faster than it is? Is there an argument, I
+guess, even a zero % guarantee is very valuable in this environment?
+Thank you.
+
+A - Dieter Wemmer
+
+{BIO 4755450 <GO>}
+
+Well sure, let me ﬁrst start with capital challenges in the model. There were a number of
+changes included (inaudible) and, in total, actually being more or less neutral. We have
+the equivalents I have spoken about, then the reduced -- the charge for the government
+bonds for the (inaudible) risk from a full chart like a corporate bond to what the regulatory
+calls the domestic light model.
+
+Bloomberg Transcript
+
+On the other hand, we increased the risk charges because we introduced pension risk for
+our own pension liabilities. And there are some technical things on the treatment of the
+third-party bonds. And things like that. But that is a lot more technical in nature.
+As we are applying for an internal model, we are not talking about our standard model
+number.
+On the cat nat -- sorry, yes, Jon?
+
+Q - Jon Hocking
+
+{BIO 2163183 <GO>}
+
+So I can just on the sovereign charge there. How does the sovereign charge work? You
+said you mentioned the domestic Life model. I'm not familiar with that. How does -- is it a
+smaller charge than the similarly rated corporate, I guess?
+(multiple speakers)
+
+A - Dieter Wemmer
+
+{BIO 4755450 <GO>}
+
+Domestic light is a variation where we are not taking the full charge of (inaudible) at the
+Group level (inaudible) only on domestic bonds, government bonds issued in bond
+currency, not the full treatment.
+These bonds are then considered to be AAA. Otherwise, they are assigned their actual
+rating if held outside the country of issue. So that was an agreement with the supervisory
+college that actually in our Group model, Italian and Spanish bonds are being treated as
+Page 28 of 39
+
+
+
+Company Name: Allianz SE
+Company Ticker: ALV GR Equity
+Date: 2015-02-26
+
+equal to corporate bonds with their credit spread risk. But in the local model, they are
+being treated as risk-free for the stand-alone legal entity. So that is more on the subsidiary
+level and not on the Group level.
+
+Q - Jon Hocking
+
+{BIO 2163183 <GO>}
+
+FINAL
+
+Okay. So, it's the cross-border bonds that are getting the charge. And (inaudible).
+
+A - Maximilian Zimmerer
+
+{BIO 2557503 <GO>}
+
+It's the cross-border --
+
+A - Dieter Wemmer
+
+{BIO 4755450 <GO>}
+
+Cross-border gets the charge, also, on the local model. But in the Group model, we treat
+everything -- well, cross-border, which means from a German perspective, as a German
+bond. Anyway, (inaudible) so, that is, then, not a change.
+
+Q - Jon Hocking
+
+{BIO 2163183 <GO>}
+
+Does that mean you're basically carrying extra capital at Group but not in the
+subsidiaries?
+
+A - Dieter Wemmer
+
+{BIO 4755450 <GO>}
+
+Bloomberg Transcript
+
+That is true.
+
+Q - Jon Hocking
+
+{BIO 2163183 <GO>}
+
+Okay. Thank you.
+
+A - Dieter Wemmer
+
+{BIO 4755450 <GO>}
+
+Besides the cross-border. So if you have Italian bonds in France or Spanish bonds in Italy,
+then you have also it as a local model.
+
+Q - Jon Hocking
+
+{BIO 2163183 <GO>}
+
+Okay.
+
+A - Dieter Wemmer
+
+{BIO 4755450 <GO>}
+
+And I think the nat cat question, I think, compared to our standard cat structure in 2014, I
+think we have around EUR250 million to EUR400 million consumed less. So a percentage
+point, roughly.
+
+Q - Jon Hocking
+
+{BIO 2163183 <GO>}
+
+Okay. Thank you.
+
+A - Maximilian Zimmerer
+
+{BIO 2557503 <GO>}
+Page 29 of 39
+
+
+
+Company Name: Allianz SE
+Company Ticker: ALV GR Equity
+Date: 2015-02-26
+
+Now the question to the guarantees.
+
+A - Dieter Wemmer
+
+{BIO 4755450 <GO>}
+
+(inaudible).
+
+FINAL
+
+A - Maximilian Zimmerer
+
+{BIO 2557503 <GO>}
+
+Yes, I can do it. I said for this year we expect something between 0.7% and 0.8%. What is
+the reason for that? In the bigger market, the German-speaking countries, the guarantee
+leverage by law, the maximum leverage are at 1.25%. That means it would be signiﬁcantly
+lower. That's a question, overall, of the business mix.
+That means we try to oﬀer more products which are not standard. So that we can come up
+with lower guarantees overall. But where we also work on is that we try to avoid this lockin guarantees for the crediting rates. We have launched a new product in that respect.
+And what is also very important, I think even more important, is that we try to reduce the
+duration of the guarantees. That is very important because otherwise we can't go for a
+matching approach on the asset side.
+
+Q - Jon Hocking
+
+{BIO 2163183 <GO>}
+
+Bloomberg Transcript
+
+Do you think in a position in Germany where your guarantees can be less competitive,
+given the ﬁnancial strength (inaudible)? Or are you still oﬀering similar levels to your
+competitors?
+
+A - Maximilian Zimmerer
+
+{BIO 2557503 <GO>}
+
+The (inaudible), I think, is a very good example. We were the ﬁrst insurer who oﬀered that
+kind of product. And it was possible for us because of our ﬁnancial strength. So it's
+obvious. It was a very big success, right from the beginning, although we were heavily
+criticized by the press, right from the start. But now I see not only customers are satisﬁed.
+But also competitors try to copy us right now.
+
+A - Michael Diekmann
+
+{BIO 1733646 <GO>}
+
+And that is half of all the sales to individuals.
+
+A - Maximilian Zimmerer
+
+{BIO 2557503 <GO>}
+
+Right.
+
+A - Michael Diekmann
+
+{BIO 1733646 <GO>}
+
+And that has a 0.7% guarantee, which is a de facto guarantee when you just give a
+premium (inaudible) guarantee. So that is, even now, with the oﬃcial guarantee rate in
+Germany of 1.25%, still 60 basis points lower. And last year it was more than a % lower
+than the standard guarantee.
+
+Q - Jon Hocking
+
+{BIO 2163183 <GO>}
+Page 30 of 39
+
+
+
+Company Name: Allianz SE
+Company Ticker: ALV GR Equity
+Date: 2015-02-26
+
+Thank you. Thank you.
+
+Operator
+
+FINAL
+
+Our next question comes from Thomas Seidl of Bernstein.
+
+Q - Thomas Seidl
+
+{BIO 17755912 <GO>}
+
+Thank you. Good afternoon. Three questions from my side, please.
+First, on capital again. So on a true pro forma you're at 191%. You had quite enormous
+volatility throughout the year. If you strip out the Life one-oﬀ, a 25% drop in the quarter.
+And also, looking at the sensitivities, level spreads by the interest rate, what makes you
+comfortable that you're not coming pretty close to the 160 threshold for the dividend?
+The ﬁrst question.
+Second question -- investment management, I think you mentioned, rightfully, that you're
+constrained to ﬁxed income. Now with the additional hedging from QE and also
+considering the various credit expertise you have throughout the Group, should we not
+expect Allianz to take, here and there, more credit-risk to mitigate the impact?
+
+Bloomberg Transcript
+
+And thirdly, on PIMCO, Michael, I think you mentioned for the ﬁrst time you didn't staﬀ the
+equity team at PIMCO properly. And, hence, it was not a big success. Now when I look at
+the number, it's still showing zero for PIMCO. So should we expect, at some point the
+equity team to deliver at PIMCO, or will it remain a ﬁxed-income shop?
+
+A - Michael Diekmann
+
+{BIO 1733646 <GO>}
+
+Well the last question is easy to answer. It will remain a ﬁxed and mixed-income shop,
+because the sheer volume of the equity funds, is some 3% of the total. And that will take
+time to develop. And I'm -- I think it's good to have that team there. But, sorry, it cannot
+change and should not change the focus on the ﬁxed-income side.
+
+Q - Thomas Seidl
+
+{BIO 17755912 <GO>}
+
+Still showing zero, right, I think?
+
+A - Michael Diekmann
+
+{BIO 1733646 <GO>}
+
+Well we're talking about here -- I have my specialist here. What is the equity portion of --?
+
+A - Unidentiﬁed Speaker
+(inaudible).
+
+A - Michael Diekmann
+
+{BIO 1733646 <GO>}
+
+Yes, 30 billion to over 1 trillion. It's not quite a %.
+
+Page 31 of 39
+
+
+
+Company Name: Allianz SE
+Company Ticker: ALV GR Equity
+Date: 2015-02-26
+
+A - Maximilian Zimmerer
+
+{BIO 2557503 <GO>}
+
+FINAL
+
+Look, I think active capital management is always the same procedure. You have your
+current position. If you look at how well you could reduce, if required. So you have a list of
+items which close or already in execution. And then you have a list of things you keep as
+the next layer of contingencies, if necessary. And that is how you manage your numbers.
+And that gives us the conﬁdence that we can do it.
+You asked about the credit risk, how we handle that? May we have the question again?
+
+Q - Thomas Seidl
+
+{BIO 17755912 <GO>}
+
+Sorry. Given the credit expertise you have throughout the group. And given the additional
+headwinds of QE on the ﬁxed-income, which is the largest asset class, obviously, should
+we not assume that you take more credit risk here and there to mitigate the headwinds?
+
+A - Maximilian Zimmerer
+
+{BIO 2557503 <GO>}
+
+Yes. I wanted to start right now with the answer. We -- ﬁrst, you have to have a closer look
+on the credit spreads. Also, the credit spreads have come down signiﬁcantly, usually that's
+the case if interest rates go down. People are keen to achieve some return. And,
+therefore, take usually more credit risk.
+
+Bloomberg Transcript
+
+If I think of the credit spread leverage right now, they are at a very low point. But, still, way
+above the default rates. That means it is still attractive to do so. I think where we can earn
+some extra money is especially on the alternative debt side. And that's the area we are in.
+By that, I mean usually private placements, (inaudible) but also infrastructure debt.
+Unfortunately, you have to do it transaction by transaction. That means to grow that part
+of the portfolio takes some time.
+
+Q - Thomas Seidl
+
+{BIO 17755912 <GO>}
+
+Okay. All right. Thanks a lot.
+
+Operator
+Our next question comes from Frank Kopﬁnger of Commerzbank.
+
+Q - Frank Kopﬁnger
+
+{BIO 16342277 <GO>}
+
+Yes. Good afternoon, everybody. I have two questions on your guidance.
+The ﬁrst one is on, could you remind us, again, I think, Michael, you mentioned EUR500
+million restructuring charges for 2014. Is this the ﬁgure we should look at 2014 and, on the
+other side, do we have some sort of restructuring charges, also, reﬂected within your new
+guidance. And, if so, how much?
+
+Page 32 of 39
+
+
+
+Company Name: Allianz SE
+Company Ticker: ALV GR Equity
+Date: 2015-02-26
+
+FINAL
+
+And on the second question, if -- on PIMCO, again, on the Q4 cost to income ratio, the
+64%, I understand that part is driven by the management retention program, which
+(inaudible) but also driven by mix eﬀects and marketing eﬀects. So what is your guidance,
+overall, for the year, or what sort of cost to income ratio is reﬂected within your new
+guidance?
+
+A - Michael Diekmann
+
+{BIO 1733646 <GO>}
+
+So ﬁrst of all, I think this EUR500 million restructuring charge is a misunderstanding. The
+EUR500 million is the loss of our three P&C units Russia, Brazil. And US, which we don't
+want to repeat, because we restructure it. But it's slightly diﬀerent than a restructuring
+charge.
+So that is what we see on the P&C side as, really, the easiest and low-hanging fruit. And
+the upside.
+PIMCO I said that the cost/income ratio for 2015 starts with a 6.
+
+A - Maximilian Zimmerer
+
+{BIO 2557503 <GO>}
+
+Now you add the zero.
+
+Bloomberg Transcript
+
+A - Michael Diekmann
+
+{BIO 1733646 <GO>}
+
+And you add a zero, yes, that is, then, depending on how the whole year plays out. And
+depending whether we need some additional investments, or whether we can, also, start
+or go back to normal so that we will see as soon as it happens. And the more cost eﬃcient
+we can be for the rest of the year. But let's now start the year with our overall guidance.
+And, in the end, we have never the aim to achieve every KPI we are talking about. It is, in
+the end, about the overall promise of the operating proﬁt of EUR10.4 billion and we don't
+want to meet 65 KPIs parallel. That is, in the end, the side of the organization, probably
+hard to do.
+
+Q - Frank Kopﬁnger
+
+{BIO 16342277 <GO>}
+
+But on -- thank you, on the low-hanging fruit in P&C, what would you say, out of the
+EUR500 million is a realistic low-hanging fruit?
+
+A - Michael Diekmann
+
+{BIO 1733646 <GO>}
+
+Yes. Well that would be really disappointing when we have the same result again. And the
+US we have already started the work of the restructuring and integration. And there is also
+the partial disposal to ACE, closing in April. Then in Russia the portfolio is shrinking very
+fast. So on those remaining policies you can't lose EUR180 million, I believe.
+And Brazil I think we have started to work to translate and do a better business. The
+management team is fairly new in place, six to nine months. And will be strengthened
+further in the next weeks.
+
+Page 33 of 39
+
+
+
+Company Name: Allianz SE
+Company Ticker: ALV GR Equity
+Date: 2015-02-26
+
+(multiple speakers)
+So I think what we can do (inaudible) --
+
+A - Dieter Wemmer
+
+{BIO 4755450 <GO>}
+
+FINAL
+
+(inaudible).
+
+A - Michael Diekmann
+
+{BIO 1733646 <GO>}
+
+No, no, no, Dieter, I don't want to prejudice you.
+
+A - Dieter Wemmer
+
+{BIO 4755450 <GO>}
+
+Thank you.
+
+A - Oliver Schmidt
+
+{BIO 2473131 <GO>}
+
+Frank, are you ﬁne with that?
+
+Q - Frank Kopﬁnger
+
+{BIO 16342277 <GO>}
+
+Thanks, yes.
+
+Operator
+
+Bloomberg Transcript
+
+Our next question comes from Nick Holmes of Societe Generale.
+
+Q - Nick Holmes
+
+{BIO 3387435 <GO>}
+
+Oh, hello there. Thank you very much. Two questions, please.
+The ﬁrst is, coming back on equivalents. Thank you for clarifying that you're 100% the
+Company action level. But I think your peers are saying that they're all between 200% to
+300%. And my question, I guess, is kind of why did you choose 100%. And are there other
+areas of Solvency II where you're diﬀerent? I mean, you may be a lot more conservative in,
+I don't know, how you treat the surplus capital within the US, or something like that. I'm
+sure there are lots of areas for diﬀerence. And I'm sure you're very conservative in all sorts
+of areas.
+My second question is, for Michael. It's, again, on the US. And the question is, when I look
+at the PV sensitivities of the US Life business, it does seem to be particularly sensitive to
+the macro. I mean, if you look at the credit spreads, for example 100 bps movement is
+worth 2.4 billion, which is just massive.
+And you've doubled your US new business value in 2014. It's nearly as big as Germany.
+And the question, Michael, is why do you want to write this business, which is kind of -- it
+looks kind of high risk? But maybe that's wrong, maybe it's much lower risk. And we're
+missing something.
+Page 34 of 39
+
+
+
+Company Name: Allianz SE
+Company Ticker: ALV GR Equity
+Date: 2015-02-26
+
+Thank you.
+
+FINAL
+
+A - Dieter Wemmer
+
+{BIO 4755450 <GO>}
+
+Yes, I think, Nick, I'm confused about the question, because I thought I explained very well
+that we are -- that our base is the 200% number and not the 100% number. And that is
+what I also understand from some of the peers exactly the same what they are doing. And
+that looks to me, reasonable.
+And in the end, what I explained is we run the Company due to the A.M. Best requirement
+at a local 350% level. Then is when you want to be an A-plus company under A.M. Best,
+that is what they want to see.
+
+Q - Nick Holmes
+
+{BIO 3387435 <GO>}
+
+Yes.
+
+A - Dieter Wemmer
+
+{BIO 4755450 <GO>}
+
+And that is exactly what we do. That means in the calculation, 350 divided by 200 is 175.
+And the 175 goes, then, into this average calculation.
+
+Bloomberg Transcript
+
+Q - Nick Holmes
+
+{BIO 3387435 <GO>}
+
+So Dieter, sorry. Are you saying that the -- that you are 200% of the authorized level
+control, the minimum. Because your peers are deﬁnitely saying they have a coverage at
+the company action level. And so, of the company action are you -- you're 100%, aren't
+you?
+
+A - Dieter Wemmer
+
+{BIO 4755450 <GO>}
+
+That is the corporate action level. That is exactly the 200% number. And that's --
+
+Q - Nick Holmes
+
+{BIO 3387435 <GO>}
+
+Exactly. I mean, I'm not saying it's not a strong level. Absolutely, it is a strong -- it's 200%
+or 175% or however you calculate it of the authorized control level, the ACL. But my
+observation -- this is just an observation -- is the other companies, your peers, are
+reporting 200% to 300%.
+And so, there does seem to be a diﬀerence. But I think there may be lots of diﬀerences.
+You may be counting capital surplusing a diﬀerent way. And things like that.
+
+A - Dieter Wemmer
+
+{BIO 4755450 <GO>}
+
+As a ratio, they are reporting this. But, look I -- as far as I know, when you are in the A.M.
+Best discussion, locally the 350 of the NAIC base requirement is actually what most
+companies are doing. That is the standard number you ﬁnd for most large US companies.
+And I'm also used to, since the last 20 years, I think it is pretty much the same everywhere.
+
+Page 35 of 39
+
+
+
+Company Name: Allianz SE
+Company Ticker: ALV GR Equity
+Date: 2015-02-26
+
+How you translate it, then, into a ratio here into the calculation, I can't tell you what our
+peers are doing. I only tell you that in our calculation, the ratio is 175.
+
+Q - Nick Holmes
+
+{BIO 3387435 <GO>}
+
+FINAL
+
+Okay. And maybe --
+
+A - Dieter Wemmer
+
+{BIO 4755450 <GO>}
+
+Maybe you ask the question what ratio is actually added in this weighting average. And
+then you get a good (inaudible).
+
+Q - Nick Holmes
+
+{BIO 3387435 <GO>}
+
+Okay. And just one ﬁnal point on that. Given that there are lots of companies that are
+reporting diﬀerent deﬁnitions here, diﬀerent ratios, when do you think we're going to get
+harmonization on equivalents.
+
+A - Dieter Wemmer
+
+{BIO 4755450 <GO>}
+
+When it is written into the delegated acts and that is an April activity of the Brussels
+parliament.
+
+Q - Nick Holmes
+
+{BIO 3387435 <GO>}
+
+Bloomberg Transcript
+
+Okay. So in April we can expect clariﬁcation.
+
+A - Maximilian Zimmerer
+
+{BIO 2557503 <GO>}
+
+Maybe I can kick in with the FIA business. I think we are all a little bit traumatized from the
+old VA experience. And you are right, we do have a sensitivity to market movements in
+this business.
+If I compare. And I'm on page A62, the KPIs for the new business margin in this business,
+we have a 3.4%. Internal rate of return, we have a 12.3% so, at current levels, the business
+is great.
+So what do we do if sentiment changes? We want to remind you there's a very low
+guarantee level, because basically what we do, we oﬀer protection of principal. So if you
+sort of translate that, that's a 0.3% guarantee.
+Then we have a lot of management levers where we can adjust this product on, I think it's
+an annual level. But maybe even more frequently. We have a much better expense
+eﬃciency in our Italian Life business now because of the scale. And we do have a dynamic
+(inaudible) process in place that has served us well to manage volatilities.
+
+Q - Nick Holmes
+
+{BIO 3387435 <GO>}
+
+Thank you. That's very clear.
+
+Page 36 of 39
+
+
+
+Company Name: Allianz SE
+Company Ticker: ALV GR Equity
+Date: 2015-02-26
+
+One very quick follow-up. Michael, how big do you want the US to be? I mean, it's grown
+a lot. What sort of growth do you envisage going forward?
+
+FINAL
+
+A - Michael Diekmann
+
+{BIO 1733646 <GO>}
+
+Well our current -- and, obviously, that can change over time, the current message for the
+US business is, we don't want to inject capital. And we want to see some dividend growth.
+And they have managed very well to stay in line with that.
+We've got, for instance, this year EUR250 million dividend from Minneapolis.
+
+Q - Nick Holmes
+
+{BIO 3387435 <GO>}
+
+Okay. Thank you very much.
+
+A - Michael Diekmann
+
+{BIO 1733646 <GO>}
+
+You're welcome.
+
+Operator
+Our next --
+
+A - Oliver Schmidt
+
+{BIO 2473131 <GO>}
+
+Bloomberg Transcript
+
+All right -- do we have more questions, I understand?
+
+Operator
+Yes. We do have a number of questions. Do you wish to proceed?
+
+A - Oliver Schmidt
+
+{BIO 2473131 <GO>}
+
+Thanks, operator. We will take one more question, please. And then we will end the call.
+Thank you.
+
+Operator
+Perfect. Our ﬁnal question comes from Paul De'ath of RBC. Please go ahead.
+
+Q - Paul De'ath
+Yes, hi, everyone. Thanks for squeezing this all in. And a couple of very -- actually very
+quick questions. And on the investment side of things. So, going back to that slide, B8.
+And the Life Germany number, 0.7% yield required to cover the guarantees.
+Presumably, that is backed up by the large RfB in Germany. And I wonder if you could
+comment on the position for any of the other countries where you've got signiﬁcant
+
+Page 37 of 39
+
+
+
+Company Name: Allianz SE
+Company Ticker: ALV GR Equity
+Date: 2015-02-26
+
+FINAL
+
+guarantees. Is this (inaudible) that 0.7% number would be signiﬁcantly higher for those?
+And that's question one.
+The second question, quickly, is on the increased target for real investment. So you've
+signiﬁcantly increased that mid-term target to EUR110 billion. And how have you -obviously, as part of the dividend change you now are no longer allocating additional
+money to pay for that additional capital investment. And I'm just wondering kind of where
+you see that additional capital coming from?
+Thanks.
+
+A - Maximilian Zimmerer
+
+{BIO 2557503 <GO>}
+
+And I start with the ﬁrst question. And I would remind you the -- at least (inaudible) the
+business in Germany stands for, let's say, 40% of the overall business. And also usually
+Germany has very long-term guarantees. And, also, the guarantee level in comparison to
+most of the other companies is the highest. It's right now, 3%.
+
+Bloomberg Transcript
+
+Therefore, we made this calculation for Life Germany. In Europe, I think there is no other
+country which has an average similar, guarantees, at least, not %, duration, or also the
+number of 3% won't be reached by them.
+Now, the RfB of this EUR25 billion RfB, that's alone EUR10 billion that is in the German RfB
+but a lot of other countries do not have any RfB. Therefore, the overall system is diﬀerent.
+For example, you have special reserves in France and Italy. But they are not comparable to
+the system with a RfB.
+We didn't do any calculation for other countries only to say that. But they are, also, not as
+signiﬁcant as Germany is.
+
+A - Dieter Wemmer
+
+{BIO 4755450 <GO>}
+
+For example, in France, our average guarantee is 0.7%.
+
+A - Maximilian Zimmerer
+
+{BIO 2557503 <GO>}
+
+Yes.
+
+A - Dieter Wemmer
+
+{BIO 4755450 <GO>}
+
+So a reinvestment yield of 0.7% would also be okay.
+
+A - Maximilian Zimmerer
+
+{BIO 2557503 <GO>}
+
+True.
+
+Q - Paul De'ath
+Okay. Great.
+Page 38 of 39
+
+
+
+Company Name: Allianz SE
+Company Ticker: ALV GR Equity
+Date: 2015-02-26
+
+A - Oliver Schmidt
+
+{BIO 2473131 <GO>}
+
+Okay, yes, thanks to everybody for joining the call. We will end this call right now, two
+hours are over. But please keep in mind that we will be available for further questions next
+week at our analyst meetings. Thank you. And goodbye to everybody.
+
+FINAL
+
+Operator
+Thank you. Ladies and gentlemen, that will conclude today's conference call. Thank you
+for your participation. And you may now disconnect.
+
+Bloomberg Transcript
+
+This transcript may not be 100 percent accurate and may contain misspellings and other
+inaccuracies. This transcript is provided "as is", without express or implied warranties of
+any kind. Bloomberg retains all rights to this transcript and provides it solely for your
+personal, non-commercial use. Bloomberg, its suppliers and third-party agents shall have
+no liability for errors in this transcript or for lost proﬁts, losses, or direct, indirect,
+incidental, consequential, special or punitive damages in connection with the furnishing,
+performance or use of such transcript. Neither the information nor any opinion expressed
+in this transcript constitutes a solicitation of the purchase or sale of securities or
+commodities. Any opinion expressed in the transcript does not necessarily reﬂect the
+views of Bloomberg LP. © COPYRIGHT 2022, BLOOMBERG LP. All rights reserved. Any
+reproduction, redistribution or retransmission is expressly prohibited.
+
+Page 39 of 39
+
+

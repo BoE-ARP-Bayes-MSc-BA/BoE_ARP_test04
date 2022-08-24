@@ -1,0 +1,681 @@
+Company Name: AXA SA
+Company Ticker: CS FP Equity
+Date: 2019-11-07
+
+Q3 2019 AXA SA Corporate Sales Call
+Company Participants
+FINAL
+
+Andrew Wallace-Barnett, Senior VP & Head of IR
+GÃ©rald Harlin, Deputy CEO & CFO
+
+Other Participants
+Andrew Sinclair, VP
+Colm Kelly, Director, Co
+Farooq Hanif, Head of Insurance Research in Europe
+James Austin Shuck, Director
+Jonathan Michael Hocking, MD
+Kamran Hossain, Analyst
+Nick Holmes, Equity Analyst
+Peter Eliot, Head of Insurance Sector Research
+
+Presentation
+
+Bloomberg Transcript
+
+Andrew Wallace-Barnett
+
+{BIO 18671460 <GO>}
+
+Good morning, everybody. Welcome to AXA's conference call on our activity indicators
+for the ﬁrst nine months of 2019. I'm pleased to welcome GÃ©rald Harlin, our Deputy
+CEO and Group CFO, who will be taking you through the highlights of the release from
+last night and will be very happy to take your questions afterwards.
+GÃ©rald, for the last time, I hand over to you.
+
+GÃ©rald Harlin
+Thank you, Andrew. And hello. Good morning, to all. Thank you for joining our call. As
+you can see from yesterday's release, AXA has delivered another strong performance for
+the ﬁrst nine months of 2019. Overall, total gross revenues increased by 5% at group level
+with all geographies contributing to the growth and which continued growth momentum
+in our 3 preferred segments, i.e., P&C commercial lines were up 7%; Health, plus 6%; and
+Protection, plus 3%. Our balance sheet remains very strong with a Solvency II ratio at 187%
+at the end of September. We will come back to solvency later on in the call.
+So let me now take you through the details of the activity for each of our geographies. In
+France, total gross revenues increased by 4% with growth across all lines of business and
+notably in our preferred segments. Health in France was up 7%. Unit-Linked sales were
+down 10%. As the rest of the French market that oﬀset by an increase in our savings
+Page 1 of 12
+
+
+
+Company Name: AXA SA
+Company Ticker: CS FP Equity
+Date: 2019-11-07
+
+FINAL
+
+products, we remain extremely disciplined in managing our French General Account
+Savings business with inﬂows broadly oﬀset by outﬂows. And so this mean no dilution of
+our French General Account from growth in Savings business.
+In Europe now, total revenues grew by 3%, notably with plus 4% in P&C commercial lines,
+which increased revenues across all countries as well as plus 4% in health. Life & Savings
+revenues in Europe were also up 3% with growth across all countries except Switzerland
+in the context of the Swiss Group Life transformation.
+Moving to Asia now. Revenues and APE in Asia were both up 4%. A few things to have in
+mind for the regions. As you know, in Japan, there was a tax rule change related to the
+COLI products, which are corporate -- company-owned life insurance in the Second
+Quarter of '19. This had a strong negative impact on APE. If we exclude the impact of the
+Japan COLI products, APE in Asia overall was up 15%. The strong increase was driven by
+higher sales in Japan from protection with Unit-Linked and Health. Strong sales in Hong
+Kong from protection with savings and continued growth in China. We did see some
+slowdown in sales in Hong Kong to Mainland Chinese customers in the Third Quarter
+following the impact of social unrest. This was, however, mostly oﬀset by continued strong
+sales to domestic customers. APE for the nine months from Mainland Chinese customers
+was minus 20%. Growth from domestic customers was plus 23%.
+
+Bloomberg Transcript
+
+International revenues grew by 5%, notably driven by Mexico, Turkey and Colombia with,
+again, continued growth in preferred segments. Revenues declined in AXA IM impacted
+by a lower nonrecurring fees.
+Let's now move to AXA XL. AXA XL revenues continued to be strong, up 11%. We are
+growing selectively as you can see. Revenues in P&C Insurance grew by 18% and Specialty
+was up 8%. Reinsurance revenues were up 2%, with growth in Specialty Reinsurance
+business and reduced volumes in Property lines. Price increases at AXA XL for the nine
+months were 6.9% in insurance and 2.8% in reinsurance.
+Pricing momentum continues to build. In the Third Quarter alone versus the same period
+last year, prices in insurance were up 11%. This is a very favorable environment for AXA
+XL's key businesses.
+As outlined in our press release, in the Third Quarter of '19 and early into the Fourth
+Quarter, a series of several -- of severe natural catastrophe events occurred resulting in
+above-average claims, charges for AXA XL, mostly in Reinsurance. At this stage, given the
+severity of these events and combined with ongoing wildﬁres in California and other
+smaller nat cat events, we estimate that AXA XL may incur claims charges of circa EUR 0.4
+billion in excess of the normalized level of cat nat at AXA XL for the second half of '19. This
+level of deviation from normalized and taking into account a relative normal year for nat
+cat elsewhere in the group means that we remain very much within our overall tolerance
+level for earnings deviation, which I remind you is EUR 0.5 billion at the group level net of
+tax for 1 in 20 years.
+
+Page 2 of 12
+
+
+
+Company Name: AXA SA
+Company Ticker: CS FP Equity
+Date: 2019-11-07
+
+FINAL
+
+Now moving on to Solvency II, which, as I mentioned earlier, was 187%, well within our
+target range of 170% to 220%. This is a very strong level, especially in the context of the
+very low interest rates in September. Since then, rates are up signiﬁcantly. And we have
+clear structural increases in the coming year with the integration of XL in the internal
+model, potential equitable holding sell-down and the sale of AXA Bank Belgium, all of
+these elements more than oﬀsetting the impact of future deleveraging.
+So to conclude, AXA delivered another strong performance in the ﬁrst nine months of the
+year. We recorded strong top line growth across the group. Our balance sheet remains
+strong and resilient. And we experienced an elevated level of nat cat at AXA XL above our
+normalized level and through the rest of the industry -- and as for the rest of the industry.
+This should continue to contribute to a favorable pricing environment for AXA XL and its
+businesses.
+I'm now happy to take your questions.
+
+Questions And Answers
+Operator
+(Operator Instructions) The ﬁrst question comes from Jon Hocking from Morgan Stanley.
+
+Bloomberg Transcript
+
+Q - Jonathan Michael Hocking
+I've got 3 questions, please, all on XL. Firstly, just look at the Reinsurance segment of XL.
+How happy are you with the sort of risk appetite of that unit? And how long can we expect
+you to reshape our book, if at all, going into (Q1) renewals? That's the ﬁrst question.
+Secondly, in terms of the protection to Reinsurance business, I think at the Investor Day
+last year, you talked about the -- your sense of capital and capital protection for the
+Reinsurance segment. Could you talk a little bit about what the gross net is on those
+Reinsurance losses and how much protection we've got left for the remainder of the year?
+Then just ﬁnally, can you make a comment on, if there's any trends of note in man-made
+losses in the quarter to date?
+
+A - GÃ©rald Harlin
+Okay. So let's start with the Reinsurance business. So indeed, we had quite elevated cat
+levels. I could say that, normally speaking, we should beneﬁt from higher -- you know that
+we beneﬁted mostly from strong price increases in insurance and less in Reinsurance. As
+mentioned in Reinsurance, we were on -- we were at 2.8%. I should say as well that on the
+cat side, we decreased our top line. And that as we mentioned, we have protections. On
+your questions on should we reshape or not our risk appetite, I would say that this is
+something that has been done already. What we could do means that we could eventually
+slightly further reduce our exposure to cat, mostly in Reinsurance. That's a point that we
+will see. We will update you later on and mostly when we will publish our Q2 -- our full
+year ﬁgures in February. So that's what we can take. But keep also in mind that there are
+Page 3 of 12
+
+
+
+Company Name: AXA SA
+Company Ticker: CS FP Equity
+Date: 2019-11-07
+
+FINAL
+
+other lines, which are quite proﬁtable. And globally speaking, I would say that the outlook
+for the global commercial lines is pretty good. We continued increase in rates. And we are
+not the only one to mention it.
+So that's -- about the man-made losses, you remember that we said in the ﬁrst half that we
+had roughly an excess of EUR 0.1 billion for man-made large losses. I would say that the
+trend is still there, is still more or less the same. So that means that a relatively high level
+of man-made losses. And we could say that it could be of the same magnitude of the -than in the ﬁrst half. So that's mostly it.
+As far as the protection is concerned. So that means that we have our global protection
+level and our excess of loss aggregate protection. And that this protection has not been
+hit yet.
+
+Q - Jonathan Michael Hocking
+And was there a big gross net on these nat cat losses so far?
+
+A - Andrew Wallace-Barnett
+
+{BIO 18671460 <GO>}
+
+Could you repeat your question please, Jon?
+
+Bloomberg Transcript
+
+Q - Jonathan Michael Hocking
+So GÃ©rald, I'm just saying is the numbers you put out in terms of being above the
+budget, is there a big diﬀerence between gross and net on those numbers? Have you
+actually got any meaningful protection that you beneﬁted from so far in the second half?
+
+A - GÃ©rald Harlin
+Okay. As you know, the protection is at much higher levels. So that means that, again, I
+should insist on the fact that we are within our tolerance level. I mentioned that we had -we were in excess of EUR 0.4 billion over the expected level. It's EUR 0.4 billion pretax. I
+remind you that our tolerance level is EUR 0.5 billion post-tax. So that means that we are
+completely within our tolerance level.
+
+Operator
+The next question comes from Andrew Sinclair from Bank of America.
+
+Q - Andrew Sinclair
+
+{BIO 17749036 <GO>}
+
+Three for me as well, if that's okay. But I'll try to keep it at just 1 for XL. Just wondered if
+you could give us any detail on how much you've actually allotted for the California
+wildﬁres? I think the others were quantiﬁed. But not Cali wildﬁres. Just wondered if you
+can give details on that.
+Secondly, just wondered if you could comment on debt levers today after you've done a
+few redemptions over the last few months. Just wondered if you could give a rough
+Page 4 of 12
+
+
+
+Company Name: AXA SA
+Company Ticker: CS FP Equity
+Date: 2019-11-07
+
+update.
+And thirdly was just on AXA Life Europe. Should we still expect that transaction to
+complete by year-end this year?
+
+FINAL
+
+A - GÃ©rald Harlin
+Okay. Andrew. So about the California Wildﬁres, we are not speaking from a very large
+amount. So it's part of it. But it has nothing to do with the scale of what happened last
+year. So globally speaking, you know that Hagibis as well as California wildﬁres are quite
+recent events. So we are just in the estimating phase. But we don't expect it to be very
+strong as far as we are -- and the impact won't be very strong on AXA XL. That's our guess
+today.
+
+Bloomberg Transcript
+
+About the debt leverage. So we are -- you remember that we said that we would be at
+roughly -- we'll be at 30%, 31% at the end of June. We mentioned that we would be in
+September at 30%, I conﬁrm it. And we should be at 28% -- around 28% by the end of the
+present year taking into account the reimbursement. I should say as well that taking into
+account the fact that we conﬁrm that we intend to sell the totality of equitable holding up
+to the end of next year means that we conﬁrm the 25%. So as far as the debt leverage is
+concerned, we are absolutely on track.
+As far as AXA Life Europe, what I can tell you is that we are still expecting the green light
+from the Central Bank of Ireland. You know that it's always complex. So -- but we are
+expecting it. And the beneﬁt, of course -- and the beneﬁt of AXA Life Europe will be -- will
+come later on.
+
+Operator
+The next question comes from Kamran Hossain from RBC.
+
+Q - Kamran Hossain
+
+{BIO 17666412 <GO>}
+
+It's Kamran Hossain from RBC. Two questions. The ﬁrst one just on AXA XL. Could you
+maybe talk us through what the losses might have been last year if you've had basically
+the same statutory losses, same reinsurance program -- or noted to reinsurance program
+what the kind of H2 might have looked like versus what you've got this year? So that's the
+ﬁrst question. Then the second question is could you maybe update on when we expect
+AXA Tianping to consolidate?
+
+A - GÃ©rald Harlin
+Okay. First of all, on the losses, I would say that the program was not fundamentally
+diﬀerent. So it's been reﬁned. But let's keep in mind that when you compare last year with
+this year, it was much stronger last year than it is today. So that means that the EUR 0.4
+billion that I mentioned would have been much higher last year. AXA -- but I remind you
+as well that as we mentioned -- we mentioned that last year our excess of loss and our
+aggregate coverage, reinsurance coverage, didn't trigger. About AXA Tianping. So I
+believe that before the end of the year, anyway, we consolidate.
+Page 5 of 12
+
+
+
+Company Name: AXA SA
+Company Ticker: CS FP Equity
+Date: 2019-11-07
+
+Operator
+The next question comes from Farooq Hanif from CrÃ©dit Suisse.
+
+FINAL
+
+Q - Farooq Hanif
+
+{BIO 4780978 <GO>}
+
+Apologies to keep asking this question. I just want to clarify the EUR 0.4 billion. It seems
+to me what you're saying is you made an allowance for events in Q4 and you seem to
+have some level of conﬁdence that it's not really going to be much above EUR 0.4 billion.
+Is that because you think you're close to triggering protection? So can we be -- maybe ask
+it another way, are you still very conﬁdent that you'd be limited at EUR 0.5 billion within
+your tolerance almost regardless of what happened in Q4?
+Question 2 is casualty inﬂation. So there's been a lot of commentary from U.S. primary
+carriers about problems in the casualty book. Can you remind us how much casualty
+business you write in XL and what potential reserves are there and whether you were
+seeing anything?
+And the last question is if we take internal model for XL, the European VA business exit
+from U.S. Life and net deleveraging, where do we end up in terms of management actions
+on the Solvency ratio net from one of those actions?
+
+Bloomberg Transcript
+
+A - GÃ©rald Harlin
+Okay. So Farooq, let's be clear, meaning that, as you know, we said that the average level
+of cat for the whole group is EUR 1.5 billion pretax. For XL, it's half, EUR 750 million. And
+what I said is, today, taking into account expected losses for Q4, which took place in
+October, then we would have a deviation of EUR 0.4 billion. And this takes into account
+exactly what we know today. It's an up-to-date estimate. And it's assumed that for the rest
+of the year, it would be in line with the average. That's what I can tell you.
+About the casualty business. And I could say that there has been a large loss activity in the
+casualty insurance marketplace in the U.S. It's been driven by social inﬂation. And there
+has been a slightly higher frequency of large man-made losses on casualty. Outside the
+U.S., I would say, it's far lesser and the extent is much, much smaller. So it leads to an
+increased pricing across many of our casualty lines. And in the U.S., we can expect that
+this dynamic will continue in 2020. So it means that we beneﬁted from very strong price
+increases in the -- in this year. And we can expect it to go on. That's mostly -- we can share
+the ﬁgures with you. And we have all the details of these ﬁgures. But it's -- that's ﬁne.
+
+Q - Farooq Hanif
+
+{BIO 4780978 <GO>}
+
+So just to return, apologies. So basically, if you had more events by the end of this month
+and by the end of December, heaven forbid if bad things happened, would you still feel
+comfortable you'd be capped at EUR 0.5 billion above the budget?
+
+A - GÃ©rald Harlin
+
+Page 6 of 12
+
+
+
+Company Name: AXA SA
+Company Ticker: CS FP Equity
+Date: 2019-11-07
+
+FINAL
+
+No. We wouldn't be capped, as I said, because we are not at the limit of our aggregate. I
+would say nevertheless that we are already in November. And I can say that from a
+statistical basis. And today, generally speaking, we said that the hurricane season ceases
+mid-November. So we are not very far. So that's what I can tell you. But for the time being,
+we cannot say that we are capped. Nevertheless, keep in mind that we assume that for the
+next -- for November and December, we are implicitly taking the equivalent of EUR 130
+million roughly of cat coming from XL.
+
+Operator
+The next question comes from Nick Holmes from Societe Generale.
+
+Q - Nick Holmes
+
+{BIO 3387435 <GO>}
+
+Just one question. With the solvency ratio, can you explain a bit more how you achieved
+such a strong operating return of plus 5%? That really seems very, very strong.
+
+A - GÃ©rald Harlin
+Okay. So Nick, we had normalized operating return of 5 points. We had -- we assumed
+minus 3 points coming from the dividend. And we have an operating variance of plus 2
+points. You know that it's quite logical to have operating variance. There are more
+positives than negative because we are, as usual, relatively cautious. That's what I can tell
+you.
+
+Bloomberg Transcript
+
+Q - Nick Holmes
+
+{BIO 3387435 <GO>}
+
+So could you tell us which business lines were contributing to that?
+
+A - GÃ©rald Harlin
+Oh, it was mostly the P&C business.
+
+Q - Nick Holmes
+
+{BIO 3387435 <GO>}
+
+Okay. So maybe reserve releases or...
+
+A - GÃ©rald Harlin
+France and Switzerland. France and Switzerland.
+
+Q - Nick Holmes
+
+{BIO 3387435 <GO>}
+
+Right. Would that imply reserve releases or something like that?
+
+A - GÃ©rald Harlin
+No. It's not reserve releases. But it means that it's an operating variance coming from
+lines, which are P&C lines in France and Switzerland. You can -- okay, you can have -- Nick,
+it's not because you have releases, you know that you can have releases. But you can -you have also -- we are tracking as usual the level of reserves. And when we consider that
+Page 7 of 12
+
+
+
+Company Name: AXA SA
+Company Ticker: CS FP Equity
+Date: 2019-11-07
+
+this level of reserves is increasing, this level of excess reserve is increasing, then we have
+to adjust it. And that's what we call the operating variance here. Is it clear?
+
+Q - Nick Holmes
+
+{BIO 3387435 <GO>}
+
+FINAL
+
+Yes. It is.
+
+Operator
+The next question comes from James Shuck from Citi.
+
+Q - James Austin Shuck
+
+{BIO 3680082 <GO>}
+
+I had 3, if it's possible, please. First one, just a quick one. For the losses of Dorian, Faxai,
+Hagibis, could you tell me what you're basing those oﬀ in terms of industry losses, please?
+Second question, linked to kind of casualty trends and just the XL reserving situation, you
+booked a EUR 1 billion P-GAAP reserve margin at the time of the acquisition. Could you
+just tell me how that is developing over time given the trends you're seeing on the loss
+cost and other developments since then, please?
+
+Bloomberg Transcript
+
+And the last question was just around the Solvency II development in Q3. So we had H1
+with negative market impact of 9 points. By nine months, that had gone to negative
+impact of 3 points, implying 6 points of beneﬁt in Q3. Just given the interest rate
+movement in Q3 stand-alone, I would have expected that to be worse in Q3, not better. If
+you could just shed some light on that, that would be helpful, please.
+
+A - GÃ©rald Harlin
+Okay. Starting ﬁrst with the 3 catastrophic events. So roughly speaking, it's -- we are
+assuming that it would be EUR 25 billion.
+
+Q - James Austin Shuck
+
+{BIO 3680082 <GO>}
+
+So could you split those between the 3, please?
+
+A - GÃ©rald Harlin
+In total, in total. So EUR 25 billion in total.
+
+Q - James Austin Shuck
+
+{BIO 3680082 <GO>}
+
+Yes. Could you split those between the 3, perhaps?
+
+A - GÃ©rald Harlin
+No, because we are making assumptions. So globally speaking, we prefer -- we have 2.
+One important point that I wanted to share with you, don't consider that the only way to
+assess claims would be a kind of top-down approach, it's a combination of top-down and
+the bottom-up approach. So that means that -- don't consider that we are starting from
+Page 8 of 12
+
+
+
+Company Name: AXA SA
+Company Ticker: CS FP Equity
+Date: 2019-11-07
+
+FINAL
+
+the EUR 25 million -- billion that I mentioned and that we take our market share. No. We
+are more sophisticated than this. Meaning that the EUR 400 million has been backed by, I
+would say, adequate assessment of the claims line by line. That's a better view. And it's a
+combination of these 2 approaches, which makes that, in the end, we announced the EUR
+0.4 billion.
+So the second question is the development of the casualty. You are right saying that we
+had minus -- that we had EUR 1 billion, it's euros, of excess reserves linked to our P-GAAP.
+And your question was clear and what's the evolution. That means that we consider that,
+today, we are well reserved. And that we are well-reserved and that this EUR 1 billion is
+suﬃcient in order to cover an eventual increase of reserves. So that's it. And I don't see in
+the foreseeable future any kind of need to reinforce our reserves taking into account this
+buﬀer.
+
+Bloomberg Transcript
+
+The last question is on Solvency II. So we had minus 9 points into the ﬁrst half. We had
+minus 5 points in the Third Quarter. So the total market impact is minus 15 points. And
+what I could add is that if we would do it today, it would be minus 11, meaning that we
+recovered the equivalent of 4 points by the nine months -- by the -- in November -- in
+October, in October and obviously, the ﬁrst days of November, to be clear. So everything
+equal, it means that we would be not at 187. But we would be at 191. So that's it.
+And there were some questions -- you asked a question about what are the moving parts.
+We could say that, as we mentioned, XL, we still are expecting that XL will be integrated in
+our internal models. And the upside by 2020 should be between plus 5 and plus 10. Then
+we have the operational return net of dividend, which could be expected between plus 5
+and plus 10. Then we have equitable holding. I remind you that we still have an economic
+interest of 30% to sell 148 million shares corresponding to 5 to 6 points of solvency at the
+time it will be sold. Then we have AXA Bank Europe. It's been published. And you noticed
+recently and then we mentioned that the upside in terms of solvency should be plus 4
+points. Last, AXA Life Europe, circa 1 point. This will be oﬀset by the deleveraging. I
+answered the previous question and saying and conﬁrming that we would be at 25%. And
+this is a minus 5 points' impact on the solvency. So I hope it's clear. These are all the
+moving parts that we could expect for the rest of -- for the rest. But it will be by 2020, pay
+attention. XL internal models, it's clear that it will be by the end of 2020. Operational
+return will be spread over the whole year. And equitable holding, it will be spread -- it will
+depend at the time when we sell it.
+Last point, AXA Bank Belgium, it will depend on the closing. So it will be at closing that
+we'll get the 4 points. And for the deleveraging, on top of my head, it correspond to EUR
+1.7 billion, of which EUR 1.5 billion should be reimbursed in April.
+
+Q - James Austin Shuck
+
+{BIO 3680082 <GO>}
+
+Okay. That's helpful. I think some of my numbers are a bit oﬀ for Q3. But that's helpful to
+get that pro forma. Just one quick question, in terms of the mix of debt between senior
+and subordinated, obviously, most of your debt at the moment is subordinated. Do you
+see any need? Or do you like to rebalance away from subordinated more towards senior?
+
+Page 9 of 12
+
+
+
+Company Name: AXA SA
+Company Ticker: CS FP Equity
+Date: 2019-11-07
+
+A - GÃ©rald Harlin
+
+FINAL
+
+Not for the time being. So meaning that you are right saying that most of our debt will be
+-- when I say that we'll have 25%, most will be subordinated. So for the time being, there
+is no plan to fundamentally change. You know that, today the spreads are quite small,
+meaning that the diﬀerence between a subordinated debt and the senior debt is not so
+huge. So that's why we don't plan in the foreseeable future to change it.
+
+Operator
+The next question comes from Colm Kelly from UBS.
+
+Q - Colm Kelly
+
+{BIO 19140684 <GO>}
+
+Just on the solvency, a number of peers in France cite the challenges with respect to their
+subsidiary solvency ratios for the respective French life insurance businesses, which is
+logical given the low interest rate environment. I appreciate we've had positive interest
+rate developments Fourth Quarter to date. But I was just wondering if you could take the
+opportunity maybe to update in that context on the solvency for France. Is there anything
+that would concern you there with respect to upstreaming in the second half, et cetera?
+
+Bloomberg Transcript
+
+A - GÃ©rald Harlin
+Okay. No. That's a good question because I am quite conscious that a lot of our peers or
+some have been communicating on the need for recapitalization and so on. It's not at all
+our case. And I wanted to be clear on this. In France, we have a General Account of EUR
+110 billion. And this is on top of roughly EUR 35 billion of Unit-Linked business. First of all,
+I should say that our General Account business has been managed extremely cautiously
+over the last years meaning that we didn't dilute our business. Take the example of this
+year in -- over the ﬁrst nine months, roughly speaking, inﬂows oﬀset the outﬂows. And
+that's the name of the game. That means that all our peers who have been hit or
+communicated on some -- the absolute need to stop this General Account, where is it
+coming from? It's coming from the fact that they diluted their funds to such an extent that
+their fund is exhausted. It's not at all our case, with -- meaning that we can keep our fund
+over the last years. Roughly speaking, as I said, inﬂows equaled outﬂows. So it was quite
+well balanced. We stabilized the General Account. And we can -- over the next years, we
+have absolutely no fear. And we can keep it like it is with -- so taking also into account the
+fact that contrary to a lot of our peers, we sell much more Unit-Linked business. We -- in
+the ﬁrst nine months, we were at 35%. And the peers are, on average, at 24%. So the
+combination of, I would say, a very prudent management of our General Account, no
+dilution over the next years, a strong percentage of Unit-Linked business. And I should
+say, which has been absolutely in favor of our policyholders, all of this makes that we have
+absolutely no fear, no need for recapitalization. And we are quite relaxed as far as our
+capital level of AXA France is concerned.
+
+Operator
+And next question comes from Peter Eliot from Kepler Cheuvreux.
+
+Page 10 of 12
+
+
+
+Company Name: AXA SA
+Company Ticker: CS FP Equity
+Date: 2019-11-07
+
+Q - Peter Eliot
+
+{BIO 7556214 <GO>}
+
+FINAL
+
+I'll give you some respite from XL, GÃ©rald. And ask 3 diﬀerent questions, if I may. First
+one, on the solvency, can you conﬁrm what management actions you took in the quarter
+and what impact those had? I think you took out some further hedging. But I just -- yes, it
+would be great if you could quantify any actions.
+The second question was on AXA IM, very strong ﬂows there. Just wondering if you could
+split those between the XL integration third-party inﬂows or anything else. And I mean
+maybe just in the context of the changes announced. I mean the results look pretty good,
+I would say, from this result -- from yesterday's release. So I'm just wondering if you want
+to elaborate on anything that you think can be diﬀerently in your new role.
+Then maybe ﬁnally, the EIOPA review has been out for a few weeks now, just wondering if
+you had any comments that you wanted to share from your analysis to that.
+
+A - GÃ©rald Harlin
+
+Bloomberg Transcript
+
+Okay. So management action, no, nothing speciﬁc that I could mention. Maybe one point
+that I didn't mention yet is that keep in mind that with the decline in interest rates, we
+have an exposure to Japan. And the decline of interest rates -- long-term interest rates in
+Japan has been lower than for other currencies. So meaning that we have always an
+active management of our solvency. You remember what I said many times. That means
+that in the investment side, we optimize. That means that we have -- we try to privilege the
+assets with a strong return on solvency. And that's what we did. So nothing speciﬁc, Peter.
+Nothing speciﬁc to mention on that side.
+On AXA IM. I could say that on AXA IM we had, roughly speaking, plus EUR 10 billion
+coming from XL. We had plus EUR 2 billion on top of my head coming from the third
+parties. And we had also an outﬂow coming from the JVs and from China of roughly EUR
+8 billion.
+You asked me about my new role. I would say that my new role, over the last 10 years, I've
+been in charge as the CFO of the investment side of the group. So I know AXA IM quite
+well. Maybe some of you remember that I've been CFO long time ago. I've been on the
+board over the last 25 years. And knowing -- you know that the success of AXA IM up to
+now has been on what we call the win-win. What is the win-win? It's the fact that we invest
+ﬁrst for the insurance company in new asset class. And then after a couple of years, we
+can sell it to the outside world. My mission at AXA IM, obviously, clearly, will be to
+develop this business. It's a nice business. It's a fee business. And on the both sides of the
+2 categories of assets, which are core assets and alternatives, I remind you that today we
+have EUR 110 billion of alternatives over EUR 800 billion total AUM. Meaning that these 2
+categories of assets will be developed. And it's my mission. I will do it. I'm conﬁdent that
+we'll achieve it.
+So third question was the EIOPA. It will -- EIOPA is a completely diﬀerent topic. EIOPA is, I
+would say, that, as you know, they've been -- we are in the preliminary phase. EIOPA is
+screening diﬀerent, I would say, alternatives in terms of evolution of Solvency II.
+
+Page 11 of 12
+
+
+
+Company Name: AXA SA
+Company Ticker: CS FP Equity
+Date: 2019-11-07
+
+FINAL
+
+Personally, I'm absolutely convinced that nothing will happen, not at all in 2020. At the
+earliest, it will be '23. Second, you can imagine that it's not because EIOPA is screening
+diﬀerent opportunities including strengthening of certain criteria, of certain parameters
+that it will be accepted by the commission. So that's it. So honestly, I'm not worried by
+this. And it's a long time before we will see any change. Did that answer your question?
+Peter?
+
+Operator
+Peter left the queue in his session.
+
+A - GÃ©rald Harlin
+Okay. Okay. But we are still connected, right?
+
+Operator
+Yes. Sure, sure, sure. Yes, yes. But for the moment, we have no more questions. (Operator
+Instructions) We have no more question for the moment.
+
+A - GÃ©rald Harlin
+
+Bloomberg Transcript
+
+Okay. So I would like to thank you for attending this session. And I wish you a very nice
+day. Thank you.
+
+This transcript may not be 100 percent accurate and may contain misspellings and other
+inaccuracies. This transcript is provided "as is", without express or implied warranties of
+any kind. Bloomberg retains all rights to this transcript and provides it solely for your
+personal, non-commercial use. Bloomberg, its suppliers and third-party agents shall have
+no liability for errors in this transcript or for lost proﬁts, losses, or direct, indirect,
+incidental, consequential, special or punitive damages in connection with the furnishing,
+performance or use of such transcript. Neither the information nor any opinion expressed
+in this transcript constitutes a solicitation of the purchase or sale of securities or
+commodities. Any opinion expressed in the transcript does not necessarily reﬂect the
+views of Bloomberg LP. © COPYRIGHT 2022, BLOOMBERG LP. All rights reserved. Any
+reproduction, redistribution or retransmission is expressly prohibited.
+
+Page 12 of 12
+
+

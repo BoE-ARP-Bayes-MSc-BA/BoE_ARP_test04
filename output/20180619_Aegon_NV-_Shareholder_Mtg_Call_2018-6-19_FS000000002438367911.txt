@@ -1,0 +1,2029 @@
+Company N ame: Aegon N V
+Company Ticker: AGN N A Equity
+Date: 2018-06-19
+
+Investor and Analyst Meeting
+Company Participants
+FINAL
+
+Jan Willem Weidema, Head-Investor Relations
+Matthew James Rider, Chief Financial Officer
+
+MANAGEMENT DISCUSSION SECTION
+Jan Willem Weidema
+
+{BIO 15133400 <GO>}
+
+Good afternoon, everyone, and thanks for joining us for this interactive webinar. We are
+really excited to have so many analysts and investors listening in especially since this is the
+first time we've ever held a webinar. Matt Rider, Aegon's CFO, will shortly present an
+update on the company's financial transformation and how we manage and deploy
+capital.
+
+Bloomberg Transcript
+
+During the presentation, you have the opportunity to ask questions via the Orange Ask a
+Question button on your screen. Following the presentation, I will put as many of these
+questions to Matt as the time allows for during the Q&A session.
+Last but not least, today's presentation may include forward-looking statements. So as
+always, please take a moment to review the disclaimer in the back of the presentation.
+And with that, it's my pleasure to hand it over to Matt.
+
+Matthew James Rider
+
+{BIO 20002664 <GO>}
+
+Good afternoon, everyone. Thank you all for your continued interest in Aegon and for
+joining us for today's webinar. As I've now been in the CFO role for over a year, this is the
+perfect time for me to reflect on the things that we've achieved so far and provide you
+with an update on the financial transformation that we have embarked upon. Through this
+transformation, we are becoming a more efficient and financially predictable company
+that has a strong capital position and improved and it controls environment and higher
+and more diversified remittances.
+In my first few months as CFO of Aegon, our focus was on successfully improving the
+capital position of the business and enhancing the financial performance across the group.
+Today, all of our main units are in much better shape than they've been in recent years,
+and this will enable us to significantly increase our regular net remittances in 2018.
+Given the continued regulatory account and accounting changes, we decided to
+accelerate the finance transformation program that had already begun. A good example
+of this is our model validation and conversion program.
+Page 1 of 31
+
+
+
+Company N ame: Aegon N V
+Company Ticker: AGN N A Equity
+Date: 2018-06-19
+
+FINAL
+
+Another key change for us was the rollout of our new capital management policy in
+August of last year, which included updated capital target zones for each unit. As I'll
+outline later, all of our units are expected to remain well within these new target zones
+despite the anticipated changes in the coming years. While local regulatory capital
+regimes are important for us, we manage our capital within a multi-dimensional
+framework.
+In the medium-term, we expect to be able to maintain capital at the upper end of our
+target zones, maintain adequate cash in the holding, while maintaining our leverage ratio
+down. This will allow us to focus on optimizing and strongly growing our capital generation.
+What's more, we are securing future capital generation by investing in the growth of our
+business.
+
+Bloomberg Transcript
+
+Let me now take you through the main achievements and priorities from a finance
+perspective. On slide 4, you can see an overview of what we have done over the last 18
+months as part of our financial transformation program. In 2017, we significantly improved
+our group Solvency II ratio to 201%, which represents a 44-percentage-point increase over
+the prior year. This level of capitalization provides us with a robust buffer, protecting both
+our policyholders and our business, for instance, in the event of a sharp drop in the
+financial markets.
+Recent divestments have increased our financial flexibility. For example, the sale of part of
+our U.S. runoff businesses and UMG in the Netherlands freed up almost €1 billion in capital.
+Another more recent example is the sale of our Hungarian mortgage company. We
+highlighted this as non-core at our January 2016 Analyst and Investor Day and recently
+succeeded in divesting this business with no material impacts in our results.
+Management actions have also helped such as moving to fee and protection businesses,
+reducing expenses and optimizing our risk profile. These types of actions enabled us to
+successfully recapitalize our Dutch business and turn around our UK operations, and I am
+pleased to confirm that Aegon in the Netherlands and the UK will upstream dividends in
+the first half of this year of €100 million and £50 million, respectively.
+At the same time, we reached an agreement with our Dutch supervisor, DNB, on a
+number of open issues for calculating our solvency position, including the conversion
+factor of our U.S. business. You may have also noticed that our fair value items have
+improved significantly. This is the result of adjustments made to hedging programs to
+reduce P&L volatility, while continuing to protect our capital position.
+As part of the management of our hedging programs, we focus on a combination of
+metrics, including capital, IFRS earnings and liquidity. Furthermore, we have improved our
+internal processes, which has enabled us to enhance our disclosures around Solvency II
+capital and capital generation.
+Let's now turn to slide 5, which lays out our main priorities for the finance organization.
+These go hand-in-hand with the strategic and cultural transformation going on across our
+company. We started the financial transformation with our model validation and
+Page 2 of 31
+
+
+
+Company N ame: Aegon N V
+Company Ticker: AGN N A Equity
+Date: 2018-06-19
+
+FINAL
+
+conversion program in 2014. We are still on this journey and have accelerated this
+transformation in light of the implementation of IFRS 9 and 17, something I will discuss in
+more detail later.
+Modernizing our models is part of this and improves the financial control of our business. It
+also allows for streamlining of processes, increased automation and enhanced control.
+Another key priority is our enhanced – to enhance our disclosures by better aligning our
+disclosures with how we manage the business, we aim to provide enhanced insights into
+the growth potential of our businesses particularly in Europe. These changes will enable
+you to clearly see the performance of our UK platform business and our Dutch banking
+and service businesses.
+Furthermore, we want to maintain a solid financial profile by tightly managing our capital
+position, which I'll cover in the second half of my presentation. Our focus here is on
+improving sustainable capital generation in the units to further increase remittances to the
+group. Crucial to this is remaining prudent with respect to leverage as this protects our
+credit ratings and increases financial flexibility. Lastly, we are making strong progress on
+our 2018 financial targets. While new business growth is a key contributor to this, the
+active management of in-force business is also critical.
+
+Bloomberg Transcript
+
+Since joining Aegon, I've been impressed with the model validation program that was
+started prior to my arrival. Through this program, we have made several critical changes
+to the way we model our most complex businesses. As most of you are aware, the
+original program started out focused on auditing our models, including reviewing the
+documentation and processes, as well as the control environment around these things.
+Since then, our model validation program has transitioned from a project-based program
+to one that is embedded into the business-as-usual processes. Aside from this, we took
+the decision to embark on a financial and actuarial transformation program to streamline
+processes and increase automation, while enhancing the IT control environment.
+As part of this program, we decided to bring down the number of actuarial valuation
+engine substantially. Some parts of our business still need to be converted on to one of
+the new valuation platforms. Having said that, our most complex books of business,
+including variable annuities, universal life with secondary guarantees, and long-term care
+are already on their destination valuation platforms.
+Like many aspects of our finance transformation, IFRS 17 has accelerated the pace at
+which we plan to convert the remaining models. As a result, we expect to complete all
+model conversions within the next two years.
+Although we cannot exclude positive or negative impacts resulting from these
+conversions, the likelihood of a noticeable effect on earnings over the conversion horizon
+is less given the lower complexity of these models. Overall, the program continues to
+drive increased efficiency across the business, thereby enhancing the control framework.
+This will lay a solid foundation for the successful implementation of IFRS 17.
+
+Page 3 of 31
+
+
+
+Company N ame: Aegon N V
+Company Ticker: AGN N A Equity
+Date: 2018-06-19
+
+FINAL
+
+Moving on to slide 7, long-term care is one of the businesses that already went through
+the model conversion. This enhanced modeling capability that we have developed
+enables us to model the business at a very granular level. Combined with our disciplined
+experience, monitoring, and regular assumption updates, this allows us to reflect up-todate experience accurately in our provisioning.
+High-data quality is a crucial importance to effectively pursue rate increases based on
+actuarially justified outcomes. This has led to positive outcomes on our current rate
+increase program, which was initiated in 2016. Aegon started to request approval for rate
+increases on long-term care business going all the way back to 2002 and used this as an
+important way to manage the profitability of our book of business.
+We have worked with others in the industry, the states and the NAIC leadership to create
+a more equitable and predictable environment for both carriers and our customers,
+assuring the continued ability for companies to fulfill their obligations as well as to provide
+flexibility and options to consumers when rate increases are necessary.
+
+Bloomberg Transcript
+
+When we began this program, we set out to get approval for rate increases, representing
+a net present value of $1.1 billion on an IFRS basis. So far, we have realized a total of
+approximately $800 million worth of premium increases. This means we are still expecting
+to achieve a further $300 million of rate increases as part of this program. It also means
+that we have not reflected anything in our reserves for programs beyond the one we are
+currently executing successfully.
+While we have been on balance successful at receiving approvals from most of our
+important states, we still have approvals to obtain about 25% of the program. However,
+we are confident that we will be able to get the remaining $300 million. The combined
+approved and pending rate increases reduce the amount of IFRS reserves we need to
+hold for this business, as we're allowed to recognize the benefit of higher future
+premiums.
+Our decision to hedge interest rates in 2002 was another key management action to
+protect the profitability of this business at the time we entered into forward starting
+swaps to hedge the future cash flows of our long-term care business. By doing this, we
+were able to lock in materially higher investment returns of approximately 7% on our longterm care portfolio for well over the next 20 years, which is reflected under IFRS.
+Had we not executed these management actions, we would be holding approximately
+$3.4 billion of additional IFRS reserves. These numbers are all based on our own
+exposures after recognizing reinsurance coverage on approximately 20% of our business.
+On the next slide, I'll provide you with more detailed information on the claims
+development for our long-term care business. We tracked the experience on our longterm care business on a monthly basis and review the long-term care assumptions
+annually. Over the last two years, our long-term care experience under IFRS has tracked
+well against management's best estimate. The fact that our experience is tracking our
+assumptions closely is reflected in the assumption review that we are currently
+Page 4 of 31
+
+
+
+Company N ame: Aegon N V
+Company Ticker: AGN N A Equity
+Date: 2018-06-19
+
+FINAL
+
+undertaking. Based on the work done so far, we have no indications there will be any
+material impact on our IFRS earnings from this year's long-term care assumption review.
+The graph on the left shows that our actual to expected claims ratio has been close to
+100% since we completed a comprehensive review of our long-term care business back
+in 2016 with our morbidity results being the main driver of actual to expected results. We
+regard the IFRS results as the leading indicator of the health of our long-term care book
+as they reflect the most up-to-date assumptions. It's most important to keep in mind that
+there are key difference between IFRS and statutory reserves. IFRS enables us to use
+best estimates, while on a statutory basis the majority of our assumptions are locked in at
+the point-of-sale or prescribed.
+This does not necessary align with our best estimate assumptions. We, for instance, have
+on average a more conservative claim termination and mortality assumptions on an IFRS
+basis than on a statutory basis. The more conservative assumptions result in a lower
+actual to expected ratio on an IFRS basis.
+
+Bloomberg Transcript
+
+These are just two examples explaining the differences between the IFRS and stat actual
+to expected claims ratio. Despite the elevated claims experience on a statutory basis, we
+continue to have adequate reserves supported by the aforementioned rate increases
+and investment returns. If experience continues to track well against our management
+best estimates, then we would not expect any impact on future capital generation.
+Let's move on to the implementation of IFRS 9 and 17 on slide 9. These standards are
+aimed at addressing shortcomings of the current IFRS principles. While there are still
+several outstanding items needing clarification around the rules, we're actively engaged
+with all relevant parties to find resolutions to these open items.
+Under the current IFRS standards, a mix of different local generally accepted accounting
+principles are used for the valuation of liabilities. This limits comparability between
+insurers. Conversely, the new standards will lead to increased harmonization across the
+European insurance industry.
+With the move to a fair value approach, the forthcoming IFRS regime will move closer to
+how we look at the business, provide greater insight in the sources of profit, and will
+make the IFRS balance sheet more meaningful.
+It will also significantly impact disclosures. However, the new IFRS standards allow insurers
+to make different choices and interpretations, which may limit comparability between
+companies. In making these choices, we aim to align with emerging industry practice and
+to be able to explain results in an intuitive way. At the same time, we will consider the
+trade-off between operational simplicity and optimization of the outcomes. By doing so,
+we aim to tightly manage the implementation cost and timelines.
+We're currently going through a diligent process to estimate the accounting impact of
+IFRS 9 and 17 on our financials and we'll provide more guidance as we get closer to the
+2021 implementation date. Given the more market consistent nature of these standards,
+Page 5 of 31
+
+
+
+Company N ame: Aegon N V
+Company Ticker: AGN N A Equity
+Date: 2018-06-19
+
+FINAL
+
+our IFRS equity will likely become a bit more volatile and could potentially be lower. The
+latter would be offset, of course, by higher future earnings.
+In the meantime, we want to continue providing the investment community with the most
+meaningful and relevant disclosures possible as I'll highlight on the next slide. I realize that
+reporting changes are not popular and create additional work for the investment
+community. However, accounting rules require us to align reporting with how we manage
+the business. The reporting changes we're announcing today reflect the significant
+changes of our business has undergone and we continue to transform across our
+businesses.
+In the Netherlands, we're aligning reporting with legal entities. This is the way we
+financially manage the business. It also allows us to put a spotlight on the Dutch banking
+and service businesses, which are important growth drivers in the Netherlands. In addition,
+we're aligning the way we account for our alternative investments and consumer loans in
+the Netherlands with how we do so in the Americas. Management's best estimate for
+returns on alternative assets and consumer loans will be taken through underlying
+earnings going forward with over or underperformance included in below the line items.
+
+Bloomberg Transcript
+
+On balance, this would have led to a modest increase in the 2017 underlying earnings of
+Aegon in the Netherlands as the higher return on real estate assets will partially be offset
+by the required provision for anticipated impairments on consumer loans.
+On the next slide, let me quickly highlight the reporting changes for the U.S. and the UK. A
+change that we will make prospectively is the way we allocate expenses in the U.S.
+Following the transformation of Transamerica and to better reflect the expense savings
+program, we've reassessed the allocation of expenses by line of business. This change
+does not impact overall earnings, but will lead to a reallocation of profit between the
+different lines of business. We do not intend to restate 2017 segment results to reflect
+these changes. You can find a pro-forma 2017 view of the new allocation method in the
+appendix of this presentation.
+A change that will impact all of our business units is the decision to align the scope of our
+MCVNB reporting with that of peers, which means going forward, we will only report this
+for our life, pensions and health products.
+In the UK, we have taken the decision to split our business between existing business and
+digital solutions. This is in line with how we have been managing the business for nearly a
+year now. With our digital solutions business on a standalone basis, it will be far easier for
+you to closely track the growth trajectory of this important business.
+Furthermore, we decided to include the net deposits for the UK institutional business on
+the platform in gross deposits, reflecting the high turnover nature of this business. The
+UK, Netherlands and MCVNB reporting changes are reflected in the adjusted financial
+supplement that was published on our website today. With that I'd now like to move on to
+capital management and deployment, the core focus of this webinar.
+
+Page 6 of 31
+
+
+
+Company N ame: Aegon N V
+Company Ticker: AGN N A Equity
+Date: 2018-06-19
+
+FINAL
+
+As you can see on slide 13, we are managing our capital position across a multiple of
+dimensions. The Group Solvency II ratio is generated by rolling up the local ratios under
+the various local regulatory frameworks. The local regulatory ratios are an important
+element as this determines the level of remittances coming from the local units.
+Remittances, in turn, are the main driver of holding excess cash, which is an important
+consideration for returning capital to shareholders.
+In addition, we continue to target a group leverage ratio of 36% (sic) [26%] (00:20:28) to
+30%, in part to maintain strong credit ratings. On the next slide, I'll highlight the local
+regulatory frameworks of our main operating units and potential impacts to these in the
+medium term.
+
+Bloomberg Transcript
+
+On slide 14, this shows that our local units are strongly capitalized and that we are able to
+absorb upcoming known regulatory changes while still allowing us to execute our strategy.
+We expect that the RBC ratio of our U.S. business will remain above the midpoint of its
+350% to 450% target range despite anticipated changes to the framework. Over the
+coming three years, we expect the NAIC to incorporate the new tax rate into its RBC
+calculation methodology and to increase asset charges on all assets and implement the
+recently published new variable annuity framework.
+A quick aside on the variable annuity framework that was published by the NAIC two
+weeks ago. In line with what we had said previously, we will – we still expect the outcome
+of this framework to be relatively neutral for our capital position. The standard scenario,
+as it's been developed would not be a binding constraint for us given that our variable
+annuity assumptions are consistent with or more conservative than the proposed
+framework.
+While these are significant changes to the RBC framework, we also continue to optimize
+the capital position of the U.S. through management actions. Also, we estimate that tax
+reform will have a positive impact on capital generation of $100 million per year, which we
+have assumed will not be used to increase remittances to the group but is available to
+further improve the RBC ratio in the U.S. if necessary.
+Moving on to the Netherlands, the Dutch solvency ratio was close to 200% at the end of
+2017. The capital position leaves ample room to do two things: one, invest in alternative
+assets; and two, to absorb the intended lowering of the UFR over the next three years
+with the first 15 basis points reduction being reflected in the first half 2018 reporting.
+The high capitalization level also enables the Dutch unit to absorb unexpected negative
+market movements and other potential headwinds from refinements of Solvency II
+parameters and methodologies.
+The ratio of the UK has become much more predictable and stable following the
+divestment of the annuity portfolio in 2016 and stood at a solid 176% at the end of 2017.
+Let me remind you that this ratio does not include any meaningful benefit from
+transitionals or long-term guarantee measures. We expect this ratio to come down in the
+
+Page 7 of 31
+
+
+
+Company N ame: Aegon N V
+Company Ticker: AGN N A Equity
+Date: 2018-06-19
+
+FINAL
+
+second half of 2018 as we complete the Part VII transfer related to the acquisition of
+BlackRock's defined contribution business.
+The impacts on the local capital ratios mentioned on this slide mechanically translate into
+an impact on the group ratio as I will discuss on the next slide. This is precisely the reason
+why we have managed the ratios of our businesses to the top end of their target ranges.
+Our local units now have adequate capital buffers to absorb these changes, while
+continuing to upstream capital to the group, invest in the business, and execute on their
+strategies.
+Let me remind you that the aforementioned changes are expected to take place over a
+three-year period. This means we do not expect our Group Solvency II ratio to actually
+move down dramatically. Furthermore, the changes will lead to significant increase in
+capital generation of around €150 million per year. We expect to retain part of that future
+capital generation in the group to offset a large part of the anticipated changes.
+Additionally, we will continue to consider management actions to further strengthen our
+capital position and capital generation when and where appropriate. This will also support
+maintaining a strong quality of capital.
+
+Bloomberg Transcript
+
+At year-end 2017, Tier 1 capital comfortably covered SCR with a ratio of 166%. And let me
+remind you that our Solvency II sensitivities to market movements are very manageable.
+The Tier 1 coverage and Group Solvency II ratios are good indicators of our financial
+strength. They are however not the key drivers of capital deployment. Why? – Because we
+need to be able to upstream cash from our local units to be able to redeploy it at the
+group level.
+Another question I've been asked is how we look at the stock and flow of capital in our
+capital management decisions. In principle, our units will pay the planned dividends to the
+group, subject of course to normal governance, as long as their Solvency II ratios are
+anticipated to remain within their respective target ranges. Market movements can have a
+significant positive or negative impact on the ratios of our units. In general, we don't
+consider positive market movements fully deployable capital, even if the local ratio would
+move into the opportunity zone. We tend to stick to the planned dividends and thus only
+gradually upstream the benefit from any positive market movements over time.
+Now, I'd like to briefly touch upon rating agency considerations on the next slide. We, and
+I'm sure most people who are listening in today, pay a lot of attention to regulatory capital
+ratios. In addition, we closely monitor our capital adequacy as per the models of the
+different rating agencies. As I'm sure you are all aware, rating agencies don't just look at
+capital adequacy; they take a more holistic view and assess a combination of factors
+including liquidity, quality of risk management, and a range of profitability and leverage
+metrics.
+The profitability and leverage triggers are normally based on IFRS metrics. In 2017, we
+generally met or exceeded all of these IFRS-based downgrade triggers. One of S&Ps key
+focus areas is the quality of capital. Based on their model, we rely heavily on the value of
+business in-force and hybrid debt. We expect to improve the quality of capital over time
+
+Page 8 of 31
+
+
+
+Company N ame: Aegon N V
+Company Ticker: AGN N A Equity
+Date: 2018-06-19
+
+FINAL
+
+as we grow own funds and retain capital. These downgrade triggers are not bright line
+tests and failing – falling short on one metric does not imply a downgrade per se, as rating
+agencies take a more holistic view.
+When taking management decisions, we need to balance the impact on capital, capital
+generation, rating agency metrics, and leverage. For instance, putting on hedges to
+protect our capital position can negatively impact our IFRS profitability through fair value
+movements. The leverage calculation of all major rating agencies are also based on IFRS
+metrics. The rating agencies recognize that the new IFRS standards will not impact the
+cash flow pattern of our business. However, they might recalibrate their leverage targets.
+Given this uncertainty, we plan to gradually manage down our leverage ratios and
+increase financial flexibility in the medium term.
+
+Bloomberg Transcript
+
+As you can see on slide 17, we expect to move to the low-end of our target range for
+financial leverage in 2018. The planned redemption of a €500 million senior note in
+August will reduce our last reported leverage ratio by approximately 150 basis points on a
+pro forma basis.
+Over the coming years, the leverage ratio is expected to gradually reduce further as a
+result of retained earnings. As I mentioned earlier, it is likely that our IFRS equity will
+become somewhat more volatile. In the coming two years, we will get more clarity on the
+impact of the new accounting standards and the stance of rating agencies. By lowering
+our leverage ratio, we are creating financial flexibility to absorb any potential impacts on
+our equity base. Our other internal metric for leverage is the fixed charge coverage ratio.
+This currently sits at the top-end of our target range and is anticipated to improve further
+in line with earnings growth.
+On slide 18, I will discuss our refinancing plans. Just because our leverage ratio is
+expected to decrease in the short term, this doesn't mean that we aren't expecting to
+issue any debt in the coming years. In fact, our intention is to replace most of our
+grandfathered securities with Solvency II compliant instruments before the end of 2025.
+We have significant flexibility to achieve this as the vast majority of our grandfathered
+securities are callable on a quarterly basis.
+Earlier this year, for example, we issued our first Solvency II compliant Tier 2 securities and
+used the proceeds to redeem grandfathered Tier 1 and Tier 2 securities. After taking into
+account tiering restrictions on Tier 1, we still have €2.2 billion of grandfathered Tier 1
+securities outstanding.
+Since our AGM in May, we now have the authorization in place to refinance the majority of
+the grandfathered debt with Solvency II compliant contingent convertible securities in the
+coming five years. At present, we don't intend to issue any Tier 2 debt other than that for
+refinancing purposes. Instead, our preference is to maintain the Tier 2 headroom we have
+as this provides financial flexibility and serves as the potential source of capital if needed.
+Moving to another dimension of our capital framework, on slide 19, you can see more
+details about how our excess cash in the holding position works out. We target holding
+Page 9 of 31
+
+
+
+Company N ame: Aegon N V
+Company Ticker: AGN N A Equity
+Date: 2018-06-19
+
+FINAL
+
+excess cash of €1 billion to €1.5 billion and this provides us with a buffer for three
+purposes. First, it enables us to continue to service our debt and fund the operating
+expenses for 1.5 years. Second, it covers contingent collateral needs in a 1-in-200 year
+liquidity stress scenario. And therefore third, it provides a cushion in case there is an
+unexpected timing mismatch between remittances from the units and planned capital
+deployment. All our excess cash is unencumbered and held in our top holding Aegon N.V.,
+mostly in money market instruments.
+In order to optimize the return on investment, we have invested part of the holding
+excess cash in highly liquid short-term assets. Furthermore, we deduct the net current
+liabilities from our holding excess cash position. Please note that net current liabilities
+exclude deferred tax liabilities as these are mainly related to our hybrids; and thus, are
+considered long-term. The aforementioned short-term investments and deferred tax
+liabilities mean that our reported holding excess cash cannot be fully reconciled with our
+parent-only accounts.
+
+Bloomberg Transcript
+
+In the last section of my presentation today, I will focus on capital generation and discuss
+the implications of our capital management framework on remittances and capital
+deployment. In 2018, we expect our units to generate nearly €1.5 billion of capital on a
+normalized basis. We achieve this through a number of actions. In the Netherlands, for
+instance, we significantly improved the capital position of our business through a capital
+injection of €1 billion, the divestment of UMG and by enhancing the risk profile of the
+business through shifting investments to more illiquid assets.
+In the UK, our business has undergone a complete transformation from a subscale
+insurance business to a market leading platform player. At the same time, the earnings
+power of the business has improved, the capital position strengthened and the capital
+intensiveness reduced. In Asia, we've taken a series of management actions including
+placing Aegon Insights into runoff and optimizing the capital framework to improve from a
+consumer to a capital neutral business.
+Meanwhile, our U.S. operations continue to compromise the bulk of the capital generation
+across the group which is supported by our $300 million expense savings program in the
+U.S., continued product redesigns and a $100 million increase over 2017 driven by U.S. tax
+reform.
+After holding expenses, our free cash flows of approximately €1.2 billion before market
+impacts and one-time items is nearly double the amount needed to pay dividends to our
+shareholders. Part of the capital generation will be retained to increase the local unit
+capital ratios. This will enable us to absorb unexpected negative market movements and
+other potential headwinds from refinements of Solvency II parameters and
+methodologies. This number will continue to rise over the medium-term due to the
+decisive actions we have taken and will continue to take to grow capital generation.
+Let's now move on to slide 22, which provides you with more insight into capital
+generation for the group. In 2017, our capital generation significantly benefited from
+market movements and one-time items. This slide provides a normalized view and shows
+
+Page 10 of 31
+
+
+
+Company N ame: Aegon N V
+Company Ticker: AGN N A Equity
+Date: 2018-06-19
+
+FINAL
+
+that on this basis, our capital generation is driven by Own Funds growth, the most
+sustainable form of capital generation. Before investment in new business, we generated
+€2.5 billion of capital with the majority coming from our Own Funds growth. Going forward,
+this is expected to contribute to a further improvement of the quality of capital.
+SCR release, measured at the midpoint of the target range for our units, only contributed
+€400 million to capital generation. As you can see, we reinvested almost half of what we
+generated back into the business and the new business strain is well balanced across the
+group.
+Turning to slide 23, we see that investments in new business that meet our group-wide
+pricing targets are core to our business. We believe this is the best and first use of our
+capital because it drives future capital generation. As many of you are aware, we have set
+clear minimum hurdle rates for pricing with a targeted internal rate of return in excess of
+10%. The majority of our new business investments are expected to have an IRR of over
+10%. This reflects the steps we have made in terms of pricing and product design and has
+led to significant reduction in payback periods. In 2017, approximately 73% of the new
+business strain had a payback period shorter than or equal to 10 years, an improvement
+of approximately 17 percentage points compared with the previous year.
+
+Bloomberg Transcript
+
+As a result we expect every euro of new business strain to lead to more than 3 times as
+much capital generation over time. We recognize that this is an undiscounted number but
+further reducing the payback period and increasing the IRRs will mean that this capital
+generation becomes increasingly frontend loaded.
+As you can see on slide 24, we have significantly increased the diversification of net
+remittances. In recent years, the group was very reliant on the U.S. business. I'm pleased
+to be able to reconfirm that the Netherlands and the UK will both resume remittances
+later this month underscoring that the capital ratios of these entities are back at healthy
+levels.
+Capital injections to fund growth in Asia, Turkey and other businesses are skewed to the
+first six months of 2018. In the first half, we expect a total of approximately €100 million
+capital injections into these business units. These will be partly offset by dividends from
+other units in the same regions in the second half of the year.
+Let's now turn to slide 25 where I will discuss capital deployment. I've already touched
+upon two key capital deployment priorities, continued investment in the business,
+managing down leverage to increase financial flexibility and furthermore, we aim to pay a
+growing and sustainable dividend that is strongly covered by the capital generated by and
+remitted from our operating units. Any remaining financial flexibility can be deployed for
+share buybacks and acquisitions.
+And here, I would like to stress that we have been very disciplined when it comes to
+acquisitions. Our M&A focus has been and still is on in-market bolt-on acquisitions that
+support our strategy. In addition, we will consider divestments if businesses do not meet
+our strategic and financial criteria.
+Page 11 of 31
+
+
+
+Company N ame: Aegon N V
+Company Ticker: AGN N A Equity
+Date: 2018-06-19
+
+FINAL
+
+Before I conclude, I'd like to briefly touch upon the progress we've made so far on our
+2000 (sic) [2018] (00:38:21) financial targets on the next slide. As we switched over to
+half-year reporting, I'm unable to provide a quantitative update on the progress we are
+making toward our 2018 financial targets. What I'd like to reflect on, however, is what
+we've accomplished in the first two years and where we expect to finish in relation to
+each target at the end of the year.
+As you can see, we've made very significant progress toward our targets in the first two
+years. And this means we are on track to deliver on our targets at year-end 2018. We
+expect to hit run rate annualized expense savings of €350 million. As a reminder, our
+program consists of a $300 million target in the U.S., €50 million for the Netherlands, and
+€15 million for the holding.
+
+Bloomberg Transcript
+
+The run rate annualized expense savings as of year-end 2017 stood at €280 million,
+including the innovative outsourcing agreement with TCS to manage the administration of
+our life and annuity business in the U.S. earlier this year.
+Throughout the past two years, we have continued to see strong sales momentum across
+the business. In 2017, this was driven by record year for gross deposits, particularly in the
+UK, following the acquisition of Cofunds and also an asset management through our joint
+ventures. The growth of our business and the successful expense savings program,
+together with the expected benefit from U.S. tax reform, gives us additional confidence
+that we will achieve our return on equity target of 10% in the fourth quarter of 2018. Finally,
+I'd like to reaffirm our commitment to returning €2.1 billion to shareholders over 2016 to
+2018. This will be achieved by continuing to pay a sustainable and growing dividend.
+Overall, we continue to make strong progress on our financial targets.
+On slide 28, just to wrap up my presentation, I'd like to leave you with a few key
+takeaways. First, as I just highlighted, we are making strong progress on each of our 2018
+group financial targets. Second, the finance team is fully focused on the execution of our
+group-wide finance transformation journey with an emphasis on being well-prepared for
+the implementation of IFRS 17. The transformation will not only position us well for these
+changes, but will also allow us to provide enhanced disclosures to our stakeholders that
+align well with how we manage our business for the future. Finally, we are committed to
+maintaining a solid capital position above the midpoint of our target zones, not only at the
+group level, but within our main units as well even after taking into account the anticipated
+impacts between now and 2020.
+This strong capital position will be supported by growing capital generation in our
+operating units over the same period. As the UK and the Netherlands are returning to
+dividend paying status in the first half of this year, our remittances are expected to remain
+well diversified across the business. The continued progress we are making as an
+organization gives me confidence that we are well positioned for the future. As always,
+thank you for your continued interest in our company.
+I'd like to now hand it back over Jan Willem for the Q&A.
+
+Page 12 of 31
+
+
+
+Company N ame: Aegon N V
+Company Ticker: AGN N A Equity
+Date: 2018-06-19
+
+Jan Willem Weidema
+
+{BIO 15133400 <GO>}
+
+FINAL
+
+Thank you, Matt. Before we start with the Q&A session, let me introduce Nik Godon
+(00:41:59) who is our Chief Actuary in the U.S. He's available on the call to answer
+questions as well.
+
+Q&A
+A - Jan Willem Weidema
+
+{BIO 15133400 <GO>}
+
+We received many questions and we'll go through them topic by topic. Starting off with a
+more general question, Matt. You have been CFO of Aegon for over a year now, what
+was it that most impressed you about Aegon and where do you think our company still
+has work to do?
+
+A - Matthew James Rider
+
+{BIO 20002664 <GO>}
+
+Bloomberg Transcript
+
+Yeah. I think the thing that most impressed me was, let's say, the depth of the experience
+monitoring process and the way that changes are reflected routinely in the provisioning.
+Furthermore, I think that Aegon has the ability and willingness to make big moves such as
+the sale of the COLI/BOLI business, UMG and injecting €1 billion into the Netherlands and
+also the sale of Ireland. The outsourcing of life and annuity administration to TCS was
+another example of a very big important move for us. There is a speed and agility to this
+company which I have rarely seen.
+Now, where can we improve? I can really only look to my backyard here. I think much of
+the IFRS 17 work is foundational in nature so that would be systems, data, process, real
+core foundational work, and I think that we need to do some accelerating there and I think
+we're already doing that.
+
+A - Jan Willem Weidema
+
+{BIO 15133400 <GO>}
+
+Thanks. You mentioned systems and before you mentioned models as well. Can you give
+some more color around the validation and conversion of the less complex models? And
+what the financial impact might be?
+
+A - Matthew James Rider
+
+{BIO 20002664 <GO>}
+
+Yeah. I think I said in the presentation, we've – the most important models, the most
+complex ones have already been converted, but there are still some more minor ones
+left to do. And these are some 20 separate models that need to be converted ultimately
+onto their destination, let's say, valuation platforms, but because they are, let's say, less
+complex in nature, we would not necessarily expect any big hiccups to come through. I
+think it would be very minor things.
+
+A - Jan Willem Weidema
+
+{BIO 15133400 <GO>}
+
+Thank you. As a result of the recent events in the industry and some analyst notes in
+recent weeks, long-term care has received a lot of attention. Also today, we've received
+many questions on this topic. So, let me spend some time on that. To start off is your
+Page 13 of 31
+
+
+
+Company N ame: Aegon N V
+Company Ticker: AGN N A Equity
+Date: 2018-06-19
+
+long-term care assumptions on a IFRS basis? To what extent have the auditors looked
+through the assumptions and assessed them?
+
+FINAL
+
+A - Matthew James Rider
+
+{BIO 20002664 <GO>}
+
+So, the auditors routinely go through our assumptions setting and especially, obviously,
+each time when we do the big assessment. So, in this case it's the second quarter for the
+U.S. and the fourth quarter for the other businesses. So, the auditors actually do a very
+detailed job. They look to make sure that the assumptions that we're making are tracking
+well with our actually actual observed experience, and they also sort of give an opinion on
+what they see throughout the rest of the industry in terms of what other participants are
+assuming.
+So, on that sense we try to remain within a relatively narrow band of acceptability and we
+try to stay within the middle of the road. So, auditors typically look at this pretty seriously.
+We also from time to time in fact call in outside actuarial organizations to give an opinion
+on the extent to see – the extent to which they see our assumptions are in line or not with
+the market. And so far, especially since 2016, we've seen everything track pretty well with
+our experience.
+
+A - Jan Willem Weidema
+
+{BIO 15133400 <GO>}
+
+And would you say that scrutiny is rising here?
+
+Bloomberg Transcript
+
+A - Matthew James Rider
+
+{BIO 20002664 <GO>}
+
+Yeah. It definitely is rising. We've in fact not only from external market participants,
+analysts and investors but also from regulators as well. And we have received more
+questions in terms of the assumptions that we're making on long-term care business. But
+so far everybody seems satisfied with the results and we've not had to make any
+adjustments to our provisioning as a consequence of it.
+
+A - Jan Willem Weidema
+
+{BIO 15133400 <GO>}
+
+Thank you. The next question is on the actual to expected, the statutory reserves are
+quite close to the IFRS reserves on an overall level. So what do you think is the risk of
+increased reserves being required there given the high actual to expected ratio on a stat
+(00:46:15) basis?
+
+A - Matthew James Rider
+
+{BIO 20002664 <GO>}
+
+Yeah. I think one of the things that I've seen maybe missed a little bit in some of the
+recent analyst write-ups on this, is that they're recognizing the fact that cash flow testing
+is performed at a legal entity level. And if you have losses in one area, they could be
+compensated by gains in other books of business. But, in fact, there is an annual premium
+deficiency reserve test that is done, that looks at basically the adequacy of the statutory
+reserve. But looking at let's say the more management best estimate assumptions going
+forward, so it's a typical gross premium valuation together with some prudency added
+into it particularly around investment returns and such things.
+
+Page 14 of 31
+
+
+
+Company N ame: Aegon N V
+Company Ticker: AGN N A Equity
+Date: 2018-06-19
+
+FINAL
+
+So I think that at this point we're not seeing deficiencies in the long-term care block and I
+would emphasize that whereas the cash flow testing is done on a legal entity basis that
+sort of combines blocks together. In the case of this premium deficiency reserve, it's done
+specifically for long-term care. So, so far, we are not seeing a deficiency on that basis and
+the legal entities for long-term care specifically.
+
+A - Jan Willem Weidema
+
+{BIO 15133400 <GO>}
+
+All right. Do you believe, or do you have a fear actually that regulators or auditors will
+pursue higher provisions as there is a fear for systemic risk?
+
+A - Matthew James Rider
+
+{BIO 20002664 <GO>}
+
+Not necessarily. On this one, I would point more to our ability to get premium rate
+increases. So, for example, I think there is a recognition with another one or two notable
+failures in the market that they probably could have been avoided had state officials
+granted premium increases going forward.
+So, I think, if anything, there is that recognition among state insurance departments that
+granting premium rate increases is really a buffer against protecting against insolvency. So
+I think that's one of the reasons why we can be so confident that the €300 million
+remaining in rate increases, we think that we're going to be able to get.
+
+Bloomberg Transcript
+
+A - Jan Willem Weidema
+
+{BIO 15133400 <GO>}
+
+The next question is quite specific on this topic. If Aegon wants to update their morbidity
+assumptions for statutory accounting, would that figure a true-up in provisioning, keeping
+the discount rates stable?
+
+A - Matthew James Rider
+
+{BIO 20002664 <GO>}
+
+You have to repeat the question there.
+
+A - Jan Willem Weidema
+
+{BIO 15133400 <GO>}
+
+If we were to update morbidity assumptions to best estimates on a statutory basis, what
+would be the impact on the reserves?
+
+A - Matthew James Rider
+
+{BIO 20002664 <GO>}
+
+Yeah, it's a strange thing. It would result in lower statutory reserves. Because, in general,
+the morbidity provisions under IFRS are a little bit more prudent, and more reflective of
+our current experience. Whereas the assumptions that are made in stat (00:48:56) and I
+would say not just related to morbidity, but in other areas are well either locked in
+assumptions, at policy issue, or at time of an unlocking, or are mandated by regulation,
+especially in the case of interest rates as an example. So that would be the basic impact.
+And then you'd have to roll that through premium deficiency reserve testing and also cash
+flow testing, so it gets a bit complicated. But it was a complicated question.
+
+A - Jan Willem Weidema
+
+{BIO 15133400 <GO>}
+Page 15 of 31
+
+
+
+Company N ame: Aegon N V
+Company Ticker: AGN N A Equity
+Date: 2018-06-19
+
+The next question is on the investment returns for long-term care. As the uplift assumes
+or the 7% investment return assumes, how dependent is it on the forward-starting swaps
+and to what extent is it more alternative assets that drive that?
+
+FINAL
+
+A - Matthew James Rider
+
+{BIO 20002664 <GO>}
+
+It's a – it's, I would say, it's just simply a combination of both. I would mention that, yeah, it
+was quite prudent back in 2002 to begin this forward-starting swap program because this
+is really protecting us for a period going out more than 20 years. So, it is a combination of
+the two.
+
+A - Jan Willem Weidema
+
+{BIO 15133400 <GO>}
+
+Can you clarify? Is that a 20-year period from the start of the program...
+
+A - Matthew James Rider
+
+{BIO 20002664 <GO>}
+
+No.
+
+A - Jan Willem Weidema
+
+{BIO 15133400 <GO>}
+
+...or is that 20 years from (00:50:05)...
+
+A - Matthew James Rider
+
+{BIO 20002664 <GO>}
+
+Bloomberg Transcript
+
+No, actually going forward from now. So this was quite a long dated program recognizing
+of course the extremely long duration nature of the liabilities.
+
+A - Jan Willem Weidema
+
+{BIO 15133400 <GO>}
+
+To what extent do you believe there's a litigation risk in relation to these the rate
+increases for long-term care?
+
+A - Matthew James Rider
+
+{BIO 20002664 <GO>}
+
+Yeah. Maybe, maybe I would call on – we have Nik Godon (00:50:27) on the phone. Maybe
+we can ask that question of Nik (00:50:31).
+
+A - Jan Willem Weidema
+
+{BIO 15133400 <GO>}
+
+Thanks, Matt. So, I think in the U.S., there often is litigation risk in the insurance industry, but
+the rate increase process from a long-term care perspective is heavily involved with the
+state regulators. And so, we have to go through a considerable effort to actuarially justify
+the rate increases that we do and there are various requirements in the states to basically
+only allow a certain amount of the premium to be safe. Basically, we have loss ratio
+requirements. So, each – a portion of each dollar premium essentially has to go to
+benefits. So with the rate increases, as I stated, given that we have such heavy
+involvement with the regulators, I think that would reduce the risk that there might be an
+action of that nature. And generally, we've not had too much action in that area so far that
+I'm aware of.
+
+Page 16 of 31
+
+
+
+Company N ame: Aegon N V
+Company Ticker: AGN N A Equity
+Date: 2018-06-19
+
+A - Matthew James Rider
+
+{BIO 20002664 <GO>}
+
+Okay. Thanks, Nik (00:51:31).
+
+FINAL
+
+A - Jan Willem Weidema
+
+{BIO 15133400 <GO>}
+
+The next question is, what do you actually assume – we talked about morbidity earlier.
+What for mortality improvements in your IFRS reserves in order of sensitivities around –
+you could provide around that.
+
+A - Matthew James Rider
+
+{BIO 20002664 <GO>}
+
+Difficult to do for mortality. For active lives, we're locked into – and I assume we talk about
+statutory numbers at this point but for active lives we are locked into prescribed valuation
+tables. So, I think we use 1983 GAM for – to hit their pre-2005 business and 1994 GAM
+after that. And then for disabled lives reserves it goes back to our actual – goes back to
+our actual experience.
+
+A - Jan Willem Weidema
+
+{BIO 15133400 <GO>}
+
+And how does this compare to the IFRS assumption for this metric?
+
+A - Matthew James Rider
+
+{BIO 20002664 <GO>}
+
+Bloomberg Transcript
+
+Well on the – so, the IFRS metrics for, let's say, disabled live reserves and those for
+statutory are basically the same. But then if you go to IFRS, they're more, let's say,
+prudent.
+
+A - Jan Willem Weidema
+
+{BIO 15133400 <GO>}
+
+The next question is on the – come back to the 7% investment return you were getting –
+Aegon is going through rate increases at the moment. Are those captured by the
+forward-starting swaps put in place in the past?
+
+A - Matthew James Rider
+
+{BIO 20002664 <GO>}
+
+Are they cap – well, no. The forward-starting swaps would have been based on the
+original premium, so that would not be captured. But I would emphasize again that
+without those premium rate increases, we would be holding substantially higher reserves.
+So just on balance, this is – the premium rate increases are really helping us quite a lot. It's
+impossible to lock in interest rates on something that you didn't know was going to
+happen years from inception.
+
+A - Jan Willem Weidema
+
+{BIO 15133400 <GO>}
+
+And with respect to these swaps, can you exclude the possibility that the swap program
+both the benefits and the goals are accounted for in other places of the AEGON group
+and not just in the specific long-term care book?
+
+A - Matthew James Rider
+
+{BIO 20002664 <GO>}
+
+Are accounted for? No, I think we are accounting for that one properly.
+Page 17 of 31
+
+
+
+Company N ame: Aegon N V
+Company Ticker: AGN N A Equity
+Date: 2018-06-19
+
+A - Jan Willem Weidema
+
+{BIO 15133400 <GO>}
+
+The next question is a question for confirmation on the following. Can you please confirm
+that your IFRS reserves assume 100% execution of the price increases in long-term care?
+
+FINAL
+
+A - Matthew James Rider
+
+{BIO 20002664 <GO>}
+
+That is correct. But importantly, they assume 100% execution of the price increases of the
+current program and do not reflect any future programs that we might do in the future.
+
+A - Jan Willem Weidema
+
+{BIO 15133400 <GO>}
+
+The next one, could you – could it be possible for AG51 (00:54:22) in the U.S. that at least
+through the (00:54:26) cash flow testing hits for long-term care?
+
+A - Matthew James Rider
+
+{BIO 20002664 <GO>}
+
+Well, AG51 (00:54:30) is now prescribed. So we submit information to the – to U.S.
+regulators on a confidential basis. Looking at long-term care blocks in much the same way
+as you would look at normal cash flow testing, except that you look at the block just in and
+of itself. However, what we are seeing through, again, that premium deficiency reserve
+testing is that given the rate increases, given the locked-in interest rates and other things,
+we're still comfortable with the position.
+
+A - Jan Willem Weidema
+
+{BIO 15133400 <GO>}
+
+Bloomberg Transcript
+
+Thank you. You mentioned that no IFRS charges are expected. Can you comment on the
+position around stat at this moment?
+
+A - Matthew James Rider
+
+{BIO 20002664 <GO>}
+
+No, we can't comment around statutory at this moment. In fact, I've just gone through
+some of the preliminary review of the figures. It looks like IFRS is fine. There's still a little
+bit of work to be done on stat, but we'll obviously inform everybody at the second
+quarter.
+
+A - Jan Willem Weidema
+
+{BIO 15133400 <GO>}
+
+Okay. That is largely it as far as long-term care goes. One last question, what is the risk
+that you have to recognize a charge on stat reserves by bringing experience in line with
+best estimates?
+
+A - Matthew James Rider
+
+{BIO 20002664 <GO>}
+
+Very difficult, very difficult to say. Maybe on this one, I look to Nik (00:55:56) on this one.
+
+A - Jan Willem Weidema
+
+{BIO 15133400 <GO>}
+
+As you stated earlier, Matt, with the premium deficiency reserve when we take what is
+essentially our best estimates with a bit of prudence, we currently still show that the
+statutory reserves that we hold are sufficient on a standalone basis for the long-term care
+basis. So to the extent we had to move everything to, as I stated, a two best estimate
+Page 18 of 31
+
+
+
+Company N ame: Aegon N V
+Company Ticker: AGN N A Equity
+Date: 2018-06-19
+
+with some provisions, we think we would still have sufficient statutory reserves as of right
+now.
+
+A - Matthew James Rider
+
+{BIO 20002664 <GO>}
+
+FINAL
+
+Okay. Thanks, Nik (00:56:31).
+
+A - Jan Willem Weidema
+
+{BIO 15133400 <GO>}
+
+Thanks, Nik (00:56:32). Thanks Matt for the detailed answers on long term-care. In case
+participants have any further questions, then please reach out to a member of the
+Investor Relations team as for the webinar, but there's also other interesting topics to
+cover so let's move on to the next topic.
+Do you believe that IFRS 17 will increase comparability within the sector? And if not what
+needs to be addressed in order for it to be successful from that point of view?
+
+Bloomberg Transcript
+
+A - Matthew James Rider
+
+{BIO 20002664 <GO>}
+
+Yeah. I think at this point, it's going – there's no doubt about it. It will increase
+comparability in the sector and it will definitely make the IFRS balance sheet more
+meaningful frankly. So from that perspective, I think just getting the P&L and the balance
+sheet basically on the same basis, we're going to be able to talk sensibly about these
+businesses, whereas now we are constantly fighting this battle of talking about capital a
+lot because that's of course the most important thing that we focus on as Aegon. But
+sometimes it gets misaligned with the current standard under IFRS. So I think it's going to
+– it's definitely going to increase alignment but it is going to be a learning curve for
+analysts and investors to start to understand the nuances of what's going on.
+And as I said before, there are choices that companies are going to have to make that will
+reduce a little bit of the comparability, but I think it's within a relatively narrow range. I think
+you're going to – I think we're going to be able to deal with that one. But again, it makes
+the P&L and the balance sheet lineup in a sensible way.
+
+A - Jan Willem Weidema
+
+{BIO 15133400 <GO>}
+
+Thanks. Moving on from the IFRS balance sheets to the capital side of it. When do you
+think we can get an update on tax reform and the NAIC charges from the NAIC?
+
+A - Matthew James Rider
+
+{BIO 20002664 <GO>}
+
+When we hear from the NAIC. So this is – it's been an interesting one. We have – we've
+been thinking that originally they might postpone past 2018 and to 2019 on both the RBC
+asset base charges and also the implications for the RBC factors as a consequence of tax
+reform. But it could – now it seems like they might be pushing to get it in before 2019 in
+this year alone.
+But the fact of the matter is, we don't really care. We have provision for this. We
+understand what's happening. We have anticipated these impacts and whether they
+
+Page 19 of 31
+
+
+
+Company N ame: Aegon N V
+Company Ticker: AGN N A Equity
+Date: 2018-06-19
+
+happen in 2018 or 2019 makes no difference to us. At the end of the day, we feel like
+we're in a very good spot and have come out of tax reform very well, in fact.
+
+A - Jan Willem Weidema
+
+{BIO 15133400 <GO>}
+
+FINAL
+
+And a related topic. Are you still guiding to the U.S. RBC ratio in the upper end of the
+target range or has this changed?
+
+A - Matthew James Rider
+
+{BIO 20002664 <GO>}
+
+Yeah. Technically, if you had – so we're sitting at 472% RBC at the end of the fourth
+quarter. Technically, if all those things happened at once, we could dip slightly below the
+midpoint of the range. But, remember, that doesn't include the capital generation that
+they will, in fact, retain as a consequence of tax reform and any other management action.
+So I would say, at the very least, it's not going to be materially lower, 10 percentage
+points. I have no idea. But it's going to end up at a worst case scenario in the middle of
+the range and in kind of any other case scenario in the top half of the range.
+
+A - Jan Willem Weidema
+
+{BIO 15133400 <GO>}
+
+You touched upon management actions, can you perhaps elaborate there what you're
+thinking of ?
+
+Bloomberg Transcript
+
+A - Matthew James Rider
+
+{BIO 20002664 <GO>}
+
+Well, there's always actions that you can take. So, for example, the variable annuity
+changes, the framework changes that will happen to the NAIC. Although it has no impact
+for us on a – let's say, on a just a straightforward basis, it does bring in the possibility to,
+let's say, collapse some of the captive reinsurance companies and to bring them all into a
+legal entity and that could have some capital benefits. But yeah, these are just sort of
+normal course of business, hygiene types of things that you can do. And then, we're
+constantly looking for ways to improve capital generation. Let's be clear.
+
+A - Jan Willem Weidema
+
+{BIO 15133400 <GO>}
+
+As you mentioned in the presentation that €150 million extra capital generation is coming
+from these changes. Is that already baked into the guidance that you gave on one of the
+slides?
+
+A - Matthew James Rider
+
+{BIO 20002664 <GO>}
+
+No, not yet. So that will come after. So what we're trying to portray on that slide is that we
+have some negative impacts that are going to happen over a period of, let's say, two to
+three years. And then, after that period then we end up with the beneficial impacts of
+capital generation. The one exception to that's probably U.S. tax reform.
+
+A - Jan Willem Weidema
+
+{BIO 15133400 <GO>}
+
+Yeah. So it's not reflected on slide 14, the unit ratios but on slide 21, the outlook for 2018
+has part of this baked in right (01:01:18).
+
+Page 20 of 31
+
+
+
+Company N ame: Aegon N V
+Company Ticker: AGN N A Equity
+Date: 2018-06-19
+
+A - Matthew James Rider
+
+{BIO 20002664 <GO>}
+
+I would say part of it. But again the Netherlands, the liquid programs, (01:01:22).
+
+A - Jan Willem Weidema
+
+{BIO 15133400 <GO>}
+
+FINAL
+
+And why do you have still a new business strain of €1.2 billion? What kind of business is
+that?
+
+A - Matthew James Rider
+
+{BIO 20002664 <GO>}
+
+Well, it's a combination of things. So we have we have capital – let's be very clear, we've
+gone way more from a capital-intensive business to one that is more capital-light. But
+there are still products that have new business strains.
+So, for example, indexed universal life in the U.S. term actually has new business strain.
+And also, let's say, packaged pension business in the UK has new business strain as well.
+But these are again new business strain is actually a positive thing to the extent that we
+can convert that into capital generation going into the future as well as to maintain our
+10% pricing hurdle. So this is not necessarily a bad thing. But some of our businesses
+where we do manufacture product and it's more, let's say, traditional life insurance
+product does have a capital strain.
+
+A - Jan Willem Weidema
+
+{BIO 15133400 <GO>}
+
+Bloomberg Transcript
+
+And can you talk about the nature of that strain (01:02:26) SCR?
+
+A - Matthew James Rider
+
+{BIO 20002664 <GO>}
+
+Yeah, the way that you need to think about this is on day one when you issue a contract,
+there are, let's say, upfront expenses that could be, let's say, first year commissions,
+acquisition costs, marketing expenses, that kind of thing and those are sort of cash
+outflows.
+But the interplay between that and the way the regulatory capital reserving mechanism
+works is really, really an important one. And it turns out that for a product like indexed
+universal life, it doesn't play that well. So there is a big surplus strain whereas for
+something like variable annuity, the differences between the reserving mechanisms and
+those, let's say, initial outflows means that there's a little bit less surplus strain. But it is
+very heavily reliant on the regulatory capital system, where you're issuing the business
+combined, of course, with let's say upfront expenses that you're incurring to issue the
+contract.
+And I follow up on one thing. So in addition to that strain, that would be like an own funds
+sort of thing. In addition to that, we typically have to set up SCR to be able to support the
+business. So even if you were issuing something on balance sheet that ended up with
+zero statutory profit or loss in the first year, you would still likely have to set up regulatory
+capital to support the assets, for example, and the liabilities that you've put on the books.
+So you always have to think of it in those two components.
+
+Page 21 of 31
+
+
+
+Company N ame: Aegon N V
+Company Ticker: AGN N A Equity
+Date: 2018-06-19
+
+A - Jan Willem Weidema
+
+{BIO 15133400 <GO>}
+
+You also mentioned the UK as a contributor with the UK becoming more and more
+platform business, why is there still quite some new business strain from the UK business?
+
+FINAL
+
+A - Matthew James Rider
+
+{BIO 20002664 <GO>}
+
+Yeah, it really comes from – you would say packaged pension businesses and I would say
+largely these are maybe a good way to talk about it is, if you think about the existing
+business, the way that we're going to report it going forward, this is business that we're
+currently not writing any new business. But these are existing pension contracts where you
+could have, for example, salary increases on existing contracts that are coming through or
+new employees that are coming through. So there is a capital strain associated with those
+and then a lower, but similar kind of amount on the new platform, let's say, the digital
+solutions type of business.
+
+A - Jan Willem Weidema
+
+{BIO 15133400 <GO>}
+
+Thanks. Moving on to the capital generation of the U.S. specifically, to what extent is that
+supported by a benign credit environment?
+
+A - Matthew James Rider
+
+{BIO 20002664 <GO>}
+
+Bloomberg Transcript
+
+What we what we typically do is when we go through our budgeting and, let's say,
+medium-term planning process, we simply look at what is the long-term assumption for
+things like credit defaults or – well, basically, interest rates and many other things.
+So what's reflected in our expectation is more an average credit environment. Now,
+clearly, now we are in more of a benign one. So we would expect to get some maybe
+positive things on that one. But we typically go for our planning process in our forecasting.
+We go for the middle of the road and that means sort of a – let's say, a normalized credit
+environment and that's where – let's say worse than the one that we're in now.
+
+A - Jan Willem Weidema
+
+{BIO 15133400 <GO>}
+
+Moving from a capital generation to the ratio. How relevant are the targets on group
+Solvency II ratio given the needs last year to capitalize businesses on a local basis?
+
+A - Matthew James Rider
+
+{BIO 20002664 <GO>}
+
+Yeah, it's a very good question. I would say that the group solvency ratio has some direct
+implications for us. But a lot of what we do for, let's say, capital generation and
+remittances is clearly based on local solvency ratios.
+But from a group Solvency II perspective ratio point, you're really looking at that as a basic
+hygiene factor. You reflect back to what we did last year with DNB to get a more equitable
+conversion of the U.S. business. And that was simply to make us in line methodologically
+with other European peers. So just from a basic hygiene factor, we got to a 200%.
+
+Page 22 of 31
+
+
+
+Company N ame: Aegon N V
+Company Ticker: AGN N A Equity
+Date: 2018-06-19
+
+FINAL
+
+You will note by the way that our intention – or let's say, our intention in doing that was not
+to say okay, let's pay out extraordinary dividends, we actually increased our target capital
+management zones upwards to enable to counteract that things. So our intention was not
+to pay additional dividends.
+But where it does come into play is in the tier-ing of capital. So that does come into play
+when we think about the let's say Tier 2 capacity, those kind of things. So it's an important
+one from a tier-ing capacity standpoint.
+
+A - Jan Willem Weidema
+
+{BIO 15133400 <GO>}
+
+Yeah.
+
+A - Matthew James Rider
+
+{BIO 20002664 <GO>}
+
+It's important from a, let's say, a basic hygiene factor and a comparability across European
+peers factor. But really, when we talk about externally payable dividends, you first have to
+start with the remittances from the individual business units. That's why, we have them
+capitalized at high enough levels so that they can be a bit resilient and so that we can rely
+on the planned dividend payments coming up from the businesses.
+
+A - Jan Willem Weidema
+
+{BIO 15133400 <GO>}
+
+Bloomberg Transcript
+
+And to what extent would you say that the current Solvency II ratio is inflated or benefited
+from market movements and which you would regard to be not fungible?
+
+A - Matthew James Rider
+
+{BIO 20002664 <GO>}
+
+Boy, that is sort of a second derivative type of question. But I would say, it's not particularly
+inflated at this moment. But then, again, even if it was, I'm far more interested in what's
+going on in the individual business units. But I think the 201% at least at year-end was
+pretty okay and reflective of sort of current environments, if you will.
+
+A - Jan Willem Weidema
+
+{BIO 15133400 <GO>}
+
+And for any of the individual units, do you see them as benefiting more than average
+from market movements?
+
+A - Matthew James Rider
+
+{BIO 20002664 <GO>}
+
+No, but I wouldn't say it that way, I would look more toward our capital sensitivities that
+we've published for the major business units and for the group on Solvency II basis. And
+it's actually, if you look at the sensitivities, we're actually pretty well-balanced out there. So
+that tells me that, we're not kind of out of whack with weird market movements being
+inflating or depressing the Solvency II ratio.
+
+A - Jan Willem Weidema
+
+{BIO 15133400 <GO>}
+
+Thank you. Could you provide a bit more detail on what are the kind of remittances we
+can expect in 2018 and how it will grow over time?
+
+Page 23 of 31
+
+
+
+Company N ame: Aegon N V
+Company Ticker: AGN N A Equity
+Date: 2018-06-19
+
+A - Matthew James Rider
+
+{BIO 20002664 <GO>}
+
+FINAL
+
+Well, the remittances for 2018 are pretty clear from – I think, from some of the slides. It's a
+little too early to talk about 2019 and forward. I think everyone is aware that we have
+committed 2016 to 2018 financial targets. And there's going to be a moment when we
+refresh these things, but that moment is not now. We are really more focused on
+achieving the 2018 results and achieving what we've committed to the market. And so far
+as I said in the presentation, I think, we're very much on track to be able to do that.
+
+A - Jan Willem Weidema
+
+{BIO 15133400 <GO>}
+
+The Netherlands and UK are resuming regular dividends as per your comment earlier.
+Does that mean we should expect the first half remittances to be repeated going
+forward?
+
+A - Matthew James Rider
+
+{BIO 20002664 <GO>}
+
+Bloomberg Transcript
+
+Yeah, how do we say this? We have to be very, very careful about these things. So what
+we do know is that the Dutch business and the UK business will remit dividends in the first
+half of the year.
+But I always caveat this and you know that we talk about it in this way. We always caveat it
+to say that this is subject to normal regulatory process. And I cannot emphasize that
+enough especially in a Solvency II heavily regulated environment that we do have to work
+through our normal processes for dividend upstreams in all the European countries. So to
+say expect, I just say capital thing – capital position looks good, things generally look good.
+We got the first half dividend. We do this half of the year by half of the year, subject to
+normal governance.
+
+A - Jan Willem Weidema
+
+{BIO 15133400 <GO>}
+
+And do you see scopes to increase the payout ratio for the group to beyond 50% from
+free cash flow?
+
+A - Matthew James Rider
+
+{BIO 20002664 <GO>}
+
+Let's see how we progress with IFRS 17, I would say. I would say, there's certainly some
+limited scope to be able to do it. But let's see how we come out with our MTP planning
+process for this year. We are going to be stressing with the businesses the need to
+basically generate sustainable ongoing capital generation. And that's the thing that fuels
+remittances. And from there, we decide dividend payout ratios and the like.
+But IFRS 17, we have to be a little bit flexible here to see if we – do we need to de-lever.
+Probably not immediately as we run up to 2021, maybe we don't know. A lot will depend
+on how the rating agencies ultimately look at these things and what peers are doing as
+well. So let's be a little bit conservative here in the relatively short term.
+
+A - Jan Willem Weidema
+
+{BIO 15133400 <GO>}
+
+Page 24 of 31
+
+
+
+Company N ame: Aegon N V
+Company Ticker: AGN N A Equity
+Date: 2018-06-19
+
+We have a follow-up on the NAIC changes, would you expect a new (01:11:53) for the U.S.
+capital position to Solvency II after the NAIC changes?
+
+FINAL
+
+A - Matthew James Rider
+
+{BIO 20002664 <GO>}
+
+Yeah, that's an interesting one. A very good question by the way. When we negotiated or
+– not negotiated, I shouldn't say that, when we had agreed with DNB on a new conversion
+methodology for the U.S., we made it subject to an annual review process.
+So, for example, when – so at the very end of the year, tax changes announced at the
+very end of the year. And the question then is well do we need to rejigger the conversion
+ratio largely because a big chunk of deferred tax assets got lopped off of the U.S. balance
+sheet. So one might argue that, well, we cut off a big chunk of the lowest form of capital
+that you have. Shouldn't we go back and discuss again a new calibration for that point?
+And the short answer on that one is no. We have an annual review process with DNB,
+where we will take all these factors into account together with looking at how have our
+economic risks faired against, let's say, risk-based capital within the U.S., but this is a
+process that will happen at the end of the year. And I think we do – it's going to be a
+number of topics that get addressed and then we'll come to a conclusion and then, we'll
+move forward.
+
+A - Jan Willem Weidema
+
+{BIO 15133400 <GO>}
+
+Bloomberg Transcript
+
+Thank you. On holding excess capital – or holding excess cash I should say, it's
+unencumbered, it doesn't mean that it's 100% distributable if needed with no constraints?
+
+A - Matthew James Rider
+
+{BIO 20002664 <GO>}
+
+The short answer is yes. So we have the money market funds in large part sitting in NV
+and then we have these other very short-dated liquid assets that are fully fungible. So I
+would say this is unconstrained.
+
+A - Jan Willem Weidema
+
+{BIO 15133400 <GO>}
+
+Is there any relation in between how much holding excess cash there is and DTAs or LAC
+DT?
+
+A - Matthew James Rider
+
+{BIO 20002664 <GO>}
+
+No. So let's say, DTAs and LAC DT are things that would affect underlying business units
+and their – and let's say, their ongoing remittances. So it doesn't affect that excess cash in
+the holding at all. Not as sort of a balance sheet numbers, so we stand at €1.4 billion
+excess cash in the holding – excess cash in the holding doesn't care what LAC DT is or
+deferred tax assets are at that point.
+
+A - Jan Willem Weidema
+
+{BIO 15133400 <GO>}
+
+Is any of the holding excess cash in the U.S. holding companies? And if so, can you
+quantify this?
+Page 25 of 31
+
+
+
+Company N ame: Aegon N V
+Company Ticker: AGN N A Equity
+Date: 2018-06-19
+
+A - Matthew James Rider
+
+{BIO 20002664 <GO>}
+
+No. So it's been – the vast majority is sitting in NV.
+
+FINAL
+
+A - Jan Willem Weidema
+
+{BIO 15133400 <GO>}
+
+Retained earnings are expected to lead to further reduction of the leverage ratio over the
+medium term. But then you have to achieve the ROE target of 10%. Can you comment on
+how the two interplay?
+
+A - Matthew James Rider
+
+{BIO 20002664 <GO>}
+
+Yeah. We've accounted for that. So clearly in our planning. As I said in the presentation, we
+expect to get to about 10% ROE more toward the end of this year. Probably, not for the
+full year but for the, let's say, for the fourth quarter. And in our – let's say, in our internal
+planning, we're generally seeing that we're on a good trajectory going into 2019 given,
+let's say, the potential earnings growth that we see. But again, too early to set 2019
+targets in that way.
+
+A - Jan Willem Weidema
+
+{BIO 15133400 <GO>}
+
+And are there any plans to redeem or not refinance any debt instruments in the medium
+term?
+
+Bloomberg Transcript
+
+A - Matthew James Rider
+
+{BIO 20002664 <GO>}
+
+Well, we do plan on doing quite a lot of refinancing. So this is the slide that we went
+through in the presentation with – we have restricted – grandfathered restricted Tier 1
+outstanding, we have grandfathered Tier 2 outstanding. So this is stuff over the coming
+period before 2025. We do, in fact, need to refinance. But the point on this is that we're
+probably not going to be issuing any hybrids just to, let's say, increase financial flexibility or
+our own funds in that way. It's really refinancing activities that we're more focused on over
+the coming period.
+
+A - Jan Willem Weidema
+
+{BIO 15133400 <GO>}
+
+On a five-year view, what portion of the group earnings do you expect to come from
+Asia? So totally shifting gears here.
+
+A - Matthew James Rider
+
+{BIO 20002664 <GO>}
+
+Five-year view – boy, that's a tough one. Yeah, it depends a bit on the things that we're
+doing in Asia. And I think everybody knows we view Asia as a significant growth
+opportunity. To what extent that converts into earnings per se is a little bit unclear. Most of
+our, let's say, our emphasis in terms of, let's say, direct-to-customer digital kind of
+offerings, we're thinking about for Asia. And it may not be that they generate a
+tremendous number of earnings and maybe a case where we're investing for growth and
+we look to get a valuation in a very different way.
+So looking forward from an earnings perspective, I don't know. From a value perspective,
+that's the interesting one that we're thinking about. And there is going to be an A&I Day
+Page 26 of 31
+
+
+
+Company N ame: Aegon N V
+Company Ticker: AGN N A Equity
+Date: 2018-06-19
+
+on Asia upcoming, I believe.
+
+A - Jan Willem Weidema
+
+{BIO 15133400 <GO>}
+
+FINAL
+
+And to what extent are add-ons important for the Asian region?
+
+A - Matthew James Rider
+
+{BIO 20002664 <GO>}
+
+Add-ons. Add-ons. Yeah. I wouldn't say, in the context if by
+Add-ons you mean, let's say, bolt-on acquisitions things of that nature. Probably not so
+much important. Add-ons in terms of different kinds of digital initiatives to capitalize on
+things that we're seeing in the market in Asia. Yeah, that's potential. But it wouldn't be to
+sort of increase the size and scale, let's say, in a traditional sense.
+
+A - Jan Willem Weidema
+
+{BIO 15133400 <GO>}
+
+Staying on the topic of add-ons, what is the upper end limit for capital invested in addons? What do you consider in add-on?
+
+A - Matthew James Rider
+
+{BIO 20002664 <GO>}
+
+Capital invested...
+
+A - Jan Willem Weidema
+
+{BIO 15133400 <GO>}
+
+Bloomberg Transcript
+
+(01:18:01)
+
+A - Matthew James Rider
+
+{BIO 20002664 <GO>}
+
+Yeah, maybe an easier way to think about this, the way that we think about the excess
+cash in the holding is and I think you saw it a bit in the presentation, we keep – we try to
+keep that floor of $1 billion to be able to provide for the holding expenses and the debt
+service in the in the holding company together with some collateral requirements and
+$100 million and $200 million (01:18:27) liquidity stress test and some other buffer. So we
+think of that that $1 billion as a bit of a floor. But anything over that is yeah, fundamentally,
+let's say, additional flexibility that we might be able to deploy into acquisitions or
+whatsoever.
+
+A - Jan Willem Weidema
+
+{BIO 15133400 <GO>}
+
+Okay. We have a few questions left at the moment. Staying on the topic of M&A, could
+you specify your interest in doing a larger M&A in the Netherlands?
+
+A - Matthew James Rider
+
+{BIO 20002664 <GO>}
+
+Larger M&A in the Netherlands. Okay. So, let's talk a little bit about Vivat. I assume that's
+the sort of the...
+(01:19:10)
+
+Page 27 of 31
+
+
+
+Company N ame: Aegon N V
+Company Ticker: AGN N A Equity
+Date: 2018-06-19
+
+A - Jan Willem Weidema
+
+{BIO 15133400 <GO>}
+
+...behind the question.
+
+FINAL
+
+A - Matthew James Rider
+
+{BIO 20002664 <GO>}
+
+Yeah. I think that was behind the question. So I think as we've said, first and best use of
+capital that we generate; invest in our own new business; that's where we get the best
+return. It's our core business. That's what we like the best. It is an area where we go
+through this process in the MTP, look at sales projections, what each of the markets is
+able to do. As long as they are able to meet their pricing hurdles, then they are at this
+moment unencumbered in terms of making those investments. So, that's the first and
+best use.
+The second one would be, to the extent that there are bolt-on acquisitions like Cofunds,
+which I think was – I mean, it's sort of the poster child for doing a bolt-on acquisition, lowcost for customer acquisition, enhance the strategy, added assets under management
+and in fact has been quite successful. That would be maybe the second thing.
+
+Bloomberg Transcript
+
+To do a larger deal, because, in this case it's in our home market, it's in our backyard, we
+would have to take a look at this deal. It would have to be a very good financial deal. It
+would have to go – it would have to pass through our, let's say our strategic lens. And at
+the end of the day, the most important thing when we would evaluate that, if in fact it
+does come to market, is we would have to make sure that this is a good deal for
+shareholders.
+
+A - Jan Willem Weidema
+
+{BIO 15133400 <GO>}
+
+And related to that, would you be interested in acquiring long-life businesses, either
+stand-alone or as part of a broader group?
+
+A - Matthew James Rider
+
+{BIO 20002664 <GO>}
+
+Yeah. It would depend; we have non-life businesses in some areas of our business, the
+Netherlands being one. I think that there could potentially – if something came that was
+interesting, we would look to achieve a better size and scale with that kind of business, so
+I would not say that that is out of the question at all.
+I think it's very interesting – I happen to like non-life businesses, because they diversify
+well in the Solvency II context with life businesses. So I happen to like them, and I also see
+that the Netherlands has done a very good job in their own non-life business in improving
+combined ratios over the last periods. So they've actually made a good step forward with
+it. But really, I would view non-life acquisitions to be very bolt-on, very opportunistic, small
+in size, that sort of thing.
+
+A - Jan Willem Weidema
+
+{BIO 15133400 <GO>}
+
+Moving from the acquisition side to the divestment side. Do you expect to see any more
+big moves like BOLI/COLI still?
+
+Page 28 of 31
+
+
+
+Company N ame: Aegon N V
+Company Ticker: AGN N A Equity
+Date: 2018-06-19
+
+FINAL
+
+A - Matthew James Rider
+
+{BIO 20002664 <GO>}
+
+Yeah, the BOLI/COLI, that was an extremely good one to do; we raised $700 million of
+capital, which was ultimately fully upstream to the group and was there in fact and
+available to be able to support the injection into the Dutch business. But that was one of
+the last remaining, let's say, what do we say, run-off businesses. There's not all that much
+left in terms of blocks of business. However, I would say that, we try to maintain a
+disciplined approach to looking at the businesses that could potentially be capital
+bleeders. And those are on – let's say those have to be able to meet strategic objectives,
+show us proof points that they're able to achieve ultimately a size and scale which makes
+them relevant to the overall group.
+So we're constantly looking at these businesses. And you couldn't rule out any kind of a
+divestment, but I would say COLI/BOLI business with something like $14 billion of assets
+and generating $700 million of capital, that was a pretty big one. I can't see too many of
+those left.
+
+A - Jan Willem Weidema
+
+{BIO 15133400 <GO>}
+
+The next person to ask a question is thinking of something very big. What about
+(01:22:51)...
+
+A - Matthew James Rider
+
+{BIO 20002664 <GO>}
+
+Bloomberg Transcript
+
+All right.
+
+A - Jan Willem Weidema
+
+{BIO 15133400 <GO>}
+
+...selling off Transamerica.
+
+A - Matthew James Rider
+
+{BIO 20002664 <GO>}
+
+Yeah, so it's obviously topical, right, because other European players are doing things with
+their own U.S. subsidiaries. This would a very, very difficult one for us. I mean, if you think
+about it, Transamerica represents about two-thirds of our overall business and there is
+quite – so that would be a very thorny issue to be able to work through.
+There would also ultimately be issues with let's say debt reapportionment, I mean among
+the various business, so that one is a bit of a tricky one. And I think one important one is,
+the U.S. has been on IFRS 17 since 2004 I think so. They don't do U.S. GAAP, so that would
+be that would be a very difficult one. And we really – no matter what we do, we really do
+have to focus on getting to IFRS 17 implemented across the entire group, including
+Transamerica.
+
+A - Jan Willem Weidema
+
+{BIO 15133400 <GO>}
+
+Moving on to the next question, which is again some smaller part of the group. We're
+looking at Asia from a value perspective. Are you including possibility of any asset sales
+there?
+
+Page 29 of 31
+
+
+
+Company N ame: Aegon N V
+Company Ticker: AGN N A Equity
+Date: 2018-06-19
+
+A - Matthew James Rider
+
+{BIO 20002664 <GO>}
+
+FINAL
+
+No, I would just like to note that we have some very interesting properties in Asia at this
+moment. I think there are some potential opportunities that could make these even more
+relevant. But we have a very big, stable business, Transamerica Life Bermuda that does
+high net worth business there, mainly universal life contracts. And really that's the big
+capital generator for the region and that is effectively supplying the capital that is injected
+into some of the other units.
+So I'm not implying that we're looking to sell big chunks of Asia; that is certainly not the
+case. But I think that – for example, GoBear that sits actually not in the Asia line of
+business. But this is a purely digital play. We have a business in India that is a purely direct
+to customer digital play in a country that is growing in terms a growing middle class, a
+huge amount of population and of course very digitally oriented. So there are things that I
+think that we can do in Asia to improve overall value. But that does not necessarily mean
+trying to get a valuation by selling something.
+
+A - Jan Willem Weidema
+
+{BIO 15133400 <GO>}
+
+Moving away from M&A for a second and to the rating agencies. Aegon is on negative
+watch by S&P. The outlooks usually are set=up (01:25:20) for 12 months through 24
+months. Do you feel you have addressed S&P's concerns to prevent a downgrade?
+
+Bloomberg Transcript
+
+A - Matthew James Rider
+
+{BIO 20002664 <GO>}
+
+Yeah, it was an interesting one. For S&P, if you look back, I think it was in February of this
+year. We had already been on negative watch for 12 months. And that's the normal point
+that they would bring you to the committee and make a decision one way or another. And
+at that point, we – they came to the conclusion after we had presented to them – they
+had put us on negative watch exactly one year before that. And since then, we had done
+so many things to just fundamentally improve the overall state of our business from
+recapitalizing the Dutch insurance organization, to being able to improve the
+diversification of remittances around the business units, to having gotten out of some
+interest rate risk in doing the COLI/BOLI transaction. At that moment, we had announced
+Ireland, so we were getting out of a non-strategic business. I mean, these are – just even
+going to the TCS transaction that we did in Transamerica to outsource that business, all
+that heavy lifting that had gotten done put us in such a fundamentally different place than
+we had been one year ago, maybe it's not time to actually downgrade us. So, what
+they've done is, they've taken another 12 months to look at our performance. And I'd say
+that's extremely fair. Look at our performance over the next 12 months and then you can
+make your decision.
+
+A - Jan Willem Weidema
+
+{BIO 15133400 <GO>}
+
+Almost (01:26:57) the next 12 months, we'll have – in August, the half-year results; in
+February, the full year results. When do you think is a likely moment to refresh the targets?
+
+A - Matthew James Rider
+
+{BIO 20002664 <GO>}
+
+Probably, I think in terms of financial targets, it would be after our full-year results. That
+would be the logical time. I think there might be some, let's say, some more strategic
+Page 30 of 31
+
+
+
+Company N ame: Aegon N V
+Company Ticker: AGN N A Equity
+Date: 2018-06-19
+
+FINAL
+
+communications that come out before then. We have the A&I Day for Asia, we have the
+U.S. coming up in December. But I think in terms of setting new targets – financial targets,
+it's probably not going to come earlier than the fourth quarter results. I'd love to be able
+to stand in front of you at the fourth quarter results and say, 2016 to 2018's successfully
+done; okay, here's what's next.
+
+A - Jan Willem Weidema
+
+{BIO 15133400 <GO>}
+
+Thank you. That actually brings us to the last question. We're through the questions of the
+audience, so the last question is for myself. What is the main message you would like
+viewers from the webcast to take away?
+
+A - Matthew James Rider
+
+{BIO 20002664 <GO>}
+
+Yeah, I think I'd like you all to remember how we have just fundamentally transformed our
+business into a more efficient and financially predictable company with a strong capital
+position that allows us to make investments in new business and create a lot of financial
+flexibility; and mainly, how this gives me a certain confidence that we will be able to
+improve our profitability and increase our capital return to shareholders. Aegon has spent
+the last several years doing, as I said, some very heavy lifting with respect to balance
+sheet repair, business restructuring, improving the control environment and those sorts of
+things.
+
+Bloomberg Transcript
+
+We've just had our annual strategy update with our supervisory board and we titled it,
+growth on a solid foundation. I'd like to think that have a bit (01:28:42) turned a corner and
+can really focus now on growing the business. That's what I'd like to leave you with.
+
+A - Jan Willem Weidema
+
+{BIO 15133400 <GO>}
+
+Thank you, Matt. Ladies and gentlemen, that will conclude today's webinar. Thank you for
+your participation. You may now disconnect.
+
+This transcript may not be 100 percent accurate and may contain misspellings and other
+inaccuracies. This transcript is provided "as is", without express or implied warranties of
+any kind. Bloomberg retains all rights to this transcript and provides it solely for your
+personal, non-commercial use. Bloomberg, its suppliers and third-party agents shall
+have no liability for errors in this transcript or for lost profits, losses, or direct, indirect,
+incidental, consequential, special or punitive damages in connection with the
+furnishing, performance or use of such transcript. Neither the information nor any
+opinion expressed in this transcript constitutes a solicitation of the purchase or sale of
+securities or commodities. Any opinion expressed in the transcript does not necessarily
+reflect the views of Bloomberg LP. © COPYRIGHT 2022, BLOOMBERG LP. All rights
+reserved. Any reproduction, redistribution or retransmission is expressly prohibited.
+
+Page 31 of 31
+
+

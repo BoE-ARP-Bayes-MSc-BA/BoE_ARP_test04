@@ -1,0 +1,627 @@
+Company N ame: Berkshire H athaway I nc
+Company Ticker: BRK /A US Equity
+Date: 2019-10-08
+
+Company Participants
+Andrea Warren, Partner
+
+FINAL
+
+Paige M Steffan, Associate
+
+Other Participants
+Holly Froum, Senior Litigation Analyst
+Matthew Palazolo, Senior Insurance Analyst
+
+Presentation
+Matthew Palazolo
+
+Bloomberg Transcript
+
+Good morning. Welcome to our Webinar on Insurers and Opioid Litigation. My name is
+Matt Palazzola. I'm the Senior Property & Casualty Insurance Analyst at Bloomberg
+Intelligence. With me is Holly Froum, our Consumer and Industrial Litigation Analyst. We're
+joined by Andrea Warren from Barnes & Thornburg. She is an attorney representing
+companies seeking recoveries from insurers, and Paige Steffen, from BatesCarey, who
+works on behalf of insurance companies.
+I'm just going to go through some quick admin before we start the call. This call is
+recorded. There will be a replay. Just some quick notes on Bloomberg Intelligence, which
+is the thrid slide here. We provide in-depth research on data on industries, companies as
+well as governments, ESG, credit litigation and other factors that can impact business
+decisions. There is no formal slides. So we have slide with the photos on it is the last one
+you're going to see. With that, we're going to get into some initial comments and then
+we're going to go in a Q&A format.
+So over 2 million people have died in the United States due to the opioid crisis with annual
+cost estimated about $80 billion per year. Relatively recently hundreds of lawsuits have
+been filed by municipalities against opioid manufacturers and distributors. These
+companies have insurance coverage and litigation over that coverage will have significant
+financial implications and I'll pass it on to Holly.
+
+Holly Froum
+
+{BIO 20219265 <GO>}
+
+Hi, everyone. So picking up where Matt left off, there are over 2,000 lawsuits in Federal
+Court filed by counties and cities against manufacturers, distributors and retailers. States
+have also sued separately in their own State Courts. Manufacturers are accused
+downplaying the risks of addiction and overseeing the benefits of opioids. So,
+manufacturers who make both branded and generic drugs are accused of inflating
+demand and oversupplying. Meaning, failing to report suspicious orders and distributors
+are also accused of failing to monitor and report suspicious orders.
+
+Page 1 of 11
+
+
+
+Company N ame: Berkshire H athaway I nc
+Company Ticker: BRK /A US Equity
+Date: 2019-10-08
+
+FINAL
+
+So the status of the litigation is that there is a trial scheduled for October 21st. J&J,
+Mallinckrodt, Allergan and Endo, which are manufacturers -- four manufacturers have
+settled that -- their first litigation. Purdue, which is a manufacturer that also is a defendant
+in many of these cases filed for Chapter 11 after announcing it had settled with roughly
+half of the states and a group of lawyers representing the counties in the federal
+litigation. In the next trial, Teva and Amerisourcebergen, Cardinal Health, McKesson and
+Walgreens are the remaining defendants.
+Distributors in Teva as well as Ohio, the State of Ohio has sought to stay the trial, but we
+don't think that's likely to happen. And acquaints in the next trial include federal and state
+conspiracy claims, as well as Houston. The claimant was tried in Oklahoma against
+Johnson & Johnson was nuisance and the release sought for nuisance is abatement. A
+jury will decide liability for nuisance and the remedy -- and if the manufacturers and
+distributors, et cetera are found liable, the remedy for nuisance will be determined by the
+judge. Plaintiffs are also suing for compensatory damages in connection with their
+conspiracy claims. As for settlement possibilities, we think distributors can pay more than
+the $10 billion they reportedly offered to states and we estimate manufacturers could pay
+less than $50 billion.
+
+Matthew Palazolo
+
+Bloomberg Transcript
+
+Great. Thanks, Holly. So we're going to move into question-and-answer. So the first
+question I had for Andrea was, could you pick up on the current landscape of litigation
+around insurance coverage. Have we gone to the point where indemnifications are
+actually being litigated? Or are all the cases currently focused on defense costs?
+
+Andrea Warren
+
+{BIO 20258010 <GO>}
+
+Yes, we have reached that point, within the last year or so. And in fact, we just had a big
+opinion issued last week or a few weeks ago by a federal court sitting in Illinois. In terms
+of the commercial general liability policies, CGL policies of course, they provide that
+insurers have a duty to defend and indemnify their insurers facing liability for damages
+because of bodily injury. And over the last few years, as we know, many courts have found
+that the opioid lawsuits, our suits seeking those types of damages because of bodily
+injury and as a result, there is a duty to defend the insurers and those losses.
+But over the last year, we've extended and we've seen more argument and now an
+opinion showing that the carrier has indemnity obligations for that opioid litigation and the
+resulting settlements there from. And that's important because of the settlements, and if
+it doesn't settle then ultimately the judgment from a trial that these policy holders are
+facing. And a few weeks ago that Illinois Federal Court granted our client summary
+judgment finding that the carrier has the duty to indemnify it for the entire amount of its
+settlement. It was a pharmaceutical distributor for the cost paid in that settlement of an
+attorney general's lawsuit against it and several other wholesale drug distributors, alleging
+responsiblity for the opioid epidemic in that state. And this was one of the first opinions, if
+not first finding a duty to indemnify in the opioid litigation context, which is a significant
+victory for policyholders, because of course, the duty to indemnify is narrower than the
+duty to defend where if -- in the duty to defend context if there is any allegation even
+Page 2 of 11
+
+
+
+Company N ame: Berkshire H athaway I nc
+Company Ticker: BRK /A US Equity
+Date: 2019-10-08
+
+Bloomberg Transcript
+
+FINAL
+
+potentially covered, the insurer has that duty to then defend the policyholder for the
+entire actions.
+So now that we're in the indemnity round, it's a little different, it's a little narrower and
+now that we have this opinion, we have some foresight on how courts will rule and of
+course, in the settlement context, most CGL policies will provide that their allegations of
+negligent and intend to act in these underlying opioid actions, most CGL policies will only
+cover the negligent act. So insurers would first will argue that the settlement either isn't
+covered or must be allocated between what portion of the settlement constituted and
+settlement for the alleged negligence versus the alleged intentional act. And because of
+this predicament that this puts the insurers in for obviously, requiring them to defend
+themselves in the underlying allegation, and then in turn, turn around and say, well, here's
+how we are portioning our liability that doesn't make sense.
+So a lot of courts have found that if an insured enters into a settlement that disposes as
+both covered and non-covered claims. So claim for negligence and intentional act, then
+the insurers needed to identify encompases that entire settlement as long as covered
+claims were the primary focus of the litigation and not with the lawsuit a few weeks ago or
+the opinion on that lawsuit came down and said that the primary focus was of the
+negligent act. The -- they were -- those were the primary focus. So we're not going to
+allocate. The insured has that -- has the ability to get insurance coverage for the entire
+settlement and the insurer has the duty to indemnify its policyholder for the amount of
+the entire settlement. We're not foreseeing the insurer to allocate between the
+underlying allegations that of course were never proven, because the case never went to
+trial. So yes, we have entered that realm and it will be interesting to see more cases that
+are issued, now that it's being litigated more.
+
+Holly Froum
+
+{BIO 20219265 <GO>}
+
+So that's interersting. Do we have the name of that case in Illinois?
+
+Andrea Warren
+
+{BIO 20258010 <GO>}
+
+Yes It's the Cincinnati Insurance Company versus H.D. Smith Wholesale Drug Company.
+
+Holly Froum
+
+{BIO 20219265 <GO>}
+
+So wow. Okay. That's interesting. And Paige, we understand that there are coverage
+issues in current cases, one based on the definition of an occurrence, and the other
+relating to whether or not the claims relate to bodily injuries. Can you explain those and
+how successful those two have been?
+
+Paige M Steffan
+Of course. So I think Andrea, touched on this a little bit in some of the litigation that's
+been going on, but I'll kind of step back a little bit, discuss the policy language and then
+move forward to what's actually been litigated. So, I'll start with the issue of bodily injury.
+So, in typical commercial general liability policies, those policies generally provide
+Page 3 of 11
+
+
+
+Company N ame: Berkshire H athaway I nc
+Company Ticker: BRK /A US Equity
+Date: 2019-10-08
+
+FINAL
+
+coverage for loss that an insured pays by reason of liability for damages, because of or
+account of or for bodily injury that takes place during the policy period. So the interesting
+thing with some of these lawsuits is a lot of them are filed by government plaintiffs. And
+the argument or the question is that some of these lawsuits filed by government plaintiffs
+appear to allege economic damages from increased expenditures on public services such
+as police services or welfare services, things of that nature.
+And in fact, we've actually seen some of the government plaintiffs in the Track One
+Opioid MDL concede in some of their lawsuits that they're are only seeking economic
+damages for injury for their communities rather than for damages for personal harm
+suffered by an individual or group as the policy would demand. However, we also do
+recognize that there are suits actually filed by individuals or suits filed on behalf of babies
+that have become addicted to opioids through their mothers, which obviously, that
+changes that argument as well. And the complaints are all drafted a little differently, but
+it's definitely a focus of the insurers.
+
+Bloomberg Transcript
+
+And within that argument of bodily injury, we also have a separate issue regarding the
+damages. So the policies require that the damages because of bodily injury that takes
+place during the policy period. What we're seeing a lot of is a lot of these governments
+are looking for perspective, equitable abatement, which essentially forward-looking or
+preventative measures to stop this opioid crisis and to provide treatment for their
+residents, so that this addiction does not keep growing.
+So something interesting about that, would -- there be an argument that the damages
+occurring would not be compensatory that they would be future looking and also that
+those damages would not be treating any bodily injury that took place during the policy
+period, instead those damages would be treating injury that has not yet occurred or at
+least not occurred during the policy period.
+So another argument that -- or a difference, coverage issue that we discussed is whether
+there is an occurrence. So the same CGL policies generally provide coverage for
+damages paid on account of bodily injury, like we discussed that is caused by an
+occurrence. An occurrence is typically defined to mean an accident or a continuous or
+repeated exposure to substantially the same or general harmful conditions. I think Andrea,
+touched on this a little bit, where although there are allegations of negligence, there are
+some allegations in these complaints that the manufacturers participated in a scheme to
+fraudulently market their prescription opioids as safe and effective, even though they may
+have known that there will be deductive qualities. And there's also allegations that the
+distributors intentionally failed to comply with their duties under the Controlled
+Substances Act.
+So in one of the cases that we've seen in Travelers versus Actavis, the California Court of
+Appeals held that Actavis, which is a manufacturer of prescription opioids was not entitled
+to coverage for the opioid suits filed by the State of California in the City of Chicago,
+because their claims for damages were based entirely on Actavis' alleged fraudulent
+marketing of opioids. But we will distinguish this case because as Andrea said, many of
+the lawsuits that are at play now and the thousands of thousands that still remain, actually
+
+Page 4 of 11
+
+
+
+Company N ame: Berkshire H athaway I nc
+Company Ticker: BRK /A US Equity
+Date: 2019-10-08
+
+FINAL
+
+do allege at least some negligent conduct in courts typically reviewing those claims that
+allege negligent conduct have found that there is an occurrence.
+And I will touch on a final coverage issue, which is known loss. So these policies generally
+do not provide coverage for harm that an insurerd knew about before the policy period or
+that the insured expected or intended. Perhaps, maybe because these coverage
+defenses are highly fact dependent and based very much so on what exactly each
+defendant knew, courts have not yet really had the opportunity to decide whether these
+known loss or intentional conduct coverage defenses applied to the opioid claims. But
+essentially what we would look at there is seeing whether the insured knew that their
+products or what they were distributing caused damage and whether they were aware of
+any harm and if so when and who exactly knew that. So I would say, those would be some
+of the three top coverage issues that we're looking at for the opioid claims, which would
+be whether there is bodily injury, whether there is an occurrence, and whether there is a
+known loss.
+
+Matthew Palazolo
+Okay. Great, Paige. Thank you. So, Andrea, we've been talking about CGL, general liability
+policies. Is that really the only policy type at issue here or do directors and officers in
+Arizona missions D&O, E&O policies are they coming into play at all yet?
+
+Bloomberg Transcript
+
+Andrea Warren
+
+{BIO 20258010 <GO>}
+
+Well, I think that policyholders are starting to look to their D&O and E&O policies as well.
+But as far as litigation is concerned that has mostly centered on those CGL policies. And
+of course, the policyholders that may have a specialized life science policy that is tend to
+coverage for a product liability or some of the Bermuda firms have specialized market
+offering pharmaceutical policies, of course, you would want to look to those as well. It
+really depends on the policy language and the underlying allegation and really just figuring
+out what policies you have, what they could cover and they are really treating and our
+situating and considering their coverage positions and thinking about what coverages you
+may have.
+For D&O policies of course, those are issued to protect the personal assets of corporate
+directors and officers, student capacity and sometimes as a corporate. And E&O policies
+are going to cover the professional [ph]mark active type claim, usually alleging some type
+of failure to vendor professional services to a third party. But both D&O and E&O policies
+will have that bodily injury exclusion for claims based on or arising out of alleged bodily
+injury.
+So that goes back to what Paige was saying where many courts are starting to find that
+these underlying opioid lawsuits are alleging bodily injury because there is no exclusion in
+the policy for economic damages. And the damages that these lawsuits are seeking -bodily injury should be interpreted more broadly if and when its determined because of
+bodily injury -- the increased hospital needs, [ph]police needs, germ needs and that H.D.
+Smith case I had discussed earlier, the court found that it doesn't matter that the State
+Attorney General West Virginia saw it's own damages and dealing with the opioid usage
+Page 5 of 11
+
+
+
+Company N ame: Berkshire H athaway I nc
+Company Ticker: BRK /A US Equity
+Date: 2019-10-08
+
+FINAL
+
+compared it to a mother who's fourth child, concluding that the alleged costs were
+incurred because of bodily injury.
+So if the court finds that the underlying opioid lawsuits are indeed because of that
+allocation for damages, because of bodily injury, then that could get you excluded under
+the D&O and E&O policies. On the other hand some courts find that these are not
+allegations of bodily injury. So then maybe you could look through D&O and E&O policies
+and you can avoid that bodily injury exclusion. So it really depends on the jurisdiction. It
+depends on your policy language and just being really aware of the interplay between the
+different types of policies and as Paige indicated, making sure that you provided notice
+and that you look at some of the prior notice exclusions and then of course, in the current
+D&O policy, there are lot of exclusions for opioid litigation, there may be a very specific,
+but very specific exclusion for it, but you must submit your timely notice of claim and then
+sometime -- some policies circumstances that could lead to future claims and pursue the
+acknowledgment of those claims and really scrutinize your coverage position. So that you
+don't give up coverage under one of these, what we, -- what may have first been
+perceived as an ancillary D&O and E&O coverage for this type of underlying opioid
+litigation, but which may in fact provide coverage. And because of the breadth and the
+number of claims arising from this opioid crisis, the insurers are going to look to those
+policies provision for coverage when substantially similar actions were claimed, were
+known, or should have been known to the insured prior to the policy period. So you really
+have to step in and consider what you have, what allegations you may be facing and make
+sure that notice is given timely.
+
+Bloomberg Transcript
+
+Matthew Palazolo
+Okay, great Andrea. I want to follow-up with one more for you, Andrea. So far the
+defendants have been limited to manufacturers and distributors. Is it possible that the
+group of potential defendants expands, it could impact even maybe doctors who
+prescribe these pills. I'd like to hear from actually both of you on that, but maybe Andrea
+go first.
+
+Andrea Warren
+
+{BIO 20258010 <GO>}
+
+Okay. Well, I mean the underlying litigation itself is again a retailer pharmacies and
+prescribing physicians, even pharmacy benefit manager. So the group of defedants has a
+little more experience than that and keep in mind that the group of plaintiffs is also
+expanding, there are now class actions by individuals and businesses that are buying
+healthcare, private healthcare insurance including anyone who have paid into an employer
+provided health care program. They are doing in class actions, opioid manufacturers and
+distributors for the increased health care costs and that would be premium deductable
+co-pays due to the opioid crisis, alleging that the insurers have -- alleging that the insurers
+have passed to customers, those costs in the form of higher premiums and deductibles
+and co-pays. So really those fields, is the way I see it is somewhat more expensive.
+
+Matthew Palazolo
+Okay. Paige, your thoughts on that.
+Page 6 of 11
+
+
+
+Company N ame: Berkshire H athaway I nc
+Company Ticker: BRK /A US Equity
+Date: 2019-10-08
+
+FINAL
+
+Paige M Steffan
+One thing I'll just add about the question of whether doctors will be pulled into this
+litigation more. I think it's interesting to note that in the past couple of years, doctors have
+actually been criminally charged with some of their actions of over prescribing opioids for
+non-medical reasons and in some cases we've even seen doctors charged for some of
+their patients that have overdosed on their drugs. So I think some of the focus on the
+doctors has been from more of a criminal route, and at least how -- what we've seen so
+far, and Andrea, like she said before, some of these doctors are actually named in some
+of the underlying litigation. It's just that most of the focus and media attention has been
+on some of these large Fortune 20 companies that we see in the news, quite a bit.
+
+Matthew Palazolo
+Okay, great. So Paige, we've been using the tobacco settlement as an analog for what's
+going on with opioids. In that situation and sure saw very little liability. Are there
+differences between opioids and tobacco? Are there similarities? Could you talk about -compare the two situations?
+
+Bloomberg Transcript
+
+Paige M Steffan
+Yes. So I would say that although there are many parallels, there's also a lot of aspects of
+this litigation that would distinguish tobacco from opioids. So first, I would say the parallel
+some of them are pretty obvious. Both of the two involved allegations of fraudulent
+marketing of dangerous addictive products that really caused a significant human toll in
+this country. Although the opioid epidemic is relatively new and actually has caused fewer
+injuries than that of tobacco, it's still extremely significant and obviously something that
+needs to be resolved.
+However, with that, we do see significant things that we can distinguish. The first I think
+being that opioids have a legitimate medical purpose. Opioids as much as we're talking
+about how they're addictive and have caused significant injury, they also help people and
+they have a purpose in medicine, and they actually can do a lot of good as opposed to
+tobacco where there was no legitimate medical purpose for that product.
+Another kind of interesting thing that we see with opioid is the entire supply chain, how
+we were just discussing is has been roped into this litigation, all the way from the
+companies that grow the poppies that's used to manufacture the opioids all the way
+down to the pharmacist that's actually distributing the pill to the consumer. As in tobacco it
+was a lot more concentrated into a smaller group of manufacturers and we never really
+saw that branch out into the distributors or retailers essentially.
+And another thing that's interesting and I think unique to the opioid epidemic is these
+intervening causes. We see illicit fentanyl, we see criminal actions by some of the doctors
+that I spoke about, we see some black markets and all of these things really play into
+whether the plaintiff's can even prove causation or liability on behalf of the manufacturers
+and retailers and distributors, when there is a completely separate group of these
+intervening causes of criminal actions that really kind of change up the whole story. And
+Page 7 of 11
+
+
+
+Company N ame: Berkshire H athaway I nc
+Company Ticker: BRK /A US Equity
+Date: 2019-10-08
+
+FINAL
+
+we didn't we -- something that we did not really see in tobacco or something that we
+didn't have to work through.
+And I would say another thing that the municipalities have kind of learned from the
+tobacco settlement and are trying to stay away from is a lot of the money gained through
+the Master Settlement Agreement for tobacco was not really returned to combat the
+crisis. And now we see a lot of municipalities focusing on this abatement and focusing on
+requesting relief that's very focused on treatment and education and making sure that
+that this crisis can somehow come to an end. And I think some of those things, maybe
+more than others will ultimately play into coverage issues and may affect coverage down
+the line. But I think I would be hesitant to say that tobacco and opioids would follow a
+similar path, because of all these differences that we see in the opioid epidemic.
+
+Matthew Palazolo
+Okay, awesome. So Paige, actually one more for you. We're talking about settlements.
+Can you talk about the mechanics maybe of how much an insurer might be involved in the
+negotiations for that, or what role they play in a settlement?
+
+Bloomberg Transcript
+
+Paige M Steffan
+So I would say that's highly dependent on policy language and whether the insurer has the
+right to consent to settlement, and whether how closely they are working with the insurer.
+And I will just comment on how there is a couple of different routes of potential
+settlement going on and that may be a good example of how and when insurers may be
+able to participate. So in terms of global revolution, so trying to resolve the thousands and
+thousands of claims that are pending, we've seen a couple different attempts at global
+settlement, which I believe Holly spoke on briefly in the beginning.
+One was, what I'll call a state-centric model, which was actually reported by Bloomberg
+back in August, where some of the state AG's demanded $45 billion for a global
+settlement from what we call the Big 3. The Big 3 distributors being AmerisourceBergen
+Corporation, Cardinal Health, and McKesson Corporation. And currently these Big 3
+responded with a $10 billion offer. So as that state-centric model is working, we're also
+looking at a similar negotiation track, which is headed by the cities and counties taking
+place in the opioid MDL in Cleveland. So back in September, Judge Polster, who is
+heading this opioid MDL, certified this very novel negotiation class under which every
+municipality in the US, which is more than 30,000 municipalities has until the end of
+November to opt out of this class. And once the class is set, negotiators will then be able
+to negotiate which -- with I believe is about 13 of the defendants, and they're negotiating
+based on the conspiracy and the Controlled Substances Act violations.
+So if some sort of a preliminary agreement is decided, then it will turn back to the class
+and I believe it's 75% of the class or about that will have to vote in order for there to be
+approval. And then from there the money would be allocated by -- to the municipalities by
+relative number of opioids sold and death in each county. So both of these tracks, the
+state-centric model is moving forward at the same time that the city and county
+negotiation track is moving forward.
+Page 8 of 11
+
+
+
+FINAL
+
+Company N ame: Berkshire H athaway I nc
+Company Ticker: BRK /A US Equity
+Date: 2019-10-08
+
+And in the mix of all this, to make it even more confusing, we have Purdue filing
+bankruptcy, which Holly also referenced, which automatically stays all of its active litigation,
+including all of its opioid claims, which will then be moved -- to Bankruptcy Court. So
+essentially Purdue is using that as another tool for settlement. So as you see there is lots
+of pieces kind of moving at the same time and insurers and insured kind of being pulled in
+different directions. But -- so I think the next couple of months will be very interesting as
+the Track One Trial approaches and whether it goes forward or not, we've seen a lot of
+movement in settlement, specifically I think like Holly mentioned before with Endo and
+Allergan and Mallinckrodt, settling these bellwether trials as the MDL approaches in these
+next couple of weeks.
+
+Matthew Palazolo
+Thanks. So, Andrea, could you talk about -- in a potential Master Settlement what role
+insurers might play?
+
+Andrea Warren
+
+{BIO 20258010 <GO>}
+
+I would really just piggyback of what Paige had mentioned, and it really is going to depend
+on the insurers participation in the matter and whether or not they've acknowledged their
+coverage obligations and what the policy language says about those obligations, and
+really be taken by a case-by-case basis.
+
+Bloomberg Transcript
+
+Matthew Palazolo
+Okay. So, maybe first Paige, maybe Andrea has some additional insurance. But at some
+point, I'm assuming insurers recognized opioids could be misused, they probably sort of
+adding some exclusions in policies relating to opioids. Is that true? And if so, when or if
+could that have started?
+
+Paige M Steffan
+Yes. So, after there was a huge influx in the opioid cases, which was about the end of 2017
+into 2018 that's only really saw a lot of opioid exclusions being written into policies. The
+interesting thing about these is the wording of the opioid exclusions, it really varies, and
+we've seen all different sorts of exclusions. Some of the broadest exclusions preclude
+coverage for the abuse, the illicit use, or the unlawful distribution of any opioid or any
+controlled substance.
+On the opposite end of the spectrum, we've also seen opioid exclusions that are drafted
+a lot more narrowly and preclude coverage from maybe a particular type of opioid or a
+specific brand name or product. For example, we've seen some that may only exclude
+Oxycotton or may only exclude Oxycodone. And sometimes this wording appears where
+an insurer is possibly a manufacturer, maybe they only manufacture that one product, so
+it's liability would typically only be tied to one product. Whereas, when we see some of
+the distributors who deal in numerous products, different brand names, it becomes more
+of an interesting puzzle, I would say, if a distributor is dealing with dozens and dozens of
+
+Page 9 of 11
+
+
+
+Company N ame: Berkshire H athaway I nc
+Company Ticker: BRK /A US Equity
+Date: 2019-10-08
+
+FINAL
+
+products and say one of those products is excluded by -- in opioid exclusion then, then
+we'll have to dig in further into their dealings with that specific product.
+We've also seen some interesting carve-outs with some exceptions. For example, maybe
+there will an opioid exclusion for claims arising out of opioids. However, maybe they'll
+include a carve-out for an insurered failure to provide the correct drug or correct dosage,
+while feeling -- filling a prescription, which essentially would possibly go towards claims
+against an individual pharmacist negligence in dispensing of those opioids.
+To-date, we really haven't seen too many courts interpreting these exclusions. And once
+we do as the litigation moves forward, it might be difficult to apply them over different
+policies as I said, because some of these exclusions are extremely broad and some are
+extremely narrow and again would also be fact dependent on the insureds dealings with
+these specific drugs.
+
+Matthew Palazolo
+Okay, Andrea, do you have anything to add on exclusions?
+
+Andrea Warren
+
+{BIO 20258010 <GO>}
+
+No, no.
+
+Bloomberg Transcript
+
+Matthew Palazolo
+Okay. So we're going to try to take some of the questions that we're getting through the
+webinar. Andrea and Paige, you know, you can both jump in on this one. So first question
+is, how would you size up the range of insured losses related to opioid litigation based on
+current expectations? They don't want to take a stab at that one.
+
+Andrea Warren
+
+{BIO 20258010 <GO>}
+
+Can you repeat that?
+
+Matthew Palazolo
+Sure. So how would you size up the range of insured losses related to opioid litigation
+based on current expectations?
+
+Paige M Steffan
+Well, I guess my comment to that would be there is quite a bit of range on the different
+insurers. For example, when we've seen some of the smaller manufacturers or
+manufacturers that have a smaller percent market share. They're settling for example,
+Endo settled the upcoming bellwether trial for $10 million, Allergan settled the upcoming
+bellwether for $5 million, Mallinckrodt, I believe it was $24 million with an additional $5
+million or $6 million in drugs. Whereas on the flip side, we see Purdue settling the State of
+Page 10 of 11
+
+
+
+Company N ame: Berkshire H athaway I nc
+Company Ticker: BRK /A US Equity
+Date: 2019-10-08
+
+FINAL
+
+Oklahoma lawsuit for $270 million earlier this summer. And we see the judgment against
+Johnson & Johnson, who was the only remaining defendant, we see there being a $572
+million judgment against it.
+So it's kind of hard to tell right now, because we don't have any other recent large
+judgments like the one against Johnson & Johnson, and we've seen some one-off
+settlements. I think market share will be a big issue when it comes to the settlement
+dollars. I also think, the number of defendants remaining in the cases for example with
+Johnson & Johnson being signed, basically liable for the entire opioid epidemic in the
+State of Oklahoma, the burden rests entirely on its shoulders there. So it will be
+interesting to see how these cases develop, if and when they go to trial and what
+defendants remain in those cases.
+
+Matthew Palazolo
+Okay, great. Let's see, so maybe Andrea, if you wanted to speculate on this, we can see.
+So, the question is, there are some numbers from $70 billion to $100 billion for total
+opioids settlement costs. Could you give a ballpark range of how much insurers could end
+up paying that or kind of what percentage is typical?
+
+Andrea Warren
+
+{BIO 20258010 <GO>}
+
+Bloomberg Transcript
+
+You know, we really haven't -- and I haven't analyzed that, so I would not be able to speak
+on that.
+
+Matthew Palazolo
+Okay. I think we're going to leave it there. So, a replay of this call will be available through
+the Bloomberg Terminal. I would like to thank Paige and Andrea. I think this is a great
+discussion. If you have any follow-up questions, you can find Holly or my contact
+informations through the webinar. So thanks very much for joining us everyone.
+
+This transcript may not be 100 percent accurate and may contain misspellings and other
+inaccuracies. This transcript is provided "as is", without express or implied warranties of
+any kind. Bloomberg retains all rights to this transcript and provides it solely for your
+personal, non-commercial use. Bloomberg, its suppliers and third-party agents shall
+have no liability for errors in this transcript or for lost profits, losses, or direct, indirect,
+incidental, consequential, special or punitive damages in connection with the
+furnishing, performance or use of such transcript. Neither the information nor any
+opinion expressed in this transcript constitutes a solicitation of the purchase or sale of
+securities or commodities. Any opinion expressed in the transcript does not necessarily
+reflect the views of Bloomberg LP. © COPYRIGHT 2022, BLOOMBERG LP. All rights
+reserved. Any reproduction, redistribution or retransmission is expressly prohibited.
+
+Page 11 of 11
+
+

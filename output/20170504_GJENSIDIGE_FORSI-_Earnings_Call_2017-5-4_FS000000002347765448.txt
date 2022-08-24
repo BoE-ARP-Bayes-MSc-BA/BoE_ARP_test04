@@ -1,0 +1,781 @@
+Q1 2017 Earnings Call
+Company Participants
+FINAL
+
+Helge Leiro Baastad, Chief Executive Officer
+Janne Merethe Flessum, Head of Investor Relations, M&A and Capital Management
+Jostein Amdal, Chief Financial Officer & Executive Vice President
+
+Other Participants
+Blair Stewart, Analyst
+Janet Demir, Analyst
+Jonny Urwin, Analyst
+Matti Ahokas , Analyst
+Niccolò C. Dalla Palma, Analyst
+Paul De'Ath, Analyst
+Vinit Malhotra, Analyst
+
+Bloomberg Transcript
+
+MANAGEMENT DISCUSSION SECTION
+Operator
+Good day, ladies and gentlemen, and welcome to the Gjensidige Q1 2017 Results Presentation
+Conference Call. For your information, today's conference is being recorded.
+At this time, I would like to turn the conference over to Ms. Janne Flessum, Head of IR. Please go
+ahead, madam.
+
+Janne Merethe Flessum
+
+{BIO 19368607 <GO>}
+
+Good morning, and welcome to this first quarter presentation of Gjensidige. My name is Janne
+Flessum, and I'm Head of Investor Relations, M&A and Capital Management. As always, our CEO,
+Helge Leiro Baastad, will start by giving some highlights from the quarter before our CFO, Jostein
+Amdal, runs you through the numbers in more detail. And then, of course, we will have plenty of
+time for Q&A at the end.
+So, with this, Helge, please.
+
+Helge Leiro Baastad
+
+{BIO 5865247 <GO>}
+
+Thank you, Janne. Good morning, and welcome from me as well. I'm proud to say once again that
+we delivered a strong result in the first quarter, although competition continues to be tough. We
+had been able to defend our strong and leading market position and at the same time, deliver
+good profitability.
+The profit before tax expense in the first quarter amounted to NOK 1.4 billion and the underwriting
+result was NOK 732 million, only slightly below the best ever first quarter underwriting result last
+year. The combined ratio was 86.8%. The solid underwriting result reflects good customer and risk
+selection and pricing. Growth in premiums was 2.1% when adjusted for currency effects. The loss
+ratio was 71.3%, positively affected by a benign weather situation and lower large losses than
+normally expected. Run-off gains were in line with the expected levels. The cost ratio was 15.5%
+
+
+
+this quarter, reflecting continued good cost control. And the financial result was NOK 566 million
+corresponding to a satisfactory return on financial assets or 1%. Jostein will come back to more
+details on the figures.
+
+FINAL
+
+Turning to page 3. Operational excellence is key priority in the Gjensidige, and we continue to
+focus on profitability before growth. We are still experiencing satisfactory, premium development
+and good profitability in Norway.
+Our competitive position continues to be strong. Growth in the Private segment was 2.3%, and
+profitability continues to be good. As communicated last quarter, we are increasing motor
+premiums to offset expected claims inflation. The effects will feed into our P&L gradually over a 12to 24-month period after implementation.
+
+Bloomberg Transcript
+
+Growth in the Commercial segment was negative at minus 0.4%. The Norwegian economy is in a
+recovery phase, and competition in commercial lines are still challenging. However, we are pleased
+with the renewal processes at the beginning of the year; although, rates has been under pressure.
+The good development in the bank and pension operations continues to provide good support for
+the overall Norwegian franchise. Growth in the Nordic segment was 4.6%. Underlying growth was
+2.4% mainly driven by the Swedish portfolio, while growth in Denmark was stable.
+In Denmark, the negative frequency claims development continued. This is something we, as well
+as other large insurers, have experienced for a while in this market. General pricing measures have
+been implemented for the whole portfolio and existing tariffs have been improved. Furthermore, in
+our most important product lines in both Private and Commercial, new and more sophisticated
+tariffs will be launched later this year. They will contribute to better agility, risk pricing and improved
+renewal processes in Denmark as well.
+The effects will gradually feed in to the P&L, improved micro tariffs combined with more advanced
+CRM architecture and further digitalization will contribute to improve competitive strength in
+Denmark over time.
+The restructuring process announced in third quarter last year, which will reduce number of FTEs to
+create room for strategic investments is still ongoing in the Nordic segments and will gradually give
+effects.
+The acquisition of Mølholm Forsikring, the market leader in health insurance in Denmark was closed
+on 1st of May. Mølholm is a strong brand in Denmark. The company and the existing business
+model (05:22) will continue with increased focus on operational excellence and profitability. We will
+move staff and support functions to the group, as well as IT systems and IT development. The
+acquisition Mølholm will be an important part of the Gjensidige's overall efforts to grow in personal
+health insurance over time.
+The Swedish and the Baltic operations are both on track to reach profitability according to the plan.
+Overall, we are continuing our day-to-day efforts to become even more cost efficient, creating
+room for investments in customer-oriented solutions and further competitiveness.
+On our Capital Markets Day back in 2014, we communicated an ambition to reduce the underlying
+cost base to create room for increase in strategic investments by 44% in the next four-year period.
+I'm pleased to see that we have been able to hold our cost ratio at a low level, at the same time
+as our annual strategic investments are now at a higher level than anticipated two-and-a-half years
+ago.
+Striking a good balance between cost efficiency and customer orientation will be crucial also going
+forward. And – when talking about customer orientation, I'm pleased to note that the customer
+satisfaction in Gjensidige is on record-high levels as shown on page 4.
+
+
+
+FINAL
+
+And our market position has strengthened even further. Retention levels overall continue to be
+high. In the Private segment in Norway, 87% of premiums comes from loyalty and affinity
+customers. And for this group, retention is as high as 92%. Our ambition to become the most
+customer-oriented Nordic general insurance company applies to all customers' touch points
+throughout the value chain. And we are working on lots of initiatives every day to create win-win
+situation for us and our customers.
+I would like to give a few examples today of important initiatives from our Private and Claims
+organization. In Private, ensuring a consistent customer experience and increasing relevance in our
+customer interactions is key to our customer satisfaction. Consistency is achieved by reducing the
+variability in the way we serve our customers. This is secured through on-the-job sales dialogue
+training, a systematic analysis of customer satisfaction drivers, and use of predictive models to
+plan manning levels to optimize response times.
+For increased relevance, analytical CRM is key. Gjensidige has been able to industrialize advanced
+CRM. And we believe we are best-in-class in the Norwegian insurance industry in this field. For
+instance, our predictive churn model makes us able to reach most of our customers or churned by
+contacting (08:50) only 20% of the customer base. This enable us to efficiently address on a
+selective basis the most attractive customers with relevant messages and actions.
+
+Bloomberg Transcript
+
+Predictive models are also used for increased sales efficiency. Based on our experiences from
+Norway, we are currently developing analytical CRM competence and methodology in our Danish
+and Swedish operations as well. Sharing best practice across geographical borders will be an
+important success factor for us going forward.
+Then, moving to our Claims organization, we see that the main driver for customer satisfaction is
+the time it takes to settle a claim. Here, we are working systematically to become even more
+efficient. For instance, we have reasons to believe that Gjensidige is the first insurer worldwide to
+introduce image recognition technology via our app for faster and more accurate claim settlement
+process in motor.
+We will launch this feature in our app in May, this month. We have fed the robot with 1 million
+pictures of motor damages, by taking captures of your damaged car and loading them into our
+app. Image recognition technology will lead you with A, repair cost estimate via the app and it tells
+you which repair shop to go to; and B, you can order a towing truck and a rental car via the app.
+The settlement process starts immediately. We believe this is only the beginning of using image
+recognition for more customer friendly and cost efficient claims processes. It has great potential.
+Also in the property and content, insurance area, and in the longer run in accident and health
+insurance area as well.
+Overall for the group, we have identified 250 processes to 300 processes so far, the robots can
+replace manpower and we have only realized some 10% of this potential. On the one hand, such
+efforts enable us to become even more cost efficient while on the other hand, they meet
+customer needs and expectations and free-up capacity to handle more complex claims in a more
+optimal way. In this way, we are creating a win-win situation for our customers and our owners
+every day.
+And with that, I give the word to Jostein for more granular information on the numbers.
+
+Jostein Amdal
+
+{BIO 19939645 <GO>}
+
+Thank you, Helge, and good morning, everybody. I'll begin on page 6. We report a strong overall
+profit development this quarter. The first quarter underwriting results was NOK 732 million, only
+slightly below the result last year which was NOK 774 million adjusted for the pension-related oneoffs. The positive development in Retail Bank and Pension continues, mainly driven by volume
+
+
+
+FINAL
+
+growth and improved margins in the bank. Together, they contribute a total of NOK 134 million in
+the quarter, up from NOK 110 million in the same quarter last year. The investment portfolio
+contributed a solid NOK 566 million versus NOK 324 million in the first quarter of 2016. The profit
+before tax thereby amounted to NOK 1.4 billion versus NOK 1.1 billion last year.
+Looking at page 7, we are seeing more closely the development of the underwriting results. The
+left-hand chart illustrates an underwriting result close to (13:04) record strong first quarter of 2016,
+partly helped by lower large losses. The right-hand chart shows that the positive development in
+Norway was more than offset by the weaker development in the Nordic segment. This was due to
+highly large losses and a weaker frequency claims development in Denmark in particular.
+The pension-related one-off in 2016 was recognized in the corporate center. Overall, the
+underwriting result was good. And on a 12-month rolling basis, we have reported a combined rate
+of 84.9% adjusted for one loss. And if you also adjust for our large losses and run-off expectations,
+we have delivered a rolling 12-month combined ratio that is in the middle of the 86% to 89%
+annual target corridor at 87.4%.
+
+Bloomberg Transcript
+
+Turning to page 8. We had premium growth of 2.1% adjusted for currency effects. Helge has
+already commented on the growth in the different segments. The negative development from Q1
+2016 in the corporate center line is mainly due to the Vardia reinsurance program, which is being
+gradually phased out over a 12-month period from takeover.
+Turning to page 9. The loss ratio was low at 71.3%. The reported level is 0.6 percentage points
+higher than the corresponding quarter last year. Adjusted for changes in runoff and large losses,
+the underlying loss ratio was 1.7% higher. In Norway, most products in the Private segment showed
+a positive development in loss ratio, mainly driven by a favorable weather situation.
+This was also an important driver behind a positive development in the Commercial segment, in
+particular, for property and business (14:53) lower level of large losses.
+The loss ratio in the Nordic segment was higher than in the same quarter in 2016. This is due to
+both the higher amount of large losses and the less favorable frequency claims development,
+especially in commercial property in Denmark.
+As Helge has already commented, measures are in place to compensate for higher expected
+claims inflation in Denmark. New and better tariffs are in place and will continue to be rolled off
+based on best practices in our Norwegian business.
+The Swedish portfolio is still contributing negatively to profitability, but developing positively
+overall. Integration of Vardia, our Swedish business, is gradually taking place. Tariffs are being
+replaced and organizations merged. We still expect to breakeven this year and that 2018 will show
+a positive underwriting result.
+The Baltics was negatively affected by several medium-sized claims. We expect profitability to
+improve going forward as new tariffs and claims handling processes are put in place. We expect to
+breakeven during this year and be profitable in 2018.
+On page 10, you can see that the large losses amounted to NOK 105 million, which is equivalent to
+1.9 percentage points on a combined ratio. The level of large losses was lower than expected and
+lower than the corresponding quarter in 2016 when large losses amounted to NOK 171 million.
+There were no weather-related large losses or events in the quarter.
+Page 11 shows the run-off gains of NOK 240 million. This had a positive effect of 4.3 percentage
+points on a combined ratio in the quarter versus 4.5 percentage points in the same quarter in
+
+
+
+2016. The gain is mainly related to motor TPL and workers' comp in Norway, and this is in line with
+expected level previously communicated.
+
+FINAL
+
+Looking at page 12. The cost ratio was 15.5% in the quarter, reflecting continuous good cost
+control. The cost ratio excluding the Baltics was 14.6%. Recall the non-recurring income of NOK 477
+million which was recognized in the corporate center in full in Q1 2016.
+The increase in nominal cost in the Nordic segment is driven by the acquisition of Vardia last year.
+We are still working to reduce underlying costs to create room for investments in IT, skills and our
+brand. As we speak, we are in the process of recruiting 14 IT persons replacing consultants and
+ensuring we have the right skills within customer service (17:44) service, data security and robotics
+to meet increased digitalization and changed customer behavior. And as Helge stated earlier,
+we're able to invest more than expected a couple of years ago while still keeping costs at a lower
+level.
+Turning to page 13, the investment portfolio yielded a satisfactory return of 1% in the quarter. The
+portfolio amounted to NOK 56 billion. The match portfolio of NOK 35 billion continued to make a
+stable contribution to the financial income with a return of 0.7%, the same as in Q4. A large part of
+the match portfolio is the portfolio at amortized costs. The running yield in this portfolio was 4.4%
+at the end of the quarter, and the average reinvestment rate was 3.0% in the quarter. Unrealized
+excess value amounted to approximately NOK 1.4 billion.
+
+Bloomberg Transcript
+
+The free portfolio amounting to NOK 21 billion yielded a return of 1.5% in the quarter. The result
+was positively impacted by good returns on emerging market equities in particular as well as real
+estate and a more (18:57) bonds, i.e., high yield and convertible bonds.
+Page 14 shows some highlights from bank and pension operations, which are important retention
+tools in relation to our Norwegian general insurance customers. They both delivered another
+quarter of solid growth and returns. Gross lending in the bank increased by 13.7% to NOK 42.9
+billion. Isolated in the quarter, the increase was 4% or NOK 1.6 billion. 76% of the bank's customers
+are shared customers with insurance as measured by lending volume.
+The bank reported a pre-tax profit of NOK 103 million in the first quarter, driven by portfolio
+growth, but partly offset by an increase in write-downs and losses. And the net interest margin
+improved, driven by improved funding costs and the change in accounting treatment of the
+deposit currency fund fee. The annualized return on equity ended up at 10.4%.
+The pension company is especially important in relation to our SME customers. Assets under
+management in the pension operation grew by NOK 1.8 billion in the quarter to NOK 25.0 billion.
+The profit before tax was NOK 31 million, and the annualized return on equity was 14.1%.
+Last but not least, looking at our capital position on page 15. The rating model is still the most
+binding perspective with a capital surplus of NOK 1.6 billion at the end of the quarter, up from NOK
+1.3 billion at the end of 2016. Available capital increased in all three perspectives, mainly driven by
+retained earnings. The capital requirement changed only slightly. Market risk is higher in the
+standard formula and internal model perspectives. The largest effect comes from currency risk.
+The market risk shows a stable development in the rating perspective.
+Underwriting risk for general insurance is stable, but it increases slightly in the internal model
+perspective due to updated parameters for some lines of business. Underwriting risk for life
+insurance increases due to the growth in the Gjensidige Pensjonsforsikring. This results in an
+increased capital requirement in both internal model and the standard formula perspective. And
+there are only minor changes in all the risk types.
+
+
+
+FINAL
+
+The rating perspective gives us solvency margins of 111%, but is also adjusted for the pressures of
+Mølholm and for the planned equity increase in Gjensidige Bank in the second quarter. The
+strategic buffer would be NOK 1 billion, which is a margin of 107%. This is a comfortable level of
+strategic buffer given the purpose it is intended to serve.
+The solvency margin is 144% based on the standard formula and 174% based on the internal model
+perspective. All perspectives are adjusted for a formulaic dividend payout ratio of 70% of net profit
+and adjusted 2016 dividend. (21:57) effect of Mølholm acquisitions, (21:59) planned equity increase
+in the Gjensidige Bank. We expect (22:04) internal model to be approved this year.
+In summary, we have a solid capital position in all perspectives. We will continue to balance our
+capital structure in a disciplined way in order to support our target return on equity while, at the
+same time, allowing us some leeway for further bolt-on acquisitions and stabilization of dividend.
+And with that, I give the word back to Helge for some concluding remarks.
+
+Helge Leiro Baastad
+
+{BIO 5865247 <GO>}
+
+Bloomberg Transcript
+
+Okay. Then, to sum up, we delivered a strong first quarter result, only slightly below the best ever
+first quarter result in 2014. Measures are in place and more are to come to improve profitability in
+Denmark, and we are on track to reach profitability, as communicated before, in Sweden and the
+Baltics.
+Overall, we are succeeding in balancing cost efficiency with investments for the future. And our
+capital position continues to be strong, and we are disciplined and committed to our financial
+targets going forward.
+And with that, we will now open for Q&A. Thanks.
+
+Q&A
+Operator
+Thank you, sir.
+
+A - Janne Merethe Flessum
+
+{BIO 19368607 <GO>}
+
+Just a brief comment from our side, it will be our CFO, Jostein Amdal, and myself this time taking
+the questions.
+
+Operator
+We will now take the first question from Matti Ahokas from Danske Bank. Please go ahead.
+
+Q - Matti Ahokas
+
+{BIO 2037723 <GO>}
+
+Yes. Good morning. It's Matti Ahokas from Danske. Two questions, please. You talked quite a lot
+about the impact of the benign weather in the first quarter. I know it's tough, but could you
+somehow try to quantify how much this impact was altogether for the claims?
+And the second question is regarding the Baltic cost ratio. It's been hovering in the 30-plus region
+for some time. Where do you forecast this to be in 2018? Thanks.
+
+A - Jostein Amdal
+
+{BIO 19939645 <GO>}
+
+
+
+FINAL
+
+I'm sorry, Matti, we can't give you any precise answer on the weather effect. We do give you an
+answer on the overall amount of large losses which includes major weather events. But the (25:00)
+has had a positive effect on the underlying frequency claims development. And this is more an
+observation that something we can give you a hard number on. So, I'm sorry about that. I think it's a
+bit (25:16) opposite effect from the Q4. I mean we (25:17) had a more unstable worldwide situation,
+especially in the eastern part of Norway, where the bulk of population is, but I'm sorry I don't have
+the hard numbers on that.
+In terms of Baltic cost ratio, the distribution setup and the structure is different there and it will
+have a higher cost ratio also in 2018 and going further compared to our overall cost ratio. But we
+are working to get that down towards – I won't give you a precise number on the target there
+either, but we're working to get that down, but it won't get down than the region (25:57) level.
+
+Q - Matti Ahokas
+
+{BIO 2037723 <GO>}
+
+If I just may have a quick follow-up on the first question. If you look at the combined ratio or actually
+the claims ratio, it was 0.6 percentage points lower or higher this year than the previous year. So, it
+doesn't seem that if you look at, for example, 2016, there was a massive weather impact either.
+So, is it more of a kind of continuing situation in Europe meaning (26:28) that the weather will
+continue to be benign or since at least there isn't kind of big change compared to the previous
+year?
+
+Bloomberg Transcript
+
+A - Jostein Amdal
+
+{BIO 19939645 <GO>}
+
+The forecast, I'll leave to meteorologists. But it is true that Q1 2016 was also okay. And as we
+started saying, Q1 2016 was the best ever underwriting results we've had really so, for the first
+quarter. But I think two quarters, two first quarters is a bit (27:02) statistical significance (27:04)
+
+Q - Matti Ahokas
+
+{BIO 2037723 <GO>}
+
+Fair enough. Thanks a lot.
+
+A - Jostein Amdal
+
+{BIO 19939645 <GO>}
+
+Yeah.
+
+Operator
+We will now take the next question from Paul De'Ath from RBC. Please go ahead.
+
+Q - Paul De'Ath
+Yeah. Hi, there. Good morning, everyone. A couple of questions, please. Firstly, on – just going
+back to the Norwegian motor claims inflation, you've been flagged quite (27:27) heavily last quarter
+and mentioned briefly this quarter. Just if we could get an update in terms of are you still seeing
+the same level of claims in place (27:40) seeing before and are you still able to price ahead of that
+level of claims inflation?
+And then, the second point, similar to what I'm saying, but (27:51) just looking at the Danish
+business and the weakness in terms of the combined ratio this quarter, how confident are you that
+you can raise prices in Denmark given that you don't have quite a strong market position there? Is
+it because you think that all of the other major players are suffering the same things? Do you think
+overall prices are going up or are you likely to lose a bit of share in Denmark going forward?
+Thanks.
+
+A - Jostein Amdal
+
+{BIO 19939645 <GO>}
+
+(28:30) the expectation is the same as we have in the fourth quarter, 3% to 4% inflation going
+forward. Then, (28:40) that wasn't a correct estimate, and we are pricing accordingly and hasn't
+
+
+
+FINAL
+
+seen any effects on top line that should – that we are not able to get those price increases
+through.
+On the Danish side, you're absolutely correct that we have kind of a weaker competitive position in
+Denmark than we have in Norway. We have seen communication from other players that they see
+the same path of inflation as we do. We are going through with our price increases, prioritizing
+profits before volume. We haven't seen a negative effect on volume so far, but if we see that, we
+will try to get through with the prices.
+
+Q - Paul De'Ath
+Okay. Thanks.
+
+Operator
+We will now take the next question from Vinit Malhotra from Mediobanca. Please go ahead.
+
+Q - Vinit Malhotra
+
+{BIO 16184491 <GO>}
+
+Bloomberg Transcript
+
+Yes. Good morning. So, I just wanted to follow up on the same topics and maybe I had a question
+on property if you don't mind. Just on – you mentioned so clearly that if price increases in motor
+are for expected claims inflation, could you comment on what you're seeing now on frequency
+side? We've heard so much about the distracted driving. Is it still continuing to be a problem? If you
+could please comment on that or clarify it (30:14).
+Secondly, just on the Danish, just reading the report, it seems like it's commercial property that is
+coming up. Is there a plan to change some insurance structure, I mean, although renewals are just
+over but is there any thinking around that aspect as well?
+And just lastly on the property, big gain we have seen in this quarter north of NOK 100 million. It
+seems to be coming from the termination of the derivatives forward. And also, again, could you
+split that up for us or could you just help us understand this gain in the one-off item? Thank you.
+
+A - Jostein Amdal
+
+{BIO 19939645 <GO>}
+
+The first question on motor which is a (31:03) bit probably repeating myself from the question
+from Paul, but we still see the same expected claims inflation. And in a way as long as we are
+correct on operating expectations, claims inflation is not a problem because everyone should see
+the same picture and price accordingly. The profits of the Norwegian motor (31:29) is extremely
+strong still, they're kind of – so it's one of our best times (31:35) of business. So, yes, it's a shortterm problem to get prices through and reflected in the accounts (31:46). But in longer term, it's
+more business volume.
+On the Danish commercial property, we definitely have plans to change it, and what we're doing is
+improving tariffs and rolling out new and more advanced tariffs, better tariffs. It's fair to say that our
+tariffs have been more risk sensitive and better in (32:08). We have had a large amount of data to
+build the tariffs on, but they are being improved in Denmark as well.
+The gains on the real estate, as you point out, there are really two reasons behind that. We have
+divested one large property in the first quarter, which gave us a book profit. And we terminated – a
+termination agreement, sorry, what you call it, yeah, a swap agreement with (32:37) real estate
+management company, which resulted in a profit in the first quarter, this is the NOK 1.6 billion
+underlying (32:46) which we have communicated in earlier quarters.
+
+Q - Vinit Malhotra
+All right. Thanks.
+
+{BIO 16184491 <GO>}
+
+
+
+Operator
+We will now take the next question from Blair Stewart from Bank of America. Please go ahead.
+
+FINAL
+
+Q - Blair Stewart
+
+{BIO 4191309 <GO>}
+
+Thank you very much and good morning. I have a couple of residual questions. Firstly, on the
+business in Denmark, you talked about getting price increases through. I just wonder, are you
+confident that is enough as opposed to perhaps having to re-underwrite the book? The way it was
+described on the call, it suggests that there's an underwriting issues as well as (33:40) tariff issues,
+so I just wondered if you could just add a little bit of color on that.
+The second question was just on Helge's comment about 300 areas where you've identified that
+robots can take the place of manpower. I just wonder if you can give some examples of that and
+what the potential impact on the cost ratio might be over time. I know that's difficult to say, but just
+interested in any color.
+And, finally, and as a quick question on the capital increase in the bank, is that just a reflection of
+higher volumes or just a increase in the regulatory threshold for the bank? Thank you.
+
+Bloomberg Transcript
+
+A - Jostein Amdal
+
+{BIO 19939645 <GO>}
+
+In Denmark first, no price increases A loan (34:31) is not enough to get the satisfactory profit level
+in Denmark. It's also about improving the tariffs as such. We should do from business line after
+business line. And there's also an element of re-underwriting, as you suggest, because we have a
+portfolio also which (34:50) upper part of the property segments which are more underwriting
+than tariff-driven.
+And in that area, we will re-underwrite the portfolio assets as it comes through renewable dates.
+But, as you know, our large part has a renewal date of 01/01 and then the next one, the next kind
+of larger renewal date would be 01/07 and 01/10. So, it takes kind of time where we can actually do
+the re-underwriting.
+One example is where we can use robotics is to handle cost of (35:31) claims assessment. That is a
+process that we launched in 2016 and, at the moment handles approximately 60% of all
+assessments. In a way, to illustrate why it's a bit hard to speak of the effect on cost ratio because
+this actually affects the claims ratio and not the cost ratio. Because loss adjustment expenses will
+fall down there and not on the cost ratio and in the accounts.
+And I think it's fair to say that it is on the back-office side and almost on the claims management
+side, as we have identified most processes where we can actually use robotics to replace kind of
+manual processes. And as Janne mentioned where we can kind of move resources in more
+complex claims and more complex cases which also improves quality. So, it has positive thing both
+on cost and quality. But it won't be on the cost ratio. It will be on the loss ratio going forward.
+
+Q - Blair Stewart
+
+{BIO 4191309 <GO>}
+
+Right.
+
+A - Jostein Amdal
+
+{BIO 19939645 <GO>}
+
+On the other side, there are also in the distribution side on the back-office of handling policy
+changes, renewals and so on where we can combine self-service kind of on the outside towards
+the customers with robotics on the inside so that inquiries are totally automatically handled
+throughout the process. Yeah. I think it requires much more time to really go into detail on that one.
+
+Q - Blair Stewart
+
+{BIO 4191309 <GO>}
+
+
+
+Yes.
+
+A - Jostein Amdal
+
+{BIO 19939645 <GO>}
+
+FINAL
+
+And we might give you (37:04). And the last question was on the bank, and I don't quite got the
+detail on your question there.
+
+A - Janne Merethe Flessum
+
+{BIO 19368607 <GO>}
+
+You were asking about the capital increase in the bank, right, which was...
+
+Q - Blair Stewart
+
+{BIO 4191309 <GO>}
+
+Yeah, yeah. Just there is capital increase (37:18).
+
+A - Janne Merethe Flessum
+
+{BIO 19368607 <GO>}
+
+Yeah, yeah. It's partly due to the increased Pillar 2 requirement for the bank and also with the
+expected countercyclical buffer, which will increase towards the end of the year.
+
+Q - Blair Stewart
+
+{BIO 4191309 <GO>}
+
+Bloomberg Transcript
+
+Okay. Fantastic. Just coming back to the re-underwriting issues and changes to tariff structure in
+Denmark, is that something that's already happened in the 01/01 renewal or is that still to come
+through in the 01/07 or 01/10 renewals? And is it possible to estimate what impact that might have
+on volumes?
+
+A - Jostein Amdal
+
+{BIO 19939645 <GO>}
+
+No, it just – only very limited on the 01/01 renewal because at least for a lot of the customers, you
+need to give notice three months ahead if you are going to increase prices by so and so much. So,
+it has a limited effect on the 01/01 renewal. But tariffs and – prices increases have taken place and
+tariffs are being changed. So, on the tariff part business and the full tariff business, the renewal
+dates are much more evenly spread out throughout the year. So, they will have a much more
+gradual implementation of the price increases.
+
+Q - Blair Stewart
+
+{BIO 4191309 <GO>}
+
+I see. Okay. Thank you.
+
+Operator
+We will now take the next question from Niccolò Dalla Palma from Exane BNP Paribas. Please go
+ahead.
+
+Q - Niccolò C. Dalla Palma
+Hi. Thank you and good morning. A couple of questions for me. One is on the Tier 1 capacity. I just
+want to hear your latest votes (38:56) in terms of your willingness to utilize the NOK 1.7 billion of
+spare capacity. Is this likely or not likely, what's your view today on that?
+And the second one is on the investment portfolio. You have helped us with both on your report
+and on the call today on the amortized cost part of the portfolio. I was wondering if I could come
+back to the current bonds part in terms of what a normalized return is here. And the reason for
+asking is, if I use your benchmark you gave us on – and which is on slide 25, I think the return on the
+quarter was some 15 basis points. You reported some 40 basis points return in the quarter.
+Is the gap structural positive returns that comes from all the technicalities of discounting effects
+and the hedging, is that structural, it is a 25 basis point difference or is there a – or so, what could
+
+
+
+be the normal level of current bond returns if the rates don't move in the specific quarter? Thanks.
+
+A - Janne Merethe Flessum
+
+{BIO 19368607 <GO>}
+
+FINAL
+
+Should I start with the Tier 1 capacity question?
+
+A - Jostein Amdal
+
+{BIO 19939645 <GO>}
+
+Yeah.
+
+A - Janne Merethe Flessum
+
+{BIO 19368607 <GO>}
+
+There's really no new communication on that, Niccolò, and the capacity is about the same as
+before. And we have stated that we will or can consider to utilize parts of that. We will not utilize
+the full capacity anyway as we need to have some leeway. But there is no specific plans to utilize
+the capacity as of today.
+
+A - Jostein Amdal
+
+{BIO 19939645 <GO>}
+
+Bloomberg Transcript
+
+I'll try to answer your second question, Niccolò, but I'm not quite sure if I understood all the fine
+details of it but, I'll give you some numbers at least and hopefully that goes some way to answer
+your question. As we stated, the reinvestment rate of the bonds we invested in, in the hold-tomaturity portfolio in Q1 was 3.0%. And the kind of the reinvestment rates or the running rates of
+the total bond portfolio is around 2.6%.
+You see the interest rate levels we are operating under and then you need to remember that in
+Norwegian kroner and then a substantial part of the portfolio is also invested in global investment
+grade and global high-yield bonds both hedged in Norwegian kroner.
+In the short-end of the curve, where we hedged insurance technical liabilities in Norwegian kroner,
+Swedish kroner and Danish kroner, you see where the interest rates curve are, we are going to talk
+in (41:40) plus/minus zero interest rates in that area.
+I don't know if that really answers your question, Niccolò. But if not, please rephrase it, so I'll
+understand it better.
+
+Q - Niccolò C. Dalla Palma
+Yes. What I'm after is, if I take the match portfolio, it's – how the bonds at amortized cost will
+develop is quite clear based on all the numbers you gave us. It's more – (42:07) the current bonds
+which I think impact the Danish portfolio...
+
+A - Jostein Amdal
+
+{BIO 19939645 <GO>}
+
+Yeah.
+
+Q - Niccolò C. Dalla Palma
+...and therefore it's a mark-to-market accounting. I was wondering if interest rates don't move in
+one quarter and given that these bonds probably would yield close to zero truly expect zero in a
+normal quarter or is there a structural positive contribution, which derives from the hedging and
+from the technicalities about discounting that come through (42:33) the line?
+Maybe, we can take it offline (42:49) these out.
+
+A - Jostein Amdal
+
+{BIO 19939645 <GO>}
+
+Yeah. But I remember that in – as you correctly point out, it's negative at least in Denmark on the
+short term. It's also – there are – it's a very low basis for that part of hedge portfolio is run at the
+
+
+
+(42:54) market value there. And that – but also remember that we also have some kind of loan
+portfolio and so on also in the Danish hedged portfolio, which kind of helps the return somewhat.
+But then, the level is very low. I think for details, we'll take in a possible meeting, Niccolò.
+
+Q - Niccolò C. Dalla Palma
+
+FINAL
+
+Thank you very much.
+
+A - Jostein Amdal
+
+{BIO 19939645 <GO>}
+
+Yeah.
+
+Operator
+Our next question comes from Janet Demir from Morgan Stanley. Please go ahead.
+
+Q - Janet Demir
+
+{BIO 19462264 <GO>}
+
+Good morning. Thank you. I have one question left. Just when looking at the runoff, I was
+wondering which accident years, especially the elevated runoff is coming from and whether that's
+in line with your original expectations. And also, should inflation pick up, would you have to adjust
+your guidance for the runoff or have you already baked into that guidance some sort of buffer for
+inflation picking up? Thank you.
+
+Bloomberg Transcript
+
+A - Jostein Amdal
+
+{BIO 19939645 <GO>}
+
+The runoff years are spread out, kind of, say, from 2005 to 2014, mainly (44:05). In terms of would
+we suffer if inflation went up, I think it is if the long-term expected inflation moved up quite
+substantially. We try to reserve for expected inflation, and there is some buffer for a bit of
+conservativeness in our judgment of expected future inflation as well. So, we wouldn't be really hit
+if there was an increase in inflation. If there was a dramatic shift, we need to reconsider.
+
+Q - Janet Demir
+
+{BIO 19462264 <GO>}
+
+Okay. Great. Thank you.
+
+Operator
+We will now take the next question from Jonny Urwin from UBS. Please go ahead.
+
+Q - Jonny Urwin
+
+{BIO 17445508 <GO>}
+
+Hi. Good morning. Just one from me, a quick one. So, we talked a lot about claims inflation, but is
+this just surprising issue? Is it just something you need to increase the tariffs and the problem goes
+away, or is there also work you can do around sort of claims handling and claims management
+processes to try and contain the cost of claims a bit more. Any color there would be great. Thanks.
+
+A - Jostein Amdal
+
+{BIO 19939645 <GO>}
+
+Yeah. This is a pricing issue. There is kind of nothing on the claims management side or anything
+that kind of could mitigate this.
+
+Q - Jonny Urwin
+Okay. Thank you.
+
+Operator
+
+{BIO 17445508 <GO>}
+
+
+
+There are no further questions at this time. As there are no further questions, I would now like to
+turn the call back to our speakers for any additional or closing remarks.
+
+FINAL
+
+A - Janne Merethe Flessum
+
+{BIO 19368607 <GO>}
+
+Okay. Thanks a lot. And I just wanted to remind you that we are doing road shows next week in
+London and Frankfurt. There are some slots available if you want to participate. And we will also go
+to Copenhagen and Paris later this quarter. Thank you and have a nice day.
+
+Operator
+Ladies and gentlemen, this concludes the Gjensidige Q1 2017 results presentation. Thank you all for
+your participation today. You may now disconnect.
+
+Bloomberg Transcript
+
+This transcript may not be 100 percent accurate and may contain misspellings and other
+inaccuracies. This transcript is provided "as is", without express or implied warranties of any kind.
+Bloomberg retains all rights to this transcript and provides it solely for your personal, noncommercial use. Bloomberg, its suppliers and third-party agents shall have no liability for errors
+in this transcript or for lost profits, losses, or direct, indirect, incidental, consequential, special or
+punitive damages in connection with the furnishing, performance or use of such transcript.
+Neither the information nor any opinion expressed in this transcript constitutes a solicitation of
+the purchase or sale of securities or commodities. Any opinion expressed in the transcript does
+not necessarily reflect the views of Bloomberg LP. © COPYRIGHT 2022, BLOOMBERG LP. All rights
+reserved. Any reproduction, redistribution or retransmission is expressly prohibited.
+
+

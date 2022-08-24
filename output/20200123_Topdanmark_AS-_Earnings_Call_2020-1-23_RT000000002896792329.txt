@@ -1,0 +1,1059 @@
+Company Name: Topdanmark AS
+Company Ticker: TOP DC Equity
+Date: 2020-01-23
+
+Y 2019 Earnings Call
+Company Participants
+FINAL
+
+Lars Thykier, Chief Financial Oﬃcer & Member of the Executive Board
+Peter Hermann, Chief Executive Oﬃcer & Member of Executive Board
+
+Other Participants
+Derald Goh
+Jakob Brink
+Mads Thinggaard
+Martin Gregers Birk
+Per Gronborg
+Youdish Chicooree
+
+Presentation
+
+Bloomberg Transcript
+
+Peter Hermann
+
+{BIO 20507411 <GO>}
+
+Good afternoon, everybody, and good morning to the USA. Thank you for joining us in
+this conference call. With me is Lars Thykier, the CFO; and Steﬀen Heegaard, Group
+Communications and IR Director. We are holding this conference because earlier today,
+we published the annual results for 2019. And before we start with the questions, we will
+just take a minute to give a brief explanation on unexpired risks as mentioned in the
+report and also the result on illness & accident, we think that will beneﬁt the process. So I
+will give the word to Lars, and he will explain. And afterwards, we will take questions. So
+Lars, will you start?
+
+Lars Thykier
+
+{BIO 16427122 <GO>}
+
+Thank you very much. If I could draw your attention to Slide number 4, which shows
+schematic handling of the unexpired risk of future losses that is in this quarter results. I
+think it is a wonderful invention by the International Accounting Standards Board. That
+should make things easier for you to understand. Try to imagine the company that was
+established long time ago. The premium -- this is an insurance company of course, this
+insurance company has a premium of 100 every year, and it has claims of 105 every year.
+Sometimes in the past, the CFO has put aside DKK 5 million to cover unexpired risk or
+future losses.
+Each and every year the company receives 100 in premiums and it pays out 105 in claims
+meaning, that the technical result will be minus 5 and the claims ratio 105. This goes for
+the ﬁrst year, I have it on the table here. That is time plus one. Claims ratio of 105, then
+time plus two, claims ratio 105. And if we look at time plus three, again, we will receive
+Page 1 of 14
+
+
+
+Company Name: Topdanmark AS
+Company Ticker: TOP DC Equity
+Date: 2020-01-23
+
+FINAL
+
+100 in premiums from the customers and we will pay out 105 in claims. But the CFO has
+realized that next year, the claims ratio will be worse claims will increase. And then he
+must put aside the reserve for expected future losses. In this case, I've used 15 as
+expected future losses. And this means that 15 of the premium is reserved or moved to
+reserve from for future losses. And the premium is down to 85, while the claims stay at
+105.
+The technical result in time plus three is minus 20 and the claims ratio is 124. The premium
+growth will be staggering minus 15%. And still the cash ﬂows are exactly the same as the
+year before 100 in 105 out. In time plus four, the claims will be 120. The technical result will
+be 20 -- or minus 20 as it should be. The claims ratio will be 120, as you would expect, but
+there will be a huge growth of 18%, even though the paid premiums are the same every
+year and so are the claims.
+So when there is a change in expected claims and you have a product where -- which is
+having combined ratio above 100, then this will range moves in the key ﬁgures, as you can
+see here. T plus three that is like Topdanmark in 2019. Our premiums are lower than they
+should be. Next year, they will be higher than they should be, and our claims ratio is
+worse than to be this year, and while it will be normal next year.
+If we look at Slide 7, I suppose?
+
+Peter Hermann
+
+{BIO 20507411 <GO>}
+
+Bloomberg Transcript
+
+Yes.
+
+Lars Thykier
+
+{BIO 16427122 <GO>}
+
+You can see, how the actual ﬁgures are in Topdanmark in '19. Last year, we had DKK39
+million in surplus in illness and accident. But 150 of these 39 million were run-oﬀ gains,
+meaning that before run-oﬀ we had a loss of minus DKK 111 million on illness and accident.
+We have claims that are DKK64 million higher than we had last year. And then we have to
+make this artiﬁcial reserve for future loss of DKK 40 million. So premiums are reduced by
+DKK 40 million. So DKK64 million more in claims and DKK40 million debt in premiums.
+And then there are some changes in expenses and premiums and so on. And that means
+that the total diﬀerence between '18 and '19 is actually DKK 183 million. You may ask what
+happens next year. But as you could see from the model I showed you, we will have a
+pretty huge premium increase. On the other hand the claims ratio will be right. So that
+has -- it has had quite an impact on this account. And that's why we try to explain it. It's
+not that I am very keen on explaining separate products, but now I've done it this time. I
+hope you can use it for something.
+
+Peter Hermann
+
+{BIO 20507411 <GO>}
+
+Yes. We hope that helps a little on the questions coming. So we're now ready to answer
+your questions. So operator, please ask them one at a time. And operator, can we have
+the ﬁrst question, please?
+
+Page 2 of 14
+
+
+
+Company Name: Topdanmark AS
+Company Ticker: TOP DC Equity
+Date: 2020-01-23
+
+Questions And Answers
+Operator
+
+FINAL
+
+(Question And Answer)
+Thank you. (Operator Instructions) Our ﬁrst question comes from the line of Jakob Brink
+form Nordea. Please go ahead.
+
+Q - Jakob Brink
+
+{BIO 20303720 <GO>}
+
+Thank you very much. Three questions, please. The ﬁrst one on page -- what you just
+discussed last, sorry for that. But the runoﬀ gains or the decline in runoﬀs from -- on Page
+7 in the illness and accident result. Could you maybe just give us a bit more details on why
+it's down so much this year? That was the ﬁrst question.
+
+A - Peter Hermann
+
+{BIO 20507411 <GO>}
+
+Yes. Actually, we make provisions for each and every claims here. But at some point of
+time, we were a bit concerned about the development in illness and accident. So we
+chose to keep one -- or not to release one claims here is runoﬀ while we, in '18, had two
+claims here that were ready. We have only one claim here in '19.
+
+Bloomberg Transcript
+
+Q - Jakob Brink
+
+{BIO 20303720 <GO>}
+
+So just to understand when -- if you do this, bridge on Page 7 into 2019, everything else
+equal, it should be -- the runoﬀ of minus 96 would be zero?
+
+A - Peter Hermann
+
+{BIO 20507411 <GO>}
+
+No, not necessarily. We do our best to put aside reserves in the right size. And if we do it
+exactly the same way and the risk doesn't change, in that case it'll be zero.
+
+Q - Jakob Brink
+
+{BIO 20303720 <GO>}
+
+Okay. And just, I guess a follow-up on illness and accident is, we've talked about this
+before, but is there any willingness in the industry to get this product repriced to get a
+better balance?
+
+A - Peter Hermann
+
+{BIO 20507411 <GO>}
+
+Yes. There is a willingness, but it is as if the cost also it, so to speak, doesn't work very well.
+We hear Danica, they want to increase prices. We have PFA, they want to increase prices
+and you hear Topdenmark, we want to increase prices. We need to increase prices. And
+actually, I think that if we don't do it, we'll probably hear from the regulator.
+It is our deﬁnite intention to be -- to look very keenly on pricing in accident in 2020, and
+we have already put some initiatives to work. So we think that it should be possible to
+keep the snowball, abase, so to speak.
+
+Page 3 of 14
+
+
+
+Company Name: Topdanmark AS
+Company Ticker: TOP DC Equity
+Date: 2020-01-23
+
+A - Lars Thykier
+
+{BIO 16427122 <GO>}
+
+FINAL
+
+Well, you can see an indication of this, we are indicating a growth in regular premiums in
+life for 2020 of zero -- around 0% after a growth of more than 14% in 2019. And this is an
+indicator of that we are executing steps in order to produce better results on illness and
+accident.
+
+Q - Jakob Brink
+
+{BIO 20303720 <GO>}
+
+You said before last, and I don't know if that was intentionally. But I think you said before
+that if -- it sounded like this mechanics in your Page 6 only worked, if it was a deterioration
+of the proﬁtability. So what if it's exactly an improvement, if you get through the prices?
+Will the mechanics work diﬀerently then or the opposite way or...
+
+A - Lars Thykier
+
+{BIO 16427122 <GO>}
+
+It will reverse. So if we don't break down the combined ratio, that will be really....
+
+A - Peter Hermann
+
+{BIO 20507411 <GO>}
+
+It works the same way to a typical amount.
+
+Q - Jakob Brink
+
+{BIO 20303720 <GO>}
+
+Bloomberg Transcript
+
+Okay. Great. And then ﬁnal question on the -- I have read what you write about the life
+insurance guidance, but it's a pretty big drop in the guidance compared to what you had
+a year ago. So maybe a few more words, if possible, would be nice. Thank you.
+
+A - Lars Thykier
+
+{BIO 16427122 <GO>}
+
+Yes. In the ﬁrst place compared to '19, we expect a much, much lower return on
+shareholder funds. We had a very good investment result in '19, and until the imvestment
+result in '20 will -- it is very unlikely that it is being just as good. But I have had...
+
+Q - Jakob Brink
+
+{BIO 20303720 <GO>}
+
+I meant also just from the initially one year ago, I think that was DKK230 million.
+
+A - Lars Thykier
+
+{BIO 16427122 <GO>}
+
+Yes. So there are some diﬀerences. I'm just on my way. We -- in life, we use the samples
+for setting. That is an industry wide or in general accepted asset or assumptions about
+asset returns by everybody in the industry. We have to use this to apply with a codex And
+that has been changed before Q4. So that has brought down the expected returns on all
+asset classes. Expected income on mortgage bonds or government bonds has been
+brought down from 1 percentage point a year to 0.3 percentage points. Property has been
+brought down from, I think from 6.1% to 5.6%. Shares down to 5.5% and it was on. So we
+simply have lower assumptions about what the income is going to be. We are talking
+about a decrease of around DKK45 million just due to these assumptions. Then we have -yes, that's by far the most important part. But besides this, we have an expectation that
+our new IT system would work from 1st of April. Unfortunately, we have had to make a lot
+of manual handling of cases that the system should have been able to handle. And, this
+Page 4 of 14
+
+
+
+Company Name: Topdanmark AS
+Company Ticker: TOP DC Equity
+Date: 2020-01-23
+
+means that we are spending more money on making the system work, and we're
+spending more money on the employees that we expected to do last time. So the
+expense result we're looking into -- in '20 will not be good.
+
+FINAL
+
+A - Peter Hermann
+
+{BIO 20507411 <GO>}
+
+And then for 2021, we think actually this will turn, because both the expectation to the
+system, and also that we can look into eﬃciency gains on a later stage, and that we think
+that it'll be better in 2021 seeing on the cost side.
+
+Q - Jakob Brink
+
+{BIO 20303720 <GO>}
+
+So what level are we roughly looking at in '20 and '21?
+
+A - Lars Thykier
+
+{BIO 16427122 <GO>}
+
+We don't guide for '21.
+
+Q - Jakob Brink
+
+{BIO 20303720 <GO>}
+
+Okay. All right. Thanks a lot.
+
+A - Lars Thykier
+
+{BIO 16427122 <GO>}
+
+You're welcome.
+
+Bloomberg Transcript
+
+Operator
+And the next question comes from the line of Per Grnborg from SEB. Please go ahead.
+
+Q - Per Gronborg
+
+{BIO 15910340 <GO>}
+
+Yes. Good afternoon. I will continue where Jacob ended. The sales and admin result
+minus DKK22 million in '19, plus DKK25 million additional loss in the next year, plus DKK17
+million in one-oﬀ disappearing. This implies that sales happening will be in the magnitude
+of the mid 60s. Is that correctly understood?
+
+A - Peter Hermann
+
+{BIO 20507411 <GO>}
+
+Cost side, you mean, what was the question, sorry...
+
+A - Lars Thykier
+
+{BIO 16427122 <GO>}
+
+Could you repeat?
+
+Q - Per Gronborg
+
+{BIO 15910340 <GO>}
+
+Sales and admin results in lift was minus DKK22 million in '19, you're guiding for DKK25
+million extra cost, and you're guiding for DKK17 million one-oﬀ positive disappearing. This
+must imply that sales and admin mix must be in the mid-60s, right?
+
+Page 5 of 14
+
+
+
+Company Name: Topdanmark AS
+Company Ticker: TOP DC Equity
+Date: 2020-01-23
+
+A - Lars Thykier
+
+{BIO 16427122 <GO>}
+
+Right.
+
+A - Peter Hermann
+
+{BIO 20507411 <GO>}
+
+FINAL
+
+Yes. That's correct.
+
+Q - Per Gronborg
+
+{BIO 15910340 <GO>}
+
+And there are no comments on, what the beneﬁts will be for the new system? Will this
+ever go to sale or will this consistently be a signiﬁcant drain on proﬁt?
+
+A - Lars Thykier
+
+{BIO 16427122 <GO>}
+
+No, that is not the expectation. I think I have warned you again and again that in
+connection with the implementation of the new system, we will probably have a kind of
+trough in the income in life because the expenses are so big. It is expected that the life
+system will improve eﬃciency substantially when it is (inaudible).
+
+Q - Per Gronborg
+
+{BIO 15910340 <GO>}
+
+Okay.
+
+A - Lars Thykier
+
+{BIO 16427122 <GO>}
+
+Bloomberg Transcript
+
+Let me add, far better customer service and lower admin costs.
+
+Q - Per Gronborg
+
+{BIO 15910340 <GO>}
+
+But this should imply that over time we should expect sales and admin to go towards
+zero. Is that a fair assumption?
+
+A - Lars Thykier
+
+{BIO 16427122 <GO>}
+
+I will be sorry if we couldn't, over time get it positive.
+
+Q - Per Gronborg
+
+{BIO 15910340 <GO>}
+
+Okay. Perfect. Then on the return on the investments belonging to the equity, you guide
+for DKK130 million lower than it was last year. That must imply that we are somewhere in
+the mid 50s. What is the equity base that you multiply the return that you -- despite that
+you get from the association's assumptions? What size of...
+
+A - Lars Thykier
+
+{BIO 16427122 <GO>}
+
+2 point something, two point something.
+
+Q - Per Gronborg
+
+{BIO 15910340 <GO>}
+
+2-point-something billion?
+
+Page 6 of 14
+
+
+
+Company Name: Topdanmark AS
+Company Ticker: TOP DC Equity
+Date: 2020-01-23
+
+A - Lars Thykier
+
+{BIO 16427122 <GO>}
+
+Yes.
+
+FINAL
+
+A - Peter Hermann
+
+{BIO 20507411 <GO>}
+
+Okay. Perfect. Then one more on life. You addressed that -- you hope that you'll be able to
+price up waste products. The natural question is, to what extent have you -- are you
+locked into multi-year pricing with the contracts you have sold to brokers?
+
+A - Lars Thykier
+
+{BIO 16427122 <GO>}
+
+That was -- when you -- he's running -- right on. This means that it will be diﬃcult and it'll
+take time to make the impediments that we want to make. Of course, we have the
+possibility to -- even though we have a contract that is multi-year, we can cancel it, but it'll
+be unusual. So that will probably not happen. Any comment, Peter?
+
+A - Peter Hermann
+
+{BIO 20507411 <GO>}
+
+I think it's fair to say that, yes, it is -- you point at something that is a problem but it'll also
+take into consideration that we -- our key segment is actually the small and medium-sized
+businesses. So we don't have the same troubles as maybe some of our competitors in
+terms of health care giving long contracts. So a bigger part of our portfolio, do not have
+these kind of year-long contracts. But we, of course, also have this kind of -- in our
+portfolio.
+
+Bloomberg Transcript
+
+Q - Per Gronborg
+
+{BIO 15910340 <GO>}
+
+One should expect, if you go to the brokers center, you try to charge materially higher risk
+pricing. That must impact other part of the pricing, meaning the asset management fee.
+One must assume that, that must be coming down. When I look at your asset
+management company, we don't really see any trend in the income there, despite
+volumes are materially up. Can you help us decompose, what's happening to the asset
+management fee? I assume it's performance fees that is oﬀsetting the underlying organic
+growth.
+
+A - Lars Thykier
+
+{BIO 16427122 <GO>}
+
+In the ﬁrst place, I would like to stress that on the performance -- on asset management
+fees, we are the cheapest company in the market. And it'll remain so. We don't see any
+speciﬁc reason to reduce expenses or asset management fees further.
+The asset management company lives from money that is created from other places in
+group. And the asset management company has to pay for this. You could regard itas a
+marketing contribution or whatever. But the asset management company has to pay life to
+get access to the money that life generates.
+
+A - Peter Hermann
+
+{BIO 20507411 <GO>}
+
+That is part of the cost result in life.
+
+Page 7 of 14
+
+
+
+Company Name: Topdanmark AS
+Company Ticker: TOP DC Equity
+Date: 2020-01-23
+
+Q - Per Gronborg
+
+{BIO 15910340 <GO>}
+
+Okay. Okay. So basically, we should not expect asset management company's proﬁt to
+grow in line with the assets generated in the life company?
+
+FINAL
+
+A - Lars Thykier
+
+{BIO 16427122 <GO>}
+
+There will be some kind of distribution. The asset management company will probably
+increase its bottom line as time goes by, but a major part of the gain will be seen in the
+sales and expenses in life.
+
+Q - Per Gronborg
+
+{BIO 15910340 <GO>}
+
+Okay, that's -- okay. Perfectly. One ﬁnal question. This unexpired risk we discussed on
+Page 6, 7, what were -- this impact you had on 2019, how big of that impact was into the
+fourth quarter?
+
+A - Lars Thykier
+
+{BIO 16427122 <GO>}
+
+The fourth quarter...
+
+Q - Per Gronborg
+
+{BIO 15910340 <GO>}
+
+Was that -- was anything of this hitting the fourth quarter? Is this primarily explaining some
+top-line issues going into next year?
+
+Bloomberg Transcript
+
+A - Lars Thykier
+
+{BIO 16427122 <GO>}
+
+No. Actually, that complicates things further on. If you remember the discussions we had
+last year.
+
+Q - Per Gronborg
+
+{BIO 15910340 <GO>}
+
+Yes. I remember those, yes.
+
+A - Lars Thykier
+
+{BIO 16427122 <GO>}
+
+There was a distribution of this unexpired risk over the year, which makes things
+absolutely impossible to understand. And this means that the premiums we had in Q4 last
+year was very low. So actually, there's positive impact on premiums of around two
+percentage points in Q4.
+
+Q - Per Gronborg
+
+{BIO 15910340 <GO>}
+
+Okay.
+
+A - Lars Thykier
+
+{BIO 16427122 <GO>}
+
+While there was a negative impact on claims of some -- around the same size.
+
+A - Peter Hermann
+
+{BIO 20507411 <GO>}
+
+Page 8 of 14
+
+
+
+Company Name: Topdanmark AS
+Company Ticker: TOP DC Equity
+Date: 2020-01-23
+
+So I think, the 2 percentage points in premiums is in the report. It is stated that we have a
+growth of 4.4 before taking care of these changes in unexpired risk.
+
+Q - Per Gronborg
+
+{BIO 15910340 <GO>}
+
+FINAL
+
+So the...
+
+A - Lars Thykier
+
+{BIO 16427122 <GO>}
+
+So sorry, it is ﬁxed 4.4. But if we clean it for changes in unexpired risk, it goes down to 2.4.
+
+Q - Per Gronborg
+
+{BIO 15910340 <GO>}
+
+That's 2.4. And proﬁt would have basically been 2 percentage points on combined ratio
+better in Q4 if you hadn't had this eﬀect?
+
+A - Lars Thykier
+
+{BIO 16427122 <GO>}
+
+No.
+
+Q - Per Gronborg
+
+{BIO 15910340 <GO>}
+
+Okay. That was not what you said.
+
+Bloomberg Transcript
+
+A - Lars Thykier
+
+{BIO 16427122 <GO>}
+
+No, no. There are two eﬀects. There's a pretty negative eﬀect from the claims where we
+have increased our expected losses and has a positive eﬀect for unexpired risk, which is
+lower than it -- or the transfer from -- to unexpired risk is lower than it were last year.
+
+Q - Per Gronborg
+
+{BIO 15910340 <GO>}
+
+If I -- If we look at Q4 isolated to 2019, this has -- this eﬀect has -- there have been no eﬀect
+from the expired risk hitting the proﬁt. Of course, you have improved your proﬁt yearover-year due to this unexpired risk thing. But it has no impact speciﬁcally on Q4 this
+year?
+
+A - Lars Thykier
+
+{BIO 16427122 <GO>}
+
+Oh, yes. That's around DKK40 million in extra premiums in Q4 from this change in future
+losses.
+
+Q - Per Gronborg
+
+{BIO 15910340 <GO>}
+
+Yes, but you, have not had -- you have DKK40 million that's premiums, that is hit in Q4,
+and we talked about hit earnings in Q4. Is that correc?
+
+A - Lars Thykier
+
+{BIO 16427122 <GO>}
+
+Compared to '18, they'll hit premiums and thereby, the claims ratio will be better and the
+technical result will be better. The top line is DKK40 million higher.
+
+Page 9 of 14
+
+
+
+Company Name: Topdanmark AS
+Company Ticker: TOP DC Equity
+Date: 2020-01-23
+
+Q - Per Gronborg
+
+{BIO 15910340 <GO>}
+
+Okay. Thank you. I got it. Thank you.
+
+A - Lars Thykier
+
+{BIO 16427122 <GO>}
+
+FINAL
+
+Okay. Great.
+
+Operator
+(Operator Instructions). And the next question comes from the line of Martin Gregers Birk
+from Carnegie. Please go ahead.
+
+Q - Martin Gregers Birk
+
+{BIO 19920552 <GO>}
+
+Hey, thank you so much. A question here on premium growth going into next year.
+Breaking it out on the quarter. I could imagine that the Nordea deal is going to be pretty
+back-end loaded. Is that correct? So we should expect two quarters of sort of slow growth
+and then growth sort of to pick up towards the end of the year?
+
+Bloomberg Transcript
+
+A - Lars Thykier
+
+{BIO 16427122 <GO>}
+
+Some of it -- for example, we have some indexation starting at the beginning of the year,
+that starts with some kind of growth in the beginning of the year, but that's true. Around
+the year, it actually is picking up ﬁne. We have a good start. So we've seen a lot of leads.
+So we have seen good progress on that, but it's true that it will -- the Nordea deal, of
+course will be higher in the last part of the year. But just to say, the growth in the
+beginning of the year will also be aﬀected by indexation.
+
+A - Peter Hermann
+
+{BIO 20507411 <GO>}
+
+Until now, and that's the ﬁrst month, we have had a lot of returns, but there hasn't been
+policies yet.
+
+Q - Martin Gregers Birk
+
+{BIO 19920552 <GO>}
+
+Okay. All right. Thank you.
+
+A - Peter Hermann
+
+{BIO 20507411 <GO>}
+
+Welcome.
+
+Operator
+And the next question comes from the line of Derald Goh from Citigroup. Please go
+ahead.
+
+Q - Derald Goh
+
+{BIO 20775137 <GO>}
+
+Hi. Good afternoon. Just a quick question, please on your SME growth. So 5% for 2019
+seems quite strong. Could you help break it down between how much of it came from
+Page 10 of 14
+
+
+
+Company Name: Topdanmark AS
+Company Ticker: TOP DC Equity
+Date: 2020-01-23
+
+volume rates and also things like some new products? I think you launched a new
+agriculture product. Has there been any impact?
+
+FINAL
+
+A - Peter Hermann
+
+{BIO 20507411 <GO>}
+
+There has been an impact from the indexation of the worker's compensation. And then
+we have actually had a very good growth, in general. The product you're talking about the
+Crop Insurance that we were very happy with, unfortunately, the farmers were not, at least
+not at the prices that we suppose we should have. So it hasn't sold very much yet.
+
+A - Lars Thykier
+
+{BIO 16427122 <GO>}
+
+I would say that most of the growth is due to volume. So we've had a net income of
+customers from most other companies in the -- both in the commercial area and in the
+agricultural area.
+
+Q - Derald Goh
+
+{BIO 20775137 <GO>}
+
+Great. Thank you. And just a quick follow-up. Going back to the underlying loss ratio, I
+think you again ﬂagged some negative impact from motor this quarter. Could you give a
+bit more color behind the underlying drivers?
+
+Bloomberg Transcript
+
+A - Peter Hermann
+
+{BIO 20507411 <GO>}
+
+What we have seen during the last couple of years has been that the claims on third-party
+liability concerning personal injury has fallen very steeply. And this has been suﬃcient to
+cover the increase in -- what's it called? Motor comprehensive. But we see a negative
+development in motor comprehensive and positive development in personal injury. What
+has happened in Q4 is that we have put aside an extra reserve for third-party liability
+concerning physical things, not personal injury, but the stuﬀ that our customers run their
+cars into has been more expensive. That can be other cars or bicycles or whatever it is.
+
+A - Lars Thykier
+
+{BIO 16427122 <GO>}
+
+So it's the same eﬀect. You can see that on the motor comprehensive, we're seeing that it
+is getting more expensive to clear the repair of a car with all the sensors and technology.
+The same goes with the liability side of the things. That also means that we are looking
+into the pricing on the motor comprehensive on the north, we say more things side and
+not the personal side next year.
+
+A - Peter Hermann
+
+{BIO 20507411 <GO>}
+
+You'll see a slight skew where we don't or we will reduce third-party liability to some
+extent, and we will increase comprehensive .
+
+Q - Derald Goh
+
+{BIO 20775137 <GO>}
+
+Thank you very much.
+
+A - Peter Hermann
+
+{BIO 20507411 <GO>}
+
+Page 11 of 14
+
+
+
+Company Name: Topdanmark AS
+Company Ticker: TOP DC Equity
+Date: 2020-01-23
+
+Welcome.
+
+Operator
+
+FINAL
+
+And the next question comes from the line of Youdish Chicooree from Autonomous
+Research. Please go ahead.
+
+Q - Youdish Chicooree
+
+{BIO 17430923 <GO>}
+
+Hi. Good afternoon, everyone. I've just got one question, please. It's on your adverse
+claims experience in private property. It seems that throughout the year, you've had
+recurring issues around burst pipes et cetera. So I was wondering what actions are you
+taking to address this adverse development, please? Thank you.
+
+A - Peter Hermann
+
+{BIO 20507411 <GO>}
+
+I'm not sure I got that. Could you repeat, please?
+
+Q - Youdish Chicooree
+
+{BIO 17430923 <GO>}
+
+Bloomberg Transcript
+
+Throughout the year, you've talked about adverse loss experience on property, namely
+due to burst pipes. So I was wondering what actions you're taking? Because ﬁrstly, it
+seems that you're raising prices still in line with the automatic indexation. So I was
+wondering whether you were doing something out on the claims side to mitigate the
+adverse experience of 2019.
+
+A - Peter Hermann
+
+{BIO 20507411 <GO>}
+
+We are looking on the selection of houses. There are some cohorts, obviously, where the
+risk is bigger than other. But you should assess this in combination with the other
+products the customer owns or has. If we get a customer who has a house, then he'll have
+car insurances, two car insurances, could be and insurance of dog and children and other
+content. And that means that the package as such is pretty proﬁtable actually. But you're
+right, that if you look on house alone, then the insurances are not proﬁtable.
+
+Q - Youdish Chicooree
+
+{BIO 17430923 <GO>}
+
+Okay, that's it. Thank you very much.
+
+Operator
+And the last question comes from the line of Mads Thinggaard from ABG. Please go
+ahead.
+
+Q - Mads Thinggaard
+
+{BIO 15369662 <GO>}
+
+Yes. Hi. This is Mads from ABG. Thank you for taking my questions. I have just -- the ﬁrst
+one is just, if you could help a bit. Now you had some quarters with some upwards
+pressure on claims before one-oﬀ weather, et cetera. And of course, you discussed some
+
+Page 12 of 14
+
+
+
+Company Name: Topdanmark AS
+Company Ticker: TOP DC Equity
+Date: 2020-01-23
+
+of the components here. But going into 2020, do you have kind of a normal rate of
+change we should expect quarterly? Do you have kind of a picture of this at this point?
+
+A - Lars Thykier
+
+{BIO 16427122 <GO>}
+
+FINAL
+
+We do have -- I mean, sorry, I'm afraid I didn't get the question, right. Please again.
+
+Q - Mads Thinggaard
+
+{BIO 15369662 <GO>}
+
+Yes. Now we have had this upwards pressure on, I mean, what one could perhaps call
+underlying claims or claims before one-oﬀs et cetera. And it's more -- do you expect more
+pressure going to 2020 this quarter year-over-year? Can you kind of picture that now?
+
+A - Peter Hermann
+
+{BIO 20507411 <GO>}
+
+The answer is no. I think we are seeing some pressure at some places. But in general, I
+don't expect to see any substantial increase in claims. You look a little positive. Do you
+disagree?
+
+A - Lars Thykier
+
+{BIO 16427122 <GO>}
+
+Bloomberg Transcript
+
+No, I don't disagree. And actually you can see that in our guidance for 2019 in the Q3
+report for 2018, we guided a combined ratio of between 89% and 90%. And now we're
+guiding for a combined ratio around 90%. But that is -- but you have to take into account
+that the discounting since that has hurt the combined ratio by 1.6%. And therefore, you
+can actually say that the underlying development is improving in our time. 1.19%, actually.
+
+Q - Mads Thinggaard
+
+{BIO 15369662 <GO>}
+
+Okay.
+
+A - Peter Hermann
+
+{BIO 20507411 <GO>}
+
+1.5 actually.
+
+Q - Mads Thinggaard
+
+{BIO 15369662 <GO>}
+
+Thanks. And could you remind us a bit, what kind of initiatives are helping claims in 2020?
+
+A - Peter Hermann
+
+{BIO 20507411 <GO>}
+
+Both procurement -- activities within procurement. Its activities were then present when
+we mentioned motor comprehensive as -- maybe some price increases on that. So we
+have something that is more statistical, whereas, yes, from month-to-month or quarter-toquarter, that's again we're unsure on. Maybe we'll not do anything about that. But in other
+places we can see that. For example, some of the speciﬁc coverage is on a car insurance,
+parking insurance and so on we can see that the claims ratio is not good, then we also
+look into price increases on that.
+
+Q - Youdish Chicooree
+
+{BIO 17430923 <GO>}
+
+Page 13 of 14
+
+
+
+Company Name: Topdanmark AS
+Company Ticker: TOP DC Equity
+Date: 2020-01-23
+
+Okay.
+
+A - Lars Thykier
+
+{BIO 16427122 <GO>}
+
+FINAL
+
+We are screening the portfolio all the time. And when we ﬁnd, which we do all the time, of
+course, ﬁnd customers that we don't expect to be proﬁtable at the price having for the
+time being, they will have an individual price raise.
+
+A - Peter Hermann
+
+{BIO 20507411 <GO>}
+
+And the same as we said before about illness and accidents, we will look into how we can
+actually increase the result and make it better. So that's also with the underlying claims.
+
+Q - Youdish Chicooree
+
+{BIO 17430923 <GO>}
+
+Okay. Okay. Thanks for that.
+
+A - Peter Hermann
+
+{BIO 20507411 <GO>}
+
+Welcome.
+
+Operator
+As there are no further questions, I'll hand it back to the speakers.
+
+Bloomberg Transcript
+
+A - Peter Hermann
+
+{BIO 20507411 <GO>}
+
+Yes. Thank you for participating here and attending our conference with good questions.
+As you know, you're always welcome to call us, if you have any further questions, and
+then, of course, we'll be happy to answer them. So goodbye or good morning, whatever
+it is called where you are, but see you next time. Bye-bye.
+
+A - Lars Thykier
+
+{BIO 16427122 <GO>}
+
+Bye.
+
+This transcript may not be 100 percent accurate and may contain misspellings and other
+inaccuracies. This transcript is provided "as is", without express or implied warranties of
+any kind. Bloomberg retains all rights to this transcript and provides it solely for your
+personal, non-commercial use. Bloomberg, its suppliers and third-party agents shall have
+no liability for errors in this transcript or for lost proﬁts, losses, or direct, indirect,
+incidental, consequential, special or punitive damages in connection with the furnishing,
+performance or use of such transcript. Neither the information nor any opinion expressed
+in this transcript constitutes a solicitation of the purchase or sale of securities or
+commodities. Any opinion expressed in the transcript does not necessarily reﬂect the
+views of Bloomberg LP. © COPYRIGHT 2022, BLOOMBERG LP. All rights reserved. Any
+reproduction, redistribution or retransmission is expressly prohibited.
+
+Page 14 of 14
+
+

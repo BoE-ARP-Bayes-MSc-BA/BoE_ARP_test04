@@ -1,0 +1,974 @@
+Y 2020 Earnings Call
+Company Participants
+FINAL
+
+Carsten Stolz , Head of Finance, Chief Financial Officer
+Gert De Winter, President of the Corporate Executive Committee of the Baloise Group, Group
+Chief Executive Officer
+Markus Holtz , Head of Investor Relations
+Matthias Henny, Head of Corporate Division Asset Management
+
+Other Participants
+Farooq Hanif
+Farquhar Murray
+Fulin Liang
+Michael Huttner
+Peter Eliot
+Rene Locher
+
+Bloomberg Transcript
+
+Thomas Fossard
+
+Presentation
+Operator
+Ladies and gentlemen, welcome to the Baloise Group Annual Results 2020 Analysts Conference
+Call and Live Webcast. I am Alice, the Chorus Call operator. I would like to remind you that, all
+participants will be in listen-only mode, and the conference is being recorded. The presentation will
+be followed by a Q&A session. (Operator Instructions). The conference must not be recorded for
+publication or broadcast.
+At this time, it's my pleasure to hand over to Markus Holtz, Head of Investor Relations. Please go
+ahead.
+
+Markus Holtz
+
+{BIO 20240672 <GO>}
+
+Good morning, everyone, and welcome to Baloise Q&A call about our annual results 2020. In our
+call today, we have our CEO, Gert De Winter; our CFO, Carsten Stolz; and our CIO, Matthias Henny.
+And now without further ado, I would like to hand over to Gert, who will give you a quick overview
+of our results before we open the Q&A.
+
+Gert De Winter
+
+{BIO 19720616 <GO>}
+
+Thank you, Markus, and good morning from my side to everybody. Indeed, before opening up for
+the questions, I would like to take a couple of minutes to summarize the key points of our results
+2020.
+Of course, needless to say that 2020 has shown what insurance is all about, it's about providing
+protection and security under very difficult circumstances. And we too, Baloise, has protected
+thousands of customers, families and companies against great financial damage. The health of our
+clients, our partners and our employees has always been our first priority throughout the year.
+
+
+
+FINAL
+
+I'm very proud that we have safely navigated through the challenging environment of 2020, and
+that I and that we can present today very strong underlying results in all segments. This
+demonstrates the strength and the resilience of Baloise. In Non-Life, we have grown substantially,
+over 10% in local currency. And even when excluding the acquisitions we have done in Belgium, the
+growth rate is very strong, over 4% in local currency.
+We hold a top 4 market position in Non-Life in Belgium. And as a group, we display an excellent net
+combined ratio of 91.2%, which is in the lower range of our target of 90% to 95%. Our combined
+ratio in 2020 fully includes the net COVID-19 claims, which amount to slightly over CHF70 million. It
+demonstrates again the very high quality of our Non-Life portfolio.
+In Life, the EBIT improved to CHF282 million. Our new business enjoys a very healthy new business
+margin. And our interest rate margin is resilient, above 100 basis points.
+
+Bloomberg Transcript
+
+In asset management, we achieved a net investment yield of 2.1%. And in acquiring third-party
+assets under management we acquired over CHF1.2 billion in 2020, which is an increase of almost
+50% compared to 2019. Net earnings were at CHF434 million. In comparison with 2019 there are
+two major effects. One is the one-off tax effect in 2019 of CHF150 million. The second effect is
+COVID-19 with the net claims of over CHF70 million and a lower financial result. Our cash
+generation was again very robust with CHF424 million in our balance sheet remain strong with
+CHF7 billion and a very good SST ratio, which we expect to be over 180%.
+I'm very satisfied that we are reporting today this very solid set of annual financial results, but also
+our shareholders will participate in the company's success. This is reflected in a stable and
+attractive dividend per share of CHF6.40. And I am particularly proud that we maintained or even
+have accelerated the high innovation space in 2020. This is reflected in many new initiatives,
+partnerships and investments. And one important example, of course, is our digital insurer, Friday,
+which doubled again year-on-year, premium volumes in 2020 and announced today that it will
+expand into France in 2021.
+Turning to the strategic goals of Simply Safe, which the strategic period which ends by the end of
+this year, I would like to summarize the progress we made towards our strategic goals as follows.
+We are in the final stage to achieve our 2021 strategic targets for employee satisfaction, for
+customer growth and for cash generation. We improved to a top 8% employer in the financial
+industry and hence, have achieved our target of belonging to the 10% best employers.
+We have won in a special, I would say, difficult year over 225,000 net new customers, which is an
+increase of almost 10% in comparison to 2019. After four years, we are almost at 750,000 new
+customers for the Baloise Group. And in relation to our cash goal, we have achieved again a very
+robust cash remittance of CHF424 million in a very well diversified generation. Over the last four
+years, we have actually generated cash in the order of magnitude of over CHF1.7 billion. So in a
+very special year, we have made substantial progress in all of our three strategic goals: employee
+satisfaction, customer growth and cash generation.
+Let's now summarize 2020 and take a look forward into the future. Despite the challenges we
+faced in 2020, we look at one of the most profitable core insurance businesses in Europe with very
+strong underlying operations, which we will further enhance in the coming years through efficiency
+and client growth. Moreover, we have a leading position at the forefront of digital innovation with
+new promising business models starting to arise from our ecosystems Home and Mobility.
+And I am and we are convinced that we will fully achieve our strategic targets by the end of this
+year. And we will start with full force and power and confidence into the new strategic phase
+Simply Safe Season 2. And there, as presented during our Investors' Day last October, we have set
+three new strategic targets: to become a top 5% employer in Europe; to win 1.5 million additional
+net new customers; and to increase our cash remittance by 25% to CHF2 billion over the period
+
+
+
+'22 to '25. In short, we have a very strong core business. We are leading in innovation. We are fully
+ready to start our new strategic phase.
+And with this, I would like to open for the QA.
+
+FINAL
+
+Questions And Answers
+Operator
+(Question And Answer)
+We will now begin the question-and-answer session. (Operator Instructions) First question comes
+from the line of Michael Huttner with Berenberg. Please go ahead, sir.
+
+Q - Michael Huttner
+
+{BIO 21454754 <GO>}
+
+Bloomberg Transcript
+
+Thank you very much. Well done for these results because I think, if I remember, you did a
+voluntary action to help your policyholders, so combined ratio's everything's very good. Just briefly,
+realizing that Germany profits before tax, I think, CHF20 million, Belgium, more like 240 million, and
+I remember a few years ago, you said they were roughly the same-sized business. Obviously,
+Belgium has grown a bit. Is the difference between 20 and CHF240 million mainly FRIDAY? That'd
+be my first question.
+And the second question would be what is the maybe, Gert , you announced a month ago, I think
+there switch to a lower conversion rate and I just wondered if you could maybe explain a little bit
+what you did there and the benefit? And the final one is in terms of the benefit, the investment in
+innovation, I think for 2025 tax target of 10% to 30% of I think earning but might have been cash
+flow and I just wondered where we are now? Thank you.
+
+A - Gert De Winter
+
+{BIO 19720616 <GO>}
+
+Many thanks for the questions. As they were so many, it might be that we actually ask you to
+rephrase the question again because I have not been able to written down everything to be
+honest. Firstly remark, the COVID-19 claims, it is true that where our clients have been covered by
+epidemic risks, although it was never thought to be a pandemic risk, we have actually
+compensated swiftly and without a lot of bureaucracy. So we stood there for our clients and we
+have taken up our role in society to actually provide air and liquidity. That is certainly true.
+I'm jumping to one of your last questions, I think, the 10% to 30% earnings for innovation. This is
+actually going towards Simply Safe : Season 2, which will start as of 2022. What we've invested up
+to now in innovation is around since the start of Simply Safe in 2017, is around CHF200 million, of
+which we have seen a revenue of approximately CHF40 million to CHF50 million in 2020. What we
+have said is indeed that we will generate cash, so increased cash over the four-year periods by
+25%, so CHF2 billion in four years. And of that, we will actually invest in innovation in the core of our
+business and in the ecosystems, Home and Mobility, in a range of 10% to 30%. I'm actually looking
+at the Swiss conversion rate, which was also a question that maybe, Carsten, you can pick that one
+up?
+
+A - Carsten Stolz
+
+{BIO 6055047 <GO>}
+
+Yes, I'll happily do so. What we have done is we have addressed the topic that within the second
+pillar system in Switzerland, given the conversion rates that are actually currently applied, we have
+an implicit how do you say, -- you implicitly allocate from the young and active to the old. And
+therefore, that's not foreseen in the construction of the second pillar system as such. And by
+readjusting the rate, we are lowering this implicit reallocation between generations. That was what
+we technically addressed.
+
+
+
+FINAL
+
+So it's largely addressing this implicit, not foreseen reallocation between generations. And while
+I'm talking, if I got, Michael, your question right on FRIDAY and Germany with regard to the
+allocation where it sits in terms of segment reporting, it's allocated to the non-life segment
+obviously, from a business perspective. And from a geographical perspective, it's not within the
+German segment, it's within the group segment, group business segment. So the results you see
+for Germany is for the incumbent German operations and not including FRIDAY. I hope I --
+
+Q - Michael Huttner
+
+{BIO 21454754 <GO>}
+
+Yes, yes, that's really cool. May I just ask why is Germany so low, given it's so big?
+
+A - Gert De Winter
+
+{BIO 19720616 <GO>}
+
+Bloomberg Transcript
+
+Well, I think a couple of years ago in 2016 at the Investors Day, we announced the strategy for
+Germany, which was actually to rebalance the non-life portfolio. We were way too much exposed in
+industrial risks. Given the size of our operations in Germany that was not the smartest thing to do.
+So we rebalanced completely the portfolio over the last year, have grown in the profitable retail
+business with 20% and have actually re-underwritten or exited 60% of the industrial business,
+which makes the German business, since two years or so, again stable and generating profit. Of
+course, we are also investing a lot in digitalization in building, the new core platform for non-life in
+Germany. This requires investments and they are substantial. So that's another reason. I always
+compare Germany to Belgium, the Belgian operations, about I would say 10-15 years ago. The first
+phase was a clean-up phase. We have to clean up and that's what we've done.
+The second phase was organic growth. And we are growing in the segments we want to grow. In
+life, in the capital life solutions, and in non-life, private and SME as segments, we are growing
+substantially. The third phase could be an inorganic phase if we stabilize all the operations. So we
+have indeed good hopes that going forward, Germany will deliver more in terms of earnings and in
+terms of cash generation. However, it is difficult to compare the markets. If we compare our four
+markets, Switzerland and Luxembourg are very consolidated, which makes those markets
+technically more interesting and profitable. Germany is still a heterogeneous market with a lot of
+players, a lot of mutual also, which have less pressure on bottom line and top line. So there is a
+fierce competition there and Belgium is somewhere in the middle, trending towards a very
+consolidated market. But it's difficult to compare markets like Germany with Switzerland or
+Belgium. And of course, Switzerland and Belgium in non-life are much bigger than our German
+operations are.
+
+Q - Michael Huttner
+
+{BIO 21454754 <GO>}
+
+Of course. Thank you so much. Thank you very much indeed.
+
+Operator
+The next question comes from the line of Fulin Liang with Morgan Stanley. Please go ahead.
+
+Q - Fulin Liang
+
+{BIO 21126177 <GO>}
+
+Thank you. I have two questions. So the first one is, if I look at the numbers you've disclosed on the
+life business, it seems like the traditional -- on the traditional life business part in Swiss, you were
+actually the reserve is reducing despite that you kind of increase the valuation reserves. Does that
+the signal that your traditional business is, including group actually, is running off in Swiss? Does that
+mean that you could release some of the capital tied up with the life insurance? So that's the first
+one.
+And the second one is on the COVID losses. You booked CHF72 million on the non-life. Have you
+reserved for the extended like lockdown at the beginning of this year? So are we -- I guess my
+question is will we see further numbers, COVID losses in 2021 or that's already been all booked in
+2020? Thank you.
+
+
+
+A - Gert De Winter
+
+{BIO 19720616 <GO>}
+
+FINAL
+
+Thank you. Let me take maybe question number two on COVID and looking forward. And maybe,
+Carsten, you can then elaborate on the question concerning the life business. We have actually -gross, we have actually booked almost CHF180 million. After reinsurance, we're at CHF72 million.
+This has been fully booked in 2020. And we don't expect anything to pop up again. We have also
+adjusted the contracts and specified that pandemics are excluded. So going forward, we expect
+no impact of COVID in 2021. Carsten, maybe on the --
+
+Q - Fulin Liang
+
+{BIO 21126177 <GO>}
+
+Thank you. Sorry. So can I have a follow-up? So if you booked, does that mean actually there is
+actually a possibility of some positive impact from if the 2021 turn out to be actually better than
+what you booked?
+
+A - Gert De Winter
+
+{BIO 19720616 <GO>}
+
+Well, we booked and we paid out the majority of the claims and actually rely on the reinsurance to
+actually refund, of course, what we have been paid out. There is still, of course, a number of claims
+that need to be settled, that need to be looked into it. That proportion is, however, pretty low. So
+we don't expect any negative surprises. But we don't see necessarily a lot of upside on the other
+side.
+
+Q - Fulin Liang
+
+{BIO 21126177 <GO>}
+
+Bloomberg Transcript
+
+Okay. Thank you.
+
+A - Carsten Stolz
+
+{BIO 6055047 <GO>}
+
+And to your second question or the first question with regard to the development of life business
+in Switzerland. You know that in Switzerland, we have basically two building blocks on life business;
+one is individual life and one is the group life. And just to remind last year was in terms of the
+group life business in 2019 I must say, not 2020, was a particular year because of the one-off
+effect stemming from the second pillar business that we have underwritten following the exit of s
+competitor in the market. So -- and with regard to individual life, we are very selectively
+underwriting new business there. And of course, we do have a back book that is running off, which
+explains this dynamic. But building blocks, group life as well as individual life are not in runoff. We
+are managing them very actively, which translates then into the healthy interest rate margin that we
+have. And obviously, we are doing to underwrite new business that complies with our selective
+underwriting criteria and the context we are acting in. So it's not runoff business.
+
+Q - Fulin Liang
+
+{BIO 21126177 <GO>}
+
+Thank you.
+
+Operator
+The next question comes from the line of Peter Elliot with Kepler Cheuvreux. Please go ahead.
+
+Q - Peter Eliot
+
+{BIO 7556214 <GO>}
+
+Thank you very much. I have three questions, please. The first one is on the life result, I guess
+there were a couple of one-off items there. There was the biometric assumption and there was
+the Belgian reserve release. So, I'm just wondering if you're able to quantify those or if not
+individually, then the sort of the net impact just to help us understand the underlying result. And I
+guess, looking forward to '21, all else being equal, given the rise in rates, are we able to sort of
+hope for a slightly better savings result?
+Second question was on asset management and banking. You said there was a one-time
+investment there. But if I look at the expenses of the segment, they basically sort of seem to be
+
+
+
+FINAL
+
+the same as last year. So I'm just wondering are you able to sort of say how much that investment
+was and maybe give -- help us to how we should think about the EBIT going forward there?
+And then finally, I was just wondering if you could share your thoughts on the dividend and the level
+that you set. Because I mean, if I look at your cash radar on Slide 11 that kind of points to the fact
+that you could have paid a bit more, even though this was a weaker year than normal. I'm thinking
+we should probably assume that cash and earnings should probably improve from this level. So,
+yes, just wondering if you could be a little bit more generous on what your thoughts were.
+
+A - Gert De Winter
+
+{BIO 19720616 <GO>}
+
+Bloomberg Transcript
+
+Thank you, Peter. Let me try to start and I would ask Carsten and the Matthias to jump in on the
+one or the other question. If you look at the life result, it is true that interest rates have come down
+also in 2020. So that has an impact on the saving result. But on the other hand they have come -they have not been lowering that much as in 2019. So, there was less need to actually reserve. So
+that balances out. You mentioned the biometric adjustment for the risk result, which has nothing to
+do with the pandemic, by the way. And you also mentioned the release, given the diversification
+effect of integrating Fidea and Baloise in Belgium, so I think those are indeed underlying effects.
+Again, our guidance is very clear. The minimum result in life we want going forward is CHF200
+million. That's the minimum. And you mentioned the rising interest rates indeed. Rising interest
+rates are beneficial for us in terms of reinvestment, of course, in higher yields, but also in terms of
+reserving.
+Asset management banking, I'll leave that to Matthias and Carsten. It's actually -- very briefly, it's
+we are turning the bank from a regional bank into a national bank in Switzerland. And that has been
+there, we have been -- we have to actually invest, I would say, low single number million digit.
+That's the point. On the dividend, I would like to spend a bit more time because I think it's -- our
+attractive long-term dividend policy is key to us is of the utmost importance. We've proven that in
+the past with over 20% increase of dividend over the last couple of years and finalizing the
+buyback in 2020. Of course, 2020 is a special year. And that's why we decided to keep the
+dividend stable this year. However, if you look forward and that's also what we announced at the
+Investor Day in October last year, we are planning to increase the cash remittance with 25%, so
+actually CHF2 billion over a four-year period and to pay out of that cash generated 60% to 80% to
+our shareholders. So looking forward, I think you can actually make the calculation yourself, no
+words to be added anymore there. But please, Carsten and Matthias, jump in on the one or the
+other point that I might have omitted.
+
+A - Carsten Stolz
+
+{BIO 6055047 <GO>}
+
+Yes, so EBIT of asset management and banking, in 2020, there have been some one-offs that
+moved the EBIT. On the one hand, we had lower average assets under management, averaged
+over the year, which is the relevant basis for the fee income. And on the other hand, in 2019, we
+had some one-off fee income given the capital increase in the property fund, but also some
+performance-related fee income in the bank that didn't occur in 2020 and the related restructuring
+charges somewhere in the single-digit million Swiss franc area to enable as Gert has mentioned to
+become a Swiss bank, not so much a regional bank. So these trigger the EBIT or these explain the
+somewhat lower EBIT in asset management and banking. And it's basically the preparation for the
+further growth in the total assets, which will then relate also to higher fee income in the future.
+
+Q - Peter Eliot
+
+{BIO 7556214 <GO>}
+
+Great. Thank you very much.
+
+Operator
+The next question comes from the line of Farooq Hanif with Credit Suisse. Please go ahead.
+
+
+
+FINAL
+
+Q - Farooq Hanif
+
+{BIO 4780978 <GO>}
+
+Hi, everybody. Thank you very much for the opportunity. My first question is in the non-life business,
+so just understanding the breakdown of the margin. So when I look at Slide 20, you have a veryvery good underlying loss ratio and a relatively poor versus guidance prior year development. So
+can you remind us where the two points of COVID impact sit? And then going forward, in the
+underlying loss ratio, what benefits have there been from frequency? And how should we think
+about that ratio going forward? And maybe also same question for the reserve release. So that's
+question one.
+Question two is, in the non-life business you have this other line which went up, I know that there
+were some one-off positives last year in that line. But could you just talk about what is in that
+number and how we should think about that number going forward as well? And the last question
+is you've made several investments this year in your ecosystems, for example, quitt. and the other
+ones that you mentioned. Can you remind us about what you're doing to create an ecosystem by
+knitting these together? So of course, you can buy different assets and different capabilities. But
+just how as a user somebody that's renting out properties, for example, how is this presented to
+the client? And what steps are you taking to sort of integrate these offerings into one ecosystem?
+Thank you.
+
+Bloomberg Transcript
+
+A - Gert De Winter
+
+{BIO 19720616 <GO>}
+
+Thank you, Farooq. Let me also start to answer some of your questions. I think you refer to Slide 20
+with the non-life results. It is absolutely true that the underlying loss ratio is very strong. It is clearly
+affected by COVID-19 claims in the area of 2% of the combined ratio. You also see sort of relief
+effect in some other lines of business like motor and liability, where the frequency has calm down.
+It's difficult to actually calculate those positive effects correctly. Actually, saying, you could say
+maybe half of them, half of the COVID losses have been compensated by positive effects. An
+example is, in Belgium, the frequency in the car business has come down by 18%, for example. But
+it's very difficult to quantify them precisely. Again, underlying very strong results.
+The prior year loss development is actually based on a case-by-case evaluation of the reserves. So
+it fluctuates a bit. Last year, it was -- there was a higher prior-year loss development also because
+of the one-off effect. But we stick to the guidance of 2% to 3% of prior-year loss development
+which is actually the normal what we would expect. It has been lower in 2020. On the -- I leave the
+second question on the other non-life lines to Carsten.
+On the ecosystems, it is true that we have been investing and accelerating the investments in our
+ecosystem, Home and Mobility, in 2020 with a number of investments, and of course, as you say
+rightfully so, the challenge is of course not to have them in parallel, but to actually bring them
+together. And that's where we have been working on over the last 1.5 years is to really link those
+services, those additional services to provide easier solutions to our customers. So we're in the
+progress of building that coherence and the synergies across the investments. But not only that,
+we're also, of course, linking these innovations, ecosystem initiatives with our core business.
+Because there's growth in up-selling possible from both ways, from the innovation to the core
+business and the other side around from the core business to additional innovative simple services
+in the ecosystems.
+
+Q - Farooq Hanif
+
+{BIO 4780978 <GO>}
+
+May I just actually before we talk about other non-life, just come back on the combined ratio. So it
+seems to me that the 58% underlying still has some negative in it and the PYD also has some sort
+of net negative with this guidance. So am I missing something in that your outlook here could be
+quite strong? Or am I missing some effects?
+
+A - Carsten Stolz
+
+{BIO 6055047 <GO>}
+
+Well, if you -- Farooq hey, Carsten speaking. You asked the question, where do the COVID losses
+sit in the breakdown of the combined ratio? And obviously, they are part of the reported losses.
+
+
+
+FINAL
+
+Part of them due to the size sits in the large claims developed in large claims number and the rest,
+which is below the large claims then sits in the frequency claims. But obviously, it's current year
+claims. And therefore, nothing of the COVID is in the prior year loss development part. That's for
+one. For two, we have always said and we stick to this guidance that we estimate 2 to 3
+percentage points of positive prior year loss development in whatever you would call a "normal
+year." And that remains intact.
+And third and last, to link the COVID claims of CHF 72 million to the combined ratio logic it
+translates, if you look at it from the underlying loss ratio perspective into two percentage points of
+combined underlying loss ratio impact stemming from the CHF72 million, given more or less
+CHF3.5 billion non-life book. And the your question relating to Slide 19 with regard to the other,
+that is a mixed bag. There is different elements coming into it, which are not related to the
+technical or financial result. And examples that I can give you there is in last year we had the
+integration of Fidea, so meaning 2019, in the financial year 2019, we had the integration of Fidea,
+which resulted in a bad will. That's one of the positions that come into play there. Project costs can
+go into there. And that makes it difficult to have a run-rate there with regard to future
+development. So it is everything else that cannot be attributed directly to the technical or financial
+results.
+
+Q - Farooq Hanif
+
+{BIO 4780978 <GO>}
+
+No, I mean, I guess in other non-life, there's no particular one-off in there that you want to highlight.
+So maybe just more normal?
+
+Bloomberg Transcript
+
+A - Carsten Stolz
+
+{BIO 6055047 <GO>}
+
+Yes, nothing particular to mention there, yes, I think what's important if you look at the overall way
+that we are traveling on and that relates back then to the Investor Day, we are currently aiming for
+a 90% to 95% combined ratio bracket and we're working towards a 90% area in the next strategic
+phase, which involves cost efficiency and underwriting and all everything all levers that you can play
+in non-life. Maybe that is putting 2020 into a longer-term perspective.
+
+Q - Farooq Hanif
+
+{BIO 4780978 <GO>}
+
+Okay. Thank you very much. Thank you.
+
+A - Carsten Stolz
+
+{BIO 6055047 <GO>}
+
+Welcome.
+
+Operator
+The next question comes from the line of Thomas Fossard with HSBC. Please go ahead.
+
+Q - Thomas Fossard
+
+{BIO 1941215 <GO>}
+
+Oh, yes. Good morning, everyone. I've got two or three questions. The first one would be related
+to your SST ratio, which, if I'm right, was at just 180% at H1 and which is now above 180%, which
+seems to be a bit, I would say, small in terms of semester-on-semester movement given trend in
+the market we've seen in H2 and also capital generation. So maybe you can give us a bit of
+indication on what have been the moving parts and also potentially what the higher interest rates
+that we have currently may have as an impact.
+The second question will be related to the life business, to the life EBIT and Slide 26. Really, if you
+could help us to better understand how the policy participation has changed in 2020 compared to
+'19, and also if you expect to have the ability to keep that policyholders' participation, I would say,
+rather on the low side going forward? And the third and last question would be related to FRIDAY
+
+
+
+coming to France. When do you expect to launch operations? And what the targets you're signing
+to your new venture here in France and maybe what the business plan? Thank you.
+
+FINAL
+
+A - Gert De Winter
+
+{BIO 19720616 <GO>}
+
+Thank you so much. Thomas. Let me also start and answer some of the questions. But of course,
+Carsten and Matthias can jump in. If you look at the SST ratio, the market volatility in the first, I
+would say, three months of 2020 brought indeed to the 180% level, more or less, 170%, 180%.
+What we have seen afterwards is actually a number of balancing effects. On one side, it is, of
+course, the market has recovered, to some extent. On the other hand, we have also benefited
+from the widening credit spreads to actually increase investments in corporate bonds, which, of
+course, also is on the long term for the earnings very positive but has an impact on SST. And the
+Athora acquisition in Belgium for example, we financed with our own capital. So there are some
+actually balancing effects for the second part of the year.
+
+Bloomberg Transcript
+
+On policy participation, given the market volatility, the policy participation was in 2020, indeed,
+lower than it was in 2019. But maybe one of the colleagues can add to that. And driving into France
+and maybe a bit of background there, so I will elaborate a bit more on it. We are very well on track
+in Germany. So we have doubled year-over-year. The premiums over the last four years, we are
+over 30 million premiums and also the quality of the book is improving as we speak, so we have
+better and better cohorts in the quality of the non-life portfolio. Early 2020, we have established
+our Tech Hub of FRIDAY in Poland. And actually, there, we have been preparing the platform,
+FRIDAY platform, to be multi-country, multi-product, multi-channel. So that was an investment in
+2020. And this has allowed us to go into France in 2021. Expected launch date is middle of the mid
+of the year, so just before Summer.
+Why France? Because it's, after the UK and Germany the biggest market -- insurance market in
+Europe. It's a market in which direct and digital is not yet so present. But of course, with corona, it
+will accelerate. It is also a market in which there is no predominant price portal like we have in
+Germany. So its diversified and direct insurers can play a good role. And French government over
+the last couple of years has also made it easier for policyholders to switch easily from one
+insurance to another. So there is much more willingness to change. The target for France is the
+same as it is for Germany, to become the most loved digital insurer in France. That's the target.
+Matthias, Carsten, anything to add on questions one or two?
+
+A - Carsten Stolz
+
+{BIO 6055047 <GO>}
+
+Yes. If I may, on the policyholder participation question that you asked, the policyholder
+participation has an attachment point in local results. In 2020, local results have been netting lower.
+And therefore, there was less to share. And that's the main reason why the policyholder
+participation has come down. It naturally fluctuates with savings results and depends on the legal
+environment you are acting in, meaning is there a legal code requirement, yes or no. And that
+influences the policyholder participation. But the main reason for the lower participation was lower
+local gap results.
+And with regards to the SST, if I may, you had also a question that was referring to SST sensitivity.
+And on Slide 13, you see how the SST behaves in terms of market risk development on key
+elements, mainly in also interest rates and equity market shocks. And it shows that even in a
+combined and fully positive correlated shock that we are still remaining in what we define as our
+blue zone, which leads us to the conclusion that we are soundly capitalized, maybe this as an
+adding to your question on sensitivities.
+
+Q - Thomas Fossard
+Thank you.
+
+Operator
+
+{BIO 1941215 <GO>}
+
+
+
+The next question comes from the line of Farquhar Murray with Autonomous. Please go ahead.
+
+FINAL
+
+Q - Farquhar Murray
+
+{BIO 15345435 <GO>}
+
+Morning, all. Just three questions from me. Firstly, just on pricing, I just wondered whether you're
+seeing any kind of pass through of kind of frequency benefits into customers in terms of pricing,
+pressure at all in the current markets you've got. And obviously that might differ by geography to a
+degree. And then secondly with regards to FRIDAY, I mean, how much is the likely outlay you
+expect over the next couple of years, in terms of building out France? Or has a lot of that already
+been borne in terms of the platform build that's happened in Poland? And then finally, just coming
+back to the dividend, you've obviously given us CHF 2 billion in terms of cash remittance plus the
+kind of 60% to 80% number. And that obviously kicks out a figure that was kind of suggesting a
+fairly reasonable trajectory of increase. Should we, therefore, regard this year, as you say, kind of
+special and some degree of catch up on the dividend in terms of getting back to the trajectory you
+were perhaps on before. Thanks.
+
+A - Gert De Winter
+
+{BIO 19720616 <GO>}
+
+Bloomberg Transcript
+
+Thank you. Let me also again start with answering the questions. Overall, on the pricing
+environment, what you see is, of course, it is a competitive environment. And you see the car
+business, given the margins that are still there, you see the new entrants there. So that's certainly a
+bit under pressure. On the other hand, you have then other branches where the market is
+hardening, so if you look at more a bigger company risk, if you look at health branches and so
+forth. So it's always a balancing act. We don't see strong pricing differences as we have from the
+year before.
+Of course, there are some discussions going on, on lower frequency and how should that result in
+passing some of the benefits back to the policyholders. By the way in Germany, this is a standard
+procedure. So if actually, there are less kilometers driven and so forth, parts of the premium are
+already given back. So these discussions are going on, but we don't see a big impact going
+forward. I just wanted to understand the question on FRIDAY. What is -- what do you mean exactly
+by outlay or the likely outlay for France?
+
+Q - Farquhar Murray
+
+{BIO 15345435 <GO>}
+
+Well, just in terms of when setting up a business, usually there's some degree of kind of initial
+outlay in terms of investment costs upfront before you actually obviously get the business coming
+through. So I just wondered whether there's a kind of an asset as part of buildout business plan,
+whether there's a degree of outlay to be done or whether actually a lot of that is done through the
+platform that's happened in Poland already?
+
+A - Gert De Winter
+
+{BIO 19720616 <GO>}
+
+Yes. I think maybe two or three elements to that. I think that one when we launched the tech hub in
+Poland, of course, the intention has always been to go internationally. And that's why we have built
+a platform, which already today is multi-country, multi-product and multi-channel.
+So those investments have already been done. Secondly, we, of course, will benefit from the
+synergies and the experience and the know-how we have built over the last couple of years in
+Germany. So those synergies are actually transferred, I would say, into France. And of course, you
+need to adapt to the local market. And that's where we have actually recruited a strong local team
+of experts, be it in insurance and insurtech, that actually will actually adapt FRIDAY to the local
+market. And again, entering into a market requires, of course, building up a brand. So those are
+upfront investments that we will take. To give you an indication, it's actually the start-up cost overall
+for the first 18 months would be around CHF10 million.
+
+Q - Farquhar Murray
+Okay. Perfect.
+
+{BIO 15345435 <GO>}
+
+
+
+A - Gert De Winter
+
+{BIO 19720616 <GO>}
+
+FINAL
+
+But we benefit a lot from what has already been built, of course. And on the dividend part, indeed,
+we increased in Simply Safe: Season 2 with 25% our cash remittance of which we will pay out 60%
+to 80% to our shareholders. Let's say that you might want to consider 2020 as indeed a special
+year.
+
+Q - Farquhar Murray
+
+{BIO 15345435 <GO>}
+
+Okay. One just brief follow on, the pricing side of things, how does that compare to kind of claims
+inflation and in particular has there been any kind of disruption in terms of build costs or rebuild
+costs from COVID that you've seen?
+
+A - Gert De Winter
+
+{BIO 19720616 <GO>}
+
+No. We've seen -- actually, overall, we've seen, of course, fluctuations and cycles over the years,
+given the intensity of lockdown or the intensity of opening up again. So frequency has clearly come
+down in the April, May period, then has come up to normal again, has been then slightly reduced
+again towards the end of the year. So it's a bit cyclical, depending on the intensity of the economy,
+I would say. Overall, if you look at claims inflation, regardless of COVID-19, we see a very stable
+environment. On one side, in car, for example, with the security features in there you see a lower
+frequency on the other and which actually impacts the fact that there are less severe casualties,
+physical human casualties, which is a good point. However, cars becomes also so sophisticated
+that when something happens the claim cost is usually higher. So it's a balancing out act, but we
+don't see anything happening on the claims inflation part, very stable there.
+
+Bloomberg Transcript
+
+Q - Farquhar Murray
+
+{BIO 15345435 <GO>}
+
+Okay. Perfect. Thanks a lot.
+
+Operator
+The next question comes from the line of Rene Locher with KBW. Please go ahead.
+
+Q - Rene Locher
+
+{BIO 1921075 <GO>}
+
+Yes. Good morning, all. So I'm going to just start on Slide 11 on the cash remittance. You have in the
+spread -- and I'm really looking into cash flow results for many, many years and trying to get a little
+bit of a trend in cash remittance. And I do hope that I got my numbers right. But when I see like the
+non-life business has an upstream like 110% of your IFRS net profit, and in life, I was expecting a
+little bit more. So my question here is, yes, on the trends, and have been any restraints in the local
+accounts to upstream cash to the holding company? So that was -- that is my first question. And
+the second one is on, I think, slide 26. Yes, on the life profit by sources. I see that the risk result is
+at CHF185 million. You highlighted that, that was not the biometric assumption 2020. So my
+question is, is the guidance of CHF200 million to CHF250 million still valid for the risk result?
+And then another question that's more struggling a little bit is this interest rate effect. If I got my
+numbers right, in Page 120, it was a negative CHF69 million. Now we are at a negative CHF25
+million. So that means in H2, you have seen a positive interest rate effect of CHF44 million. And
+perhaps you could just elaborate a little bit how we should look at this number going into '21, '22.
+And then just a general question on Germany in the back. So what I'm trying to find out is, I do
+believe you make investments in Guidewire in Germany. So my simple math is I'm taking the gross
+number premiums, CHF776 million, the combined ratio, 94.9%. So this gives me an underwriting
+result of close to CHF40 million. And the reported EBIT non-life Germany is CHF60.5 million. So I'm
+wondering, is the delta I guess, we've discussed this before with Mike but just a little bit of feel
+with Guidewhere, where do we stand and how much should we expect in '21, '22? Thank you.
+
+A - Gert De Winter
+
+{BIO 19720616 <GO>}
+
+
+
+FINAL
+
+Thank you, Rene. Let me first pick up the question on Germany. If you compare combined ratio
+2020 to 2019, then 2019 was a very benign claims year in Germany. That's point one. Secondly,
+Germany has also been impacted by COVID-19 and closure of some of the businesses for which
+we have also compensated our clients. So that's certainly part of the explanation on the somewhat
+higher, but still very solid rock combined ratio in Germany. And indeed, we are investing in
+Guidewire as the new digital core non-life platform. And that accounts for, if I'm not mistaken,
+about 1% of the combined ratio. So we're investing there over a three to four year period in a
+clearly double-digit -- higher double-digit amount in investments, of which some of it is reflected
+directly in the combined ratio. Going forward, we expect Germany to increase its earnings and also
+we expect Germany to increase its cash remittance. So that's the point on Germany on life and
+cash remittance, Carsten, maybe you can elaborate on those two questions.
+
+A - Carsten Stolz
+
+{BIO 6055047 <GO>}
+
+Bloomberg Transcript
+
+Yes, I'll happily do so. So let's start with the cash remittance, a reference been made to Slide 11.
+And reference also has been made, what you said, Rene, to the segment and segment profits.
+The remittance has smaller than the IFRS, has much more to do with local accounts because it's
+basically cash is remitted from the local and statutory accounts more than from IFRS profits. And
+there's the prudence principles in statutory accounts and the best estimate principle in IFRS. With
+regards to restraints that was a part of your question, we have not had restraints in the local
+statutory accounts with regard to cash remittance in 2020.
+Now with regards to the composition and trends, what we have put a strong emphasis on since
+the beginning of Simply Safe: Season 1 is that we do have cash remittance from all major business
+segments, meaning life, non-life and the asset management and banking area which we have
+achieved. There is a little bit of movement year-on-year. But what's important is that we are on the
+trajectory to reach the first CHF2 billion. And what's even more important is that we are getting
+ready to also achieve the next CHF2 billion in one year less, which is a markup of 25%. And I would
+expect all business segments continue to contribute to volume development, earnings
+development and from this perspective then translating it also into cash.
+
+Q - Rene Locher
+
+{BIO 1921075 <GO>}
+
+And can I say -- I mean, the reason why I'm asking is, in the normalized business, you mentioned
+that you have impairments on equities. So, I felt this would also have an impact on the local non-life
+result. And that's why I'm surprised to see that the upstream was 110%, sorry.
+
+A - Carsten Stolz
+
+{BIO 6055047 <GO>}
+
+Okay. It's correct. It's correct that we did have the financial result of the non-life segment has been
+impacted by the capital market situation. And there have been impairments. But that's an IFRS
+view. And there is no link to be made between the two, the statutory accounts and the impairment
+IFRS impairment situation on equities. So, the trend is that we are rising the cash remittance
+ambition by 25%. I think that's the important trend.
+
+A - Gert De Winter
+
+{BIO 19720616 <GO>}
+
+And then if I may go to Slide 26, that was your second question, if I will move. And the first one was
+related to the development of the risk results and the question was if the guidance of CHF200
+million to CHF250 million in risk result is still valid. Yes, it is still valid. As been said, there have been
+adjustments for biometric assumptions, I would like to stress here that, that has nothing to do with
+the pandemic and we keep the guidance as set before.
+The second leg of your question was relating to the interest rate effect. We did have in this year
+less reserve strengthening in Switzerland and in Germany. But still, there have been reserve
+strengthenings, and we've talked about this before on prior occasions because of averaging down
+mechanisms, for example, that there will be further reserve strengthenings is also in the future if
+interest rates go sideways or would even start moving up. We had one effect in there that was
+partially compensating the reserve strengthening, which was in the context of putting Fidea into
+
+
+
+FINAL
+
+the Belgium operations, that we could release some reserves that have been redundant due to
+the merger operations in Belgium. But we will still have interest rate effects moving forward in the
+life business. And hopefully so because it also means that we are continuously managing the
+interest rate margin in order to bring the guarantee levels further down and to retain the 100 bps
+corridor on the interest rate margin in the life segment, maybe to add at this one your question.
+
+Q - Rene Locher
+
+{BIO 1921075 <GO>}
+
+Wonderful. Thank you very much.
+
+Operator
+We have a follow-up question from Mr.Michael Huttner with Berenberg. Please go ahead
+
+Q - Michael Huttner
+
+{BIO 21454754 <GO>}
+
+Thank you very much for the opportunity. Two questions please. CHF200 million target minimum in
+life, will you update this at any stage, given that in 2020, which seems quite a stressed, challenged
+year, you were 40% above. And the other question is I wonder if you published or you give
+guidance on the holding company cash situation. I had a feeling that it's quite strong. But I don't
+know if I've missed something here.
+
+Bloomberg Transcript
+
+And then my last question is can you give a little bit of an update in 2016, as you said, I think you
+transferred the German back book into the center. And so there was no reserve runoff in Germany
+for that. What are the reserves looking like at the moment? Is it positive runoffs or negative on that
+book? Thank you.
+
+A - Carsten Stolz
+
+{BIO 6055047 <GO>}
+
+Okay. Thanks, Michael. To your first two question the CHF200 million EBIT target in life, as been
+said, it's the absolute lower minimum threshold. And I say this with a twinkle in my eye that I also
+like to get CHF282 million, I also like to get CHF300 million. So the CHF200 million was really a
+very low bottom threshold. And we are continuously working on the earnings power of the life
+segment also moving forward.
+So with regard to holdco cash, by definition, because the holding company doesn't have
+operations in itself, we usually don't have excess cash in the holdco company. We stream up and
+pay out. But apart from this, the holdco is pretty much by definition not cash holding excess cash.
+We keep this money working in the operating entities. And therefore, the holdco is not cash rich.
+And to your third question with regards to medical malpractice book from Germany, which has
+been for management transferred to the group, you are right. But that is since then developing as
+expected. And we don't have effects stemming from that book, which is good news.
+
+Q - Michael Huttner
+
+{BIO 21454754 <GO>}
+
+Thank you. Thank you very much.
+
+Operator
+Last question for today comes from the line of Peter Elliot and is a follow-up. Please go ahead, sir.
+
+Q - Peter Eliot
+
+{BIO 7556214 <GO>}
+
+I think you actually either opportunity. Sorry, just to follow up again actually on the PYDs. But I mean,
+if I look at H2 in isolation, then it looks like there was a small reserve increase. I mean it was only
+very small. But I was just wondering, are there any parts of the business and the insight to Germany
+just now is very helpful. But are there any parts of the business that are seeing an increase? Or we
+just talking small numbers and there wasn't really anything to talk about an H2? That was first one.
+
+
+
+FINAL
+
+And the second one, you're doing very well against most of your key targets, I guess, the only one
+where you're sort of slightly behind the current run rate is the CHF5 billion in asset management.
+I'm just wondering, how confident you are on that given the sort of the pipeline and current
+momentum that you see.
+And then the third one, I guess, it's relevant given you mentioned, you've increased your exposure
+to corporate bonds. Could you just remind us how the capital requirement is likely to develop from
+those. Because my understanding, different people will see the sort of volatility spike that we saw
+last year run off more or less quickly depending on the averaging sort of method to be used for.
+Just to understand, yes, how quickly we might see, yes, the capital requirement fall off there.
+Thanks a lot.
+
+A - Carsten Stolz
+
+{BIO 6055047 <GO>}
+
+I will -- let's first go to the prior year loss development. And your first question there, there's
+nothing particularly there that deserves mentioning. Actuarial processes tend to be processes that
+mainly happen at the end of the year, when you do the full-year review of the books. But there is
+nothing that I am aware of that would deserve mentioning there, so no special effect. And just to
+remind you with regard to the level that in the prior year, meaning 2019 again, we had a positive
+one off effect of 2.4 percentage points in the prior year loss development stemming from the sale
+of a UK, runoff business. And I already alluded to the guidance of two to three percentage points
+in a quote-unquote "normal year." And with regard to the asset management net new assets, I
+hand over to Matthias.
+
+Bloomberg Transcript
+
+A - Matthias Henny
+
+{BIO 17600048 <GO>}
+
+So we have set relatively ambitious goal a couple of years ago with additional CHF5 billion of net
+new assets. And after four years, we have now achieved CHF3.3 billion. Initially, we have, at the
+margin, underestimated the effort that it takes to start asset management as a third-party
+business. In the initial phase, that always takes more time to ramp up net new assets compared to
+an established business. But nevertheless, over the years, we have always increased net new
+assets. And especially last year, we have accelerated by 50%. So our expectation is that by year
+end, we will be somewhere between CHF4 billion and CHF5 billion on this net new asset target.
+And regarding this corporate bond investment, your third question, I think to make the link to SST,
+it has had a rather low impact on SST. It was primarily an opportunity to catch the additional spread,
+the additional credit spread to lock in additional current income. But nevertheless, we don't
+consider this as a runoff of a portfolio. So it's more the ramp up of corporate bonds that we've
+been doing for a couple of years, which has accelerated during that high credit spread phase. And
+it's just part of our strategy to move into asset classes with higher and stable current income.
+
+Q - Peter Eliot
+
+{BIO 7556214 <GO>}
+
+Okay. Thank you very much.
+
+Operator
+There are no more questions at this time.
+
+A - Gert De Winter
+
+{BIO 19720616 <GO>}
+
+Thank you very much to everybody. I would say just let me allow me one minute to recap the three
+key messages. One, we have a very, very strong core business. Secondly, we are leading in
+innovation. And thirdly, we are fully prepared to launch with full power the new strategic phase,
+Simply Safe: Season 2. Many thanks and have a nice day. Hope to see you or at least hear you
+soon.
+
+Operator
+
+
+
+Bloomberg Transcript
+
+FINAL
+
+Ladies and gentlemen, the conference is now over. Thank you for choosing Chorus Call, and thank
+you for participating in the conference. You may now disconnect your lines. Goodbye.
+
+This transcript may not be 100 percent accurate and may contain misspellings and other
+inaccuracies. This transcript is provided "as is", without express or implied warranties of any kind.
+Bloomberg retains all rights to this transcript and provides it solely for your personal, noncommercial use. Bloomberg, its suppliers and third-party agents shall have no liability for errors
+in this transcript or for lost profits, losses, or direct, indirect, incidental, consequential, special or
+punitive damages in connection with the furnishing, performance or use of such transcript.
+Neither the information nor any opinion expressed in this transcript constitutes a solicitation of
+the purchase or sale of securities or commodities. Any opinion expressed in the transcript does
+not necessarily reflect the views of Bloomberg LP. © COPYRIGHT 2022, BLOOMBERG LP. All rights
+reserved. Any reproduction, redistribution or retransmission is expressly prohibited.
+
+

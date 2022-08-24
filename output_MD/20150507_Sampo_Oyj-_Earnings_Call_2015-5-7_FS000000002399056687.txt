@@ -1,0 +1,1110 @@
+Company Name: Sampo Oyj
+Company Ticker: SAMPO FH Equity
+Date: 2015-05-07
+
+Q1 2015 Earnings Call
+Company Participants
+FINAL
+
+Jarmo Salonen, Head-Investor Relations & Group Communications
+Kari Henrik Stadigh, President & Group Chief Executive Oﬃcer
+Peter Kristian Johansson, Chief Financial Oﬃcer, If P&C Insurance Ltd
+Ricard Wennerklint, Deputy Managing Director, If P&C Insurance Ltd
+
+Other Participants
+Blair T. Stewart, Analyst
+Christian Hede, Analyst
+Daniel A. Do-Thoi , Analyst
+Gianandrea Roberti, Analyst
+Jakob Brink, Analyst
+Jonny Urwin, Analyst
+Matti Ahokas, Analyst
+Mika Koskinen, Analyst
+
+Bloomberg Transcript
+
+Paris Hadjiantonis, Analyst
+
+MANAGEMENT DISCUSSION SECTION
+Jarmo Salonen
+
+{BIO 1860650 <GO>}
+
+Ladies and gentlemen, welcome to this conference call on Sampo Group's First Quarter
+2015 Results. I am Jarmo Salonen, Head of Investor Relations at Sampo. And with me here
+in the studio I have our Group CEO and President, Kari Stadigh; Group CFO, Peter
+Johansson, and Deputy Head of P&C Insurance, Ricard Wennerklint.
+As we are very tradition oriented, we'll have the same process as always. Kari will start
+with a presentation of Q1 results and numbers, and after that we will take your questions.
+And at this stage, I always remind you of the fact that you can follow this transmission on
+our website, sampo.com/results, where a recorded version will later be available.
+With these words, I'll hand over to Kari. Kari, please?
+
+Kari Henrik Stadigh
+
+{BIO 1504152 <GO>}
+
+Thank you, Jarmo. Welcome to the conference call on my behalf as well. Before I present
+our excellent ﬁrst quarter results, I would like to comment on some recent investment
+market development.
+
+Page 1 of 17
+
+
+
+Company Name: Sampo Oyj
+Company Ticker: SAMPO FH Equity
+Date: 2015-05-07
+
+FINAL
+
+The nervousness we have seen in the bond market in the last few days might this time
+turn out to be something exciting. I must say I have been waiting for this, as the artiﬁcial
+demand created by the regulation and the ECB has clearly created a bubble. Bill Gross
+said, he sees the short of the century in the long-dated sovereign debt. It is easy to agree.
+Look at the cash price of a 30-year bond that went from €1.59 to €1.28 (01:47) in less than
+three weeks. For those who invested a few weeks back at the peak, they have been facing
+an almost 30% capital loss, remarkable indeed. Why do I start our earnings report by
+commenting on this? Well, if you compare Sampo to its European peers, we are unique
+and best positioned to beneﬁt from rising interest rates.
+Sampo is actually a perfect hedge in a portfolio of insurance stocks that might suﬀer from
+rising interest rates. We have one of the shortest durations for interest-bearing assets in
+the industry. In If the duration is 0.9 years and in Mandatum Life 0.7 years. We have
+burdened our results and still excelled with signiﬁcant amounts when discounting our
+liabilities with lower rates.
+In 2014 alone, the discounting cost us in the P&L of our non-life unit €179 million and in
+other comprehensive income €122 million. In the ﬁrst quarter, the P&L eﬀect – this year in
+the ﬁrst quarter, the P&L eﬀect was €50 million and in other comprehensive income €47
+million, together €97 million.
+
+Bloomberg Transcript
+
+Despite of this, If's return on equity in Q1 was 35%, and the combined ratio, best-ever Q1
+combined ratio at 89.2%.
+I also want to point out that we have also stated in our present release that in Q2 we will
+further lower the discount rate in Finland to 1.5% in If, and that will cost us over the P&L
+€110 million. If we can well do (03:54) and aﬀord without our combined ratios suﬀering in
+Q2, as we will also in Q2 book through our P&L a gain of €155 million from the changes in
+our Norwegian pension liability. When and if (04:16) interest rates start to increase, it is
+clear that If is more prudently discounted than its peers in general.
+In Mandatum Life, we have discounted our liabilities with 2% for 2015, 2.25% for 2016, and
+at 3.5% thereafter. This at the cost of €142 million, out of which we burdened the present
+Q1 results by €25 million.
+A few comments on Nordea and low interest rates as well. Clients are shifting to and
+creating a high demand for long-term savings products and other fee creating products
+or fee-generating products. Nordea's strong market position and signiﬁcant client base is
+the base for this, and it's seen in the results; best-ever Q1 and quarter in general for the
+operational proﬁt, excellent trading income, and highest ever assets under management.
+Nordea is a winner in this environment. Naturally, Nordea is also, and therefore Sampo as
+well, well-positioned to gain from rising interest rates and volatility in the currency and
+interest rate markets. I continue to see value in the Nordea franchise, and therefore see us
+well-positioned compared to other pure insurance plays.
+
+Page 2 of 17
+
+
+
+Company Name: Sampo Oyj
+Company Ticker: SAMPO FH Equity
+Date: 2015-05-07
+
+FINAL
+
+All in all, a very strong quarter. And maybe – ﬁnally a few words about the ﬁrst quarter for
+the Sampo Group; best-ever Q1 and quarter in general with an operating proﬁt of €487
+million, up 31% from the corresponding quarter in the previous year. If reported, as I
+already said, the best-ever combined ratio for the ﬁrst quarter of the year at 89.2%.
+Sampo's share of Nordea's proﬁts grew by 31% to €223 million. Also, Mandatum Life
+showed excellent progress; premiums up 54%, unit-linked premiums all-time high, and
+unit-linked assets under management highest ever. In the parent company, we had some
+one-oﬀs, which you should not expect to see every quarter.
+All in all, a very strong quarter, and we are well-positioned to deliver also for the full year.
+And as always, we remember that we are a dividend stock with a very strong underlying
+cash ﬂow.
+
+Jarmo Salonen
+
+{BIO 1860650 <GO>}
+
+Thank you, Kari. And, operator, we are now ready for the questions.
+
+Q&A
+Operator
+
+Bloomberg Transcript
+
+The ﬁrst question comes from Mr. Jakob Brink, ABG. Please go ahead.
+
+Q - Jakob Brink
+
+{BIO 7556154 <GO>}
+
+Thank you. I have two questions, please. The ﬁrst one is regarding premium growth in If. I
+don't know. It seems like, I mean (07:36), premium growth in local currency is negative in
+all countries except for Sweden, where it's however quite high. This looks almost opposite
+of what it used to do. Could you maybe give some details on what is going on in all the
+countries?
+And then secondly, on claims, now we talk about you having – or in Q2 you're going to
+lower the discounting rate in Finland. Why is that exactly? I mean, looking at rates, as you
+said yourself, Kari, it seems like rates are now coming up again. Should we then – I mean,
+what is the sensitivity? And when would you then have to increase it again? Yeah, that's a
+bit – my second question. Thank you.
+
+A - Peter Kristian Johansson
+
+{BIO 3902189 <GO>}
+
+(08:21) by addressing premium growth then, well, the Swedish growth is driven by good
+sales, particularly in the retail segment in business area Private. Its sales from the
+distribution channels, the Web, and distribution channel through Nordea. But remember
+also that the Swedish portfolio still had a need for premium increases. So, part of the
+premium growth you see are premium increases. So, it's not all a growth in number of
+customers. In the other market (09:03)...
+
+Page 3 of 17
+
+
+
+Company Name: Sampo Oyj
+Company Ticker: SAMPO FH Equity
+Date: 2015-05-07
+
+Q - Jakob Brink
+
+{BIO 7556154 <GO>}
+
+Are you done...?
+
+A - Peter Kristian Johansson
+
+{BIO 3902189 <GO>}
+
+FINAL
+
+Sorry.
+
+Q - Jakob Brink
+
+{BIO 7556154 <GO>}
+
+Are you done with the premium increases in Sweden, or are there more to come?
+
+A - Peter Kristian Johansson
+
+{BIO 3902189 <GO>}
+
+I think that there is still room for premium increases in the Swedish market, generally
+speaking, yeah.
+
+Q - Jakob Brink
+
+{BIO 7556154 <GO>}
+
+Thank you.
+
+A - Peter Kristian Johansson
+
+{BIO 3902189 <GO>}
+
+Bloomberg Transcript
+
+On the discount rate, we did the lowering to – we will do the lowering to 1.5% in the
+second quarter. Sensitivity to increases, I think that we need to see long-term interest
+rates on a higher level than today for a longer period of time before we would even
+consider increasing the discount rate.
+
+A - Kari Henrik Stadigh
+
+{BIO 1504152 <GO>}
+
+This is Kari, Jakob. I would also like to comment these one-oﬀs, because you know very
+well that I hate one-oﬀs. And it's very unfortunate, when you have these pension liabilities
+that when you increase your liabilities, you are not taking them over the combined ratio.
+You take them over, Peter, other comprehensive income, right?
+
+A - Peter Kristian Johansson
+
+{BIO 3902189 <GO>}
+
+Yeah.
+
+A - Kari Henrik Stadigh
+
+{BIO 1504152 <GO>}
+
+But then for some reason, which I don't understand and no one – they have tried to
+explain it to me, but I don't still understand it. When you get some good news, then you
+get it over the combined ratio. So actually, this €155 million will improve our combined
+ratio unnaturally in Q2, even (10:40) the IFRS rules that we have. And I think that that also
+gives us a possibility to do a one-oﬀ discount rate lowering, so they take out each other to
+a big extent. I wouldn't like to see one-oﬀs like this pension thing that we have. But the
+fact is this is the case, and unfortunately, we will have these distorting numbers in the
+second quarter. I hope you will follow in the future the underlying combined ratio, which
+is much more important, to me at least.
+
+Page 4 of 17
+
+
+
+Company Name: Sampo Oyj
+Company Ticker: SAMPO FH Equity
+Date: 2015-05-07
+
+Q - Jakob Brink
+
+{BIO 7556154 <GO>}
+
+Okay. Thank you. And so, just coming back to the other countries regarding premium
+growth and negative development.
+
+FINAL
+
+A - Peter Kristian Johansson
+
+{BIO 3902189 <GO>}
+
+Yes. The other markets that we operate in are ﬁrst aﬀected by the simple fact that the
+need for premium increases aren't really there. The general growth in the market is
+deﬁnitely not there. And in some of the markets, we have seen an increased distribution
+capacity, especially the Norwegian market. So, that's the natural result of these eﬀects
+(11:57). Then, of course, we are to some extent inﬂuenced by a recession in the general
+economy, for instance, in the Finnish market. That also aﬀects our premium growth.
+
+Q - Jakob Brink
+
+{BIO 7556154 <GO>}
+
+Okay. Thanks a lot.
+
+Operator
+We have a question from Mr. Christian Hede at Nordea. Please go ahead.
+
+Bloomberg Transcript
+
+Q - Christian Hede
+
+{BIO 18642300 <GO>}
+
+Yes. Thank you and good afternoon. I have two questions. I guess they both relate to
+Norway. One is on the competitive situation. As we can also see on the premium growth,
+or lack of premium growth, I guess, competition is still pretty ﬁerce. Do you expect
+anything to happen now you've actually seen a Q1 with winter weather, whether that's
+going to improve your situation?
+That's one question. And the other one is on the change to the pension scheme in
+Norway. I'd just like to hear if you've got any pushback from unions or employees, et
+cetera, because I assume that this is a pure negative thing for the employees; or for most
+of them at least. So, those are my two questions. Thank you.
+
+A - Peter Kristian Johansson
+
+{BIO 3902189 <GO>}
+
+Competition in Norway, nothing new really to report. Again, growth is, I think, primarily
+disappearing for the lower need for premium increases; so really nothing new to report
+on the competitive situation in the Norwegian market.
+When it comes to the pensions in Norway, the unions are 100% behind what we have
+proposed today. And I don't expect to see any pushback from neither them nor (13:41) the
+employees.
+
+A - Kari Henrik Stadigh
+
+{BIO 1504152 <GO>}
+
+I think that also it's a much more modern way to have a deﬁned contribution plan instead
+of a deﬁned beneﬁt plan. I think also, especially the younger employees, they see this as a
+much more modern way to prepare oneself for one's pension.
+Page 5 of 17
+
+
+
+Company Name: Sampo Oyj
+Company Ticker: SAMPO FH Equity
+Date: 2015-05-07
+
+FINAL
+
+Then on growth, I would like to comment also that I have never seen the Nordic P&C
+market as a growth industry. And I think that it's natural that when you have a recession or
+you have new commerce that you see even lower growth numbers. And I think that the
+valuable thing is the discipline in the industry, and that we still continue with very high
+ROEs and strong cash ﬂows.
+
+A - Peter Kristian Johansson
+
+{BIO 3902189 <GO>}
+
+Just one more comment on the Norwegian market. You commented on the winter, we see
+the ﬁrst (14:37) quarter winter as a fairly benign winter compared to what we expect
+normally. However, we have seen markets' combined ratios increase in Q1. So, of course,
+everything else being equal, it pushes premiums up rather than down. So, that's good
+news for us.
+
+Q - Christian Hede
+
+{BIO 18642300 <GO>}
+
+Yes, obviously (15:01). Thank you very much.
+
+Operator
+We have a question from Mr. Matti Ahokas at Danske Bank. Please go ahead.
+
+Bloomberg Transcript
+
+Q - Matti Ahokas
+
+{BIO 2037723 <GO>}
+
+Yes. Hi. Good afternoon. Three questions, please. Firstly, if you could, Ricard, talk us
+through a bit about the run-oﬀ gains and losses on a gross amount. You've, obviously,
+reported the net amount, but I assume there's been fairly signiﬁcant movements within
+that number.
+Then, the second question is regarding how much was the storm impact all together in
+Norway in the ﬁrst quarter?
+And thirdly, I noticed that the net debt in the holding company is extremely low in the ﬁrst
+quarter, and, obviously, the interest-bearing asset has gone up quite a substantial
+movement. Could you shed some light what is behind that movement? Thanks a lot.
+
+A - Ricard Wennerklint
+Okay. Let's start with run-oﬀ gains, losses. First quarter, as always, signiﬁcant movements
+from individual large claims. In addition to that, in the ﬁrst quarter we had run-oﬀ losses
+coming from lowering of discount rates in the Swedish portfolio to the extent of
+approximately €50 million. And that's actually all I have to comment on the run-oﬀ
+situation in the group.
+The second question, the storm in Norway, if I add all these – actually three minor storms
+in the ﬁrst quarter, it was €21 million aﬀecting our P&L.
+
+Q - Matti Ahokas
+
+{BIO 2037723 <GO>}
+
+Page 6 of 17
+
+
+
+Company Name: Sampo Oyj
+Company Ticker: SAMPO FH Equity
+Date: 2015-05-07
+
+That was net?
+
+A - Ricard Wennerklint
+Net €21 million, yes.
+
+FINAL
+
+A - Peter Kristian Johansson
+
+{BIO 3902189 <GO>}
+
+This is Peter. And, Matti, on net debt, yeah, it's seasonally always at the lowest level end of
+Q1, because in Q1 we had received the €533 million dividend from Nordea. Plus we
+received €100 million from Mandatum, and then we paid out now in Q2 almost €1.1 billion.
+So, net debt is back to close €1.5 billion after our own dividend.
+
+Q - Matti Ahokas
+
+{BIO 2037723 <GO>}
+
+Great. Thanks.
+
+Operator
+...from Mr. Jonny Urwin at UBS. Please go ahead.
+
+Bloomberg Transcript
+
+Q - Jonny Urwin
+
+{BIO 17445508 <GO>}
+
+Hello. Good afternoon. Thanks for taking my questions. Just two questions for me today.
+As you sort of get some insight into premium growth in each of the markets – so thanks
+for that – I was just wondering if we could drill down a little bit into the actual rating and
+pricing movements versus claims inﬂation, just to get a view of where the underlying
+margin is sort of headed in each country markets.
+And secondly, obviously, we've seen bond yields tick up a little bit this week, but still at a
+very low level. I'd just be interested to know where you're getting your yields sort of that
+tick up from; particularly in Mandatum Life, I saw that the running yield was surprisingly
+resilient in Q1, so just some color on that would be great. Thanks.
+
+A - Peter Kristian Johansson
+
+{BIO 3902189 <GO>}
+
+On claims inﬂation and premium growth, a general comment would be that claims
+inﬂation is 2.5% to 3% for the group. We are not fully pricing for claims inﬂation currently
+due to the simple fact that our combined ratios are very low. So, given the current
+proﬁtability, no need to price fully for claims inﬂation; and of course, that aﬀects premium
+growth to some extent as well.
+
+A - Jarmo Salonen
+
+{BIO 1860650 <GO>}
+
+Yeah. On the bond yields, actually it looked a bit surprising that there was a pickup on the
+running yield in Mandatum Life, which was roughly 20 basis points. But the explanation is
+that we were able to invest roughly €300 million of zero-yielding cash to bonds, credit
+bonds. And roughly two-thirds of those are investment-grade bonds and one-third are
+high-yielding local names that we know very well, so that explains partly the pickup in the
+running yield.
+Page 7 of 17
+
+
+
+Company Name: Sampo Oyj
+Company Ticker: SAMPO FH Equity
+Date: 2015-05-07
+
+And then, of course, Mandatum paid also €100 million in dividends. So, technically that
+reduced zero-yielding assets. And we sold the remaining roughly €130 million worth of
+negative yielding government bonds. But the pressure is most likely on the running
+yields. And going forward, the expectation is that it will trend downwards.
+
+FINAL
+
+Q - Jonny Urwin
+
+{BIO 17445508 <GO>}
+
+Okay, great. Thanks very much.
+
+Operator
+Question from Mr. Paris Hadjiantonis at KBW. Please go ahead.
+
+Q - Paris Hadjiantonis
+
+{BIO 19703051 <GO>}
+
+Yes, hi. Good afternoon from me as well. I have a couple of questions today, ﬁrstly on
+Mandatum Life. If we look at your economic capital ratio there, that continues to decline. I
+assume that currently is probably higher than where it was at the end of March. But I
+would like to get your thoughts on whether or not you can continue getting out (20:27)
+€100 million per year from Mandatum Life without taking any action in there.
+
+Bloomberg Transcript
+
+And the second question would be on your discount rate for Swedish annuities within If
+P&C. From what I can see, this is now below 0%. Do you actually discount with something
+which is below 0%, or do you cover (20:50) that zero? Thanks very much.
+
+A - Jarmo Salonen
+
+{BIO 1860650 <GO>}
+
+On the ﬁrst question on Mandatum Life, yes, you're correct that if we take the impact of
+full discounting like we normally do on the liability side adjustment. So, yes, our available
+or adjusted solvency capital is lower than our own internal capital requirement. But there
+if we think of Solvency II and SCR, so we're in the process. We have applied for the
+transition rule from the Finnish regulator. So, there will be a huge diﬀerence between the
+transition period, where actually the weak (21:34) proﬁt balance sheet will gradually run
+oﬀ.
+So, that will save us capital with end of Q1 numbers roughly around €700 million to €800
+million in Mandatum Life. So, in that sense, by the time we get the approval on this
+transition period, then I don't see any risks on dividends in Mandatum Life. The Swede
+(22:01) discount rate, yes, in Sweden you have a ﬂoor, which is 0% for the nominal interest
+rate, but then when you have to take also into account the expected inﬂation, so we
+actually discount it (22:12) with minus 15 basis points. But yields have moved up somewhat
+from end of Q1. So, probably we are close to zero or maybe even positive in Sweden right
+now.
+
+Q - Paris Hadjiantonis
+
+{BIO 19703051 <GO>}
+
+Okay. Thank you.
+
+Operator
+Page 8 of 17
+
+
+
+Company Name: Sampo Oyj
+Company Ticker: SAMPO FH Equity
+Date: 2015-05-07
+
+We have a question from Gianandrea Roberti, Carnegie Bank. Please go ahead.
+
+Q - Gianandrea Roberti
+
+{BIO 6786731 <GO>}
+
+FINAL
+
+Yes, good afternoon from me as well. Peter, just to come back to what you just said and to
+be absolutely clear, your expectation is that you will be allowed to pay dividends up from
+Mandatum Life under transitional rules, right? That is correct, what I understood (22:48)?
+It is (22:50) something you've discussed already with the Finnish FSA, or just your
+interpretation and you base your comments on this? That's my ﬁrst question.
+And the second question, it's a little bit (23:00) if you can elaborate a bit more on what
+has happened on the holding company in the ﬁrst quarter, because of course plus €26
+million (23:05), I think it was, the operating result, it's very high. And in that context, if I
+can double-check that in a normalized year, you should still have around minus €50
+million (23:15) negative result in the holding company or something around that. Thanks.
+
+A - Jarmo Salonen
+
+{BIO 1860650 <GO>}
+
+Bloomberg Transcript
+
+Okay. Yeah, so the transition rules, it's correct. We have an application in the Finnish FSA
+and expect to get the formal approval that we can use the transition rules. And I don't see
+any reason why we wouldn't get that, and especially because we don't underwrite new
+business on – with high guarantees.
+Then, on the holding company, this €26 million it's an exceptional quarter, like Kari
+mentioned, because we have actually some one-oﬀs. There is a €50 million FX gain
+because we have some dollar assets, close – around $150 million, roughly €120 million.
+And due to stronger dollar in Q1, we made a €50 million (24:11) FX gain, and then we have
+some trading gains from equities, around €60 million (24:20). A small part of that is
+actually dividends received. So, that's – technically you could say that there is €31 million
+of one-oﬀs.
+Now, of course, we have somewhat more ﬁxed income assets, and interest rates are down
+on the liability side. So, I would adjust probably the gross funding cost for the €2.1 billion,
+€2.2 billion that we had gross debt, because the interest rate is now at 1.65%. So, that
+gives you around €9 million per quarter on interest costs.
+But on the other hand, we have close to €5 million of interest income on the parent
+company level, and then (25:05) normal operational cost between €5 million and €7
+million from 50 people working on the holding company level.
+
+Q - Gianandrea Roberti
+
+{BIO 6786731 <GO>}
+
+Thanks a lot.
+
+A - Jarmo Salonen
+
+{BIO 1860650 <GO>}
+
+Page 9 of 17
+
+
+
+Company Name: Sampo Oyj
+Company Ticker: SAMPO FH Equity
+Date: 2015-05-07
+
+FINAL
+
+And one additional item, actually, you could add, because we get an asset management
+fee from Mandatum and this segregated portfolio that we took over from Suomi Mutual
+and the mutual pension company, Kaleva. So, we have actually assets under
+management, €8 billion. And that we get 20 basis points asset management fee from
+that, which means, from €8 billion, it's around €60 million per year. So, that's reﬂected in
+other income.
+But you shouldn't expect this type of one-oﬀs going forward. So, we are...
+
+A - Peter Kristian Johansson
+
+{BIO 3902189 <GO>}
+
+That's correct.
+
+A - Jarmo Salonen
+
+{BIO 1860650 <GO>}
+
+...slightly negative at the moment.
+
+Q - Gianandrea Roberti
+
+{BIO 6786731 <GO>}
+
+Thank you.
+
+Operator
+The question is from Mr. Daniel Do-Thoi at JPMorgan London. Please go ahead.
+
+Bloomberg Transcript
+
+Q - Daniel A. Do-Thoi
+
+{BIO 17019775 <GO>}
+
+Hi. Good afternoon. Three questions for me, two on capital and one on the dividend. First
+on capital, two questions, actually. The 5 percentage point quarter-on-quarter decline in
+the economic solvency ratio, part of this appears to be driven by higher market risk. Is this
+simply a function of higher equity holdings, and should we expect this to decrease over
+time as you readjust?
+And then secondly, I mean, I know you don't have a target on this, but is there a level in
+terms of solvency ratio, which you would not wish to fall below?
+And then lastly, on the dividend, I know it's a bit early to ask, but the reason I do is
+because Nordea will be announcing later this month updated ﬁnancial targets at its
+Capital Markets Day, and I guess inevitably (26:54), also be addressing the issue of capital
+management and dividends. If that ultimately leads to a change in their dividend policy,
+should we expect that to have a knock-on eﬀect on your thinking around the progressive
+dividend? Thank you.
+
+A - Jarmo Salonen
+
+{BIO 1860650 <GO>}
+
+If I start with the economic capital, so there was – of course, proﬁtability was good in Q1,
+so that improved group solvency. Then, on the other hand, because of lower discount
+rates means again that the negative eﬀect on adjusted solvency capital came down. So
+that consumed capital and then marginally higher market risk because of equity markets
+Page 10 of 17
+
+
+
+Company Name: Sampo Oyj
+Company Ticker: SAMPO FH Equity
+Date: 2015-05-07
+
+performing so strongly in Q1. So, market risk grew slightly both in If and Mandatum. So,
+those are the two factors.
+
+FINAL
+
+On the minimum targets on how much do we actually want to maintain, we have an old
+target of maintaining at least 120% solvency, economic solvency, above the group
+minimum requirement without diversiﬁcation. But this will deﬁnitely be updated then
+when we have the ﬁnal numbers on Solvency II and also on Basel III on the banking side.
+
+A - Kari Henrik Stadigh
+
+{BIO 1504152 <GO>}
+
+On dividends, I don't want to comment on Nordea's dividends. But if we look at the
+Nordic banks in general, I think it's clear to everybody that the Nordic banks have been
+able to meet all regulatory requirements from their operational cash ﬂow. And in an
+environment with low growth and continuing very strong cash ﬂows and clients moving
+more and more into fee-generating business, that also ties less and less capital.
+I would be surprised if the banks in the Nordics in general would not follow their
+guidance and increase their payout ratios and also payouts in absolute terms. On Sampo,
+we are clearly a dividend stock. And as management, we are committed to propose to the
+board and the AGM increasing dividends. That is all I can say this time of the year.
+
+Bloomberg Transcript
+
+Q - Daniel A. Do-Thoi
+
+{BIO 17019775 <GO>}
+
+Okay. And if I could just try and follow up on that last point, Kari, if hypothetically you had
+an increase in the dividends that you received for the 2015 ﬁnancial year, would that – how
+would that aﬀect your thinking about the graphically (29:48) beautiful dividend that you're
+trying to create at Sampo? And would you deviate from that due to this one-oﬀ hype
+(29:58)?
+
+A - Kari Henrik Stadigh
+
+{BIO 1504152 <GO>}
+
+I think it would support my view, wouldn't it?
+
+Q - Daniel A. Do-Thoi
+
+{BIO 17019775 <GO>}
+
+Okay. I guess that depends on what we hear (30:06) later this month.
+
+A - Kari Henrik Stadigh
+
+{BIO 1504152 <GO>}
+
+Let's see how it plays out, but I'm quite conﬁdent.
+
+Q - Daniel A. Do-Thoi
+
+{BIO 17019775 <GO>}
+
+Okay. Thank you.
+
+Operator
+We have a question from Mr. Mika Koskinen of SEB. Please go ahead.
+
+Page 11 of 17
+
+
+
+Company Name: Sampo Oyj
+Company Ticker: SAMPO FH Equity
+Date: 2015-05-07
+
+Q - Mika Koskinen
+
+{BIO 1557965 <GO>}
+
+FINAL
+
+Thanks very much. Good afternoon. Could you please comment a bit on the investment
+income and if I may ask by division, especially if – and also the holding company to some
+extent? But on the investment return side within equity income, how much has been
+gained in dividends and how much has been gained in trading proﬁts?
+And the reason I'm asking is that I'm trying to capture some kind of a picture how much
+we should expect then equity income to come down in Q2, Q3, Q4, compared to the ﬁrst
+quarter, which was very strong. Thanks very much.
+
+A - Peter Kristian Johansson
+
+{BIO 3902189 <GO>}
+
+I don't have the exact number on dividends, but I think at least in Mandatum Life we took
+some proﬁts on certain lines, certain equity lines. So, there are some relatively sizeable
+amount of realized gains in equities. The total investment income was 4.2% in Mandatum
+Life. In If we had a mark-to-market. The Swedish equity market performed extremely
+strong, but there is not that much realized gains in If, but somewhat more. So sales gains
+in Mandatum Life was altogether €95 million.
+
+Q - Mika Koskinen
+
+{BIO 1557965 <GO>}
+
+Okay.
+
+Bloomberg Transcript
+
+A - Peter Kristian Johansson
+
+{BIO 3902189 <GO>}
+
+And when you – dividends are booked – actually, if you look at the notes where you have
+the investment income items, you can see there's available for sale, the ﬁxed income line,
+and then equities' line. So, dividends are booked there.
+
+Q - Mika Koskinen
+
+{BIO 1557965 <GO>}
+
+Yes. But you don't split the dividend and the realized gains. They are clustered together.
+
+A - Peter Kristian Johansson
+
+{BIO 3902189 <GO>}
+
+Yeah.
+
+Q - Mika Koskinen
+
+{BIO 1557965 <GO>}
+
+May I then just ask, thinking about the second quarter, in the ﬁrst quarter do you have a
+gut feeling, did you receive half of all the dividends that you were expecting to receive
+this year, or did you receive more or less, if a (32:31) dividend stream going to be
+substantially less in Q2 against Q1?
+
+A - Peter Kristian Johansson
+
+{BIO 3902189 <GO>}
+
+If I'm not completely wrong, I think a big part of the dividends come in Q1.
+
+Q - Mika Koskinen
+
+{BIO 1557965 <GO>}
+
+Page 12 of 17
+
+
+
+Company Name: Sampo Oyj
+Company Ticker: SAMPO FH Equity
+Date: 2015-05-07
+
+Yes.
+
+A - Peter Kristian Johansson
+
+{BIO 3902189 <GO>}
+
+FINAL
+
+My guess (32:46) would be two-thirds and one-third, roughly, at least in Mandatum Life. I
+don't remember so exactly in If, but it's normal in Q1.
+
+Q - Mika Koskinen
+
+{BIO 1557965 <GO>}
+
+Okay. And do you have any plans on a group level, if we assume that the interest rate
+environment doesn't change much because you can, of course, manage very much the
+reported investment income that you have. Do you have any plans to smoothen out the
+investment income in 2015, as long as markets remain on the relatively strong levels
+where we are now?
+
+A - Peter Kristian Johansson
+
+{BIO 3902189 <GO>}
+
+In Mandatum Life, that's typically something that we had done in the past and most likely
+so also in the future. If ﬁxed income running yields keep coming down, then we need to
+harvest some of the unrealized gains.
+
+Q - Mika Koskinen
+
+{BIO 1557965 <GO>}
+
+Yes. And how about If?
+
+Bloomberg Transcript
+
+A - Peter Kristian Johansson
+
+{BIO 3902189 <GO>}
+
+If, if they continue to deliver such strong combined ratio, so the need is not as high. And
+now also when we have lowered the discount rates signiﬁcantly in If, so actually the
+unwinding discount which has been a relatively big number actually in the past is
+becoming lower and lower. So, there is less pressure on the investment income side.
+
+Q - Mika Koskinen
+
+{BIO 1557965 <GO>}
+
+Yeah, okay, very good. Thanks very much.
+
+Operator
+We have a question from Mr. Jakob Brink at ABG. Please go ahead.
+
+Q - Jakob Brink
+
+{BIO 7556154 <GO>}
+
+Yes. I just have one follow-up question, actually. I think, Kari, you were trying to – at least,
+that's the way I read it. You said that you didn't like one-oﬀs like the ones we're going to
+have in Q2. So, I understood that the Finnish discount reduction was more or less taken
+because you could. What about the Finnish – the fact that rates in the Finnish – sorry,
+Swedish discounting curve has actually come up quite substantially here quarter-to-date.
+Should I then read that the same way that you're going to ﬁnd something negative to
+oﬀset that with – especially given that you will have a €45 million one-oﬀ already, or how
+should we read that? Thank you.
+
+Page 13 of 17
+
+
+
+Company Name: Sampo Oyj
+Company Ticker: SAMPO FH Equity
+Date: 2015-05-07
+
+A - Peter Kristian Johansson
+
+{BIO 3902189 <GO>}
+
+FINAL
+
+The changes in the Swedish discount rate has historically not really inﬂuenced the
+reported combined ratio for If. Not giving any estimates for movement on interest rates in
+the future, but at least the movements we have seen historically has not been really visible
+in the overall group combined ratio.
+
+A - Kari Henrik Stadigh
+
+{BIO 1504152 <GO>}
+
+And, Jakob, as you know, we have never blamed a storm as a one-oﬀ. We have never said
+that something – some movements in some investment products are one-oﬀs. And we
+have never done anything – hold to maturity or mark to model. We have everything markto-market. So, I hate these one-oﬀs, but I also hate positive one-oﬀs. So, I think there, I
+diﬀer, from my colleagues in the industry.
+
+Q - Jakob Brink
+
+{BIO 7556154 <GO>}
+
+Okay.
+
+A - Kari Henrik Stadigh
+
+{BIO 1504152 <GO>}
+
+(35:58) with positive one-oﬀs.
+
+Q - Jakob Brink
+
+{BIO 7556154 <GO>}
+
+Bloomberg Transcript
+
+Thanks a lot.
+
+Operator
+We have a question from Mr. Paris Hadjiantonis at KBW. Please go ahead.
+
+Q - Paris Hadjiantonis
+
+{BIO 19703051 <GO>}
+
+Yes. Sorry, a follow-up from me as well. If I look at the Danish combined ratio, I
+understand there was, let's say, a one-oﬀ in that as well, so a larger duration of some
+industrial claims. Can you give us an idea of how much was that, or can you give us an
+idea of what the underlying combined ratio excluding that was? Thank you.
+
+A - Kari Henrik Stadigh
+
+{BIO 1504152 <GO>}
+
+First, before Ricard answers, I want to say that claims are never one-oﬀs in our – we are an
+insurance company and we cover claims. That's our business. So Ricard, please?
+
+Q - Paris Hadjiantonis
+
+{BIO 19703051 <GO>}
+
+Fair enough.
+
+A - Ricard Wennerklint
+Yes, true, the Danish combined ratio was inﬂuenced by one individual large claim, that
+was a prior year claim. So that's some more disclosure into the run-oﬀ losses that I think
+
+Page 14 of 17
+
+
+
+Company Name: Sampo Oyj
+Company Ticker: SAMPO FH Equity
+Date: 2015-05-07
+
+Matti asked for earlier. Your question is basically normalized combined ratio in Denmark.
+We are...
+
+Q - Paris Hadjiantonis
+
+{BIO 19703051 <GO>}
+
+FINAL
+
+Indeed.
+
+A - Ricard Wennerklint
+There is nothing in the normalized proﬁtability of the Danish business that makes us act
+diﬀerently than we did last year. There's nothing new during the ﬁrst quarter, nothing
+relating to the weather, premium levels, or really anything else. So, it hasn't changed our
+view on that. We've run a proﬁtable business in Denmark.
+
+Q - Paris Hadjiantonis
+
+{BIO 19703051 <GO>}
+
+Okay.
+
+A - Kari Henrik Stadigh
+
+{BIO 1504152 <GO>}
+
+A smaller size of a book gives more volatility if there are some bigger claims.
+
+Q - Paris Hadjiantonis
+
+{BIO 19703051 <GO>}
+
+Sure.
+
+Bloomberg Transcript
+
+A - Ricard Wennerklint
+Of course (37:48), and once again that we have reinsurance based on group coverage
+rather than individual markets. So, we have no problem with the volatility that we see per
+market.
+
+Q - Paris Hadjiantonis
+
+{BIO 19703051 <GO>}
+
+Okay, understood. Thank you.
+
+Operator
+Question from Mr. Blair Stewart of Merrill Lynch. Please go ahead.
+
+Q - Blair T. Stewart
+
+{BIO 4191309 <GO>}
+
+Thank you. Good afternoon and apologies if this question has been asked already. I was
+on one of the other seven results calls I've had (38:15) today. I wish I was joking. The €110
+million from the discount rate adjustment in Finland, will that have an ongoing positive
+eﬀect on the results going forward, I guess, through higher investment income? I just
+wonder how that will play out over time, because it doesn't seem to me that it's entirely
+lost money. Thank you.
+
+A - Peter Kristian Johansson
+
+{BIO 3902189 <GO>}
+Page 15 of 17
+
+
+
+Company Name: Sampo Oyj
+Company Ticker: SAMPO FH Equity
+Date: 2015-05-07
+
+That's correct. Yeah. So net investment income, in a sense, because each and every year
+you see the unwinding of discount. So, if we discount with lower and lower interest rates,
+then the unwinding eﬀect will be smaller. So, there is less.
+
+Q - Blair T. Stewart
+
+{BIO 4191309 <GO>}
+
+FINAL
+
+And where will that come through in the income statement, Peter?
+
+A - Peter Kristian Johansson
+
+{BIO 3902189 <GO>}
+
+You can actually see it when you look there is the so-called risk-free interest rate
+allocation, which don't exist anymore on the insurance technical result. And then you can
+see on the lower end how much – when that will be netted oﬀ from the investment side,
+then there's another number. So, the diﬀerence between those two numbers is the
+unwinding of discount.
+
+Q - Blair T. Stewart
+
+{BIO 4191309 <GO>}
+
+And would you think that that €110 million will just bleed through into the numbers over a,
+what, 10-year to 15-year period? Is that the way to look at it?
+
+A - Peter Kristian Johansson
+
+{BIO 3902189 <GO>}
+
+Yeah. The duration is very long and the Finnish liabilities I think it's – they're over 10 years,
+10-year duration.
+
+Bloomberg Transcript
+
+Q - Blair T. Stewart
+
+{BIO 4191309 <GO>}
+
+Yeah. Okay. That's great. Thank you.
+
+Operator
+There is no question at this time. Please go ahead, speakers.
+
+A - Jarmo Salonen
+
+{BIO 1860650 <GO>}
+
+Thank you all for your attention, and have all a very nice day.
+
+This transcript may not be 100 percent accurate and may contain misspellings and other
+inaccuracies. This transcript is provided "as is", without express or implied warranties of
+any kind. Bloomberg retains all rights to this transcript and provides it solely for your
+personal, non-commercial use. Bloomberg, its suppliers and third-party agents shall have
+no liability for errors in this transcript or for lost proﬁts, losses, or direct, indirect,
+incidental, consequential, special or punitive damages in connection with the furnishing,
+performance or use of such transcript. Neither the information nor any opinion expressed
+in this transcript constitutes a solicitation of the purchase or sale of securities or
+commodities. Any opinion expressed in the transcript does not necessarily reﬂect the
+
+Page 16 of 17
+
+
+
+Company Name: Sampo Oyj
+Company Ticker: SAMPO FH Equity
+Date: 2015-05-07
+
+Bloomberg Transcript
+
+FINAL
+
+views of Bloomberg LP. © COPYRIGHT 2022, BLOOMBERG LP. All rights reserved. Any
+reproduction, redistribution or retransmission is expressly prohibited.
+
+Page 17 of 17
+
+

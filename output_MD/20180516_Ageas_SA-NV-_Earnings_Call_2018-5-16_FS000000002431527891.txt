@@ -1,0 +1,1693 @@
+Company N ame: Ageas SA/N V
+Company Ticker: AGS BB Equity
+Date: 2018-05-16
+
+Q1 2018 Earnings Call
+Company Participants
+FINAL
+
+Antonio Cano, Chief Operating Officer & Director
+Bart Karel De Smet, Chief Executive Officer & Executive Director
+Christophe Boizard, Chief Financial Officer & Executive Director
+Hans de Cuyper, Chief Executive Officer-AG Insurance
+
+Other Participants
+Albert Ploegh, Analyst
+Arjan van Veen, Analyst
+Bart Jooris , Analyst
+Farooq Hanif , Analyst
+Farquhar C. Murray, Analyst
+Johnny Vo, Analyst
+Matthias de Wit, Analyst
+Robin van den Broek, Analyst
+Steven Haywood, Analyst
+
+Bloomberg Transcript
+
+Vikram Gandhi, Analyst
+
+MANAGEMENT DISCUSSION SECTION
+Operator
+Ladies and gentlemen, welcome to the conference call for the first three months of 2018.
+I am pleased to present Mr. Bart De Smet, Chief Executive Officer; Christophe Boizard,
+Chief Financial Officer; Filip Coremans, Chief Risk Officer; and Antonio Cano, Chief
+Operating Officer.
+For the first part of this call, let me remind you that all participants will remain on listenonly mode. And afterwards, there will be a question-and-answer session. Please also note
+that this conference is being recorded.
+I would now like to hand over to Mr. Bart De Smet, CEO; Mr. Christophe Boizard, CFO.
+Gentlemen, please go ahead.
+
+Bart Karel De Smet
+
+{BIO 16272635 <GO>}
+
+Good morning, ladies and gentlemen. Thank you all, for dialing into this conference call
+and for being with us for the presentation of the first quarter 2018 results of Ageas. As
+Page 1 of 26
+
+
+
+Company N ame: Ageas SA/N V
+Company Ticker: AGS BB Equity
+Date: 2018-05-16
+
+FINAL
+
+indicated, I'm joined in the room by my colleagues of the executive committee,
+Christophe Boizard; Filip Coremans; and Antonio Cano. We also have around the table,
+Hans De Cuyper, the CEO of our Belgian Insurance Company, AG Insurance, and of
+course our Investor Relations team.
+Ladies and gentlemen, after delivering an excellent result in 2017, which was a record year
+for Ageas, I'm pleased to announce that 2018 started very well too. Our net result
+increased 35% to €299 million, despite adverse weather events in Belgium and in UK,
+which has an impact of €40 million. This net result was achieved with a similar level of
+capital gains at €103 million.
+A combination of two elements led to this result. Firstly, we experienced a solid operating
+result across all our segments. Our Guaranteed margin increased strongly to 137 basis
+points, underpinned by a high investment result in Belgium.
+As for our combined ratio, it stands at 98.8%, and this includes 6.1% impact from the
+adverse weather, so we expect to reach our target of being below 97% by the end of the
+year, if no further exceptional events would occur.
+
+Bloomberg Transcript
+
+The second element which drove our net result was the exceptionally high performance
+recorded in China, thanks to favorable evolution of the interest rate, higher capital gains,
+and lower commercial expenses following lower sales and a changed product mix.
+Our inflows decreased slightly by 2% at constant exchange rate. The good news is that
+we renewed with growth in Belgium, where our sales of Unit-Linked products increased
+considerably, and we experienced strong growth in Continental Europe, scope-on-scope.
+But this could not entirely offset the lower premiums recorded in Asia and in the UK.
+In the UK, the lower volumes reflect our deliberate choice to focus on pricing and
+underwriting discipline, and thus to favor profitability over volumes.
+While in Asia, the decrease in inflows is mostly attributable to China, where regulatory
+changes brought us to stop selling most of our single premium products that used to
+drive the sales in the first quarter of the previous years.
+This regulatory change naturally apply to all the players in the market, and China Taiping
+Life outperformed the market and managed to gain market share and became the
+number five life insurer of China. Also note that the change in product mix is positive in
+the longer term as we focus on more profitable regular premium business.
+Our total liquid assets amounted to €1.7 billion compared to €1.8 billion at the end of last
+year, and this slight decrease is related to the ongoing share buyback program. With
+regarding the cash upstream, by the end of the quarter, we had only received €7 million
+from Turkey. But as you know, our operating entities usually pay the biggest part of the
+dividend to the group in the second quarter of the year, and most of it has indeed already
+been wired on our bank account in the meantime.
+Page 2 of 26
+
+
+
+Company N ame: Ageas SA/N V
+Company Ticker: AGS BB Equity
+Date: 2018-05-16
+
+FINAL
+
+And as you can see on slide 5, we expect to receive over the full year around €600
+million in cash from the Insurance operations. This is substantially more than the
+approximately €500 million annual upswing we have seen over the last couple of years.
+As you know, AG Insurance upstream is 100% of its net result, and this amount of €437
+million on its own is already more than sufficient to cover the €408 million that we will pay
+out to our shareholders later this month on the 30th of May. Expected cash upstreams
+from Continental Europe and Asia complete this €600 million.
+Before handing over to Christophe, we would like to draw your attention to two important
+milestones that are rapidly approaching. The first one will be on the 30th of June, which
+will mark the end of the put option granted to BNP Paribas to sell its 25% stake in AG
+Insurance. And the second milestone will be on the 13th of July when the Court of
+Amsterdam will render its decision on the amended Fortis settlement. I can imagine that
+both topics will come back in the Q&A session.
+Ladies and gentlemen, I will now hand over to Christophe for more details on the results.
+
+Christophe Boizard
+
+{BIO 15390084 <GO>}
+
+Bloomberg Transcript
+
+Thank you, Bart, and good morning, ladies and gentlemen. I propose to start with the
+group's Solvency II and free capital generation figures before focusing more in details on
+our results in each segment.
+So on slide 6, you will find the Solvency II figures. As mentioned by Bart, the Insurance
+Solvency II ratio is in line with last quarter at 196%. This stability hides a 4-percentage point
+positive impact coming from the business operation, compensated by the accrual of the
+expected dividend related to the IFRS result over the quarter. At group level, Solvency II
+ratio has come down by 1% reflecting the impact of the ongoing share buyback program.
+Going to the sensitivities on slide 7, now you may remember that in Q4 last year, we
+made model refinements to the Solvency II calculation by introducing an expected loss
+model in our core Life entities Belgium and Portugal and the company's specific volatility
+adjuster for the other entities replacing the EIOPA reference portfolio that didn't really
+work for Ageas as explained during the last Investor Day.
+As you can see, this model improvement significantly reduced the spread sensitivities of
+our solvency ratio, also both sovereign and corporate now move in the same direction
+when spreads go up.
+Regarding free capital generation, I am on slide 8 and 9 for the breakdown own funds
+and SCR. The operational free capital generation over the first quarter amounted to €149
+million. This includes only €7 million dividend upstream from the non-European NCP's from
+Turkey to be precise.
+
+Page 3 of 26
+
+
+
+Company N ame: Ageas SA/N V
+Company Ticker: AGS BB Equity
+Date: 2018-05-16
+
+FINAL
+
+The other isolated block in the chart that you can see, the €30 million, corresponds to the
+minority interest on our Belgian operating company, knowing that all the roll forward
+present a 100% view (00:08:19). So, at this the put option was exercised.
+This leaves us with an operational free capital generation over the quarter group share of
+€112 million. You might recall that last year, we had an amount of €511 million for the
+operational free capital generation on our Solvency II scope companies corresponding to
+a quarterly average of roughly €130 million.
+If we take into account, the weather events in Belgium and in the UK impacting the group
+own funds by €40 million, we come to a normalized operational free capital generation on
+the quarter of around €152 million, comfortably above already mentioned €130 million. So,
+we feel comfortable with this number that we are presenting to you today.
+
+Bloomberg Transcript
+
+After this rather long development on solvency and free capital generation, I will now give
+you more details on our IFRS results. So, let's go back for a short while on slide 4, showing
+the Insurance headlines. As Bart mentioned, the net Insurance result for the quarter
+amounted to €299 million, which represents a 35% increase compared to last year. The
+improvement came mainly from the Life business which increased to €252 million,
+compared to €168 million last year. Not only did we deliver better operating results in all
+our segments, but we also benefited from an exceptionally high result in China.
+The Non-Life result decreased to €48 million compared to €54 million last year, €51 million
+if we exclude the €3 million contribution from Cargeas, our former Italian operation. So
+scope-on-scope, the Non-Life result went only down by €3 million, despite the €40 million
+adverse weather impact.
+Even when taking into account that last year result was affected by Ogden reserving in the
+UK for an amount of €21 million, the Non-Life results has clearly improved. The combined
+ratio stood at 98.8% which is above our target of 97%. But if we restate this combined
+ratio by the adverse weather, we had during Q1, it would be at an excellent level of 92.7%.
+As usual, I will now give you a bit more details on each segments now. In Belgium, slide 10,
+the net result stood at €136 million with an excellent result in Life at €119 million, €13 million
+higher than last year. The operating margin on Guaranteed business reached 141 bps,
+thanks to better underwriting result for €8 million and to higher investment results for €14
+million related to real estate transactions and capital gains on equities.
+Like last year, these capital gains are expected to level out in the operating margin over
+the course of the year.
+It is also worth noting that as Life gross inflows renewed with growth plus 5% driven by
+the strong boost in the sale of Unit-Linked products which went up by 32%. Also in NonLife, there was a 6% top-line growth, but both growth are not visible on the slide, because
+of hounding effects, but I can assure you we have plus 5% and plus 6%.
+
+Page 4 of 26
+
+
+
+Company N ame: Ageas SA/N V
+Company Ticker: AGS BB Equity
+Date: 2018-05-16
+
+FINAL
+
+Bottom line, as mentioned the Non-Life business was impacted by adverse weather in
+January for an amount of €18 million. So, €18 million among the €40 million including the
+UK. The underlying performance continues to be strong. And excluding the weather
+events, the combined ratio would have been 92.9% in line with last year, while this year,
+there is much less support from prior year releases compared to last year.
+In the UK, slide 11, the situation there is gradually improving. Despite the negative €22
+million impact from bad weather, the net result amounted to €11 million compared to only
+€1 million last year with a similar amount of exceptional items in both years. In this very
+competitive market, we chose to focus on pricing and underwriting discipline, which
+weight (00:14:19) on inflows.
+In Continental Europe, slide 12, our net result went up by 7% scope-on-scope. So
+excluding Cargeas, which contributed €3 million last year, our operating performance
+remain strong in our Life business and we delivered an excellent performance in our NonLife activities with a combined ratio at 90.2%.
+
+Bloomberg Transcript
+
+Finally in Asia, on slide 13, we recorded an exceptionally high net result at €124 million
+compared to €52 million last year. This strong increase is largely due to our Chinese
+operations, we have a strong operational result benefited from the favorable evolution of
+the interest rate, higher capital gains on equities and lower commercial expenses due to
+lower sales.
+Regarding Asia, we included in the Excel file on our website additional and more granular
+data on our Asian JV with one quarter delay. Compared to last quarter, you can find more
+detailed information per country as well as (00:15:50) information on China.
+The net loss on the General Account, slide 14, amounts to €52 million composed by the
+non-cash revaluation of the RPN(i) liability and the staff and operating expenses. This
+brings the group net result to €248 million compared to €110 million last year. The total
+liquid assets of the General Account stood at €1.7 billion, of which point €0.9 billion
+remains ring-fenced for the settlement.
+Ladies and gentlemen, I'd like to end my comments here, and leave room for questions.
+
+Q&A
+Operator
+Ladies and gentlemen, we are now ready to take your question. Please limit yourself to
+three questions per person. We have our first question from Mr. Arjan van Veen from UBS.
+Sir, please go ahead.
+
+Q - Arjan van Veen
+
+{BIO 5197778 <GO>}
+
+Thank you. I have a couple of questions on Asia, and then just one on capital generation
+please. For Asia, could you please split out the impact of the interest rate movement, the
+Page 5 of 26
+
+
+
+Company N ame: Ageas SA/N V
+Company Ticker: AGS BB Equity
+Date: 2018-05-16
+
+FINAL
+
+750 a day (00:17:24) moving average, and the capital gains, so we can get a better idea in
+terms of more normalized earnings for that division?
+Also, I would assume the fact that expenses are lower due to lower sales given the
+changes in China and the regulatory intervention, there would be – would there be a
+reason why not think that will be feature on a go-forward basis? And then on capital
+generation, I recall last year that first quarter was also very strong, and then was a bit
+weaker for the remaining quarters. Would we expect a similar seasonal trend or is a
+reason why the pattern would be different this year?
+
+A - Bart Karel De Smet
+
+{BIO 16272635 <GO>}
+
+Yeah. Thank you for the questions, Arjan. On Asia, the first part, the explanation I would
+say for the increased result there, so there are three elements. The first one is the
+precise figure is in our slides, the slides with the split of the realized capital gains slide 23,
+where you see that compared to last year when we had €2 million cap gains, we now
+have €25 million. So, you'd say something like €23 million of the results. That increase is
+coming from higher capital gains on equities.
+
+Bloomberg Transcript
+
+The second element is linked to the reserves that are calculated with discount rate that is
+based on 750-day average value of the 10-year Chinese Government bonds. Well, last
+year, there was a negative impact when – because this discount rating decreased, and
+now with a slight increase of interest rates, we have a positive impact. But we do not
+really quantify it. But okay, it's part of the let's say low result last year in Q1 and higher
+results this year.
+And then the third element is that due to the change – the lower volumes in sales, but
+also the change in product mix, where we have and you can find that on the additional
+slide with the details on the Asian business, where you will see that – where last year, we
+had something like €2.4 billion single premium in China, with this year only had €450
+million. So the expenses on – as well operational as commercial have sharply decreased in
+Q1. So those are three elements. Capital gains on equity €425 million, delta in reserves
+that was a negative impact last year, a positive this year, and then a lower impact of costs,
+so commercial expenses.
+Will that go – and that's your second question, go on, remain on ongoing base. So what
+we've seen is that, at the end of Q1, the premium income was down with, let's say,
+something like 7% in China compared to a market that was down with 25%. And the total –
+let's say, impact of single premium in the whole inflows in China were not more than 6%.
+So no (00:20:50) it was 6% in the region, 4% in China, and what we see is that already in
+the month of April and these figures are public, Taiping Life almost recovered the delta
+and is now at only 1% in volume compared to April last year.
+And that's mainly regular premium. So we believe that, going forward, there will of course
+be efforts to further strengthen the commercial franchise by recruiting agents and things
+like that, but we – okay, the – let's say the relationship between lower expenses on regular
+premium compared to single premium is something that we believe will have an impact
+by the end of the year.
+Page 6 of 26
+
+
+
+Company N ame: Ageas SA/N V
+Company Ticker: AGS BB Equity
+Date: 2018-05-16
+
+Q - Arjan van Veen
+
+{BIO 5197778 <GO>}
+
+Understood.
+
+FINAL
+
+A - Christophe Boizard
+
+On the free capital generation, so first, we didn't really disclose Q1 figures for 2017. You
+remember it took place during the Investor Day in Lisbon in June. The focus was more
+first on the method and second on 2016 figures, and then we showed, as I would say, a
+draft on the AG contribution for Q1.
+And, indeed, we had the high figures at this moment. But please keep in mind, but at this
+moment since it was a segment only we showed AG at 100%, whereas in our free capital
+generation as presented today, we isolated the minority interest and we are at group
+share. I think – and you were asking about the future run rate, what I would like to remind
+you, is that in my speech I confirm the kind of run rate we had already discussed starting
+from the €511 million. So, the run rate of €130 million for the group, and I think, I explained
+why we are well within this range. And why, I declare that we feel comfortable if we take
+the – if we restate by this exceptional weather event, we are well within the guidance. And
+I think it is what you should keep in mind. So, no change in the trend on free capital
+generation.
+
+Q - Arjan van Veen
+
+Bloomberg Transcript
+
+{BIO 15390084 <GO>}
+
+{BIO 5197778 <GO>}
+
+Can I ask just a point of clarification, if you don't mind. You seem to indicate that the
+ongoing capital generation (00:23:24) was a bit lower post the (00:23:25) Cargeas sale,
+and now you've gone back to the original guidance last year. Is that a bit of an upgrade or
+I've misunderstood your comments last quarter?
+
+A - Christophe Boizard
+
+{BIO 15390084 <GO>}
+
+Can you repeat the question? The line is not really good.
+
+Q - Arjan van Veen
+
+{BIO 5197778 <GO>}
+
+So, you gave the €500 million last year...
+
+A - Christophe Boizard
+
+{BIO 15390084 <GO>}
+
+Yes.
+
+Q - Arjan van Veen
+
+{BIO 5197778 <GO>}
+
+...but I recall in the 4Q Conference Call you said that the run rate would drop because of
+the Cargeas sale. Now you've gone back to that number. So it seems that you've
+upgraded a little bit from last quarter conference call?
+
+A - Christophe Boizard
+
+{BIO 15390084 <GO>}
+
+No, there is no change, to the fact that Cargeas left the consolidation scope. Why?
+Because the contribution of Cargeas was small.
+Page 7 of 26
+
+
+
+Company N ame: Ageas SA/N V
+Company Ticker: AGS BB Equity
+Date: 2018-05-16
+
+Q - Arjan van Veen
+
+{BIO 5197778 <GO>}
+
+Okay. Understood.
+
+A - Christophe Boizard
+
+{BIO 15390084 <GO>}
+
+FINAL
+
+So, we can consider that we confirm the previous figure even with this slightly reduced
+scope.
+
+Q - Arjan van Veen
+
+{BIO 5197778 <GO>}
+
+Okay. Thanks.
+
+Operator
+Okay. Next question from Mr. Albert Ploegh, from ING. Sir, please go ahead.
+
+Q - Albert Ploegh
+
+{BIO 3151309 <GO>}
+
+Bloomberg Transcript
+
+Yes. Good morning, all. I've got basically two questions. One is a little bit more on the
+Insurance net profit guidance there was profile of (00:24:47) €750 million to €850 million. I
+noticed you've scheduled an Investor Day in September, so I guess we get some more
+color there going forward.
+But I also do recall that in that target range, if I'm not mistaken, there was an assumption
+roughly of €120 million to €140 million in terms of capital gains. Last year, Q1 was very
+strong and you basically matched last year's numbers in terms of capital gains this year.
+So, how should we look at that? Do you think you strictly can generate more capital gains
+or is it still in your opinion some kind of big one-off quarter in that sense?
+And the second question I had, on the sensitivities under Solvency II. Would you expect
+loss model that was referred to? How does the regulator look to this as well, because I do
+notice the gap has widened a bit between solvency PIM and the Ageas Solvency II
+calculation probably as a result of this expected loss model as well? So, do you have
+some color on that? What becomes, in your opinion, more leading or binding in that
+respect? Thank you.
+
+A - Christophe Boizard
+
+{BIO 15390084 <GO>}
+
+Okay, Albert. On the first question, I don't think that we see a reason to completely
+change our guidance of profit €750 million, €850 million, but maybe one nuance that I
+would go to put it more at the upper side of the range than the lower. Of course, you
+never know that exceptional elements could impact that. But let's go more for the €850
+million.
+The capital gains that are included, so we got to consider – maybe remind two elements,
+first of all on equities, we have – we expect a certain volume of cap gains in such a way
+that we try to achieve any combination of dividend and cap gains, the expected total
+return that we also use in our strategic asset allocation models.
+
+Page 8 of 26
+
+
+
+Company N ame: Ageas SA/N V
+Company Ticker: AGS BB Equity
+Date: 2018-05-16
+
+FINAL
+
+For real estate, a similar story. We expect a certain return and as we treat real estate at
+amortized cost, you have your rent income, your depreciation, and a consequence is that
+we realized every year a certain volume of capital gains on real estate. Again, to achieve
+this, somewhere expected return. And if you look over the last nine years, you will see
+that the – I would say the buffer of unrealized capital gains on real estate has stayed very
+stable each time around €1.5 billion, €1.6 billion.
+And so, of course, in real estate, you cannot always, on the euro, right, sell buildings, that
+sometimes it's a bigger, and the other year is a bit lower amount. But what we could give
+as a guidance is that the capital gains that we've been realizing in this first quarter are, in
+any case, more than one-fourth of a yearly budget. So please do not multiply by 4.
+
+Q - Albert Ploegh
+
+{BIO 3151309 <GO>}
+
+Okay.
+
+A - Christophe Boizard
+
+{BIO 15390084 <GO>}
+
+On the other end you could consider them being something like 60% to 65% of what we
+expect for the full year. So the full year would be also normally a bit exceeding this €120
+million to €140 million range.
+
+Q - Albert Ploegh
+
+{BIO 3151309 <GO>}
+
+Bloomberg Transcript
+
+Okay. Thank you.
+
+A - Bart Karel De Smet
+
+{BIO 16272635 <GO>}
+
+Albert, regarding your question between the difference between Solvency II, PIM, and our
+Ageas approach, let me remind you that there are three main differences between the
+two. First and foremost, indeed, you have the ALM/saver (00:28:23) model, which
+deviates from the EIOPA volatility adjuster. If I may (00:28:29) come back to that. And then
+we have the internal move of real estate, which is applicable in Pillar 2 as well. And thirdly,
+and let's not forget, in Pillar 2, so the way we look at it, there is no transitional measure. So
+these are the three main differences.
+Now, why do we have an Solvency II ageas view is because we feel that that is the one
+which is economically the most sound. We all know and you know them as well as we do
+the, let's say, shortcomings of the EIOPA volatility adjusted mechanism. And we really
+don't manage our company based on Pillar 1. We do manage our company and hence our
+dividend upstream, our risk taking, our risk appetite, and indeed, our capital management
+policy is based on Solvency II ageas.
+That is the way we steer our companies, which is most in line with economic reality. That is
+where we have introduced the ALM to take away the inconveniences and the absurd
+evolution sometimes of the EIOPA volatility (00:29:32). That being said, of course, PIM
+had partially internal model, Solvency II remains a constraint, a threshold level that we
+have to satisfy. But look at the ratios, there is ample buffer there. And the €175 million
+target around which we operate is under Solvency II ageas. That is the world we live in.
+Page 9 of 26
+
+
+
+Company N ame: Ageas SA/N V
+Company Ticker: AGS BB Equity
+Date: 2018-05-16
+
+The other one is the constraint we have to take care of, but we are well above the limits
+there from a regulatory perspective. So, that is the way to put that in perspective.
+
+Q - Albert Ploegh
+
+{BIO 3151309 <GO>}
+
+FINAL
+
+Okay.
+
+A - Bart Karel De Smet
+
+{BIO 16272635 <GO>}
+
+Indeed, sensitivity to spreads will be higher in the partial internal model, but it is almost
+random. And we know that there is always the pull to par effect there, whereas in
+Solvency II ageas, I think you will get a fairer and a more real view on the performance and
+the evolution of the company.
+
+Q - Albert Ploegh
+
+{BIO 3151309 <GO>}
+
+Okay. Thank you very much.
+
+Operator
+Okay. So, next question from Mr. Vikram Gandhi from Société Générale. Sir, go ahead.
+
+Bloomberg Transcript
+
+Q - Vikram Gandhi
+
+{BIO 18019785 <GO>}
+
+Hello. Hi. Good morning. Thank you for taking my questions. To begin with, can you
+provide some explanation around your comments on Unit-Linked sales proving favorable
+for Belgium and unfavorable for Continental Europe? I'm a bit puzzled by this, because I
+thought the margin you'd on (00:30:59) would be on the stock of assets or reserves, and
+the flows should have only a tiny incremental impact, but that seems not to be the case
+going by the press release.
+Secondly, can you remind us on how you treat the sales expenses in Asia? Do you DAC
+them or fully expense them? This is with regards to the comments that lower sales costs
+were one of the factors that helped Asia Life results. And then, a small clarification on
+slide 47, what are the major components of the others, which is at €169 million negative?
+That's all from my side. And in case you'd like to comment on where you are with the
+discussion with the put option with BNP that would be great. Thank you.
+
+A - Bart Karel De Smet
+
+{BIO 16272635 <GO>}
+
+Hans CEO of Belgium, takes your first question, and then I'll take over.
+
+A - Hans de Cuyper
+
+{BIO 17991990 <GO>}
+
+Regarding the Belgium Unit-Linked sales, we have seen a growth of 32%, bringing us to
+€168 million. That is a trend that we are seeing already a few quarters right now. You know
+that in Belgium we have seen a significant decrease in investment type of products for
+many years due to the low-yield environment. For a few quarters now, we see there was a
+shift. We see that the Unit-Linked market is picking up, and specifically AG Insurance with
+
+Page 10 of 26
+
+
+
+Company N ame: Ageas SA/N V
+Company Ticker: AGS BB Equity
+Date: 2018-05-16
+
+FINAL
+
+the mixed distribution of course with the bank, as well as with brokers. We have noted a
+significant growth there of 32%.
+I also would like to mention that you see the benefits of this in the operating margins of
+Unit-Linked, because there we see some scaling effects to revenue sources from UnitLinked, which is recurring fee but also the entrance fee and of course higher volumes give
+us higher entrance fees while most of the expenses for our Unit-Linked business are
+fixed. So, we see it clearly in the operating margin Unit-Linked some economies of scale.
+
+Q - Vikram Gandhi
+
+{BIO 18019785 <GO>}
+
+Okay. Okay. And...
+
+A - Bart Karel De Smet
+
+{BIO 16272635 <GO>}
+
+(00:33:09) Yes. Go ahead. Go ahead. You had an additional question, Vikram?
+
+Q - Vikram Gandhi
+
+{BIO 18019785 <GO>}
+
+Yeah. I mean, does it work the other way around, exactly the other way around, for
+Continental Europe was my question.
+
+A - Bart Karel De Smet
+
+{BIO 16272635 <GO>}
+
+Bloomberg Transcript
+
+Antonio will respond.
+
+A - Antonio Cano
+
+{BIO 16483724 <GO>}
+
+Yes, indeed. For Portugal in particular, it is much more – the fee income is much more
+related to inflow, which has been lower than last year contrary to Belgium. So, it is slightly
+the other way around. There's obviously also a fee based on the funds under
+management, but relatively lower, so it's much more front ended.
+
+Q - Vikram Gandhi
+
+{BIO 18019785 <GO>}
+
+Okay.
+
+A - Bart Karel De Smet
+
+{BIO 16272635 <GO>}
+
+Okay, the with the question for the sales expenses in China, we take all expenses in
+results, so no DAC. And then I understood you also had a question on the put option. So,
+the put option, I can be very short there. So, the expiry date is end of June, and we will
+wait and see what will happen. But we can only repeat what I have said previously that we
+give the highest probability to a non-exercise of the put. The distribution agreement is
+running. I think the collaboration announced just also gave a view on the Unit-Linked
+production. But, it's overall, the collaboration with BNP is very strong and positive. And so,
+we give the highest probability to a no exercise of the put, but we will only be sure once
+the date of 30th of June is past.
+
+Page 11 of 26
+
+
+
+Company N ame: Ageas SA/N V
+Company Ticker: AGS BB Equity
+Date: 2018-05-16
+
+And maybe mention if it is not exercised, it will disappear. So, the liability will disappear
+from our balance sheet for one-off positive impact on solvency that can be estimated at
+something like 10%, and it will also decrease the volatility of solvency going forward. So,
+there is something like €400 million own funds that will be created.
+
+FINAL
+
+Q - Vikram Gandhi
+
+{BIO 18019785 <GO>}
+
+Okay. Fantastic. That's very helpful. And the last one on slide 47, the €169 million others?
+
+A - Bart Karel De Smet
+
+{BIO 16272635 <GO>}
+
+I didn't get the (00:35:40).
+
+Q - Vikram Gandhi
+
+{BIO 18019785 <GO>}
+
+It's the €169 million number negative on slide 47? Can you explain what that pertains to?
+
+A - Bart Karel De Smet
+
+{BIO 16272635 <GO>}
+
+So, the €169 is wrong figure. It should be €47 million.
+
+Q - Vikram Gandhi
+
+{BIO 18019785 <GO>}
+
+Okay.
+
+Bloomberg Transcript
+
+A - Bart Karel De Smet
+
+{BIO 16272635 <GO>}
+
+(00:35:58) And so the end result should be €1.778 billion, which is the €1.8 billion cash that
+we also refer to in all the other publications we have made.
+
+Q - Vikram Gandhi
+
+{BIO 18019785 <GO>}
+
+Okay. Perfect. Got it. Thank you very much.
+
+Operator
+Next question from Farquhar Murray from Autonomous. Sir, please go ahead.
+
+Q - Farquhar C. Murray
+
+{BIO 15345435 <GO>}
+
+Good morning, gentlemen. Just two questions, if I may. Starting again with Asian profits.
+Will the reserve discount rate adjustment change every single quarter? I mean, does it
+have any kind of structural impact on the €200 million to €250 million net profit guidance
+you've given for Asia before? And then just turning to the UK, what drove the 8.7
+percentage points of prior year release in the UK? Was there a particular book? Thanks.
+
+A - Bart Karel De Smet
+
+{BIO 16272635 <GO>}
+
+On the interest rate movement indeed, due to methodology, there can be – or can be
+every quarter a change when rates move up like we see now, let's say, required reserves
+will come down. And it passes through P&L when rates go the other way down. It will have
+Page 12 of 26
+
+
+
+Company N ame: Ageas SA/N V
+Company Ticker: AGS BB Equity
+Date: 2018-05-16
+
+FINAL
+
+an impact like last year in Q1 and maybe there's some guidance if you compare last year
+Q1 and this year Q1, the difference – the impact, the difference is something like €50
+million. So a negative impact a year ago, a positive impact now.
+Maybe also to mention at this point that as we have commented earlier that Taiping Life is
+one of the insurers that's most conservative also in the use of the volatility adjustment
+possibility that China regulator is giving. So that's also a reason why the sensitivity should
+be a bit more manageable. But we cannot exclude that similar effect will happen in the
+coming quarters.
+
+Q - Farquhar C. Murray
+
+{BIO 15345435 <GO>}
+
+And does it follow through (00:38:13), the €200 million to €250 million guidance?
+
+A - Bart Karel De Smet
+
+{BIO 16272635 <GO>}
+
+I think we are now at above €120 million profit for Asia. So when we gave a guidance on
+the result of Asia, €200 million to €250 million, a bit like I did earlier with the €750 million
+to €850 million overall net result of Ageas. Also here, I would look more to the €250
+million as guidance for the upper part. And like last year, not excluding at all that you can
+sometimes exceed that amount, knowing that we are still in a growing region where the
+underlying, let's say, elements of profit are increasing year-on-year.
+
+Bloomberg Transcript
+
+Q - Farquhar C. Murray
+
+{BIO 15345435 <GO>}
+
+I can obviously understand the €250 million guidance with regards the full-year 2018,
+given what we obviously just seen, but would that carry through to 2019?
+
+A - Bart Karel De Smet
+
+{BIO 16272635 <GO>}
+
+Well, we don't give guidance so far in the future. Let's stick to the €250 million being
+more – let's say the guidance and be the possibility to improve or to (00:39:18) upwards
+in the coming period.
+
+Q - Farquhar C. Murray
+
+{BIO 15345435 <GO>}
+
+Okay. Thanks. And the UK?
+
+A - Bart Karel De Smet
+
+{BIO 16272635 <GO>}
+
+Yeah. Antonio?
+
+A - Antonio Cano
+
+{BIO 16483724 <GO>}
+
+Yes. I'll pick that up. So, in the UK, the big prior-year release is related to the motor
+account. Comparing to last quarter – of last year's first quarter, bear in mind it was when
+we were still adjusting for the Ogden changes, so we didn't close really a lot of files last
+year and the claims adjusted were actually more busy with the existing claims. And then,
+this previous year's positive runoff, it's partially due to the fact that we have reserved our
+claims provisions considering the minus 0.75 Ogden rate and not all claims are closed at
+that level.
+Page 13 of 26
+
+
+
+Company N ame: Ageas SA/N V
+Company Ticker: AGS BB Equity
+Date: 2018-05-16
+
+Q - Farquhar C. Murray
+
+{BIO 15345435 <GO>}
+
+Have you taken the 0.75 to somewhere else now or is that just what happened in that
+year?
+
+FINAL
+
+A - Antonio Cano
+
+{BIO 16483724 <GO>}
+
+No. So, to make clear, we just consider at a point – a minus 0.75 is the Ogden rate and
+that it stays like that for now. Obviously, we all know that change will come, but the 0.75 is
+the Ogden rate we use for reserve.
+
+Q - Farquhar C. Murray
+
+{BIO 15345435 <GO>}
+
+Okay. Got it. Thanks.
+
+Operator
+Thank you. Next question, from Steven Haywood from HSBC. Sir, go ahead.
+
+Q - Steven Haywood
+
+{BIO 15743259 <GO>}
+
+Bloomberg Transcript
+
+Good morning. I had a couple of questions for clarification, if that's okay. Your Continental
+European dividend upstream of €80 million that you expect for 2018, I just want to confirm
+that this doesn't include anything related to the Cargeas sale?
+And then, same question, on slide 8 and 9, the capital generation slides, you don't include
+any dividend being accrued, is this correct in these slides? But you do include the dividend
+being accrued in your Solvency II ratio, the 195% ratio at the end of the first quarter? And
+then on your Belgian Life business, I see that you've raised the minimum guarantee to
+0.5% for some of your business. Could you explain what is going on there? Why do you
+increased it? Is it for more new business to come in or is it because you're seeing less
+pressure on the reinvestment rate at the moment? Thank you very much.
+
+A - Bart Karel De Smet
+
+{BIO 16272635 <GO>}
+
+On the first question for the upstream dividends for Continental Europe, so they are,
+indeed, not including Cargeas. Last year as you can – probably remember we had the sale
+and also the capital gain that was for €70 million in the result of Continental Europe. So, if
+you take out the €77 million from the total yearly result of Continental Europe last year
+that was €193 million. So, in delta, there was €116 million profit. So, from that €116 million
+profit, €80 million has been upstream. So, it's something like 75%. Whereas in Belgium,
+we stream up 100%, and you could say for Asia the upstream of the €85 million we
+expected something like 30%.
+So, you see clearly here that in the regions where we are more in growth scenario like
+Asia, we of course need a part of the profits to retain and to sustain the growth and the
+future growth. But we nevertheless already have a payout of 30%. Overall, the group if
+you take the result of last year without the cap gain on Cargeas, the dividend has been
+upstreamed by the operating companies was 70% of the net profit. So, that's our
+sustainable percentages.
+Page 14 of 26
+
+
+
+Company N ame: Ageas SA/N V
+Company Ticker: AGS BB Equity
+Date: 2018-05-16
+
+Christophe?
+
+FINAL
+
+A - Christophe Boizard
+
+{BIO 15390084 <GO>}
+
+So, I will give you the answer on the free capital generation, so on slide 8. So in the figure,
+you can read there is no (00:43:27) dividend. Let me take a precise example to illustrate
+this. If I take – so I am on slide 8, the €1.320 billion, so the €1.320 billion is the addition of
+the expected dividend €542 million and the real excess of own funds used for the
+Solvency II calculation which is €778 million. So, that's the addition. There is no expected
+dividend here.
+
+A - Hans de Cuyper
+
+{BIO 17991990 <GO>}
+
+The last question on the Belgium Guaranteed rate, indeed on 1st of March we have raised
+the interest rates from 0.25% to 0.5% Guaranteed for a segment of our products. We are
+talking here about the invest-Guaranteed products distributed by the bank. Main reason
+for this is that we see still stable new money investment rates.
+You might also have noticed that in general we still have announced for our clients a total
+return of 2% investment return including profit sharing. So with the new money rate, with
+the guarantee of 0.5%, we are still able to satisfy the asset liability matching that we
+always want to keep as well as the target operating margin in the long run that we want to
+achieve.
+
+Bloomberg Transcript
+
+So we had room to do this, and of course it is supposed to support our sales, although
+we see that the major pick up today is still in Unit-Linked business.
+
+Q - Steven Haywood
+
+{BIO 15743259 <GO>}
+
+Okay. Thanks very much.
+
+Operator
+Okay. Thank you. Next question from Matthias de Wit from Kempen. Sir, go ahead.
+
+Q - Matthias de Wit
+
+{BIO 15856815 <GO>}
+
+Good morning. Thanks for taking the question. The first one is on the Belgian Life
+business. Technical liability and the Guaranteed parts are down slightly year-on-year. Just
+wonder what you would expect here going forward now that inflows are recovering?
+Second question is on capital and more specifically on the approach you're using for the
+loss-absorbing capacity of the technical liabilities, which is quite unique in Belgium and
+possibly also in Europe.
+Is there any regulatory risk around this methodology considering that (00:46:03) trying to
+harmonize everything across Europe and possibly also at the national level, there is
+tendency to harmonize?
+
+Page 15 of 26
+
+
+
+Company N ame: Ageas SA/N V
+Company Ticker: AGS BB Equity
+Date: 2018-05-16
+
+And then lastly, just on your capital position to pro forma for the non-exercise that put you
+ahead of 200%, so significantly ahead of the target. So, any update you could provide on
+how you intend to redeploy your (00:46:30) any excess you might benefit from at this
+point in time? Thanks.
+
+FINAL
+
+A - Bart Karel De Smet
+
+{BIO 16272635 <GO>}
+
+Your first question, technical liabilities total, excluding the shadow accounting effect from
+the interest rate movement are actually slightly up. And this mainly because if you include
+the Unit-Linked business, because Unit-Linked business is giving us a margin, we see a
+slight decrease in the retail Life guarantee business, but that is I think quite normal as we
+see that inflows are lower due to the reduction of this business over the last few years,
+while some of those products which are 8-year term products are now coming to maturity.
+But what we see is as of today, we are able to compensate that effect with the UnitLinked.
+So you should, I think, look at two combined, and then we see a stable to slight growth.
+And then finally, we still see a positive impact also in the Group Life business where the
+technical liabilities have grown with 4% and that is on the one hand due to the inflows
+which evolved positively. But also there, we have sometimes transfer of plans and
+transfers of reserves which do fall into the technical liabilities but we do not pass to the
+inflows, which is also a positive effect. So all-in-all, I think they are stable to slightly positive.
+
+Bloomberg Transcript
+
+Q - Matthias de Wit
+
+{BIO 15856815 <GO>}
+
+Okay. Would you expect like further pressure on the Guaranteed part of the reserves
+going forward? Because that's where the margin is much higher than on Unit-Linked, so?
+
+A - Bart Karel De Smet
+
+{BIO 16272635 <GO>}
+
+First, indeed, margins on Guaranteed part are higher, but you should also always relate it
+of course to the capital. The capital Unit-Linked side is smaller. So from a return on capital,
+I would definitely not say that Unit-Linked would be less attractive than the Guaranteed
+business, that is one. Secondly, but that's hard estimate, but it seems that the reduction in
+these Guaranteed business that we have seen for few years on the one hand due to tax
+measures, and on the other hand, due to the low interest rate, might be starting to
+bottom out. And we see that the reduction for us, minus 2% last first quarter is definitely
+lower than we have seen in previous years.
+So I'm more than positive that we have seen more or less the bottom of the impact of
+the low interest rate environment on the Guaranteed business technical liabilities.
+
+Q - Matthias de Wit
+
+{BIO 15856815 <GO>}
+
+Okay.
+
+A - Bart Karel De Smet
+
+{BIO 16272635 <GO>}
+
+(00:49:15) your question on the LAC DT regulation, in fact, it's rather the profit sharing
+regulation which drives the LAC DT, the way we have modeled it. And the way it's
+Page 16 of 26
+
+
+
+Company N ame: Ageas SA/N V
+Company Ticker: AGS BB Equity
+Date: 2018-05-16
+
+FINAL
+
+modeled in Belgium it's based on the best estimate, based on current profit sharing
+regulation. And the current profit sharing framework in Belgium, indeed, is a bit different
+than what we've seen in some of our neighboring countries (00:49:41). It is a pure
+discretionary environment which means it is driven by market competition and not by
+regulation, but truly by market competition.
+The second thing it is fully generating solidarity across generations of, let's say, the clients.
+So, that is specific features that is not always the case. Now, that is reflected in the LAC
+DT models in Belgium and I think it's completely appropriate. So, if there would be any
+harmonization in terms of profit sharing regulation across Europe that would affect any of
+these features, that it's not so obvious, first and foremost. But on the other end, it would
+only affect new business. And the moment it affects new business, we can, of course,
+reflect it in our pricing. So, I would not be too worried about harmonization of LAC DT
+modeling. It's more the profit sharing regulation and that seems unlikely. But maybe Hans
+can add a bit more color to that.
+
+A - Hans de Cuyper
+
+{BIO 17991990 <GO>}
+
+Bloomberg Transcript
+
+There are element I think where you might refer to that is potential revision where EIOPA
+is thinking about. And should LAC DT be kept or not, so yes, indeed, I think Belgium there
+has a relatively unique situation today with internal directives that I have given on the
+recoverability test. It already takes into account the margins that you're having today. So,
+my feeling today is that even if EIOPA would consider limiting it again to three years that
+Belgium has a relatively good situation in their own directives to continue with their
+approach. But that I think we will only know in 2019.
+
+Q - Matthias de Wit
+
+{BIO 15856815 <GO>}
+
+Okay. Thank you. And lastly on excess capital?
+
+A - Christophe Boizard
+
+{BIO 15390084 <GO>}
+
+I would say in case the puts would be exercised, that moment, as we indicated, we would
+be able to respect the option by using cash and issuing debt. In case the put is not
+exercised, it means that what we consider being a bit of free cash something like €800
+million is available like in the past for M&A, or if there is no M&A, to give part of it back to
+shareholders. So, it's not really changing the situation that much compared to what we
+have in the previous years.
+And if you then look again to the upstream dividend and take out the potential dividend
+payment that will – or the dividend payment that will happen end of May, and then
+something like €70 million corporate costs, it means that there will also be something like
+€100 million minimum added to the cash pool of the General Accounts. So, no change in
+terms of strategy with respect to the available cash in the General Account.
+
+Q - Matthias de Wit
+
+{BIO 15856815 <GO>}
+
+Okay. Thank you.
+
+Page 17 of 26
+
+
+
+Company N ame: Ageas SA/N V
+Company Ticker: AGS BB Equity
+Date: 2018-05-16
+
+Operator
+Thank you. So, next question from Robin van den Broek from Mediobanca. Sir, please go
+ahead.
+
+FINAL
+
+Q - Robin van den Broek
+
+{BIO 17002948 <GO>}
+
+Yes. Good morning, everybody. I actually only have one question remaining. Coming back
+to your free capital generation, the SCR operating impact is €40 million down. Could you
+maybe specify why that is? When I hear you talk on the conference call, it does seem that
+there are still growth in your European entities. So, could you specify that number, please?
+
+A - Bart Karel De Smet
+
+{BIO 16272635 <GO>}
+
+Yes. So, on the SCR operational impact, the slight drop which is shown in green, meaning
+that it's positive. The main, this come to the drop in equity market, that's something
+coming from Solvency II. So, that's methodological aspect and is written on the left, lower
+symmetric adjustment. I would say technical effect of Solvency II framework.
+
+Q - Robin van den Broek
+
+{BIO 17002948 <GO>}
+
+So, in the 126% operational impact, you include an expected return of 8%, and because
+equity markets went down, you also have a benefit coming through from the SCR
+released. Is that correct?
+
+Bloomberg Transcript
+
+A - Bart Karel De Smet
+
+{BIO 16272635 <GO>}
+
+Partly, and what is also there, and it's specific because the drop is most noticeable if we
+look at it in Continental Europe. And there, we should not forget between our books in
+Portugal, we have exposure to Spanish debt. And there we have a benefit from the rating
+upgrade on the Spanish bonds portfolio. The amount indeed is multiplied with 1.75 in
+operational, but we benefit partly that from the spread (00:54:45).
+
+Q - Robin van den Broek
+
+{BIO 17002948 <GO>}
+
+Presumably, given that there are some growth in the underlying business that SCR drop is
+probably bigger than that €40 million negative. And can you maybe explain why that
+impact is not put into market impact, because it seems to be more driven by market
+impact than by operational drivers anyway?
+
+A - Bart Karel De Smet
+
+{BIO 16272635 <GO>}
+
+It's in both. And then the third because I wasn't finished yet, is also of course, we should
+not forget in the meantime, I think out sales is also out of there, but may have been
+already out at the end of the year.
+
+A - Christophe Boizard
+
+{BIO 15390084 <GO>}
+
+This is already out.
+
+Page 18 of 26
+
+
+
+Company N ame: Ageas SA/N V
+Company Ticker: AGS BB Equity
+Date: 2018-05-16
+
+A - Bart Karel De Smet
+
+{BIO 16272635 <GO>}
+
+Yeah. It was already out at the end of the year. (00:55:19) equity indeed. It's a
+combination of these effects, equity and spread.
+
+Q - Robin van den Broek
+
+{BIO 17002948 <GO>}
+
+FINAL
+
+Okay. But could you maybe give – a like a – sorry?
+
+A - Bart Karel De Smet
+
+{BIO 16272635 <GO>}
+
+Part of it has to do with the exposure in the portfolio which is probably reduced, the
+asymmetric adjustment on equity which has come down and the components are
+reflected in market. So it's affecting both markets, as well as the operational (00:55:52).
+
+Q - Robin van den Broek
+
+{BIO 17002948 <GO>}
+
+But what would you see as a normalized run rate for SCR? I mean, presumably, you
+wanted to grow, so the operational impact from SCR should probably be a headwind
+going forward right, rather than a tailwind?
+
+Bloomberg Transcript
+
+A - Bart Karel De Smet
+
+{BIO 16272635 <GO>}
+
+Yeah. We do not assume that SCR goes down every quarter, since we are definitely
+growing our business. So you could expect that in Continental Europe, it grows in tandem
+with the volume. But there we know that our operational free capital generation and the
+quality of that book is very good. So the solvency or the own funds generation in
+Continental Europe is very high. So no worries about seeing some increase in the SCR
+coming there. But in Belgium, we expect it to be largely stable, maybe slightly up again in
+line with growth of business, but that is not expected to be very high. So that it is down
+we say more (00:56:50) volatility than trend.
+
+Q - Robin van den Broek
+
+{BIO 17002948 <GO>}
+
+Yeah. Okay. But the normalized free capital generation of €150 million, you mentioned
+before does not include the normalization you should probably put in from the back of the
+SCR movement?
+
+A - Bart Karel De Smet
+
+{BIO 16272635 <GO>}
+
+On the other end as we said it was also not include the weather volatility which was also
+there of €30 million almost €40 million in UK and Belgium. We should not forget that we
+are looking at Solvency, own funds and SCR movements on a quarterly basis for the
+valuation of an entity which will run for hopefully infinity. So, don't over extrapolate the
+volatilities on the quarter to extend it to valuation, because that would be too much of, so
+you will always have some volatile components.
+
+A - Christophe Boizard
+
+{BIO 15390084 <GO>}
+
+After the restatement with weather event, I ended up with a figure which was €152 million
+above the guidance of €150 million. So, even if you cancel this effect of €14 million times
+1.75, again we are still within the range.
+Page 19 of 26
+
+
+
+Company N ame: Ageas SA/N V
+Company Ticker: AGS BB Equity
+Date: 2018-05-16
+
+Q - Robin van den Broek
+
+{BIO 17002948 <GO>}
+
+Yeah. So that's probably the reason why you stick to that €130 million range for now, and
+we'll see how it goes longer term.
+
+A - Christophe Boizard
+
+{BIO 15390084 <GO>}
+
+FINAL
+
+Yeah.
+
+Q - Robin van den Broek
+
+{BIO 17002948 <GO>}
+
+Okay. Thank you that's very helpful.
+
+Operator
+Thank you. So, next question from Farooq Hanif from Credit Suisse. Sir, please go ahead.
+
+Q - Farooq Hanif
+
+{BIO 4780978 <GO>}
+
+Bloomberg Transcript
+
+Hi. Thanks very much. The UK is not yet upstreaming the dividend. When will that happen?
+What kind of threshold of capital do you think you need before you start paying
+something? Secondly on Asia, you commented that Taiping would be looking at some
+point to increase its own payout. Now that the business mix has changed with less strain,
+do you think that 30% (00:58:46) could also go up? And then, lastly, you have had
+negative inflows for a while in the UK ex obviously the exchange rate impact. Just
+wondering when you think that's going to stabilize and when you think the new business
+mix is going to be essentially the right mix for you? Thank you.
+
+A - Bart Karel De Smet
+
+{BIO 16272635 <GO>}
+
+The dividend payments we used in the group is based on our capital management policy
+where the upstream is linked to the solvency level and solvency levels we expect our
+different company-by-company also looking a bit to their specific profile.
+So as for the UK, we expect UK to pay a dividend in 2019 over the results of this year. So
+you also see that the solvency ratio in the UK is in the meantime further increasing. It was
+100% beginning of last year. It's now close to 150%. So we expect UK to pay a dividend in
+2019 over 2018.
+With respect to Taiping, to be clear, what I said is that in Asia overall, what we received as
+dividend is something like 30% of the profit we have made and that's a combination, you
+can see also in the past, of the dividends received from China, from Malaysia and
+Thailand and also the three big contributors to the profit.
+Taiping Group is a listed entity. So, it's not appropriate for us to give guidance on what
+their dividend policy will be going forward. The only thing we can see is that the company
+has today a capacity to pay something like one-third of the profit as a dividend and to
+maintain stable solvency ratios notwithstanding a strong growth. So we don't expect that
+payout ratio to decrease, but rather it will increase or not is something we at this moment
+cannot disclose.
+Page 20 of 26
+
+
+
+Company N ame: Ageas SA/N V
+Company Ticker: AGS BB Equity
+Date: 2018-05-16
+
+But again, the volumes are increasing. So, the dividend that we received from Asia should
+follow that trend. And the more and more the portfolios mature, the more and more
+there might be potential to see an increase in the future of the payout ratio. But we have
+no confirmation about that at this moment. There was then the question on the UK inflow.
+
+FINAL
+
+Q - Farooq Hanif
+
+{BIO 4780978 <GO>}
+
+The inflows. Yes, that's right. Just when do you think it will stabilize?
+
+A - Bart Karel De Smet
+
+{BIO 16272635 <GO>}
+
+I think the inflows going down mainly because of some actions we've taken to improve
+the profitability of the portfolio. So, we actually did some MGA schemes. There's
+obviously also quite some pricing pressure in the motor account. So, 2018 will still be in a
+decrease mode. We expect it in 2019 things to stabilize and then towards the end of
+2019-2020 see some growth in the business again. But again, it's a very volatile market.
+Be aware that the aggressiveness on the price comparative websites that some large
+local groups tend to be under pressure, that is not an easy market in terms of inflow, but
+we expect towards the end of 2019 to come back to growth.
+
+Q - Farooq Hanif
+
+{BIO 4780978 <GO>}
+
+Okay. Thank you very much.
+
+Operator
+
+Bloomberg Transcript
+
+Okay. Thank you. The next question from Johnny Vo from Goldman Sachs. Sir, go ahead.
+
+Q - Johnny Vo
+
+{BIO 5509843 <GO>}
+
+Thank you. Just a question. Just in relation to the capital generation ex-AG minorities,
+thank you very much for giving out disclosure. But therefore, if you sort of look at the run
+rate, your capital generation is around €450 million to €500 million per year for the group.
+Is that a good level for sustainable dividends? Because when I look at your Solvency II ratio
+over the last four quarters, it hasn't moved despite the fact the markets have been very
+positive. So, if you could talk about that that would be great. Thanks.
+
+A - Christophe Boizard
+
+{BIO 15390084 <GO>}
+
+The fact that the solvency ratio doesn't move, comes partly, but I would even say mainly
+from the fact that we accrued from the expected dividend. And so, let's – and to illustrate
+my point, let's imagine, but we had the policy to distribute 100%. So, the solvency ratio is
+exactly stable. Why? Because all the result is taken into account through the expected
+dividend.
+
+Q - Johnny Vo
+
+{BIO 5509843 <GO>}
+
+Yeah. But does that mean...
+
+A - Christophe Boizard
+
+{BIO 15390084 <GO>}
+Page 21 of 26
+
+
+
+Company N ame: Ageas SA/N V
+Company Ticker: AGS BB Equity
+Date: 2018-05-16
+
+(01:03:38) from all the Q1 result in the expected dividend following our policy. So, that's
+the reason why it shouldn't move that much at the end.
+
+Q - Johnny Vo
+
+{BIO 5509843 <GO>}
+
+FINAL
+
+But that means you're not building any solvency, is that fair?
+
+A - Christophe Boizard
+
+{BIO 15390084 <GO>}
+
+We should build some solvency, because we don't distribute 100% of the expected profit,
+and we are at 45%. But please, take into account, if you are at group level where you
+have this 1% decrease, but we have a share buyback which is in place. And the share
+buyback puts a drain on the fee capital at group level. But if you take Insurance group, it is
+stable.
+
+Q - Johnny Vo
+
+{BIO 5509843 <GO>}
+
+Okay.
+
+A - Bart Karel De Smet
+
+{BIO 16272635 <GO>}
+
+Bloomberg Transcript
+
+Maybe to add, two points to that. First and foremost, we do not and want to (01:04:29)
+raise our solvency ratio. It is not our target. So, if you look at it, it is high enough. And in
+fact, we are in our surplus. So, our commitment to the market is, okay, if we do not have
+investments, which will require capital that will be risk-bearing, we do optimize our
+dividend upstream and we take a look at options of share buyback. So, it's not our
+purpose to every quarter increase our solvency ratio. Let's that be clear.
+And secondly, when you refer to the €450 million, it is the operational free capital
+generation often deducting (01:05:05) of the minority interest that assumes that the put
+option is not exercised, but let's not forget that our solvency ratios are assuming that the
+put option is exercised.
+So if the put option is not exercised, we will get another €400 million of own funds. And
+so an increase of the solvency ratio with over 10% at the level of the group. And then the
+third point is that the €450 million it does exclude what is coming from Asia. And whether
+you now take into account the expected dividend upstream from Asia which are now
+budgeted around €80 million or you go one step further and you look at the free capital
+generation in Asia which is quite a bit higher. I think we have comfort that in future indeed
+with just free capital generation, future cash upstream potential that we will see that
+come from Asia to reinforce our pools of cash. So I think that is the complete picture. It
+should take all the components into account I believe.
+
+Q - Johnny Vo
+
+{BIO 5509843 <GO>}
+
+Okay. Thank you.
+
+Operator
+
+Page 22 of 26
+
+
+
+Company N ame: Ageas SA/N V
+Company Ticker: AGS BB Equity
+Date: 2018-05-16
+
+Okay. Thank you. So now next question from Bart Jooris from the Degroof Petercam. Sir,
+please go ahead.
+
+FINAL
+
+Q - Bart Jooris
+
+{BIO 3470300 <GO>}
+
+Yes. Good morning. Some questions still around the UK if I may. Could you give us an idea
+of the combined ratio in motor if you would exclude the prior year release that is mostly in
+motor as you mentioned. And what do you see as a run rate going forward in motor for
+the year? Then continuing on that, your guidance on the UK net profit was underlying €60
+million, so if you exclude the weather damages, now you're already at €33 million, does
+your guidance change?
+
+A - Bart Karel De Smet
+
+{BIO 16272635 <GO>}
+
+So, your first question was on the Motor combined ratio and including or excluding the
+exceptional release, to which extend the release is exceptional, that's the question, which
+part of the releases are not exceptional. So, the combined ratio for Motor Q1 was 91.7%.
+And you could say maybe that that 4 or 5 points would be like an exceptional type of
+release.
+The other question you had on the UK was our target profit for the year, if I'm correct.
+
+Q - Bart Jooris
+
+{BIO 3470300 <GO>}
+
+Bloomberg Transcript
+
+Yes.
+
+A - Bart Karel De Smet
+
+{BIO 16272635 <GO>}
+
+So we stick to our guidance that we gave, that was at the previous Investor Day of €60
+million. And yes, indeed, we seem to be a bit ahead of it, if you would exclude the
+weather. So, you're right. But we stick to that guidance.
+
+Q - Bart Jooris
+
+{BIO 3470300 <GO>}
+
+Okay. Thank you.
+
+Operator
+Perfect. So next question from Kunal Zaveri from JPMorgan. Sir, please go ahead.
+Yeah. Hi. This is Aashiq (01:08:13). I'm just using Kunal's line. Just a couple of questions I
+have. So first of all on your capital, I mean you have done a lot of changes on your Ageas
+model, which is the right way to do it because that shows a bit more economic view
+compared to what PIM shows. However, if specifically for the Portuguese or Belgium
+sovereign spreads have to widen, then there will be a huge deviation between your PIM
+and your Ageas. Now, I remember in one of the questions earlier you mentioned that
+Ageas is what you follow, but PIM is what you need to care about. But at what point would
+you start taking actions, so that if PIM is getting hurt, at what point would you take action,
+because, I mean, now, your Ageas model is not going to get hurt a lot even with wide
+
+Page 23 of 26
+
+
+
+Company N ame: Ageas SA/N V
+Company Ticker: AGS BB Equity
+Date: 2018-05-16
+
+FINAL
+
+market movements, but PIM might still get word on an economic basis. So, what would be
+the trigger to start acting on the capital front? So that's one first question.
+The second question is for cash flows. I mean, if I look at the holding company cash, it's
+around €750 million. Now, Bart, I remember you mentioned that there is no hurdle on
+what you can use, what you cannot use. But what wouldn't it be fair to say that you would
+still want to hold around a year of dividend around, say, something like that as a buffer
+cash or would you say that this €800 million is all up for – to be used for M&A and share
+buyback. The reason why I'm asking is because if I think about your regular cash flows, I'm
+not sure if you're building up a lot. I mean even if I take an increase €600 million cash, like
+€400 million is going into dividend, €120 million, €130 million is going into the holding
+company cash, and there is always some investment elsewhere. So, if you don't build up
+cash and if you exhaust all your €800 million cash, is that a reasonable thing to do? So any
+thoughts on these two questions would be great. Thank you.
+
+A - Christophe Boizard
+
+{BIO 15390084 <GO>}
+
+Bloomberg Transcript
+
+First question, Aashiq (01:10:23) allow me to not go into the details there, but it is clear.
+And that is the only point I can give that we are only looking at the tangible actions when it
+is clearly an outflow within our €175 million. €175 million is what we target for Solvency II
+internally, but we will not be stressed if PIM for instance is €175 million. It's still 75% above
+the target of the regulator. Now, when can that happen? If you look at the sensitivities, it's
+only specifically related to spread on our major (01:11:01), and that is indeed Portugal and
+Belgium.
+And then you know that if it is triggered by these spread events, of course the recovery
+rate and the PIM also go up, because of the pull-to-par effect. So, we will take all that into
+account. We do as of course like we should have specific action plans for all these type of
+scenarios in place. It's part of our ORSA exercises that we do every year. But this is not
+something that we think is to be shared publicly, but you can understand that it is
+definitely much lower than the €175 million.
+
+Q - Operator
+Yeah. That's clear. So, you said it's much lower – the hurdle on PIM is much lower than €175
+million? Okay. That's good.
+
+A - Bart Karel De Smet
+
+{BIO 16272635 <GO>}
+
+And with respect to the cash flow Aashiq (01:11:46), so maybe knowing that we will have
+this let's say final decision with respect to the put option by the end of June or early July,
+we will be sure about what happens. We have an Investor Day in September. So, I think it
+would be, at that moment, appropriate to give a bit an update on what our view is on the
+cash in General Account.
+Next to that, if you look to what we expect this year, and most of it has been pay
+upstream in the meantime, that we have I think €600 million upstream, which is 100%
+coming from AG, it's 70% payout in Continental Europe and 30% in Asia, also referring to
+my previous answer that we expect next year, the UK can pay out a dividend. So, it means
+Page 24 of 26
+
+
+
+Company N ame: Ageas SA/N V
+Company Ticker: AGS BB Equity
+Date: 2018-05-16
+
+FINAL
+
+that our expectation is that, in the future, the upstream cash will always exceed in normal
+years, the amount we need for the dividend and for the operating costs. So, there will be
+additional cash generation on top of those two elements. And so, whether we want to
+keep sufficient for one-year dividend or for less than that, let's – give me some time and
+let us come back to that in September.
+But at this moment in any case, we are confident to all these elements the potential profit
+we see for the foreseeable future, the capital generation that we see for the future, the
+upstreamable cash from the operating companies, we see no reason to – let's say, to
+hesitate one second about our capability to: one, keep our dividend policy in place; and
+two, try to have a dividend that is stable or when possible increasing like we've been
+doing the past nine years.
+
+Q - Operator
+That's very clear. Can I just have one more follow-up? I mean on your BNP call option, is
+there any debate at the moment with BNP or nothing has started at all?
+
+A - Bart Karel De Smet
+
+{BIO 16272635 <GO>}
+
+Bloomberg Transcript
+
+Well, let's say, we have regular contacts with BNP, of course, many in Belgium from time to
+time with our colleagues in Paris, but it's not that we are in (01:14:14). There is no real
+reason to be in a negotiation mode. It's a binary, yeah, or they exercise, or they do not
+exercise. And as I indicated before, it's fully in their hands, and we are prepared for both
+situations.
+
+Q - Operator
+Yeah. Okay. That's very clear. Thank you.
+
+A - Bart Karel De Smet
+
+{BIO 16272635 <GO>}
+
+Bye.
+
+Operator
+Thank you. We don't have any more questions for the moment. We don't have any more
+questions. Back to you for the conclusion, sir.
+
+A - Bart Karel De Smet
+
+{BIO 16272635 <GO>}
+
+Thank you. Ladies and gentlemen, thanks for your time and your questions. To end this
+call, let me summarize very shortly the main conclusions.
+I believe we can say that we have a very strong start of the year despite weather –
+adverse weather events. There's a high net result driven by solid operating performance
+across all the segments. And thanks to an exceptionally high contribution from China, we
+have a slight decrease in inflows mostly attributable to the impact of the change business
+mix in China, and compensates partly by renewed inflow growth in Belgium and strong
+growth momentum in Continental Europe.
+Page 25 of 26
+
+
+
+Company N ame: Ageas SA/N V
+Company Ticker: AGS BB Equity
+Date: 2018-05-16
+
+FINAL
+
+One last thing, another day to keep in mind next to the expiration of the put option and 13
+July decision of the Court of Amsterdam is that we will have on the 19th of September
+next Investor Day in London, and on that occasion we will update you on our new strategic
+plan for the coming three years following the successful completion of our Ambition 2018
+Plan.
+And with this, I would like to bring this call to an end. Do not hesitate to contact our
+Investor Relations team should you ask any questions. Thanks again for your time, and I
+wish you a very nice day. Goodbye.
+
+Operator
+
+Bloomberg Transcript
+
+Ladies and gentlemen, this concludes today's conference call. Thank you all for attending.
+You may now disconnect your lines.
+
+This transcript may not be 100 percent accurate and may contain misspellings and other
+inaccuracies. This transcript is provided "as is", without express or implied warranties of
+any kind. Bloomberg retains all rights to this transcript and provides it solely for your
+personal, non-commercial use. Bloomberg, its suppliers and third-party agents shall
+have no liability for errors in this transcript or for lost profits, losses, or direct, indirect,
+incidental, consequential, special or punitive damages in connection with the
+furnishing, performance or use of such transcript. Neither the information nor any
+opinion expressed in this transcript constitutes a solicitation of the purchase or sale of
+securities or commodities. Any opinion expressed in the transcript does not necessarily
+reflect the views of Bloomberg LP. © COPYRIGHT 2022, BLOOMBERG LP. All rights
+reserved. Any reproduction, redistribution or retransmission is expressly prohibited.
+
+Page 26 of 26
+
+

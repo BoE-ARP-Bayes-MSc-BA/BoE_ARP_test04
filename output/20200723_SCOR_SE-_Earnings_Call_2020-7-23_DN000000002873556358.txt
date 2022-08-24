@@ -1,0 +1,1283 @@
+Company N ame: SCOR SE
+Company Ticker: SCR FP Equity
+Date: 2020-07-23
+
+S1 2020 Earnings Call
+Company Participants
+FINAL
+
+Denis Kessler, Chairman of the Board of Directors & Chief Executive Officer
+Francois de Varenne , Chief Executive Officer of SCOR Global Investments & SCOR
+Investment Partners
+Frieder Knupling, Group Chief Risk Officer
+Ian Kelly, Head of Investor Relations
+Jean-Paul Conoscente , Chief Executive Officer of SCOR Global P&C
+Mark Kociancic, Chief Financial Officer
+Paolo De Martin, Chief Executive Officer of SCOR Global Life
+
+Other Participants
+Andrew Ritchie , Analyst
+Kamran Hossain, Analyst
+Paris Hadjiantonis , Analyst
+Thomas Fossard, Analyst
+Vikram Gandhi, Analyst
+
+Bloomberg Transcript
+
+Vinit Malhotra, Analyst
+
+Presentation
+Operator
+Good afternoon, ladies and gentlemen, and welcome to the SCOR Group First Half 2020
+Results Conference Call. Today's call is being recorded. There will be an opportunity to
+ask a question after the presentation. In order to give all participants a chance to ask
+questions, we kindly ask you to limit the number of your questions to two.
+At this time, I will now like to hand over to Mr. Ian Kelly, Head of Investor Relations. Please
+go ahead, sir.
+
+Ian Kelly
+
+{BIO 19976646 <GO>}
+
+Good afternoon everybody, and welcome to the SCOR Group 2020 First Half Results Call.
+I trust everybody is keeping well. I'm joined on the call today by Denis Kessler, Chairman
+and CEO of the SCOR Group, and all of the Executive Committee members. Can I please
+ask you to consider the disclaimer on Page 2 of the presentation, which indicates that the
+financial results for the first half 2020 included in the presentation have been subject to
+the completion of a limited review by SCOR's independent auditors. I would also like to
+ask you to note the statement in respect of COVID-19, which indicates that the potential
+Page 1 of 20
+
+
+
+Company N ame: SCOR SE
+Company Ticker: SCR FP Equity
+Date: 2020-07-23
+
+impact of the COVID-19 crisis cannot be accurately assessed at this stage given the
+uncertainty related to the magnitude and duration of the pandemic and the possible
+effects of future governmental actions and/or legal developments.
+
+Bloomberg Transcript
+
+FINAL
+
+With this, I would like to give the floor to Denis Kessler, Chairman and CEO of the SCOR
+Group. Over to you, Denis.
+
+Denis Kessler
+
+{BIO 1498477 <GO>}
+
+Thank you very much. Ian, and welcome everybody. If we move to Slide 4. I think SCOR is
+demonstrating its capacity to absorb the impact of the CVOID-19 crisis both operationally
+and financially. As we entered the pandemic a few months ago and as we told you in the
+first quarter of the year, SCOR has been quite proactive in taking immediate actions to
+help stop the spread of the pandemic. We have been one of the first reinsurance groups
+around the world to say that we had entered a pandemic phase and to warn everyone
+about its consequence. We had adopted early and strict prevention measures proactively
+protect the health of our employees and we've been quite active in regularly sharing our
+knowledge and expertise on the pandemic. I think we are the first reinsurance company to
+decide a full confinement around world before any kind of public decision in this respect
+so it's for me, certainly a proof of capacity to understand what's going on.
+Thanks to the extraordinary resilience of our operational capability, we have been able to
+continuously serve our clients during the crisis. And as we have progressed through the
+active phase of the pandemic, as you can see on the slide, we have applied moderate
+expertise to conduct a thorough several assessment of exposures to the health,
+economic, and financial impact of the COVID-19 pandemic. And the industry, as you know,
+was one of the first if not the first to say it was an historical shock that will have a long and
+very strong impact on the insurance and reinsurance industry, but also to all the industries
+that will definitely last longer than expected at the time. On the life side, we have
+developed a proprietary what we call SEIR model, which is a compartmental and
+epidemiologic model to support the COVID-19 scenario assessment and this model is
+extremely useful to estimate exposures.
+It's proprietary, it has been homemade, it's really operating, and it helped us a lot in
+understanding the consequence of the COVID-19 crisis on life exposures around the
+world especially in the US. On the P&C side, we have developed a model that considers
+the effect of government and Central Bank measures and links them to the impact on
+GDP to estimate the Group credit and surety exposures, certainly what's true in what we
+have seen around the last two or three months. Government decisions are absolutely key
+to understand the spread of the pandemic. When you confine or you enforce the
+decisions you have decided to enforce, when you lift the decisions, and when you
+reinforce the decisions again, it's a key parameter to understand how the disease is going
+to spread and how severe it's going to be and this is true country by country. And that's
+what we have been able today to better assess than a few months ago.
+So, there are three key points I would like to make about how SCOR as a Tier 1 reinsurer
+comes through this pandemic. The first key point to note is that reinsurance is not
+impacted in the same way as most of the businesses. I mean economy (inaudible) and
+Page 2 of 20
+
+
+
+Bloomberg Transcript
+
+FINAL
+
+Company N ame: SCOR SE
+Company Ticker: SCR FP Equity
+Date: 2020-07-23
+
+look at all the other industries and try to understand how the pandemic is going impact
+those industries. And as you have seen and certainly you will see in the future, many
+industries have experienced a sharp decline in sales and cash inflows due to the lockdown
+and confinement measures that contracted supply and demand on a global scale. The
+news flow is strictly coming from the industry not insurance and reinsurance industry, but
+from commercial and general industries by the platform is in fact that the pandemic is
+contracting the sales activity, creating issues all around the value-added chains. So, this is
+not the case for us.
+The topline is stable, it's even slightly up compared to last year. A 1% increase of the
+worldwide premium holds the entire Group at constant exchange rates and we continue
+to collect premiums from our clients and by the way, they pay those premiums and we're
+able to book them. As you know, the premium income for some lines of business such as
+marine, engineering, and airlines isn't based on economic activity, number of passengers
+and so on and so on. But overall, the extraordinary resilience of the Group is
+demonstrated by both the P&C and Life business units continuing to expand in the current
+crisis. The sales go on. Second key point to emphasize is that the P&C market is clearly
+hardening around the world. As a reinsurance business, it is a well-recognized part.
+Today's claims are in most cases tomorrow's premiums. As a Tier 1 reinsurer with a AAcredit rating which has been recently confirmed by Moody's, Standard & Poor's, and Fitch;
+SCOR is in a very strong position to benefit from this improving market environment.
+The third key point as a testimony to SCOR's shock absorbing capacity is that the Group
+showed its equity, which accounts for the total estimated cost of the COVID-19 pandemic
+booked in Q2, a slightly increase since December 31, 2019, end of last year. The net book
+value as a Group stands above EUR34 per share. On the asset side, the unrealized gains
+on SCOR's investment portfolio have grown up since the beginning of the year mostly in
+the fixed income buckets. Where we are impacted as a reinsurer is on the liability side,
+that is why we're here for and so let's take a look at that and move to Slide 5. Let's look at
+each business unit separately. SCOR's global P&C exposure comes mainly from credit,
+surety, and political risk on the one side and from property business interruption on the
+other. The actual CVOID-19 related claims received are limited standing at a total of
+EUR74 million.
+The Group has estimated the ultimate cost of this pandemic at EUR248 million for P&C
+net of retrocession and reinstatement premium and before tax. It is this estimated
+amount, which is mostly composed of IBNR, allowing for the future receipts of claims
+notified that has been fully booked in the Q2 accounts. This represents a 8.2 percentage
+points impact on the year-to-date combined ratio. If we move now on the Life side. The
+actual COVID-19 related claims received as at June 30, 2020 are limited standing at a
+total of EUR63 million. SCOR has estimated its exposure to the pandemic at June 30,
+2020. The Group estimates the impact of the COVID-19 pandemic on its protection grew
+at EUR194 million net of retrocession and before tax. It is this estimated amount, I repeat
+EUR194 million, which allows estimate of debts incurred, but not reported that has been
+fully booked in the Q2 accounts.
+What this means is that based on data currently available, on information received from
+SEDAR to-date, and the reserves that was used; the total estimated cost for the COVIDPage 3 of 20
+
+
+
+FINAL
+
+Company N ame: SCOR SE
+Company Ticker: SCR FP Equity
+Date: 2020-07-23
+
+19 pandemic booked in Q2 2020, which was EUR456 million net of retrocession, net of
+reinstatement premiums, and before tax. As such, COVID-19 pandemic is a fully
+manageable earnings event for the Group. I said it already a few weeks ago, it's an
+earnings event, it's not a capital event. Let's now move to Slide 6 and look at the
+Company's position. Solvency position of the Group on June 30, 2020 is strong at 205%,
+well within the optimal solvency range of 185% to 220% as defined in the last Quantum
+Leap strategic plan. The majority of the fall in this ratio compared to year-end 2019 has in
+fact nothing at all to do with the performance of the business of reinsurance. It is mainly
+down to macroeconomic impacts, principally the reduction of interest rates and in
+particular the US dollar interest rates.
+
+Bloomberg Transcript
+
+These market movements account for approximately two-third of the change in the
+solvency ratio. The two-third allocated or imputed to macro financial and macroeconomic
+developments. Only one-third that you can attribute to SCOR specific development. The
+full estimated COVID-19 impact including claims expected to be incurred in the future
+accounts for 13 points of solvency. This is more than offset by the strong operating
+performance of the Group and so was a minor effect across H1 2020. Capital
+management as shown on the slide accounts for 6 percentage points of movement. It
+reflects the intended call in Q4 of the CHF125 million debt and it also accounts for the
+normal six month accrual of dividend for the 2020 fiscal year. Let's move to Slide 7. In the
+face of the COVID-19 pandemic, SCOR once again demonstrates both its capacity to
+absorb major shocks and the resilience of its business model.
+SCOR has strong potential for sustained long-term value creation in an attractive industry.
+(inaudible) benefits from long-term growth drivers due on the first hand to the expanding
+risk universe as we can sequence permanent growth of the industries raw material. And
+on the other side, there's a progressive bridging of the protection gap in both emerging
+markets and more industrialized countries. Furthermore, we do expect that as a direct
+result of the pandemic, there will be an increase in risk aversion linked to (inaudible)
+driving higher demand for risk covers globally on both the Life side and the P&C side. In
+the P&C market, we see COVID-19 acting as an additional catalyst for the really hardening
+market. The firming up of the market has accelerated since the April renewals across
+many segments with broad improvements in terms of conditions and significant price
+increases including the claims free programs.
+Further, the awareness of the upward trend of claims cost has increased in the market.
+These conditions are perfect for SCOR to benefit from its Q1 figures. The Group can see
+market opportunities through leveraging its global franchise, marketwide expertise, and
+Tier 1 rating; and through gaining operational leverage from its scalable global
+underwriting platform. With this positive outlook I would like to underline and to stress.
+I will now hand over to Mark to take you through the H1 financials, Mark, the floor is yours.
+
+Mark Kociancic
+
+{BIO 17852409 <GO>}
+
+Thank you, Denis, and good afternoon everyone. So, let's go to Slide 9. During the first
+half of 2020, SCOR successfully absorbed the impact of COVID-19 combining this with
+resilient growth and strong solvency. SCOR wrote EUR8.2 billion euros of gross written
+Page 4 of 20
+
+
+
+Bloomberg Transcript
+
+FINAL
+
+Company N ame: SCOR SE
+Company Ticker: SCR FP Equity
+Date: 2020-07-23
+
+premium during the first half representing a 1% increase over H1 2019 at constant
+exchange rates or 2.3% at current exchange rates. The ability of the reinsurance sector
+and SCOR to maintain its topline is a real source of strength for the Group demonstrating
+the resilience of the business model in the current environment. After absorbing the
+COVID-19 impacts, the Group remains profitable and net income stands at EUR26 million,
+which translates into a return of just under 1%. The solvency position of the Group is
+strong and stands at 205% at the end of the half year, in the upper part of the optimal
+range of our solvency scale of 185% to 220%.
+The reduction compared to the 31st of December 2019 is largely driven by market
+movements, as Denis explained, and the 5 points reduction since the Q1 results release
+can be largely explained by accounting for the planned call of the CHF125 million Swiss
+debt in the fourth quarter later this year. And this also includes the normal six months
+accrual for the dividend for fiscal year 2020. Let's look at the business unit indicators in
+more detail. SCOR Global P&C grew strongly at 0.9% at constant exchange rates or 2.1%
+at current exchange rates. The combined ratio stands at 102.3% for the first half
+incorporating the impact of COVID-19 at 8.2 percentage points. The business unit benefits
+from slightly reduced nat cat activity with a cat ratio at 5.1% for the first half of the year and
+an underlying combined ratio at 96% in line with the Quantum Leap assumption.
+SCOR Global Life continues to successfully expand its franchise and delivered a positive
+set of results for the first half of 2020. SCOR Global Life gross written premiums also
+proved resilient to the current circumstances and were up 1% at constant exchange rates
+and up 2.5% at current exchange rates. The Life technical margin is at 5.4% reflecting a
+cost of 4.6%, COVID impact and benefits from portfolio management actions, and a
+strong reserving position. SCOR Global Investments pursues a prudent asset
+management strategy and enjoyed a strong return on invested assets of 2.6% in the first
+half of 2020 benefiting from real estate capital gains. So, let's move on to Slide 10. The
+balance sheet is another source of strength for the Group with shareholders' equity
+standing strong at EUR6.4 billion in the first half of 2020, even slightly up compared with
+the 31st of December 2019 and this is a testament to the ability of the Group to absorb
+the COVID-19 pandemic.
+This results in a strong book value of EUR34.19 per share. Financial leverage is in a solid
+place and stands at 25.9%. Allowing for the debt callable in the fourth quarter of 2020,
+the adjusted financial leverage stands at 24.9%. On Page 11, we can see that SCOR
+generated strong operating cash flows in the first half standing at EUR343 million in Q1
+2020 with good contributions from both business units. Overall, the total liquidity of the
+Group is very strong and stood at EUR2.8 billion at the end of the first half.
+With this, I will hand over to Jean-Paul who will provide further detail on SCOR Global P&C.
+
+Jean-Paul Conoscente
+
+{BIO 20770277 <GO>}
+
+Thank you, Mark. If I take you to Slide 12. As stated previously, this quarter's results have
+been heavily impacted by the cost of COVID-19. We have conducted an in-depth review
+of our exposures to the COVID-19 outbreak and the following government mandated
+orders to flatten the curve of the spread of the virus. Our assessment represents our
+Page 5 of 20
+
+
+
+FINAL
+
+Company N ame: SCOR SE
+Company Ticker: SCR FP Equity
+Date: 2020-07-23
+
+ultimate view of our exposures giving the information currently available both in terms of
+premiums and claims. It should be noted that this is still an ongoing event and that to-date
+little information has been received from our clients. As of the end of Q2, we have
+processed EUR74 million of claims gross of retrocession mostly from affirmative nondamage business interruption reinsurance claims. The COVID-19 ultimate claims impact in
+Q2 is estimated at EUR248 million pretax net of retrocession and premium
+reinstatements. This represents an impact of 8.2 points on the year-to-date net combined
+ratio.
+The main drivers of the claims are credit and surety and property lines of business with
+limited exposure coming from other lines of business. We have also booked the
+anticipated ultimate drop in premium income from economically sensitive lines of
+business including aviation, credit and surety, and engineering. The anticipated premium
+reduction is roughly EUR100 million or roughly 3% of the premium volume for the first half
+of the year. Our half year results -- if we move to Slide 13. Our half year results were also
+impacted by a number of small cat events including several tornadoes in the US and
+hailstorms in New South Wales and Calgary. We also saw an increased frequency of small
+to medium size man-made events.
+
+Bloomberg Transcript
+
+Other market events such as US riots were immaterial to our results. As mentioned by
+Mark, we had a net combined ratio of 102.3% for the first half of the year.
+Normalized of the impact of COVID-19 and of cat, our net combined ratio stands at 96%
+in line with the Quantum Leap assumptions. Our premium volume is increasing year-onyear by roughly 1% at constant rate of exchange, including the impact of COVID-19
+showing the resilience of our portfolio. We move to Slide 14. For the P&C markets, we see
+COVID-19 as an accelerator of the market hardening observed in 2019 and '20. This was
+confirmed in the treaty renewals since April and illustrated once again in the June and July
+renewals. Whilst the market hardening is the most pronounced on property and property
+cat renewals globally, it is also expanding to all lines of business and most geographies. It
+is reflected not only in price increases, but also in changes in terms and conditions. SCOR
+Global P&C is ideally positioned as a global Tier 1 multiline reinsurer to take advantage of
+this market turn as illustrated by 8.2 points of price increases achieved in our June and
+July renewals.
+We achieved double-digit premium growth across segments and geographies where
+profitability improvements were the most strongest. We also continue to review the rest
+of our portfolio adjusting our participations as a function of our view of loss costs versus
+price increases achieved. Our overall treaty premium renewed at the June and July 1st
+renewals increased year-over-year by 1.3% despite a significant projected premium
+decrease year-on-year from lines of business directly affected by COVID-19. If we move
+to Slide 15. We have also continued to seize opportunities in specialty insurance in a
+disciplined way. Specialty insurance remains a strong growth and profit generator for
+Global P&C as illustrated in the first half of the year 2020 results and we grew our
+portfolio year-on-year by 20% in the first half on the back of a total rate change of 22%
+across the different lines of business.
+
+Page 6 of 20
+
+
+
+Company N ame: SCOR SE
+Company Ticker: SCR FP Equity
+Date: 2020-07-23
+
+FINAL
+
+In summary, with the impact of COVID-19 being manageable for SCOR, we are very
+bullish on the P&C prospects for the remainder of 2020 and 2021. We believe the hard
+market will be durable as it is based on a combination of factors that are unlikely to
+dissipate any time soon. And through its global scalable platforms and strong client and
+broker relationships, SCOR Global P&C is ideally positioned to benefit from this durable
+market turn.
+I will now pass the floor to Paolo.
+
+Paolo De Martin
+
+{BIO 15930577 <GO>}
+
+Bloomberg Transcript
+
+Thank you, Jean-Paul. COVID-19 is a tragic event with a dramatic loss of life and livelihood.
+Although we are discussing today the financial impact, we cannot lose sight of the
+traumatic impact it has had and continues to have on individuals and families across the
+world. I would like to stress how the situation is still evolving and all estimates we're
+presenting heavily rely on expert judgment and they are subject to a high degree of
+uncertainty. We view the pandemic as having three phases. An entry phase in the
+pandemic world where the virus takes a foothold in our environment and establishes
+sustained transmission. Intensity of the impact of the virus is most severe during this
+phase due to lack of knowledge and delayed mitigating action. This is followed by an
+active phase where we are cohabiting with the virus. The active phase is a balancing act
+between keeping economic activity open and avoiding moving back into an exponential
+growth of the epidemic.
+All of this while seeking incremental improvements from control measures and medical
+treatment. Our view is that we have now entered the active phase and at this point, we
+estimate we will remain in the active phase for the next 12 months or longer. Our current
+assumption is that once a safe and effective vaccine is made available for wide inoculation
+and large part of the populations will reach immunity, we will gradually accelerate into the
+post-pandemic world and this will represent the exit phase. We consider the entry phase
+to have covered the period going from March to June 2020. In terms of the financial
+impact on the SCOR -- on the portfolio of SCOR Global Life, we expect that the entry
+phase will have the highest relative cost and therefore, we assume a lower burn rate from
+COVID-19 related claims going forward.
+In Q2 2020 we have booked COVID-19 related claims of EUR194 million net of retro and
+pretax. Due to typical claim reporting patterns, limited COVID-19 claims were reported
+during Q2 and most of this amount represent estimates of incurred claims. This impact
+includes EUR182 million of claims incurred in the US with the balance coming from other
+markets. The COVID-19 claims costs impacted negatively the year-to-date technical
+margin by 4.6 percentage points. Our overall technical profitability benefited from active
+portfolio management and strong reserving position leading to a year-to-date net
+technical margin for the first six months of 5.4%. This result demonstrates the resilience of
+the SCOR Global Life business. Moving on to Page 17 of the presentation, few words on
+the US COVID-19 related claims.
+The estimated impact of COVID-19 related debt on our US book reflects strong
+differences between the general US population and our reinsured portfolio and
+Page 7 of 20
+
+
+
+FINAL
+
+Company N ame: SCOR SE
+Company Ticker: SCR FP Equity
+Date: 2020-07-23
+
+particularly this is driven by the upfront medical underwriting, higher socioeconomic
+classes which we believe is particularly relevant during this pandemic environment, and
+the lower portion of older lives in our portfolio. The provision recorded in Q2 heavily relies
+on expert judgment. Just to remind all on the call, the reporting of each month of that
+takes an average of six calendar months to fully complete. So by the end of Q4 2020, we
+will have a clearer view on the claims incurred during the entry phase. Moving on to Page
+18 of the presentation, we would like to share our thoughts on how we look at the time
+ahead of us. Overall, while significant uncertainty remains and the situation is evolving
+particularly in the US, we believe that the impact of the active phase on our Life portfolio
+will be manageable.
+We're currently projecting that our technical margin will land at between 5.2% to 5.4% for
+the full-year 2020, which means that the business will still generate over EUR400 million
+of pre-tax technical profitability for the year. As mentioned at the beginning of my speech,
+significant uncertainty remains and we are following the situation very closely with a large
+focus on epidemiological research. Before I close my section, few words on the business.
+We have continued to support our clients globally throughout this challenging time. While
+activity has been impacted by the pandemic and the lockdowns, we expect our premiums
+to remain stable at 2019 level for the full-year 2020. I will leave more details on our views
+and the evolving COVID-19 pandemic for today to the Q&A and we will update you on our
+evolving thinking in September at Investor Day.
+I will now hand it over to Francois for details on our Investment performance.
+
+Bloomberg Transcript
+
+Francois de Varenne
+
+{BIO 7447858 <GO>}
+
+Thank you, Paolo. Moving on to the Investment portfolio. The asset allocation reflects the
+current environment and our cautious positioning. Liquidity stands temporarily at 13% of
+invested assets, up from 6% at the end of '19 and 11% at the end of the previous quarter.
+The share of corporate bonds is stable compared to last quarter at 41%, our lowest level
+since 2017. And the fixed income portfolio remains of very high quality with a stable
+average rating of A+, a duration of 3.1 year, and highly liquid with financial cash flows over
+the next 24 months reaching EUR8.7 billion expecting to emerge from the Investment
+portfolio. Our return on invested assets stand at 2.6% since the beginning of the year. It
+benefits from real estate capital gains of EUR48 million coming from the disposal of a
+building at very good conditions in the first quarter of 2020 just before the COVID-19
+outbreak.
+Additional capital gain we are generating out of the fixed income portfolio and loans
+portfolio for a total EUR14 [ph] million. This relates to risk mitigation actions that we have
+voluntarily undertaken since the beginning of the year. Our theoretical reinvestment yield
+excluding future capital gains stand at 1.5% at the end of June and reflects the lower
+interest rate environment notably in the US as well as the normalization of credit markets.
+Moving on to Page 20. I first would like to highlight that SCOR invested assets portfolio
+has demonstrated its resilience and shock absorbing capacity thanks to a moderate risk
+appetite for investment risk, the risking action undertaken since 2019, and also the
+integration of sustainability into our investment process. As indicated last quarter, our
+
+Page 8 of 20
+
+
+
+Company N ame: SCOR SE
+Company Ticker: SCR FP Equity
+Date: 2020-07-23
+
+FINAL
+
+portfolio has a limited exposure to sectors directly affected by the current crisis and a very
+limited exposure to equities.
+It is well positioned to face a further deterioration of economic and financial condition. In
+particular, the emergence of a credit crisis should be manageable both in terms of
+potential future impairments and in terms of credit transition risk. Faced with the
+pandemic outbreak, we have decided in March 2020 to voluntarily freeze our investment
+activity and to build up liquidity in order to savor the value of our assets. In a less volatile
+environment, we have decided to resume our investment activity in June. We are coming
+back to credit markets, but this will be done very progressively and cautiously while strictly
+sticking to our risk management.
+With this, I will hand it over to Ian Kelly for the conclusion of the presentation.
+
+Ian Kelly
+
+{BIO 19976646 <GO>}
+
+Thank you very much. Francois. On Page 21, you will find the forthcoming scheduled events
+starting with our Investor Day to be held on September the 9th. This will be a virtual event
+and we will send further details on this soon.
+With that, we can now move to the Q&A session. And can I remind you to please limit
+yourself to two questions each. Thank you.
+
+Bloomberg Transcript
+
+Questions And Answers
+Operator
+(Operator Instructions) Our first question is coming from Kamran Hossain from RBC.
+Please go ahead, your line is open.
+
+Q - Kamran Hossain
+
+{BIO 17666412 <GO>}
+
+Hi. Thanks for taking my questions. The first one is just around the capital position and
+dividends. From the way I understand it, you accrue two quarters of dividend in there.
+Obviously launches wasn't paid, but you have the potential to do it. What's the thinking
+around catch-up and then I guess in your solvency position, have you assumed any catchup or kind of -- from last year? So, that's the first question. I appreciate you might not be
+able to answer that fully. And the second question is just thinking about 1/1, it kind of sits
+on the things, I think it should be positive, but Europe has been relatively soft or difficult to
+kind of see rate improvement in the last few years. What does that take? So, is this the
+kind of BI impacts in Europe or just any thoughts around that on why kind of the wider
+global reinsurance market should move at 1/1? Thank you.
+
+A - Ian Kelly
+
+{BIO 19976646 <GO>}
+
+Maybe Mark, you can pick up on capital and dividend view first of all.
+
+Page 9 of 20
+
+
+
+Company N ame: SCOR SE
+Company Ticker: SCR FP Equity
+Date: 2020-07-23
+
+FINAL
+
+A - Mark Kociancic
+
+{BIO 17852409 <GO>}
+
+Yes, sure. Hi, Kamran. So, what I would reference you to Slide 6 of the investor pack that
+might help the discussion. So, we've tried to be very clear on this slide with capital
+management not to mention the COVID impact, operating performance, and
+macroeconomic impacts on solvency. So with respect to dividends, you've seen the ACPR
+come out and essentially forbid dividends in 2019. So, what we've done is we've added
+back the 2019 fiscal year dividend and that represents approximately 7 percentage points
+of solvency. You'll recall I think in the last meeting, I referenced the fact that you can only
+declare a dividend for 2019 through September 30th of the following year. So September
+30, 2020 and thereafter, it can be done; but it would have to be done as a special
+dividend or something else.
+So for 2019, we don't see a dividend -- sorry, for 2020, we don't see a dividend being
+declared and paid this year given what's transpired from a regulatory framework. We have
+taken the normal step of accruing our quarterly dividend -- regular dividend in the
+solvency slide for fiscal year 2020 and I think what will happen is we will review the capital
+position of the Group in February like we normally do and apply our capital management
+policy which is unchanged to determine what the level of dividend will be in 2021. And I
+would remind you that that's a Board decision that will take place. I will also point out that
+we do have a strong FTP capital position. I think the solvency position even at 205% is in a
+good spot for us. So, I think there are positives as well that we bring from a capital
+perspective.
+
+Q - Kamran Hossain
+
+{BIO 17666412 <GO>}
+
+Bloomberg Transcript
+
+Thanks, Mark.
+
+A - Ian Kelly
+
+{BIO 19976646 <GO>}
+
+Thank you, Mark. Jean-Paul, if you could pick up on the 1/1 renewals and in particular the
+European context.
+
+A - Jean-Paul Conoscente
+
+{BIO 20770277 <GO>}
+
+Thank you, Ian. I think the comment on Europe has been fair. When we look at the 1/1
+renewal 2020 in Europe, the rate increases we saw were more moderate but they were
+still positive probably more in the 2% to 3% in Europe. If we take the July renewal, which is
+of course a much smaller renewal for Europe than July 1st, we see significant differences.
+Overall, the European renewal in July saw price increases of more than 6% and if we
+focus on non-proportional treaty, which represents the bulk of the treaty business we
+have in Europe, we saw a rate -- reinsurance rate movements of plus almost 11%. So, we
+think that the -- it's not just the expected claims coming from non-damage BI in Europe
+that's driving this. It's also the -- just the overall environment. And we believe that the
+June, July renewals is a good illustration of what we can expect at January 1st, 2021. So,
+the rest of the markets (multiple speaker) we saw very strong movements in the US and
+July 1st is mainly an Asia renewal and Australia where we saw also strong price
+movements.
+
+Q - Kamran Hossain
+
+{BIO 17666412 <GO>}
+Page 10 of 20
+
+
+
+Company N ame: SCOR SE
+Company Ticker: SCR FP Equity
+Date: 2020-07-23
+
+Okay. It sounds very encouraging. Thanks very much.
+
+A - Ian Kelly
+
+{BIO 19976646 <GO>}
+
+FINAL
+
+Thanks, Kamran. The next question, please.
+
+Operator
+Our next question is coming from Andrew Ritchie from Autonomous. Please go ahead,
+your line is open.
+
+Q - Andrew Ritchie
+
+{BIO 18731996 <GO>}
+
+Bloomberg Transcript
+
+Hi there. Thanks a lot for the additional detail you've talked about on Life today. I wonder
+if it -- Paolo and maybe Mark, could you just talk a bit more around Slide 18. I'm trying to
+understand -- I think what you're trying to illustrate is that you've taken an IFRS hit, you've
+disclosed and talked about that. But then you talk about the Solvency II impact which -where you've assumed a further hit than what's in IFRS I think, it's like you're receiving an
+additional 125,000. What was the kind of reasoning behind it or how have you come up
+with? Why is there a difference? Is this because in Solvency II you can sort of reflect future
+expected profit or lack of profits? Just maybe a bit of color around that would be very
+useful. I think it's a very important slide. The second question, year-to-date rate -- renewal
+rate increase on the P&C side I think is 4%. Maybe could you just help us translate what
+that would mean in terms of margin? I take it, it will take time to be earned, I understand
+that; but just on the discrete accident year. Is all that rate is going to be margin or what
+should be the kind of loss cost offset?
+
+A - Ian Kelly
+
+{BIO 19976646 <GO>}
+
+Okay. So on the first part on the Solvency II impact, Paolo.
+
+A - Paolo De Martin
+
+{BIO 15930577 <GO>}
+
+Yes. Hi Andrew. In our IFRS accounts incurred our key accounting event so in each
+reporting period, we estimate the amount of debt incurred in that specific reporting
+period and our estimate usually relies on reported claims, past experience, and expert
+judgment. And as you well know, Andrew, our IFRS accounts following the current
+accounting rules under IFRS 4 do not reflect the full value of future cash flows coming
+from our Life portfolio and these cash flows in our accounting processes create a strong
+level of prudence in our liability adequacy testing for our reserves. Under Solvency II, the
+full estimated value of our future cash flow is considering our solvency ratio and therefore
+when accounting for COVID-19 claims impact, we need to include the forward-looking
+provision.
+So, the way we came up with that provision. We have a relatively comprehensive scenario
+planning right now that roll forward for 12 months. That scenario based planning is based
+on level of infection rates and level of fatality rate for the virus and then we apply a
+probability weighted on the scenarios. When we looked at that, we come up with 175,000
+deaths for the next 12 months. As a good rule, about two-third that we expect to happen
+in 2020 and one-third of those in 2021. We expect the infection in terms of death toll at
+Page 11 of 20
+
+
+
+Company N ame: SCOR SE
+Company Ticker: SCR FP Equity
+Date: 2020-07-23
+
+this point according to our scenario planning and our research to reduce as we approach
+mid-year 2021. We will present more details about this at the Investor Day where we can
+update you on the Q3 and we'll give you an update on the 12-month roll forward as well.
+(multiple speakers)
+
+FINAL
+
+Q - Andrew Ritchie
+
+{BIO 18731996 <GO>}
+
+Yes. So, I think that in practical terms that means that the Solvency II position of the Life
+business is kind of depressed or at least what would happen is you will generate capital in
+the Life business. To the extent that capital is depressed by COVID claims, those COVID
+claims have already been up to the point you've reflected -- already being reflected?
+
+A - Paolo De Martin
+
+{BIO 15930577 <GO>}
+
+Exactly. Under Solvency II, we have gone to ultimate effectively.
+
+Q - Andrew Ritchie
+
+{BIO 18731996 <GO>}
+
+Got it. Okay. That's very clear. Thank you.
+
+A - Paolo De Martin
+
+{BIO 15930577 <GO>}
+
+Ultimate of claims not incurred yet so it is subject to a very high level of uncertainty.
+
+Q - Andrew Ritchie
+
+{BIO 18731996 <GO>}
+
+Bloomberg Transcript
+
+Yes, I got it.
+
+A - Ian Kelly
+
+{BIO 19976646 <GO>}
+
+Okay. Thanks. And then, Jean-Paul, on the year-to-date rates experienced in the renewals.
+
+A - Jean-Paul Conoscente
+
+{BIO 20770277 <GO>}
+
+Yes. So the year-to-date as you stated, we saw roughly 3 points of price improvement in - at January 1st, roughly 5 points at April, and now a little bit more than 8 points in June,
+July with an average of 4 points for the first half. We think this translates into an
+improvement in margin between 1 point to 1.5 points and this should be -- start to be
+reflected in our accounts as we earn premium over the next two quarters.
+
+Q - Andrew Ritchie
+
+{BIO 18731996 <GO>}
+
+Great. Thank you.
+
+A - Ian Kelly
+
+{BIO 19976646 <GO>}
+
+Thanks very much, Andrew. We'll go to the next question.
+
+Operator
+
+Page 12 of 20
+
+
+
+Company N ame: SCOR SE
+Company Ticker: SCR FP Equity
+Date: 2020-07-23
+
+Our next question is coming from Vikram Gandhi from Societe Generale. Please go
+ahead.
+
+FINAL
+
+Q - Vikram Gandhi
+
+{BIO 18019785 <GO>}
+
+Hi. I hope you can hear me alright. Vikram, SocGen. I've got two questions. Firstly, can you
+please confirm if the 13 percentage point COVID-19 impact in Solvency II ratio includes
+exactly the same figure as in IFRS for P&C claims, that's the EUR248 million number? The
+reason I'm asking this is I can't reconcile the 13 percentage point with the EUR392 million
+on the Life side that's included in the Solvency II so presumably there's some degree of
+variance on the P&C side. That's question one. Secondly, can you also comment on what
+benefits, if any, you are assuming from the Group's longevity exposure against your
+mortality claims? Thank you.
+
+A - Ian Kelly
+
+{BIO 19976646 <GO>}
+
+Thanks, Vik. So Frieder, if you can pick up on the Solvency II impacts.
+
+A - Frieder Knupling
+
+{BIO 17247809 <GO>}
+
+Bloomberg Transcript
+
+So hi, everybody. The 13 point -- percentage points estimate includes all the claims
+estimates for Life and P&C up to the ultimates which we have discussed earlier. It also
+includes a few secondary effects, some SCR movement, slight increases, and some tax
+effect. So, that's why you probably can't reconcile them fully. But we will come back to this
+at the Investor Day when we are hopefully able to update the estimates and then maybe
+we can help with that reconciliation.
+
+A - Ian Kelly
+
+{BIO 19976646 <GO>}
+
+Thanks, Frieder. And Paolo, if you can pick up the longevity offset.
+
+A - Paolo De Martin
+
+{BIO 15930577 <GO>}
+
+Yes. Hi Vikram. We expect the longevity to give us a good edge economically, particularly
+against our UK mortality book. On IFRS, given the way the longevity business earns, we're
+not seeing much of a benefit on IFRS 4, but we're seeing a good benefit from an
+economic perspective.
+
+Q - Vikram Gandhi
+
+{BIO 18019785 <GO>}
+
+So, is that impact already reflected in the Solvency II ratio economic effect?
+
+A - Paolo De Martin
+
+{BIO 15930577 <GO>}
+
+That economic effect currently is not reflected in the Solvency II ratio, but we would
+expect that to be offset by claims coming from our UK mortality portfolio, which are also
+not reflected in the Solvency II number. So, they offset each other. So, you wouldn't see a
+big upside coming from that.
+
+Q - Vikram Gandhi
+
+{BIO 18019785 <GO>}
+
+Page 13 of 20
+
+
+
+Company N ame: SCOR SE
+Company Ticker: SCR FP Equity
+Date: 2020-07-23
+
+Okay. Thank you.
+
+A - Ian Kelly
+
+{BIO 19976646 <GO>}
+
+FINAL
+
+Thanks very much, Vik. The next question please.
+
+Operator
+Our next question is coming from Vinit Malhotra from Mediobanca. Please go ahead, your
+line is open.
+
+Q - Vinit Malhotra
+
+{BIO 16184491 <GO>}
+
+Bloomberg Transcript
+
+Yes. Good afternoon, everybody. So, my two questions. The first one would just be on the
+P&C growth, which I appreciate you're quite pleased with. But I would just -- I mean if you
+look at the US for example when I see the 1% growth in the US, just a bit curious as to
+what lines are you holding back in. And I know from speaking to the IR team today that
+there was a quota share or some quota shares that you didn't participate. But then if
+there's any more commentary around where you're holding back in casualty or whatever
+you'd like to comment. So -- and second thing is just on the asset re-risking. So the 1.5%
+reinvestment yield on Slide 19, is that assuming that some of the re-risking is already in
+place or would you say that there were other measures you would take to kind of
+increase that? And also one comment I would -- when I see the 2Q versus 1Q pie chart,
+liquidity only 2% move; but listening to you on the call in the 1Q, it felt like there was quite
+a bit of a change on how much cash is being held. So, I'm just curious on where you are on
+the re-risking and how to look at this needle going forward. Thank you.
+
+A - Ian Kelly
+
+{BIO 19976646 <GO>}
+
+Thanks, Vinit. So Jean-Paul, first of all on the P&C US growth.
+
+A - Jean-Paul Conoscente
+
+{BIO 20770277 <GO>}
+
+Yes. Thank you, Ian. So, you're right that June and July we -- our overall US book has
+shown a slight decrease. It's driven by two factors. First, it's the area of this renewal. We
+have some significant renewals in credit and surety as well as in auto. We have one -especially one treaty on auto that is around the mobility business and both of those lines
+of business were heavily impacted in terms of the projections -- or ceding to our
+projections in 2020 year-on-year is a significant drop. So, that element on its own
+represents roughly 4 points of overall premium year-on-year for all Global P&C. The
+second portion is the continued re-underwriting of the -- of our portfolio especially on
+casualty. We remain very attentive to the increase of loss costs from social inflation and
+other factors, including the potential impact of COVID-19. And so even if price increases
+are sizable, sometimes they don't offset in our view the increase of loss cost. And so if
+that's the case, then we take actions on managing our shares on those treaties. So, what
+you see on the US book is a combination of both. But what we also outlined is you see a
+strong growth on the property side where we believe the price increases are positive and
+above the loss cost and there on the cat for example, we grew our book by double-digits
+on US cat.
+
+Page 14 of 20
+
+
+
+Company N ame: SCOR SE
+Company Ticker: SCR FP Equity
+Date: 2020-07-23
+
+Q - Vinit Malhotra
+
+{BIO 16184491 <GO>}
+
+Okay. Thank you.
+
+A - Ian Kelly
+
+{BIO 19976646 <GO>}
+
+FINAL
+
+Thank you, Vinit. Let's take the next question, please.
+
+A - Francois de Varenne
+
+{BIO 7447858 <GO>}
+
+No. Maybe -- yes, maybe.
+
+A - Ian Kelly
+
+{BIO 19976646 <GO>}
+
+I'm sorry.
+
+A - Francois de Varenne
+
+{BIO 7447858 <GO>}
+
+To the question on, Ian...
+
+A - Ian Kelly
+
+{BIO 19976646 <GO>}
+
+Apologies, Francois. Go ahead.
+
+Bloomberg Transcript
+
+A - Francois de Varenne
+
+{BIO 7447858 <GO>}
+
+Yes. Two points. So, the first one on the reinvestment rate. Again I insist on the definition
+of -- that we use for many years now on the definition of the reinvestment rate. That's the
+theoretical reinvestment rate at which we should deploy EUR1 or $1 in the portfolio with
+the same allocation -- asset allocation at the end of the quarter. So in practice, that's the
+market yield of the portfolio. So, if we deploy to the -- at the end of June $1 or EUR1 in the
+portfolio again with the same asset allocation which mean in practice with the same
+amount of liquidity, this euro will generate on an average 1.5%. So, that's not linked to the
+historical reinvestment rate during the quarter and we have been consistent with this
+definition over the last few years. So, your second question is where we are reinvesting
+and what is the amount of liquidity accumulated over the last few quarters.
+So, again we have deliberately decided to put our investment activity on hold since the
+beginning of March and we have kept all financial cash flows emerging from the
+investment portfolio in cash in practice between early March and mid-June. So further to
+this decision that was explained to protect and to safeguard the value of our investment
+portfolio during the peak of the volatility on the market, our liquidity exposure stands at
+13% at the end of Q1 compared with 11% at the end of -- stand at 13%, sorry, at the end of
+Q2 compared to 11% at the end of Q1 since again we have accumulated cash between
+March and June and this amount was 6% at the end of December last year. So as I
+mentioned it, we have decided to resume our investment strategy in June. This will be
+done very cautiously and progressively during the second half of 2020 of course market
+condition allowing.
+So hence, our investment activity in Q2 was almost immaterial. So, where are we are
+reinvesting today? With less volatile financial market and after the freeze of the
+Page 15 of 20
+
+
+
+FINAL
+
+Company N ame: SCOR SE
+Company Ticker: SCR FP Equity
+Date: 2020-07-23
+
+reinvestment activity between March and June, we have decided to launch a investment
+program market condition allowing that will aim at cautiously and progressively increase of
+corporate bond exposure. The current level is 41%. We target by the end of Q3 or Q4,
+again depending on market condition, to come back to a level of 45%. So, this program
+focuses mostly on increasing the recurring financial contribution of the invested asset
+portfolio and we will avoid the riskier sectors; namely energy, automotive, hotel, and
+leisure; and we are targeting mostly primary issuances to capture if possible additional
+premium on the market.
+
+Q - Vinit Malhotra
+
+{BIO 16184491 <GO>}
+
+Okay. Thank you.
+
+A - Ian Kelly
+
+{BIO 19976646 <GO>}
+
+Thank you very much. We can go to the next question now. Thanks.
+
+Operator
+The next question is coming from Paris Hadjiantonis from Exane Paribas. Please go ahead.
+
+Bloomberg Transcript
+
+Q - Paris Hadjiantonis
+
+{BIO 19703051 <GO>}
+
+Yes. Hi everyone from my side as well. I hope you're doing well. I'm looking at Slide 16 so I
+guess it's a question for Paolo. When I look at the technical margin for the first half and I
+normalized for the COVID impact, that is at a very, very high level of about 10%. I assume
+there's probably some release of prudence, but if you can give us some more clarity,
+Paolo, of why the underlying looks pretty good in the first half of the year. The second
+question relates to your contingent capital facility of EUR300 million that you have with JP
+Morgan. One of the triggers of that is the ultimate net claims amount for Life Insurance.
+So, I was wondering if you can give us some more color of where we stand versus the
+trigger point right now, I think you have to see two consecutive six month periods of
+elevated claims. But any kind of clarity on that front will be certainly useful. And also if you
+can remind us how exactly it works, whether it's in different tranches, et cetera. Thank you.
+
+A - Ian Kelly
+
+{BIO 19976646 <GO>}
+
+So Paolo, first of all on the technical margin.
+
+A - Paolo De Martin
+
+{BIO 15930577 <GO>}
+
+Yes. Very good. On the technical margin, I'd like to remember that we have a large book
+of business and we've been -- over the years been very active in managing our in-force
+and this has given us over time some margin of flexibility in managing shocks and this has
+been very helpful in the situation and will offer us some further flexibility going forward. In
+addition, as you said, we are benefiting from a strong reserving position built throughout
+the years. And I have to say that all these factors are considered also on the projections
+that we gave you on the full-year 2020. In terms of the contingent capital, we're not far
+away from triggering the contingent capital. We're going to give a thorough update on all
+
+Page 16 of 20
+
+
+
+Company N ame: SCOR SE
+Company Ticker: SCR FP Equity
+Date: 2020-07-23
+
+our field capital as we go to Investor Day. So if you wait till Investor Day, we'll give a good
+update there.
+
+Q - Paris Hadjiantonis
+
+{BIO 19703051 <GO>}
+
+FINAL
+
+Sorry, Paolo. I didn't get you said you are far away or not far away.
+
+A - Paolo De Martin
+
+{BIO 15930577 <GO>}
+
+Yes, we are far away.
+
+Q - Paris Hadjiantonis
+
+{BIO 19703051 <GO>}
+
+Okay.
+
+A - Paolo De Martin
+
+{BIO 15930577 <GO>}
+
+Yes. We are far away from triggering it, yes.
+
+Q - Paris Hadjiantonis
+
+{BIO 19703051 <GO>}
+
+Clear. Thank you.
+
+A - Ian Kelly
+
+{BIO 19976646 <GO>}
+
+Bloomberg Transcript
+
+Thanks very much. Paris. And I think we can take the next question.
+
+Operator
+Certainly. Our next question is coming from Thomas Fossard from HSBC. Please go
+ahead, your line is open.
+
+Q - Thomas Fossard
+
+{BIO 1941215 <GO>}
+
+Yes. Good afternoon. Just two questions. The first one would be on the Life side, just to
+better understand. I think that remembering the initial discussion we had on the Life book
+at the start of the year, I think that you clearly mentioned that there were huge -- kind of a
+huge or significant symmetry between the profile of the people dying from COVID-19 and
+your insured book. And as long as the mortality was pretty strong in Europe, I would say
+that this kind of symmetry was working pretty well. But it seems to be that we see the
+virus going into the US, this symmetry maybe less perfect or it seems to be that -- I mean
+to be fair, the amount of losses -- mortality losses you're reporting today on the US and
+maybe also on the next 12 months is potentially somewhat of a surprise in terms of
+magnitude of the losses. So, I was wondering if you could help us to better understand
+why this is the case and why this is the case and why we've got such a number.
+And also a small add-on is on your scenario of additional 175 million -- sorry 175,000
+deaths. Why would it be I would say it kind of linear -- (inaudible) in linear in terms of claims
+estimates. It's a kind of doubling of the losses, would have expected it to be I would say
+more impactful for your earnings as long as -- as soon as the number of deaths on a
+Page 17 of 20
+
+
+
+FINAL
+
+Company N ame: SCOR SE
+Company Ticker: SCR FP Equity
+Date: 2020-07-23
+
+cumulative basis would increase to higher level. And the second question will be related
+to the P&C segment. You're currently trading with a significant discount to book and there
+is a view in the market that SCOR has less leeway, less gearing to improving market
+conditions and this is where you're trading with a discount. Can you reassure that at this
+point in time you've got the full capacity to take the advantage of improving market
+conditions with your -- with currently your financial mean and that there is no need or no
+intention to come to the market to raise money to put additional capital at work? Thank
+you.
+
+A - Ian Kelly
+
+{BIO 19976646 <GO>}
+
+So first of all, Paolo, for you on the Life side.
+
+A - Paolo De Martin
+
+{BIO 15930577 <GO>}
+
+Bloomberg Transcript
+
+Yes, Thomas. No, the symmetry is still very -- I mean there is still a very strong difference
+between general population and insured population. The only reason why you're seeing
+more claims in the US compared to Europe where we had very little impact is one,
+Europe, our book is very focused on younger ages and very connected to credit as well.
+And we're not seeing losses coming through, their face amounts are much smaller. The
+US is just that we have a much larger book that we have in Europe. If you recall all the
+Investor Days, I think you can recognize that we had about -- we had a number about 15
+million in terms of the people that we ultimately reinsure in our portfolio. If you take an
+overall US population of 327 million, that gives you like roughly around 4.5%. So, it is the
+size that makes the claims maybe larger as you see them.
+We still believe there is a very strong difference between the general population and the
+insured population driven, as I said, by the upfront medical underwriting, by
+socioeconomics which play extremely strongly in this pandemic. If you just take the
+significant amount of death that in the US that happen in retirement homes where most
+of the people are actually been officially on Medicaid and those people are largely not
+likely to are -- to be in possession of a life insurance policy. And the third point is our book
+is much younger than the general population in the US. Just give you a sense, the general
+population is about 13 million of people over 8 years older so that's about 4% I guess and
+in our case, about 1.5% of our book is above -- is over 8 years old. So, we still see a very
+large difference between the two books. And Thomas, could you repeat your second
+question? I don't think I fully understood it. You had two questions on the Life. The second
+question wasn't very clear. Hello.
+
+A - Ian Kelly
+
+{BIO 19976646 <GO>}
+
+I think your line is till muted, Thomas.
+
+Operator
+Mr. Fossard, your line is open.
+
+Q - Thomas Fossard
+
+{BIO 1941215 <GO>}
+
+Page 18 of 20
+
+
+
+Company N ame: SCOR SE
+Company Ticker: SCR FP Equity
+Date: 2020-07-23
+
+FINAL
+
+Sorry I'm back. I was -- the second question was on the first 163,000 deaths, you incurred
+roughly EUR200 million and for an additional 175,000, you're going to incur another
+EUR200 million. So, it seems that there is a kind of perfect linearity in terms of claims
+impact as a proportion of the total number of deaths. And potentially I would have
+expected at some stage maybe I would say the losses to be more important just because
+you could have some kind of excess of loss contracts starting to kick in or something like
+that. It seems to be very linear or...
+
+A - Paolo De Martin
+
+{BIO 15930577 <GO>}
+
+Yes, it is linear. Keep in mind that we don't have in this case the structures that you might
+imagine in a P&C book. We cover per life amounts to our clients. There is a difference
+between as and insured portfolios because we -- our clients retain a certain amount per
+life and we have very little first loss business and we see almost our entire lives at excess
+8 million. So we have an 8 million retention that we apply, but we don't have accumulation
+on excess of loss structures. It is a per life and is relatively linear. So, roughly you have
+about EUR10 million, EUR11 million per 10,000 deaths at this point. That average may
+change significantly as the geography of the epidemic changes and our portfolio is now
+evenly distributed through the States. But as a rule of thumb for the moment given all the
+uncertainty we have, that provides you a decent rule of thumb.
+
+Q - Thomas Fossard
+
+{BIO 1941215 <GO>}
+
+Okay. Thank you, Paolo.
+
+Bloomberg Transcript
+
+A - Ian Kelly
+
+{BIO 19976646 <GO>}
+
+Thanks. Paolo. And then finally, Mark, if you can pick up on the Group capacity.
+
+A - Mark Kociancic
+
+{BIO 17852409 <GO>}
+
+Yes. Thanks, Thomas. So, let me just make a few points here and perhaps Jean-Paul can
+finish the commentary for the question. So to start with capacity, I think it's important to
+establish the fact that we do have a very scalable platform in P&C. So there's nothing
+internally that needs to be built; structurally referrals, underwriters, et cetera, pricing
+actuaries, to increase volume substantially if we wanted to. We have prepared over the
+years for this type of moment. So, I think the structure is there. In terms of the capacity so
+like I said before, we do come into 2020 with a strong S&P capital position. We also think
+the solvency position is relatively strong. I don't see any kind of equity raise in 2020. It -I'm not sure it makes sense given where we are with the pricing anyways. There could be
+potentially a limited debt issuance, small; but that could be something that supports
+additional organic growth particularly in a P&C hard market. I think you'll see us
+emphasizing our message going forward of how we take the opportunities provided by
+the COVID crisis during our IR Day in September. So, there could be some hybrid issuance
+limited to facilitate additional capital for a larger expansion, but otherwise I think we're
+pretty much set.
+
+A - Jean-Paul Conoscente
+
+{BIO 20770277 <GO>}
+
+And just to complete what Mark said, we have already at the June, July renewals taken
+the opportunity when we thought the business was attractive to increase our shares. And
+Page 19 of 20
+
+
+
+Company N ame: SCOR SE
+Company Ticker: SCR FP Equity
+Date: 2020-07-23
+
+as we look for plan 2021, we'll have the same approach so push for larger shares on
+business that we think is providing value to the Company and where we think the -- again
+the price increases outpaces the loss cost increases.
+
+Q - Thomas Fossard
+
+{BIO 1941215 <GO>}
+
+FINAL
+
+Okay. Thank you.
+
+A - Ian Kelly
+
+{BIO 19976646 <GO>}
+
+Thank you very much. Thomas. That was the final question so we'll close the Q&A there.
+I'd just like to say thank you very much to everybody for attending this conference call.
+And as usual, the IR team's on hand to pick up on any further questions you may have. So,
+please don't hesitate to give us a call should you require any further information. So with
+that, keep well and I would like to wish you all a good day.
+
+Operator
+
+Bloomberg Transcript
+
+This does conclude today's call. Thank you for your participation. Ladies and gentlemen,
+you may now disconnect.
+
+This transcript may not be 100 percent accurate and may contain misspellings and other
+inaccuracies. This transcript is provided "as is", without express or implied warranties of
+any kind. Bloomberg retains all rights to this transcript and provides it solely for your
+personal, non-commercial use. Bloomberg, its suppliers and third-party agents shall
+have no liability for errors in this transcript or for lost profits, losses, or direct, indirect,
+incidental, consequential, special or punitive damages in connection with the
+furnishing, performance or use of such transcript. Neither the information nor any
+opinion expressed in this transcript constitutes a solicitation of the purchase or sale of
+securities or commodities. Any opinion expressed in the transcript does not necessarily
+reflect the views of Bloomberg LP. © COPYRIGHT 2022, BLOOMBERG LP. All rights
+reserved. Any reproduction, redistribution or retransmission is expressly prohibited.
+
+Page 20 of 20
+
+

@@ -1,0 +1,903 @@
+Company N ame: M S&AD I nsurance Group H oldings I nc
+Company Ticker: 8725 JP Equity
+Date: 2017-09-12
+
+Investor Day
+Company Participants
+FINAL
+
+Naomi Ito, Limited Managing Executive Officer
+Shiro Fujii, Group CFO, Director, EVP, Head-IR & IT Planning
+Tetsuji Higuchi, Limited Director & Managing Executive Officer
+
+Other Participants
+Hideyasu Ban, Analyst
+Kazuki Watanabe , Analyst
+Koichi Niwa, Analyst
+Koki Sato, Analyst
+Natsumu Tsujino, Analyst
+Takehito Yamanaka, Analyst
+
+MANAGEMENT DISCUSSION SECTION
+
+Bloomberg Transcript
+
+Tetsuji Higuchi
+
+{BIO 20243541 <GO>}
+
+I am Higuchi with Mitsui Sumitomo Insurance. I thank you very much for this opportunity.
+Without further ado, I would like to describe Mitsui Sumitomo Insurance company's ICT
+strategy and its initiatives. First of all, I would like to share with you our overall vision. As
+you can see on the bottom-left hand side of the slide, ICT technology such as IoT and AI
+are advancing very rapidly, and I'm sure you're all familiar with. And as far as our company
+is concerned, using those technologies as shown under one, we would realize growth
+based upon new products and services, and new business models.
+And secondly, as shown in two, we will enhance productivity and strengthen our earnings
+power utilizing advanced ICT. So, we intend to realize those through open innovation, as
+shown on the bottom of the slide, collaboration with startup ventures among others. And
+for us to be able to do that, we wanted to strengthen the structure and framework for
+such initiatives. For that purpose, in April last year, we established ICT Strategic Section
+within Corporate Planning department.
+On the bottom-left hand side, you see a green part with a frame; and above that, you will
+see holding company; and to the right, you see Aioi Nissay Dowa. And both of those
+companies have the similar organization. And they cooperate together in this area to
+pursue various initiatives. And the role of the ICT Strategic Section is to conduct
+investigative research on ICT technology design, and study our business models using ICT
+and the open innovation with ventures. And the role also includes fostering and
+developing human talents such as data scientists.
+
+Page 1 of 16
+
+
+
+Company N ame: M S&AD I nsurance Group H oldings I nc
+Company Ticker: 8725 JP Equity
+Date: 2017-09-12
+
+FINAL
+
+And in terms of a concrete research theme, on the top, you see smart houses, IoT, the
+Big Data. Using Big Data, we will provide healthcare services and others. How to do that is
+what we're studying. And the use of AI and robotics, which will be elaborated later on.
+And on the left, you see blockchain, including FinTech. So, basically themes likely to have a
+more significant impact on non-life insurance. Business is prioritized as research themes.
+In terms of open innovation initiatives, shown in purple here, we are making differentiated
+usage of venture capital companies and also large corporations. In terms of speed and
+innovative ideas, we work with venture capital, or where certainty is required, connection
+with the host computers involved, we work with the large vendors; and therefore, we
+make differentiated usage of startup ventures and large corporations.
+We need to identify startup ventures, and in doing so, as shown on purple, III, Mirai 2017 is
+a cross industry consortium sponsored by Mitsui Sumitomo Banking Corporation (sic)
+[Sumitomo Mitsui Banking Corporation] (03:27) and Japan Research Institute. To the right,
+you'll see ILS, which is a business matching operation supported by Ministry of Economy,
+Trade & Industry. So, through those organizations, we look for startup ventures subject to
+open innovation efforts and [indiscernible] (03:46).
+
+Bloomberg Transcript
+
+Since 2007, we have been employing robotics and currently, 400 types of robots are in
+operation. They have all been developed in-house.
+As you can see on number 3, in sales and claims services sections, which handle loss
+payments, they utilize robotic process automation starting from high priority areas where
+higher efficiency is needed. And furthermore, we went through all of our PC operation
+logs to identify potential areas of automation by robotics and we are now conducting field
+trials.
+And the next slide is a bit busy, but this explains what we have done. As you see on the
+top left, we analyze our employees' PC logs to extract areas for possible automation. As
+you see at the bottom left, we have found that nearly 20% of the work can be automated.
+And as you on the right-hand side, the operation speed can be four times as fast and the
+quality is improved because robots do not make errors. As such, we would like to further
+increase our productivity significantly by use of robotic process automation.
+And this is my summary slide. The dark green bar where it says product development and
+solicitation represents the flow of our work. At the top, I have cited three field trials that
+are underway, but there are many more field trials that are ongoing. Through these
+means, we would like to achieve the vision that I've talked about earlier, namely to
+provide products and services to our customers using ICT and enhanced productivity
+through the use of ICT. We will continue to step up our efforts to promote our digital
+strategies. Thank you for your attention.
+
+Naomi Ito
+
+{BIO 17544361 <GO>}
+
+I am Ito of Aioi Nissay Dowa. Now, I'd like to talk about ADI's business strategies on
+telematics insurance. As you already know, the environment surrounding automobile
+Page 2 of 16
+
+
+
+Company N ame: M S&AD I nsurance Group H oldings I nc
+Company Ticker: 8725 JP Equity
+Date: 2017-09-12
+
+FINAL
+
+insurance includes new technology and new concepts emerging very rapidly, and they are
+having substantial variety of impact on automobile insurance, which has a huge market. As
+far as our company is concerned, we are exploring what we should be doing using new
+technology and concepts as a focal point, and that's the basis of my presentation today.
+First, let me introduce to you and explain what telematics is. By installing vehicles with such
+devices shown here, driving information and data is electronically transmitted. There are a
+variety of types. A UK company we acquired called ITB located in United Kingdom has
+over 1,000 devices called Black Box, and they are installed on vehicles, and the driving
+information is transmitted real time.
+In the center, you see the devices installed onto the vehicles by carmakers such as Toyota
+Motor Corporation as standard equipment. Some customers do require driving image
+where a driving recorder is used, and to do it, simply, smartphones are used. Depending
+on the purpose, the country or the customer needs, we are striving to provide telematics
+services by having all round capabilities with the latest technology, rather than choosing
+only a fixed device. So, that's what we are trying to do.
+
+Bloomberg Transcript
+
+Initiatives we have taken to date dates back to 2004. So, quite a long time ago when we
+developed the driving distance linked insurance for the first time, working with Toyota's GBOOK. So, this insurance was based upon actual data rather than data based upon
+customers' report.
+In April 2015, we developed automobile insurance connected to Toyota's T-Connect. But
+a major breakthrough came in March 2015, when we acquired Insure the Box Limited, ITB
+Limited, the largest telematics automobile insurance company in the United Kingdom. And
+by doing so, we acquired technology know-how and time. And that brought about a major
+change.
+And in 2016, for fleet customers, we developed product using drive recorder. And more
+recently, for corporate customers, for fleet services, we began the services using
+smartphones.
+In the United States, on the other hand, in April 2016, together with Toyota, we
+established a company called TIMS Group, the company that supplies data and services,
+and I'll elaborate on this later on. We did this with Toyota in the United States.
+First, let me explain to you the ITB. With this acquisition, we made a full scale entry into
+the UK telematics automobile insurance market, but our two objective was to use
+telematics insurance technology and know-how in Japan and also outside of Japan as
+well. It acquires driving data from onboard device called Black Box, and data is obtained
+real-time basis, and this scores customer's driving behavior using our proprietary
+algorithm, and that (09:57) safer drivers.
+Worldwide, telematics insurance are provided in the world, but we take pride in the fact
+that we do have the state-of-the-art, highest know-how and technology. More concretely,
+using this Black Box, GPS data is used and also the three access acceleration speed, the
+Page 3 of 16
+
+
+
+Company N ame: M S&AD I nsurance Group H oldings I nc
+Company Ticker: 8725 JP Equity
+Date: 2017-09-12
+
+FINAL
+
+vertical, horizontal and lateral. And using that, the data on customer's sudden
+acceleration, sudden breaking, excess speeding or sharp cornering are captured on a
+real-time basis.
+Once customer's safe-driving behavior is confirmed, under this insurance, it has 6,000
+miles, 8,000 miles and 10,000 miles. So, the product is based on mileage. And as the
+customer acquires 6,000 miles, if he wants to drive more than that, he has to add by
+additional miles. But for safe drivers, free mileage is offered, maximum to 100 miles per
+month, together, 1,200 miles per year.
+And what happens then is that since customer can obtain service points, they become
+inclined to drive more safely, offering not just insurance, but service menu. We can
+encourage customers to drive safely, true to the aspiration of the founder of ITB.
+
+Bloomberg Transcript
+
+And as you can see, on the right-hand side, we have emergency response service,
+maneuver at normal acceleration is detected, call center is automatically notified, and call
+center contacts customers. And if there is no response, the arrangement is made for
+ambulance to come. And the BBC reported that actually, this led to savings of lives. And
+through using this service, 5 billion kilometers, this is rather outdated data with the
+increase in driving distance, close to 7 billion kilometers driving data, and also the accident
+occurrence data have been accumulated. And by using this, we are able to provide
+services and products both in Japan and the United States.
+Next about TIMS. TIMS is a joint venture between ADI, Toyota Financial Services
+Corporation and Toyota Motor Corporation. And it is a company conducting data business
+in the United States. The concrete business model is as follows: from Toyota Cars, the
+data is transmitted, which is received by Toyota Connected. And the data then is
+purchased by TIMS. And this is provided to U.S. partner insurance companies with some
+value added. Value-add, in this case, includes analysis of driving behavior. What sort of
+behavior is rough? What sort of behavior leads to safe driving? So, this represents value
+added, and as a result of receiving such data, the insurance companies can offer more
+reasonable insurance, for example, lower premium for safer drivers and advice on safe
+driving as well.
+Here, in Japan, domestically, this can be applied as well. This involves a CMT, the
+company in the United States, the U.S. IT company, and in alliance with them, we
+developed smartphone application, and also the 3 centimeter by 3 centimeter tag, which
+includes acceleration sensor and battery, and customers' driving data can be captured on
+a real-time basis. The field trial began last year, and this is installed in 6,000 vehicles.
+In Japan, the Japanese map is used and Japanese language. The driving behavior and
+situation can be obtained, and data is transmitted to the United States, and the outcome
+of the analysis on the real-time is presented in the customer's smartphone.
+Here are some sample screenshots from a smartphone. The main screen shows the
+driving score, ranking, and some hints for safe driving. And the map will show the route
+the driver has taken that day, and information about the time and location of sudden
+Page 4 of 16
+
+
+
+Company N ame: M S&AD I nsurance Group H oldings I nc
+Company Ticker: 8725 JP Equity
+Date: 2017-09-12
+
+breaking or accelerating to above speed limits. So, you can view this kind of information
+on your smartphone.
+
+FINAL
+
+In addition, for a fleet customer, for example, a ranking on who is the safest driver within a
+group or who was driving unsafely will be shown. This feature can contribute to a
+reduction of car accidents.
+This is a case with our company. Latest data shows that compared to the previous year,
+the number of car accidents have been reduced by 20% through the use of this tag in the
+car. Another example is a service for fleets. Since many fleet customers wish to have
+onboard driving recorders, so we have partnered with Fujitsu and launched a service in
+April 2016 to support safe driving and to warn drivers to prevent accidents. And when
+accidents do occur, they notify the manager's PC immediately.
+All of our telematics initiatives are shown in this diagram. In 2004, we launched our first
+product paid by the acquisition of ITB in March 2015, allowed access to new technology
+and know-how. Based on that, we developed jointly with MSI, a product, Mimamoru auto
+insurance to offer assurance to the elderly, and the first telematics product that reflects
+the actual driver behavior was also developed. These two products will be launched in the
+future.
+
+Bloomberg Transcript
+
+Through these telematics related activities, we accumulated Big Data and data analysis
+expertise, which led us to sign an academic industrial collaboration agreement with Shiga
+University, which was the first university to establish a faculty of data science in Japan.
+Both parties will develop the dedicated infrastructure, and by the fall of this year, we will
+be starting our joint data analysis work over the cloud. Our initiatives will contribute to
+fostering the much needed data scientists in Japan, and the Big Data that we own can be
+analyzed jointly.
+Furthermore, our company and Shiga University will participate as partners in the Ministry
+of Science and Technology project called the Data-Related Human Resource
+Development Support Project for fiscal 2017, in which we will also collaborate with Osaka
+University. As such, we are given new opportunities to cooperate with academic
+institutions.
+Next, I would like to talk about next generation mobility. To gain access to new IT
+technology, we have made a strategic capital contribution to MaaS global, a company
+based in Helsinki, Finland. This company already offers in Helsinki, a smartphone
+application which automatically calculates the most efficient and cheapest means of
+transport to travel from a location to another using one or any combination of taxi, train,
+bus, rented cars or bicycles, among others.
+Not only that, a payment can be completed using this application using smartphones. And
+this service will be expanded to other markets in the future and by investing in this
+company, we will have access to the knowhow and the expertise in this area. We would
+
+Page 5 of 16
+
+
+
+Company N ame: M S&AD I nsurance Group H oldings I nc
+Company Ticker: 8725 JP Equity
+Date: 2017-09-12
+
+FINAL
+
+like to help develop this company, but not only that. We would like to come up with new
+ideas about innovative ways to offer insurance products.
+Next is automated driving. We partner with Gunma University in this area, and since we're
+not an automaker, we do not develop the automated driving technology itself with
+artificial intelligence. But by analyzing automated driving, we can develop an insurance
+product specifically for automated driving. We may develop a claim services methodology
+for accidents unique to automated driving or we can offer an optimum style of insurance
+best suited for a society embracing automated driving. We will work with Gunma
+University to study and explore such areas.
+If you look at the overall picture, you can see that each of these elements originating from
+telematics are not independent of each other, rather, the various technologies are very
+much interconnected with data and IT as key components. In the field of telematics, the
+technology knowhow and the time we have gained through the acquisition of ITB will be
+used to expand our presence within and outside of Japan, including the United States.
+
+Bloomberg Transcript
+
+The actual data analysis and technology development must be done by people,
+therefore, human resource development and the Big Data analysis are highly prioritized.
+Furthermore, the use of blockchain to prevent the alteration of Big Data and the
+exploration management of Big Data will be promoted through the company GEM, which
+has the expertise in blockchain.
+Beyond human-based analysis is automated analysis using AI. In this area, we are working
+with TRI, Toyota Research Institute, to advance the knowledge in AI. The age of sharing
+economy is just around the corner as well. Our partnership with MaaS will enable us to
+have access to the state-of-the-art technology to fully embrace a new era.
+Through these efforts, we will be ready to respond to the very rapidly changing
+environments surrounding auto insurance in terms of technology and human resources.
+Thank you for your attention.
+
+Shiro Fujii
+
+{BIO 16476704 <GO>}
+
+Fujii is my name, and by these two presentations, I believe you are able to get an insight
+and understanding of what we are doing, the content. But if I may just summarize, as
+shown here, we are pursuing sustainable growth in the digital society through the
+combination of initiatives at each operating companies and open innovation.
+Basically, the operating companies themselves will capture customer needs, and identify
+that and how to use that in the business. It is pursued, I talked about MS&AD, but we have
+two life insurance companies in Mitsui Direct, and they are all thinking about the various
+things in their business, conducting various trials, and executing some of them.
+In addition, across the entire group vis-à-vis diverse needs, in order to find solutions to
+them, we need new insights and ideas. And with that view in mind, in Silicon Valley, we
+decided to invest equity in Net Services Venture (sic) Net Service Ventures (21:28), this is a
+Page 6 of 16
+
+
+
+Company N ame: M S&AD I nsurance Group H oldings I nc
+Company Ticker: 8725 JP Equity
+Date: 2017-09-12
+
+FINAL
+
+venture capital fund of funds, and that we obtain information from that for our initiatives.
+The two presentations made just now covered ITB and TIMS. Those are companies in
+operations in the United States and Europe. But in your case, we have MS Amlin or we
+have our local subsidiary in Singapore or India, so we do business on the global basis. And
+each of the locations are identifying needs, but at the same time, they are faced with
+different needs. How can we find solutions to them when we do that? This mechanism of
+open innovation is used.
+In Silicon Valley, from different locations, the people just pass them through competition
+and inspiration, they try to identify new needs. So, that's what we are trying to do right
+now. What is important in this context is to capture ideas and needs close to where the
+action is. Stationing some people in Silicon Valley and let them operate successfully, that
+can't happen. The collaboration amongst those operating companies is very important
+above all.
+
+Bloomberg Transcript
+
+And also, as two of them just mentioned, what are we going to accomplish? It's based
+upon our management's philosophy, which is to serve the society, to help realize the
+society with vitality by delivering security and safety through insurance and financial
+services. And for that perspective, there are three points described here. First of all, the
+society is going to change to become more digitalized. And as that happens, new needs
+will emerge.
+How can we respond to that, those emerging needs? As was mentioned by Mr. Ito a
+moment ago, the automobile insurance in conventional sense offers coverage for
+negative financial impact whenever accident occurs by paying insurance claims. When
+accidents do occur, we offer services to ensure that the problems are settled and that our
+customers feel reassured in the process. Of course, that's very basic to our business.
+But on top of that, we want to be able to provide product to prevent accidents. The
+Mimamoru auto insurance is an example. In cyber security, we not only make loss
+payments after incidents occur, but want to design an insurance product with a built-in
+prevention measure.
+When technologies such as blockchain and smart contracts make advances, and the
+society adopts and changes, there always will be a need for insurance coverage
+associated with them. That's why we think we have big opportunities in the area of digital
+society. The core of our business is to cover risks, and we can strengthen our core
+competencies through this digital strategy. We will address this first strategy in various
+ways.
+Second strategy is the digitization of insurance products and services themselves,
+telematics being a typical example, that's (24:42) auto insurance. And the health
+promotion services using data collected from wearables and smartphones are some of
+the other examples of digitizing the product s and services.
+Third strategy is to enhance quality and improve efficiency. This is where we expect to see
+visible results first. This is really an ongoing effort and we have talked about RPA initiatives
+Page 7 of 16
+
+
+
+Company N ame: M S&AD I nsurance Group H oldings I nc
+Company Ticker: 8725 JP Equity
+Date: 2017-09-12
+
+FINAL
+
+since 2007. Well, it used to be very labor-intensive manual work where it gradually
+automated by some in-house Excel (25:18) professionals building hundreds of automated
+easy-to-use processes and which were then shared across our organization.
+This was first advanced forward through our use of AI in liability determination,
+improvement of our customer centers through IBM Watson, or customization of our
+employee interactions with customers. All of these initiatives have to measure
+improvements in quality and efficiency of our operations. So these are the three areas we
+are focusing on, and they are not independent of each other.
+As has been mentioned earlier, there are areas where the development process is faster
+when they are carried out separately, but once we find out their benefits, then we have a
+mechanism to share the insights across the entire group.
+The slide where we mentioned the two non-life insurance companies but our life
+insurance businesses and Mitsui Direct are also part of this mechanism, so we have a
+group-wide system to mobilize our resources and work together to pursue our digital
+strategies.
+
+Bloomberg Transcript
+
+Digital strategies do not need to be grand or ambitious. We believe in making steady
+progress to cover every necessary step in a prudent manner. So I do hope that you will
+continue to give us your support and understanding. Thank you. This concludes the three
+presentations.
+Now, ladies and gentlemen, we would like to receive questions. One question per person
+and response will be given by individual speakers. So that's the format of this Q&A
+session. If you have more than one question, please raise your hand subsequently to the
+designated. So, anybody? If you could raise your hand, we would like to start the Q&A
+session with that person. Mr. Watanabe, please.
+
+Q&A
+Q - Kazuki Watanabe
+
+{BIO 15948747 <GO>}
+
+Watanabe of Daiwa Securities. Thank you for the presentations. I have two questions. The
+first question relates to the telematics insurance. Considering the spread in greater
+popularization of autonomous driving, is there any area where you can leverage your own
+expertise and knowhow? That's the first question. I mean, if autonomous driving
+technology keeps accidents from occurring, you may no longer be able to use the
+telematic strength you have. So do you regard this as bridge technology or can it be used
+later on as well?
+
+A - Tetsuji Higuchi
+
+{BIO 20243541 <GO>}
+
+Let me confirm that. Let me answer that. Discussing the relationship with autonomous
+driving, there are two aspects: one is time and penetration, and the other is the
+technology that can be used even with autonomous driving and these are two areas.
+
+Page 8 of 16
+
+
+
+Company N ame: M S&AD I nsurance Group H oldings I nc
+Company Ticker: 8725 JP Equity
+Date: 2017-09-12
+
+FINAL
+
+In terms of time and broader penetration of autonomous driving, suppose the first
+autonomous vehicle is launched in 2020, the number of autonomous models increased
+and spread even further to account for a significant part of new cars sold or there may be
+some models that choose not to have this technology. And when we assume this, it will
+be quite some time in the future when autonomous cars occupy a certain proportion of a
+new car sold considering the number of new cars sold per year as a percentage of
+vehicles in operation in the society. For a cycle to work through, it'll take over 10 years.
+For autonomous vehicles to become a majority of vehicles on roads, it'll be far, far into the
+future in terms of timeframe, maybe in the latter part of 2030s or 2040s. So, before that
+happens, our expertise will have great value as bridge technology.
+And secondly, even with the autonomous vehicles advent, not all the vehicles will follow
+the same pattern. It will be a combination of autonomous vehicles where the driver-driven
+cars, accidents involving people, and different types or forms of accidents may occur. In
+that case, what can be controlled by autonomous driving technology? What lies just
+outside of that? The relationship with other people, the obstacles, and the mixture of all
+of that, I believe, how we can make us of this technology and opportunity to offer
+insurance and services.
+
+Q - Kazuki Watanabe
+
+{BIO 15948747 <GO>}
+
+Bloomberg Transcript
+
+Thank you. My second question relates to digitalization in general. Listening to your
+explanation, it gave me the impression that you're quite advance and good progress is
+made for higher efficiency of expenses. But if you have any ideas that could expand top
+line right away, could you share that with me? Thank you.
+
+A - Tetsuji Higuchi
+
+{BIO 20243541 <GO>}
+
+Yes. We are engaged in the variety of activities. For example, at the end of (30:21) sales
+personnel and insurance solicitors, the customers' facial expressions and dialogue are
+recorded using 360-degree camera and recorder. This is a sort of field trial that we are
+conducting right now. What we are after is that maybe AI could identify a pattern that
+always results in successful contract conclusion. And if we are successful in this area, that
+can be applied to other sales person or solicitors, and each solicitation activity can be
+conducted that quickly and more efficiently. So those are some of the initiatives under
+way.
+The direct improvement of top line may depend on ideas yet to be created. But we
+would like to conduct those initiatives and activities one by one to have full progress.
+
+Q - Kazuki Watanabe
+
+{BIO 15948747 <GO>}
+
+Thank you very much.
+
+A - Shiro Fujii
+
+{BIO 16476704 <GO>}
+
+Fujii speaking. If I may add one point, for example, in relation to bitcoin business, we can
+offer insurance coverage for bitFlyer, or we are working very hard to design cyber security
+Page 9 of 16
+
+
+
+Company N ame: M S&AD I nsurance Group H oldings I nc
+Company Ticker: 8725 JP Equity
+Date: 2017-09-12
+
+insurance. In reality, we are distributing such insurance already which we can further
+increase.
+
+FINAL
+
+So the provision of product to offer coverage for new risks will be pursued jointly by
+MS&AD or individually in response to individual needs. But as of today, we have not yet
+reached the level that grows top line significantly, but we continue to pursue those
+activities earnestly.
+
+Q - Kazuki Watanabe
+
+{BIO 15948747 <GO>}
+
+Thank you very much.
+
+A - Tetsuji Higuchi
+
+{BIO 20243541 <GO>}
+
+Anybody else with the next question? Mr. Yamanaka, please?
+
+Q - Takehito Yamanaka
+
+{BIO 1906159 <GO>}
+
+Bloomberg Transcript
+
+I often hear about this, so I would like to know your position on this, that is regarding the
+three digital strategies on your final slide, in particular numbers 1 and 2. Well, it doesn't
+have to be an insurance company to provide some of these services. So my first question
+is, how you intend to differentiate yourself as an insurer from other entities that can also
+provide similar services?
+And my second question, well, currently there are services and products that can only be
+offered by insurance companies due to some Japanese regulatory reasons. However, the
+regulatory environment may or may not change over time. Banks have faced a situation
+where some services can now be offered by other entities other than banks, and that's a
+trend in banking. So are you anticipating such a situation in the future? And if so, what are
+the ways in which you intend to respond?
+
+A - Tetsuji Higuchi
+
+{BIO 20243541 <GO>}
+
+Thank you. Regarding your first question, we believe there are various scenarios for that.
+Well, for example, accident prevention or accident response services can be offered not
+necessarily by us alone but in collaboration with other service providers. We may bundle
+some products or we may add it as an extra service or whatever but we do foresee the
+need to offer services in a variety of formats. Cyber security is a typical example. But then
+there are other areas where it is more strategic to foster enhanced expertise for
+telematics. It's difficult elsewhere to process so we will develop it in-house. So there are
+various scenarios or possible patterns.
+On your second question, we don't feel this too much when we are in Japan but the
+Japanese government is now starting to talk about their regulatory sandbox, the UK or
+Singapore have a rather deregulated environment and are allowing new businesses to
+start. Same development also in United States. For example, the level of solvency does
+not have to be so high to start a business. These things may emerge eventually, but when
+new entrants come into the market, they may need some kind of a backup measure, then
+we can provide reinsurance services to support them or we may work jointly with them.
+Page 10 of 16
+
+
+
+Company N ame: M S&AD I nsurance Group H oldings I nc
+Company Ticker: 8725 JP Equity
+Date: 2017-09-12
+
+FINAL
+
+We don't think we are protected by regulation. We are not that naïve. We ourselves are
+maybe involved in some of these potential new businesses even. We are keenly aware of
+the developments that you have just pointed out and always want to be prepared for any
+changes that may emerge as a group as a whole. I hope that answers your question.
+Let me add to the response to your first question. There are many people out there who
+have massive amounts of data because there are means to have access to data these
+days. And they may have ideas about what they want to use the data for, but many of
+them are not sure exactly how. So I think that's the situation now.
+We, as an insurance company, can process the available data from our viewpoint so that it
+can be effectively applied to, say, accident prevention, and this can be offered as a unique
+service. By combining a massive amount of data that some people have and our
+expertise, perhaps the other party can benefit from their data. And since our expertise is
+in risk management, we may also be able to benefit the customers of that other party. So
+I think there will be division of responsibilities, the role we can play and the other party can
+offer can be divided. I hope that answers the question.
+
+Q - Takehito Yamanaka
+
+{BIO 1906159 <GO>}
+
+Thank you very much.
+
+A - Tetsuji Higuchi
+
+{BIO 20243541 <GO>}
+
+Bloomberg Transcript
+
+Now, are there any other questions? Then, Mr. Ban, please.
+
+Q - Hideyasu Ban
+
+{BIO 15250840 <GO>}
+
+Ban of Morgan Stanley. I have one question. In the case of PHYD-type insurance in Japan
+that you have been describing for some time, the insured boxes of products you've
+described today seems to be quite established in the UK market as service. But to bring it
+as it is into Japan, of course, you have to have approval but other than required approval,
+are there any differences in terms of structural mechanism?
+Let me explain why I asked this. As you discussed today, in the case of applications, simply
+by changing the language, you can provide very similar services globally with very little
+time lag. So when you try to introduce a certain insurance using technology in a very
+speedy manner into different markets, if ITB's products are readily offerable in different
+countries without delay, you can gain speed, but when you try to do that, are there any
+obstacles or hurdles if I don't know yet. So to the extent possible, could you comment on
+that together with your domestic product strategy?
+
+A - Tetsuji Higuchi
+
+{BIO 20243541 <GO>}
+
+There are two angles. One is in Japan, there is unique Japanese bonus-malus system of
+driver rating. This is a wonderful system, foremost in the world. It's analog, but driving
+behavior can be reflected in insurance premium. If accident is not caused, premium
+comes down continuously, and data is exchanged, thus offering optimum low premium.
+
+Page 11 of 16
+
+
+
+Company N ame: M S&AD I nsurance Group H oldings I nc
+Company Ticker: 8725 JP Equity
+Date: 2017-09-12
+
+FINAL
+
+So, can driving behavior reflect it in a manner comparable with this system is what we're
+discussing internally, and as we announced earlier this spring, we are now taking
+measures with a view toward launch of this product. What I can describe today is quite
+limited, but I hope you can report to that.
+The other aspect is the usage of knowhow. What is very difficult is data analysis knowhow
+and expertise rather than development of device and hardware programming. The
+situation differs from country to country. Speed limit is different. (40:09) social practices
+are different.
+So, what are the areas where common knowhow can be applied? What is unique to
+different countries? To determine that, with huge amount of data and analyzing that from
+different angles, we can determine that. For the initial analysis, a huge amount of time will
+be required, but once we can get a hang of it, the experience in United Kingdom can be
+applied and used in the United States. And as we described earlier, the experiences in the
+United Kingdom or analytical knowhow can be used in Japan as well.
+
+Q - Hideyasu Ban
+
+{BIO 15250840 <GO>}
+
+Thank you very much.
+
+A - Tetsuji Higuchi
+
+{BIO 20243541 <GO>}
+
+Bloomberg Transcript
+
+Mr. Niwa, do you have anything? Yes, please.
+
+Q - Koichi Niwa
+
+{BIO 5032649 <GO>}
+
+I am Niwa from Citigroup Global Markets. I have a question about setting KPIs. When you
+take on this kind of interesting initiatives, the goal may not be set clearly. So, as top
+management, how would you handle this? Should KPIs be sent? Or if you already have
+KPIs, then what are the timelines of reaching the goals? Could you share that with us?
+
+A - Tetsuji Higuchi
+
+{BIO 20243541 <GO>}
+
+As of now, we have not set any specific KPIs. As we have stated, we are going to work
+hard to execute what we have talked about, and we can already foresee possible effects
+in some of the business efficiency improvement areas, and we have been discussing how
+that can be reflected in our expense ratio. While we realize that not every single one of
+our initiatives may be successful, but overall, expense ratio is seen as one of our KPIs in
+the area of business efficiency improvement.
+Now for top line, we have not set any KPIs for now. But in maybe three years' time, we do
+need to look back and determine the effectiveness of our investment and make
+necessary judgments because we are making investments to execute our activities. But
+that's not what we are going to do now.
+
+Q - Koichi Niwa
+
+{BIO 5032649 <GO>}
+
+Page 12 of 16
+
+
+
+Company N ame: M S&AD I nsurance Group H oldings I nc
+Company Ticker: 8725 JP Equity
+Date: 2017-09-12
+
+To add to my question, please, you have started these initiatives and you will be watching
+the progress of technological advancement. But what point in time would you start to
+incorporate this into your business plans? Would it be in the next mid-range plan or would
+it be beyond that?
+
+FINAL
+
+A - Tetsuji Higuchi
+
+{BIO 20243541 <GO>}
+
+The answer is we are discussing it right now. But what we are seeking to do is not
+necessarily to put into our mid-range plans and so on, but to be agile enough to be up to
+speed with the changes in the society. So in that sense, we want to be as quick as we can
+be, and it depends on which years the next mid-range plan will cover. But at least we
+would like to be able to share with you what we have achieved in the first year and then
+the progress made in the second year and so on. So we do want to expedite the speed
+of what we are doing.
+So although automated driving may be something for the future but telematics-related
+activities may see hard results in, say, two years or even earlier, and we hope to be able
+to share that with you.
+
+Q - Koichi Niwa
+
+{BIO 5032649 <GO>}
+
+Thank you very much.
+
+Operator
+
+Bloomberg Transcript
+
+Mr. Sato, what about you? Do you have a question?
+
+Q - Koki Sato
+
+{BIO 19983862 <GO>}
+
+Sato of Mizuho Securities. One point I'd like to ask about in terms of technology, be it AI or
+blockchain, quite a number of consortia are already established, and the trend seems to
+be for greater openers. And in the slide says across the group but it might include
+external entities or sometimes including competitors. And from a layman's perspective,
+differentiation only through technology seems to become more and more difficult.
+On the other hand earlier with ITB, you said you aimed at buying time and technology and
+in a sense you fenced in this technology. So other than technology going forward, it could
+be data or it could be customer touch point, but if you are willing to make some
+investment for the purpose of corralling some assets, to buy time or to buy advantage,
+what are some of the areas that you are interested in? Could you share that with us,
+please?
+
+A - Tetsuji Higuchi
+
+{BIO 20243541 <GO>}
+
+Yes. In terms of technology, AI and blockchain were mentioned. Like I said, blockchain, it is
+quite really established as technology, and therefore, in what areas are we going to use
+blockchain technology? So in a sense, the idea will determine the success of this. So as for
+blockchain, if anything rather than technology per se, but where and in what area
+blockchain mechanism is going to be used, and that will become decisive.
+
+Page 13 of 16
+
+
+
+Company N ame: M S&AD I nsurance Group H oldings I nc
+Company Ticker: 8725 JP Equity
+Date: 2017-09-12
+
+FINAL
+
+With respect to AI, although we refer to AI in very general, but depending upon what the
+AI is used for, the technology required is quite different. Basically as you already know, AI
+is very strong in image recognition, and therefore if you want to do something using
+image recognition, you use AI. But even in the case of image recognition, there are startup ventures with very high level of technology and each with different strength in different
+areas, so to speak.
+So in that sense, we need to have a clear idea of our own requirement of what sort of AI
+we would like to use and where we would like to use AI and search the start-up venture
+with a high technology to address that, and to start working with them early on becomes
+very important.
+You talked about Silicon Valley. Even in Japan there are many start-up ventures with very
+high level of technology in the image recognition area. So in our case for such and such
+(47:17) technology, we work with those people and for others work with other people. And
+so, identify and join hands with those people with high level of technology becomes very
+decisive.
+
+Bloomberg Transcript
+
+Looking outside of Japan, there is the entity called (47:33) Lemonade, and the technology
+they are using is quite conventional to a certain extent, but when it comes to the systems
+or mechanism, they do have good ideas. And therefore we really have to have broad and
+rich conception clarifying what difficulties we have, what do we want to accomplish, and
+then work together with a good venture is very important.
+Allow me to add one point. ADI has extensive business association with Toyota Motor
+Corporation. So from one perspective, if I look at the entire world in different areas where
+there is a vacuum where neither of these companies are operating, how can we do
+business and how can we apply the technology that have been nurtured for the
+partnership? And this perspective will come up for consideration going forward.
+As is mentioned by two gentlemen right now, unless we ourselves have very strong view
+as to this is what the business model we would like to consider or this is what we want to
+do, unless we have strong views, just asking others for good ideas cannot work. So in that
+sense, as was mentioned earlier, some technology or ideas will be locked in for ourselves,
+and in other areas it may be better to share with other companies in the industry to make
+it into a de facto standard for the industry, so there maybe such cases.
+So if it results in benefiting consumers, if we think it's better be should rather than
+ourselves monopolizing that including that potential, we need to have a very broader
+thinking. Did I answer your question?
+In addition, my next question relates to what areas you are not going to corral? In the case
+of voice recognition quite recently, Amazon and Microsoft decided to share technologies.
+So those have been rivals but they have decided to start cooperating together in order to
+supplement each other's strength or weaknesses. So in this field of insurance, can we
+expect to see your company working together with your rivals going forward? Could that
+happen?
+Page 14 of 16
+
+
+
+FINAL
+
+Company N ame: M S&AD I nsurance Group H oldings I nc
+Company Ticker: 8725 JP Equity
+Date: 2017-09-12
+
+Yes. In conjunction with blockchain, reference has been made to cargo insurance policy. In
+essence, in the export-import trade, the insurance policies need to be hand-delivered in
+the past. But if it can be exchanged on the blockchain, efficiency can be enhanced
+substantially. And the exporting-importing transaction, the business process is common
+throughout the world, so this can be handled as the common assets and property of the
+industry. And also in relation to blockchain, the arranging for loss adjusters and assessors
+in the case of huge natural disasters, communication was made by paper and telephone
+sometimes as this was said would come (50:41). So this is another area where we can
+jointly use as a platform in industry because all the companies are doing the same thing
+here. So there would be more and more opportunities of doing that.
+Thank you very much. Maybe one final question. Ms. Tsujino?
+
+Q - Natsumu Tsujino
+
+{BIO 2234779 <GO>}
+
+Bloomberg Transcript
+
+This may be a little bit off the main subject but let me ask a question. Today you focused
+on telematics. When I talk to non-life insurance, they say that even if automated driving is
+introduced widely, accidents will not go away immediately or may take 10 years or so
+before all the cars are replaced by automated driving vehicles. Even if all the cars have the
+functions and expressways are totally controlled by the systems, things can go wrong and
+accidents may still occur.
+That's what these people say. There may be an animal on one side of the road, a
+pedestrian on the other, and there may be a cliff on another side. So it may not be the
+driver's fault but an accident may still occur. So the number of accidents maybe reduced
+but things can happen. So, what would happen to the auto insurance market by that time?
+For 10 years, they may be all right, but in two or three decades from now, how much of
+the market will have shrunk? That is a vague concern among some investors. So as an
+insurance company, what is your view?
+
+A - Tetsuji Higuchi
+
+{BIO 20243541 <GO>}
+
+Well, quantifying the size is actually difficult, but as you said, even with automated driving
+in full introduction some driver-induced or pedestrian or other external factor-induced
+situations will arise, plus we see advancement of the new sensor and other technologies,
+the cars may become so sensitive that even a minor impact can fail the system. Among
+the major types of auto insurance, namely liabilities on BI and PD and physical damage, PD
+and physical damage may see a dramatic rise in repair costs. So this means that the
+market may expand in these areas.
+Also, the number of natural disasters are going to increase. You have to have your cars
+safely parked in a sheltered parking space, otherwise there may be some flying debris
+hitting the car and damaging it or even causing failures of sensors. So, overall balance
+may change dramatically. It is hard to quantify the size of the market and to indicate which
+market is going to be the biggest one, but we are not all that pessimistic. It's just that the
+market size is difficult to foresee.
+[Abrupt End]
+
+Page 15 of 16
+
+
+
+This transcript may not be 100 percent accurate and may contain misspellings and other
+inaccuracies. This transcript is provided "as is", without express or implied warranties of
+any kind. Bloomberg retains all rights to this transcript and provides it solely for your
+personal, non-commercial use. Bloomberg, its suppliers and third-party agents shall
+have no liability for errors in this transcript or for lost profits, losses, or direct, indirect,
+incidental, consequential, special or punitive damages in connection with the
+furnishing, performance or use of such transcript. Neither the information nor any
+opinion expressed in this transcript constitutes a solicitation of the purchase or sale of
+securities or commodities. Any opinion expressed in the transcript does not necessarily
+reflect the views of Bloomberg LP. © COPYRIGHT 2022, BLOOMBERG LP. All rights
+reserved. Any reproduction, redistribution or retransmission is expressly prohibited.
+
+Bloomberg Transcript
+
+FINAL
+
+Company N ame: M S&AD I nsurance Group H oldings I nc
+Company Ticker: 8725 JP Equity
+Date: 2017-09-12
+
+Page 16 of 16
+
+

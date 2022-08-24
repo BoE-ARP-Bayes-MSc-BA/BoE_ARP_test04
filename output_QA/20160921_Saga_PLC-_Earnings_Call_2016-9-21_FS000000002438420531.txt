@@ -1,0 +1,1073 @@
+Company Name: Saga PLC
+Company Ticker: SAGA LN Equity
+Date: 2016-09-21
+
+Q2 2017 Earnings Call
+Company Participants
+FINAL
+
+Jonathan Stanley Hill, Group Chief Financial Oﬃcer & Executive Director
+Lance Henry Batchelor, Group Chief Executive Oﬃcer & Executive Director
+
+Other Participants
+Ben Cohen, Analyst
+Blair Stewart, Analyst
+James A. Shuck, Analyst
+Nick Johnson, Analyst
+Ravi Tanna, Analyst
+
+MANAGEMENT DISCUSSION SECTION
+
+Bloomberg Transcript
+
+Lance Henry Batchelor
+
+{BIO 6884486 <GO>}
+
+Okay. Good morning everybody. Welcome to Saga's Interim Results for the six-month
+period that ended July 16. As you probably have worked out by now I'm Lance Batchelor,
+the CEO of Saga. And to my left is Jonathan Hill, the CFO. We're going to do a bit of a
+double act and then we'll do a Q&A at the end of our session.
+It's amazing how time ﬂies, it's been 2.5 years since we IPO'd, this is our ﬁfth set of results
+as a listed company. And for the ﬁfth time, Saga has delivered a really robust set of results.
+Proﬁts are up again, and I'm particularly pleased with our strong cash generation, which
+has a focus on its customers, in fact we probably know about the needs of the over 50s
+than anybody else, but we're always looking for ways to improve and to push our insights
+harder, and there is a signiﬁcant opportunity for us to take our knowledge of our
+customers a stage further, to make the most of the great brand awareness that we've got
+and the customer loyalty that we've got.
+And over the last six months or so, we've been doing a signiﬁcant amount of work within
+our database of 2.7 million customers to segment it in a more granular way than we have
+ever done before. So we now have a much better view of what segments there are within
+our database, where we really make our money, exactly who our high-valued customers
+are, what journeys they traveled as they became high-value customers, what products and
+services they buy from Saga and perhaps most importantly, we've got a better feel for
+what a potential high-value customer looks like than we've ever had before. That means
+we can focus our marketing spend on attracting the right kind of customer and develop
+the right kinds of products for them.
+
+Page 1 of 17
+
+
+
+Company Name: Saga PLC
+Company Ticker: SAGA LN Equity
+Date: 2016-09-21
+
+FINAL
+
+So, in the months and the years to come, our deeper understanding of the customer base
+is going to allow us to save money on what could have been wasted marketing, to spend
+that money on really tightly targeted acquisition of potential high-value customers. Our
+product development will be directed at meeting the needs of high-value customers and
+potentials. And we'll be looking for ways to say thank you to our loyal customers to meet
+more of their needs.
+Now, in one sense, all of this is what we've always done. But modern data mining
+techniques and marketing tools, like Adobe Analytics and Adobe Target and Adobe
+Campaign, allow us to create much smarter and more targeted oﬀers than we've ever
+been able to create before.
+This is probably the most exciting and the biggest potential project going on at Saga right
+now. Yes, we're building a wonderful new ship. And yes, we have an eﬀective motor panel
+up and running. And yes, we continue to pilot a home care solution and to develop a
+fresh strategy for the money sector looking forward. But getting really close to our highvalue customers is a major opportunity for Saga.
+Now, I'm now going to hand over to Jonathan who'll take you through the numbers in
+more detail. Thanks.
+
+Bloomberg Transcript
+
+Jonathan Stanley Hill
+
+{BIO 16892113 <GO>}
+
+Thanks, Lance, and good morning, everybody. Looking on, it's very pleasing to be able to
+report another strong set of results for the ﬁrst half of 2016. We delivered a solid
+performance across the group, with PBT on an underlying basis up by 3.9%, excluding
+those derivative movements, and up overall by 8.5%. Continued strong cash generation
+has allowed us to further deleverage from 2.4 times at this time last year to 2.3 times at
+the year-end, and 2.2 times at the half-year point.
+Our strengthened solvency position gives us conﬁdence of further deleveraging in line
+with our medium-term target. Based on this performance and our future expectation for
+the business, we have done what we said we were going to do, and we've increased our
+dividend at the interim point by 23% to £0.027.
+Now, looking at the group P&L. Revenue from continuing operations did decrease by
+8.6% to £437 million, reﬂecting the accounting impact from the introduction of the quota
+share arrangement in motor insurance. And I'll cover that in a bit of detail later on in the
+presentation.
+Excluding this accounting adjustment, revenue would have been up by around 2% on a
+comparable basis.
+Trading proﬁt was ﬂat in H1 against the comparable period, but this is after the proﬁt
+impact of the scheduled maintenance for the Saga Sapphire, which costs us around £5
+million in proﬁt in the ﬁrst half of this year. Finance costs fell signiﬁcantly as we better
+managed our facilities, as well as some reductions in LIBOR.
+Page 2 of 17
+
+
+
+Company Name: Saga PLC
+Company Ticker: SAGA LN Equity
+Date: 2016-09-21
+
+FINAL
+
+These lower ﬁnance costs were a key contributor to this 4% underlying PBT growth,
+excluding these derivative gains. And then with the beneﬁt of these derivative gains, we
+end up at an 8.5% increase in PBT. These fair value gains and derivatives relate to hedges,
+where hedging accounting cannot be used, particularly on the forward hedging of the
+fuel for our cruise ships. Proﬁt after tax increased by 12.8% with H1 in the prior year
+incurring a £3 million loss on discontinued operations.
+Our core Insurance and Travel businesses have performed strongly across the ﬁrst half
+delivering an underlying trading proﬁt growth of 2%. We have done this despite seeing
+variable market conditions across our business. For example, we have beneﬁted from the
+hardening of premiums in the motor insurance business, that have been impacted in the
+same way as everyone else by the tough market conditions in home insurance. This
+performance is proof of the Saga model as we beneﬁt from the wide portfolio of
+businesses and our ability to drive proﬁt across the group even with diﬀerential market
+conditions.
+
+Bloomberg Transcript
+
+You will notice that the Insurance comparative did change slightly. At the year-end, it was
+noticeable that year-on-year expenses have moved materially by segment. And having
+reviewed the basis of allocation, we have moved from what was a more revenue-based
+allocation to one that's more activity-based, and therefore, going forward, that expense
+allocation should be more accurate and should be less volatile between segments. A
+breakdown of this movement is included at the back of the interim statement. Clearly, the
+overall proﬁt in the Insurance business remains the same. This is just about getting better
+on those allocation of expenses on an ongoing basis. I will now look at each of the
+businesses in turn.
+In motor, trading proﬁt increased by 10%, beneﬁting from the earn through of the higher
+motor rates combined with strong claims experience, as well as from the introduction of
+the motor panel and the ﬁrst full six months of Bennetts. Motor revenue decreased by
+23% to £120 million from that quota share impact and I'll cover that later, partially oﬀset by
+the trading in Bennetts business that was acquired on the 1st of July of 2015.
+Core policy numbers increased during the period primarily from the inclusion of Bennetts
+for that six-month period. And excluding Bennetts core motor policies grew by around
+2%. Overall the motor market remains highly competitive and whilst we saw rate rises,
+strong rate rises year-on-year in Q1, these will somewhat come oﬀ in Q2 and slowed
+signiﬁcantly. However, we have maintained our focus on achieving the right balance
+between growing customer numbers and delivering proﬁts.
+So, this slide shows the motor underwriting business excluding the eﬀects of the quota
+share which I'll cover on the next slides. This is trying to look at the business on a purely
+comparable basis. We've had a very strong six months in motor underwriting with the
+underlying proﬁt from the core underwritten motor business increasing by 15% to £57.3
+million. That was (8:43) about 7.3% improvement in the pure combined operating ratio.
+This improvement is due to two key factors. Firstly, that beneﬁted the rate increases
+combined with our strong claims experience has improved the pure underwriting proﬁt.
+And secondly, we had some beneﬁts from the introduction of that arrangement fee.
+
+Page 3 of 17
+
+
+
+Company Name: Saga PLC
+Company Ticker: SAGA LN Equity
+Date: 2016-09-21
+
+FINAL
+
+Net earned premiums were lower by 7% due to two factors. Firstly, the introduction of the
+panel has led to a lower number of underwritten policies and lower average premiums.
+The lower premiums reﬂect the fact that a larger share of the higher-risk business is being
+taken by third-party underwriters, which is exactly what we expected when we set the
+panel up. Secondly, we have the introduction of the arrangement fee which is reported in
+other income.
+Okay. So, this table shows the accounting impacts of this funds with our (9:44) quota
+share arrangement. I'm going to say while the accounting impact on the income
+statement of the quota share is signiﬁcant on a line-by-line basis; the important number
+on this page is the net impact on the trading proﬁt of £0.9 million. As guided at the time
+of prelims, the full-year impact of this quota share arrangement on proﬁt is roughly 1% of
+overall proﬁtability.
+
+Bloomberg Transcript
+
+For comparability purposes, we have calculated these ratios at the bottom including both
+net earned premiums and other income given that change in the recognition of the
+arrangement fee. This quota share arrangement will allow us to gradually release capital
+from AICL supporting the continued reduction in our debt ratio and our progressive
+dividend policy.
+In terms of the reserve releases, continued favorable claims development experienced
+during the six months to 31 July 2016 has enabled us to maintain a consistent level of
+releases in the ﬁrst half with no deterioration in the reserve margin. This is being driven by
+large and small PI, personal claims primarily, resulting in consistent overall motor releases
+in the ﬁrst half of this year versus ﬁrst half of last year of around £40 million. The releases
+in the second half of the year are expected to be lower than the comparable period last
+year.
+On Solvency II, we remain extremely well-capitalized. And as expected, our coverage ratio
+has increased at the half-year point as a result of the reduced SCR due to the impact of
+the quota share and also the reduction in best estimates. This positive movement
+supports our decision to enter into this agreement, this quota share agreement as we
+continue to move towards a more capital-eﬃcient, broker-orientated business model. And
+the strong position also supports our ongoing deleveraging in H2.
+Okay, on home insurance, in line with our competitors, we reported the market conditions
+continue to be highly competitive with no evidence of premium inﬂation. Revenue
+decreased by 6% due to a reduction in the proﬁt share in our New India arrangement and
+also a small fall in our average premium compared to the ﬁrst half of last year. With
+inﬂationary increases in operating expenses, this resulted in trading proﬁt decreasing by
+around £4 million to £30 million.
+While the panel continues to perform strongly, we believe that we are operating very
+eﬃciently. And therefore, margin improvement, as Lance has said, will be driven less by
+the net rate decreases coming through.
+
+Page 4 of 17
+
+
+
+Company Name: Saga PLC
+Company Ticker: SAGA LN Equity
+Date: 2016-09-21
+
+FINAL
+
+Revenue in other insurance lines grew at £47 million with increased travel insurance
+volumes and improved margins on private medical. Trading proﬁt was £1.7 million higher
+with strong PMI performance. And also, the prior year, we had the impact of the
+marketing on Saga Legal Services. This is partially oﬀset by increased costs in line with
+increased travel insurance volumes.
+The Travel business has another really strong six months of trading oﬀset by that
+scheduled maintenance of the Saga Sapphire cruise ship. In our three tour operating
+businesses, revenue has increased with a shift in average revenue per passenger upwards
+as that product mix continued to shift to more long-haul and third-party cruise products.
+And actually, our proﬁt across the tour operating business, as you see in the interim's
+release, has increased to £8.5 million from £8.3 million.
+In cruising, the Saga Sapphire was out of operation for that scheduled maintenance for a
+total of 63 days between April and June, which impacted both obviously the revenue and
+the trading proﬁt. As a result, cruising revenue fell by 12% to £37 million. And trading
+proﬁt decreased by around £2 million in cruising to around £0.50 million. But excluding
+the impact of that, both our revenue and our proﬁt would have been up both in cruise
+and certainly across the whole travel business.
+
+Bloomberg Transcript
+
+In our Emerging Businesses, these obviously include our Saga Money and our home care
+business. Revenue was relatively consistent with the prior year at £14 million. The overall
+trading loss was slightly up, but that really reﬂects the investment both in Saga Investment
+Services and our healthcare business.
+Our cash ﬂow performance during the ﬁrst half of the year continued to be strong with
+the Group achieving an available operating cash ﬂow of £97 million equating to 73% of
+trading EBITDA. Cash ﬂow did decrease compared to the ﬁrst half of last year by £42
+million. Firstly, there was a lower payout from our restricted business as the travel
+business obtained more cash to pay the deposits on the new ship.
+Secondarily, working capital in the ﬁrst half of this year is much more normalized and is
+much more in line with the full-year expectation. And thirdly, the ﬁrst half of this year also
+includes the payment to Acromas of £7.6 million for those tax loses that we have
+purchased from them, the beneﬁt of which was recognized in last year's tax expense.
+Overall, this means the cash ﬂow in the ﬁrst half of the year was more consistent with what
+you should expect to see for the full-year outturn.
+So at the interims last year, we obviously announced this net debt-to-EBITDA target of 1.5
+times to 2 times for the medium term with the dividend payment ratio at 40% to 60% of
+net income. We then moved that ahead at the time of the prelims to 50% to 70% really
+reﬂecting the beneﬁt of what we expected to come from the quota share arrangement.
+And given our continued strong cash generation and our Solvency II position, we remain
+comfortable with our medium-term debt target range of 1.5 times to 2 times, net debt to
+EBITDA. And you should expect that distribution to shareholders will be by way of
+ordinary dividends in line with our guided dividend.
+Page 5 of 17
+
+
+
+Company Name: Saga PLC
+Company Ticker: SAGA LN Equity
+Date: 2016-09-21
+
+FINAL
+
+So stepping back a bit, 18 months into business, the business really is in great shape.
+However, it is important that we continue to work to ensure the eﬃciency and the
+eﬀectiveness of our systems and processes for the future.
+To this end, we have decided to modernize our retail brokers' insurance sales and
+administration platform over the next three years. The implementation of this new eﬃcient
+and ﬂexible platform will help to future-proof our activities whilst considerably improving
+the customer experience. The cost of this will be covered in our usual run rate of CapEx
+expenditure.
+We're also in the process of introducing a new claims system which will improve the
+process for claims for customers as well as reducing our costs associated with claims
+handling. And this system is actually currently in advanced test phase.
+We've started the reorganization of the back oﬃce of our Travel business to improve both
+eﬃciency and reduce our costs in that business. And we have put in place an enhanced
+group procurement function to drive cost eﬃciencies and procurement best practice
+across the Group.
+
+Bloomberg Transcript
+
+So given the strong trading performance in the ﬁrst half of the year, the Group still
+expects to continue to deliver proﬁt growth in the core businesses. After continued
+investment in our emerging business and with the beneﬁt of lower ﬁnance costs, we are
+conﬁdent of delivering growth in PBT of between 5% and 7% for the full year.
+With our cash generation attributes and our enhanced solvency position, we are conﬁdent
+that we can deliver on our dividend policy while continuing to reduce our debt ratio
+towards our medium-term target range of 1.5 times to 2 times.
+Thanks. And I hand back to Lance.
+
+Lance Henry Batchelor
+
+{BIO 6884486 <GO>}
+
+Thanks, Jonathan. So I could read these out to you, but I hope that you'll be pretty familiar
+by now. Those ﬁve points summarize what Saga has done in the last six months. And as I
+say, I hope they are very consistent over the two and a half years that we've been talking
+to you.
+What do they mean to me? What they mean is we have a strong and a growing core
+business. It means that we're generating lots of cash. We can pay the debt down and we
+can invest in the future whilst supporting a dividend policy which is progressive within the
+payout ratios that we announced back in April.
+So thanks very much for your attention and time. I will now open it up to questions. We
+don't have a mic to hand around. There are roof mics in here. So I think what we'll do is
+ask you to raise your hand. And then when I pick you, if you could state your name before
+asking your question, that'd be very kind. James. State your name, James.
+Page 6 of 17
+
+
+
+Company Name: Saga PLC
+Company Ticker: SAGA LN Equity
+Date: 2016-09-21
+
+Q&A
+
+FINAL
+
+Q - James A. Shuck
+
+{BIO 3680082 <GO>}
+
+Hi. It's James Shuck from UBS. I have three questions, please. Firstly, just on the – this is
+the ﬁrst year you've had the – or the ﬁrst period you've had the (19:43) shared. So I'm just
+interested to know what the proﬁt share commission was that was booked in the ﬁrst half
+of the year as in what line I see that coming through. And then the second question is
+around – on page 11 on the broking/other, so the revenue that's shown in here, £32.8
+million at H1, that includes contribution from Bennetts. So could you just separately
+identify within that £32.8 million, what comes from Bennetts and what exactly comes from
+the motor panel, please?
+And then thirdly, I guess the question is around the modernization over the three-year
+period. Now, you're quite clear that that's running within your normal capital expenditure
+for the year. And I guess my question is kind of what is that normal capital expenditure
+with any one year. In previous periods, we've asked about the potential for modernization.
+And you've been quite clear that you think that there is no big investment that's needed
+and that seems to be consistent with what's happening here. But nevertheless, it is a kind
+of step up, I would suggest, from what you were initially planning. So any insight into that
+capital expenditure and how long it's likely to drag on (21:03) would be helpful.
+
+A - Jonathan Stanley Hill
+
+{BIO 16892113 <GO>}
+
+Bloomberg Transcript
+
+And in answer – well, I'll take those three. So you -
+
+A - Lance Henry Batchelor
+
+{BIO 6884486 <GO>}
+
+(21:08).
+
+A - Jonathan Stanley Hill
+
+{BIO 16892113 <GO>}
+
+Sure. In terms of your ﬁrst question, where is the proﬁt share commission shown; you'll
+ﬁnd it in the release on page 12 in the other income line and the quota share there. So it's
+clearly identiﬁed there. And the second question is that Bennetts makes up just over £10
+million of the revenue within the broking and other.
+And the third point, I think there's a broader point here. Every business has an ongoing
+requirement to evaluate that its systems are ﬁt for purpose at any point given the
+developments that are going on in the worldwide market of technology and how that
+relates to its various businesses. As you'd expect, we do that across our businesses on a
+regular basis to ensure that we have the right systems for the future and where we are,
+how (22:03) the system which can be improved both in eﬃciency and eﬀectiveness terms,
+that we're moving towards that right system. So I don't think anything we've said in the
+past – we don't see a big whizbang requirement to suddenly spend tens or hundreds of
+millions. We are looking at this as a natural evolution of a system which has been in the
+business for, I think, around...
+
+A - Lance Henry Batchelor
+
+{BIO 6884486 <GO>}
+Page 7 of 17
+
+
+
+Company Name: Saga PLC
+Company Ticker: SAGA LN Equity
+Date: 2016-09-21
+
+20.
+
+A - Jonathan Stanley Hill
+
+{BIO 16892113 <GO>}
+
+...20 years.
+
+FINAL
+
+A - Lance Henry Batchelor
+
+{BIO 6884486 <GO>}
+
+Yeah.
+
+A - Jonathan Stanley Hill
+
+{BIO 16892113 <GO>}
+
+And it's not illogical that at a certain point, we were going to come back and face into that
+and look at a new system. So we are in advanced discussions with a couple of parties in
+terms of ﬁnalizing a position going forward over the next three years to put in place a new
+system. So your question then was around underlying. I think you can see that we've got a
+relatively consistent run rate of CapEx across the business. It moves up and down in the
+£5 million to £10 million (22:59). I am comfortable that what we have guided in terms of
+our deleveraging takes into consideration what we need to spend across the business on
+the assets that we have and on improving the systems that we need in the business.
+
+Bloomberg Transcript
+
+Q - Nick Johnson
+
+{BIO 1774629 <GO>}
+
+Morning. Nick Johnson from Numis. Just two questions, please. First of all, on the motor
+footprint. I'm just wondering if there's been any change at this stage in the ratio of
+customer inquiries to sales as a result of the panel coming online. I think previously, you
+said that you would kind of (23:40) three out of four customer inquiries, but you weren't
+able to quote in-house. I'm just wondering if that metric is beginning to change due to
+the panel being there. And then secondly, in terms of motor broking proﬁtability, which is
+up sort of I think around 20% in the period against an increasing core broking customers
+(24:04) travelled I think. I'm just wondering if the proﬁt per customer has a new run rate
+now or is that some...
+
+A - Jonathan Stanley Hill
+
+{BIO 16892113 <GO>}
+
+I'll cover that in a sec. Yeah.
+
+Q - Nick Johnson
+
+{BIO 1774629 <GO>}
+
+...sure.
+
+A - Lance Henry Batchelor
+
+{BIO 6884486 <GO>}
+
+Well, I'll take ﬁrst of that. So we don't publish the (24:18) percentage or the ratio of inquiry
+to sales. But what I will tell you is that the panel is working pretty well for us. I will also say
+that most of the panel volume is on renewals. And we would expect that to be the case
+(24:32) customers that we already have that we know well and where those panels will see
+their (24:38). But what's interesting is you see them, as we expected, taking the higher-risk
+proﬁle customers because Saga's core competency is around the lowest risk customers.
+But we always believed and are now seeing that the panel is taking the higher risk proﬁle
+
+Page 8 of 17
+
+
+
+Company Name: Saga PLC
+Company Ticker: SAGA LN Equity
+Date: 2016-09-21
+
+FINAL
+
+in relative terms – compared to the whole market, they're still pretty low risk – but they're
+the higher risk ones on our panel.
+And obviously, that means we either make more margin if we choose to on those
+transactions or we can put that back into price in order to drive retention. So the panel is
+doing exactly what we want it to do. Over time, as the panel (25:13) and more members
+come on, we expect to see the footprint continue to grow as well. And again, we're not
+going to publish the proportion of conversion that we get. But I will tell you that it has
+improved.
+
+Q - Nick Johnson
+
+{BIO 1774629 <GO>}
+
+Okay, thanks.
+
+A - Jonathan Stanley Hill
+
+{BIO 16892113 <GO>}
+
+Bloomberg Transcript
+
+And in terms of the proﬁt from broking and other, there's three major components within
+this year's half-year numbers. There's the ﬁrst material element of the motor panel.
+There's the six months versus one month of Bennetts. And we also have our credit hire
+and repair business reported through this line as well. So actually, in terms of the
+underlying proﬁt, we had a couple of million coming in from Bennetts. We had over £1
+million coming in from the panel in the ﬁrst half. And we had some one-oﬀs in that credit
+hire and repair line, which set us back about £1.5 million, half-year-on-half-year. So
+actually, both the panel and Bennetts are contributing positively in the ﬁrst half of this
+year. We just have some one-oﬀs which haven't been repeated in the credit hire and
+repair lines.
+
+A - Lance Henry Batchelor
+
+{BIO 6884486 <GO>}
+
+(26:16).
+Yes, going back to the panel. Could you please lay out what you mean by this new
+insurance or insurer-hosted pricing mechanism and how it works within the panel? And
+secondly, how long would it take to reach your optimum pricing potential within the
+motor panel? You've reached that down (26:40) home I think within three or four years.
+Yeah.
+But what would the pace be within the motor panel? Have you seen some evidence for
+that competitive pressure reducing that (26:51) price?
+Well, ﬁrstly, the insurer-hosted pricing basically means that we'd get a real-time feed back
+and forth through the underwriters so that each time a quote comes in or each time a
+customer comes in; almost in real time, we can put that opportunity out to the whole
+panel. And then you want to (27:07) use the insurer-hosted pricing and can then run the
+algorithm and decide what they're willing to price at. That's obviously much more
+granular than just receiving a ﬂat ﬁle once a week that tells us what price proﬁles they
+want to work to. The more granular it gets, the more keenly they can price if they choose
+Page 9 of 17
+
+
+
+Company Name: Saga PLC
+Company Ticker: SAGA LN Equity
+Date: 2016-09-21
+
+to. So that gives – over time, as more and more of our underwriters move to that insurerhosted pricing structure, that should give us more and more keen pricing (27:33) on the
+panel.
+
+FINAL
+
+A - Jonathan Stanley Hill
+
+{BIO 16892113 <GO>}
+
+We actually were getting monthly fees. But you can imagine what an underwriter wants to
+build in as a caution element if it can't adjust its price for a full month. So by getting IHP,
+they're able to move those prices and get more comfortable to put those prices more
+keenly.
+
+A - Lance Henry Batchelor
+
+{BIO 6884486 <GO>}
+
+And then on the second half of your question, it's very hard to answer the question when
+would we get to full eﬃciency. It's obviously going to depend on how rapidly new
+panelists join. And the proﬁle of motor is very diﬀerent than home. So on the home panel,
+we didn't see high levels of eﬃciency until we had a dozen or so underwriters on the
+panel. You don't need that many for motor because each motor underwriter can cover
+much more of the market. And so already with ﬁve underwriters including AICL on the
+panel, we are seeing some gains. And we can see who the next one, two or three
+panelists are likely to be. And we can see that they will add competitive tension to the
+panel and also that they'll add footprint as well to the earlier question.
+Thank you.
+
+Bloomberg Transcript
+
+Ravi.
+
+Q - Ravi Tanna
+
+{BIO 16926941 <GO>}
+
+Hi, good morning. Ravi Tanna at Goldman Sachs. Three questions, please. The ﬁrst one
+was just on your motor claims commentary. And I think you referenced (28:51) in the
+proﬁle of your drivers. But the claims inﬂation you guys reference at about 5% seems
+pretty consistent with most others in the market. So I was just wondering what disconnect
+– if frequency is running a bit lighter, severity running stronger or is there any kind of
+noticeable diﬀerence in what you're seeing (29:13)?
+And the second question – and it's very a small number that (29:17) the earnings being
+down a little bit. And I was wondering, again, given that rates in the market have
+increased; what (29:26) maybe that could be a bit stronger. So I was wondering if there's
+particular within that. Third was really a point of clariﬁcation on the dividend. And you've
+got a one-third (29:38) policy over the last year. I think the interim versus ﬁnal was (29:42)
+of how we should think about that dividend policy. If I may, a quick thought on the
+solvency ratio. You spoke about two areas of beneﬁt, one being the quota share and the
+second being best estimates reduction. And I was wondering if you could quantify how
+much each of those has contributed to the solvency ratio increase.
+
+A - Jonathan Stanley Hill
+
+{BIO 16892113 <GO>}
+
+Should I go with this?
+Page 10 of 17
+
+
+
+Company Name: Saga PLC
+Company Ticker: SAGA LN Equity
+Date: 2016-09-21
+
+A - Lance Henry Batchelor
+
+{BIO 6884486 <GO>}
+
+Yes, please.
+
+FINAL
+
+A - Jonathan Stanley Hill
+
+{BIO 16892113 <GO>}
+
+Well, the frequency is about how much our drivers are driving relative to where or how
+much they used to drive previously. So the frequency number itself is driven by behavior.
+And what we are clearly saying is that we are not seeing a change in our behavior. I think
+the severity in the inﬂation is driven by what's happening in the market, what's happening
+in the legislative environment. So that's what drives inﬂation. So it's not something that is
+related to our driver behavior. It's related to the market and the overall environment. So
+that's why I think why the two things are driven by diﬀerent factors. But we're very clear in
+that we are still not seeing a change in our drivers' behavior in terms of driving patterns.
+And therefore, we're not getting that change in frequency.
+
+Bloomberg Transcript
+
+On the ancillaries, I would say, I'm assuming that you're pleased that our resilient highquality earnings are increasing. And what you might view as less high-quality earnings in
+terms of ancillaries, which is often quoted, is decreasing in (31:16) the proportion. What
+we're seeing is as the market inﬂates, you get people undertaking sales calls. And how do
+they ensure that they try and ﬁnalize some of those sales calls? So I think when you see an
+inﬂationary environment, you may see across the piece ancillary rates and add-on rates
+coming under a little bit of pressure.
+And I think we said historically, approximately one-third, two-thirds in dividend. We will
+stick with the word approximately. And that was a rough guidance rather than a
+mathematical rule. We haven't given the (31:55) quota share and best estimates. What we
+clearly said was that quota share would gradually provide a reduction in the amount of
+capital we needed in the underwriter. What we said at the year-end was if we're increasing
+our dividend payout ratio while maintaining our deleveraging by circa 10%, if one
+assumes that today's proﬁtability was to carry on and we were increasing and paying out
+that full 10%; you could equate that roughly to an incremental £45 million of capital
+release gradually over time. We haven't given the split at the half year and we're not
+intending to.
+
+Q - Blair Stewart
+
+{BIO 4191309 <GO>}
+
+Thanks. It's Blair Stewart from BofA Merrill. Two or three questions. Firstly, could you give
+(32:43) of where you're pricing in the whole market (32:48) stabilizing. And equally in the
+motor market, you've clearly bettered from the price increases (32:54). And the ﬁnal
+question really just related to the customer database work that you're doing. And you've
+seen a small pickup in the active customers. Is the intension there to get a greater
+proportion of active customers versus the total number of customers on the database? Is
+that the longer-term intension? How do you see that playing out?
+
+A - Lance Henry Batchelor
+
+{BIO 6884486 <GO>}
+
+Well, look, on both of those – ﬁrstly, on pricing, we've all seen a fairly persistent decline in
+home pricing over several years. We tend not give details out on what we see. But I will
+tell you that broadly we've seen the stabilizing of pricing in the home insurance sector. So
+Page 11 of 17
+
+
+
+Company Name: Saga PLC
+Company Ticker: SAGA LN Equity
+Date: 2016-09-21
+
+it's stopped dropping as precipitously as it was. And on motor, I think Jonathan covered
+in his presentation, earlier (33:46) we saw a rise in the ﬁrst half and it's stopped now.
+
+FINAL
+
+A - Jonathan Stanley Hill
+
+{BIO 16892113 <GO>}
+
+I think what some of the commentators – particularly if you look at the AA stats of Q2 rates
+being – I think they quoted somewhere around 2% is the quarter-on-quarter. We're not
+fundamentally seeing something diﬀerent than other market commentators in Q2, but
+obviously Q1-on-Q1 a year earlier was showing very strong growth as commentated on by
+a lot of those external indices.
+
+A - Lance Henry Batchelor
+
+{BIO 6884486 <GO>}
+
+And then on your database question though, I mean, I think the way to look at this is – that
+kind of IPO'd two-and-a-half-years ago, we were very focused on how many names did we
+have on the database, which was about the most granular and useful measure we had at
+the time. What's happening is we're gradually zooming in more and more on the
+customers that matter.
+
+Bloomberg Transcript
+
+So for the last two years, we've talked a lot about the number of active customers that we
+had, which is an important metric of course as to how many people out there have some
+kind of a relationship with Saga.
+I think the direction of Travel, I think you'll see us over the next years start to move in to
+how many higher value customers do we have, for example, how many products per
+higher value customer have we got, what's retention like amongst higher value
+customers. So, yes, of course, we want to drive up the number of active customers on the
+database, but not at any cost. It doesn't make sense to buy customer volumes in a very
+disruptive way.
+What makes sense is for you to take a customer and migrate them up the value curve, so
+that they buy their second, their third and fourth product from Saga. They become truly
+embedded in the brand so, hopefully, multiple decades relationship, and those are the
+high value customers, where we make a lot of our proﬁt.
+
+Q - Ben Cohen
+
+{BIO 1541726 <GO>}
+
+Thanks. Ben Cohen with Canaccord. I have two questions. Firstly, on the cross-selling part
+which you had announced, sort of the most important initiative. When are you going to be
+able to sort of put some numbers to that and the impact that that would have on the
+growth in the business? Or should we sort of see that as part of that kind of longer term
+5% to 7% proﬁt avenue (35:53) growth, the growth that you're looking for?
+And then, again, I'll try and ask a question on the Travel side, in terms of the impacts of a
+weaker sterling, so you're saying that kind of customer plans aren't really changing. If
+that's the case, would sterling being weaker including the majority of these holidays
+being in (36:18) currency, should we see a pickup in growth (36:22) in the second half and
+then into next year because of that currency eﬀect?
+
+Page 12 of 17
+
+
+
+Company Name: Saga PLC
+Company Ticker: SAGA LN Equity
+Date: 2016-09-21
+
+FINAL
+
+A - Lance Henry Batchelor
+
+{BIO 6884486 <GO>}
+
+Lance here. I'll take the ﬁrst and then hand over to Jonathan, who's thinking about the
+second one. So look, on cross-sell, internally, we are starting to develop really quite
+detailed metrics as to what we wanted to achieve. And that will drive itself all the way
+down to segment level where we decide for individual clusters of customers, what crosssell number we are chasing. We are unlikely to publish that level of detail externally. And
+to pick up on your question, I would view that as part of our portfolio of options and how
+we drive sort of good proﬁt, growth number each year, a long view.
+We have eight diﬀerent businesses, and then the way I view it is overlaying those eight
+businesses. We have no database, and all of the opportunities that we have within that
+database. And we see all of that adding up to our ability to deliver consistent proﬁt
+growth, consistent solid cash, deleveraging, and a stronger dividend. And I would rather
+focus the story of that level then drill down into individual customer segments and then
+cross-sell. There's a lot of work going on in that space.
+
+A - Jonathan Stanley Hill
+
+{BIO 16892113 <GO>}
+
+Bloomberg Transcript
+
+And I would reiterate the last point is that, what we are aiming to do as a business is work
+with the portfolio of businesses and products that we have to drive stable, solid, robust,
+sustainable growth in this business while generating good cash ﬂow to be able to delever
+and pay strong dividends. We haven't given any medium-term guidance. We've given
+one-year guidance. But we are very clear that everything we are doing adds up
+collectively to us to try to deliver that strong, stable, reliable growth going forward.
+
+A - Lance Henry Batchelor
+
+{BIO 6884486 <GO>}
+
+Which you're now seeing for ﬁve sets (38:11) and six months and going on. (38:12) And our
+goal is to move the levers as required in order to deliver. Clearly cross-sell is a part of the
+story.
+
+A - Jonathan Stanley Hill
+
+{BIO 16892113 <GO>}
+
+And the second question, in terms of Travel. Obviously, in our main tour operating
+businesses, we hedge forward a fair distance. We're pretty much 80% hedged forward in
+our tour operating businesses for all departures for next year. So, what you'll ﬁnd is that
+anybody booking today and anybody who wants to book in the next weeks or months.
+And anybody here is welcome to join, and will get the same price as the pre-Brexit level
+of the exchange rates.
+Clearly, there will come a point where we'll have to start pricing product outside and in
+the period after that, 80%. And then, we'll have to see the impacts on the pricing for the
+end customer as we work through that.
+So clearly, an exchange here would (39:11) stay exactly where they are today than the
+pricing to the end customer will go up. But we don't believe that that will stop customers
+traveling. We just think it may make them, if they're sitting on a certain budget, choosing
+something slightly diﬀerent than they may have chosen in the ﬁrst place.
+
+Page 13 of 17
+
+
+
+Company Name: Saga PLC
+Company Ticker: SAGA LN Equity
+Date: 2016-09-21
+
+Q - James A. Shuck
+
+{BIO 3680082 <GO>}
+
+FINAL
+
+Thank you. James Shuck from UBS. Just three follow-ups, if I may. Let's see, the proﬁt
+before tax growth guidance, you gave us a 5% to 7% for full year, that you're reiterating
+now this half-year. I'm not so much concerned of the 8.5% that you delivered at the H1, but
+just more the H1 has beneﬁted from a very high level of reserve releases, again, enables
+Saga to really sort of gain on this.
+So I guess my question is, why are you still going to stick in to 5% to 7% for the full year
+story, (40:01) all other things being equal, we should be above that. I kind of connected
+with that point. I just don't think you should start – your point around the guidance, you've
+only given one-year guidance, not multi-year. I mean, my understanding is you've given –
+you used to have an EBITDA guidance that's multi-year of 5% to 7% which has now moved
+down below to PBT level, which one could argue is actually a little bit less than the 5% to
+7% and as you projected further (40:26), Could you just state whether you do have multiyear targets and so on?
+
+Bloomberg Transcript
+
+And secondly, on the customer segmentation on the high-value customers. I mean, that's
+– it's interesting to us and you've talked a little bit about some of the KPIs around
+retention and product developments and also improving the kind of the customer
+journey. You seem to indicate that was a kind of multi-year approach before you'd see
+tangible signs of that beneﬁting earnings. Is that the right take on that or were there kind
+of things you're doing now that will actually – going to be impactful and you can actually
+show us KPI and things working?
+And then just ﬁnally on the Solvency II ratio. 196% for the full year. I don't know that you've
+given a target range, but do you have one? And just to refresh my mind, I think you talked
+about £40 million, I think being released from quota share. Is that – that's just coming
+through (41:17) over time as the book unwinds, but does that have an impact on the
+Solvency II ratio coming down as well?
+
+A - Jonathan Stanley Hill
+
+{BIO 16892113 <GO>}
+
+In terms of the ﬁrst part, we are aiming to delever underlying PBT growth. So, you can
+take that when I refer to underlying, is excluding derivatives, because we can't control
+derivatives. If the exchange rate moves signiﬁcantly and the fuel rate moves signiﬁcantly
+between now and the year-end, I'm not going to have a moving target up until the last
+day depending on what derivatives are doing. So, underlying compared to the 3.8% that
+we talked about today is underlying PBT growth that is the one that I'm aiming to get to
+5% to 7%.
+Secondarily, you have to remember the reserve releases are reducing in the second half
+of the year. So, do I think we are undercooking our target? No, I don't. Secondly, we are
+very clear in the prelims that we were guiding on one year at 5% to 7%. We have a range
+of diﬀerent products, as I've already said, which behave in diﬀerent ways with diﬀerent
+market circumstances. I'm not giving a multi-year target on a 2% range. We do not know
+what markets are going to do. In the ﬁrst half of this year, we've had motor up; we've had
+home being diﬃcult.
+
+Page 14 of 17
+
+
+
+Company Name: Saga PLC
+Company Ticker: SAGA LN Equity
+Date: 2016-09-21
+
+FINAL
+
+Everything we do is subject to market, subject to market conditions. So, we're not giving a
+multi-year target. We're very clear, our aim is to deliver solid, sustainable, underlying
+growth year-on-year, right, subject to underlying market conditions that we will not tie
+ourselves to a 2% range without any subject to. Anybody who does that, good luck to
+them.
+
+Q - James A. Shuck
+
+{BIO 3680082 <GO>}
+
+Well, you did do that?
+
+A - Jonathan Stanley Hill
+
+{BIO 16892113 <GO>}
+
+We didn't do that at the full year. And if you'd ask that question at full year, I've given you
+a very clear answer. This is a one-year target, and you will ﬁnd very, very few businesses
+that are quoted giving multi-year 2% ranges on proﬁt targets.
+
+A - Lance Henry Batchelor
+
+{BIO 6884486 <GO>}
+
+That's not to say that we are lowering our internal notable (43:13) ambition. We know what
+we're aiming at as a management team and – but we've agreed with our board. What
+we're saying is that it doesn't make sense to target your entire existence on a 2% range
+and put that action to the public domain in a multi-year way; because it can drive a city for
+ages (43:30).
+
+Bloomberg Transcript
+
+A - Jonathan Stanley Hill
+
+{BIO 16892113 <GO>}
+
+And potentially, as a proﬁt forecast as well, which I don't think we're in the business of
+doing either.
+
+A - Lance Henry Batchelor
+
+{BIO 6884486 <GO>}
+
+Yeah. So, segmentation by value customers, KPIs, et cetera. The work is under way now.
+We are seeing beneﬁts now. We are already spending our marketing dollars smarter than
+we were before in a more targeted way. We are already testing and learning in individual
+segments that we didn't know exist a year or two ago to drive better cross-sell result.
+We've seen really interesting and encouraging results.
+There is a question around how many KPIs we choose to put out into the public domain.
+My concern is that we end up micromanaging ourselves in front of you and reporting on
+the outputs of very small groups of customers on individual tests or even that we give
+away a lot of commercially useful skills and so on to outside world. But this is not – it is a
+multi-year program. It will continue – if I run this company for 10 more years, it will
+continue through the whole of those 10 years. But we are seeing beneﬁts already coming
+through and we expect to see those continuing in the months to come. But it's not as if
+we're waiting three years before it switches on.
+
+A - Jonathan Stanley Hill
+
+{BIO 16892113 <GO>}
+
+And in terms of Solvency II, we did expect the full year at – we weren't giving a range, but
+170% was at the upper end of where we'd expect to be at the full year. We obviously have
+
+Page 15 of 17
+
+
+
+Company Name: Saga PLC
+Company Ticker: SAGA LN Equity
+Date: 2016-09-21
+
+FINAL
+
+waited to see the ﬁrst six months of quota share impact actually coming into the numbers,
+because we really wanted to work that through methodically to really – to see how that
+was actually coming through in the SCR. So now that we've seen that, we understand that
+better how it's working through mechanically. You should expect that 170% will be at the
+upper end of where you should expect us to be going forward.
+
+Q - James A. Shuck
+
+{BIO 3680082 <GO>}
+
+And just to be clear, (45:18) really one-time or we need to just reset the 170% on yearend?
+
+A - Jonathan Stanley Hill
+
+{BIO 16892113 <GO>}
+
+We're not going to reset to a number. We will continue to manage within a sensible range
+which we have internally, of which 170% is at the upper of. But the quota share itself
+gradually gives us an impact of releasing the amount of reserves we have to hold. And as
+that comes through, then that enables us to take dividends out of that underwriting
+business and to the group, which enables us to free up cash to be able de-lever and pay
+dividends. That's the way it works.
+
+Q - James A. Shuck
+
+{BIO 3680082 <GO>}
+
+Okay.
+
+A - Lance Henry Batchelor
+
+{BIO 6884486 <GO>}
+
+Bloomberg Transcript
+
+Anymore questions in the last couple of minutes? We have one (46:01).
+
+Q - Blair Stewart
+
+{BIO 4191309 <GO>}
+
+Just one sort of – it's Blair Stewart again. Just on the reserve releases, regarding those
+things (46:06) over the last year, that we will reduce them further. They've remained quite
+high in the ﬁrst half of the year. You're saying that the reserve prudency is more or less
+unchanged. How should – if you can help us trying to model that number it's a signiﬁcant
+number. And how does that – how should we think about not moving over the next two to
+three years?
+
+A - Jonathan Stanley Hill
+
+{BIO 16892113 <GO>}
+
+We haven't – I mean, I will reiterate what we said before. It will start to step down this year.
+I've already said that it will be lower in the second half of this year than it was in last year.
+And then it'll gradually step down over the next few years. But as quota share kicks in,
+we'll actually – eﬀectively have less and less historic reserves which are there. So, I think
+I'm not going to give speciﬁc guidance on that. What you should expect is that, it's a
+gradual reduction over several years. And oﬀsetting that, you should see the beneﬁts of
+the panel and the ongoing beneﬁts of the eﬃciency driver we deliver within our services
+business that helps to oﬀset that, meaning we can still drive that good level of proﬁtability
+within our Insurance business.
+
+Q - Blair Stewart
+
+{BIO 4191309 <GO>}
+
+Page 16 of 17
+
+
+
+Company Name: Saga PLC
+Company Ticker: SAGA LN Equity
+Date: 2016-09-21
+
+Is that – maybe another reserve question. Does that (47:15) you gave in your releases by
+year? Is that fairly typical or is there anything (47:21)?
+
+A - Jonathan Stanley Hill
+
+{BIO 16892113 <GO>}
+
+FINAL
+
+It's fairly typical.
+
+Q - Blair Stewart
+
+{BIO 4191309 <GO>}
+
+Yeah. So, that gives you (47:23).
+
+A - Jonathan Stanley Hill
+
+{BIO 16892113 <GO>}
+
+Yeah.
+
+Q - Blair Stewart
+
+{BIO 4191309 <GO>}
+
+You know where it was coming from?
+
+A - Jonathan Stanley Hill
+
+{BIO 16892113 <GO>}
+
+Exactly. Exactly.
+
+Q - Blair Stewart
+
+{BIO 4191309 <GO>}
+
+Bloomberg Transcript
+
+Thank you.
+
+A - Lance Henry Batchelor
+
+{BIO 6884486 <GO>}
+
+Anyone else?
+Thank you very, very much for listening. And if anyone's got further questions or follow-up
+questions, point them to us. I think Tim and the MHP team will make sure they reach us.
+And really appreciate you coming along. Thanks everyone.
+
+This transcript may not be 100 percent accurate and may contain misspellings and other
+inaccuracies. This transcript is provided "as is", without express or implied warranties of
+any kind. Bloomberg retains all rights to this transcript and provides it solely for your
+personal, non-commercial use. Bloomberg, its suppliers and third-party agents shall have
+no liability for errors in this transcript or for lost proﬁts, losses, or direct, indirect,
+incidental, consequential, special or punitive damages in connection with the furnishing,
+performance or use of such transcript. Neither the information nor any opinion expressed
+in this transcript constitutes a solicitation of the purchase or sale of securities or
+commodities. Any opinion expressed in the transcript does not necessarily reﬂect the
+views of Bloomberg LP. © COPYRIGHT 2022, BLOOMBERG LP. All rights reserved. Any
+reproduction, redistribution or retransmission is expressly prohibited.
+
+Page 17 of 17
+
+

@@ -1,0 +1,1694 @@
+Q1 2020 Earnings Call
+Company Participants
+FINAL
+
+Lars Thykier, Chief Financial Officer, Topdanmark and Topdanmark Forsikring
+Peter Hermann, Chief Executive Officer, Topdanmark and Topdanmark Forsikring
+Steffen Heegaard, Group Communications and Investor Relations Director
+
+Other Participants
+Alex Evans , Analyst
+Asbjorn Mork, Analyst
+Derald Goh, Analyst
+Jakob Brink, Analyst
+Jon Denham, Analyst
+Mads Thinggaard, Analyst
+Martin Gregers Birk, Analyst
+Michael Huttner, Analyst
+Per Gronborg, Analyst
+
+Bloomberg Transcript
+
+Youdish Chicooree , Analyst
+
+Presentation
+Peter Hermann
+
+{BIO 20507411 <GO>}
+
+Good afternoon, everybody, and good morning to the USA. Thank you for joining us at this
+conference call. With me is Lars Thykier, the CFO; and Steffen Heegaard, the Group
+Communications and IR Director. We are holding this conference because earlier today, we
+published the interim report for Q1 2020. But before we go to the questions, we would like to use
+the first minutes just to explain the development in our investment result with focus on our
+hedging portfolio. Hope that's okay for you.
+So, I'll give the word to you, Lars.
+
+Lars Thykier
+
+{BIO 16427122 <GO>}
+
+Thank you. I don't want to waste your time, but I think I may save a couple of questions if I spend a
+couple of minutes on the investment result.
+So if I can make you go to the slide 15, which shows our investment return. You know this table, it
+appears that we've had a negative result in Danish equities and foreign equities and unlisted
+equities, put together DKK217 million. We have lost DKK190 million on government bonds and
+mortgage bonds and we've lost DKK94 million on CLOs. On the other hand, we have had DKK46
+million plus on our technical reserves.
+I'll try to take the essence out of the slide 15 and show the result on slide 16. You'll see that there
+are some minor things that is a positive result of DKK23 million and then we have what I call risk
+assets that is the major part of these equities and CLOs that has given a deficit of DKK311 million.
+And then we have our hedge portfolio, which is supposed in our forecast to give result of zero. But
+we are having DKK190 million plus on our asset positions and only DKK46 million gain on our
+technical provisions, leaving us with a result of minus DKK144 million. There are reasons for this, of
+
+
+
+FINAL
+
+course, and I'll try to explain to you what has -- some -- what has happened in the Danish
+mortgage market.
+If you look at slide 17. On the left part of the table, we are comparing seven-year euro swaps to the
+only run open mortgage bond 30 years in tenure with a 1% coupon. If you look at blue dots, that is
+how the correlation has been between those two items in the first two months and over the
+quarter and the half of March. For instance, if you look at the blue dot farthest to the left, it shows
+that if the seven-year euro swap was minus 42 basis points, then the 30-year mortgage bond
+would cost 101.4, something like this. And then there is a very fine minor combination between
+swap rates and mortgage prices as long as we are within the period from the 1st January to midMarch.
+
+Bloomberg Transcript
+
+This is how it is supposed to be. There should be close coordination between swap rates and
+market bond prices. But on the 20th March, or actually a few days before, we saw a rising panic in
+the mortgage market, which, among other things, led to interest rate increase from the Danish
+Central Bank. It was only Denmark that increased the money market rates and we increased it by
+15 basis points. This 15 basis points increase in the money market rate, it actually hit all maturities
+on the swaps. So the swaps rate increased by more than 15 basis points. On top of this, there
+were a huge sell-off in government bonds, which led to the result that you can see in the lower
+part of the table.
+The yellow dots that is the correlation between swap rates and mortgage prices from -- in the
+week from mid-March to 4th March and the gray ones is the correlation between mortgage bond
+prices and swap rates in this last week of March. The gray diamond in the middle is the relation on
+31st March. As you can see, the mortgage bond price has fallen 3.5% compared to where it, so to
+speak, should be on the 31st March. Some of this is due to the changes in swap rates and some of
+this is due to idiosyncratic specifics when we're talking mortgage bonds. But, of course, this is very
+expensive.
+Then you could say this is because mortgage bonds are hard to handle, there may be increase in
+the OES, there may be some decrease in prices because of optionality and so on. But if you look
+at the right part of the table, you can see the correlation between three-year bullet loans and
+swap rates. And we are going to detail the yellow, what is called, diamond, yes, thank you. Yellow
+diamond shows where the three-year bullet loan were compared to where it was supposed to be
+if you calculated price from the first 2.5 months in the quarter. So we have a substantial decrease in
+mortgage bond prices here as well, even though there is no optionality.
+What happens is that when mortgage prices decrease, then the value of the prepayment option
+decreases as well. And this means that the maturity or the duration of the mortgage bonds
+increases with decreasing prices. And we have this situation where our prices decreased a lot and
+this means that duration increases a lot and everybody owning mortgage bonds saw themselves
+with far bigger risk than they wanted to have, which meant that they tried to get rid of the
+mortgage bonds. This led to pressure on the Danish krone, which again led to this unilateral
+interest increase from the Danish Central Bank, which again, as I said before, led to an increase in
+the spread between your swaps and Danish krone swaps, not only in the short end, but in the full
+spectrum.
+There was some relief from the VA, but it was completely dwarfed by what happened in -- on the
+asset side. There was a complete turmoil in the Danish mortgage market. It was very hard to trade
+sizable chunks of mortgage bonds. So it has been a market with some kind of panic and with very,
+very steep price changes in very short time.
+Looking at page 19, I will try to gather this a little. The -- our starting point is that -- which we used in
+the forecast is that the return we'll get on assets and the return we'll get on liabilities will even
+each other out and we'll get the zero result. And then if we compare to the -- to what I showed
+you before, we had a spread widening on fixed loans, which alone cost fixed loans that is kind of
+
+
+
+FINAL
+
+adjustable rate mortgage short time bullet bonds, which cost DKK58 million and we have the
+spread widening on the long run mortgage bond -- 30 years mortgage bonds mainly of DKK269
+million. The gain on the volatility adjustment was DKK269 million as well, but that is a coincidence.
+The volatility adjustment should, in an ideal world, cover the losses on the fixed loans, the
+mortgage bonds and a substantive part of the DKK86 million you see in the last line. So the VA did
+not help us sufficiently to ensure a reasonable result.
+On top of what we can -- what we have with the price dislocations, there are some inherent things
+when we use mortgage bonds. There is a volatility and the mismatch, which make -- which forces
+us from time-to-time to sell when things are cheap and to buy when things are expensive to keep
+our interest rate sensitivity within reasonable levels. This euro-krone swap rate I mentioned, which
+actually alone cost around DKK100 million. And on top of the impact in -- on the mortgage bonds,
+there's some more impact on assets that are not mortgage bonds, but still what were the price
+still reflect Danish interest rate levels.
+Then we have the problems we always have that when we make up the cash flows on the liability
+side, we make a forecasting at the beginning of the quarter. This forecast is sent to, yes,
+management company that tries to hitch the forecast as well as possible, but the forecast is not
+necessarily the truth at the end of the quarter. There has been some impact from the pension tax
+and so on. All-in-all, this adds up to DKK86 million, leaving us with DKK144 million deficit in the part
+of portfolio, where we should have a zero and where we will get a zero in the long run, I suppose.
+
+Bloomberg Transcript
+
+I hope this helps somebody or some of you at least.
+
+Peter Hermann
+
+{BIO 20507411 <GO>}
+
+Thank you, Lars. We are now ready to answer questions. So, please ask them one at a time. And,
+operator, may we have the first question?
+
+Questions And Answers
+Operator
+Thank you. (Operator Instructions) Our first question comes from the line of Asbjorn Nicholas Mork
+from Danske Bank. Please go ahead.
+
+Q - Asbjorn Mork
+
+{BIO 17028219 <GO>}
+
+Yes, good afternoon and thanks for taking the questions. First on your top line, the new guidance
+that you come with and the -- I guess, the negative bias that you have for the rest of the year. I'm
+just wondering that you had a pretty good start to the year and you also mentioned that the net
+impact from the Nordea and Danske distribution is probably the worst in Q1, it should improve
+throughout the year. So could you elaborate a bit on how big do you see the gross headwinds on
+your premium side from, I guess, it's workers compensation and SME portfolios where you see the
+risk? And also if you look into 2021, should we expect a negative growth to your premium income
+next year? Thank you.
+
+A - Lars Thykier
+
+{BIO 16427122 <GO>}
+
+I mean, this is really -- it's guessing. We don't know what the government is going to do. We don't
+know how fast the society is open again. What we know is that if we lose premiums, we lose claims
+as well. So we think that we have a reasonable bid on the profitability, while we are a little more
+unsecure when we are talking (Technical Difficulty). Definitely, we are going to lose premium on
+workers' compensation. And we'll lose SME premiums in general on top of workers' compensation.
+On the private lines, I don't think that we'll lose very much, if we will lose anything. What else can
+we tell him on this?
+
+
+
+FINAL
+
+A - Peter Hermann
+
+{BIO 20507411 <GO>}
+
+I think that actually, you also mentioned the difference between the former Danske portfolio and
+the Nordea. And, of course, in Q1, we have had, still you can see, a churn on Danske and also that
+we actually have quite a big inflow of bookings. But before we have the booking and the meeting
+and the advice on the sale and transfer of the insurances to Denmark, that will go some time,
+meaning that the premium income from Nordea portfolio will first start here in Q2 for real,
+meaning also that we got a negative premium growth of 2 percentage points in Q1. But looking
+ahead, we still think that also from 2021 as you ask about that Nordea will still keep up with the loss
+we'll get Danske. So we still see there's a good momentum in the rest of the business. So, no, I
+don't expect negative growth for 2021, but it depends, of course, as Lars said about, what will be
+the government tools that we'll use and how much will be -- how many people will be unemployed
+and so on.
+
+A - Lars Thykier
+
+{BIO 16427122 <GO>}
+
+It takes time from we get an agreement with the new customers until they are in our portfolio. So
+the portfolio has hardly increased in the first quarter, but it is growing well, nonetheless.
+
+A - Steffen Heegaard
+
+{BIO 1513480 <GO>}
+
+And we can also say that in the September frame, we have a nice inflow of customers from almost
+all companies, especially within the SME market.
+
+Bloomberg Transcript
+
+Q - Asbjorn Mork
+
+{BIO 17028219 <GO>}
+
+But isn't it fair to say that at least it sounds on you guys that the distribution from Nordea is
+probably a bit better than you had hoped for and the outflow churn from the Danske portfolio is
+probably a little bit lower as well, so net-net, both are in the positive direction versus your
+expectations or am I reading too much into it?
+
+A - Lars Thykier
+
+{BIO 16427122 <GO>}
+
+No, that is true, but the size is marginal. We have actually increased our expectations for the full
+year by very little amount due to the success in Nordea and we haven't changed anything because
+of Danske, but it looks a little bit better than we had expected.
+
+Q - Asbjorn Mork
+
+{BIO 17028219 <GO>}
+
+Okay. Fair enough. If I may too on your SME portfolio in Q1, it looks pretty soft. I know Q1 last year
+was very strong. And you mentioned prior trends, but could you elaborate a bit on what's actually
+going on in the SME portfolio and is it short-term negative, obviously, now as there are some more
+fundamental trends here?
+
+A - Peter Hermann
+
+{BIO 20507411 <GO>}
+
+Actually, we would say that actually we have a improvement in the SME portfolio in terms of risk,
+the underlying risk, if you look at the quarter one. We have had some large scale claims that's -- as
+you know. And then maybe if you're asking, is it the run-off you're asking too maybe? Because that
+--
+
+Q - Asbjorn Mork
+
+{BIO 17028219 <GO>}
+
+Exactly. Okay.
+
+A - Peter Hermann
+
+{BIO 20507411 <GO>}
+
+So the run-off in the SME segment is negative at the quarter, is that what you're asking for?
+
+Q - Asbjorn Mork
+
+{BIO 17028219 <GO>}
+
+
+
+Exactly, yeah.
+
+FINAL
+
+A - Lars Thykier
+
+{BIO 16427122 <GO>}
+
+Okay. Okay. Of course, I would like to mention in the first place that actually the SME result in Q1
+was as we forecasted at the beginning of the year. So the profitability is as we expected it to be.
+On the run-off side, we have had some, we could say, unpleasant items. We are not used to
+substantial run-off losses on our short-term business. But this time, we actually have had that, and
+that has to a major degree been because of the unprecedented amount of rain that we have
+seen, that our models have not been able to handle this in the right way. So we have run-off loss
+on flood house, we have run-off loss on building, we have run-off loss on liability and then we have
+run-off loss on unemployment insurance. And that is -- the unemployment insurance and the
+building is, of course, the SME.
+
+A - Steffen Heegaard
+
+{BIO 1513480 <GO>}
+
+And further to the SME, you can say that in Q1 last year, we had an extraordinary good claims trend
+on the agricultural area, where the Q1 this year is more normalized with a more normal level of
+large scale claims.
+
+Q - Asbjorn Mork
+
+{BIO 17028219 <GO>}
+
+So this basically means that it goes back to the heavy amounts of rain also in late last year and then
+increased unemployment risks, is that how we should look at it or --?
+
+Bloomberg Transcript
+
+A - Lars Thykier
+
+{BIO 16427122 <GO>}
+
+The -- we increased reserves on unemployment risk from people -- for people who are already
+unemployed and who were unemployed last year. That amounts to run-off loss this year. And then
+we -- as you said, yes, we had this terrible rain in Q3 and Q4, especially last year as well and our
+models hasn't handled this phenomenon as they should.
+
+Q - Asbjorn Mork
+
+{BIO 17028219 <GO>}
+
+Okay, fair enough.
+
+A - Steffen Heegaard
+
+{BIO 1513480 <GO>}
+
+So you're right to the run-off losses.
+
+Q - Asbjorn Mork
+
+{BIO 17028219 <GO>}
+
+All right. Fair enough. And on your travel claims for 2020 or basically your 2020 guidance, could you
+tell us -- I mean, how much have you included in claims for the travel part? I guess, you have no
+other limit of reinsurance considering your insurance policies with customers. So, how much have
+you actually put in there? I guess, it's a pretty -- I mean, for March alone, it's DKK35 million-ish,
+right? So it's -- it could be pretty big number for -- over the summer holidays, I guess.
+
+A - Lars Thykier
+
+{BIO 16427122 <GO>}
+
+I mean, the intensity was very, very high in March. We won't see a lot of evacuations in six months
+from now, for instance. And I suppose that there will be a lot of people who don't travel due to the
+situation. And that means that we expect this to decline, but basically we think that what we are
+losing on travel and unemployment insurance, we will more or less gain on motor contents and
+accident. So, we have a net figure, so to speak. We show you DKK14 million net as COVID-19 result
+in Q1 and we expect that this is going to be closer to zero in the next three quarters. But again, it
+depends heavily on what the government is going to do.
+
+A - Peter Hermann
+
+{BIO 20507411 <GO>}
+
+
+
+FINAL
+
+On the year, we expect COVID to have a DKK50 million to DKK100 million loss in and that's 0.5 to
+1 percentage point, but that's also due to -- if there's a risk of both loss income protection, there's
+-- there could be potential losses on illness and accidents products, health insurance, disability
+insurances. So that's the net result. And also you see in terms of travel, you can say that what we
+also see is that, yes, we will think that this can cost some money over the holidays if the country or
+the world will be shut down, but again we don't have the same amount of claims when people are
+on vacation as we used to do so. So this is, you can say, a calculation between different product
+lines we're ending up in the total of 0.5 to 1 percentage point as a result of the COVID situation
+during the year.
+
+A - Lars Thykier
+
+{BIO 16427122 <GO>}
+
+Which includes that it is harder to get people claiming workers' compensation and hardest for
+people who are claiming an illness and accident compensation to get back to work.
+
+Q - Asbjorn Mork
+
+{BIO 17028219 <GO>}
+
+Sure. But just on the travel part, the numbers that you have booked for Q1, is that only for Q1, so
+including 31st March? Does it actually include people that have filed for a claim, for instance, for
+Easter holidays in March, but haven't -- I mean, of course, Easter was Q2, so are they -- those
+claims included in the Q1 number?
+
+A - Lars Thykier
+
+{BIO 16427122 <GO>}
+
+Bloomberg Transcript
+
+No, it's -- this is the March numbers. So it's the payouts we have from until the end of March.
+
+Q - Asbjorn Mork
+
+{BIO 17028219 <GO>}
+
+Okay. Fair enough. Then on the income protection insurance, as you also mentioned, a 20 basis
+point impact for Q1 or basically, I guess, for March, it's isolated too. You've stopped selling the
+product and -- how big is this impact potentially for 2020? I mean, one month was 20 basis points
+in your combined ratio. So how much do you feel this?
+
+A - Lars Thykier
+
+{BIO 16427122 <GO>}
+
+Something like around 5 a quarter. The fact of the matter is that we have around DKK100 million in
+premium, but a major part of this is collective agreements with the unions and so on, where we
+have -- where we build up huge bonus reserves. So the bonus reserves are going to pay for the
+major part of the loss. We are not utterly concerned about this.
+
+Q - Asbjorn Mork
+
+{BIO 17028219 <GO>}
+
+Okay.
+
+A - Peter Hermann
+
+{BIO 20507411 <GO>}
+
+You can also say our income protection insurance is mainly in the, you can say, the segment of
+people in Denmark with a, you can say, higher salary. We don't have that many about in the lower
+salary end. So we don't see the same risk on an unemployment rate for those of us at key
+segment. We will probably lose some money on this, yes, but we've not stopped selling exactly
+with that. We just stopped selling when you just go into the website and buying it. So -- but we still
+have some partnerships, where we are still selling to these unions, so that's the same.
+
+Q - Asbjorn Mork
+
+{BIO 17028219 <GO>}
+
+Okay. Then on your health and accident and the communication from the Danish embassy
+yesterday, I was just wondering, how do you see this impacting your -- especially, I guess, your life
+business, but your -- in general, your business looking ahead?
+
+
+
+FINAL
+
+A - Peter Hermann
+
+{BIO 20507411 <GO>}
+
+You can say as an isolated thing, it's a positive thing. You can say that we have first experienced,
+you can say, deficits on our accident illness last year in 2019, but yes, we are also struggling with
+combined to 100. We have already plans about looking into pricing as we also told you before.
+Now if that will probably get easier, you can say, but still we are expecting to do some price
+increases. We also did expected that beforehand. Now, we are definitely also going to do it also
+with the situation, the message from the FSA, but you can say that we're also experienced and
+maybe you will look into that having more risks and more claims on this part due to the fact that if
+there is a high unemployment rate then people cannot return to their -- return to a job making the
+duration of the payments longer and we also expect actually may be more people getting
+disabled because they were actually able to keep track of themselves before with a -- maybe
+fighting with an illness, but still earning money and maybe now they are not earning any money and
+then they could be -- have a disability claims paid out. So we are still expecting the same results on
+the accident illness for the year. That's the expectation.
+
+Q - Asbjorn Mork
+
+{BIO 17028219 <GO>}
+
+All right.
+
+A - Peter Hermann
+
+{BIO 20507411 <GO>}
+
+And we don't -- we haven't actually changed our view on the next years', you can say, this
+unexpired risk. We haven't changed our view on that on unexpired risk meaning for '21.
+
+Bloomberg Transcript
+
+A - Lars Thykier
+
+{BIO 16427122 <GO>}
+
+Meaning that the premium we see for this quarter is a true premium, so to speak.
+
+Q - Asbjorn Mork
+
+{BIO 17028219 <GO>}
+
+Yeah. All right. Fair enough. That makes sense. My final question from my side on your investment
+income and, Lars, going back to your slides in the presentation. So just wondering, do you still have
+the same positions? I mean, may we -- should we expect there should be sort of a reversal, I
+guess, on the hedge portfolio, at least the potential for reversals in the next couple of quarters
+from the losses that you made in Q1?
+
+A - Lars Thykier
+
+{BIO 16427122 <GO>}
+
+There has been some changes in the portfolio, but the basic is that we have kept more or less the
+same portfolio. We have tried to avoid selling out of too cheap mortgage bonds by hedging the
+extra risk via swaps, keeping the now cheap mortgage bonds at outlooks. So this money is coming
+back, but it may take a long time, the running yield will be higher than it were before. Maybe we'll
+see a normalization in this year, maybe you'll see normalization last year, but the present value of
+the return on these bonds has not changed very much.
+
+Q - Asbjorn Mork
+
+{BIO 17028219 <GO>}
+
+All right. That's very clear. Thanks a lot. Thanks for the questions.
+
+A - Peter Hermann
+
+{BIO 20507411 <GO>}
+
+Thank you.
+
+Operator
+Next question comes from the line of Jakob Brink from Nordea. Please go ahead.
+
+Q - Jakob Brink
+
+{BIO 20303720 <GO>}
+
+
+
+FINAL
+
+Thank you and good afternoon. First question from my side is on the COVID-19 implications to your
+claims ratio in the quarter. So, I guess, I'm just wondering a bit on the, I guess, the travel of 1.5
+percentage points impact is what it is, but then motor of 0.8 percentage points sounds rather low,
+especially when you're hearing in the market, I think Codan said a 30% reduction in motor
+frequencies in March, I know it's only one month of three in the quarter, but still 0.8% on something
+which is 10 times larger premium book than travel and then it's a smaller impact. Could you maybe
+give us a bit more details on why you think motor is that low or is there any technicalities I don't get
+right?
+
+A - Lars Thykier
+
+{BIO 16427122 <GO>}
+
+In the first place, we have to admit that we cannot distinguish between different reasons why travel
+prices has increased or travel claims has increased, and we don't know exactly why motor claims
+has decreased. So we have made guess on what was due to corona and what was due to other
+things. So that is what it is. I can't justify that the claims level will be -- or change in claims there that
+we have had is very much better than what we see from some of our competitors, but what I -- I
+don't really see what we have heard from some of the others in in our books.
+
+Bloomberg Transcript
+
+A - Peter Hermann
+
+{BIO 20507411 <GO>}
+
+Another explanation just to make another point is that if you look at the first two months of the
+year, then our travel insurance was at a, you can say, more normalized level. And then in the -- in
+March, we had all these claims trend -- or claims on travel and the first two months of the year also
+was a little worse. Actually, we had quite a lot of actually accidents in auto portfolio. And in January
+and February, even though it wasn't a very, you can say cold winter, but that is the effect that we
+have seen it on the quarter. And we are also seeing a drop in auto claims in a -- as we have seen
+from some of our competitors looking ahead, but we also see still increase in the -- you can also
+see travel claims still being canceled. So --
+
+A - Lars Thykier
+
+{BIO 16427122 <GO>}
+
+I mean, if we had DKK10 million more losses in the two first months, we may have DKK30 million
+on COVID-19, but we have stated that it was DKK20 million.
+
+Q - Jakob Brink
+
+{BIO 20303720 <GO>}
+
+And just if you try to calculate backwards, I know it gets rather rough on the external numbers, it
+looks more like you've probably had a 1% reduction in your frequencies in -- on motor in Q1, which
+sounds very little, given -- I mean, when you drive around, there's basically no cars. But I guess, I'm
+just wondering, is there something -- I understand if the management in Topdanmark wants to be
+a bit conservative in these times, could there be something where you've maybe been a bit more
+careful or cautious in the kroner amount you set aside to a given claim or has that not been the
+case?
+
+A - Lars Thykier
+
+{BIO 16427122 <GO>}
+
+We have not changed the krone amount that we have put aside, but we are probably a little bit
+cautious about how much we expect to save, the cost of corona.
+
+Q - Jakob Brink
+
+{BIO 20303720 <GO>}
+
+And I guess that actually brings me to my next question because -- so, in Q1, you had around 50,
+5-0, basis points negative impact and you're guiding for 50 to 100. I think at least that's what it
+said -- says in your report, but I think you said something different before. So, I mean, why would it
+get worse from now? I guess, I hear what you're saying, but travel was maybe a bigger issue in Q1
+than it will be in Q2 or maybe not. I don't know what you think. And then still very low social
+activities as you write in Q2, I guess. So, why would Q2 be weaker than Q1?
+
+A - Lars Thykier
+
+{BIO 16427122 <GO>}
+
+
+
+FINAL
+
+Actually, it is not different from what I said. I just only described a part of the universe. I described
+what happens to motor, to travel, to accident and to unemployment insurance. On top of this, we
+expect negatives from, for instance, claims payable. We expect more people not to pay the
+premiums. And then we expect this impact on next end and workers' compensation. So all-in-all,
+we think that there are some things that helps us now. We have a better performance on workers'
+compensation now before people don't work. But later on, it will be worse than before because
+the people who are already out of work, they can't get work again.
+
+Q - Jakob Brink
+
+{BIO 20303720 <GO>}
+
+I get that point, but then I guess a follow-up, which becomes a bit detailed, but I guess you haven't
+seen anything on workers' compensation yet, so it must be modeling where you have turned down
+the probability that people get -- can get back to job. So, how much have you turned it down? It
+just seems like there's building some buffers on that one.
+
+A - Lars Thykier
+
+{BIO 16427122 <GO>}
+
+That depends -- we rely on the experience we had from 2009.
+
+Q - Jakob Brink
+
+{BIO 20303720 <GO>}
+
+Okay. So it's a 2009 scenario you've put into your guidance?
+
+Bloomberg Transcript
+
+A - Lars Thykier
+
+{BIO 16427122 <GO>}
+
+No, but we have used the 2009 scenario to give us an idea about what will happen to premiums
+and what will happen to claims. We saw at that point of time that there was a lot of premiums that
+were reversed. And -- I mean, the companies, they have told us they have 100 employees and
+they have paid premiums for 100 employees. And then sometimes during the year or next year,
+then they will call us and tell us that we actually only had 80 or 50 or whatever they had. And then
+they claim their premium back. So that is taking into the expectations the premium income. And
+then we can see how tough it has been to get people back in work and of course the situation is
+different now from what it was 10 years ago. We have a bigger system, but we simply know that if
+there are more who fights about the jobs, then the worker compensation claimants and the illness
+and accident claimants they are not the first ones to get a job.
+
+A - Steffen Heegaard
+
+{BIO 1513480 <GO>}
+
+And on health insurance, we can see from experience that when families have been too much
+together for too long time and they get annoyed and the need for assistance from a psychiatrist is
+increasing. Furthermore, we see more stress-related claims when the unemployment increases,
+both for the people not being laid off having to work more and also from people having been laid
+off. So we're expecting more claims around this area.
+
+A - Lars Thykier
+
+{BIO 16427122 <GO>}
+
+A special thing to mention is that the public hospitals, they are half empty for the time being.
+Nobody gets the treatment they need. And that means that we have at least a year of necessary
+operations put in front of us. And when people cannot get this treatment they need from the
+public hospitals, they will turn to private hospitals and ask us to pay.
+
+A - Peter Hermann
+
+{BIO 20507411 <GO>}
+
+And there will be some experience from the strike. Do you remember that when the nurses
+striked? Then we've used the experience from that time to say that will give some kind of claims
+whatever as well. But it all depends on how Denmark and the rest of world will open up. So this is
+more -- you can say, more unsecure prognosis. So that's also the reason why we've put in a bigger
+spread between the low end and the high end.
+
+
+
+Q - Jakob Brink
+
+{BIO 20303720 <GO>}
+
+Makes sense. And then on life insurance, didn't you say back on the 23rd March that you were not
+expecting to book the risk allowance in life? And as far as I can tell, you ended up doing it anyway.
+So was it just performance in the past week or what happened?
+
+FINAL
+
+A - Peter Hermann
+
+{BIO 20507411 <GO>}
+
+Well, it was two things. One is that, as you know, we have had a pretty strong rally in risk assets
+during the last week of March. So, of course, the situation is better now and the collected bonus
+potentials are higher than they were at that point in time. The other reason was that I consider the
+special profit we had with the -- this earnings at that point of time. When we have very slim
+collected bonus potentials, then there is some probability that we will make it and get our return.
+And there's some probability that we'll not get our return. I considered the probability we -- this
+return that we expect to have with a pretty high profitability that we wouldn't get. And I'm not quite
+as pessimistic now as I was at that point of time. So it is little -- or to some extent, it's my degree
+of optimism that has shown in the change.
+
+Q - Jakob Brink
+
+{BIO 20303720 <GO>}
+
+Okay, that's fair enough. And then last question from me. On the SCR reduction on a Group level,
+is -- I guess, that's then given what you showed before on the VA and fixed income that must be
+driven then by equities or what -- or I guess it's also partly the VA that is pushing it down, but is it
+the equities or is there anything else pushing down the SCR?
+
+Bloomberg Transcript
+
+A - Lars Thykier
+
+{BIO 16427122 <GO>}
+
+We gave a substantial relief from the decrease in size of equity and CLO portfolios. The equities
+have a loan and this regulates that CLOs' costs a 100% on the SCR. So if we lose a 100, we -- our
+solvency requirement goes out of the door. On the equity side, we have accessed the smaller
+portfolio as well explanatory variable and the other one is that the dampener has gone from being
+positive at year-end to being minus 10 now. So there is a substantial increase on this part of the
+SCR. On top of this, we have updated our internal models, we have made new calculations and
+this has given us the relief on the life insurance risk as well. Countering the loss absorption capacity
+of life has decreased as well. And then there is the difference in dividend. We used the dividend of
+DKK1.5 billion in the year-end results and we have used DKK750 million now.
+
+Q - Jakob Brink
+
+{BIO 20303720 <GO>}
+
+How much is the reduction in non-life SCR?
+
+A - Lars Thykier
+
+{BIO 16427122 <GO>}
+
+Actually, items use that very much because of the single company SCR is not showing what it
+should show.
+
+Q - Jakob Brink
+
+{BIO 20303720 <GO>}
+
+Okay, fair enough. Many thanks.
+
+A - Lars Thykier
+
+{BIO 16427122 <GO>}
+
+Werlcome.
+
+Operator
+And the next question comes from the line of Mads Thinggaard from ABG. Please go ahead.
+
+Q - Mads Thinggaard
+
+{BIO 15369662 <GO>}
+
+
+
+FINAL
+
+Yeah, hi, this is Mads. Thank you for taking my question here. I have a follow-up on the COVID-19.
+Looking at page seven in your presentation, it seem -- I mean, of course all -- I guess, it's around
+9,500 claims you have in travel claims and I guess there's a quite significant number in there from
+COVID-19. But could you -- do you have an idea of the average level, it seems to be below
+DKK4,000 per claim, how will that evolve during Q2 and Q3 in your view?
+
+A - Peter Hermann
+
+{BIO 20507411 <GO>}
+
+The average claim on evacuations and cancellation is almost the same actually in the -- as we've
+seen in the first quarter. But -- yeah.
+
+Q - Mads Thinggaard
+
+{BIO 15369662 <GO>}
+
+So it's kind of the same damage picture per claim we should expect?
+
+A - Peter Hermann
+
+{BIO 20507411 <GO>}
+
+Yeah, but it's not that low as you was mentioning.
+
+A - Lars Thykier
+
+{BIO 16427122 <GO>}
+
+No, it's rather DKK8,000 or DKK9,000 --
+
+A - Peter Hermann
+
+{BIO 20507411 <GO>}
+
+Bloomberg Transcript
+
+It's around 8 or -- between DKK8,000 and DKK10,000 per average claim.
+
+A - Lars Thykier
+
+{BIO 16427122 <GO>}
+
+So what is wrong here?
+
+Q - Mads Thinggaard
+
+{BIO 15369662 <GO>}
+
+Okay. It's -- I'm simply taking the kind of the -- I think it's DKK35 million you mentioned from
+COVID-19 on travel.
+
+A - Lars Thykier
+
+{BIO 16427122 <GO>}
+
+Yes, I understand. Exactly I understand your point. And I can't really explain it. It shows as if it costs
+DKK3,500 per claim, but if we look on evacuations and cancellations, it is actually between
+DKK8,000 and DKK9,000 and I'm not able to explain the difference right away.
+
+Q - Mads Thinggaard
+
+{BIO 15369662 <GO>}
+
+Okay. Do you think it will change over the coming quarters? Or I mean, with larger perhaps over
+the summer, longer (Multiple Speakers) et cetera?
+
+A - Lars Thykier
+
+{BIO 16427122 <GO>}
+
+No, no, I have no reason to believe that.
+
+Q - Mads Thinggaard
+
+{BIO 15369662 <GO>}
+
+Okay. So DKK8,000 to DKK9,000 per claim is what to expect and then no reinsurance as you said
+before? Okay.
+
+A - Lars Thykier
+That's right.
+
+{BIO 16427122 <GO>}
+
+
+
+Q - Mads Thinggaard
+
+{BIO 15369662 <GO>}
+
+FINAL
+
+Yes. Thanks. Then on -- I mean, looking at slide five in the presentation, I think you indicate a bit
+from the -- I guess, the interest rate changes perhaps also driven by the COVID-19 market turmoil,
+kind of a neutral impact for 2020. I don't know if you could elaborate a bit on that? And also tell us
+what kind of discounting rate you are using at the start of Q2?
+
+A - Peter Hermann
+
+{BIO 20507411 <GO>}
+
+If you look at the interest rate change in the first quarter then you can see that if you look at the
+interest rate and compare that with the -- include the VA, then it has increased in the short-end,
+and in the long-end, it has actually decreased. And when doing the calculation of our cash flows,
+then -- you can say, then it's almost the same as we were standing at the beginning of the year.
+And that's the reason why we are saying neutral because that's the best we know for now. And the
+interest rate we use for Q2 is the -- is what is happening in the end of Q1.
+
+A - Lars Thykier
+
+{BIO 16427122 <GO>}
+
+Actually, we make this too early to get the final interest yield or yield curve from EIOPA. So we use
+proxies from either the regulator or from Danske Bank. I've used the proxy from the regulator and
+it turned out to be 6 basis points too low. So we'll actually see very small 0.1, 0.2 impediment in the
+combined ratio from the interest rate, but we have not mentioned that in the accounts.
+
+Q - Mads Thinggaard
+
+{BIO 15369662 <GO>}
+
+Bloomberg Transcript
+
+Okay. Okay, thanks. But what kind of delta would you expect for Q2 mentioned from last year?
+
+A - Lars Thykier
+
+{BIO 16427122 <GO>}
+
+Let's see. I don't know.
+
+Q - Mads Thinggaard
+
+{BIO 15369662 <GO>}
+
+Okay, okay. I'll get back to you on that then.
+
+A - Lars Thykier
+
+{BIO 16427122 <GO>}
+
+Yeah, yes.
+
+Q - Mads Thinggaard
+
+{BIO 15369662 <GO>}
+
+Thanks.
+
+A - Lars Thykier
+
+{BIO 16427122 <GO>}
+
+Welcome.
+
+Operator
+And the next question comes from the line of Alexander Evans from Credit Suisse. Please go
+ahead.
+
+Q - Alex Evans
+
+{BIO 19956412 <GO>}
+
+Hi. Alex Evans from Credit Suisse. Thanks for taking my questions. The first one is just potentially on
+motor, and I know, as you said, the 0.8 percentage points reduction so far. And if this were to
+continue and let's say you do end up with a positive from motor for the year, what's your view on
+potential motor rebates to policyholders and have you had any discussions with regulators about
+that?
+
+
+
+A - Lars Thykier
+
+{BIO 16427122 <GO>}
+
+FINAL
+
+No, we had no discussions with regulators. And I know very well that we have seen some American
+insurers repay some of the premiums to the customers. I suspect this is monoliners having motor
+or cars only. We're in a situation where we are gaining on motor, but whatever gain on motor is at
+least -- at least as much as we gain on motor is lost on other items, especially travel insurance. So
+we are not in a better position to reduce prices now than we were at before.
+
+A - Peter Hermann
+
+{BIO 20507411 <GO>}
+
+What people can do is that they change -- if their driving behavior change, they can adjust the
+mileage they use and that could potentially give maybe a lower premium going forward, but --
+
+Q - Alex Evans
+
+{BIO 19956412 <GO>}
+
+Okay, thank you. And just on what you said on the dividend, there seems to be a slight change in
+the message maybe from the 23rd March. You seem to be suggesting that you distribute partly or
+fully the DKK8.50, whereas before you were suggesting distribution in full. Am I reading too much
+into that or is that you've got a little bit more negative on the outlook since the previous
+announcement?
+
+A - Lars Thykier
+
+{BIO 16427122 <GO>}
+
+Bloomberg Transcript
+
+Not at all, not at all. I just didn't want to be caught by a very specific information here. If we choose
+to pay out DKK5 in the autumn [ph], I think I would prepare you for that. But I'm definitely not more
+negative now than I were on the 23rd, on the contrary.
+
+Q - Alex Evans
+
+{BIO 19956412 <GO>}
+
+Okay, thank you very much.
+
+Operator
+And the next question comes from the line of Per Gronborg from SEB. Please go ahead.
+
+Q - Per Gronborg
+
+{BIO 15910340 <GO>}
+
+Yes, good afternoon. A couple of questions still from my side. First of all, you have put a new line
+called rain. If you had that rain in the Q4 and Q3 last year, do you have a guesstimate on what the
+impact would have been from rain that isn't included in weather?
+
+A - Lars Thykier
+
+{BIO 16427122 <GO>}
+
+We haven't made the calculations, but looking out in the window, I would say, it was probably very
+much like in the Q1, so say 20 in Q4 as well.
+
+A - Steffen Heegaard
+
+{BIO 1513480 <GO>}
+
+Yeah, I think it was 1 percentage point in Q4.
+
+Q - Per Gronborg
+
+{BIO 15910340 <GO>}
+
+Okay. Perfect. If we go to the life business, you gave out profit warning that you potentially couldn't
+take any risk allowance. Did that imply that your bonus ratio was pretty close to zero at that state
+and where are we seeing the bonus ratio today versus where that were at the end of last year?
+
+A - Lars Thykier
+
+{BIO 16427122 <GO>}
+
+They are lower than they were at the end of last year. And as it is now on the buffers and
+especially the low interest rate, I mean, it's interest rate of 1% with a 1.5% currencies. There are
+
+
+
+only a few percent buffer. And that means that of course it is not -- I can't say it's negligible risk that
+will go under water. And then we won't receive the fee we should have. And (Multiple Speakers )
+
+Q - Per Gronborg
+
+{BIO 15910340 <GO>}
+
+FINAL
+
+They are more --
+
+A - Lars Thykier
+
+{BIO 16427122 <GO>}
+
+They are more safe, but --
+
+A - Peter Hermann
+
+{BIO 20507411 <GO>}
+
+Interest rate pulled us one of the biggest ones.
+
+A - Lars Thykier
+
+{BIO 16427122 <GO>}
+
+Yes, it's just because it's so big. We are talking about more than DKK60 million from this group. We
+have our industry group 9, which is pretty small. And there is no collective bonus potential for the
+time being. So that is a small amount that we haven't been able to book in this quarter.
+
+Q - Per Gronborg
+
+{BIO 15910340 <GO>}
+
+It looks like if you hit it, it will only be partial and we need to see clear downturn compared to
+where we were at the end of last quarter.
+
+Bloomberg Transcript
+
+A - Lars Thykier
+
+{BIO 16427122 <GO>}
+
+I admit it would be too conservative -- or too pessimistic on the 23rd March.
+
+Q - Per Gronborg
+
+{BIO 15910340 <GO>}
+
+So it is sometimes. Business interruption insurance, what's the status? Are you covering that or is
+that an issue at all?
+
+A - Lars Thykier
+
+{BIO 16427122 <GO>}
+
+It's not an issue. We have pretty clear terms saying that it should be like a physical damage claim,
+rain, fire, flooding, whatever. So it's not covered by this -- corona is not covered and we don't have
+actually any disputes with our customers on that issue.
+
+Q - Per Gronborg
+
+{BIO 15910340 <GO>}
+
+Okay, perfect. Back to the investment return. You are suffering DKK413 million losses on your
+hedge transaction. You're partly indicating that those money will come back. If spreads normalize
+tomorrow, how big a share of those DKK413 million would come back and how much has been lost
+in the transition, meaning the ongoing adjustment of the hedges?
+
+A - Lars Thykier
+
+{BIO 16427122 <GO>}
+
+In that case, we would receive the -- on slide 19, the DKK58 million and the DKK269 million and we
+would receive a part of the DKK86 million. But there would definitely be losses.
+
+A - Peter Hermann
+
+{BIO 20507411 <GO>}
+
+But then you would also have the VA going down again.
+
+A - Lars Thykier
+Yes.
+
+{BIO 16427122 <GO>}
+
+
+
+Q - Per Gronborg
+
+{BIO 15910340 <GO>}
+
+FINAL
+
+But would the VA -- okay. Of course, the VA would go down in that scenario if you got the spread
+out, that's of course correct. So what you basically are saying that a very significant part of the
+DKK413 million, we should expect those to be reversed if the Danish mortgage spreads normalize
+at some stage in the future?
+
+A - Peter Hermann
+
+{BIO 20507411 <GO>}
+
+Yes, that would be my expectation.
+
+Q - Per Gronborg
+
+{BIO 15910340 <GO>}
+
+Okay. I just got the perception that you -- that the ongoing adjustment of the hedges is quite
+costly, but that's basically not the case?
+
+A - Lars Thykier
+
+{BIO 16427122 <GO>}
+
+Yes, yes. It depends on how much is a major part. We are losing money on this definitely, but I have
+not been able to make out with whether it was DKK25 million or DKK50 million that arises from
+these volatility adjustments. Of course, we are looking into this, we don't like what we have seen
+during the period, whereas the interest rate has been so extremely low and volatile as they have
+been in the last two years. This is a strategy that is better suited for little higher interest rates and
+we have had that lately.
+
+Bloomberg Transcript
+
+Q - Per Gronborg
+
+{BIO 15910340 <GO>}
+
+What I would say, basically, you have lost a lot of money this quarter if Danish mortgage spreads
+normalizes. If the lion's share of the mortgage is coming back, then we should be less concerned.
+If this was a loss that wouldn't come back because it was lost in the transition and adjustment of
+the hedges, then of course we should be more concerned. And what you're basically saying,
+significantly more than half of the DKK413 million is basically money that should come back. And
+then of course you would lose some money on the VA (Multiple Speakers) transition, is that fair to
+say it like that?
+
+A - Peter Hermann
+
+{BIO 20507411 <GO>}
+
+It would certainly be more than 50%.
+
+Q - Per Gronborg
+
+{BIO 15910340 <GO>}
+
+Okay, perfect. That's what I had.
+
+A - Peter Hermann
+
+{BIO 20507411 <GO>}
+
+Depending on the VA, yeah.
+
+Q - Per Gronborg
+
+{BIO 15910340 <GO>}
+
+Okay. Thank you.
+
+A - Peter Hermann
+
+{BIO 20507411 <GO>}
+
+Thank you.
+
+Operator
+And the next question comes from the line of Martin Gregers Birk from Carnegie. Please go ahead.
+
+Q - Martin Gregers Birk
+
+{BIO 19920552 <GO>}
+
+
+
+FINAL
+
+Thank you so much. Just coming back to the question of motor premiums and potentially
+compensation for the customers. And you mentioned that of course customers could reduce
+whatever kilometres that they plan to drive this year. But that said, I mean shouldn't it be a real
+concern, we have seen this in US monoline insurance, we have seen it now -- well, we start to see
+it now, I guess, Admiral was the first one out in Europe on Tuesday and couldn't be -- couldn't this
+be sort of like a sentiment-driven thing that European insurers across the board reduce motor
+premiums and thereby you guys would also be affected by it or if profitability in motor is going to
+explode in Q2 that there could be some kind of political action since this would be your way of
+showing some concern? That was my first question.
+
+A - Peter Hermann
+
+{BIO 20507411 <GO>}
+
+I think it's fair to say that there's always a risk. I can also read what on -- I can also read something
+in newspapers what is happening in some of the other European countries. But again, we're not a
+monoline company, we are providing our customers -- our full customers both auto and motor,
+content, house, accidents and so on. So at the moment, we don't see that why we should pay out
+where it goes well and then do somewhere it goes wrong. So that's our standing and I don't know
+what will happen, but of course it's a risk. But as we see it now, we have actually had a prognosis,
+where we are estimating a loss between DKK50 million to DKK100 million on corona or COVID-19
+on the year. So that -- I don't think that implies that we should pay some of it back where we have
+some -- earned some money.
+
+Bloomberg Transcript
+
+A - Lars Thykier
+
+{BIO 16427122 <GO>}
+
+It may be that the risk is higher for the mutual companies paying back part of the surplus to
+customers that they will make use of the situation in order to acquire new customers. But, as you
+know, most of the Danish market is growth companies and we all have an interest in servicing the
+shareholders.
+
+A - Peter Hermann
+
+{BIO 20507411 <GO>}
+
+But, of course, it could be an -- you can say, a competitive thing at one stage, we don't know that.
+
+Q - Martin Gregers Birk
+
+{BIO 19920552 <GO>}
+
+Okay. Okay, thank you. Coming back to the first question that Asbjorn had on health and accident
+and the report out from the Danish FSA and your comment in saying that this would be -- this is
+mostly positive for you guys since starting since the argument for setting up prices in health and
+accident would now be -- or illness and accident, sorry, would now be greater. But what about in
+the meanwhile, while you guys -- until you raise prices, could there be potential negative actions in
+the Danish FSA in this?
+
+A - Peter Hermann
+
+{BIO 20507411 <GO>}
+
+I don't expect that actually. I think this is the response. And we, as I said, all -- actually already have
+plans about the price increases and we are still going forward with that. And -- but I don't think that
+they will come up with anything else, but I think it will be maybe a bigger issue for some of our
+competitors if they -- if we go the direction that the FSA has set, meaning dividing the
+accident/illness portfolio that actually that could be, you can say, held within one company and have
+them write capital in itself. Then I don't think we have a problem actually, but I think some of our
+competitors could have a problem. But I don't expect the FSA to come up with anything in
+between. That's my expectation at least.
+
+Q - Martin Gregers Birk
+
+{BIO 19920552 <GO>}
+
+Okay. So if you stop this cross-subsidizing, when we would see -- when will see this impact? Is this
+going to be a 2021 thing or do we need to put it on even longer lenses?
+
+A - Peter Hermann
+
+{BIO 20507411 <GO>}
+
+
+
+FINAL
+
+As you see from our perspective, we are looking into price increases in 2020, but that's something
+we already had told you beforehand. So that's looking from our perspective, but I see that -- I think
+that we will be more into 2021 before this will be real rules and actually have effects in the
+marketplace, I guess, but I guess that it will be positive if we can raise prices and still keep more of
+our business than we could maybe expect to lose if the other ones didn't increase prices as well.
+But I think that we will go into 2021 before we see, you can say, yeah, bigger movements.
+
+Q - Martin Gregers Birk
+
+{BIO 19920552 <GO>}
+
+Okay. Okay. And then just my last question on solvency. It seems that you guys have positively
+benefited in this quarter in both the denominator and numerator. And now you stand at 204%.
+How does that play into your dividend decision later in the year? Could that be an argument for not
+postponing the dividend decision and then maybe take it around Q2 or this is the expectation that
+we have to wait?
+
+A - Lars Thykier
+
+{BIO 16427122 <GO>}
+
+There are no decisions about this. We just decided that we would be cautious, not because our
+SCR was insufficient. Actually what we were a little concerned about was could we withdraw
+dividend when the solvency capital was as high as it were, but this is -- we want to be slim, but on
+the other hand, we want to play safe when we don't -- or when we are not able to look through
+the dark.
+
+A - Peter Hermann
+
+{BIO 20507411 <GO>}
+
+Bloomberg Transcript
+
+And I think that that will be looked on this later. That will be after the summer at least. So it would
+be later this year.
+
+Q - Martin Gregers Birk
+
+{BIO 19920552 <GO>}
+
+Okay, all right, excellent. Thank you so much. That was all I had.
+
+A - Lars Thykier
+
+{BIO 16427122 <GO>}
+
+Thank you.
+
+Operator
+And the next question comes from the line of Jon Denham from Morgan Stanley. Please go ahead.
+
+Q - Jon Denham
+
+{BIO 19972914 <GO>}
+
+Thanks very much. I just have one last. Coming back to the point on the FSA, I think you're still
+guiding to the 0% growth in life premiums this year. And why has that not changed, given
+yesterday's announcement by the Danish FSA? Is it just your point earlier that you think it will take
+around 2021 for payers to start raising rates? Thanks.
+
+A - Peter Hermann
+
+{BIO 20507411 <GO>}
+
+It's a best guess seeing that if we look into price increases, that could of course give some -- you
+can say, that could -- if you do premium price increases on the (inaudible) that we expected to lose
+some money on -- lose some business on. That's the reason why we said that we'll probably be
+flat on growth. But you can say that now the FSA then maybe made it more easy, as I said before,
+that we can maybe keep more of the business even though we do price increases. But on the
+other hand, we can also see that people maybe being laid off, they will not get price -- the salary
+increases over time, maybe that can also hurt, you can say, the growth in the life division because
+in Denmark, you pay, you can say -- you pay pensions as a pension as a percentage of your salary.
+And if salaries don't go up and maybe if people lose their job, we'll not get that many pension
+money. And so that's one thing. And the other thing is that we are looking into the market here
+after Q1, it's a pretty frozen market in the life market. The -- our companies in Denmark is not
+
+
+
+looking into pension at the moment. They're looking into their own businesses. So it's a pretty
+freezed market, there's not happening that much. And you can say, part of our growth is also that
+people are moving. And at the moment, there is not much activity. So that's also a reason for us
+not setting -- guiding for a bigger growth than the zero.
+
+FINAL
+
+Q - Jon Denham
+
+{BIO 19972914 <GO>}
+
+And (inaudible)
+
+A - Lars Thykier
+
+{BIO 16427122 <GO>}
+
+We made the prognosis before we got the information from the FSA.
+
+A - Peter Hermann
+
+{BIO 20507411 <GO>}
+
+Yes.
+
+Q - Jon Denham
+
+{BIO 19972914 <GO>}
+
+Okay. So was it a situation that might have been negative before you got the nod from the FSA as
+you point out some negatives and obviously the positive wasn't until yesterday?
+
+A - Lars Thykier
+
+{BIO 16427122 <GO>}
+
+Bloomberg Transcript
+
+We haven't changed anything because of the FSA message. It came too late simply and I don't
+know if we're going to change anything. We have to analyze the situation.
+
+Q - Jon Denham
+
+{BIO 19972914 <GO>}
+
+Okay, thank you.
+
+Operator
+And the next question comes from the line of Youdish Chicooree from Autonomous. Please go
+ahead.
+
+Q - Youdish Chicooree
+
+{BIO 17430923 <GO>}
+
+Good afternoon, everyone. I've got three questions, please. The first one is on the growth in the
+SME segment. You grew at 3.5%, which is decent, but it seems quite low relative to some peers.
+So, I was wondering whether you could comment on the pricing environment and your strategy in
+that segment, especially in light of the COVID-19 outbreak? And then secondly, you mentioned at
+the beginning that you increased reserves because of unemployment risk. So could you just tell us
+what the impact was on the run-off figure here in Q1? And then finally, this is more a clarification. I
+think you said the future claims on travel and income protection, you would expect that to be
+offset by gains in motor. So, could you tell us, so the DKK50 million to DKK100 million impact, could
+you just give us a sense where those are coming from, please? Thank you.
+
+A - Lars Thykier
+
+{BIO 16427122 <GO>}
+
+The difference between what I said and the DKK14 million we already have in Q1, that is more
+losses on the customers that don't pay the premium they should pay and it is cautious look at how
+is next and then what compensation will develop during the year, and health, not to forget it.
+
+Q - Youdish Chicooree
+
+{BIO 17430923 <GO>}
+
+Okay.
+
+A - Steffen Heegaard
+
+{BIO 1513480 <GO>}
+
+
+
+FINAL
+
+If we take the first question, growth in the SME, Topdanmark is only present in the low end of the
+mortgage market, servicing small and medium sized enterprises. We have not increased prices in
+this market, we are not present in the high end of the market, where we have seen that some of
+our peers have increased prices. We have a very nice inflow of customers in the SME market from
+almost all of the year.
+
+A - Peter Hermann
+
+{BIO 20507411 <GO>}
+
+You can also say that within our commercial market, it's actually also these small self-employed
+people, we also have certain private people -- private persons in the agricultural area actually living
+in, you can say, old farms. So it's not a -- it is in the low end of the commercial market.
+
+Q - Youdish Chicooree
+
+{BIO 17430923 <GO>}
+
+Okay, understood. Thank you.
+
+A - Peter Hermann
+
+{BIO 20507411 <GO>}
+
+And the income protection you're asking about, was it the run-off ?
+
+Q - Youdish Chicooree
+
+{BIO 17430923 <GO>}
+
+Yeah. You said the run-off were lower because you increased reserves. Right? So I just wanted to
+get a sense of the magnitude.
+
+Bloomberg Transcript
+
+A - Lars Thykier
+
+{BIO 16427122 <GO>}
+
+I said that the run-off was negative by -- yeah. So I think this will probably not give me profits with
+the stock exchange. But we are talking about DKK15 million.
+
+Q - Youdish Chicooree
+
+{BIO 17430923 <GO>}
+
+Okay. All right, all right. Thank you. Great. Thank you very much.
+
+Operator
+Next question comes from the line of Michael Huttner from Berenberg. Please go ahead.
+
+Q - Michael Huttner
+
+{BIO 21454754 <GO>}
+
+Thank you. I just had two. One is just to confirm that in the numbers, the revised profit outlook you
+have, you don't have an expectation in there this year of recovery of some of these hedge losses.
+And then the other question is a broader one. Maybe you can talk a little bit about this rain thing
+and this -- you said the models are strange and I just wondered if that's already been reflected in
+pricing or something. That's it. Thank you.
+
+A - Lars Thykier
+
+{BIO 16427122 <GO>}
+
+I did only get half of what you said. Maybe my -- one of the colleagues can help me.
+
+A - Peter Hermann
+
+{BIO 20507411 <GO>}
+
+To the last question about the rain, the explanation was that our actuarial models for the rain
+claims regarding Q4 wasn't good enough, meaning that in this quarter, we have had some run-off,
+negative run-off due to that part, but that hasn't changed, you can say, it isn't a matter of pricing at
+this stage, this is a matter of that we should have had, you can say, higher claims in Q4 than
+actually was expected. This has been -- we are not looking into this as a need to raise prices just in
+-- just due to more rain.
+
+
+
+A - Lars Thykier
+
+{BIO 16427122 <GO>}
+
+FINAL
+
+This has been an extraordinary situation in two ways. One is that risk has played out different from
+what we are used to. And the other one is that our models hasn't really been able to handle this
+change. And that's the reason why we have more than DKK100 million in run-off, negative run off
+on the short-tail business that has never happened before. If I may return to the travel claims, just
+got the chance to think a little. We have had travel claims in January and in February and in first part
+of March, which is not part of DKK35 million we are talking about as COVID-related.
+
+A - Peter Hermann
+
+{BIO 20507411 <GO>}
+
+And then you had the first question, can you repeat that because we didn't hear that through our
+phone?
+
+Q - Michael Huttner
+
+{BIO 21454754 <GO>}
+
+Yeah (inaudible) and being confusing. So what I know and my numbers are very rough is that
+investment income is a negative in Q1. I can't quite figure the precise number, but it's somewhere
+around DKK400 million. I think somebody on the call said DKK430 million in his (inaudible). And for
+the year, I see a figure of minus DKK340 million, which kind of says that in the next three quarters,
+you have a positive of DKK20 million each on investment income, which kind of, for me, makes me
+think that you're not assuming any recovery of the hedge losses. And I just wanted to know is that
+the right way to --?
+
+Bloomberg Transcript
+
+A - Lars Thykier
+
+{BIO 16427122 <GO>}
+
+Okay. But that is absolutely correct. We do not make forecast of investment income. We make a
+mathematical extrapolation of the actual situation with some given returns in different asset
+classes. So we make the forecast on equities, for instance, by giving equities return of 7% in the
+year for the rest of 2020 and we get the return on equities and so on. We don't express any
+opinion.
+
+A - Peter Hermann
+
+{BIO 20507411 <GO>}
+
+It's a modeled forecast on the -- in terms of financial gains here.
+
+Q - Michael Huttner
+
+{BIO 21454754 <GO>}
+
+Thank you very much. That's very clear.
+
+A - Peter Hermann
+
+{BIO 20507411 <GO>}
+
+Thank you.
+
+Operator
+And the last question comes from the line of Derald Goh from Citigroup. Please go ahead.
+
+Q - Derald Goh
+
+{BIO 20775137 <GO>}
+
+Hi, there. Just one question, please, just on the dividends. So I think it sounds like the real
+constraint from your side is just about managing the solvency ratio. Is there anything from the
+regulatory front that you need to consider? And also secondly related to that, assuming that for
+whatever reason you compare this year, how would you consider it in terms of announcing in next
+year? Will it be considered separate to the 2020 dividend or is the payout ratio constrain that will
+prohibit that? Thank you.
+
+A - Lars Thykier
+
+{BIO 16427122 <GO>}
+
+
+
+FINAL
+
+We have not changed our lean capital structure policy. But again, as I said before, we want to be
+cautious when we don't know very much about what is going to happen. But after we paid our
+dividend, we received a letter, everybody in the financial sector did, from the regulator that they
+think we should think very carefully about what we do with our dividends, meaning don't pay
+dividends. I don't expect this to continue for years.
+
+A - Peter Hermann
+
+{BIO 20507411 <GO>}
+
+And to the second question of yours that we don't have any rules that say we cannot pay out more
+than something. We have a rule that says that we have to pay out at least 70% of a year's result in
+a normal situation. And you can say that we don't have a limit for it that it could be more than
+100%. So if it is pushed for 2021 for the 2020 result, then it could be over a payout ratio over
+100%. So there are no limitations there.
+
+Q - Derald Goh
+
+{BIO 20775137 <GO>}
+
+Okay, thank you. Sorry, just to clarify, so essentially for the other half of the 2019 dividend,
+essentially it's up to the regulators as to whether you can pay out or not on -- I mean, I understand
+you, that's a bit of solvency, but it's mainly a regulatory hinge, so to speak.
+
+A - Lars Thykier
+
+{BIO 16427122 <GO>}
+
+Bloomberg Transcript
+
+The EIOPA has asked the national FSAs to push their financial institutions into not distributing
+dividends. So it is not as much a Danish decision as European decisions. And we don't know how
+long time this will last, of course. We do not intend to pay dividend in a situation, where the
+regulator tell us that they really would dislike if we did it.
+
+A - Peter Hermann
+
+{BIO 20507411 <GO>}
+
+That's also the reason why I'm saying there will not be any dividend in Q2 at least, so we will wait
+and look in the situation both in terms of our capital situation, our earnings and then also, of
+course, looking into the regulatory environment. What -- like, what is being said to the market. So
+we will look at it later this year.
+
+Q - Derald Goh
+
+{BIO 20775137 <GO>}
+
+Okay, all right. Great, thank you very much.
+
+Operator
+And as there are no further questions, I'll hand it back to the speakers.
+
+A - Peter Hermann
+
+{BIO 20507411 <GO>}
+
+Thank you for taking the time to attend our conference. Thank you for the many questions. As you
+know, you're always welcome to call us if you have any further questions, then we'll be happy to
+answer them. So have a good day. Bye.
+
+A - Lars Thykier
+
+{BIO 16427122 <GO>}
+
+Bye-Bye.
+
+A - Steffen Heegaard
+
+{BIO 1513480 <GO>}
+
+Bye.
+
+This transcript may not be 100 percent accurate and may contain misspellings and other
+inaccuracies. This transcript is provided "as is", without express or implied warranties of any kind.
+
+
+
+FINAL
+
+Bloomberg Transcript
+
+Bloomberg retains all rights to this transcript and provides it solely for your personal, noncommercial use. Bloomberg, its suppliers and third-party agents shall have no liability for errors
+in this transcript or for lost profits, losses, or direct, indirect, incidental, consequential, special or
+punitive damages in connection with the furnishing, performance or use of such transcript.
+Neither the information nor any opinion expressed in this transcript constitutes a solicitation of
+the purchase or sale of securities or commodities. Any opinion expressed in the transcript does
+not necessarily reflect the views of Bloomberg LP. © COPYRIGHT 2022, BLOOMBERG LP. All rights
+reserved. Any reproduction, redistribution or retransmission is expressly prohibited.
+
+

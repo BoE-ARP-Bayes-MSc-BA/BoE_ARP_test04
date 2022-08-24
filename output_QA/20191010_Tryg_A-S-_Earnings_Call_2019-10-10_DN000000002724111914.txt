@@ -1,0 +1,1387 @@
+Company Name: Tryg A/S
+Company Ticker: TRYG DC Equity
+Date: 2019-10-10
+
+Q3 2019 Earnings Call
+Company Participants
+FINAL
+
+Barbara Plucnar Jensen, Group CFO
+Gianandrea Roberti, Investor Relations Oﬃcer
+Morten Hubbe, Group CEO
+
+Other Participants
+Asbjorn Mork, Analyst
+Derald Goh, Analyst
+Jakob Brink, Analyst
+Jonny Urwin, Analyst
+Kevin Ryan, Analyst
+Mads Thinggaard, Analyst
+Per Gronborg, Analyst
+Steven Haywood, Analyst
+
+Bloomberg Transcript
+
+Presentation
+Gianandrea Roberti
+
+{BIO 6786731 <GO>}
+
+Good morning, everybody. This is Gianandrea Roberti. I'm Head of Investor Relations of
+Tryg. We published our Q3 results earlier on this morning, and I have here with me
+Morten Hubbe, the Group CEO and Barbara Plucnar Jensen, Group CFO, to present the
+ﬁgures. Over to you, Mort.
+
+Morten Hubbe
+
+{BIO 7481116 <GO>}
+
+Thank you, Gian and good morning to all of you. And we start oﬀ on Slide Number 3 with
+the ﬁnancial highlights of the quarter. We reported Q3 pre-tax result of DKK779 million,
+slightly lower than last year's DKK825 million, positively impacted by the core business,
+where the technical result of DKK870 million is up 14.3% compared to the same quarter
+last year, and negatively impacted by the capital markets movements, resulting in an
+overall investment loss for the quarter. Quarterly dividend of DKK1.7 per share is
+announced and a solvency ratio of 169.
+If you look at the technical result of DKK870 million, it's driven by a stable combined ratio
+of 84.4%. This includes large and weather claims weighing for 3.3% compared to 6.8% last
+year, while on the other hand, run-oﬀ gains were lower at 5% compared to 8.7% in the
+same quarter last year.
+
+Page 1 of 21
+
+
+
+Bloomberg Transcript
+
+FINAL
+
+Company Name: Tryg A/S
+Company Ticker: TRYG DC Equity
+Date: 2019-10-10
+
+More importantly, the underlying claims ratio continues to improve, 70 basis points for
+Private and 60 basis points for the Group, while the expense ratio was ﬂat at 13.9% for the
+quarter, despite very signiﬁcant investments in IT development. We continue to expect
+the full year underlying claims ratio, which will be better than last year's underlying. The
+investment result of minus DKK29 million is actually split in good returns on nearly all
+asset classes in the free portfolio and a loss on the match portfolio after a quarter that saw
+a lot of volatility, particularly at the long end of the interest rate curve and also movements
+in other ﬁnancial income and expenses, broadly in line with guidance, but perhaps we
+can elaborate on the moving parts in Other.
+If we look at Slide 4 on customer highlights, we're very satisﬁed to see that we continue to
+improve in this area. Customer targets might seem soft, but there is a very strong link to
+customer loyalty and retention, and thereby a very strong link to expense ratio and
+earnings. This quarter, we are particularly pleased to see a continued improvement in
+retention rate, not only in Denmark where we have the support of the bonus scheme, but
+also in Norway. Of course, we continue to see a good help from the bonus scheme in
+Denmark. You can see that particularly the non-customer knowledge of the membership
+bonus scheme continues to improve. In Q3, it's up almost 40%, but bear in mind, still only
+29% now of the non-customers in Denmark realize that we have this bonus scheme. So
+there is further room for improvement.
+On Slide 5, we elaborate on the composition of the technical results. Clearly, the overall
+technical result has improved due to the inclusion of Alka business, but also the improved
+underlying claims ratio. The Private segment, of course, being the largest, helped by the
+inclusion of Alka, but also a strong, continuous improvement in the underlying claims.
+Bear in mind that it is in the Private segment that we see a very high growth in the quarter,
+as we've seen in previous quarters, but now helped more by Private Norway as well. And
+bear in mind that this is our most proﬁtable segment, which actually improves further the
+business mix for Tryg, and overall improve proﬁtability and return on capital longer term.
+Be aware that the total run-oﬀ on Private lines is approximately 5 percentage points lower
+than the same quarter last year.
+In Corporate, we saw an underlying improvement, primarily based on price initiatives in
+Norway. But in our view, we still have to signiﬁcantly improve proﬁtability in all three
+countries for our Corporate business. We have started well with price increases of 14% in
+Corporate Norway this year. We need that to continue and these include Corporate
+Denmark and Corporate Sweden in further improving, particularly underwriting year
+proﬁtability before run-oﬀs. In Private Sweden, we've initiated proﬁtability initiatives to
+mitigate that motor claims inﬂation that's slightly too high, but it does take some time to
+get the full impact of that.
+On Slide 6, we elaborate on the synergies of Alka. Alka is doing extremely well. We see in
+the third quarter DKK23 million of synergies from the Alka integration and for the three
+quarters now in total, we've reached DKK66 million out of the DKK75 million promised
+synergies for the full year. Roughly half of the synergies are related to costs. And as you
+may recall, this is in line with our expectations that these cost synergies will show up in the
+P&L ﬁrst. But the largest synergy driver remains the claims area, but it does require
+harmonization of processes and routines.
+Page 2 of 21
+
+
+
+Company Name: Tryg A/S
+Company Ticker: TRYG DC Equity
+Date: 2019-10-10
+
+FINAL
+
+You may recall that we started on capitalizing the agreements we have with motor repair
+shops in Tryg. That is moving along nicely. And now we're moving on to the agreement
+that Tryg has with craftsmen, which will particularly improve property claims and we will
+see that in the coming periods. We remain conﬁdent in our ability to achieve the 2021
+synergy targets, and in general are very satisﬁed with the process of integration.
+On Slide 7, on shareholders' remuneration, our focus here remains extremely high. We are
+announcing a third quarter dividend per share of DKK1.7, in line with the previous quarters
+this year, and in line with having a policy of ﬂat quarterly dividend throughout the year.
+Our business continues to produce very strong proﬁtability. And of course, the overall low
+growth implies limited increase in capital requirements. And then you should bear in
+mind that we are quite deliberate in growing our Private lines and SME businesses, as
+these are areas where we have the highest proﬁtability, but lowest capital requirement.
+And overall, that change of mix also reduced in Corporate, will produce an even stronger
+and more healthy business mix and stronger capital returns.
+
+Bloomberg Transcript
+
+If we jump to Slide 9, we elaborate slightly on the split of growth. Organic growth,
+excluding Alka, was 6.8%, clearly higher than usual and carried by growth in all areas. We
+do prefer to grow in the Private segment, where proﬁtability is the highest. And we are
+quite satisﬁed that Private Nordic has a growth of 8.6%, excluding Alka. Commercial was
+helped by Alka and had a growth, excluding Alka, of 4.8%, partly driven by improved
+retention rates, which we saw in Private lines as well, a small net inﬂow of customers, but
+also we are starting to see price initiatives in Commercial Norway to improve proﬁtability.
+The last is a trend that we expect to continue in the coming periods as we further want to
+improve proﬁtability in Commercial Norway.
+Corporate showed a growth of 4.5%. There is, of course, a high impact from price hikes in
+Norway Corporate, where price hikes so far this year has been 14%. As a result, we've also
+seen some reduction in the portfolio, that is to be expected and to be accepted. In
+Denmark, of course, the renewal rates are high, helped by the membership bonus, but we
+do see in the coming periods a necessity that we want to improve further pricing and
+proﬁtability also in Corporate Denmark and Corporate Sweden. And we do expect some
+impact in the top-line growth of the entire Corporate area in 2020, due to higher
+proﬁtability initiatives in the coming period.
+Sweden showed a relatively high growth, driven primarily by pet insurance and accident
+insurance. We see, as mentioned, that motor insurance, the proﬁtability is not quite where
+it should be. So we are pushing through initiatives that might reduce the Swedish growth
+going forward.
+On Slide 10, we show the normal ﬁgures on price increases, and clearly adjusting prices in
+accordance with inﬂation continues to be extremely important and we have further
+tightened our close monitoring to see all developments as -- at as -- early stage as
+possible. Proﬁtability initiatives are, of course, often price, but also combined with a
+number of claims initiatives to further improve earnings in several areas.
+
+Page 3 of 21
+
+
+
+Company Name: Tryg A/S
+Company Ticker: TRYG DC Equity
+Date: 2019-10-10
+
+FINAL
+
+The development on Slide 11 on customer retention rates is very positive. Clearly,
+extremely important, not only for a customer experience point of view, but also from a
+quality and earnings point of view. And actually customers' view of Tryg is best monitored
+through the retention rates. So very pleased to see the positive development in Q3
+compared to same period last year for all areas. Clearly, Denmark is helped by the bonus
+model and continues to improve, but also actually we see continued improvement in
+Norway without the bonus model.
+And over to you Barbara on claims.
+
+Barbara Plucnar Jensen
+
+{BIO 17487867 <GO>}
+
+Thank you very much Morten. Let's move to Slide Number 13 for more details on the
+development in our claims ratio. In Q3, we saw a continuation of an improved underlying
+claims trend. The Group's underlying claims ratio improved by 60 basis points, Private by
+70 basis points. Please note that all the quarterly ﬁgures for 2018 have been adjusted to
+include Alka.
+
+Bloomberg Transcript
+
+Price adjustments and the claims excellence program, including claims synergies related
+to Alka are the main drivers behind the improvement, but also the rebalancing that
+Morten spoke about of the portfolio to its more Private business supports the overall
+improvement for the Group. Tryg expects the improvement in the underlying claims ratio
+to continue for the rest of 2019 and into 2020.
+Please turn to Slide 14 for the large claims and weather claims. When it comes to Q3, it
+was a very benign quarter in terms of (inaudible) claims with only DKK46 million
+compared to DKK228 million in the third quarter of 2018. The opposite was true for the
+weather claims, which were much higher in Q3 '19 compared to Q3 '18, which was mainly
+due to cloudbursts in Norway. The discounting impact in Q3 '19 was much lower than the
+same period prior year, given the much lower interest rate level in Q3, 2019 across all
+countries.
+
+Morten Hubbe
+
+{BIO 7481116 <GO>}
+
+That is perhaps an area where everyone should be aware and look into the numbers,
+because really the change for the quarter is quite steep.
+
+Barbara Plucnar Jensen
+
+{BIO 17487867 <GO>}
+
+Exactly. The run-oﬀ result was much lower with 5% of the combined ratio compared to
+8.7% in the same quarter last year, primarily due to a lower run-oﬀ in the Private business.
+Please turn to Slide 15. Here you can see the development in the expense ratio, where you
+can see that for Q3 '19, it was stable at 13.9%, which is in line with our guidance of an
+expense ratio of approximately 14%. The underlying dynamic continues to be that an
+improved eﬃciency should support our investments in digital solutions, which is
+important for us to maintain the momentum and be ready for the future.
+Page 4 of 21
+
+
+
+Company Name: Tryg A/S
+Company Ticker: TRYG DC Equity
+Date: 2019-10-10
+
+FINAL
+
+Recently, we saw an increase in the number of FTEs. This was primarily reﬂecting
+continued insourcing of our claims handling related to the health insurance in Denmark
+and continued expansion of the Guarantee business in Germany. As a reminder, the jump
+in the number of employees from 17 to 18 is of course driven by the inclusion of Alka.
+Please turn to Slide 17 for an update on our investment capital and target. This slide
+should be well known. We show the split between the match portfolio of DKK30 billion
+and the free portfolio of approximately DKK11 billion. Asset allocation on the free portfolio
+is roughly unchanged, apart from small adjustments in the ﬁxed income portfolio.
+However, for the development in the two portfolios, we should look at Slide Number 18.
+The third quarter of this year was again a very, very volatile quarter, where we saw a lot of
+impact from the movements in the ﬁnancial markets. The overall investment result was a
+loss of DKK29 million, split [ph] between a positive result on the free portfolio of DKK97
+million, a loss of DKK69 million on the match portfolio and other ﬁnancial income and
+expenses at DKK57 million, in line with the broader expectations.
+
+Bloomberg Transcript
+
+The free portfolio produced good performance across all asset classes, while positive
+ﬁxed income returns were the key driver this quarter due to the falling interest rates. The
+match portfolio produced a loss, which was primarily driven by the regulatory deviation,
+which turned negative in the quarter that experienced a sharply increased volatility intraquarter, especially if you look at mid-July to mid-August, where swap rates for 20-year
+maturities moved sharply for all the relevant currencies, so Danish kroner, Norwegian
+kroner and Swedish kroner. And just looking at the Danish 20-year swap, it was down 70
+basis points, which has only recovered modestly in the last part of the quarter.
+At times of such big movements, the sensitivity of the interest rate risk in long-dated
+liabilities may change more of the corresponding sensitivities of the assets. And this drove
+the negative result in our latest quarter. When it comes to the other ﬁnancial income and
+expenses, this was in line with our expectations, where roughly half of this amount is
+driven by interest expenses on our loans.
+On Slide 19, you can see an overview of our solvency position. At the end of Q3, the
+solvency ratio was 169 compared to 171 at the end of the second quarter. Own funds were
+broadly ﬂat, as the net proﬁt was oﬀset by the dividend payment and by an actuarial loss
+on pension obligations booked under OCI due to the falling interest rates in Norway.
+The SCR was slightly up, driven by increased market risk, again, impacted by slightly
+increased duration in the Corporate bond portfolio and a small increase in the insurance
+risk, driven by the favorable topline development.
+Please turn to Slide 20. This is a limited -- or a slide with limited amount of new
+information. And I think the most important highlight on this slide is that, as we have
+talked about previously, we have currently more or less fully utilized our Tier 1 and Tier 2
+capacity. More importantly, on Slide Number 21, you will see the sensitivities to our
+solvency ratio. This is very similar to what you have seen in previous quarters. And again,
+the biggest sensitivity is to the covered bond spread, which should not surprise anyone as
+Page 5 of 21
+
+
+
+Company Name: Tryg A/S
+Company Ticker: TRYG DC Equity
+Date: 2019-10-10
+
+covered bonds are our largest asset class by far in the total investment portfolio.
+Sensitivities to equities and interest rate movements are relatively low.
+
+FINAL
+
+Please turn to Slide 22 for our targets and our outlook. We will conclude this presentation
+by repeating our well-known ﬁnancial targets for 2020. We repeat that we remain
+conﬁdent that we can deliver a technical result of DKK3.3 billion, a combined ratio at or
+below 86%, an expense ratio around 14%, and ﬁnally an ROE at or above 21%.
+Moving towards 2020, our Private and Commercial segments are likely to continue to
+show a good top-line development, while Group growth is likely to be negatively
+impacted by the proﬁtability actions across the entire Corporate segment, which Morten
+also mentioned earlier in this presentation.
+
+Morten Hubbe
+
+{BIO 7481116 <GO>}
+
+I'm glad to repeat here Barbara that those initiatives will be stronger across all three
+countries than this year, where it was primarily Norway.
+
+Bloomberg Transcript
+
+Barbara Plucnar Jensen
+
+{BIO 17487867 <GO>}
+
+Yeah, exactly. In general, the lower level of interest rate is making our life harder as we
+discount the claims reserves, which are much lower rate compared to just a few months
+ago. Just to give you a few proof points of that. We were looking at 0.5% at the end of Q3
+'19 versus 1.3% at the end of Q3 '18. This creates an important headwind to us, but we
+expect to be able to mitigate this by the additional work and proﬁtability initiatives that we
+have in place, and therefore, our DKK3.3 billion technical result guidance for 2020 is
+ﬁrmly repeated.
+With that, I think I can refer to our favorite quote from John D. Rockefeller and open up for
+our Q&A session.
+
+Questions And Answers
+Operator
+Thank you. (Operator Instructions) Our ﬁrst question comes from the line of Asbjorn Mork
+of Danske Bank. Please go ahead, your line is open.
+
+Q - Asbjorn Mork
+
+{BIO 17028219 <GO>}
+
+Good morning from my side. If I may refer to your favorite quote from Rockefeller, if I look
+at the solvency ratio for Q3, 169, of course, slightly lower Q-over-Q. Now it's not so far, so
+you need to look at extraordinary dividend potential for the full year. So I was just
+wondering if you could give us any ﬂavor on how do you look at the capacity to pay an
+extraordinary dividend at the year-end, also considering that you've utilized your Tier 1
+and 2 capacity. Thanks.
+
+Page 6 of 21
+
+
+
+Company Name: Tryg A/S
+Company Ticker: TRYG DC Equity
+Date: 2019-10-10
+
+A - Morten Hubbe
+
+{BIO 7481116 <GO>}
+
+FINAL
+
+Morning Asbjorn. As you know, we don't guide on the extraordinary dividends. And I
+would be disappointed if we didn't get the question, but we still don't guide on
+extraordinary dividends. But clearly on a serious note, we will of course take a careful look
+at our solvency position at year-end. And together with that look at our internal forecast
+for the coming periods, both of earnings and on capital consumption.
+If we do accumulate too much equity, it does cause problems for our 21% post-tax ROE
+target. So we don't have an interest in that. And then also bear in mind that compared to
+where we start now, we still see that we are in the process of getting Sweden into our
+internal model, which is a longer-term positive driver, where we're not completely in
+control of the timing because it needs to be approved by the FSA. Bear in mind also that
+the business mix we're working on between Private lines and Corporate lines, longer
+term, will have a signiﬁcant impact on the solvency and dividend capacity. But all in all, I
+can assure you we will return to the matter after carefully taking a look at all of those
+issues.
+
+Q - Asbjorn Mork
+
+{BIO 17028219 <GO>}
+
+So if I understand you correct, Morten, it means that you would not have any issues being
+slightly below whatever your actual solvency target is for the short term if you can see a
+steady progress for mid-term?
+
+Bloomberg Transcript
+
+A - Morten Hubbe
+
+{BIO 7481116 <GO>}
+
+That was a cheeky variation of the question, Asbjorn. As you know, we don't have an
+explicit solvency ratio target, but what I did say and where you are right, is of course, for
+us, it's not just a matter of a one-second picture of the world, for us, it's a matter of making
+sure that we have a long term healthy view on the development on the business mix, the
+capital consumption, the earnings capacity and the dividend capacity. And, of course, we
+do take a longer term view on that because we are in this for the longer run.
+
+Q - Asbjorn Mork
+
+{BIO 17028219 <GO>}
+
+Okay, fair enough. If I may ask on your actual underwriting, the 60 basis points underlying
+claims improvement in Q3, of course very nice time to get that when you get the low rates
+hitting your underwriting as well. Is this sort of the level that we should expect you to run
+at going forward? I mean now that you have turned your business -- turning your business
+to more private-oriented growth area. So should we expect your Q2 -- the next couple of
+quarters beat your 30 basis points to 50 basis points guidance? And is this solely your
+own operations, or is it a matter of pricing discipline in the market given the low rates?
+
+A - Morten Hubbe
+
+{BIO 7481116 <GO>}
+
+Well, I guess you can say that with 60 basis points and the 70 basis points, we are slightly
+higher than normal. And I would be cautious just to assume that that then continues for all
+of the quarters going forward. There is no doubt that we do see a longer-term trend of
+continuing to improve underlying claims. We do see areas where Corporate should be
+able to contribute more, because I guess we have been through a long period now where
+
+Page 7 of 21
+
+
+
+Company Name: Tryg A/S
+Company Ticker: TRYG DC Equity
+Date: 2019-10-10
+
+FINAL
+
+Private lines have delivered most of the improvement and Corporate lines has been
+behind the curve. Corporate lines should improve more.
+We have seen that Alka and the processes around Alka also helps the underlying
+development. And to be honest, for us, we see underneath a -- the Group-wide
+underlying development, which is positive. Lots of pockets that are either better or worse
+than what you see on the reported total entity. So we think the -- we've slided on the
+higher side this quarter. So don't just assume that, but there are lots of pockets we can
+continue to further improve, and the composition of those pockets will change over time.
+And this is an area where we spend a lot of our time, because it creates a lot of value.
+
+Q - Asbjorn Mork
+
+{BIO 17028219 <GO>}
+
+Okay, fair enough. On the growth side, in Q3, especially within the Private lines, the 8.6%,
+it doesn't seem that that actually is coming from the Danske Bank agreement, which I
+guess is starting slowly to get some sort of traction. So is that correctly understood, this is
+your -- more or less solely your current agreements that you have that is driving this
+growth? And should we expect that then to potentially continue to 2020 and then when
+you get the next material distribution agreement, this really kicking oﬀ?
+
+Bloomberg Transcript
+
+A - Morten Hubbe
+
+{BIO 7481116 <GO>}
+
+To a large extent you are correct, but if you look at the actual movements on the portfolio
+day-to-day at the moment, which comes prior to the earned premium, we do see now that
+we get portfolio growth from both Danske and Nordea at the same time for a short period
+of time. That will of course stop as the agreement with Nordea stops and they start
+cooperating with their new partner. And I guess, we should expect also some more laps
+from the Nordea portfolio as that portfolio gets no new customers and potentially more
+activity from a new Nordea partner.
+So you're right that there is limited impact from Danske in the earned premium numbers
+for the quarter. We see a positive development in the portfolio numbers, but we will get
+some more headwind from the Nordea portfolio moving onwards.
+
+Q - Asbjorn Mork
+
+{BIO 17028219 <GO>}
+
+Okay, fair enough. And then...
+
+A - Barbara Plucnar Jensen
+
+{BIO 17487867 <GO>}
+
+So Asbjorn what we should focus on is the other growth drivers that you see in Private
+right now, which is very much down to the product innovation that continues. Remember,
+over the last 18 months, we have launched around 60 products in this time span. You see
+you can, say, cross-sell and up-sell to existing customers with very high retention at the
+moment. So there is a number of growth drivers other than the partnerships as well.
+
+A - Morten Hubbe
+
+{BIO 7481116 <GO>}
+
+And elaborating on that Asbjorn, I still think we see a slight improvement that Norway
+pulls some of the product growth weight, but the reality is that the main pullback comes
+Page 8 of 21
+
+
+
+Company Name: Tryg A/S
+Company Ticker: TRYG DC Equity
+Date: 2019-10-10
+
+from Private lines Denmark. And we are working very hard to export that to both Private
+lines Norway and Commercial lines Denmark and Norway. And these areas are starting to
+wake up from a product expansion point of view, but the majority of that potential is
+ahead of us and not behind us.
+
+FINAL
+
+Q - Asbjorn Mork
+
+{BIO 17028219 <GO>}
+
+Okay. I guess that brings me to my ﬁnal question, because if I look at the development in
+Q3 and the communication that you have on improvement potential going forward, the
+fact that you're able to mitigate most of your headwind from lower rates in Q3 and the
+fact that you get higher synergies from Alka already now and another at least DKK75
+million for next year, it looks like you're still -- even with low rates, you're still on your way
+to beat your guidance for next year, the DKK3.3 billion with some margin. Isn't that the
+case?
+
+A - Barbara Plucnar Jensen
+
+{BIO 17487867 <GO>}
+
+Bloomberg Transcript
+
+I think there is a good chance that we will meet the target. But what you forget in that
+equation is the messaging we gave around the Corporate segment. On the Corporate
+segment, we see that there is a need for us to continue to work not only with, you can say,
+the risk assessment and the work on prevention with the large customers, but in particular
+also with price increases. And we know that will have an impact on the top line for this
+particular segment. So yes, you can say when you see a positive trend in the Private and
+also starting to be in the Commercial segment, that should be counterweighed by the
+actions that we're taking on the Corporate segment.
+
+A - Morten Hubbe
+
+{BIO 7481116 <GO>}
+
+And then we'll see -- I guess we did not have in our plans that the discount rates would fall
+as much as they did this quarter. That does create more work for us. Will we be able to
+mitigate that? Yes, that is clearly the plan. We do also see that we need to be able to
+handle larger amounts of large claims than we've seen in this quarter, for instance. And
+then we do see that in time the run-oﬀ gains will stabilize at a slightly lower level than
+what we've seen historically. So just make sure that you don't count all of the positives and
+no negatives when you try to do the math. Our signaling is that we have a high target of
+DKK3.3 billion. We will deliver that target also with lower discount rates, but we're not
+signaling any strong over-performance to that target.
+
+Q - Asbjorn Mork
+
+{BIO 17028219 <GO>}
+
+All right, fair enough. That's all from my side. Thanks a lot.
+
+Operator
+Thank you. Our next question comes from the line of Mads Thinggaard of ABG. Please go
+ahead, your line is open.
+
+Q - Mads Thinggaard
+
+{BIO 15369662 <GO>}
+
+Page 9 of 21
+
+
+
+FINAL
+
+Company Name: Tryg A/S
+Company Ticker: TRYG DC Equity
+Date: 2019-10-10
+
+Yeah, hi, this is Mads from ABG. Thank you for taking my questions. The ﬁrst one is going
+a bit back to what Asbjorn discussed about premium growth before. Could you -- I mean,
+now you are kind of -- you're rolling out I guess the price initiatives in the Corporate
+segment from Norway to Sweden and Denmark. Could you put a bit of light on if that is
+already not 2020, but Q4, that we could see an eﬀect there? And also on the very high
+Private premium growth, you are talking about pluses and minuses, but what about -- I
+mean what kind of potential is left in the portfolios, where you are cross-selling from
+(inaudible)? I mean have you come to a point where we will -- we actually could see, I
+mean, less potential lift, meaning a lower run rate of the organic Private premium growth?
+
+A - Morten Hubbe
+
+{BIO 7481116 <GO>}
+
+Bloomberg Transcript
+
+Well, I guess if you take the ﬁrst question, ﬁrst Mads that -- I don't think you should expect
+any impact from Corporate in Q4. Q4 is not a very big renewal season for corporates. The
+biggest renewal season is clearly Q1. So a lot of the changes will happen starting from Q1.
+So it is going on with the customers now. Both from a reporting and P&L point of view, Q1
+is really the ﬁrst quarter where you will see some of that impact.
+I think from a penetration point of view in Private lines, if I were to look at our growth for
+2020, I would clearly include a negative impact from Corporate. I think the Norwegian
+Corporate book is down a bit more than 4%. This year, we will see some similar impacts in
+Corporate Sweden and Denmark, but as regards Private, as you asked about, I don't really
+see that -- that pocket is emptying anytime soon. We see that NITO is growing
+signiﬁcantly. We see that OBOS continues to grow signiﬁcantly. We're actually now testing
+-- as Alka is selling more than 40% online and a lot of the online sales is single product,
+we are testing to use franchise concepts and other concepts to contact the single product
+customers in Alka to add more products to the portfolio with very strong success, but it's
+very early days.
+We are also seeing that the rollout of taking some more of the Private lines product ideas
+to Norway is really not very far in the process. We see that Commercial lines has almost
+not begun. And if you do the Private lines Denmark, where we've come the furthest, we
+have still only sold new products to the customers that are either new customers or
+coincidentally are in contact with us on the phone. We have still not found a way of rolling
+out the new products to the broad portfolio of existing customers. Not exactly easy, but it
+means that all of these examples are areas where we see lots of potential to continue to
+work with the new products. So for us that work has not stopped in any way. That is
+something we will spend a lot of time on in the further coming years.
+
+Q - Mads Thinggaard
+
+{BIO 15369662 <GO>}
+
+Okay. Okay. I get it. So Private is still -- actually not that much of headwinds for Private
+currently. So -- yes, then my second question is on -- I mean on other income and costs. I
+mean it is minus DKK62 million this quarter and of course, there's goodwill component in
+there, but probably not changed. I mean what are the moving parts here? Is this I mean
+before your deal with Danske gets fully up and running that you have a -- a kind of more
+of a drag from that or could you explain a bit how that works?
+
+A - Barbara Plucnar Jensen
+
+{BIO 17487867 <GO>}
+Page 10 of 21
+
+
+
+Company Name: Tryg A/S
+Company Ticker: TRYG DC Equity
+Date: 2019-10-10
+
+FINAL
+
+Well, you're deﬁnitely touching the right parameters there Mads. The two biggest
+components of the movement in this quarter is of course the goodwill related to Alka,
+which is around DKK32 million, and then obviously, we don't have the income from the
+Nordea agreement that we used to have. Right now, we are building the Danske
+collaboration. So you can say that is impacting us in this quarter.
+
+Q - Mads Thinggaard
+
+{BIO 15369662 <GO>}
+
+Okay. And then, I mean it is not like that it's portfolio based, but it's more new sales
+based, this one. So it comes back relatively quickly. How do you expect that to...
+
+A - Morten Hubbe
+
+{BIO 7481116 <GO>}
+
+You're right that it is more new sales based than it is portfolio based. So you're right, but it
+does come back. In my experience, saying fast and new partnership in the same equation
+is often not clever. So it does take some quarters to get back to the level. And of course,
+we are also looking at when is the rebuilds that income becomes the same, and when is
+the rebuild that some of the costs need to be lower. And we do look at a combination of
+both to get to the right balance again. So I would expect a few quarters before we are
+where -- at least before we are where we should be.
+
+Q - Mads Thinggaard
+
+{BIO 15369662 <GO>}
+
+Okay, perfect. Understood, thanks.
+
+Bloomberg Transcript
+
+Operator
+Thank you. Our next question comes from the line of Jonny Urwin at UBS. Please go
+ahead, your line is open.
+
+Q - Jonny Urwin
+
+{BIO 17445508 <GO>}
+
+Hi there, good morning. Just two from me, please. So ﬁrstly, where is pricing running
+roughly in aggregate across the whole book and where is claims inﬂation? It sounds like
+you're just calling out a bit more claims inﬂation activity in places, obviously Sweden in
+particular.
+Secondly on Corporate. So I guess the language is more negative today around remedial
+action versus the language in the second quarter. What exactly are you planning for the
+reshaping of that book next year? Are there any lines of business in focus, and just any
+more detail there would be great. Thank you.
+
+A - Barbara Plucnar Jensen
+
+{BIO 17487867 <GO>}
+
+I think if we start with the Corporate segment and the actions planned, obviously, those
+are large customers and we look at every individual customer looking at what products do
+they have, what is the risk proﬁle and so forth. So it will be looking at a combination of
+price adjustments to reﬂect inﬂation movements to inﬂect the risk proﬁle of the individual
+customers, etc., etc. So it's a quite thorough work that is going on and it's not to say that
+it's one size ﬁts all, because that doesn't ﬁt with a segment like that.
+Page 11 of 21
+
+
+
+Company Name: Tryg A/S
+Company Ticker: TRYG DC Equity
+Date: 2019-10-10
+
+FINAL
+
+A - Morten Hubbe
+
+{BIO 7481116 <GO>}
+
+I guess we can elaborate slightly further joining on that and say that it's only natural that
+we took the ﬁrst step in Norway, because Norway was clearly the biggest part of the
+Corporate challenge. I think we should be quite satisﬁed with 14% so far this year in
+Corporate Norway, but more structurally, we have reduced our exposure to ﬁsh farming in
+Norway quite dramatically. We have also reduced our exposure to commercial buses
+quite dramatically. Out of Sweden, we are reducing our exposure to international liability
+quite signiﬁcantly, particularly the exposure to US liability out of Sweden has been a
+challenge and continues to be a challenge. A lot of Swedish corporates have activity in
+the US, but liability lawsuits, etc. in the US, even small from a Swedish entity, are just a
+nightmare. But also larger commercial vehicles in Sweden we are more or less exiting
+completely. But I guess when you look at all three countries and now particularly Denmark
+and Sweden, the main challenge is really that the pricing component that goes to large
+claims exposure is not strong enough, and it means that when you have large property
+claims and you have the large liability claims, the return on capital simply becomes too
+low.
+And when we see that in combination with an ability to grow the retail business with
+much, much higher capital returns, we do see that it makes a ton of sense for us to reduce
+the exposure to large claims and volatile areas in Corporate, so average pricing up, most
+large claims exposed to lines down and then an acceptance of lower top line and then
+rather shift more the weight of the portfolio to Private and SME, which is performing and
+growing extremely well.
+
+Bloomberg Transcript
+
+Q - Jonny Urwin
+
+{BIO 17445508 <GO>}
+
+Makes sense.
+
+A - Morten Hubbe
+
+{BIO 7481116 <GO>}
+
+I guess when it comes to pricing, there is a general -- I mean, I guess you asked the
+question in a shape that doesn't really concur with the way we manage it, because I guess
+the overall answer is that we're always 0.5 point, 1 percentage point above perceived
+inﬂation. Perceived inﬂation is, in those periods, higher in Norway than in Denmark,
+higher in the craftsmen-related products, more stable in Sweden. But Sweden is higher in
+motor, but what we have -- the way we handle it is actually that we are in every business
+segment, in every single line of business, we have work to further and further and further
+improve the group of people across procurement, across claims, across actuarial and
+across product development that monitors all of the small bits and pieces moving every
+month, so that we see actual developments as fast as possible and react as fast as
+possible. And there are sales in this area where price increases are 20% or 25%.
+So I guess we are moving further and further away from the just broad price changes to
+much, much more accurate price changes and all the time targeting that those are slightly
+higher than the inﬂation we see. So I think we are becoming more sophisticated in that
+area, but it is an area I think we can further develop in the coming years.
+
+Q - Jonny Urwin
+
+{BIO 17445508 <GO>}
+Page 12 of 21
+
+
+
+Company Name: Tryg A/S
+Company Ticker: TRYG DC Equity
+Date: 2019-10-10
+
+That's brilliant. Thank you.
+
+Operator
+
+FINAL
+
+Thank you. And our next question comes from the line of Jakob Brink of Nordea. Please
+go ahead, your line is open.
+
+Q - Jakob Brink
+
+{BIO 20303720 <GO>}
+
+Thank you very much. Three questions please. The ﬁrst one, I think you said Morten that
+Norwegian Corporate premiums were down 4%. I don't know if I heard that correctly. But
+if you could then maybe also tell us what has happened to technical proﬁt on Corporate
+Norway in the same period?
+
+Bloomberg Transcript
+
+A - Morten Hubbe
+
+{BIO 7481116 <GO>}
+
+And as a ﬁrst question, I think we look at it -- you're right to get the speciﬁcs. Pricing in
+Corporate Norway is up 14%, a bit more than 14% actually. Total volume, including the
+price increases, is down 4%. We look at it on a reported level and on a risk ratio level
+where we sort of normalize large claims, etc. to see the actual quality of the book. We are
+seeing in almost all lines that the risk ratios are dropping well. We still have two, three
+lines of business in Norway where the actual claims inﬂation continues to be even higher
+than this price increase. And then we have still had large claims in Corporate Norway,
+particularly in the beginning of '19. I guess, Q3 in general is quite benign from a
+Corporate large claims point of view, but a single quarter's reported earnings in
+Corporate really doesn't tell you anything about the quality. And the reality is, if you look
+across all three countries, and if you look at underwriting year proﬁts with a -- or
+combined ratio with a normalized large claims level, we are at combined ratios at or
+above 100%. And Norway is actually the worst of the three. So we are still at above 100%
+levels if you take out the one-oﬀ gains and if you normalize large claims. So risk ratios are
+improving, but I mean not enough yet.
+
+Q - Jakob Brink
+
+{BIO 20303720 <GO>}
+
+Okay. And just to follow up on that, so in Denmark and Sweden, do you expect sort of -- I
+guess you said that actually. So you expect sort of the same reaction on volumes, 4%
+down, or is worse [ph]?
+
+A - Morten Hubbe
+
+{BIO 7481116 <GO>}
+
+That's a very good question Jakob, because the reality is that in Norway the price
+reductions, to begin with, were much bigger, and I guess Protector [ph] was a lot of -played a big role in driving that (Technical Diﬃculty]. I think there's been a strong
+acceptance amongst customers and brokers that this was necessary to improve. I think in
+Sweden and Denmark as the price reductions have not been anywhere close to
+Norwegian levels, and the earnings challenge is not as strong as in Norway, it's a little bit
+more of an open question what will be the reaction in the market. So I would hesitate a bit
+to predict that. But I would expect that top line in total for Corporate Denmark and
+Corporate Sweden in 2020 will be negative, but it's really, really tricky to guesstimate the
+volume as a few single customers can move the needle quite signiﬁcantly.
+Page 13 of 21
+
+
+
+Company Name: Tryg A/S
+Company Ticker: TRYG DC Equity
+Date: 2019-10-10
+
+FINAL
+
+So that's why we would plan for a strong growth in Private and Commercial and a
+negative growth in all three countries of Corporate, but with a large uncertainty as to the
+volume. But on the other hand, we are very certain that this will improve earnings in
+Corporate and it will reduce capital consumption in Corporate. So we have no doubt that
+it will create value, but predicting the top line is really tricky.
+
+Q - Jakob Brink
+
+{BIO 20303720 <GO>}
+
+I'll just try to do the math in Norway then, it looks like you must have lost around 16% of
+your sort of starting volumes, which has then increased 14%, to give you the minus 4%
+[ph]. What would be sort of the threshold where it starts to be an issue for scale in the
+segment, which is oﬀsetting the expense ratio...
+
+A - Morten Hubbe
+
+{BIO 7481116 <GO>}
+
+Bloomberg Transcript
+
+Well, actually the -- I think you're asking the right question. But in reality, the math is not
+right, because the issue is, ﬁrst of all, we haven't reached the renewal date of all
+customers. So we haven't earned 14% across the entire portfolio yet. Then also there are
+pockets within the reported numbers that are actually not our premium, but other
+companies' premium. So for instance if we have fronting where we administrate business
+for an international company in Norway, then we get a cost fee, but we have nothing to
+do with premiums and claims. So we don't do price increases on those customers,
+because they don't relate to us. So there you're actually taking out of the equation when
+you try to calculate the net-net impact. So actually the net-net loss is lower than what
+you're trying to calculate. So I think your logic is right, but I don't think you have the
+numbers to do the math correctly, and that leads you to overshooting on the actual lapse.
+But having said that, our view is that of course we need to control this in a thoughtful way,
+but also that longer term, having a portfolio with much stronger Private, much stronger
+Commercial SME and somewhat smaller Corporate, that does create value. We just need
+to steer that process in a mindful way.
+
+Q - Jakob Brink
+
+{BIO 20303720 <GO>}
+
+And then just on the solvency, and again regarding the Corporate, what is that again -- I
+mean how is the sensitivity on your SCR from Corporate premiums?
+
+A - Morten Hubbe
+
+{BIO 7481116 <GO>}
+
+Yeah, I think the -- if you answer that question from a lifetime of a Corporate customer
+angle, then it's really quite simple, because the capital consumption of a Corporate
+customer is often twice as high as that of a Private customer. But bear in mind that the SCR
+is a function of both the premium and the exposure from the premium and the claims and
+the liabilities. So while you get a positive almost straightaway from the lower premium,
+then it does take a number of years for the actual claims liability to run out of your books
+and thereby out of the SCR. So there is a short-term, long-term view to this. And of course
+we are monitoring both, because they both impact our earnings and they both impact our
+longer-term capital consumption and dividend potential.
+
+Page 14 of 21
+
+
+
+Company Name: Tryg A/S
+Company Ticker: TRYG DC Equity
+Date: 2019-10-10
+
+A - Barbara Plucnar Jensen
+
+{BIO 17487867 <GO>}
+
+FINAL
+
+And then also looking at the -- you can say the composition of the products with the
+Corporate business that is lost, it makes a huge diﬀerence whether it's the long-tailed
+products compared to the short tail. So it's not easy to just make a like-for-like
+comparison.
+
+A - Morten Hubbe
+
+{BIO 7481116 <GO>}
+
+So you could say that if for instance Norwegian workers' comp is a big part of what we
+lose, that is one of the worst drivers on the capital consumption. So that's great. If, for
+instance, when we cede away, taking out international liability insurance out of Sweden,
+that is also one of the worst capital-consuming, low-return lines, so that is very positive.
+On the other hand, it does take a while for the tail of these liabilities to roll oﬀ. So longer
+term, the math is very clear, but it's not just done with the taking out the premium.
+
+Q - Jakob Brink
+
+{BIO 20303720 <GO>}
+
+Bloomberg Transcript
+
+Okay. And then very ﬁnal question, coming back to Asbjorn's very ﬁrst question on the
+solvency ratio and an extraordinary dividend, so I understand you don't want to guide,
+but -- on the solvency ratio, but last year, would you have done an extraordinary dividend?
+The way I can calculate it, the solvency ratio would have been 155. This year, if I get, of
+course, Q4 and everything else right, it will be 161 or something, so 5 basis points, 6 basis
+points above what it would have been last year where you did not do an extraordinary
+dividend. So is that 5 percentage points, 6 percentage points really the diﬀerence or have
+something else changed, i.e. if you will do an extraordinary dividend?
+
+A - Morten Hubbe
+
+{BIO 7481116 <GO>}
+
+I appreciate the creativity of the question. I think to be honest that we don't do the math
+of 5% or 6% and then we make a decision. We try to look at where is the business headed
+from an earnings point of view and from a capital consumption point of view, and where is
+it headed from an internal model development point of view. To include Sweden, what is
+the impact of that. To reduce Corporate, what is the impact of that, what is the speed of
+that impact, how does our prognosis look from an earnings and capital consumption
+point of view. And then we take all of that into the equation, and then we make an
+intelligent choice based on that. And that is more forward-looking than just a
+mathematical calculation of 5% or 6%.
+
+A - Barbara Plucnar Jensen
+
+{BIO 17487867 <GO>}
+
+Yeah. And I think on top of that obviously last year that was the timing, where we just went
+to the market to fund the Alka acquisition. So you can say it would be a little bit diﬃcult to
+go out and argue why we should then on top of that also pay out extraordinary dividend.
+
+A - Morten Hubbe
+
+{BIO 7481116 <GO>}
+
+Yeah, agreed.
+
+Q - Jakob Brink
+
+{BIO 20303720 <GO>}
+
+Page 15 of 21
+
+
+
+Company Name: Tryg A/S
+Company Ticker: TRYG DC Equity
+Date: 2019-10-10
+
+Fair enough. Many thanks.
+
+Operator
+
+FINAL
+
+Thank you. And our next question comes from the line of Kevin Ryan at Bloomberg
+Intelligence. Please go ahead, your line is open.
+
+Q - Kevin Ryan
+
+{BIO 1814771 <GO>}
+
+Thank you very much. I just had one question, some clariﬁcation really, which leads on
+from the recent questions as well. You mentioned that low interest rates were clearly not
+helpful. I was just wondering whether you are building low interest rates into the rates
+you're trying to push through [ph] in Norway and elsewhere in your portfolio, because
+clearly it's got a solvency issue, particularly on the larger Corporate side if we carry on, as
+it would appear, we will do with these extremely low interest rates. Perhaps you could
+oﬀer some insight into your thinking around that. Thank you.
+
+A - Morten Hubbe
+
+{BIO 7481116 <GO>}
+
+Bloomberg Transcript
+
+There is no doubt that when you look at what are appropriate rates in the Corporate
+segment, you need to be quite careful about the capital consumption, because it's very
+high, you need to be quite careful about the volatility assumptions, because that actually
+moves the needle on the capital consumption quite signiﬁcantly. And then you need to
+be quite careful on the assumptions you make on interest rates and discounting because
+a lot of the longer-tailed lines do sit in Corporate.
+We have been gradually building the continued lower interest rate level into our
+assumptions on future rates. We didn't predict how much rates would fall in Q3, to be
+honest. So it's not like we have the perfect model that says now Q3 has this adjustment
+and then this is the driver for 1st of January pricing. But I think in broader terms, we have
+captured well the lowest interest rates and built that into the rate requirements for
+Corporate. But when we look at the current pricing, we mentioned the 14% price increase
+in Norway, which is not enough. So the journey from improving where we are now to
+getting to the right balance in Corporate in all three countries, it's a several years project,
+so we cannot get the right pricing in one go.
+So the fact that we see continued lower interest rates is not really a challenge, because we
+have generally built in low interest rates and we have several steps of price changes to
+get to the ultimately correct price. So -- but there's no doubt that we do punish Corporate
+from the point of view that we are seeing more volatility on the large claims, for instance,
+in Corporate Sweden, but also Corporate Norway, both on property and liability, and we
+are seeing a lower discounting rate, and both punish the earnings of Corporate more. So
+it is also some of the drivers that makes the decision of rebalancing even clearer.
+
+Q - Kevin Ryan
+
+{BIO 1814771 <GO>}
+
+Brilliant. Thank you.
+
+Page 16 of 21
+
+
+
+Company Name: Tryg A/S
+Company Ticker: TRYG DC Equity
+Date: 2019-10-10
+
+Operator
+Thank you. And our next question comes from the line of Per Gronborg of SEB. Please go
+ahead, your line is open.
+
+FINAL
+
+Q - Per Gronborg
+
+{BIO 15910340 <GO>}
+
+Yes, thank you. Good morning. A clear case in question left on my table. On the
+Corporate, you said that Norway was -- have been minus 4% [ph] in volume this year. You
+were uncertain whether the impact would be worse or bad than Denmark and Sweden.
+But is it fair to assume that your price -- that we should expect Corporate volumes next
+year to go down by -- in the magnitude of DKK150 million to DKK200 million? That seems
+to be the magnitude or approximately 1% of Group premiums coming from the pricing
+initiatives.
+
+A - Morten Hubbe
+
+{BIO 7481116 <GO>}
+
+Bloomberg Transcript
+
+Well that's -- I would hate to give you the wrong number, Per. I think in some ways, you
+can argue that the steepest reduction should come from Sweden, because there we have
+a weaker starting point market position. In Denmark, the bonus scheme should help the
+journey more. I wouldn't rule out that the reaction could be higher than the number you
+mentioned. So -- but it is extremely tricky to see what is the net impact. It is -- I would
+estimate a negative from all three countries. I would not be surprised if the number is as
+high as you mentioned, and the number could be higher.
+So I wouldn't give a guesstimate here, because it's -- some of these customers pay DKK30
+million, DKK40 million in premium. So we'll just shift a handful of them to either the
+positive or the negative. You can easily move another DKK200 million. So I really don't
+want to guesstimate that.
+
+A - Barbara Plucnar Jensen
+
+{BIO 17487867 <GO>}
+
+Also taking the competitive landscape into consideration, because if you see in Norway,
+there we can see that our peers are also increasing prices as it is.
+
+A - Morten Hubbe
+
+{BIO 7481116 <GO>}
+
+Yeah.
+
+A - Barbara Plucnar Jensen
+
+{BIO 17487867 <GO>}
+
+So we'll have to see what happens in Sweden and Denmark.
+
+Q - Per Gronborg
+
+{BIO 15910340 <GO>}
+
+Right. I'm sure that your --
+
+A - Morten Hubbe
+
+{BIO 7481116 <GO>}
+
+(Multiple speakers) that there is a -- some component of coincidence and some
+component of timing, because as you may recall, we did high price increases in
+Page 17 of 21
+
+
+
+FINAL
+
+Company Name: Tryg A/S
+Company Ticker: TRYG DC Equity
+Date: 2019-10-10
+
+Corporate Norway in both '18 and '19. In '18, we saw quite a low customer lapse as a result
+of that. In '19, we've seen more of a lapse as a result of that. It is not easy to predict the
+sort of short-term impact of that. And our hesitation comes both from the uncertainty, but
+also from the fact that if we are too keen on protecting the top line on Corporate, then our
+eﬀorts on carrying out the proﬁtability initiatives and price changes becomes too weak.
+And as we see it, the current growth in Private lines and Commercial lines are so strong
+that we can capture also a signiﬁcant negative component from Corporate and whether
+we look at earnings or we look at capital consumption or we look at ROE or we look at
+dividend potential, all of those KPIs improve when we improve Corporate. So we really
+should do that even if the result could be higher or more negative than what you
+mentioned.
+Okay. I was just a bit confused on the proﬁt impact. As I noted, Barbara earlier on the
+discussion of how easy it was to reach the DKK3.3 billion, she talked about headwind from
+the pricing initiatives, but you are talking about this being a positive. I assume it's the
+latter and not the ﬁrst outcome.
+
+A - Barbara Plucnar Jensen
+
+{BIO 17487867 <GO>}
+
+The headwind was predominantly from the discounting impact and then obviously, as you
+can see, as Morten was saying, the pricing impact will have an impact on the top line.
+
+Bloomberg Transcript
+
+A - Morten Hubbe
+
+{BIO 7481116 <GO>}
+
+(Multiple Speakers) talked about the headwind on top line and help on the earnings and
+then we talked about headwind on the discounting. So, if we've got some of that mixed
+up and apologies, but that was the messaging.
+
+Q - Per Gronborg
+
+{BIO 15910340 <GO>}
+
+Okay, thank you.
+
+Operator
+Thank you. And the next question comes from the line of Steven Haywood of HSBC.
+Please go ahead. Your line is open.
+
+Q - Steven Haywood
+
+{BIO 15743259 <GO>}
+
+Good morning. Thank you. Sorry if I missed this earlier. But is there anything speciﬁc
+going on in Swedish motor, driving up the claims at the moment? Anything industry
+speciﬁc or is it just a one-oﬀ quarter? Thanks.
+
+A - Morten Hubbe
+
+{BIO 7481116 <GO>}
+
+Well, I guess, we can say that we all know that there is a general trend of new cars with
+new equipment causing a high inﬂation. I think we're managing that quite well. I think,
+then there has been the master of the Teslas in the expensive or high horsepower
+electrical cars in Norway, I think we've managed that quite well.
+
+Page 18 of 21
+
+
+
+FINAL
+
+Company Name: Tryg A/S
+Company Ticker: TRYG DC Equity
+Date: 2019-10-10
+
+I think, to be honest that the moving parts on motor Sweden have been sort of fairly small.
+So in a Group context quite small. I don't think it's an industry-wide issue. There are some
+pockets in motor where the exposure we have priced have not been priced completely
+accurately. It does impact our Private Sweden numbers. It is more to do with our own -- to
+be honest, slightly too slow reaction. Every time you do a new tariﬀ then you need to
+make sure that you re-calibrate very often and very frequent, because we always need to
+do that and there are some pockets in motor Sweden where we've been a little bit too
+slow on that. We have now reacted and the numbers are really quite small from a Group
+point of view, but a little bit more meaningful from a Swedish point of view.
+
+Q - Steven Haywood
+
+{BIO 15743259 <GO>}
+
+I see. When you say too slow, you're talking about weeks, months or year?
+
+A - Morten Hubbe
+
+{BIO 7481116 <GO>}
+
+Bloomberg Transcript
+
+I would say that we've been a couple of quarters reacting [ph] on something, I think we
+should have spend a couple of months reacting on, and that actually back to the
+comment I mentioned earlier that I think over time insurance has always been too slow to
+react on the most recent changes in patterns and we've always used sort of more
+traditional extra-error methodology of waiting to see the longer trends and the bigger
+movements. And I think from a certainty point of view, that's great. But you get behind the
+curve in two seconds. And I think that's why we're working quite hard and we've been in
+most areas, quite successful in ﬁrming up, the timing and the time of reacting to new
+trends are much, much shorter period and Sweden Private is not up to speed on that yet.
+So, we are further improving on that area.
+
+Q - Steven Haywood
+
+{BIO 15743259 <GO>}
+
+Okay. I mean we obviously seen a problem of not reacting quickly to trends in motor in
+Norway in the past as well. So, are we on top of the case in Sweden?
+
+A - Morten Hubbe
+
+{BIO 7481116 <GO>}
+
+I can promise we're on top of the case in Sweden, and I think what made the Norwegian
+case more diﬃcult was the extremely high growth in Teslas and the like. I think in Sweden,
+the total portfolio of cars have been much more stable. So we're talking about much more
+smaller moving parts than in Norway.
+
+Q - Steven Haywood
+
+{BIO 15743259 <GO>}
+
+Yes, yes. And can I just ask -- I don't know if this has been asked earlier as well, sorry. But
+on the Corporate side of things, was there any change in the trend that meant that you
+want to increase prices signiﬁcantly in Denmark and Sweden? Or is it just the fact that the
+strategy is that you don't like Corporate as much as you used to in the past?
+
+A - Morten Hubbe
+
+{BIO 7481116 <GO>}
+
+Well, to be honest, I don't think that there is any sort of large new pieces of information
+out there. I think that the worry on Corporate proﬁtability and capital returns has been
+there for a while. The biggest challenge was in Norway. We reacted to Norway ﬁrst, and
+Page 19 of 21
+
+
+
+Company Name: Tryg A/S
+Company Ticker: TRYG DC Equity
+Date: 2019-10-10
+
+FINAL
+
+you're always trying to understand how much proﬁtability can you improve with how
+much of a top-line impact. And I think it's becoming clearer for us, so the challenge has
+been clear for a while.
+The lower assumed longer-term runoﬀs do not help the equation. The lower discounting
+rates do not help the equation. And -- but generally I think the need has been there for a
+while. We have just become clearer and clearer on the willingness also to let more top
+line go in the process, and are also seeing quite clearly how much that impacts, not only
+P&L, which is in the obvious place to start, but how much it actually impacts capital
+consumption. And through capital consumption also the ROE and the future dividend
+potential. And if you may recall, if you go back to the Capital Markets Day we had in 2017,
+already back then we started talking about the rebalancing. And actually if you do the
+math from 2017 to now, you can already now see how the retail component is becoming
+bigger and bigger of the Group, and you will see that trend continuing as Corporate
+strengths and as Private and SME grows. So it is really a longer-term trend where we are
+becoming slightly more harsh in the next 12 months, but it's not a new trend.
+
+Q - Steven Haywood
+
+{BIO 15743259 <GO>}
+
+Okay.
+
+A - Barbara Plucnar Jensen
+
+{BIO 17487867 <GO>}
+
+Bloomberg Transcript
+
+And I think just to ﬁnalize that, it's also a question of not liking or disliking the Corporate
+segment. I think it's just a matter of pricing the right risks at the right price.
+
+A - Morten Hubbe
+
+{BIO 7481116 <GO>}
+
+Yes.
+
+Q - Steven Haywood
+
+{BIO 15743259 <GO>}
+
+Okay. And just a ﬁnal one for me. And do you have a timeline on your internal model
+application for Sweden? I know it sometimes takes up to six months to get approval. So if
+you can give us a sort of timeline on that that will be great.
+
+A - Morten Hubbe
+
+{BIO 7481116 <GO>}
+
+I think our experience on guesstimating timeline of authority approval has proved quite
+poor. And as it's completely out of our control, I don't think we will try to do that.
+
+Q - Steven Haywood
+
+{BIO 15743259 <GO>}
+
+Okay, no problem. Thank you very much.
+
+Operator
+Thank you. And we have one further question from the line of Derald Goh of Citigroup.
+Please go ahead. Your line is open.
+
+Page 20 of 21
+
+
+
+Company Name: Tryg A/S
+Company Ticker: TRYG DC Equity
+Date: 2019-10-10
+
+Q - Derald Goh
+
+{BIO 20775137 <GO>}
+
+FINAL
+
+Good morning, everyone. Just a quick question, please. It's on the run-oﬀ gains in Private.
+So conscious that you've been running at sort of a 3% to 4% level in the last few quarters.
+Could you explain kind of the drivers behind this drop that we've seen to-date, please?
+Thank you.
+
+A - Morten Hubbe
+
+{BIO 7481116 <GO>}
+
+Well, I guess, the -- actually if you go through the various quarters, you can actually see on
+the reported Group level fairly stable trends on total run-oﬀ levels. I guess, this quarter,
+the large claims have been quite benign and the total run-oﬀs level is also lower than
+we've seen, for instance, last year. But actually if you dig into the individual quarters, you
+see a lot of variation on the composition of that run-oﬀ, and in particularly Private lines,
+has a signiﬁcantly lower run-oﬀ, almost 5 percentage points lower run-oﬀ compared to
+last year. I wouldn't read too much into that; that is quarterly volatility in the composition
+of the run-oﬀ. And I think we expect that to continue also in the future that from quarterto-quarter the composition will jump, and you will see more stability on the Group
+numbers.
+
+Q - Derald Goh
+
+{BIO 20775137 <GO>}
+
+Thank you.
+
+Operator
+
+Bloomberg Transcript
+
+Thank you. And with that, I will hand back to our speakers for the closing comments.
+
+A - Gianandrea Roberti
+
+{BIO 6786731 <GO>}
+
+Well, with those words, I'll say thanks to everybody. Thanks for your very good questions.
+We are around the next few days. So there will be chance to discuss more if needed.
+Thank you.
+
+This transcript may not be 100 percent accurate and may contain misspellings and other
+inaccuracies. This transcript is provided "as is", without express or implied warranties of
+any kind. Bloomberg retains all rights to this transcript and provides it solely for your
+personal, non-commercial use. Bloomberg, its suppliers and third-party agents shall have
+no liability for errors in this transcript or for lost proﬁts, losses, or direct, indirect,
+incidental, consequential, special or punitive damages in connection with the furnishing,
+performance or use of such transcript. Neither the information nor any opinion expressed
+in this transcript constitutes a solicitation of the purchase or sale of securities or
+commodities. Any opinion expressed in the transcript does not necessarily reﬂect the
+views of Bloomberg LP. © COPYRIGHT 2022, BLOOMBERG LP. All rights reserved. Any
+reproduction, redistribution or retransmission is expressly prohibited.
+
+Page 21 of 21
+
+

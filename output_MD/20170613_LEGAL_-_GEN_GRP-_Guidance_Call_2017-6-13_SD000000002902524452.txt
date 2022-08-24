@@ -1,0 +1,1478 @@
+Company N ame: L egal & General Group PL C
+Company Ticker: L GEN L N Equity
+Date: 2017-06-13
+
+Legal & General Group PLC Credit Scenario Education
+Event
+
+FINAL
+
+Company Participants
+Kerrigan William Procter, Executive Director
+Simon Gadd, Group Chief Risk Officer
+Stuart Jeffrey Davies , CFO & Director
+
+Other Participants
+Alan Devlin, Director
+Andrew Hughes , Insurance Analyst
+Andrew John Crean, Managing Partner, Insurance
+Andrew Sinclair, VP
+Colm Kelly, Associate Director and Equity Research Insurance Analyst
+David Bracewell, Research Analyst
+Greig N. Paterson, MD, SVP and U.K. Analyst
+Oliver George Nigel Steel, MD
+
+Bloomberg Transcript
+
+Unidentified Participant, Analyst
+
+Presentation
+Stuart Jeffrey Davies
+
+{BIO 20023574 <GO>}
+
+Good morning, everyone. Welcome to our Capital Markets Event focused on our
+management of our credit portfolio in stress scenarios. This builds on discussions with
+many of you and following a request at the full year presentation.
+Since I joined L&G in March of this year, I've been very impressed with our pricing
+discipline and rigorous approach to risk management. And I look forward to sharing with
+you why we have such confidence in the strength of our balance sheet as a result.
+Our usual bits of housekeeping. Here are the normal forward-looking statements. Switch
+off your mobiles, unless you're going to tell us the Lions' score. And if there's a fire alarm,
+the home team will shepherd you downstairs.
+The purpose of today is to cover how the GBP 2.7 billion credit default reserve is
+calculated, explain the robust way we manage credit, demonstrate how our business will
+perform under a number of stress scenarios and how our risk management processes
+work.
+
+Page 1 of 24
+
+
+
+Company N ame: L egal & General Group PL C
+Company Ticker: L GEN L N Equity
+Date: 2017-06-13
+
+I'd like to thank several of this audience for contributing their thoughts on what we would
+like to hear today.
+
+FINAL
+
+So ultimately, we will show that our financial position is resilient in extreme credit
+scenarios. In addition, we'll cover a brief update on the business performance year-todate.
+So this is the agenda for today. As well as myself, you will hear presentations from
+Kerrigan Procter, our CEO of LGR; and Simon Gadd, our Group CRO, before a Q&A
+session at the end.
+So moving on. I thought I would give you a brief overview of the performance of our key
+metrics, an update on our performance this year and a reminder of LGR's results just for
+context.
+You will all know these from the year-end. But I thought it was worth reminding you. We
+had a record year as a result of our focus and excellent execution, leading to 17% growth
+in EPS and 19.6% ROE. LGIM continued to grow, especially at a pace in the U.S. 25% growth
+in annuity assets underpins our market-leading position in pension risk transfer, which we
+are starting to replicate in the U.S.
+
+Bloomberg Transcript
+
+We've been voted the Best Lifetime Mortgage lender at the 2016 Equity Release Awards.
+And have the #1 franchise in U.K. Retail Protection, with a 24% market share.
+You'll have seen from this morning's announcement that we've made a great start to
+2017, with all our key divisions performing strongly.
+LGR has written over GBP 1 billion of PRT and has a current U.K. pipeline of GBP 12 billion.
+Individual Annuities have had a great start, up 120% on this time last year. And we've
+written GBP 360 million of lifetime mortgages already, up 90% on last year.
+LGIM is now over GBP 950 billion of assets, with good inflows. LGC is well on its way to
+meet its full year realization target of GBP 250 million and has reinvested GBP 138 million.
+And LGI U.K. has shown good growth in its premiums, while the U.S. has risen to the
+second largest term insurance provider through the broker channel.
+As you saw from last month's announcement, we have a strong capital position. Our
+Solvency II surplus increased to GBP 7 billion, up GBP 1.3 billion since the year-end.
+Coverage ratio of 188% decreased then to 180% after payment of the final dividend.
+And onto the Legal and General Retirement to give context for the credit discussions.
+Last year was a record for both profitability and new business sales. And all of this was in
+the new regulatory capital regime, delivering double-digit growth in our core KPIs.
+
+Page 2 of 24
+
+
+
+Company N ame: L egal & General Group PL C
+Company Ticker: L GEN L N Equity
+Date: 2017-06-13
+
+This slide illustrates the 7 different sources of profit LGR has had in the last couple of
+years. You can also see where we have chosen to reinsure longevity risk and where we
+have retained it.
+
+FINAL
+
+We're very confident that this business model will continue to result in strong earnings
+growth and cash generation in the future. And a large part of that comes from the careful
+management of our asset portfolio backing those annuity liability.
+And with that, I'd like to hand over to Kerrigan who will take you through the management
+of the credit portfolio and the impact of the stress scenarios.
+
+Kerrigan William Procter
+
+{BIO 15093363 <GO>}
+
+Great. Thank you, Jeff. Good morning. Welcome to everybody.
+
+Bloomberg Transcript
+
+I'd like to spend the next 15 minutes on LGR's credit portfolio. And specifically in the
+mechanics behind LGR's GBP 2.7 billion IFRS credit reserve. I'll start with a few comments
+on asset liability matching, then cover our approach to managing portfolio credit risks and
+LGIM's approach to credit portfolio management. After that, I'll cover the credit reserve
+mechanics with a few examples, including a historical scenario. And show the impact on
+the Solvency II balance sheet in those scenarios.
+Our starting point is our liability cash flows. So a projection of how much we expect to pay
+out in pensions in each month and year in the future. Since our primary focus is on the IFRS
+balance sheet, we project these pension payments out using our prudent IFRS view of
+how long people will live. We then construct our portfolio of physical assets, with the aim
+of our asset cash flows exceeding pension payments in each year. In practice, our
+investment choices mean we move away slightly from precise matching of physical asset
+cash flows with liability cash flows, as shown in the chart. We then fine-tune residual
+mismatches using swaps. This is for a number of reasons. For example, many defined
+benefit pensions in the U.K. are inflation-linked. But the supply of inflation-linked assets
+with the right credit characteristics is limited. So we will often use fixed rate assets with
+inflation swaps. Or there may be limited investment choices at longer durations. And we
+will use interest rate swaps to match interest rate risk precisely across the curve. Or we
+may see benefits in sector and issuer diversity by investing in U.S. dollar-denominated or
+euro-denominated assets. And we will use cross-currency swaps to hedge the FX risks.
+Our portfolio of swaps is diversified across counterparties and daily collateralized.
+Our main residual risk, therefore, is that the asset cash flows are not paid as expected. In
+other words, we suffer losses from credit defaults. So precision around cash flow
+matching needs to go hand-in-hand with a focus on managing portfolio credit risks.
+The portfolio of assets backing LGR's promises to pensioners is a globally diversified
+investment-grade credit and Real Assets portfolio. Our main defense against defaults is
+the diversified and defensive nature of the portfolio, combined with LGIM's marketleading fixed income expertise. I'll come back to that shortly.
+
+Page 3 of 24
+
+
+
+Company N ame: L egal & General Group PL C
+Company Ticker: L GEN L N Equity
+Date: 2017-06-13
+
+FINAL
+
+In addition to that, we are prudent. We deduct a prudent margin from each cash flow in
+case of defaults, as illustrated in the graph. At the end of 2016, the present value of these
+(haircuts) to the asset cash flows sum to GBP 2.1 billion. The size of this reserve is based
+on analysis of historical defaults as applied to our actual portfolio, with the prudent buffer
+to allow for how default rates could develop over the long term. We have a further GBP
+0.6 billion held as an additional reserve to absorb short-term shocks.
+The credit reserve will roll off over time with asset cash flows. But will be replenished with
+new business reserves. The present value of the reserve will also change with market
+conditions. The chart shows how the credit reserve changed over 2016, for example.
+
+Bloomberg Transcript
+
+We have a defensive and well-diversified asset portfolio. The (bond of ) portfolio has an
+average A; rating, with over 2/3 of the portfolio A-rated or better. Over half of the
+portfolio is invested in government bonds, utilities and infrastructure. We have GBP 7
+billion alone in gilts. We currently have less than GBP 2 billion in bank debt, including
+negligible sub debt, GBP 2 billion in energy and nothing in European peripherals. As an
+example, we estimate that around half the investment grade energy sector in U.S. dollar
+and sterling-denominated bonds would need to default before default losses will exceed
+our short-term credit default reserve. However, the diversification by sector is only part of
+the overall picture. LGIM's mandate and expertise also forms a part, as does the second
+line risk oversight, together with the risk limits around issuer and sector, that Simon Gadd
+will cover later.
+We think the alignment of LGIM's mandate with LGR's objectives is particularly important.
+The mandate was one of the first true buy and maintain credit mandates in the U.K. when
+it was introduced in 2010. It allows LGIM to express its views on credit and credit concerns
+at the defensive end of the active fixed income spectrum in a low turnover portfolio for
+this matching adjustment compliance. The primary objective of the portfolio manager is to
+reduce risk without reducing portfolio yield. Portfolio risk is measured by the default risk
+provision, which is a probabilistic measure of future defaults. Portfolio yield is measured by
+asset duration times spread over LIBOR. Both measures are described in the investment
+management agreement that defines LGIM's mandate. Fund management performance
+is assessed against these measures. This ensures a continuous focus of avoiding
+downgrades and defaults while remaining invested.
+There is a symbiotic relationship between the investment of assets on L&G's balance
+sheet and the management of assets for third-party clients. It's crucial for L&G to support
+a highly skilled, well-resourced team for its on-balance sheet assets. Where on-balance
+sheet mandates need to evolve, then LGIM and LGR have been able to move together
+quickly. For example, moving to global fixed income in 2006 rather than sterling-only,
+incorporating Real Assets from 2009 onwards, or our ability to work together to take
+advantage of opportunities presented in times of market stress. Many third-party clients
+have found compelling the combination of high-quality fund managers, scale of operation,
+innovation and seeing that L&G has skin in the game. In return, third-party clients allow for
+a greater depth of capability and resource, with a scale that supports corporate access
+and understanding of market technicals that couldn't be achieved by an on-balance sheet
+capability alone.
+
+Page 4 of 24
+
+
+
+Company N ame: L egal & General Group PL C
+Company Ticker: L GEN L N Equity
+Date: 2017-06-13
+
+FINAL
+
+All together, LGIM's active global fixed income team has 80 investment professionals
+based in London, Chicago and Hong Kong, managing GBP 135 billion of assets. Roughly
+half of the assets are in buy and maintain mandates, with the other half in alpha-seeking
+benchmark-relative mandates. As an illustration of the global fixed income team's
+success, 82% of mandates have outperformed over the past 3 and five years.
+Real Assets, led by Bill Hughes, has 79 investment professionals, managing GBP 24 billion
+of assets, with GBP 19 billion in real estate and GBP 5 billion in private credit, split across
+real estate lending, infrastructure lending and private placements. The team's wellregarded external capability was first deployed for LGR in 2009, sale leaseback and
+income strip transactions when it became clear to us that direct investments will become
+important for success in managing annuities.
+
+Bloomberg Transcript
+
+The team's property funds have outperformed an industry aggregate benchmark by a
+notable 60 basis points per annum over the last three years. Over recent years, the team
+has developed a broader direct investment capability for LGR, covering a full range of
+private credit that delivers annuity-like cash flows with added security, collateral and
+covenants. With a pleasing (circularity), this broader capability is now in high demand by
+third-party clients.
+LGIM's investment philosophy and process supports the defensive nature of LGR's credit
+portfolio. It is grounded in macro themes that LGIM believe will persist, such as a secular
+decline in global growth due to an aging demographic and government fiscal burdens,
+with the consequence of a shift to antiestablishment politics. From these themes, you can
+understand our sector positioning, with low financial exposure, no European periphery
+exposure and overweight in regulated utilities and asset-secured funding.
+What may be less visible is the substantial bottom-up fundamental credit analysis issuer
+by issuer that sees the defensive positioning through the day to day name-specific fund
+manager decisions. As a result, I'm pleased and grateful to LGIM to be able to present
+such a bell chart of actual default losses for the LGR portfolio for the last 10 years. We lost
+GBP 25 million in 2008 and nothing since.
+We should turn now to what happens to our IFRS results if we do have defaults.
+Broadly, the credit reserve can absorb defaults up to a certain level in a year. But this will
+reduce the release of prudence in the net release in future years. We have anticipated
+the level of absorption over the year as around GBP 700 million. Roughly, the short-term
+default reserve, plus a year of prudence in the long-term default reserve. Beyond the
+level of absorption, the LGR profit in the year would be reduced.
+Let's look at the smoothing nature of the credit reserve in increasingly severe scenarios.
+With GBP 10 million of defaults in the year, the GBP 2.7 billion credit reserve would reduce
+by GBP 10 million and future net release would reduce by less than GBP 1 million. With GBP
+100 million of default loss in a year, the credit reserve would reduce to GBP 2.6 billion and
+future release would reduce by around GBP 8 million in the following year. With GBP 700
+million of default loss, the reserve would reduce to GBP 2 billion and future net release
+Page 5 of 24
+
+
+
+Company N ame: L egal & General Group PL C
+Company Ticker: L GEN L N Equity
+Date: 2017-06-13
+
+would reduce by GBP 58 million in the following year. These simple scenarios illustrate the
+smoothing impact of the credit reserve.
+
+FINAL
+
+We have also looked at the impact on our balance sheet of a severe historical scenario.
+Over the past 30 years, the worst period for downgrades and defaults was over 2001
+and 2002. The dark blue bars on the chart show the default rate in each year based on
+LGR's current credit rating distribution. The dark blue line in the chart shows the rate of
+downgrades.
+I'm sure I'll oversimplify what happens. But the period exhibited significant stresses in 2
+sectors, an emerging market default and a few large idiosyncratic defaults. Technology,
+media and telecoms was worst hit as the dotcom bubble with debt-fueled acquisitions
+and exuberant oversupply unwound. Airlines post 9/11 were also heavily affected.
+Argentina defaulted with associated corporate downgrades. And finally, we had Enron in
+2001 and WorldCom in 2002.
+
+Bloomberg Transcript
+
+We considered picking the worst 12 months in that period. But decided to go further and
+apply the whole 24 months as an instantaneous shock applied to LGR's current ratings
+distribution. The tables show the default rate by broad rating grade and the percentage
+downgrades for A-rated and BBB-rated assets.
+This stress disregards any defensive sector positioning, or defensive stock selection
+decisions or any ability to capture management actions. The default loss assuming a 40%
+recovery rate would have been just below GBP 300 million, leading to a reduction in
+credit reserve to GBP 2.4 billion. We reworked the estimated prudence in our long-term
+default provision given the broader portfolio downgrades in that scenario, with future net
+release reducing by GBP 46 million in the following year, which corresponds to around 3%
+of the L&G group net release.
+We've also worked through the impact of a Solvency II balance sheet in that same 20012002 historical scenario. When applied as an instantaneous spread widening downgrade
+and default shock, then L&G's coverage ratio would reduce from 180% to 150%. In that
+extreme scenario, including the most severe historical downgrade scenario we have seen,
+we would still have over GBP 4 billion of surplus Solvency II capital before taking any
+management actions.
+I think that the 2001-2002 scenario is a robust test of the IFRS and Solvency II balance
+sheet and shows both the prudence of our reserves and the strength of our capital
+position.
+With that, I'll hand over to Simon.
+
+Simon Gadd
+
+{BIO 17956222 <GO>}
+
+Thank you, Kerrigan. Good morning, everyone.
+Page 6 of 24
+
+
+
+Company N ame: L egal & General Group PL C
+Company Ticker: L GEN L N Equity
+Date: 2017-06-13
+
+FINAL
+
+Credit risk, like any other risk on Legal & General's balance sheet, is managed within the
+first line management structure. In this case, mainly LGR and LGIM. I'm going to provide
+you some broader context of how credit risk fits within L&G's overall risk profile and
+governance model. And how the CRO function, which I lead, sets the framework by which
+this risk is managed and overseen. I will also cover our approach to internally rating the
+direct credit investments, which is a key component of our risk assessment process.
+This chart sets out the main financial risks taken across the group, including the various
+forms by which we take credit risk, be that through investing in corporate bonds, lending
+against property assets or through our dealings with banks or reinsurers. The pie chart on
+the right shows that credit risk is the largest risk by exposure on our Solvency II balance
+sheet.
+
+Bloomberg Transcript
+
+My role in credit risk is firstly to agree with the board our risk appetite for credit risk across
+the group and the parameters by which we want to constrain the risk-taking authority of
+the divisions. Secondly, my team, otherwise known as the second line of defense,
+establish the policies, standards and processes required to manage the risk within the
+agreed risk appetite. Finally, we oversee, monitor and challenge the business to ensure
+we are comfortable that risk-taking activity and ongoing management meets the policies
+and standards we have set. The key principles throughout are to ensure we only
+proactively take risks which are rewarded, we understand and have the capability to
+manage and we can tolerate the downsides.
+Credit risk is covered by both the first-line and second-line governance structures. The
+Asset and Liability Committee for LGR, chaired by Kerrigan, will actively manage the risk
+exposures and decide where the reward per unit of risk best meets our hurdle rates. The
+Group Credit Risk Committee, which I chair, is a subcommittee of the Group and
+Executive Risk Committees. This committee defines in detail and approves any changes
+to the risk appetite, policies or tolerances for credit risk.
+Now we understand that despite the best endeavors of the first-line teams, credit
+exposures will not always perform as predicted. So to give you a flavor of the activity of
+the Credit Risk Committee, let me give you 3 examples of how we control the downside
+of different unexpected outcomes.
+As Kerrigan explained, it is important to remember what the unique illiquidity
+characteristics of our new annuity liabilities mean for the credit risk taken in LGR. We are
+less interested in changes to the price or spread of the assets. We are predominantly
+focused on the risk of the counterparty defaulting. So we lose some of the cash flows our
+ALM process was expecting; or the counterparty being downgraded, which increases the
+risk of default and therefore the associated capital charge.
+My first example is that we are exposed to the risk of an idiosyncratic downgrade or
+default, maybe due to fraud, accounting irregularities or sudden changes in the financial
+policy. To mitigate this risk, we hold a well-diversified portfolio and set single-name issuer
+concentration tolerances for corporates, banks and reinsurers. The tolerances will vary,
+
+Page 7 of 24
+
+
+
+Company N ame: L egal & General Group PL C
+Company Ticker: L GEN L N Equity
+Date: 2017-06-13
+
+FINAL
+
+depending on the credit rating of the issuer and the nature of the impact of their default
+on our balance sheet or profit.
+Secondly, there is a risk that a segment of the portfolio is jointly affected by an adverse
+shock at a sector or country level. Similarly, we control this risk by setting tolerances for
+maximum concentration of exposure at a sector or country of issuer level. The tolerances
+and exposures against the tolerances are actively reviewed to take account of changes in
+the external environment.
+Thirdly, we recognize that downgrades and defaults are, to an extent, cyclical. And
+therefore, the second line conducts its own forward-looking assessment of emerging
+risks which may affect our portfolio. These are included: the potential impact of Brexit, a
+stress in the European banking system or the potential impact of further falls in the oil
+price. We feed the results into proactive discussions with the first-line risk management
+teams as to whether we should adjust that portfolio to anticipate these risks.
+
+Bloomberg Transcript
+
+In particular, we monitor closely the overall average credit rating of the portfolio and the
+potential for downgrades to our BBB holdings under the scenario. This activity
+independently tests that the business have developed mitigation strategies and
+contingency plans for a range of scenarios. Solvency II requires onerous capital
+requirements for lowly rated credit assets. So it focus its management on mitigating
+downgrades and ensuring diversification.
+As you all know, not all of our credit exposures have a public credit rating. For direct
+investments in private credit, loans or property-backed lending, we use internal ratings.
+Together with robust underwriting and securing the right covenants and other risk
+mitigation in the contract, the internal rating process is critical to the risk assessment and
+decision making. The internal Credit Rating Committee fits within my second-line function
+independent of the dealmakers. Its members have several decades of experience from
+the mainstream rating agencies and their methodologies. Our rating methodology is
+consistent wherever possible with the public rating agency methods. This is important as
+we use the rating agencies' past default and downgrade data to calibrate our internal
+model for capital.
+The rating methodology and its execution by the Rating Committee is regularly externally
+reviewed to ensure it meets PRA standards for use with an internal model and matching
+adjustment calculations. The ratings are closely monitored and regularly reviewed, as the
+circumstances of the counterparty vary. The rating process drives both the capital
+requirements and the decision making and therefore it's crucial it remains independent.
+The Credit Rating Committee will also review the ratings of large exposures to publicrated names and would apply reductions to ratings where we believe appropriate.
+The Brexit (inaudible) process, an outcome is likely to be unpredictable, not helped by the
+events of last week. Together with many other economic or political events that could
+impact credit markets, we need to remain vigilant. However, the portfolio is wellpositioned, diversified and we have the key advantage that our ALM position means we
+can take our time to deal with shocks when they arise. We are never foresellers of credit.
+
+Page 8 of 24
+
+
+
+Company N ame: L egal & General Group PL C
+Company Ticker: L GEN L N Equity
+Date: 2017-06-13
+
+With that, I'll hand back to Jeff.
+
+Stuart Jeffrey Davies
+
+{BIO 20023574 <GO>}
+
+FINAL
+
+Thank you, Simon.
+So you've heard all of the detail. And I just want to conclude. We've demonstrated the
+ways in which we have very effectively managed and continued to manage the risk on our
+credit portfolio. We have experienced very low defaults over an extended period and
+continue to hold a prudent level of reserves. Our balance sheet remains strong even in
+extreme credit scenarios, with limited impact on the group's IFRS financials and dividendgrowing capacity. And we are confident we would be well placed to continue to perform
+and capitalize on market opportunities.
+I'll now hand over to questions. Who wants to go first?
+
+Questions And Answers
+
+Bloomberg Transcript
+
+Q - Andrew Hughes
+
+{BIO 1540569 <GO>}
+
+Andy Hughes from Macquarie. So I kind of -- just want to kind of focus on IFRS. Is that
+largely because of transitionals or is that why you kind of focused the presentation on
+IFRS? Because I guess I'm more interested in Solvency II. In particular, the kind of
+breakdown of the matching adjustment by the book in the assets. Because if I take a very
+high helicopter-level-view look at it. So what you're saying today is that the credit spreads
+as we know from the full year is around 180 basis points on the back book, 58 basis points
+was fundamental spread, the rest is matching adjustment. So I take that on your GBP 49
+billion of assets, that's roughly about GBP 900 million. So what you're seeing is, in any
+really stressed year, you're never going to lose the credit spread. So this stuff is just free
+lunch. And I'm not sure that I kind of understand the kind of relative high-level view in
+comparing those 2 numbers. So I guess what I'd like to do, if it's possible, is to go through
+the 120 basis point matching sort of adjustment and just work out where you earn that 180
+basis points. Is it an average cost portfolio where the stresses are in the business?
+Because I'm not sure this kind of gives me the kind of level of detail that would help me
+feel comfortable in a stress from the asset side.
+
+A - Stuart Jeffrey Davies
+
+{BIO 20023574 <GO>}
+
+Okay. I'm sure Kerrigan and Simon both have views on that one. But I mean, in terms of
+question around focus, we give but equal focus, certainly, on the IFRS and the Solvency II,
+showing both the impact on release of reserves and the in ins and then the impact on the
+Solvency ratio and the quantum of capital that's left, the GBP 4 billion. Yes. We assume
+there would be some more questions on the detail of the sums, too. And we're
+comfortable taking that way. Kerrigan?
+
+A - Kerrigan William Procter
+
+{BIO 15093363 <GO>}
+
+So I think, just coming back to the point. And a follow-up on Jeff's point, (always a plate) of
+questions -- the main questions that we were asked after the previous sessions around
+Page 9 of 24
+
+
+
+FINAL
+
+Company N ame: L egal & General Group PL C
+Company Ticker: L GEN L N Equity
+Date: 2017-06-13
+
+credit default reserve and some of the mechanics of that. So definitely, hopefully, I can
+give you some detail on that. On the Solvency II calculations, I mean you've seen the
+figures there in terms of that very severe 2001-2002 scenario, around about 25% of that
+30% shift downwards from downgrades, really severe downgrade scenarios. So a huge
+shift down from BBBs to BBs and Bs in that scenario. And you're right to say that some of
+that impact comes from reduction or limitation in the amount of matching adjustments,
+availability of the spread that you can get as those assets downgrade and some comes
+from an increase in the SCR due to stresses on the underlying assets. Andy, I'm not going
+to be able to give you all the detail that you asked for there. I don't have that at my
+fingertips. But we'll take the questions onboard and see what we can do either now or
+next time to delve into that in the future.
+
+Bloomberg Transcript
+
+A - Simon Gadd
+
+{BIO 17956222 <GO>}
+
+Can I maybe just add -- just to make sure we clarify the principles of the Solvency II
+balance sheet. So you're talking about the allowance that we have for default risk on the
+base balance sheet, which is the owned funds versus the component of that balance
+sheet. That is supposed to represent the difference between our assets and our best
+estimate view of the risks on the balance sheet. Not a prudent view, it's supposed to be
+the best estimate view. And what you can see broadly is that in Solvency II, holding a best
+estimate view, which is set predominantly by IOTA through the fundamental spread,
+roughly equivalent to the provision that we set up in IFRS. So actually, in our view, quite
+prudent compared to past history. Then we set up a capital requirement separate from
+that, which is to deal with things going outside of your view of the best estimate. And we
+have to test that to the 1 in 200. So the scenario that we talked about is one of the
+scenarios that is used to make up our capital requirement. You wouldn't expect that to be
+within our base balance sheet, which is to say that's supposed to be driven by the best
+estimate view of what we think is going to happen. And in the case of Solvency II, it's to
+some extent described by the rules.
+
+Q - Andrew Sinclair
+
+{BIO 17749036 <GO>}
+
+It's Andy Sinclair from BofA Merrill Lynch. Just 2 questions, please. Firstly, just can you tell
+us just a bit more about how you would actually expect to be reacting if you did get to a
+serious default cycle? Amongst other questions, if you did see defaults as the provision
+started to get eroded, would you allow that to be eroded or would you be looking to top
+that back up again to kind of similar levels to today? And secondly, you mentioned that
+the mandate was switched in 2010, I think it was, to minimize downgrades and defaults.
+Can you give us a bit more detail on this and just how that ties in with the buy and
+maintain mandates? How often do you tend to rotate within the portfolio? Is that really
+only when defaults are seeming likely? Or would you tend to rotate it if you saw the
+likelihood of downgrades and higher investment-grade ratings?
+
+A - Stuart Jeffrey Davies
+
+{BIO 20023574 <GO>}
+
+Sure, thanks. I'll start off from the first one. And then these guys actually lived through it.
+So they will add a little bit to the first one. I think Kerrigan, in particular, know what we
+physically did, whereas opposed to setting the balance sheet. And yes, Kerrigan is very
+well placed on the buy and maintain.
+
+Page 10 of 24
+
+
+
+Bloomberg Transcript
+
+FINAL
+
+Company N ame: L egal & General Group PL C
+Company Ticker: L GEN L N Equity
+Date: 2017-06-13
+
+I mean, in terms of what we would be doing in a default, yes, there's caveats and
+assumptions within there that we've assumed that is the approach the board would take,
+et cetera. But as a management group, we're certainly comfortable with the level of
+prudence that GBP 2 billion as an underlying level of prudence there is required, the GBP
+700 million has been built up for historic reasons. And as illustrated, we're confident we
+could release that default reserve. And that the GBP 2 billion still shows sufficient
+prudence over where our best estimate is on an ongoing basis. So we wouldn't
+necessarily feel that we needed to reestablish at that point in time. I think then in terms of
+other management actions or things we did, as you say, you lived through it.
+
+A - Kerrigan William Procter
+
+{BIO 15093363 <GO>}
+
+Well Simon lived through it, definitely. At the time, he was running LGR annuities at the
+time. Well I'll kick off. And I'm sure you can complement from both lines. Probably, Andy, if I
+come back to your second point, which somewhat describes what actions we have taken
+in that kind of stress scenario and, indeed, things we have done. So the switch in the
+mandate in 2010 -- before that, it was really constructed as a collection of benchmarks. So
+it was a benchmark-relative asset with a philosophy of avoiding downgrades and defaults,
+which is very much LGIM's active fixed income philosophy or has been for many, many
+years. One of the things that, that led to at the time, as you may recall, was benchmarkrelative mandates naturally held a reasonable amount in bank debt, financials debt. And
+so really, in -- over 2009 and 2010, we've reworked the whole mandate to line up agent
+and principal. So LGR being the principal and LGIM being the agent, to really get them
+working very closely together to continuously use their skill sets to avoid downgrades and
+defaults. So the primary measure -- when you think about the sorts of mandates, it's -you win assets, people give you assets, you buy the portfolio -- on average, A-rated
+assets that you want at outset. Then you want people to maintain that investment yield,
+because you've got to pay pension cash flows. So maintain that investment yield, maybe
+do a bit better if you can. But continually look to derisk the portfolio. So the primary
+measure the fund managers have. And for any fixed income fund managers out there,
+this is a huge thing. On their desk is not a benchmark with an alpha-relative target, it's
+actually, your target is to improve, in other words, reduce the probability of default across
+your portfolio as measured by probabilistic measure of defaults and default losses across
+that whole portfolio. So everyday, they're thinking actively, alpha-generating fund
+managers have all the input to say, well, I've got this portfolio, what could I continually
+upgrade through reduce by default risk provision? Because that's how I'm assessed,
+incentivized, all those others things. So what that really means is, firstly, they're agnostic
+about sectors. We have this sector overlay that Simon talks about, because we shouldn't
+be so arrogant to say we're always right. But we have that sector overlay. But that
+underlying theme of keeping that sector diversified is an output of the underlying default
+risk provision. And what that means is, of course, that at any one time, if you talk to
+(Antoine), the Chief Risk Officer, or (Tom Pavlich), who runs our portfolio, they have a list
+of preferred bonds that they would continually look to move out of into bonds they feel
+are more secure while preserving the portfolio yields. So it's a continuous, if you like, list
+of -- in order, of things I'd like to remove to things I prefer to move into as markets
+develop continuously. It's a pretty low-turnover portfolio, about 15% to 20% portfolio
+turnover. So relative to your alpha mandates of a couple hundred % or more. So it's a very
+low kind of shift from that lift -- that list of things we'd like to move out of into the things
+we'd like to move into. And you can see that over the years and it's gradually moving our
+banks are now having less than GBP 2 billion in banks, nothing in European periphery,
+Page 11 of 24
+
+
+
+Company N ame: L egal & General Group PL C
+Company Ticker: L GEN L N Equity
+Date: 2017-06-13
+
+nothing in sub debt. So there's things moving out the portfolio from 2010 onwards, you
+get to that position that where we are now with a super-defensive portfolio. Does that
+give you a bit of a flavor for what we're doing.
+
+FINAL
+
+Q - Greig N. Paterson
+
+{BIO 6587493 <GO>}
+
+(inaudible) I'm Greig Paterson, KBW. Looking at Slides 27 and 28, which is your 2001, 2002
+scenario, 3 questions. The one is just -- it's a question, if my understanding is correct here.
+We've got 260 of defaults and the annual reduction in the release is 46. Your duration on
+your annuity book is 12 years. So are we looking at a PV cost of GBP 750 million roughly? Is
+that logic correct? And second question is, drilling into that number, a 3% reduction in the
+net release seems a bit light. If you look on Page 27, you see the downgrades sort of
+going on there. I mean, isn't it fair to say if you're looking at economic costs, you also
+need to consider the increase in the risk margin because ultimately, that's the market's
+view on the cost of carrying capital associated with the increased risk? So GBP 750 million
+and then the (lightness) of your own default adjustment. Then, in that context, since 2008,
+it's a question I've always wanted to know, what has been the economic cost in terms of
+defaults between now and then? Because it's not a minuscule amount of defaults that you
+talk about, it must have been in the billions or a few billion at this point. I just want to try
+and get a feel for the actual true costs of your credit exposure.
+
+A - Stuart Jeffrey Davies
+
+{BIO 20023574 <GO>}
+
+Bloomberg Transcript
+
+Sorry. Just to come back on the second point, you mentioned risk margin, we are talking
+there about the IFRS balance sheet.
+
+Q - Greig N. Paterson
+
+{BIO 6587493 <GO>}
+
+No. I appreciate that. So what I was saying is, I do appreciate what this is an IFRS and I -the PV, it should be around GBP 750 million. I'm just taking the default times the annual
+reduction in the release times the duration of 12 years, which is 12 or 13. So it gives you
+GBP 750 million. That's the PV on the IFRS costs. The rest will go down through a variance
+and (so much for) NAV will be hit by. And the second question is on questioning the
+validity of the IFRS movement in reflecting economic value, because it's ignoring the
+increase in the risk margin associated with downgrades and that 3% looks very light for
+2001. Then the third one is, in terms of economic costs, what's been the cumulative
+default costs since 2008 -- since the credit crisis?
+
+A - Stuart Jeffrey Davies
+
+{BIO 20023574 <GO>}
+
+I think poor Kerrigan, they are all for Kerrigan. And I think explaining the GBP 46 million
+answers the first question. And I think the 3%, we understand.
+
+A - Kerrigan William Procter
+
+{BIO 15093363 <GO>}
+
+Yes. So let me just -- so just to embellish some of the things I said there in the charts, just
+to make sure it's not -- if it's clear. So GBP 260 million and the other certain (inaudible)
+analysis went to get that figure so that's a straight off the default reserve absorption
+there. Then why that figure is a bit higher than some of the previous scenarios, it's
+because there were substantial downgrades at that time. So we effectively, when we look
+at the long-term default provision, we have an expected level of default to historical
+Page 12 of 24
+
+
+
+FINAL
+
+Company N ame: L egal & General Group PL C
+Company Ticker: L GEN L N Equity
+Date: 2017-06-13
+
+probability weighted analysis on our actual portfolio and then prudence over that level.
+And the operational release or net release really shows the unwind of that prudence over
+the time. And because there were more downgrades. So the expected default rate would
+have gone up. And so the gap for prudence has lessened. So that reduction in the release
+of prudence is GBP 46 million. So I think you've got the point there. (inaudible) Roughly 12
+years, yes. I mean you've got a tail. I mean, as you know, while you've got a tail and so
+there's an impact over life. And of course if LGIM -- all this -- all that analysis relies on LGIM
+not doing any better than expected, of course, all the preamble was to say that we've
+actually done better than expected through LGIM's expertise in the past. But if that was
+just taken through as LGIM do as expected, then you see that impact on a 12-year
+duration. So that's broadly right, I think, they agree.
+On the risk margin, that didn't come in to our IFRS. It's not a feature of our IFRS balance
+sheet in any way.
+
+Q - Greig N. Paterson
+
+{BIO 6587493 <GO>}
+
+(inaudible) take that GBP 750 million. GBP 750 million is the IFRS hit. To me, the economic
+cost is 2%, 3%. And it's because of the risk margin, which is the market's interpretation of
+the existing cost of showing a high risk (inaudible)?
+
+Bloomberg Transcript
+
+A - Kerrigan William Procter
+
+{BIO 15093363 <GO>}
+
+Well what I think, that somewhat comes down to the robustness of the Solvency II balance
+sheet and what you would do. And we're very comfortable with GBP 4 billion of surplus
+and 150% solvency coverage ratio. So that impact there, that Solvency II impacts
+incorporates all the dynamics of the Solvency II balance sheet with this 24 months of the
+worst period ever for downgrades all lumped into a second. And with no management
+actions, nothing there, that's the 150%. So that incorporates all that thinking. Then the
+question is, would we do anything different with that 150%? Would we do something
+different that would cost us something economically on top of that? Which that -- we're
+suggesting we're comfortable with that 150%.
+
+Q - Greig N. Paterson
+
+{BIO 6587493 <GO>}
+
+Then last one is, let's keep on the IFRS (inaudible). What's the cumulative negative
+variances associated with downgrades from 2008 to '09? It will be in the billions, I
+assume.
+
+A - Kerrigan William Procter
+
+{BIO 15093363 <GO>}
+
+Well you will have seen -- I'm just trying to figure that through. I mean you will have seen
+the actual defaults and you will have seen the outturn over the years of PBT and (offprofit) hence investment variance, which will incorporate all the actions that we've taken
+over the years to get to where we are now, which is an A; rated portfolio that we're very
+comfortable with. So I can't break out what the precise figures there for what economic
+costs you're thinking about. But it's all been transparent. Whatever has happened in terms
+of PBT has all flown through and you've seen it all visibly going from the 2008 portfolio
+through to the...
+
+Page 13 of 24
+
+
+
+Company N ame: L egal & General Group PL C
+Company Ticker: L GEN L N Equity
+Date: 2017-06-13
+
+Q - Greig N. Paterson
+
+{BIO 6587493 <GO>}
+
+FINAL
+
+My point is (inaudible) I think the company has put (inaudible). So the income -- the cost is
+actually in the downgrades. And so to me that's misleading in the sense that you have
+managed your book well. But it has that significant defaults over the period and you can
+see it in the negative variances coming through. I mean. And actually...
+
+A - Stuart Jeffrey Davies
+
+{BIO 20023574 <GO>}
+
+Again. So just on that, there is figures that Nigel and I have spoken about around that. So
+we talked about -- for an example, last year, we were making a lot of money. You saw that
+in our results, fantastic record year. We therefore used some of that to increase the -- or
+reduce the credit risk within the portfolio. We spent roughly GBP 100 million last year to
+just improving the credit position of the portfolio. But we certainly wouldn't have what's
+the cumulative that we have done around that. As Kerrigan said, it's day-to-day business
+management of that portfolio, decisions made between LGR, between LGIM, when we
+want to upgrade the portfolio, what we think it looks like. When which of these lists of
+names are we moving, et cetera. But that -- as you see, that is the outturn of our IFRS
+results over the last periods. And it's been -- it's absorbed within that and within what
+we've been able to achieve.
+
+Bloomberg Transcript
+
+Q - Oliver George Nigel Steel
+
+{BIO 6068696 <GO>}
+
+Oliver Steel, Deutsche Bank. So 3 questions. First of all, just going to 2001, '02 scenario
+and the 150% solvency ratio. I appreciate it's 24-months all crammed together. But
+presumably, this is just based on the credit side of the sensitivities. It doesn't include
+anything else that happened at the time. So I'm just wondering if you want to sort of
+comment on what it might have looked like with the remaining sensitivities added in.
+Secondly, partly to show I'm not being totally unkind, what are the sort of management
+actions that you would have taken to alleviate that, since you said it was pre-management
+actions. Then the third question is really just trying to sort of get the basics in my head
+right. So the GBP 2.7 billion provision, if there are no defaults, gets released through the
+P&L and into the solvency each year. And I'm sure we could have worked it out from the
+slides. But exactly how much goes above the line and below the line in the IFRS P&L? And
+where do you count all of that release in your Solvency II roll forward? Does it come
+through as organic capital creation? Or is it market variance?
+
+A - Stuart Jeffrey Davies
+
+{BIO 20023574 <GO>}
+
+So the last one's quite easy. The release of the reserve wouldn't be -- appear at all in the
+Solvency II. So it would just be, you would see whatever market movements (were the)
+market movements. And we would obviously be breaking that out at the time because
+that's just a pure IFRS reserve. I know Kerrigan looked at the different...
+
+Q - Oliver George Nigel Steel
+
+{BIO 6068696 <GO>}
+
+So I thought that you said that, that was a similar reserve in the Solvency II (inaudible).
+
+A - Stuart Jeffrey Davies
+
+{BIO 20023574 <GO>}
+
+Page 14 of 24
+
+
+
+FINAL
+
+Company N ame: L egal & General Group PL C
+Company Ticker: L GEN L N Equity
+Date: 2017-06-13
+
+No. It's not a reserve. It's just a mark to market of the calculation. So you recalculate -restrike your best estimate with the new downgrade, new matching adjustment,
+recalculate the capital. Kerrigan, I know, has looked at the other different scenarios, what
+has happened. Obviously, he talked extensively about our hedging around interest rates
+and inflation. So therefore, that doesn't add much value to show they all moved and not a
+lot has happened in the balance sheet, (meaning) you have the sensitivities on those
+where we look at them. But yes, the management actions, we do have a long list on
+those.
+
+A - Kerrigan William Procter
+
+{BIO 15093363 <GO>}
+
+Bloomberg Transcript
+
+Yes, yes. I mean, just in terms -- just to be precise. Yes. It was just the credit side. It wasn't
+-- so we didn't factor in the equity market downturn in that scenario. So you look at the
+equity figures on our balance sheet and the downturn over that period. I mean the point
+of all that, it was a 24-month stress compressed into one assuming we did nothing. We
+had no skill set into picking the sectors, the issuers. And did nothing over that 24-month
+period. But it's purely credit only. It's purely isolated credit only. It wasn't the full 2001,
+2002, everything that happened over that period with equities.
+Yes. In terms of management actions, I mean, just in terms of some of the figures that we
+worked through. Of course, over that 24-month period, you would be having this live
+mandate in place where you're continually looking to move out of bonds that hopefully
+you -- before they downgrade. But indeed, after they're downgraded potentially. But that
+continual mandate of recycling those assets into your broader A; portfolio. And the effects
+of those management actions that we thought about over the two years, will probably
+end as (around) 150%, they might be more like 160%, while still denying that LGIM had any
+skill sets, particularly in managing that better. So that's the sort of first order management
+action over that period will be across the portfolio management that you're looking to
+apply.
+
+A - Stuart Jeffrey Davies
+
+{BIO 20023574 <GO>}
+
+Yes. Maybe just to add particularly on -- in that stress. You can see there's quite a lot of
+names that get downgraded to some investment grade and actually even down to sort of
+single B and CCC type levels. Solvency II treats those very painfully. So you take both the
+spread widening effectively. You have to take that through your balance sheet and your
+capital requirement significantly increases. So you've actually taken the pain for trading out
+so you could trade out of those assets for no further downside. But actually significantly
+reduce your capital requirement if you reinvested those proceeds in -- yes, that's the
+typical A-rated name. So there will be some fairly obvious management actions that could
+improve through that number quite materially.
+
+Q - Unidentified Participant
+This is (inaudible) from Morgan Stanley. I have 2 questions, please. So first of all, looking at
+scenario 6. You obviously described this scenario as a moderate spread stress. I was
+wondering whether you've done a stress where actually the spread widening is much
+higher than the 50 bps, 100 bps here. And wondering, actually what's in your capital
+requirement on the Solvency II. What's the scenario you assumed for the 2 calculated
+capital requirement? And secondly is the -- I'm just curious, given your track record in the
+Page 15 of 24
+
+
+
+Company N ame: L egal & General Group PL C
+Company Ticker: L GEN L N Equity
+Date: 2017-06-13
+
+managing the credit portfolio, would actually rerisking your portfolio something on the
+table? Because I noticed that you got 26 -- 23% still in the (cubby). But you have very
+excellent capability in managing credit portfolio. So just curious.
+
+FINAL
+
+A - Stuart Jeffrey Davies
+
+Just on the last one, I'm pretty sure Simon will want to talk about the first one. The -- on
+the rerisking, I think we took quite a lot around, wanted to improve and increase the
+proportion of direct investments, last-time mortgages, et cetera, back in the portfolio that
+would obviously use up more of that. You may or may not consider that rerisking. It's
+certainly balanced against the corporate -- equivalent corporate bond rating. But luckily,
+Kerrigan is so successful in writing new business that we have to manufacture more and
+more of those assets to increase the proportion of the total in force at any point in time.
+So yes, that direction of travel is to increase that proportion. And you may or may not call
+that rerisking. But certainly we think that gives a better risk-adjusted yield for the portfolio
+and optimizes between IFRS and Solvency II overall.
+
+A - Simon Gadd
+
+Bloomberg Transcript
+
+{BIO 20023574 <GO>}
+
+{BIO 17956222 <GO>}
+
+Yes. So you're right to say there have been much worse times in history than 2001, '02 for
+spreads. The worst time in history was 2008, '09. So in our capital modeling, we assume
+that we had a combination of 2008, '09 for spreads, combined with 2001, '02 for
+downgrades, because actually that is the worst time in history for downgrades. And
+effectively, we then assume that we have to trade instantly pretty much or in the -- within
+a -- I think it's a 12-month timescale out of all of the downgraded assets, even though their
+spreads in that scenario are really, really wide and effectively take the full pain to
+effectively come up with a capital allowance that we make on the balance sheet. So now
+that's irrespective of what we actually would do in those circumstances. We would -- and
+getting back to that previous question, in 2008, '09, we took our time. There were some
+stocks, that it was the right thing to do to come out instantly. But actually, there were lots
+of stocks where the spread was artificially inflated and we took our time, waited for things
+to normalize before we took any action. So yes, it's a combination of 2008, '09 and 2001,
+'02 that makes up our capital.
+
+A - Stuart Jeffrey Davies
+
+{BIO 20023574 <GO>}
+
+And I think that's important around the prudence on the IFRS and the plus more than GBP
+4 billion that we're saying in those scenarios around Solvency II that it allows us to take our
+time. We're not foresellers and we're able to capitalize on new business opportunities,
+which is also what we did after 2008, 2009.
+
+Q - Andrew John Crean
+
+{BIO 16513202 <GO>}
+
+It's Andrew Crean, for Autonomous. A couple of questions. Firstly, can you tell us on an
+IFRS basis, what your normal default assumption is on credit -- on your sort of A-star credit
+portfolio. And what the equivalent would be on your direct investment? What I'm trying to
+get to is, net of default assumptions, what is the yield on the credit portfolio versus the
+direct investments? Then secondly on your trading, the GBP 1 billion of BPAs looks quite
+low relative to an expected run rate. I realize this is lumpy. I realize it's second half biased.
+But what's been going on in the market? Because it does look slow for everyone.
+
+Page 16 of 24
+
+
+
+Company N ame: L egal & General Group PL C
+Company Ticker: L GEN L N Equity
+Date: 2017-06-13
+
+FINAL
+
+A - Stuart Jeffrey Davies
+
+{BIO 20023574 <GO>}
+
+Sure. Okay. I mean, on the first one, I know we've previously quoted a sort of a 19 bps, 20
+bps across the portfolio as the sort of best estimate within what was the embedded
+value assumption at the time. I'm not sure we've ever broken that out. I'm just checking. I
+wasn't here all of the time. I don't think we've broken that out between the different asset
+types. So we -- I wouldn't have that at my fingertips in terms of what the assumptions are.
+I know what underlies what we put in the solvency II in the IFRS. But that's slightly different
+for those assumptions.
+
+A - Kerrigan William Procter
+
+{BIO 15093363 <GO>}
+
+I mean that implicit number, the 19, 20 clearly varies by credit rating of the asset.
+
+A - Stuart Jeffrey Davies
+
+{BIO 20023574 <GO>}
+
+Yes, completely, yes.
+
+A - Kerrigan William Procter
+
+{BIO 15093363 <GO>}
+
+Or it depends on the mix of assets in the direct investment portfolio versus the mix of
+assets in the trading portfolio.
+
+Q - Andrew John Crean
+
+{BIO 16513202 <GO>}
+
+Bloomberg Transcript
+
+IFRS versus the assumption would be higher than the (inaudible) assumption?
+
+A - Kerrigan William Procter
+
+{BIO 15093363 <GO>}
+
+Yes.
+
+A - Stuart Jeffrey Davies
+
+{BIO 20023574 <GO>}
+
+Yes, yes. That's the 50 ...
+
+A - Kerrigan William Procter
+
+{BIO 15093363 <GO>}
+
+55.
+
+A - Stuart Jeffrey Davies
+
+{BIO 20023574 <GO>}
+
+The 55 basis points.
+
+Q - Andrew John Crean
+
+{BIO 16513202 <GO>}
+
+You talk about that. But again, across the whole portfolio? Then, yes, in terms of volumes?
+
+A - Kerrigan William Procter
+
+{BIO 15093363 <GO>}
+
+Yes. Just to finish that point. So below the line, i.e. the about GBP 100 million-ish that -which is the expected defaults. And then above the line, call it GBP 150 million-ish, in the
+prudent release and the net release. So that's kind of the impact of the full reserve in
+Page 17 of 24
+
+
+
+FINAL
+
+Company N ame: L egal & General Group PL C
+Company Ticker: L GEN L N Equity
+Date: 2017-06-13
+
+those 2 elements of the line. So you got the wider prudence, GBP 150 million. And you can
+kind of work out the combination of short-term reserve and the long-term reserve. And
+then that expected defaults 20 basis point-ish, lots of caveats for having that then, that's
+the figure at the bottom. The DI portfolio is broadly this similar, same weighted average
+rating factor, particularly when you add lifetime mortgages. But what we really expect to
+see with that is that, if anything of it the problems have much better recovery rates. So
+hence, all the security, collateral covenants that we're seeing there. I mean, I've got a
+figure in my mind, I don't know what would slow us in terms of potential difference in
+recovery rate. But you can kind of look at bank debt, the difference between senior
+unsecured, which most of debt will be in. And senior secured, which most of the direct
+investment will be structured a little bit like senior secured. So you look at recovery rates
+there. Typically in the banking market be 40% compared to -- loss (inaudible) 40%
+compared to 60% would be typical. But so we'll be looking at something that or better as
+a senior secured-type asset on the direct investment side.
+
+Q - Andrew John Crean
+
+{BIO 16513202 <GO>}
+
+The yield?
+
+Bloomberg Transcript
+
+A - Stuart Jeffrey Davies
+
+{BIO 20023574 <GO>}
+
+So the yields, we look at, like I say, is be careful for competition reasons. But I mean, bear
+in mind, if you have a senior secured asset, compared to a senior unsecured asset and
+you're getting the same yield, you certainly take the secured because we are not worried
+about illiquidity risk. But we're typically at 50, 50 to 1 50 over the equivalent more liquid
+traded assets, that kind of level in terms of the yield of the credit, yes. Just in terms of
+trading volumes. So we're looking at -- just to put in context, over GBP 1 billion, GBP 1.4
+billion year-to-date on the bulk side. If you recall, last year, we wrote GBP 3.3 billion of U.K.
+bulk annuities, Aegon, there were GBP 3 billion on top of that, the GBP 3.3 billion of U.K.
+bulk annuities over the year. So we're certainly comfortable with the type of deals and the
+volume of deals. It's certainly true. It seems to be true that what I will characterize the U.K.
+market relative to the U.S. market. In the U.S. market, all the action seems to happen in
+Q4. It felt like it was more orderly across the year in the U.K. in previous years, certainly
+rolling back a few years. It does seem to be more H2-weighted type of business over the
+past few years. As people have this natural cycle of wanting to get things done by end of
+calendar year and there is a trustee cycle of strategic review at the start of the year, going
+to summer holidays and come back and want to get something done. So there is real
+evidence that there's something seasonal in terms of H1, H2 developing in the U.K. bulk
+market. Don't take that as any promises to what will happen in the second half of the year.
+There is plenty of pipeline out there. But and we've all talked many times about it being
+lumpy. But we're very comfortable with the deals we've written to get to the roughly GBP
+1.4 billion so far this year compared with last year.
+
+Q - David Bracewell
+
+{BIO 16394801 <GO>}
+
+It's David Bracewell here from Redburn. Just one question. And it's on the on the
+nontraded portfolio in a kind of a default to a downgrade scenario. Just wondering how -what process you go through in terms of rating that kind of -- the asset portfolio there in
+terms of -- because, clearly, in a traded portfolio, it's clear what's happening there in
+terms of defaults or what the market perceives. I'm just wondering what the internal
+Page 18 of 24
+
+
+
+Company N ame: L egal & General Group PL C
+Company Ticker: L GEN L N Equity
+Date: 2017-06-13
+
+process there is in terms of downgrading, for example, the lifetime mortgage portfolio,
+et cetera, et cetera? How that works? And what kind of flexibility you might have?
+
+FINAL
+
+A - Kerrigan William Procter
+
+{BIO 15093363 <GO>}
+
+Yes. I mean Simon can -- at the risk of repeating (but certainly), that was some of the area
+where it's fully independent, the process, that is fully reviewed. We obviously did that post
+the Brexit vote last year where there was discussion around property, et cetera. And the
+linkage to that. So those are constantly reviewed on an ongoing basis. I think, yes, Simon
+will be happy to talk about that.
+
+A - Simon Gadd
+
+{BIO 17956222 <GO>}
+
+Bloomberg Transcript
+
+Yes. I mean it's an active part of the management process. So effectively, the internal rate
+committee at least yearly. But obviously, any events that happen to a particular name,
+then they will review the rating. Effectively, if they feel it's now distressed, then they will
+reduce the rating. Effectively that effectively means we have to start provisioning more
+within both the reserves and in the capital requirement. Then, clearly, they'll be working
+with the first-line team to see whether we're getting to the point where any of the
+covenants are starting to bite, then we will start to get actively involved in the
+management of potentially that asset. And in the most extreme situation, we're involved
+in the workout and potentially taking ownership of any security that we have. But it's a,
+yes, a very active management process. It's fair to say we haven't gotten many assets in
+that situation. So we haven't had to do that very often at this stage. Kerrigan, you can pick
+up the lifetime mortgages.
+
+A - Kerrigan William Procter
+
+{BIO 15093363 <GO>}
+
+Yes, of the lifetime mortgages, a similar process. So we have the portfolio of lifetime
+mortgage loans to make the match adjustment efficient, we structure them in a special
+purpose vehicles and issue notes out of that vehicle those are rated -- predominantly
+over 50% of the notes are AAA-rated then you have got AA, A and then BBB. Tranche of
+those notes that we issue from the SPV back in the lifetime mortgages, all those notes go
+through the same internal rating process. We took a lot of advice externally from on how
+to rate those and the same internal rating team put those ratings on through the same
+independent process.
+
+A - Stuart Jeffrey Davies
+
+{BIO 20023574 <GO>}
+
+Interestingly, that's one of the management actions where you have, okay, the economic
+risk hasn't changed. But we could put more assets into the one of those SPVs to maintain
+a better Solvency II position, because we could maintain the ratings on the note that
+we've created internally. So that does give us, again, extra flexibility. None of that is
+reflected, obviously. Alan?
+
+Q - Alan Devlin
+
+{BIO 5936254 <GO>}
+
+Alan Devlin from Barclays. A couple of questions. Just a follow-up on the direct
+investments. As you do increase the proportion of your investments in direct investments,
+how does that change the stresses? Is there any meaningful change or is it all rounding?
+And how actually did you distress the direct investments in your 2000, 2001 analysis?
+Page 19 of 24
+
+
+
+Company N ame: L egal & General Group PL C
+Company Ticker: L GEN L N Equity
+Date: 2017-06-13
+
+Then second question, on your experience from 2008, 2009, were you able to trade out
+of the kind of securities you wanted to trade out of, or the market just (inaudible) what
+comes in your (inaudible)?
+
+FINAL
+
+A - Stuart Jeffrey Davies
+
+{BIO 20023574 <GO>}
+
+So yes. So in terms of the DI, I mean really for the 2001, 2002 scenario, all we did really
+was take the credit ratings distribution of the entire portfolio, including the direct
+investment. And Moody's transition matrix from 2001, 2002 multiply them together and
+just applied that to the ratings of the portfolio. Look to the downgrades and applied a
+40% recovery to that. So it was very naÃ¯ve test just to make it a completely -- here (sure
+to) test assume we have no skill whatsoever, this is just what would have happened.
+
+Q - Alan Devlin
+
+{BIO 5936254 <GO>}
+
+(inaudible)
+
+A - Kerrigan William Procter
+
+{BIO 15093363 <GO>}
+
+Bloomberg Transcript
+
+No, no, no. Which is exactly the point, the -- thank you for pointing me in that direction. Of
+course, as we look to move into direct investment with its kind of senior secured status
+more than senior unsecured with expected better recovery rates by design of the
+covenants and substantial collateral in securities that we have there, you would expect a
+better recovery rate. So -- default losses there.
+Given the types of assets that we're looking at, some of the infrastructure lending and
+some of the structures there, you might expect stickier or less downgrades. But difficult to
+judge that on evidence at the moment. Certainly, maybe true for infrastructure lending, I
+think you could argue that, certainly the (inaudible) did argue that that's yet to come in the
+U.K. So I think they've been arguing there for dampening down the downgrade stress as
+well. But we didn't allow for any of that in the portfolio. Clearly, as the DI portfolio
+develops and grows then we would argue that there is a additional robustness there.
+
+A - Stuart Jeffrey Davies
+
+{BIO 20023574 <GO>}
+
+And yes. Sorry in 2008, '09, there were names that you might have wanted to trade out
+of. But you couldn't. But the fact we would never -- we're never forced to trade out was a
+key advantage for us. So we didn't have to sort of participate in fire sales of assets
+effectively so. A lot of names we held on to for a long period of time. Again, we would -most of those assets, we were still getting the income that we were expecting. The
+coupons were still being paid. It was just that there was clearly a risk of -- a heightened
+risk of default. But actually, it was quite interesting to see how a lot of those names that
+got very, very stressed in the period recovered very nicely. And it was the right thing to do
+to hold onto those names. So yes, that flexibility we have got as to when we trade is a key
+advantage.
+Just a couple more questions.
+
+Q - Colm Kelly
+
+{BIO 19140684 <GO>}
+Page 20 of 24
+
+
+
+FINAL
+
+Company N ame: L egal & General Group PL C
+Company Ticker: L GEN L N Equity
+Date: 2017-06-13
+
+Colm Kelly from UBS. Just following up on that flexibility point. To what extent can you
+hold for a long period of time given the restrictions around the matching adjustment and
+the need to maintain the risk characteristics of that portfolio to match the liabilities,
+because that's something that the PRA specifically states. So that's not something that
+would have been there in the past necessarily? So to the extent that that's changed. And
+also, the ability to actively trade in and out of assets, can you just explain how that might
+have changed or the process around that given the restrictions that are on the matching
+adjustment portfolio? The second question. So you obviously have shown the percentage
+of downgrades in distress, if you think back to that scenario in '01, '02, it was probably as
+many bonds that were drawn in terms of their rating as downgraded. So I was just
+wondering within the calculation how you've allowed for those bonds that have been
+withdrawn, not just downgraded.
+
+Bloomberg Transcript
+
+A - Kerrigan William Procter
+
+{BIO 15093363 <GO>}
+
+Yes. So on the flexibility point, around the matching adjustment, I mean you saw from the
+charts how closely matched we are on physical assets ties up with swaps to make it right
+really tight across the curve. As long as we're holding those assets and the cash flows can
+come through, then we'll still be very tight against our matching adjustment tests that we
+have to fulfill for the PRA. So there is no expectation there that tight ALM match, which is
+really why the ALM point as a precursor to the credit point is really important to
+understand. We're not forced traders at any point because of that match. So we feel
+pretty confident there. Of course, leading onto your second point, we may still want to
+trade out those because we have future credit concerns or possibly want to take some
+management actions on those. But definitely not forced to trade. The point around the
+mandate and we're really sort of going to in great detail about this buy and maintain type
+portfolio, it's almost exactly -- we didn't know what the matching rules would come out as.
+But it's almost exactly what the PRA specified, we've envisaged that, because it's the
+appropriate thing to do for that sort of portfolio. So when Solvency II came in with those
+requirements around match adjustment compliance for trading, et cetera, the only
+change we needed to make to that mandate was to document the reasons for changing
+assets. Nothing else needed to change in that mandate, because it's exactly what you
+should be doing for a downgrading defaults (aware) type of mandates. So it hasn't felt
+like it has constrained us at all.
+
+Q - Colm Kelly
+
+{BIO 19140684 <GO>}
+
+Maybe to follow up on the withdrawn question?
+
+A - Kerrigan William Procter
+
+{BIO 15093363 <GO>}
+
+Apologies, apologies. Sorry, sorry about that. So we just literally took the Moody's
+transition matrix from 2001, 2002, multiplied them together and applied that as the stress
+on the overall ratings portfolio. So to the extent any withdrawn ratings don't apply there,
+they won't apply in this scenario. So it was just that straight. It's a really transparent naive
+test so that you could all re-create that yourselves if you so wished. And it's exactly that, 2
+very visible transition matrices applied to the ratings distribution.
+
+Q - Andrew Hughes
+
+{BIO 1540569 <GO>}
+
+Page 21 of 24
+
+
+
+FINAL
+
+Company N ame: L egal & General Group PL C
+Company Ticker: L GEN L N Equity
+Date: 2017-06-13
+
+Andy Hughes from Macquarie. I just have 1 statement and 2 questions. I'm a bit surprised
+that 50% of the equity release portfolio has a higher rating than the U.K. government. I
+would have thought there would be a U.K. government cap on any equity release assets
+in the U.K. and you couldn't rate any AAA on that basis. The questions I guess are, on the
+150% after 2001, 2002 scenario, I appreciate the comments that, I guess, several of the
+people have made, that doesn't feel like particularly onerous stress. But clearly, in that
+scenario, the business is more sensitive. So to say you have GBP 4 billion of surplus,
+clearly the scenarios and sensitivity test clearly all go through roof. So I would imagine that
+the target range, which you worked, it would also go up, if you didn't take any
+management actions. So how do I know that 150% in that scenario is enough money to
+pay a dividend? And yes. So...
+
+A - Stuart Jeffrey Davies
+
+{BIO 20023574 <GO>}
+
+Just on the first, on the observation, we didn't say any individual equity releases are AAA
+rated. All we said is, if you restructure it and put enough security in there, you can create
+notes within a structure that can be rated AAA, because there's lots and lots of
+absorbency within that SPV. I mean, you could make any asset AAA if you put enough of it
+in there and only put a very small note out, because you're covered in the loss
+absorbency above the others. That's the sort of think that obviously (platforms) part of
+our internal model, been through thorough review by the regulator. And they're obviously
+comfortable with how that flows into our matching adjustment portfolio, how we've
+modeled that in all the different stochastic scenarios.
+
+Q - Andrew Hughes
+
+{BIO 1540569 <GO>}
+
+Bloomberg Transcript
+
+So the downgrade will not have changed the ratings?
+
+A - Stuart Jeffrey Davies
+
+{BIO 20023574 <GO>}
+
+Not the ratings within an SPV like that. I mean, we would look at what's the performance
+from an equity release portfolio on the back of a ratings downgrade. But it shouldn't have
+an impact. It'll only be HPI modeling and everything else that flows into it, it doesn't impact
+it.
+I mean, in terms of the GBP 4 billion, I mean, we picked, in conjunction many people in the
+audience that we discussed the '01, '02 as the worst downgrades we've seen, pretty bad
+defaults outside the 1930s. And the worst impact on investment-grade portfolios certainly.
+And it feeds into our model. We had the GBP 4 billion. Yes. There will be sensitivity. You
+need to be careful about capital on capital. We're already talking about us replacing 1 in
+200 stresses and calibrations on top of the 1 in 200 events starting. And we're still saying
+we're at 150%. So I mean we've been pretty confident at that stage. We're never going to
+say, "and therefore the dividend looks okay," but you wouldn't think that 150% Solvency in
+a situation like that is a very robust position to be in. We would look at the sensitivity. They
+wouldn't hugely balloon. There would be other actions. And of course, there'd be a whole
+load of management actions that we talked about. But don't forget, we have the
+matching, we have the interest rate and inflation matching that we already have there.
+We'd look at where are we in terms of sensitivities of further spreads at that point in time
+and look at how the other parts of the balance sheet have moved. But 150% -- I mean, I
+think the important number is over GBP 4 billion in surplus. I mean effectively saying, you
+Page 22 of 24
+
+
+
+Company N ame: L egal & General Group PL C
+Company Ticker: L GEN L N Equity
+Date: 2017-06-13
+
+could withstand the same type of event again after a 1 in 200 is a pretty large amount. I
+also don't think...
+
+A - Kerrigan William Procter
+
+{BIO 15093363 <GO>}
+
+FINAL
+
+I think you're right. We talked about a GBP 12.5 billion over GBP 8.3 billion-ish to get to the
+150%. But that GBP 4 billion plus of capital is -- will really come from that really substantial...
+
+A - Stuart Jeffrey Davies
+
+{BIO 20023574 <GO>}
+
+And having taken no management actions. Maybe anyone else? One more?
+
+Q - Unidentified Participant
+We've been talking about the Solvency II model under scenario 6. Your S&P credit rating,
+AA, is one in 10,000 event versus the one in 200 event. And I mean, the risk is you have a
+downgrade in your financial strength rating, it has a knock on effect on your business
+model. The question I'm trying to understand is how would the S&P model behave? And
+how would your credit rating -- your financial strength rating behave in -- under scenario 6?
+
+Bloomberg Transcript
+
+A - Stuart Jeffrey Davies
+
+{BIO 20023574 <GO>}
+
+It's a good question. You probably have to ask them they model (modes) in that scenario.
+But I mean, obviously, we went through the 2008, 2009. And withstood that very well. I
+mean, I think as a starting point, whilst there isn't a direct correlation between Solvency II
+and the S&P model, I think if we are holding 150% Solvency after an event like that, we'd
+be pretty confident of having very positive discussions with the rating agencies. The only
+good thing I can say about these blinds going down is it means it's very sunny out. And
+that it's a really nice day.
+Anyone else? Should we call it a day? We'll be around anyway and there's bigger brains
+than me to answer some of these questions on solvency II as well. But anything else?
+Thank you very much for coming along today. And thanks again for your inputs along the
+way. Hopefully we've answered some of your questions -- many of your questions. And
+we're happy to follow up, because I know there's a lot of information there. Thanks a lot.
+
+A - Kerrigan William Procter
+
+{BIO 15093363 <GO>}
+
+Thank you very much.
+
+This transcript may not be 100 percent accurate and may contain misspellings and other
+inaccuracies. This transcript is provided "as is", without express or implied warranties of
+any kind. Bloomberg retains all rights to this transcript and provides it solely for your
+personal, non-commercial use. Bloomberg, its suppliers and third-party agents shall
+have no liability for errors in this transcript or for lost profits, losses, or direct, indirect,
+incidental, consequential, special or punitive damages in connection with the
+furnishing, performance or use of such transcript. Neither the information nor any
+opinion expressed in this transcript constitutes a solicitation of the purchase or sale of
+Page 23 of 24
+
+
+
+Company N ame: L egal & General Group PL C
+Company Ticker: L GEN L N Equity
+Date: 2017-06-13
+
+Bloomberg Transcript
+
+FINAL
+
+securities or commodities. Any opinion expressed in the transcript does not necessarily
+reflect the views of Bloomberg LP. © COPYRIGHT 2022, BLOOMBERG LP. All rights
+reserved. Any reproduction, redistribution or retransmission is expressly prohibited.
+
+Page 24 of 24
+
+

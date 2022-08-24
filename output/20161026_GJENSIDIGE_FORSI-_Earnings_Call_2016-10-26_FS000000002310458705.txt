@@ -1,0 +1,1150 @@
+Company Name: Gjensidige Forsikring ASA
+Company Ticker: GJF NO Equity
+Date: 2016-10-26
+
+Q3 2016 Earnings Call
+Company Participants
+FINAL
+
+Helge Leiro Baastad, Chief Executive Oﬃcer
+Janne Merethe Flessum, Head of Investor Relations
+Jostein Amdal, Chief Financial Oﬃcer & Executive Vice President
+
+Other Participants
+Blair Stewart, Analyst
+Jakob Brink, Analyst
+Matti Ahokas, Analyst
+Niccolo C. Dalla Palma, Analyst
+Paul De'Ath, Analyst
+Steven Haywood, Analyst
+Vinit Malhotra, Equity Analyst
+
+MANAGEMENT DISCUSSION SECTION
+
+Bloomberg Transcript
+
+Operator
+Good day, ladies and gentlemen, and welcome to the Gjensidige Q3 2016 Results
+Presentation Call. Today's conference is being recorded. And at this time, I would like to
+turn the conference over to Janne Flessum. Please go ahead.
+
+Janne Merethe Flessum
+
+{BIO 19368607 <GO>}
+
+Thank you, and welcome to this third quarter presentation. As always, our CEO, Helge
+Leiro Baastad, will start by giving you some highlights from the quarter before our CFO,
+Jostein Amdal, will continue with some details around the numbers.
+And then we will, of course, have plenty of time for questions afterwards. So Helge,
+please.
+
+Helge Leiro Baastad
+
+{BIO 5865247 <GO>}
+
+Thank you, Janne, and welcome from me as well. I want you to look at page two in the
+presentation. We report strong result in this quarter. Proﬁt before tax NOK 1.5 billion and
+underwriting result of NOK 712 million, with combined ratio 87.5%, but adjusted for oneoﬀ provision relating to the restructuring, it's 85.4%.
+
+Page 1 of 19
+
+
+
+Company Name: Gjensidige Forsikring ASA
+Company Ticker: GJF NO Equity
+Date: 2016-10-26
+
+FINAL
+
+The underlying underwriting result is only NOK 89 million lower than in the same quarter
+last year, which was a record strong quarter, as you can remember. Jostein will come back
+with more details on the ﬁgures and the waterfalls related to the underwriting result.
+Growth in premiums was 4.3%. Underlying growth is 1% adjusted for currency and
+acquisitions. Growth in Norway, both private and commercial was 1.3%. All the main
+proﬁts in the private Norway portfolio had positive growth except for motor, which had a
+slight decrease in premiums despite an increase in the number of customers in the
+quarter.
+The growth in commercial is driven by new business initiatives. The growth rate is in line
+with the expectations we have communicated earlier given the general slowdown in the
+economy, and thereby slightly increasing competition.
+Growth in the Nordic segment in the quarter was 14%, driven by acquisitions. We are on
+track in Sweden, coming to be proﬁtable in 2017 and we are on track in the Baltic States as
+well, we will breakeven 2017 and become proﬁtable in 2018.
+
+Bloomberg Transcript
+
+Claims expenses this quarter are somewhat aﬀected by a short period of heavy rain in the
+parts of Norway early in the quarter. However, we still have a good underlying frequency
+claims development, and when it comes to run-oﬀ and large losses, it were at expected
+level in third quarter.
+The cost ratio was 17.3%. Adjusted for the restructuring provision of NOK 120 million, it's
+15.2%. The retail bank and the pension company in Norway together contribute with NOK
+178 million in proﬁt before tax expense in this quarter. And the ﬁnancial result was NOK
+700 million, return on ﬁnancial assets 1.3%; and altogether, the annualized return on
+equity is 21.7%.
+If you turn to page three, the Board has adopted a dividend of NOK 4 per share related to
+excess capital release. We have further optimized our capital structure during this third
+quarter by successfully issuing a Tier 1 loan of NOK 1 billion. In addition, we recently sold
+more than half the stake in SR-Bank, releasing capital of around NOK 300 million.
+Distribution of excess capital over time is in line with our dividend policy. And as you can
+see, the share will trade ex-dividend on November 1.
+Then moving on to page four, we have made our good strategy even more targeted. Our
+customers' preferences and ﬁnancial targets govern our strategic priorities. One, we will
+deliver the best digital customer experiences in the Nordic general insurance. Secondly,
+we will enhance insight and analytics-driven insurance operations with more analytical use
+of data. And thirdly, we will further develop the organization by knowledge sharing, job
+rotation and a ﬂexible organization. Analytical and digital skills will be reinforced
+throughout the organization.
+And as you heard in connection with our second-quarter presentation, we will strengthen
+our presence in the growing market for accident and health insurance in light of the
+expected gradual shift to less motor insurance and more accident and health and
+Page 2 of 19
+
+
+
+Company Name: Gjensidige Forsikring ASA
+Company Ticker: GJF NO Equity
+Date: 2016-10-26
+
+technological development, changing demographics and a less-sustainable welfare
+system in the Nordics.
+
+FINAL
+
+Value-adding services, product simpliﬁcations and new partnership distribution models
+will be increasingly important for growing and development going forward.
+Then turning to page ﬁve, we are taking measures to ensure continued good
+competitiveness and delivery according to unchanged ﬁnancial targets. In order to
+underpin our strategic priorities, eﬃciency measures will be implemented, as
+communicated in September. Our Executive Vice President Catharina Hellerud will now
+lead the area, analytics, product and price, where we gather all data and analytics capacity
+to form a dynamic center for better utilizing analytical insight in product development,
+tariﬃng and customer servicing, to mention some.
+
+Bloomberg Transcript
+
+Martin Danielsen, who has played a decisive role for several years in our eﬀorts on
+advanced risk pricing and risk selection, is now leading senior group management to
+dedicate all its time to lead the Company's commitments on analytical-driven assurance.
+And as mentioned, Jostein Amdal is our new CFO. He has previously been in charge of
+risk in the Group, and for the past two years, has been Head of the Capital Management
+and M&A department.
+Krister Aanesen is Acting EVP for the private segment, while Hege Yli Melhus Ask is on
+maternity leave. Continued focus on cost eﬃciency throughout the business is crucial to
+create room for investments in technology, the brand and skills that will strengthen our
+position going forward. So during 2017, staﬀ and support functions will be reduced by
+about 190 FTEs.
+With this, I leave the word to Jostein for more details on the numbers.
+
+Jostein Amdal
+
+{BIO 19939645 <GO>}
+
+Thank you, Helge. Good morning. I'll start on page number seven. We report a good
+underwriting result of NOK 712 million for the quarter. The development from the
+corresponding quarter last year is aﬀected by a few one-oﬀs that I will return to in more
+detail. The retail bank and pension and savings have a positive development, and
+contributed a total of NOK 178 million in the quarter, NOK 36 million more than the
+second quarter, and just over NOK 100 million than the same quarter last year.
+The positive development in pension and savings in the quarter is due to our growing
+customer portfolio and increased assets under management, combined with the higher
+ﬁnancial results. The retail bank's good result is largely driven by growth and a positive
+ﬁnancial result. The investment portfolio yielded a satisfactory return of 1.3% in the
+quarter, corresponding to NOK 700 million, which is up NOK 130 million from the
+previous quarter.
+And the proﬁt before tax expense thereby amounted to NOK1.5 billion compared with
+NOK 0.95 billion in the same quarter last year. And the proﬁt before tax expense for the
+Page 3 of 19
+
+
+
+Company Name: Gjensidige Forsikring ASA
+Company Ticker: GJF NO Equity
+Date: 2016-10-26
+
+FINAL
+
+year-to-date is then NOK 4.8 billion, which reﬂects improvements in all the group's
+business areas.
+Turning to page eight, we report a strong underwriting result this quarter, underlying only
+NOK 89 million weaker than in the same quarter last year, which was a record strong
+quarter. Overall, the reported result is aﬀected by a few one-oﬀs and increased level of
+large losses. Last year, the underwriting result was aﬀected by a one-oﬀ related to a
+review of actuarial models for the calculation of claims submissions. This had a positive
+eﬀect of approximately NOK 100 million in the third quarter of 2015. In the third quarter
+this year, we have a one-oﬀ of NOK 120 million related to restructuring costs, which Helge
+has already commented on. The provision is expensed to the corporate center.
+If you also adjust for changes in run-oﬀ and large losses between the two quarters, we see
+an underlying weakening of the underwriting result of NOK 89 million. Some of the
+underlying change can be related to one short period of heavy rain in parts of the country
+in August which aﬀects both private and commercial. The remaining weakening is well
+within what we would expect in variations in an industry as general insurance.
+
+Bloomberg Transcript
+
+Our long-term annual combined ratio target is in the corridor of 90% to 93%, and
+adjusted for run-oﬀ gains in the next two to four years, the target is 86% to 89%. Adjusted
+for one-oﬀs, combined ratio this quarter is below this level with 85.4%, and the 12-month
+rolling, normalized combined ratio is also at the lower end of the corridor with 85.9%. As
+previously commented, the annual combined ratio will be at the lower end of the corridor
+in the time ahead.
+Turning to page nine, the loss ratio was 70.2% this quarter, 4.6 percentage points higher
+than the corresponding quarter last year. Adjusted for changes in run-oﬀ and large losses
+and the change in the actuarial model from last year, the underlying loss ratio related to
+frequency claims was 1.6 percentage points higher than in the third quarter last year.
+And as mentioned, some of the deterioration can be ascribed to the heavy rain which led
+to a weaker frequency claims development, especially for property, which otherwise
+shows good underlying proﬁtability in the quarter. The motor portfolio in private Norway
+shows continued good proﬁtability, on par with the same trend last year and better than
+we normally expect. We do see signs of a somewhat increased claims inﬂation, and
+monitor the development closely to ensure appropriate pricing initiatives.
+Claims level in commercial Norway was also aﬀected by the heavy rain. In addition, we
+saw an increased proportion of large losses related to commercial property in this quarter.
+Over the long-term, proﬁtability trend is still good for this product. The accident and
+health products saw stable, good development. We see signs that the economy in
+general is stabilizing, but we're still experiencing price pressure in the market, as we have
+previously communicated.
+The Nordic segment had an increase in claims this quarter compared with the same
+quarter last year. This is mainly due to a higher proportion of large losses and lower runoﬀ gains. The underlying proﬁtability in the Danish portfolio was, however, also somewhat
+Page 4 of 19
+
+
+
+Company Name: Gjensidige Forsikring ASA
+Company Ticker: GJF NO Equity
+Date: 2016-10-26
+
+FINAL
+
+weaker than the corresponding period last year. The Vardia portfolio aﬀected the
+proﬁtability in Sweden negatively, but proﬁtability in the rest of the Swedish portfolio is
+developing in a positive direction and we expect to reach proﬁtability in Sweden in 2017.
+In the Baltics, we are on track to reach breakeven during 2017 and proﬁtability in 2018, as
+previously communicated.
+Moving to page 10 on premium growth, we have a good premium growth in the quarter
+4.3%, 4.2% adjusted for currency eﬀects, and 1% adjusted for appreciations and currency.
+Helge has already commented on the growth in Norway. The Nordic segment reported
+growth of 14%; 2% when adjusted for acquisitions and currency. The growth in premiums
+in the Danish portfolio wasn't particular driven by growth in the commercial property
+portfolio.
+In Sweden, we saw good growth in the private portfolio, while growth in the commercial
+portfolio is still subdued due to repricing. The Baltic segment reported growth of 86%,
+including the acquisition of PZU Lietuva, and approximately 4.9% when adjusted for
+currency and acquisitions.
+The underlying growth is aﬀected by repricing and implementation of new tariﬀs on the
+one hand, and increased strength in distribution and customers increasing by more than
+one product on the other hand.
+
+Bloomberg Transcript
+
+Over time, we generally expect to grow organically, in line with normal GDP growth.
+Although the underlying growth rate is somewhat lower at the moment, disciplined
+structural growth is still on the agenda.
+Turning to page 11, you can see the cost development per segment. Cost control is still
+good while we continue to focus on eﬃciency measures to create room for strategic
+investments. The increase in nominal cost is driven by current operations and the
+restructuring provision of NOK 120 million. The cost ratio, excluding the Baltic and
+adjusted for one-oﬀs, was 14.1% in the quarter.
+And if you adjust the cost ratio for the provision for restructuring, it was 15.2%. As
+previously communicated, the cost ratio will be slightly above the 2015 level both this year
+and next due to integration activities outside Norway, but it will still be at the 15% level.
+On page 12, you will see that large losses amount to NOK 321 million this quarter, which
+accounts for 5.6 percentage points on the combined ratio. This is in line with expected
+level, but higher than the third quarter last year with large losses amounted to NOK 259
+million.
+(14:13) for most costs the large losses this quarter and increased frequency is considered
+to be random, they were limited by the related large losses this quarter.
+On page 13, we show the run-oﬀ gains. The run-oﬀ gains of NOK 234 million had a
+positive eﬀect on combined ratio of 4.1 percentage points in the quarter, against 4.4
+Page 5 of 19
+
+
+
+Company Name: Gjensidige Forsikring ASA
+Company Ticker: GJF NO Equity
+Date: 2016-10-26
+
+FINAL
+
+percentage points in the third quarter last year. And as earlier communicated, the run-oﬀ
+gain in the Norwegian segment is primarily related to motor TPL and workers comp, and
+we expect run-oﬀ gains in the region of NOK 200 million per quarter in the next two years
+to four years.
+Turning to page 14, so, details from the investment portfolio. The investment portfolio
+yielded a return of 1.3% in the quarter. The portfolio amounted to NOK 56 billion. The
+match portfolio of NOK 36 billion continued to make a stable contribution to the ﬁnancial
+result with a return of 0.9% against 1% in the second quarter. Portfolio at amortized cost is
+a large part of the match portfolio. The running yield in this portfolio was 4.6% at the end
+of the quarter, and the average reinvestment rate has been 2.9% year-to-date.
+Unrealized excess value amounted to approximately NOK 1.7 billion. The free portfolio
+amounted to NOK 19.6 billion and yield return of 2% in the quarter. The result was driven
+by positive development of our stake in SR-Bank, while the narrowing of credit spreads
+also has led to positive contributions from the investment grade, convertible, and highyield bonds.
+The property portfolio also made a positive contribution to the result in the quarter partlydriven by our re-evaluation of the portfolio.
+
+Bloomberg Transcript
+
+Since the quarter ended, we have, as you know, sold 14.5 million shares in SR-Bank. We
+have now hold 12.3 million shares in the bank, which represents 4.8% of the company's
+shares. The sale will not have a big impact on the result for the fourth quarter as the share
+price as of September 30 was 45.6 and the sales price was 46 (16:19)
+On page 15, you can see our capital position in the three relevant perspectives. The rating
+model is still the most binding. Available capital before dividend increased in all three
+perspectives, which is mainly due to the issuing of a Tier 1 bond of NOK 1 billion and
+retained earnings in the last quarter.
+The capital requirement increases slightly in all three perspectives, which is primarily due
+to increased balance sheet value on the investment side, mainly equities, which results in
+a small increase in market risk requirement. There are only minor changes in the
+requirement relating to insurance risk. The capital margins from the rating perspective is
+104% which gives a strategic buﬀer of NOK 0.6 billion adjusted for the adopted dividend,
+and also adjusting for the sale of shares in SR-Bank, the strategic buﬀer is NOK 0.9 billion.
+This is a strategic buﬀer level which we consider to be reasonable in relation to the
+purpose it's intended to serve and given the current situation. The solvency margin is 141%
+based on the standard formula, and 179% based on the internal model adjusted for the
+adopted dividend. And based on our understanding of the guarantee scheme, the
+solvency margins were 144% and 183%, respectively.
+In summary, we have a solid capital position in all perspectives, and we'll continue to
+further optimize our capital structure in a disciplined way in order to support the target of
+a high return on equity. Helge?
+Page 6 of 19
+
+
+
+Company Name: Gjensidige Forsikring ASA
+Company Ticker: GJF NO Equity
+Date: 2016-10-26
+
+Helge Leiro Baastad
+
+{BIO 5865247 <GO>}
+
+FINAL
+
+Then it's me again to brieﬂy sum up, then on the last page 16, we have and will and (17:54)
+competitiveness combined with stable market share development and good proﬁtability
+going forward.
+Secondly, we will continuously focus on cost discipline, and we are implementing
+eﬃciency measures in making our strategic eﬀorts more targeted. This creates room for
+strategic investments in the integration and brand and skill.
+And ﬁnally, we have a strong capital position, we are disciplined and committed to deliver
+on the ROE target of minimum 15% after tax, and are again distributing excess capital to
+our shareholders. So then, Janne.
+
+Janne Merethe Flessum
+
+{BIO 19368607 <GO>}
+
+Operator, we are then ready to take your questions, please. Operator?
+
+Q&A
+Operator
+
+Bloomberg Transcript
+
+Thank you. We take the question now from Matti Ahokas from Danske Bank. Please go
+ahead. Your line is open.
+
+Q - Matti Ahokas
+
+{BIO 2037723 <GO>}
+
+Hi. Yes, good morning. Matti Ahokas from Danske. Just one question regarding the extra
+dividend. Could you a bit elaborate how you came up with the NOK 4? Should we see the
+kind of NOK 900 million as the S&P strategic buﬀer as the absolute minimum, or what was
+the thinking behind the NOK 4? And could you see yourselves going below the NOK 900
+million, or should we expect that that is the level where we should see the S&P strategic
+buﬀer? Thanks.
+
+A - Jostein Amdal
+
+{BIO 19939645 <GO>}
+
+I'll try to answer that question. The Board continuously monitors the capital position and
+there is no strict limit that we have stated on how large the buﬀer should be. We do
+regard everything in between NOK 0 billion and NOK 1 billion that's perfectly normal as a
+buﬀer to the S&P requirement. So the NOK 900 million does not represent a strict
+minimum requirement.
+
+Q - Matti Ahokas
+
+{BIO 2037723 <GO>}
+
+If I may have a follow-up on that. Just when looking at the partial internal model and the
+standard formula, do they play a role in this at all, or is it basically just the strategic buﬀer
+on top of the S&P rating requirement which we should look at?
+
+Page 7 of 19
+
+
+
+Company Name: Gjensidige Forsikring ASA
+Company Ticker: GJF NO Equity
+Date: 2016-10-26
+
+A - Jostein Amdal
+
+{BIO 19939645 <GO>}
+
+FINAL
+
+They do play a role since we need to consider all three perspectives, and they
+communicate as buﬀers on both the partial internal model and the standard formula
+where we -- there are buﬀers above the 100% solvency margin level. But for a long time,
+and we expect also in the near future, the S&P requirement or the rating requirement will
+be the most binding.
+
+Q - Matti Ahokas
+
+{BIO 2037723 <GO>}
+
+Great. Thanks a lot.
+
+Operator
+We take our next question now from Jakob Brink from ABG. Please go ahead caller. Your
+line is open.
+
+Q - Jakob Brink
+
+{BIO 7556154 <GO>}
+
+Bloomberg Transcript
+
+Thank you and good morning. I have two questions, please. The ﬁrst one is regarding also
+the capital after you have sold the 14.5 million shares in SR-Bank. Just to make sure, it
+sounds very much like you have decided not to reinvest the money. Is that correctly
+understood? We should not expect you to invest in other equities or similar?
+And basically, a follow-up on that one as well, I don't know if you could maybe help us a
+bit. There's also been some quite big movements between the diﬀerent types of ﬁnancial
+assets since Q2. So could you maybe help us, guide us a bit your normal investment result
+for 2017? It seems like consensus is NOK 1 billion between high and low, so some help
+would be nice. Thanks.
+And then my second question. You're writing a small cheque (22:22) about this new tax in
+Norway of 5 percentage points on salaries, NOK 60 million. You also mention that you
+hope to be able to oﬀset part of it. Could you maybe give us some more detail on what
+exactly you expect to do to oﬀset this NOK 60 million, please? And also when should we
+expect you to be able to oﬀset it? Thank you.
+
+A - Jostein Amdal
+
+{BIO 19939645 <GO>}
+
+Okay. I'll start on the ﬁrst one, the use of the proceeds from the sale of SR-Bank. As you
+know, (22:55) there is no covering of money (22:57) you can't follow them, the cash from
+that sale to other asset classes. But when we now distribute in a very short time NOK 2
+billion kind of goes that the money from SR-Bank is not reinvested in equities as such. The
+asset allocation is within the boundaries stated by the Board and our risk capital (23:24)
+very constantly changing, especially when you look at the free portfolio, whereas the
+match portfolio is more or less stable because it's tied to our insurance technical
+liabilities.
+So I'm afraid that's a precise answer to the ﬁrst part of the ﬁrst question, and it's also
+going to go to answer the second question that on the free portfolio, we take the liberty
+
+Page 8 of 19
+
+
+
+Company Name: Gjensidige Forsikring ASA
+Company Ticker: GJF NO Equity
+Date: 2016-10-26
+
+of trying to meet what we see as the market development, and within very controlled risk
+environment take tactical views on asset classes.
+
+FINAL
+
+On the second question about the tax situation, and it's – this is a proposal from the
+government. It has not been approved or decided yet. So it's a bit early date. We have
+estimated the fact that if the government's proposal is actually approved, then we have
+stated a NOK 60 million eﬀect.
+The other part of the proposal is not to lower the corporate tax rate, which doesn't have
+an eﬀect compared to the historical result, but it would have a positive eﬀect if we were
+allowed to have a reduced tax rate. That's the other part of the service (24:59) in Norway.
+Our metrics to be taken to mitigate this, it's a bit too early to comment on, but if there's
+any real cost increase for us, will need somehow to be shared with our customers.
+Because we have the same proﬁtability targets as we have before. Yeah, I think that's for
+us (25:22).
+
+Q - Jakob Brink
+
+{BIO 7556154 <GO>}
+
+Bloomberg Transcript
+
+Okay. But, sir, just to follow-up on the tax, so I understand that you would like to pass it
+on, but how would that be done? Is that by increasing premiums? Or (25:35) mentioned
+something about a base or stand-out premium in Norway that could quite easily be
+increased. Is that what you're thinking? And would it be from the 1st of January or is it kind
+of more down the road?
+
+A - Jostein Amdal
+
+{BIO 19939645 <GO>}
+
+I think we'll wait in answering that question until we have the actual decision made by the
+parliament that this will actually take place. But it's two ways. Either we ﬁnd some
+mitigating cost measures, or we pass it on to the customers, and that means premiums.
+
+A - Helge Leiro Baastad
+
+{BIO 5865247 <GO>}
+
+Or a combination.
+
+A - Jostein Amdal
+
+{BIO 19939645 <GO>}
+
+Or a combination.
+
+Q - Jakob Brink
+
+{BIO 7556154 <GO>}
+
+Okay. Thanks a lot.
+
+Operator
+We'll take our next now from Paul De'Ath from RBC. Please go ahead. Your line is open.
+
+Q - Paul De'Ath
+Page 9 of 19
+
+
+
+Company Name: Gjensidige Forsikring ASA
+Company Ticker: GJF NO Equity
+Date: 2016-10-26
+
+FINAL
+
+Yeah, hi, there. Thanks for my questions and ﬁrstly, I just wanted to touch on the level of
+competition in Norway. I mean, you mentioned again today that the growth rate is going
+to be somewhat subdued in Norway in part due to competition. Has there been any active
+change in that in the quarter, or is it just a continuation of the themes we've seen before?
+That's question one.
+And then the second question was just looking at the potential for further bolt-on M&A. I
+think you've spoken before about the fact that you're currently integrating, obviously, the
+Baltics and Vardia, so you're quite busy on that front. Is that still the case, or are you
+actively looking for additions to the portfolio still? Thanks.
+
+A - Helge Leiro Baastad
+
+{BIO 5865247 <GO>}
+
+It's Helge Baastad. I can start on the growth and competition in Norway. Just to remind
+you what we have said, overall long-term expectation is premium growth in line with the
+GDP growth. At the moment, the insurance growth is lower than GDP growth.
+
+Bloomberg Transcript
+
+Short-term, we will expect slower growth in the overall insurance market, and that's in line
+with what we have communicated before. It's the meltdown in the Norwegian economy
+and intensiﬁed competition. So it's actually no diﬀerent. I do not have any diﬀerent
+communication regarding that compared to last quarter.
+Our situation is that we have a stable, more or less stable market share in the Norwegian
+market. Just to comment on pricing going forward, as you know, we have to look at the
+long-term claims inﬂation to ﬁnd the right curve for pricing going forward. Regarding
+properties, it's the same communication as before, around 4% going forward. It's volatile,
+as you know, the property part of the business.
+Regarding motor insurance, you know that we have communicated that the inﬂation has
+come down from historically 3% to 4% down to 1%, but we see signs now are increased
+claims inﬂation going forward. So, we – that's the most important analytical part of the
+business, is closely monitored the claims inﬂation for motor and of course, we have to
+secure that we can price in line with any tick-up on the inﬂation side.
+The main competitors last quarter have been the large one, actually. We lose fewer
+customers to the small competitors, and we are competing more with the well-known
+brand names like Tryg in the last quarter, Arno in Norway. Outside Norway, it's -- yes. The
+question was about Norway, so I leave it with that.
+
+A - Jostein Amdal
+
+{BIO 19939645 <GO>}
+
+Okay. I'll try to answer the second question on M&A integration. And is of course, as you
+point out, extremely important for us that the decisions we make are well-integrated into
+the business and they deliver on the targets they set and when doing this, these
+acquisitions and that's number one priority now, both in Sweden and the Baltics, to get
+this business proﬁtable in line with what we've already communicated.
+
+Page 10 of 19
+
+
+
+Company Name: Gjensidige Forsikring ASA
+Company Ticker: GJF NO Equity
+Date: 2016-10-26
+
+FINAL
+
+But we are able to do two things at the same time so we are always on the lookout for
+good acquisition opportunities that ﬁt into our business in a good way. It needs to be
+easily-integrated, and we managed that with our previous acquisitions, and that will be a
+criteria for any new acquisitions we would like to make. As always, we would never
+comment on any speciﬁc opportunities or anything like that.
+
+Q - Paul De'Ath
+Excellent. Thanks.
+
+Operator
+We take next question now from Vinit Malhotra from Mediobanca. Please go ahead. Your
+line is open.
+
+Q - Vinit Malhotra
+
+{BIO 16184491 <GO>}
+
+Bloomberg Transcript
+
+Yeah. Good morning. Thank you for the question. On the special dividend, please, could
+you also remind us of the – when last year in 3Q you had mentioned you had started
+talking about the motor reserve were basis of the lower motor inﬂation. The expectation
+was that some of that would be continuing to come as future special dividend. Is that still
+part of the plan, or is – I mean, because at the moment, you seem to have funded the
+special somewhat with the Tier 1 debt, and obviously the state of banks. So I'm just trying
+to understand how you think about any future special based on the motor reserving
+patterns you imagine or you proposed.
+And second question is just on Sweden and Vardia. When you say Sweden is on track for
+2017 proﬁtability, is that guidance including Vardia or excluding? Because we don't yet
+have a number, and I would obviously appreciate a lot more if we could get a combined
+ratio for Vardia, but if in case we don't, could you guide us what this guidance includes?
+
+A - Helge Leiro Baastad
+
+{BIO 5865247 <GO>}
+
+I can take the latter ﬁrst. When I am saying that Sweden are on track, it's of course
+including all our business, and that includes Vardia as well. And the ﬁrst one is a more
+elaboration, so I'll leave it to Jostein, actually.
+
+A - Jostein Amdal
+
+{BIO 19939645 <GO>}
+
+Okay. Thank you, Helge. There is some – since I communicated the strategy of releasing
+reserves over a number of years going ahead, this is part of the total dividend potential
+that we consider, and it's both the normal or the ongoing dividend which is supposed to
+be high and stable and grow in line with our underlying proﬁtability, and special
+dividends that we, from time to time will pay out to be in line with our capital strategy of
+paying out excess capital.
+That will be paid out over time. There is no kind of automatic calculation of that. It's based
+on judgment of where we are and what we see on the – going ahead. These reserve
+
+Page 11 of 19
+
+
+
+Company Name: Gjensidige Forsikring ASA
+Company Ticker: GJF NO Equity
+Date: 2016-10-26
+
+releases go into the total picture of our capital situation when we access both the special
+and the ordinary dividends.
+
+Q - Vinit Malhotra
+
+{BIO 16184491 <GO>}
+
+FINAL
+
+Okay. Another way to put it is that if it is -- sorry?
+
+A - Janne Merethe Flessum
+
+{BIO 19368607 <GO>}
+
+Vinit, if I just may add to that, we have also said before that we need to calibrate these two
+dreams. We want to avoid a clip in the regular dividend scheme after the two years to four
+years ahead. So meaning you should use then 60-40 (34:05) as a starting point when you
+think of the regular dividend. And if we're beyond any excess capital over time, you could
+also expect specials from time to time, but I still can sense no irregularity around that.
+
+Q - Vinit Malhotra
+
+{BIO 16184491 <GO>}
+
+Sure. And just a quick clariﬁcation, the zero to 1 billion strategic buﬀer range that you just
+said is reasonable, shall we assume that is kind of the cut-oﬀ for these decisions? So if it's
+above NOK 1 billion, you're happy to pay. Is that a good interpretation?
+
+A - Helge Leiro Baastad
+
+{BIO 5865247 <GO>}
+
+We are more happy if it's above than below NOK 1 billion, that's for sure, but there is no
+(34:44)
+
+Bloomberg Transcript
+
+Q - Vinit Malhotra
+
+{BIO 16184491 <GO>}
+
+No, but you're happy to pay at above?
+
+A - Helge Leiro Baastad
+
+{BIO 5865247 <GO>}
+
+And there is some general (34:48) eﬀects that if we go NOK 1 billion that there will be a
+special dividend. That will be a judgmental call at every point of time.
+
+A - Janne Merethe Flessum
+
+{BIO 19368607 <GO>}
+
+Remember, again, that the purpose of the buﬀer within it is threefold. We need to have
+ﬂexibility to do small bolt-on acquisitions or medium-sized acquisitions; we want to
+stabilize the regular dividend; and also, we need to look into regulatory uncertainty. And
+we need to look into these three issues at all times, so we can't aﬀord varying (35:21).
+
+Q - Vinit Malhotra
+
+{BIO 16184491 <GO>}
+
+All right. Thank you very much for the (35:27)
+
+Operator
+We take next question now from Niccolo Dalla Palma from BNP Paribas. Please go ahead.
+Your line is open.
+
+Page 12 of 19
+
+
+
+Company Name: Gjensidige Forsikring ASA
+Company Ticker: GJF NO Equity
+Date: 2016-10-26
+
+Q - Niccolo C. Dalla Palma
+
+{BIO 16052945 <GO>}
+
+FINAL
+
+Hi, thank you. I've got three questions from my side, please. So ﬁrst one, I have a question
+on the comments you made in terms of the strategic priorities for the next few years. You
+dropped a couple of priorities compared to your previous statements, speciﬁcally, multichannel distribution and value-adding services for loyalty and preference. I was
+wondering what the reason behind this is, is this just a simpliﬁcation of priorities, or are
+there any other thinking behind this? That's the ﬁrst question.
+The second one is on the Norway private business. If you could break out how much of
+the top line of the 1.5% growth is price and how much is volumes, just to get a better idea
+of what the price eﬀect is there.
+And thirdly, on the investment portfolio, so could you help us here on the match portfolio
+speciﬁcally on two parts? What is the expected, let's say, decline in the yield you would
+see on the bond at amortized cost part? Because that's – based on your current
+investment yields, how fast year-on-year will you expect that to drop oﬀ from the 3.6% at
+nine months, for example, that we just saw?
+And then secondly, what's the market yield on the current bonds at the moment, so that
+we can get a better sense of where it should be on a normalized basis? Thank you.
+
+Bloomberg Transcript
+
+A - Helge Leiro Baastad
+
+{BIO 5865247 <GO>}
+
+Yes. Regarding the strategic priorities, I think it's like a simpliﬁcation. Multi-channel
+distribution, that's the way of doing business in this type of business. We have actually
+said that the main channel going forward will be the digital channel, but we, of course,
+have all kind of call centers and branches as well.
+This is for sure the situation in Norway. Outside Norway, it's about keeping up in the
+Nordics with all their expertise and their systems and their surplus we have in Norway with
+higher speed in the Nordics.
+And ﬁnally, talking about the Baltics, that's a completely diﬀerent distribution model. So
+what we actually want to do there is to destruct that model, sooner or later, with a modern
+also there multi-channel distribution system. So I think the strategic priority is that's more - it's a simpliﬁcation.
+It's more or less the same going forward. But digital is increasingly important also in the
+multi-channel perspective, so we want actually to invest more and we want to speed up,
+actually. The split between price and volume in Norway, have we actually commented on
+that before? Not speciﬁc, I think.
+
+A - Janne Merethe Flessum
+
+{BIO 19368607 <GO>}
+
+No, not speciﬁc, but its main is still price-driven, so the volumes are relatively stable and
+ﬂat. So it's mainly price driven, as it has been for a while.
+
+Page 13 of 19
+
+
+
+Company Name: Gjensidige Forsikring ASA
+Company Ticker: GJF NO Equity
+Date: 2016-10-26
+
+A - Jostein Amdal
+
+{BIO 19939645 <GO>}
+
+On the third question, (39:00)
+
+Q - Niccolo C. Dalla Palma
+
+{BIO 16052945 <GO>}
+
+FINAL
+
+Sorry. Just to follow-up, if I can, on the volumes. The one thing I want to check is that
+you're not yet at the point where you have to give up volumes to maintain price?
+
+A - Helge Leiro Baastad
+
+{BIO 5865247 <GO>}
+
+No.
+
+Q - Niccolo C. Dalla Palma
+
+{BIO 16052945 <GO>}
+
+Okay.
+
+A - Jostein Amdal
+
+{BIO 19939645 <GO>}
+
+Bloomberg Transcript
+
+The third question was about the Match portfolio, and reduction, of course. As I
+commented, the running yield is 4.6% whereas the reinvestment rate, so far this year has
+been 2.9%. This means that over time, the running yield of portfolio will decrease.
+Your guess is as good as mine as where the investment interest rates are going this year.
+It's about roughly you can see the 2.9% that we have reinvested so far as a kind of an
+approximation of the level that it will move towards over time. But remember, the average
+duration of the portfolio is 3.5 years, so it will take some time to actually run through and
+get kind of all these portfolio repriced.
+And when we reprice our products, we price that according to current market rates at all
+times. So that's the kind of expected (40:09) that we look at when we price the products
+to the customers.
+
+Q - Niccolo C. Dalla Palma
+
+{BIO 16052945 <GO>}
+
+And what is the market yield that you have on the current bond portfolio at the moment?
+
+A - Helge Leiro Baastad
+
+{BIO 5865247 <GO>}
+
+Are you talking about the match portfolio, or ...?
+
+Q - Niccolo C. Dalla Palma
+
+{BIO 16052945 <GO>}
+
+Yeah. Within the match portfolio, the current bond portfolio, which I guess is mostly the
+Danish part.
+
+A - Jostein Amdal
+
+{BIO 19939645 <GO>}
+
+Yeah.
+
+Page 14 of 19
+
+
+
+Company Name: Gjensidige Forsikring ASA
+Company Ticker: GJF NO Equity
+Date: 2016-10-26
+
+Q - Niccolo C. Dalla Palma
+
+{BIO 16052945 <GO>}
+
+Just wondered because we have a lot of quarter volatility, so just trying to understand
+what the current spot yield is on that portfolio.
+
+FINAL
+
+A - Jostein Amdal
+
+{BIO 19939645 <GO>}
+
+I think if you kind of look at the match, if you talk only about the Danish part, it's around
+0%.
+
+Q - Niccolo C. Dalla Palma
+
+{BIO 16052945 <GO>}
+
+Around 0%, you said?
+
+A - Jostein Amdal
+
+{BIO 19939645 <GO>}
+
+On the Danish part only, yeah.
+
+Q - Niccolo C. Dalla Palma
+
+{BIO 16052945 <GO>}
+
+Yeah. Okay. Thank you.
+
+Operator
+
+Bloomberg Transcript
+
+We take our next question now from Blair Stewart from Bank of America. Please go ahead.
+Your line is open.
+
+Q - Blair Stewart
+
+{BIO 4191309 <GO>}
+
+Thank you. Good morning. I think I've got three questions. The ﬁrst is really a clariﬁcation.
+Just at the restructuring charge you've taken in the quarter and the initiatives that you've
+talked around costs and eﬃciencies. Those are entirely in line with previous guidance.
+There's nothing new happening in this quarter, I just want to get some clarity on that.
+Secondly, you mentioned a NOK1.5 billion hybrid capacity. I just wondered if you could
+share some thoughts around the intention to use that and if you can give any indication of
+timing. I guess not. Thirdly, just talking about the underwriting conditions, there was a 1.6
+point change in Norway. I think you mentioned that on slide nine. You talked about the
+variation, the underlying variation being in line with a normal range, I think, is what you
+said and just checking that that 1.6 percentage point is in line with the normal range. It
+seems on the high side to me.
+And then with apologies, ﬁnally, you mentioned, Helge, I think, there will be some
+deterioration in claims inﬂation in motor. Could you comment on that with respect to your
+expectation that claims inﬂation will be around 1%, which is the assumption behind your
+guidance on future reserve releases? Thank you.
+
+A - Helge Leiro Baastad
+
+{BIO 5865247 <GO>}
+
+Page 15 of 19
+
+
+
+Company Name: Gjensidige Forsikring ASA
+Company Ticker: GJF NO Equity
+Date: 2016-10-26
+
+I can start with the latter, Blair. As I said, we have communicated for the last three years, I
+think, that we have come down from historically 3% to 4% down to around 1%. But as I
+said, we see signs of increased claims inﬂation going forward. I also said that we are
+closely monitoring this, just pricing accordingly to this eventual (43:17).
+
+FINAL
+
+It's uncertain level going forward, of course. We see mix of eﬀect from safer cars and
+roads, and more expensive repairs and claims increase for small coverage.
+So actually, we see an uptick now for small coverages. It's also, of course, lots of
+uncertainty related to the fact that we see more and more hybrid cars in Norway due to
+favorable prices, and all these hybrid cars, they have more horsepower compared to what
+we have seen before.
+So this is one of the areas we are most closely monitoring going forward. And as I said,
+(44:08) secure that we also adjust our prices going forward. But...
+
+Q - Blair Stewart
+
+{BIO 4191309 <GO>}
+
+I get the point about adjusting the pricing, Helge, but is that something that would impact
+your assumption on the appropriate inﬂation assumption for the reserves that are held, or
+is this something purely that's going forward for new cars and new experiences?
+
+A - Helge Leiro Baastad
+
+{BIO 5865247 <GO>}
+
+Bloomberg Transcript
+
+No.
+
+Q - Blair Stewart
+
+{BIO 4191309 <GO>}
+
+It's not?
+
+A - Helge Leiro Baastad
+
+{BIO 5865247 <GO>}
+
+No, It's no historical impact. Blair, its pure related to new cars and what we gradually see
+during the quarter. We do not have any ﬁgure, but we expect this claims inﬂation ﬁgures
+to tick up from 1%.
+
+Q - Blair Stewart
+
+{BIO 4191309 <GO>}
+
+Okay. That's clear.
+
+A - Helge Leiro Baastad
+
+{BIO 5865247 <GO>}
+
+And no eﬀect related to releases, absolutely not (44:54). That trend...
+
+Q - Blair Stewart
+
+{BIO 4191309 <GO>}
+
+Yes. Okay. That's what I wanted to check.
+
+A - Helge Leiro Baastad
+
+{BIO 5865247 <GO>}
+Page 16 of 19
+
+
+
+Company Name: Gjensidige Forsikring ASA
+Company Ticker: GJF NO Equity
+Date: 2016-10-26
+
+Is it related to small coverages ﬁrst and foremost.
+
+Q - Blair Stewart
+
+{BIO 4191309 <GO>}
+
+Okay. Thank you.
+
+FINAL
+
+A - Jostein Amdal
+
+{BIO 19939645 <GO>}
+
+(45:04) and you're right, there's nothing new communication on this. This is the same
+what we communicated on September 26, I think it was.
+
+Q - Blair Stewart
+
+{BIO 4191309 <GO>}
+
+Yeah. Thank you.
+
+A - Helge Leiro Baastad
+
+{BIO 5865247 <GO>}
+
+Your second question about hybrid capacity. It's really the same comment that we've had
+before. The hybrid capacity that we have remaining of NOK 1.5 billion is in the way of
+theoretical capacity.
+
+Bloomberg Transcript
+
+It would never go as high as utilizing that full capacity because the capacity itself is a
+function of the available capital. So we get a double leverage eﬀect there if things start to
+turn sour. But we do have more capacity and we will over time utilize more capacity. But
+as you correctly guess, we will not say when.
+
+Q - Blair Stewart
+
+{BIO 4191309 <GO>}
+
+Yeah. Okay. Understood.
+
+A - Helge Leiro Baastad
+
+{BIO 5865247 <GO>}
+
+Yes. And the third question was about the 1.6% eﬀect on the loss ratio and if that's a
+normal change. My comment was that the NOK 89 million underwriting result deviation
+from third quarter last year, it's equal to 1.6 percentage points. And part of that is
+explained by heavy rainfall in the Oslo area, really, between August 6 and August 8 this
+year. And if you take away that eﬀect as well, the remaining uncertainty is well within a
+normal volatility of claims or of a general insurance business of approximately NOK 5
+billion in premiums every quarter.
+
+Q - Blair Stewart
+
+{BIO 4191309 <GO>}
+
+Yes, yes, yes. Okay. That's great. Thanks for that.
+
+Operator
+We take next question now from Steven Haywood from HSBC. Please go ahead your line
+is open.
+
+Q - Steven Haywood
+
+{BIO 15743259 <GO>}
+Page 17 of 19
+
+
+
+Company Name: Gjensidige Forsikring ASA
+Company Ticker: GJF NO Equity
+Date: 2016-10-26
+
+FINAL
+
+Hello and good morning everyone. Could you just conﬁrm a couple of things for me?
+When you talk about proﬁtability in Sweden and the Baltic regions, are you talking about
+just on solely on the underwriting side of this, or do you include any associated
+investment returns in these businesses? And then in terms of the 190 employees
+reduction, can you say which regions these are coming out of? Thank you.
+
+A - Helge Leiro Baastad
+
+{BIO 5865247 <GO>}
+
+I can start with the ﬁrst one. When we talk about proﬁt, we talk about underwriting proﬁt.
+And with a 0% interest rate, unfortunately, there's not that much diﬀerence between the
+two at the moment. But, yes, we're talking about underwriting proﬁtability. (47:39). The
+second question I don't understand. Yes. It's related to staﬀ functions. It's not related to
+any – in the distributions. We have separate programs for claims going forward. As you
+know, on the Capital Markets Day, we said that we are going to -- lots of eﬃciency
+measures on the claims side, but this is related to staﬀ in Oslo and Copenhagen and in
+Stockholm.
+
+Q - Steven Haywood
+
+{BIO 15743259 <GO>}
+
+Okay. Thank you very much.
+
+Operator
+There is no further questions at this moment.
+
+Bloomberg Transcript
+
+A - Janne Merethe Flessum
+
+{BIO 19368607 <GO>}
+
+Okay. Thank you then. And just before we end, I would like to remind you where we are
+doing road shows this quarter. We're going to London tomorrow and then we'll then go
+to Copenhagen, Swedish (48:37), Geneva, Frankfurt and then Milan, as well.
+And of course, we hope to see many of you at the sell-side analyst breakfast meeting
+tomorrow meeting in London. Thank you everybody and have a nice day.
+
+Operator
+This concludes today's call ladies and gentlemen. Thank you for your participation. You
+may now all disconnect.
+
+This transcript may not be 100 percent accurate and may contain misspellings and other
+inaccuracies. This transcript is provided "as is", without express or implied warranties of
+any kind. Bloomberg retains all rights to this transcript and provides it solely for your
+personal, non-commercial use. Bloomberg, its suppliers and third-party agents shall have
+no liability for errors in this transcript or for lost proﬁts, losses, or direct, indirect,
+incidental, consequential, special or punitive damages in connection with the furnishing,
+performance or use of such transcript. Neither the information nor any opinion expressed
+in this transcript constitutes a solicitation of the purchase or sale of securities or
+Page 18 of 19
+
+
+
+Company Name: Gjensidige Forsikring ASA
+Company Ticker: GJF NO Equity
+Date: 2016-10-26
+
+Bloomberg Transcript
+
+FINAL
+
+commodities. Any opinion expressed in the transcript does not necessarily reﬂect the
+views of Bloomberg LP. © COPYRIGHT 2022, BLOOMBERG LP. All rights reserved. Any
+reproduction, redistribution or retransmission is expressly prohibited.
+
+Page 19 of 19
+
+

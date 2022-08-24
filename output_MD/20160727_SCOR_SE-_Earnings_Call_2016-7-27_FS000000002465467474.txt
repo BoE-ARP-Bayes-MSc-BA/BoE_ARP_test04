@@ -1,0 +1,1397 @@
+Company N ame: SCOR SE
+Company Ticker: SCR FP Equity
+Date: 2016-07-27
+
+Q2 2016 Earnings Call
+Company Participants
+FINAL
+
+Bertrand Bougon, Head-Investor Relations & Rating Agencies
+Denis Kessler, Chairman & Chief Executive Officer
+François de Varenne, Chief Executive Officer of SCOR Global Investments SE
+Mark Kociancic, Chief Financial Officer
+Paolo de Martin, Chief Executive Officer of SCOR Global Life SE
+Romain Launay, Chief Operating Officer
+Victor Peignet, Chief Executive Officer of SCOR Global P&C SE
+
+Other Participants
+Andrew J. Ritchie , Analyst
+Frank Kopfinger, Analyst
+In-Yong Hwang , Analyst
+Jonny Urwin, Analyst
+Kamran Hossain, Analyst
+Philip Kett, Analyst
+
+Bloomberg Transcript
+
+Thomas Fossard, Analyst
+Vikram Gandhi, Analyst
+Vinit Malhotra, Analyst
+William Hawkins , Analyst
+Xinmei Wang, Analyst
+
+MANAGEMENT DISCUSSION SECTION
+Operator
+Good day, ladies and gentlemen, and welcome to the SCOR Group 2016 First Half Results
+Conference Call. Today's conference is being recorded. At this time, I would now like to
+hand the call over to Mr. Bertrand Bougon, Head of Investor Relations and Rating
+Agencies. Please go ahead, sir.
+
+Bertrand Bougon
+
+{BIO 18934799 <GO>}
+
+Good morning, everyone, and thank you for joining the SCOR Group H1 2016 results concall. Before starting this presentation, please consider our disclaimer on page two, which
+indicates that the first half 2016 financial information included in this presentation has
+been subject to the completion of limited review by SCOR's independent auditor.
+
+Page 1 of 22
+
+
+
+Company N ame: SCOR SE
+Company Ticker: SCR FP Equity
+Date: 2016-07-27
+
+With this, I would like to give the call to Mr. Denis Kessler, CEO and Chairman of SCOR
+Group, who is joined on this call by the entire committee (00:48) team.
+
+FINAL
+
+Denis Kessler
+
+{BIO 1498477 <GO>}
+
+Thank you, Bertrand, and good morning, everyone. First of all, once again, SCOR
+produced strong results this quarter. Of course, it's a quarter that marks the completion,
+as well as the successful achievement of the Optimal Dynamics strategy plan. As you
+know, it's a three-year plan. We launched it three years ago and it ended end of June,
+2016.
+The strategy has proven its resilience and enables the group to absorb all kinds of shocks.
+And I can refer to the events of this quarter as a high number of Nat Cats experienced in
+the second quarter of 2016. But also another shock, which is the uncertainties surrounding
+Brexit, another big concern is (01:41) financial markets and primary insurance companies in
+the UK. We demonstrate also a capacity to absorb the lasting trends affecting our
+industry, notably a lengthy soft P&C pricing cycle, and the pronounced ultra-low interest
+rate environment.
+
+Bloomberg Transcript
+
+With regard to the results themselves, SCOR wrote €6.7 billion of gross written premiums
+in the first half of 2016, and that represents a robust growth of 5.9%. It's a very good sign
+of quality (02:18) of the group, at constant foreign exchange rates. The growth rate is
+3.7% at current exchange rates.
+We (02:28) a strong contribution for SCOR Global Life, with a growth of 10.2% and the fact
+that we were able to grow also in P&C, of course at a lower speed, proved the efficiency
+of the diversification strategies that we've been pursuing for the last 14 years. SCOR
+Global P&C delivered very successful June-July renewals with premiums increasing by
+14.2%, while prices remain quite stable. And this is also after the April renewals, excellent
+news for the group. Victor will discuss those renewals in more details later on in his own
+presentation.
+Overall, SCOR produces a net income of €275 million for the first half of 2016 with a
+return on equity of 8.9% and with a strong adjusted solvency ratio. Why adjusted? Just
+because we're going to call two debts really this week and early August. So, we don't
+take them into account when we estimate the solvency ratio. And so, the solvency ratio
+revised, which I just mentioned it, which is 210%, absolutely in line with the targets defined
+in Optimal Dynamics.
+With Optimal Dynamics, by the way, completed at the end of June, I'm very pleased
+(04:08) to announce that we have successfully achieved all the targets defined in the plan
+with a return on equity of 1,111 basis points, above the risk-free-rate, on average, over the
+three-year period of the plan, and an estimated adjusted solvency ratio of 210% at the
+conclusion of the plan, well within the optimal range of 185% to 220%. So, we are
+extremely happy to demonstrate that we are able to deliver on a commitment and to be
+able to show you those good results three years after we announced the target.
+
+Page 2 of 22
+
+
+
+Company N ame: SCOR SE
+Company Ticker: SCR FP Equity
+Date: 2016-07-27
+
+FINAL
+
+We will certainly spend some time with the achievement of the Optimal Dynamics plan in
+more detail during the IR Day. And at the IR Day, we'll present (05:07) that will cover the
+next few years, early September.
+Before giving the floor to Mark, who will give you more details on the financial
+performance of the group during the first semester, I would like to take a minute to speak
+about Brexit, which represents globally a disruptive shock, but not for SCOR. We can say
+that, if we look closely at the impact of Brexit for SCOR, the implied risk is minimal,
+extremely marginal from a financial perspective, as well as from a business and
+operational perspective.
+If you consider the financial risk of Brexit for SCOR, it's extremely limited. The SCOR
+hedging and capital management policies ensures strict IFRS congruency between its
+asset portfolio and its underwriting commitments, totaling £1.7 billion, which represents,
+roughly speaking, 9% of total invested assets. Hence, any devaluation of the pound,
+which, by the way, already took place, would not have a significant negative currency
+effect on the group. And with only 6% of the shareholders' equity denominated in British
+pounds, around £300 million, by the way, we believe that the group will not really suffer
+from the consequence of Brexit in terms of devaluation of the pound.
+
+Bloomberg Transcript
+
+The group, only its UK-based real estate is in the prime location, by the way, Lime Street
+in the city (06:51) and is occupied by SCOR and so the question marks about the evolution
+of real estates in UK will not affect the group.
+On the asset side of SCOR, the portion of assets denominated in pound sterling has
+been positioned in a very prudent manner. In preparation of the referendum on Brexit, we
+are mostly invested in cash and cash equivalents and bonds with an immaterial exposure
+to UK equities and we have a very short duration for the British pound portfolio of 2.7
+years, which give us, of course, flexibility.
+As far as operational risk is concerned, it's minimal again. You know that the group's
+platform is global, but it's centered. We operate from many countries in the world, and
+we're absolutely able to serve our clients worldwide, including United Kingdom, whatever
+the solution for Brexit will be chosen. We are headquartered in Europe, and this facilitates
+a lot of cross-border transactions. Therefore, again, we will be able to continue operating
+the way we do today with no disruption for our clients.
+Let's talk about business risks, that was a dimension that we have to deal with. And
+certainly, pressures from Brexit would be focused on the cross-border direct business,
+which is marginal for SCOR. Most of SCOR's UK direct operations is written in continental
+Europe, and stands in the range of £70 million. And if you look also at the Channel 2015
+Lloyd's Syndicate, this represents about £20 million risk (08:48). None of this material to
+SCOR, and we could even, according to the final decision on the Brexit rules, maintain this
+business. So, therefore, we consider the Brexit is certainly not a good news for the world,
+at least by my opinion, and certainly for Europe, maybe for UK, but this is not affecting
+SCOR Group in no ways; very marginally, if we have a negative effect.
+
+Page 3 of 22
+
+
+
+FINAL
+
+Company N ame: SCOR SE
+Company Ticker: SCR FP Equity
+Date: 2016-07-27
+
+The group in a very good shape. We're viewing the group's operations, group's strategy,
+the group's performance for the last year, because we're preparing the new plan, to be
+disclosed early-September. And really that's my intimate conviction that we are in a very
+good shape. We are well-positioned. We demonstrate quarter after quarter our capacity
+to expand profitably. And we demonstrate quarter after quarter capacity to absorb shocks
+(09:50) Nat Cats have been quite heavy this quarter, but we also – we demonstrate the
+capacity to absorb adverse developments of a financial environment. So, we are
+optimistic about the next three years that we will show – demonstrate early-September.
+With that, Mark, the floor is yours to go into the details into the financials.
+
+Mark Kociancic
+
+{BIO 17852409 <GO>}
+
+Thank you, Denis, and good morning, everyone. Moving on to slide seven, I'll walk you
+through the key financial highlights of the first half of the 2016 results. SCOR wrote €6.7
+billion of gross written premiums in the first half of 2016, representing robust growth of
+just under 6% at constant foreign exchange rates. The year-on-year top line growth
+benefited in particular from the strong contribution of SCOR Global Life with a 10.2% rise
+at constant exchange rates.
+
+Bloomberg Transcript
+
+During the first half of 2016, SCOR Global P&C's gross written premiums were broadly
+stable at constant exchange rates, and slightly decreased by 2% at current exchange
+rates for reasons that were explained during the first quarter earnings call.
+Overall, the net income reaches €275 million in the first half. P&C net combined ratio
+stands at 93.8%. Our Life technical margin continues to outperform at 7.1%, while SCORE
+Global Investments in the extremely low yield and uncertain environment delivers a solid
+return on invested assets of 3.1%.
+Going to page nine. Shareholders' equity is €6.3 billion, corresponding to a book value of
+€33.79 per share, representing a significant discount to our current share price. And you'll
+notice several main effects impacting the shareholders' equity; the strong net income that
+we generated, the revaluation reserve for a positive €149 million effect due to the lower
+interest environment, and the currency translation adjustment of negative €119 million,
+largely due to the weakening of the U.S. dollar against the euro, although this number has
+diminished from the €191 million that we recorded in the first quarter of 2016, as we saw
+significant strengthening of the U.S. dollar following the Brexit results.
+The other items were principally composed of treasury share purchases. SCOR's financial
+leverage stands at 31.8% as at the June 30, temporarily above the range indicated in
+Optimal Dynamics. It would stand at 25.5% adjusted for the redemption of the two debts
+callable, which will take place tomorrow, July 28, and next week on August 2. This ratio
+also reflects the successful placement of a dated subordinated notes issue in the amount
+of €500 million in May – this past May. With this issuance, SCOR has secured the financing
+of its new plan developments and beyond.
+
+Page 4 of 22
+
+
+
+Company N ame: SCOR SE
+Company Ticker: SCR FP Equity
+Date: 2016-07-27
+
+FINAL
+
+So let's move to page 10. SCOR delivers a robust operating cash flow of €450 million on
+a year-to-date basis, thanks to the contribution of both business engines. And if we have
+a look at the cash flow from financing activities, you'll note that it's principally reflecting
+dividend payment and debt issuance proceeds, which occurred during May.
+The total liquidity of the group reaches €2.8 billion at the end of June, representing a
+substantial increase year-on-year, in line with the temporary pause of the rebalancing of
+the investment portfolio but also to fund the pending debt repayments of approximately
+€850 million that will occur later this week and early next week.
+I'll now turn it over to Victor to comment on the P&C results and the June-July renewals.
+
+Victor Peignet
+
+{BIO 6287211 <GO>}
+
+Bloomberg Transcript
+
+Thank you, Mark, and good morning. We are very pleased with the three sets of figures
+that SCOR Global P&C is reporting for the quarter, year-to-date and recent renewals,
+respectively. The June-July renewals were both confirming and encouraging. They were
+confirming because we have been able to manage the portfolio to contain the market
+downward pricing pressure and to deliver quality stable pricing at renewal, as it is shown
+on slide 12. Expected profitability remains at or above our targets in terms of technical
+ratio and return on risk adjusted capital.
+They have also been confirming because our initiatives continue to develop positively.
+We've made good progress in the U.S. and in Alternative Solutions in EMEA. In the U.S., we
+achieved a 31% growth rate considering both Cat and non-Cat together. Growth was
+driven by two large contracts that contributed €47 million of increased premium. We add
+to non-renewals a small number of treaties with particularly weak pricing. On balance, new
+business has better expected profitability than both the portfolio on average and the
+business that was non-renewed.
+Second word to describe the renewal is encouraging. Well, encouraging because while
+respecting the profitability targets, SGPC has grown renewed expected premium by 14%.
+Also, because during these renewals, we have seen signs of clear and broad resistance
+to further deteriorations of terms and conditions. Overall, conditions at the renewal
+remain difficult for reasons that you are all familiar with. SGPC's client, nevertheless,
+continue to respond favorably to the continual and regular improvements that SCOR has
+made for more than a decade now.
+We see more business than ever. We have a market-leading rating. We have stronger
+team and tools and we are clearly positioned as a Tier 1 reinsurer. This is evident in our
+renewals. Moving on to the results of the quarter, we had a profitable quarter despite a
+high number of Nat Cat's. The net combined ratio for the quarter was 97.5% including the
+effect of the reserve release and a Nat Cat load that was twice the budgeted 6% annual
+Nat Cat ratio.
+The second quarter is typically the lowest Nat Cat quarter in the industry. We estimate
+that the Nat Cat ratio from this year second quarter events consider altogether and
+Page 5 of 22
+
+
+
+Company N ame: SCOR SE
+Company Ticker: SCR FP Equity
+Date: 2016-07-27
+
+FINAL
+
+relative to expectations for a typical second quarter is 1 in about 15 year written (16:44)
+period for our portfolio. This analysis is, of course, subject to all the caveats that need to
+be put on a seasonal analysis. Altogether, we are very pleased with the quarter results.
+Within this 97.5% net combined ratio for the second quarter, the attritional loss ratio
+stands at 52.7% plus 3.1% to be reinstated in order to neutralize the effect of the €40
+million reserve release.
+The favorable trend observed in the sum of the attritional ratio of 55.8% and the
+commission ratio of 25.8% demonstrate that we have a solid and stable portfolio. On a
+year-to-date basis, the net combined ratios stands at 93.8% and the year-to-date
+normalized net combined ratio at 94.5%. Within this net combined ratio, year-to-date Nat
+Cat contribute 6.9%, which means that the trend has been realigned towards the
+budgeted 6% and on Nat Cat ratio, following a first quarter with almost no Nat Cat activity.
+Overall, half year results confirm that SGPC has achieved the target of Optimal Dynamics.
+Indeed, we met the Optimal Dynamics plan, which ran from July 2013 to June 2016 on
+both financial and strategic goals.
+Looking forward, we continue to expect to achieve our previously indicated guidance of a
+growth of 3% to 4% for the full year gross written premium at constant exchange rates.
+We make this determination on the basis of factors such as the growth of 0.6% at
+constant exchange rates at mid-year, 2.2% for the second quarter, the success of the
+June-July renewals, and the pipeline for the rest of the year.
+
+Bloomberg Transcript
+
+I will now hand over to Paolo for the presentation of the Life Division results.
+
+Paolo de Martin
+
+{BIO 15930577 <GO>}
+
+Thank you, Victor. Moving on to page 14 of the presentation, I'm pleased to report that in
+the first half of 2016 SCOR Global Life continues to deliver strong and profitable growth.
+Our gross written premiums reached €3.9 billion, which represents a growth of 10.2% at
+constant exchange rate or 8.3% at current exchange rate. Our new business pipeline
+continues to be healthy across all product lines with new business margins expected to
+meet or exceed the group profitability target. During the first half of 2016, we continue to
+successfully execute our global franchise strategy providing flow of profitable new
+business in both Protection and Financial Solutions, with all our regions contributing to the
+growth.
+New business underwritten in our longevity line of business in the second half of 2015
+particularly in the third quarter of 2015 contributed positively to the development of our
+In-force premiums in 2016. We expect growth in premiums to normalize at approximately
+5% at constant exchange rate for the full-year. With third quarter of 2016 expected to be
+almost flat compared to third quarter of 2015 driven by last year's strong production.
+Overall, the 5% growth expected for the year brings us in line with the Optimal Dynamics
+plan assumption of 6% per annum growth between 2013 and 2016, which we have
+successfully delivered.
+
+Page 6 of 22
+
+
+
+Company N ame: SCOR SE
+Company Ticker: SCR FP Equity
+Date: 2016-07-27
+
+We will provide you more details on this and on our future prospects during the IR Day in
+September. Overall, technical performance over the first half of 2016 remains robust with
+a technical margin standing at 7.1% above the 7% assumed in Optimal Dynamics. We've
+been able to deliver this technical margin, thanks to both the profitability of our new
+business and the results of the In-force portfolio in line with our expectations.
+
+FINAL
+
+I will now hand over to François for more details on our group investment strategy.
+
+François de Varenne
+
+Bloomberg Transcript
+
+Thank you, Paolo. Moving on to slide 15, SCOR total investment portfolio reached €27.6
+billion at the end of June with an invested asset portfolio of €18.8 billion compared to
+€18.2 billion at the end of March. Market condition remained very challenging this quarter.
+Economic and financial uncertainties are still very high, and were supported by the Brexit
+vote, which impacted financial markets at the end of June and sent interest rates at new
+historical lows in all major currency.
+In this context, SCOR Global Investment has tactically reinforced its prudent investment
+strategy consistent with the portfolio positioning implemented since June 2015 in order to
+preserve our investment portfolio and the wealth of SCOR shareholders. As a
+consequence, we have maintained our liquidity at a very high level of 14%. Ahead of the
+Brexit votes, SCOR has positioned it's GBP portfolio very defensively. It is mostly invested
+in cash and high-grade fixed income with an average rating of AA- in a very short duration
+of 2.7 years. Besides, SCOR has almost no exposure to UK equities and has de-risked it's
+corporate bond portfolio by getting rid of exposure to the UK, Italian and Spanish financial
+sector exposures.
+The high quality for fixed income portfolio has been maintained as well with a stable
+average rating of AA-. Moreover, SCOR Global Investments has maintained a very strict
+policy of avoiding any sovereign exposure to euro payable (22:17) countries. At the end of
+June, expected cash flows from the fixed income portfolio over the next 24 months
+stands at €7.3 billion facilitating the dynamic management of our investment policy as
+soon as market condition (22:32). In spite of the adverse economic environment and the
+prolonged low yield context in all major currencies, SCOR Global Investments manages to
+deliver a strong and recurring return on invested assets, which stands at 3.1% for the first
+half 2016. This quarter enable us to deliver an average return on invested assets over
+Optimal Dynamic of 3% above the strategic plan assumption made in September 2013,
+which was to reach this level by the end of the plan.
+With this, I will hand over to Bertrand Bougon for the conclusion of the presentation.
+
+Bertrand Bougon
+
+{BIO 18934799 <GO>}
+
+Thank you, François. On page 16, you will find the next scheduled events starting on
+September 7 with our Investor Day, as well as all the conferences which we're planning to
+attend over the remainder of 2016.
+
+Page 7 of 22
+
+
+
+Company N ame: SCOR SE
+Company Ticker: SCR FP Equity
+Date: 2016-07-27
+
+With this, we can now start the Q&A session. (23:28 – 24:17)
+
+Q&A
+
+FINAL
+
+Operator
+Ladies and gentlemen, we will now move on to the Q&A session. We have our first
+question from Vinit Malhotra from Mediobanca. Please go ahead. Your line is open.
+
+Q - Vinit Malhotra
+
+{BIO 16184491 <GO>}
+
+Thank you. So, I just wanted to quickly check on the trend in the running income. So, sorry,
+both my questions are on the asset side. The €93 million reported for the ordinary
+income, I would assume has probably a sizeable portion, say, €15 million or so from equity
+dividends. So adjusted for that, the fixed income yield, if you like is quite low this quarter, I
+thought, at least compared to what I had expected. Please could you comment a bit if
+there's any special here that we should note? So, that's the first question.
+
+Bloomberg Transcript
+
+Second question is – we always hear about the maturity of the assets over the next two
+years and that number today is €7.3 billion, was €6.8 billion last quarter and used to be in
+€5 billion odd range few years ago. So, this number is obviously just increasing in size as
+SCOR keeps holding on to its short-duration strategy. But could you just comment on
+where are you thinking of investing? Is it more corporate credit? Is it more real estate? If
+you just refresh our memory on that, please? Thank you very much.
+
+A - François de Varenne
+Thank you, Vinit, for your two questions. On the first one, that's true that in the past we
+used to have some seasonality in Q2 on dividend, especially on the equity portfolio and
+continental names (26:43) since the tradition is that the dividend upgrade in Q2. If you
+look at the composition of our equity portfolio, first in absolute terms today, it's what – it's
+less than 2% of the portfolio. And if you move to slide 47, which gives you the breakdown
+of the equity portfolio, most of this equity portfolio today is made of convertible bonds.
+So, let's say that the seasonality on dividend now is almost immaterial in this set of results.
+For your second question, that's true. We increased the liquidity in the portfolio. And you
+have two effects this quarter. The fact that we remain still relatively shocked in terms of
+duration. We maintained a high level of liquidity of 14 points. Those 14 points include the
+€850 million of cash of debt redemption for tomorrow and next week. That was
+mentioned by Mark at the beginning of the call. So, for the investment strategy over the
+next few months and quarter, we'll just ask you to wait for a few weeks in early
+September to have a full update of future investment strategy.
+
+Q - Vinit Malhotra
+
+{BIO 16184491 <GO>}
+
+All right. Thank you, François.
+
+Operator
+Page 8 of 22
+
+
+
+Company N ame: SCOR SE
+Company Ticker: SCR FP Equity
+Date: 2016-07-27
+
+Thank you. We'll take our next question from Andrew Ritchie from Autonomous. Please go
+ahead. Your line is open.
+
+FINAL
+
+Q - Andrew J. Ritchie
+
+{BIO 18731996 <GO>}
+
+Oh, hi there. Sorry. One quick follow-up question on investment return. I think you talked
+about at the end of Q1 that you felt that there was a 20 basis point opportunity cost from
+the holding of excess liquidity. Is that still the right kind of level? And maybe remind us as
+to what you think about the likely investment return for 2016 and whether the opportunity
+cost has risen? The second question, you see debt in the quarter. Pro forma, your
+leverage is at the higher end of your target or it's kind of at the high end of your target.
+I'm talking about pro forma the repayments that you make tomorrow. I'm just curious to
+know what motivated you to issue the debt in the quarter? Was it purely opportunistic, or
+was this very early refinancing of retentions in a couple of years' time? What was the
+thinking behind it? Thanks.
+
+Bloomberg Transcript
+
+A - François de Varenne
+Andrew, that's true that during the Q4 2015 result, I mentioned and indicated return on
+invested assets in the range of 2.8%, 3.1% for the full year 2015. I indicated also during the
+Q1 presentation that the temporary rederisking of the portfolio implemented earlier this
+year and pursue this quarter in the context of the Brexit vote, with notably high level of
+cash, and this level is what, 10% above or higher than our long-term strategic level, would
+have an impact of 20 basis points on annual basis this year. Since the Brexit decision, has
+materially impacted as you know downward interest rate everywhere in the world, which
+are reaching new historical low. I will update you in September during the new strategic
+plan presentation on our future investment strategy and expected financial performance
+for the full year and during the next three years.
+
+Q - Andrew J. Ritchie
+
+{BIO 18731996 <GO>}
+
+So, I guess the 20 basis points must've increased because you're cut short. And
+meantime, yields have fallen. Is that not fair?
+
+A - François de Varenne
+That's correct. I mean, if you look at the reinvestment rate, it was 2% at the beginning of
+the year, and it's 1.8% at the end of June this year. So, you have the effect of the decrease
+of interest rate everywhere in the world.
+
+Q - Andrew J. Ritchie
+
+{BIO 18731996 <GO>}
+
+Okay. So, the effect of opportunity cost has gone up, then I guess, is the right way to think
+about it?
+
+A - François de Varenne
+Yes.
+
+Q - Andrew J. Ritchie
+
+{BIO 18731996 <GO>}
+Page 9 of 22
+
+
+
+Company N ame: SCOR SE
+Company Ticker: SCR FP Equity
+Date: 2016-07-27
+
+Okay. Okay.
+
+A - Denis Kessler
+
+{BIO 1498477 <GO>}
+
+FINAL
+
+Mark, on the strategy leverage?
+
+A - Mark Kociancic
+
+{BIO 17852409 <GO>}
+
+We did the €500 million debt issuance in late May. It was definitely opportunistic given
+where market conditions were prior to the Brexit vote, Brexit results. It's something that
+allows us to really lengthen the duration of our hybrid debt financing. It really locks in the
+long-term financing of the debt structure in the group for the next 10 years to 12 years. It
+also serves to support the next strategic plan so we can say categorically that the
+financing is secure and locked in. And the last point I would add is that the average yield
+on our subordinated debt that's outstanding is actually quite low, probably the best of the
+four major European reinsurers.
+
+Operator
+Now, we'll take our next question from Kamran Hossain from RBC. Please go ahead. Your
+line is open.
+
+Bloomberg Transcript
+
+Q - Kamran Hossain
+
+{BIO 17666412 <GO>}
+
+Hi. Morning, everyone. I've got two questions on P&C. The first one is just on the
+combined ratio. If I look back to your – if I look at your comments today about the 94.5%
+being in line with your expectations. Maybe I'm just really picky. But if I look at your
+guidance earlier this year, you think suggest – standard renewals that net combined ratio
+would be close to 94%. Q1 you then said 94.3% is close to 94%, which I agree. Is 94.5%
+the limit of what you would say is close to 94%? First question one is probably a semantics
+one. It probably me being picky – but that's my first question.
+And the second one, on the retrocession program, obviously, you reduced your
+catastrophe loss expectation to 6 points this year on the basis of an improved retro
+program. How do you expect that to perform in, I guess in a severe hurricane season? I
+kind of look at this course and see your 12% cat loss, and I'm not sure how much benefit
+you got from it or kind of how we might think about it reacting if there are further large
+losses for remainder of the year? Thanks very much.
+
+A - Victor Peignet
+
+{BIO 6287211 <GO>}
+
+Well, I don't know about the semantics but for me, I mean we are on 94%, we are
+midyear. We've no reason to believe that the 94% doesn't stand today. We are at 94.5%.
+We had a bit of a heavy quarter. For me I mean, no real comment about that. I mean, we
+fluctuate on 94% and that's where we are. It's still a pretty good one. And regarding the
+retrocession, yeah, I mean, we improved our retrocession. I mean, this second quarter is
+mixed of all sorts of perils, all sorts of region, none of them really being of very substantial
+natures so our retrocession is primarily a capital protection.
+
+Page 10 of 22
+
+
+
+FINAL
+
+Company N ame: SCOR SE
+Company Ticker: SCR FP Equity
+Date: 2016-07-27
+
+So, those losses that we had this year on the second quarter as it stands today will get
+very little contribution from retrocession, and it's totally normal. It's what those losses are
+doing, they are just eroding the underlying to our aggregate covers. Some of our
+aggregate covers are getting closer to kick, but none of them has kicked. And it's not
+totally – it's not abnormal at all. It's totally normal considering the structure of our
+retrocession. And you look at it while you cannot assess that on a quarter. It's even very
+difficult to assess them on a yearly basis, so I mean at half year we are at 6.9%. It's a
+mixture of – at first quarter we had no cat activity, and second quarter where we have
+pretty high Nat Cat activity.
+I mean, if you look at it for any reinsurer and in the quarters that are heavy in terms of Cat
+exposure is the third quarter because of the hurricanes in the U.S. And Q1 and Q4
+because of the European storm. So, normally Q2 is a pretty quiet quarter, while this year is
+a bit of an exception to that, which is why we tried to calculate what sort of return period
+such a second quarter as this one is having on our portfolio and while we came out with a
+figure of around 15-year return period which means that it's certainly a bit of an exception.
+
+Q - Kamran Hossain
+
+{BIO 17666412 <GO>}
+
+Thanks very much. I appreciate the color.
+
+Operator
+
+Bloomberg Transcript
+
+Thank you. We'll take our next question from William Hawkins from KBW. Please go ahead.
+Your line is open.
+
+Q - William Hawkins
+
+{BIO 1822411 <GO>}
+
+Hi guys. Thank you very much. On the June-July renewals, when you flag those two large
+contracts. Can you give us a bit more detail about what those contracts are and how
+exactly you won them? Because you said that they were priced more attractively than
+existing business, presuming you won that business from somebody else who doesn't
+agree. So, if you could just walk us through how you won that business. And, then,
+secondly, as you think to the future the Solvency II ratio of 210% even after the debt
+increase. You're still only within your target range when your big three peers in Europe
+have massively blown through their upper limits. How do you interpret that when you think
+about your strategic strengths and weaknesses for the future? Thank you.
+
+A - Victor Peignet
+
+{BIO 6287211 <GO>}
+
+I'm not going to give you a lot of details about those two. What I think is important for me
+to highlight those two is to confirm the fact that while our growth in the U.S. is a very, very
+discipline growth. And the underlying growth, while it's a mix, of course, of cancellation
+and new business. Well, the growth since you exclude those two contracts is something
+like 4.5% overall at renewal, which means that we are having a very disciplined sort of
+approach of our U.S. activity. Those two contracts while, both are proportional, one is
+property, one is multiline. Didn't steal them from anyone else. Those are new contracts
+from two clients. One is a syndicated to some extend and the other one is principal to
+principal.
+
+Page 11 of 22
+
+
+
+Company N ame: SCOR SE
+Company Ticker: SCR FP Equity
+Date: 2016-07-27
+
+Q - William Hawkins
+
+{BIO 1822411 <GO>}
+
+That's great, Victor. Thank you.
+
+A - Denis Kessler
+
+{BIO 1498477 <GO>}
+
+FINAL
+
+Thank you, Victor. And maybe (37:40) on the solvency ratio.
+
+A - Mark Kociancic
+
+{BIO 17852409 <GO>}
+
+We can't really comment on the solvency capital management strategy of our peers. I
+mean, we have clearly set out our solvency management framework in our target range.
+We've consistently managed our solvency position within the optimal range. That is one of
+the strategic targets which the group has set out. And we've adhered to what we have
+disclosed, and that is really the backbone of our entire capital management strategy. So,
+we were just very consistent with what we set out for the current strategic plan. We are
+obviously reviewing this, and we'll give an update on this at the next IR Day with a view at
+the next strategic plan. But for now, we are just working within the framework which we
+have set ourselves.
+
+Q - William Hawkins
+
+{BIO 1822411 <GO>}
+
+Are there any important issues on the Solvency II framework that you have been reviewing
+recently?
+
+A - Mark Kociancic
+
+{BIO 17852409 <GO>}
+
+Bloomberg Transcript
+
+I didn't catch your question. Could you just say that again?
+
+Q - William Hawkins
+
+{BIO 1822411 <GO>}
+
+Just given your passing remarks there, are there any important issues on Solvency II and
+your own model and framework that you have been reviewing recently?
+
+A - Mark Kociancic
+
+{BIO 17852409 <GO>}
+
+No. No. I mean, our model has been approved. We are happy with it. As it works, we are
+using it for risk and solvency management purpose. We've been doing this for a long
+period. So, we are comfortable with the model, with our Solvency II position. We are not
+affected by the industry debates about things like changes to the UFR and so on which
+has zero impact on us. So, there's no issue which is keeping us awake when it comes to
+our solvency. And we are very comfortable with, as I said, both the model and our
+solvency framework.
+
+Q - William Hawkins
+
+{BIO 1822411 <GO>}
+
+Brilliant. Thank you.
+
+Operator
+
+Page 12 of 22
+
+
+
+Company N ame: SCOR SE
+Company Ticker: SCR FP Equity
+Date: 2016-07-27
+
+Thank you. We'll take our next question from Xinmei Wang from Morgan Stanley. Please
+go ahead. Your line is open.
+
+FINAL
+
+Q - Xinmei Wang
+
+{BIO 17860767 <GO>}
+
+Hi. I have two questions, please. The first is on the investment income. On the real estate
+portfolio, François said last quarter that we should expect more to come in the next
+couple of quarters on realized gains in real estate. We didn't see any in 2Q, and there's
+still a stock of unrealized gains there. Is that something we should still be factoring in, in
+the next couple of quarters and something you're thinking about to achieve the target
+ROI? First question.
+The second is on how to think about using reserve releases. You have strong reserve
+margin and clearly that gives you optionality to use it for high Nat Cat in the quarter.
+Should we think of it as quarters with – with high Nat Cat meaning that we should see
+reserve releases or with the base case to be still to – so you are factoring no reserve
+releases and sort of how should we think about that in context of the Nat Cat
+environment? Thank you.
+
+Bloomberg Transcript
+
+A - François de Varenne
+On the real estate portfolio (41:05) I'll explain the strategy we've got. We like to work our
+asset and to create values. So, that's true that we sold one building with total return of
+13% since the initial acquisition and that was in the account in Q1. If you look at the
+annualized gain in the real estate portfolio that's in the appendix on slide 50. We still have
+a material amount of unrealized gain on this portfolio. Those asset are not yet mature, so
+don't expect in the next few weeks or months something, but throughout the next
+strategic plan for sure.
+
+A - Denis Kessler
+
+{BIO 1498477 <GO>}
+
+Victor, on the reserve release?
+
+A - Victor Peignet
+
+{BIO 6287211 <GO>}
+
+Well, I think we have commented on that quite number of time regarding the fact that
+basically we have a margin above best estimate that is a management margin. That
+margin is there to be used in rather exceptional circumstances, but we consider that this
+quarter, as I said, I mean I mentioned the sort of return period. So for us it's a heavy
+quarter. But we do €40 million of release to smooth the quarter as we did in the past in
+few other occasion, exactly in the same circumstances, by the way. So, nothing really
+special. Just a continuity of the practice that we have had for more than five years now.
+
+Q - Xinmei Wang
+
+{BIO 17860767 <GO>}
+
+Okay. Understood. Thank you.
+
+A - Denis Kessler
+
+{BIO 1498477 <GO>}
+
+When was the last time we had a reserve release?
+
+Page 13 of 22
+
+
+
+Company N ame: SCOR SE
+Company Ticker: SCR FP Equity
+Date: 2016-07-27
+
+A - Victor Peignet
+
+{BIO 6287211 <GO>}
+
+It was 2013.
+
+A - Mark Kociancic
+
+{BIO 17852409 <GO>}
+
+FINAL
+
+German floods in the second quarter of 2013, we had a small reserve release similar to
+this size, yeah.
+
+Q - Xinmei Wang
+
+{BIO 17860767 <GO>}
+
+Okay. Great. Thanks.
+
+A - Denis Kessler
+
+{BIO 1498477 <GO>}
+
+You put in your – you have lots of (42:55). Sometimes you have to use them. Next
+question?
+
+Operator
+Thank you. We'll take our next question from Jonny Urwin from UBS. Please go ahead.
+Your line is open.
+
+Bloomberg Transcript
+
+Q - Jonny Urwin
+
+{BIO 17445508 <GO>}
+
+Good morning, everyone. Thanks for taking my questions. Just two from me. So, firstly, on
+pricing trends, I mean you guys actually sound a bit bullish compared to some of the
+comments that we've heard so far. I mean pricing currently stable at sort of minus 0.2%. I
+mean I see a comment there, the proportional lines are improving in places. I just
+wondered if you could give us a bit more color on that, and how you're seeing
+proportional rates going forward. And also in non-proportional, which obviously continues
+to get sort of less negative? Secondly, you've reiterated guidance for P&C, GWP growth
+at 3% to 4% constant currency. Obviously, there's a bit of catch up to come from the H1
+levels, and the June and July renewals are helpful, but I just wondered if you could give us
+a bit more into the pipeline there, and how you're seeing it. Thank you.
+
+A - Denis Kessler
+
+{BIO 1498477 <GO>}
+
+Both for you Victor.
+
+A - Victor Peignet
+
+{BIO 6287211 <GO>}
+
+I think on the growth, you can see that the second quarter is already better at plus 2.2%. I
+think June-July are coming very nicely. We have a number of discussion today on
+contracts, which are not as substantial as the two I mentioned in the second quarter, but
+that each of them is substantially enough have an impact. So overall, I think we are pretty
+confident that at the end, we do the catch up and we lend more as where we thought we
+would be ending. So difficult for me to give you information about the pipeline. It's pretty
+much – but we think we have a number of discussions sufficient considering a reasonable
+hit ratio to bring us within that, that sort of range.
+
+Page 14 of 22
+
+
+
+Company N ame: SCOR SE
+Company Ticker: SCR FP Equity
+Date: 2016-07-27
+
+A - Denis Kessler
+
+{BIO 1498477 <GO>}
+
+Pricing trend?
+
+FINAL
+
+A - Victor Peignet
+
+{BIO 6287211 <GO>}
+
+On the pricing side, as you noticed, while reinsurance non-proportional continues to be
+the most competitive end, I mean, there is least competition on proportional, in particular
+on proportional that requires a real knowledge of local markets. There is more resistance
+on the commissions, which means that the negotiation on commissioning in proportional
+is getting tougher, and to some extent, I mean, we would benefit from it. So, I think that's
+– and that's primarily starting from the U.S. position.
+
+Q - Jonny Urwin
+
+{BIO 17445508 <GO>}
+
+Okay. Thank you.
+
+Operator
+Thank you. We'll take our next question from Frank Kopfinger from Deutsche Bank. Please
+go ahead. Your line is open.
+
+Bloomberg Transcript
+
+Q - Frank Kopfinger
+
+{BIO 16342277 <GO>}
+
+Thanks. I have two questions, and I would like to come back to the pricing. As you have
+now disclosed a stable pricing outcome, looking forward, would you say that we are now
+at the bottom? And do you see chances and what are the chance – what are the risks that
+we are now at the bottom?
+And my second question is for François on the liquidity share of the 40% (sic) [14%] (46:17)
+on investments. I think, in Q1, you mentioned that going forward by the end of the year,
+you would like to bring down this high liquidity share. Now, as of Q2, you kept it due to the
+uncertainties also on Brexit. But how should we think about this going forward for the
+second half of this year? And what would be the target range that you would look at?
+
+A - François de Varenne
+Well, from the liquidity to, as you see, we have 14% of liquidity today, of which, almost 4.5
+points that will disappear tomorrow and next week with the debt redemptions. Going
+forward, let's say between the summer and the end of the year, the intention now is to
+decrease (47:10) amount of liquidity and to come back to a, let's say, normal level.
+In terms of pricing, are we bottoming up or down or bottoming?
+
+A - Denis Kessler
+
+{BIO 1498477 <GO>}
+
+I think, first of all, our communication is not massively different from the communication of
+one of our peers, who has been communicating on pricing that we agree not to name
+them. And I think we are pretty much in line, so we are not the only ones. And regarding
+whether we are at the bottom or not, it seems that in certain areas, yes. And it seems
+Page 15 of 22
+
+
+
+Company N ame: SCOR SE
+Company Ticker: SCR FP Equity
+Date: 2016-07-27
+
+FINAL
+
+that a number of others, no. But I think it's very, very difficult to make a general statement.
+I mean each client is having a purchase policy and a purchase strategy and it's specific to
+that client. What I'm saying is that for those clients want to rely on leader insurers and
+reinsurers that having the ability to price the business, I think, yes. In number of cases, it's
+close to the bottom. Then, if those buyers of reinsurance will want to broaden the source
+of capacity and go to different markets, different reinsurers, well, they can still find
+flexibility.
+As far as we are concerned, all our business is priced by our own people and we have our
+targets and when the business doesn't meet the target, then we enter into negotiation,
+where basically the relationship with the client becomes the driver of the overall
+discussion on the profitability we get from the client.
+
+Bloomberg Transcript
+
+And then, because all of the job we do at the moment is to put ourselves into best
+possible position, if ever the market turns to grab as many opportunities as we can, we
+protect the franchise by negotiating with clients that we value. But you've seen in our
+report on renewal, basically two markets have caused us difficulties, Middle East which has
+started even earlier than this quarter and South Africa where we had certain issues. And
+those issues we had in South Africa, the consequence of it is that we reduced our lines,
+because we thought that we were not in a position to support the pricing levels. So, in
+that case, it's your choice to walk away or to negotiate, reduce your share, keep a
+position and then hope for the future.
+And so, I think it's client-by-client and market-by-market. But with a clear strategy which is
+to position to ourselves with the client we value in such a way, the day the market turns,
+whenever it happens, we should be among the very best place to benefit from it.
+
+Q - Frank Kopfinger
+
+{BIO 16342277 <GO>}
+
+Okay. Thanks.
+
+Operator
+Thank you. We'll take our next question from In-Yong Hwang from Goldman Sachs. Please
+go ahead. Your line is open.
+
+Q - In-Yong Hwang
+
+{BIO 18784369 <GO>}
+
+Hello. Just two quick questions for me. Firstly, on the Life technical margin. I think there's a
+very slight deterioration I think in the technical margin was 7.2%; in the first quarter 7.0%. Is
+that just kind of random fluctuation or should we expect that to kind of go down further? I
+think, Paolo, you said before that as the share longevity increases, the margin there
+should come down gradually.
+And my second question is on the floods in China. I think at the end of June, start of July. I
+don't think that made into the second quarter cat losses. Just wondering whether you see
+that as a major reassurance, given that I think some people are saying it's the worst flood
+in 20 years. So, just any comment you can share on that would be helpful. Thank you.
+Page 16 of 22
+
+
+
+Company N ame: SCOR SE
+Company Ticker: SCR FP Equity
+Date: 2016-07-27
+
+A - Denis Kessler
+
+{BIO 1498477 <GO>}
+
+(51:09) start with technical margin, Paolo?
+
+FINAL
+
+A - Paolo de Martin
+
+{BIO 15930577 <GO>}
+
+Yeah. This is something we communicated upfront when we communicated Optimal
+Dynamics back in 2013 that we were expecting technical margin to come down at around
+7% by the end of (51:21). I think we had some very favorable writing of protection business
+that helped us offset the growth on longevity so far. But, as we're going to see now, the
+longevity is picking up especially before we wrote at the end of last year. So, the
+reduction is the pure effect of the longevity business like growing. As we said in the past,
+despite the margin being lower, we're writing at a very healthy ROEs, much above the
+group target actually.
+
+A - Denis Kessler
+
+{BIO 1498477 <GO>}
+
+All right. Victor, maybe on the floods of China?
+
+A - Victor Peignet
+
+{BIO 6287211 <GO>}
+
+Yeah. I think you are talking of the typhoon that first hit Taiwan and then went into China.
+
+Q - In-Yong Hwang
+
+{BIO 18784369 <GO>}
+
+Bloomberg Transcript
+
+Yes, please.
+
+A - Victor Peignet
+
+{BIO 6287211 <GO>}
+
+(52:10).
+
+Q - In-Yong Hwang
+
+{BIO 18784369 <GO>}
+
+Yeah. I think there was some flooding before that as well. But, I think it's all kind of – yeah.
+
+A - Victor Peignet
+
+{BIO 6287211 <GO>}
+
+Well, we don't see that. For ourselves, no, we don't see that as a material event, no.
+
+Q - In-Yong Hwang
+
+{BIO 18784369 <GO>}
+
+Okay. Sure.
+
+Operator
+Thank you. We'll take our next question from Philip Kett from Macquarie. Please go ahead.
+Your line is open.
+
+Q - Philip Kett
+
+{BIO 19507232 <GO>}
+
+Thank you very much. Just two questions, please. Firstly, on the P&C reserve release of
+3.1%, I was wondering if you could give us a bit more color on where that came from and
+Page 17 of 22
+
+
+
+Company N ame: SCOR SE
+Company Ticker: SCR FP Equity
+Date: 2016-07-27
+
+which business lines. And secondly, we recently saw the result of the court case involving
+CCR. I was wondering if you could talk a little bit further about that situation. Thank you.
+
+FINAL
+
+A - Denis Kessler
+
+{BIO 1498477 <GO>}
+
+Well, it's €40 million. It's distributed across long-tail lines; basically, Motor NonProportional, Aviation, Liability and Inherent Defect Insurance. I would say almost equally
+between the four lines and it relates to underwriting years that are either old for the
+Liability or relatively mature for the three others.
+
+Q - Philip Kett
+
+{BIO 19507232 <GO>}
+
+Thank you very much.
+
+Operator
+Thank you. We'll take our next question from Thomas Fossard...
+
+A - Denis Kessler
+
+{BIO 1498477 <GO>}
+
+Wait. Wait. We have a CCR question. So, Romain Launay, who is the Chief Operating
+Officer in charge of Legal, will give some light on the case.
+
+Bloomberg Transcript
+
+A - Romain Launay
+
+{BIO 18747770 <GO>}
+
+Regarding the decision from the Paris administrative court and that's obviously a decision
+that (53:59) analysis, the Paris administrative court has established that there was a
+(54:06) state aid that was provided to the CCR, and it's exactly what we've been saying
+for the past few years. So now, the file will go to the European Commission. The state will
+have to notify this state aid. And we're confident that our analysis will prevail.
+In that respect, just keep in mind that, for us, it's more a question of principle than a
+question of gaining another business. We think that private reinsurers should be able to
+do their job in every market and, especially here in France, and that's what's behind the
+complaint that we had filed with the Paris administrative court. In a nutshell, we're very
+happy with the decision. And now, we're expecting the final decision from the European
+Commission.
+
+Q - Philip Kett
+
+{BIO 19507232 <GO>}
+
+Thank you very much.
+
+Operator
+Thank you. Now, we'll take our next question from Thomas Fossard from HSBC. Please go
+ahead. Your line is open.
+
+Q - Thomas Fossard
+
+{BIO 1941215 <GO>}
+
+Page 18 of 22
+
+
+
+Company N ame: SCOR SE
+Company Ticker: SCR FP Equity
+Date: 2016-07-27
+
+FINAL
+
+Yes. Good morning, all. I got two questions for Victor. The first question will be on the €65
+million of claims coming from the Canada wildfire. Just wanted to better understand what
+has been the main exposure triggering this pretty high number within a SCOR Group
+context. And also, if you could mention if you were surprised or there were anything
+wrong in terms of exposure or you've been surprised by the magnitude of the losses on
+that side.
+And the second question would be on the renewals you're pointing (56:08) development
+on the alternative solution side. Could you comment (56:12) I would say new opportunities
+coming in or what is the type of, I would say, request you're getting from your clients at
+this point in time on the Alternative Solutions product? Thank you.
+
+A - Victor Peignet
+
+{BIO 6287211 <GO>}
+
+Bloomberg Transcript
+
+Well, as far as Fort McMurray, it's in the history of Canada, it's for sure, the most
+devastating fire, but it's not the first one. That is the third city that has been badly affected
+by fires of the same nature. And there are a lot of studies being done at the moment in
+Canada by government bodies regarding the risk of fires, and how to basically make sure
+that the building codes and the way of protecting cities against fire is getting improved.
+So, I think this is something that is really considered, not only by us, by our clients, but also
+by the Canadian government, and there is even scoring of cities that are being
+developed at the moment in order to try to assess the risk.
+So, whether it was a surprise or not, but it took quite a bit of time because, as you saw,
+the fire developed over several weeks and the flow of information was quite slow. I think
+we have a pretty good grasp at the moment of where we are. Most of the loss, almost
+the entire loss is coming from our Treaty business in Canada with local companies. Again,
+not surprisingly, I think, fortunately our business solution business on Synthetic Fuel in
+particular in the Fort McMurray area doesn't seem to be producing heavy losses, at least
+at the moment on the BI side, in particular. Contingent business interruption, we do not
+seem to have worried too much about that. So, that's where we are.
+Regarding Alternative Solutions, I think it's a combination of three things. It's a
+combination of, first, companies that have gone through capital studies, whether driven
+by Solvency II or around Solvency II. And through those studies, we believe that they can
+improve basically their capital situation. So, that's the first. And those are almost
+prospective studies, you enter into the study and you try to analyze and propose. Well,
+the second is companies that are affected by capital events. It can be because of their
+operations. It can be because of the regulations in the countries where they operate. So,
+that's the second, capital events that are specific to certain companies.
+And there are capital events that are not specific to certain companies, but that are
+created by transition regulations in certain countries. And, we are – well, in that case, you
+can be approached by several clients, I think, basically the same issue to deal with. So, it's
+a variety of approaches. It's mainly EMEA and when I say EMEA, it's Europe plus certain
+sophisticated market outside Europe within the EMEA region.
+
+Page 19 of 22
+
+
+
+Company N ame: SCOR SE
+Company Ticker: SCR FP Equity
+Date: 2016-07-27
+
+You can think of countries like South Africa and think like countries like Israel, countries that
+have pretty developed, pretty mature markets within the EMEA region, outside of the EU.
+
+Q - Thomas Fossard
+
+{BIO 1941215 <GO>}
+
+FINAL
+
+Okay. Thank you.
+
+Operator
+Thank you. And now, we are taking our next question from Vikram Gandhi from Societe
+Generale. Please go ahead. Your line is open.
+
+Q - Vikram Gandhi
+
+{BIO 18019785 <GO>}
+
+Hi. Good morning, everyone. Just two quick questions from my side, the first being, can
+you please provide your individual loss estimates for the Ecuador earthquake and the Sri
+Lankan plants?
+And, secondly, if I look at the pricing trend for the non-proportional business, the one that
+you've reported for this particular July renewals is down 1.7 percentage pricing (01:00:39)
+versus minus 5 percentage July last year. So, can you just provide some color as to which
+particular geographies or which particular business lines are contributing to the Y-o-Y
+improvement? Thank you.
+
+Bloomberg Transcript
+
+A - Victor Peignet
+
+{BIO 6287211 <GO>}
+
+The Ecuador earthquake is a bit below 20 (01:01:06). Which was the second one?
+(01:01:10)
+
+Q - Vikram Gandhi
+
+{BIO 18019785 <GO>}
+
+The Sri Lankan floods?
+
+A - Victor Peignet
+
+{BIO 6287211 <GO>}
+
+Sri Lankan, below 10 (01:01:14).
+
+Q - Vikram Gandhi
+
+{BIO 18019785 <GO>}
+
+Okay. Thank you.
+
+A - Victor Peignet
+
+{BIO 6287211 <GO>}
+
+And then the pricing, I think, the most – probably, the most marked difference is U.S. Cat
+business definitely. That's where the price decline has slowed down most. And, I mean,
+again, I mean June, July renewal is a very specific renewal. It's a lot of U.S., it's a bit of
+Europe, and it's almost nothing in Asia-Pac, I mean Asia-Pac, is a bit of Australia and a bit
+of Malaysia but Asia-Pac is really very small.
+
+Page 20 of 22
+
+
+
+Company N ame: SCOR SE
+Company Ticker: SCR FP Equity
+Date: 2016-07-27
+
+So, out of the €500 million that we had to renew, a bit less than €100 million was coming
+from Europe, then less than €50 million coming from APAC, and all the rest U.S. related.
+So, whatever price movement indication, it's very, very weighted on the U.S. side of
+course.
+
+FINAL
+
+Q - Vikram Gandhi
+
+{BIO 18019785 <GO>}
+
+Okay.
+
+A - Victor Peignet
+
+{BIO 6287211 <GO>}
+
+And EMEA in there is a lot of South African business in June, July.
+
+Q - Vikram Gandhi
+
+{BIO 18019785 <GO>}
+
+Okay. Thank you very much.
+
+Operator
+Thank you. We'll take our next question from Thomas Fossard from HSBC. Please go
+ahead. Your line is open.
+
+Bloomberg Transcript
+
+Q - Thomas Fossard
+
+{BIO 1941215 <GO>}
+
+Yes. So just a quick follow-up on prices. So, since the start of the year, year-to-date 0.8%
+price decline overall on average, Victor, can you comment on how this compare to your
+initial expectation at the start of the year? Is that fully in line or if it's slightly better than
+your hopes at the start of the year? Thank you.
+
+A - Victor Peignet
+
+{BIO 6287211 <GO>}
+
+I would say it's in line. We are – I would say we are sticking to our plan and we had a plan,
+we had a target, profitability, and we are sticking to that. And the amount of portfolio
+management, if you look at slide 12, if you look at – you start at the June-July renewal, but
+you would look at the previous one, would not be different, you start with almost €500
+million. Then, you look at the amount of cancelled premium and you look at the negative
+amount within the restructured and you can see portfolio changes. I think that, even
+though in the cancelled there are some cancellation, which are basically cancellation by my
+clients, but not many clients reshuffling their programs. So, I think though I would say it's
+certainly not better than what we expected, but I mean we managed to keep the gate
+and that's the most important.
+
+Q - Thomas Fossard
+
+{BIO 1941215 <GO>}
+
+Okay. Thank you.
+
+Operator
+Thank you. As there are no further questions at this time, I would like to now hand the call
+back to Denis Kessler.
+Page 21 of 22
+
+
+
+Company N ame: SCOR SE
+Company Ticker: SCR FP Equity
+Date: 2016-07-27
+
+FINAL
+
+A - Denis Kessler
+
+{BIO 1498477 <GO>}
+
+Thank you. Thank you very much for attending this con-call this morning. And of course, if
+you have additional questions, don't hesitate to call us and we will be glad to provide
+additional information. I would like to wish everyone a good summer break, at least for
+those who are taking some vacation. As said, we're finalizing the slides for the new
+strategic plan that will be presented and unveiled September 7, during our I-Day. We hope
+that you will all attend it. It's at 9:00 AM. And you will get (01:05:02). Have a nice summer
+break, and see you in September. Bye-bye.
+
+Operator
+
+Bloomberg Transcript
+
+That will conclude today's conference call. Thank you for your participation, ladies and
+gentlemen. You may now disconnect.
+
+This transcript may not be 100 percent accurate and may contain misspellings and other
+inaccuracies. This transcript is provided "as is", without express or implied warranties of
+any kind. Bloomberg retains all rights to this transcript and provides it solely for your
+personal, non-commercial use. Bloomberg, its suppliers and third-party agents shall
+have no liability for errors in this transcript or for lost profits, losses, or direct, indirect,
+incidental, consequential, special or punitive damages in connection with the
+furnishing, performance or use of such transcript. Neither the information nor any
+opinion expressed in this transcript constitutes a solicitation of the purchase or sale of
+securities or commodities. Any opinion expressed in the transcript does not necessarily
+reflect the views of Bloomberg LP. © COPYRIGHT 2022, BLOOMBERG LP. All rights
+reserved. Any reproduction, redistribution or retransmission is expressly prohibited.
+
+Page 22 of 22
+
+

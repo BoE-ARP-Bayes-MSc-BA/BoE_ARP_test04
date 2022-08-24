@@ -1,0 +1,833 @@
+Q3 2012 Earnings Call
+Company Participants
+FINAL
+
+Catharina Hellerud, CFO
+Cecilie Ditlev-Simonsen, EVP Brand Management, Communications
+Helge Leiro Baastad, CEO
+Janne Flessom, Head of IR
+Kaare Ostgaard, EVP Claims & ICT
+
+Other Participants
+Gianandrea Roberti, Analyst
+Matti Ahokas , Analyst
+Per Gronborg, Analyst
+Vinit Malhotra, Analyst
+
+Presentation
+
+Bloomberg Transcript
+
+Operator
+The conference is now being recorded.
+
+Janne Flessom
+Welcome to the presentation of the Third Quarter results for Gjensidige. My name if Janne
+Flessom, and I am head of IR.
+Today our CEO, Helge Leiro Baastad, will start with presenting the headlines for the quarter,
+before our EVP for Claims and IT, Kaare Ostgaard, gives you some insight into our strategic
+initiative for simplification and automation of processes.
+Then, our EVP for Brand Management, Communication and Marketing, Cecile Ditlev-Simonsen, will
+introduce you briefly to our strategic brand initiative, before our CFO, Catharina Hellerud, gives
+you some more details into the financials for the quarter.
+Finally, we'll have a Q&A session, as always. Before we start, I would like to remind you that the
+presentation can be downloaded from our website, Gjensidige.com. Then I leave the word to our
+CEO, Helge Leiro Baastad.
+
+Helge Leiro Baastad
+
+{BIO 5865247 <GO>}
+
+Thank you. The profit before tax expense for the year to date was almost NOK4.3 billion, and the
+Insurance result amounted to NOK2 billion, both well above what we have delivered previously for
+a full year. So we comment the result in Third Quarter as a strong result (in fact).
+If I then go to the quarter, the profit before tax expense in Third Quarter, seen in isolation, was
+NOK1.6 billion, and the Underwriting result was a sound NOK780 million with a combined ratio
+82.9%, up 37% on the same period last year.
+
+
+
+Adjusted for the loss of the breakdown insurance agreement with NAF and exchange rate effect,
+we had a growth in premiums of 2.6% in the quarter, which is satisfactory.
+
+FINAL
+
+Claims incurred developed in a positive direction and the loss ratio was 68.2%.
+The underlying development of costs was satisfactory, and we are very pleased with the
+development in the Norwegian segments, Private and Commercial, where we had a decline in
+costs in Third Quarter.
+Return on the investment portfolio of NOK829 million, which is 1.5%, was positively affected by
+strong development in the bond and equity markets. The analyzed return on equity, before tax
+expense, amounted to 24.3% for year to date.
+So what I said, we feel justified in calling this a strong quarter. We experienced good
+competitiveness in Norway, which is reflected in good underlying growth in premiums, and a net
+increase in the number of customers in both the Private Norway and the Commercial Norway
+segments. And we achieved this in combination with excellent profitability.
+
+Bloomberg Transcript
+
+Combined ratio in Private Norway became 77%, and we are seeing a very good effect of measures
+implemented to retain customers and increase activity. In the Private Norway segment, the gross
+loss of customers this year was reduced by 15%, compared with the corresponding period last
+year, and the quality of customer portfolio continues to improve. This shows that we have the right
+priorities.
+In the Commercial Norway segment, the level of activity has increased considerably following the
+introduction of the multichannel model which we presented a couple of quarters ago, which was
+also reflected in the development of premiums. In the quarter, we had seen growth of 6% in
+premiums written compared with last year.
+Finally, the Nordic segment; although we still have some way to go in relation to growth in the
+Nordic segment, we have established good profitability in this segment as well, with a combined
+ratio above 88% for both the quarter and the year to date. We believe that we now have a good
+basis for a profitable growth in the time ahead.
+Finally, we have initiated several important strategic initiatives in order to ensure increased
+efficiency and loyalty on the part of our customers. One of them you have heard about before is
+the tariff setting project. I will give a short status at the end of the presentation, and the tariff
+setting project we have presented, as I said earlier, and which has had good effect on the loss
+ratio.
+Two other such initiatives are our investment in ICT and what we call the brand initiative. We are
+convinced that simplified processes and automation, in combination with a good and correct
+customer dialogue, will be crucial if we are to stand out in the competition for the good customers
+in the time ahead.
+In time, as you have heard, we, therefore, which to devote more time to our operational focus,
+relating to these two group-wide initiatives.
+First, I will leave the word to Kaare Ostgaard which is responsible for ICT and this project regarding
+automation and self-service. Go ahead.
+
+Kaare Ostgaard
+
+{BIO 17583401 <GO>}
+
+
+
+My name is Kaare Ostgaard; I have the pleasure of leading one of Gjensidige's main initiatives to
+ensure that we reach our financial goal of a cost ratio of (15%) by 2015, in addition to developing
+the best customer experience in the Nordic insurance market.
+
+FINAL
+
+Technology development, combined with changed customer behavior, both enables and makes
+necessary changes in the industry. Customers who wish to do so will increasingly be able to use
+self-service solutions, and tasks that were previously done manually will be automated.
+In all our efforts, we try to see the operation from our customers' perspective. We have to make
+choices that set us apart and deliver what we call the Gjensidige experience, at all customer
+contact points.
+From a customer perspective this entails receiving good advice, relevant and understandable
+communications, swift response, as well as reliability in a client claims settlement process.
+From a technology perspective, this entails streamlining various processes and introducing tools
+that make it easier for our employees to help our customers, automating internal processes, and
+introducing self-service solutions that customers prefer to use. This will contribute to a profitable
+operation for us and to flexibility and simplification for our customers.
+
+Bloomberg Transcript
+
+Gjensidige's ambition is to be in the forefront of this development. Now I would like to give you a
+short status report on this work.
+In Norway, Gjensidige has reduced the number of branch offices from 200 in the 1990s to 36
+today. During this period, we have also further developed our range of services available by
+phone, and on the Internet. This restructuring has significantly improved the profitability of our core
+business, and helped us be better at meeting customer expectations of accessibility and flexibility.
+Penetration of Internet, smartphones and tablet computers is high in the Nordic countries, and the
+trend is clear. Around 60% of the Norwegian general insurance customers want to purchase
+insurance, or receive insurance offers online. And around 60% say they prefer to report claims or
+use self-service solutions via the Internet.
+In theory, it's making good progress. Today, the processing of four out of five car window claims is
+fully automated. One out of three travel claims is reported on the Internet, and we settled 25%
+more claims within 24 hours than we did a year ago. And online sales continue to increase.
+Just keeping up is not enough; we intend to stay ahead. And introducing new technology and new
+distribution solutions require firstly, a good structure, and efficient processing of massive amount
+of customer and market data.
+Secondly, our (fine meshed) methodology for tariff setting and systems are also needed to verify
+customer data and cover attempted fraud.
+Information technology is becoming increasingly important in general insurance, and we believe
+our unified Nordic ICT platform gives us an excellent basis in this context.
+You might think that having one ICT system for all customer data and processes is an industry
+standard, but I can assure you that this is far from the case. Already this is something Gjensidige
+has invested in over time, and most of the costs are behind us.
+Over time, we have built up a joint system platform with one joint customer system for insurance,
+which is also leveraged by our banking pension and saving businesses.
+
+
+
+The core system contains all the terms and conditions and it covers sales, renewals and
+settlements. It is integrated with a separate solution from migrating, which provides excellent risk
+assessment and selection.
+
+FINAL
+
+It's integration with the data warehouse provides the basis for efficient reporting and follow up,
+efficient handling of fraud in the settlement context and, thereby, a basis for further automation.
+And efficient use of analytical CRM for the distribution of sales leads.
+(inaudible) information is processed and harmonized in an efficient ecosystem that ensures
+transparency and swift handling of all customer communications. This gives us a high degree of
+flexibility and provides a uniform customer experience across channels. And it also reduces cost
+because maintenance is carried out in one place.
+We have also established a flexible, service oriented architecture, providing a basis for self-service
+solutions, internal use of interfaces, or other support systems.
+We believe we are well positioned in the area of technology, as confirmed by Gartner Group
+survey in September this year.
+
+Bloomberg Transcript
+
+So what initiatives can you expect in the time ahead? Firstly, we are well underway with
+implementing new work processes and tools throughout the organization. You have already seen
+the preliminary effects of the multi distribution model in the Commercial division in Norway.
+The combination of new user interfaces for (centers), and analytical CRM allow for a considerable
+increase in the number of customer contact points, with almost 20% fewer employees.
+This autumn, we will roll out new user interfaces for settlement staff in Norway, followed by the
+distribution in the Private division. Denmark and Sweden are next in line, scheduled for 2013.
+Employees will have better access to the system support and faster access to customer data than
+before. To put it simply, our employees can spend more time helping customers, and less time
+searching for data in different systems. The customer will receive faster and better service, and in
+the longer term they will be able to use exactly the same user interfaces for self-service purposes.
+Secondly, we are working on further automation and more self-service. Today, our customer can
+buy all our material damage products online through fully automated processes.
+In the settlement context, we have also come a long way in automating travel and car window
+claims. As well as that, this autumn customers will be able to keep track on their own claim
+settlements on line.
+In the time ahead, we will continue to promote the use of online solutions and continue to work on
+automation of the settlement processes.
+Every year, around 350,000 frequency claims are reported to Gjensidige, and only a limited
+proportion of their settlement processes relating to these claims are currently automated. And we
+believe that, in the long term, it will be possible to automate almost 80% of these processes.
+The (inaudible) how quickly this will happen and the pace of development is, in any case, not solely
+up to us; the customers' preferences will decide.
+The potential for rationalization will be considerable as customers increasingly buy insurance online
+and take advantage of our self-service solutions. And the program, the Group program, for
+
+
+
+focusing on simplification, automation and self-service will make an important contribution to
+realizing our goals; a combined ratio of (90% to 93%) and 15% by 2015, as well as the new
+customer-oriented standard in the Nordic countries.
+
+FINAL
+
+By doing this, we are able to enter an area in which our perceptions and solutions are increasingly
+adapted to the digital age we live in.
+Before I turn you over to Cecilie Ditlev-Simonsen, we would like to inform you that we have made a
+short film explaining our work, and this can soon be seen on Gjensidige.com. Thank you.
+
+Cecilie Ditlev-Simonsen
+
+{BIO 4958713 <GO>}
+
+Thank you. Now I have the pleasure of leading what we have given the name, brand initiative. It's
+also about making actual improvements in our customer relations, and it's also about driving
+perception.
+
+Bloomberg Transcript
+
+Market surveys confirm that Gjensidige is, first and foremost, associated with stability, safety and
+traditions which, of course, is great. However, we are not sufficiently associated with the customer
+orientation and customer service, and this we have set out to change.
+As you can appreciate, it's demanding to differentiate ourselves based on customer orientation in
+an industry where products and positioning strategies are virtually identical. But we have a great
+starting point. Our brand is one of Norway's best known and most respected brands. And the
+corporate initiative that Kaare just presented to you will give actual change. Put simply, it will
+become easier for us to service our customers and they, in turn, will find it easier to be customers.
+Our brand initiative consists of several concrete projects and continuous improvements. I would
+like just to highlight two of them. One is that we are launching, in December this year, new
+customer portals, in Norway first and then Denmark and Sweden early next year. The main change
+is that we are restructuring all the information on the portal, basing it on the needs of customers
+rather than on displaying our entire product portfolio.
+The solution will be both modular and flexible, allowing us to sell across different areas and
+leverage the full spectrum of services in Norway. We will introduce the portals, together with a new
+visual design, which is a big change for us. We are renewing and organizing our traditional
+watchman logo, trying to balance the respect for history with the need to modernize it and adapt it
+to digital channels.
+At the same time, we are modernizing, more dramatically, the rest of the elements that are
+included in our visual profile. The point is to communicate in a more friendly, easier to understand,
+even playful, way and try to reach our customers, also through our visual profile in order for them
+to perceive us as what we are, increasingly customer oriented.
+Now the rollout of the visual profile will begin in December, as I said. And we have taken a quite
+pragmatic approach to this in terms of the timeline in order to reflect the cost discipline; that is
+important to us in all aspects of our operation.
+However, just to conclude, our goal is quite ambitious. We want our customers to recognize us
+when they see us, when they see our communications and our profile element. Even without
+seeing the Company name or the logo, they should actually realize, okay, this is Gjensidige talking
+to me.
+So that's quite ambitious, and it just means that we intend to set a new industry standard in this
+area as well. So we are showing these elements on our web pages today, and I also showed a film
+
+
+
+earlier this morning, and there are lots of reactions to this in Norway, because our logo is very
+familiar. Most people like the change; some don't, and that's as expected. And we look forward to
+implementing this, as I said, starting in December. Thank you.
+
+FINAL
+
+Catharina Hellerud
+
+{BIO 17276650 <GO>}
+
+The Insurance operations have delivered strong results in 2012. With the exception of the Baltics,
+the other Insurance segments have shown improvement in financial performance in relation to the
+corresponding quarter last year.
+If you look at the first nine months of the year, however, all segments show an improvement in
+financial performance, with Underwriting results for the year to date that exceed the results for the
+whole of 2011. The Group's Underwriting result, year to date, exceeds the full year result for 2011
+by (41%).
+These good results are mainly due to a favorable development in the loss ratio. Underwriting
+result for the quarter was a sound NOK780 million. There was also positive development in the
+results from Gjensidige Bank, whilst the results from Pension and Saving was negatively affected by
+the strengthening of the claims provision of NOK11 million.
+
+Bloomberg Transcript
+
+Investment portfolio yielded a good return in the quarter and is positively impacted by the
+development in the equity and bond markets. Taken together, this means that a profit before tax
+expense of around NOK1.6 billion for the quarter and NOK4.3 billion for the year to date.
+The combined ratio for the quarter ended at a strong 82.9%. Of this, the cost ratio was NOK14.8
+million and the loss ratio was 68.2%. The favorable development in the loss ratio continues into the
+Third Quarter this year. The new tariffs have led to better risk selections and risk pricing, which in
+turn has led to a positive shift in the portfolio with regard to risk.
+The loss ratio is also affected by seasonal variations in weather. Motor and property insurance saw
+a good development in First Quarter this year, as a result of mild winter, whilst products such as
+motorbike and leisure craft insurance saw a good development in Third Quarter this year, as a
+result of poor weather this summer.
+There has also been fewer natural events so far in 2012, compared with last year. In addition, the
+loss ratio will be volatile from one quarter to the next as a result of more random factors. This has
+had an impact on the loss ratio in Private Norway and Commercial Norway in the second and Third
+Quarter, where have seen continued loss claims frequencies for the main product in motor
+insurance and for property.
+In addition, the proportional medium sized claims have been relatively low during the period.
+These typically concern house fires. Earned premiums increased by 0.7% during the quarter, with
+an underlying increase of 2.6%, adjusted for the NAF agreement and negative exchange rate
+effect on Nordic operations.
+The Private division has an underlying premium growth of 3.5% in the quarter. The negative trend in
+the number of customers has been reversed, and they have net growth in customers in the Private
+segment in both the second and the Third Quarter.
+The Commercial segment has a negative development in earned premiums. The decrease in
+earned premiums was mainly due to a reduction in accident and health products as a result of the
+loss of two large customers which we have commented on earlier. However, there was a positive
+underlying development in premiums for the biggest group, P&C insurance products.
+
+
+
+FINAL
+
+The Nordic region reports of growth in earned premiums of 0.5% in the quarter. The figures are
+affected by a negative exchange rate effect. Adjusted for the exchange rate effect, the underlying
+growth was 2.8%. However, earned premiums for the Third Quarter last year were negatively
+affected by reinstatement premiums of NOK36 million following the cloudburst in Copenhagen in
+July last year.
+Large losses in the quarter had an effect on the combined ratio of 4.4percentage points, roughly
+on par with the expected 4.5percentage points. Large losses were mainly related to the
+Commercial Norway and Nordic segments and they mainly concerned fires. There were also on
+natural event during the quarter in Norway with an effect of NOK50 million for Gjensidige.
+There was a run-off gain of NOK88 million in the quarter, which corresponds to positive effect on
+the combined ratio of 1.9percentage points compared with 0.6percentage points in the
+corresponding quarter in 2011. As you can see, the run-off gain largely comes from the Nordic
+segment this quarter. It is mainly due to two factors; there has been a positive development in the
+workers' compensation portfolio in Denmark due to a downward adjustment of the expected
+inflation rate. That is the workers' compensation index for 2012.
+
+Bloomberg Transcript
+
+In addition, some large losses were adjusted downwards during the quarter. The cost ratio was
+14.8% in the quarter, and the positive development in nominal operating expenses continues in the
+quarter with a decrease of NOK14 million. The reclassification in the indirect claims settlement
+costs, which we commented on in connection with the Fourth Quarter presentation last year,
+explains the substantial part of the effect in Private Norway and Commercial Norway. But there has
+also been a reduction in normal expenses over and above these effects.
+There's negative development in cost in corporate centers, mainly related to increased provision
+for collective bonuses. In 2011, most of these costs was expensed in the Fourth Quarter.
+(Earlier), Cecilie presented the strategic focus areas, simplification, automation, and the relaunching of the brand. These are ongoing programs that will be delivered within the goal we have
+set of a cost ratio of 15% by 2015.
+The illustration on page 29 shows the breakdown of internal risk-based capital requirements. The
+calculation were carried out using Gjensidige's risk-based internal model. The total capital allocated
+to operational activities that was practically unchanged in the quarter, and it amounted to NOK7.3
+billion at the end of the quarter.
+The asset risk has increased from NOK3.8 billion to NOK4.0 billion in the quarter. This is mainly due
+to a combination of increased asset risk as a result of the higher market value of the (Storebrand
+and SR) Bank as a bond at amortized cost, and increased exposure due to a somewhat larger
+investment portfolio. The total risk-based capital requirement amounted to NOK11.3 billion at the
+end of the quarter.
+On page 30, you can see that we have decided to make some changes to how we illustrate the
+Group's capital position from this quarter, to make it easier to understand how the figures relate to
+each other. The bar charts show available capital, capital requirements, and excess capital for each
+of the three perspectives that we examined.
+In this quarter, as before, it is the rating requirement from S&P, the A rating that is the most binding
+of the three capital requirements. Taking account of this capital requirement, the calculated excess
+capital amounts to NOK3.9 billion, an increase of NOK0.6 billion. The increase in excess capital in
+S&P model is mainly due to an increase in the available capital and there are only minor changes in
+the calculated asset and liability risk.
+
+
+
+FINAL
+
+Bear also in mind that interim profits are not included in the S&P model when calculating available
+capital. This means that the overall profits for the period of NOK3.0 billion, after tax expense, has
+not been taken into account in the excess capital.
+Investment portfolio amounted to NOK55.8 billion at the end of the quarter, an increase from
+NOK54.5 billion at the end of the Second Quarter. You are probably well aware of the (divisionality)
+of the investment portfolio into three different sub portfolios, the match portfolio, the free
+portfolio and the associated companies.
+There was no major change in the asset allocation during the quarter. There is still an exposure
+towards the PIIGS in the portfolio. It was NOK193 million in the match portfolio, and NOK72 million
+in the free portfolio.
+Then turning to the next page, the investment portfolio has yielded a good result, both for the
+quarter seen in isolation and for the year to date. The match portfolio yielded a return of 0.8% in
+the quarter, down from 1.1% in the Third Quarter last year. There was a net return on bonds valued
+at amortized cost, and in the match portfolio was 1.0% in the quarter.
+
+Bloomberg Transcript
+
+The average reinvestment rate in this part of the match portfolio has been around 4.6% in the
+quarter, compared with the approximately 4.9% in the Second Quarter this year. The reduction in
+the reinvestment rate is due to a combination of a fall in the (swap) interest rate and the lower
+credit spread. The continued fall in interest rate is becoming an increasing challenge that will affect
+the return on financial assets in the coming quarter.
+The return for the current bonds in the match portfolio was negative in the quarter, and impacted
+by a negative result element of NOK60 million due to different shifts in the interest rate currently
+used for discounting of the damaged workers' compensation liabilities, and the interest rate
+curves for the assets used to hedge the interest rate risk.
+The associated companies produced a profit over NOK152 million in the quarter. Part of this profit
+is due to a positive estimate deviation of NOK40 million from the previous quarter.
+The portfolio yielded a return of 2.4% during the quarter. Bonds, equities and variously owned
+properties made a positive contribution, while the return on property funds was negative. All in all,
+a good return on the investment portfolio, both in the quarter, and for the year to date.
+Then I will leave the (floor) to Helge to sum up.
+
+Helge Leiro Baastad
+
+{BIO 5865247 <GO>}
+
+Yes. Then, finally, some comments related to outlook and priorities, the last page we will use
+today, page 21.
+As you know, there is still great uncertainty about the international economic situation, and several
+key economies are experiencing financial challenges. This creates uncertainty for Gjensidige as
+well. The continued fall in the interest rates, in particular, is becoming an increasing challenge.
+Gjensidige has a robust investment strategy. However, at the same time as the Group is financially
+sound, it has a high proportion of its business in the Norwegian general insurance market. The
+macro situation, as regards the Norwegian General Insurance business, is still regarded as good,
+and there are some signs of improvement in the Danish markets. The Baltic economies are
+experiencing positive development.
+
+
+
+FINAL
+
+In addition, there is still uncertainty attached to the changed framework conditions for the financial
+sector in Norway and internationally. We expect increased focus on the Norwegian life insurance
+regulation during winter 2013, and it appears likely that clarification of the Solvency II regulation will
+be further postponed, but until further notice, we are planning implementation of January 1, 2014.
+The General Insurance business in Norway, and in Nordic countries, is very profitable at the
+moment, which we are, of course, very pleased with it. With strict requirements for customers and
+risk selection as before, we are, nonetheless, experiencing good growth and increased
+competitiveness. High profitability attracts competition, of course, and it is important not to rest on
+our laurels. We are not willing to compromise on our policy of profitability (or) growth, and our
+organization is working continuously to ensure increasingly efficient operations and more optimal
+pricing of risk through sophisticated tariff setting.
+So far, we have implemented new tariffs in most of the Private Norway segment, with documented
+good results. Still, there is a certain potential for further reduced claims ratio. For the Commercial
+Norway segment, we estimate that nearly 70% of the portfolio is suitable for new tariffs, and some
+tariffs have already been implemented during this year. It will, however, take some time before we
+see the full effect of the loss ratio.
+
+Bloomberg Transcript
+
+In the Nordic segment, we will start implementation in 2013, and we expect to be able to use the
+new tariffs on (60% to 70%) of this portfolio. In other words, we still expect a considerable
+rationalization potential from the ongoing tariff setting project. And it's important also to comment
+that this, of course, is a continuous improvement process of developing the tariff system, and of
+course, this will continuously be part of the business, going forward, as well.
+Reducing costs is simple, as I commented after the Second Quarter this year, but reducing costs in
+parallel with investing in the right solutions for the future is challenging. And I'm convinced that, in
+the space of a few years, we will see a completely different way of conducting insurance
+operations than we have been used to, driven by increased digitalization automation, and changed
+customer behavior.
+In Gjensidige, we're focused on customer orientation more than ever before, and today you have
+heard a bit about our current situation and our initiatives to position ourselves for the future, and I
+am confident that Gjensidige is in a strong position in relation to our competitors. In the short term,
+we are particularly looking forward to launching our new profile, before Christmas, with a new
+version of the watchman.
+And with that, we are ready to take questions from you. Please go ahead.
+
+Questions And Answers
+A - Janne Flessom
+And we would kindly then ask you to ask only one question at a time, please.
+
+Operator
+(Operator Instructions) Matti Ahokas, Handelsbanken.
+
+Q - Matti Ahokas
+
+{BIO 2037723 <GO>}
+
+Actually, my question is more general in nature. Many of your peers, or actually most of your peers,
+gave guidance on the combined ratio for the current year, and you haven't done so. If you look at
+your track record, you've been beating the estimates now for a number of quarters. I was just
+wondering, is there any chance that you might consider giving more detailed guidance on the fiscal
+year, just to make it a bit easier for the markets? Thanks.
+
+
+
+A - Catharina Hellerud
+
+{BIO 17276650 <GO>}
+
+FINAL
+
+We do not give any guidance on our results, so what we do is that we guide on our long-term
+financial targets, which is, as you, of course, know is a combined ratio between 90% to 93%, and
+also the cost ratio target of 15% in 2015. And these are principles that we are planning (for the
+Company) going also in the future.
+
+Q - Matti Ahokas
+
+{BIO 2037723 <GO>}
+
+All right. Thanks.
+
+Operator
+Per Gronborg, Danske Markets.
+
+Q - Per Gronborg
+
+{BIO 15910340 <GO>}
+
+I have a question, related a bit the same issue, your 90% to 93% combined ratio target. You have
+been below that level for some quarters. You could argue in Q1 and Q2 you had exceptionally
+strong -- so you had exceptionally good weather. In Q3, I guess, you had less tailwind, so that
+excuse is not really valid any longer. You have a lot of initiatives you address where you will improve
+your cost situation, you will improve your underwriting situation, also outside the Private Norwegian
+book.
+
+Bloomberg Transcript
+
+Where should the pressure come from that should move you materially up on combined ratio, in
+the next three years, as your financial targets basically indicates that you'll be satisfied if that
+happened?
+
+A - Catharina Hellerud
+
+{BIO 17276650 <GO>}
+
+I think I'll just go back to my comments regarding the especially the loss ratio, which is the factor, to
+a large degree, giving us a very low claims ratio.
+As I said, of course, the loss ratio is affected by seasonality, a variation in weather. And it's correct,
+we had a very benign winter this year, and we also had, from our perspective, a very benign
+summer. We had a low frequency within a typical like motorbike and leisure craft insurance. And we
+have also seen fewer natural events.
+In addition, I also commented that, of course, also, the claims ratios are affected by more random
+factors. But when we look at our long-term financial targets, we have to look at a normalized
+situation. We have to have a position on what is a normal claims ratio, based on a normal rate of
+large claims, and a normal rate of other related claims, etc. And our long-term financial target is
+based on such a normalized situation.
+And as you also commented, there are different initiatives that we do. The strategic initiative is to
+make sure that we're able to deliver on the cost ratio target. Obviously, it (matters) to be able to
+deliver on the cost target.
+
+Q - Per Gronborg
+
+{BIO 15910340 <GO>}
+
+Okay. Thank you.
+
+Operator
+Gianandrea Roberti, Carnegie.
+
+Q - Gianandrea Roberti
+
+{BIO 6786731 <GO>}
+
+
+
+I have a couple of questions, but I'll start asking the first one first. I think, Helge, you mentioned the
+possibility of further improving the claims ratio in Private Norway, which is a standing statement,
+looking at the current profitability. Have I understood that correctly?
+
+A - Helge Leiro Baastad
+
+{BIO 5865247 <GO>}
+
+FINAL
+
+When did I say that, during my presentation today, or --?
+
+Q - Gianandrea Roberti
+
+{BIO 6786731 <GO>}
+
+Yes. A few seconds ago, while you were speaking. But maybe I misunderstood you, that's why I
+want to double check it.
+
+A - Helge Leiro Baastad
+
+{BIO 5865247 <GO>}
+
+I will refer to what Catharina just said. The combined ratio for the Private line in Norway, Third
+Quarter is 77%, and that's extremely strong. And it's driven, first and foremost, by the claims cost
+ratio. And if you go into the claims cost ratio, it's driven by the frequency element, which is a
+combination of stable and significant decreasing, when you've got to look into the property.
+So I do not hope that I have guided in a better way, compared to what we actually see now. It is a
+very strong situation, of course.
+
+Bloomberg Transcript
+
+What I said is, the unique combination of improving of the competitiveness; increasing the net
+amount of customers for the first time since, I think, 2006 or '07, in combination with a combined
+ratio below 80%.
+So I am very satisfied with the Norwegian situation at the moment. So I haven't given any guidance
+of a long-term improvement for the Norwegian claims cost in the Private line.
+
+Q - Gianandrea Roberti
+
+{BIO 6786731 <GO>}
+
+Okay; I appreciate that. If I could just have one follow-up. The run-off gain in the Nordic segment,
+NOK75 million, I think Catharina explained and said something about the workers' comp index in
+Denmark. But if you could just explain it again, because I didn't really get what you were saying
+before. Thanks.
+
+A - Catharina Hellerud
+
+{BIO 17276650 <GO>}
+
+Yes. It's actually about the workers' compensation product in Denmark, where you have these
+long-term annuities, where we increased the annuities based on what we expect of inflation level.
+And the inflation level is set by the Danish authorities. It's a workers' compensation index, but it's
+set once a year. It's actually based on the wage increases the last two years.
+What we see now is that the model that we used to estimate the workers' compensation index
+has given a too high inflation expectation for 2012. So based on observations on what happened in
+the wage increases in Denmark, as you know that we have used too high inflation adjustment for
+2012.
+
+Q - Gianandrea Roberti
+Super. That's helpful.
+
+Operator
+Vinit Malhotra, Goldman Sachs.
+
+{BIO 6786731 <GO>}
+
+
+
+Q - Vinit Malhotra
+
+{BIO 16184491 <GO>}
+
+FINAL
+
+So just on this topic of very strong combined ratios again, if I may? So if I look at the Commercial
+Norway, for example, the 80.9%, and if we strip out the large losses and the reserve releases, we
+are seeing a number which was 74.7% in 2Q and 76.3% in 3Q. And I link it back to Helge's comment
+just now that the cycle has been -- it's been very good and you want to prepare the Group for any
+competition that could happen and deteriorate.
+Are you already seeing something's changing in the market which makes you feel that the
+Norwegian market has had a brilliant run, everything's great, but now --? And the reason I ask it
+because when we ask your peers, the answers we get are that the barriers to entry are very high,
+so the cycle, by itself, has changed, or it looks very different in Scandi market or in Norwegian
+market in particular.
+So any comments on that would be really appreciated at this time. Thank you very much.
+
+A - Helge Leiro Baastad
+
+{BIO 5865247 <GO>}
+
+Bloomberg Transcript
+
+If I can (perhaps start), and maybe Catharina could follow. But the barriers to enter; I think the
+barriers to enter is increasing, actually, and the main reason for that is the cost effectiveness from
+our side and our main peers.
+And secondly, I think the barriers to enter is related to what we have heard today actually, that we,
+and I think also our main competitors, the main Nordic non-life players, they are investing highly
+into ICT systems, business intelligence structures, and the fact that they see that it's a huge
+potential for further effectiveness improvements, and quality improvements and personal
+satisfaction improvements, by investing into a new way of doing this business with customers,
+going forward.
+And thirdly, I think what I also commented related to the tariff development, I think the barriers to
+enter is increasingly more complicated to enter when the main players introduce more micro-tariff
+oriented pricing. And as you've heard, 70% of our Norwegian Commercial business can be part of
+a tariff-type of business.
+Regarding competition, of course, as you have seen today, we have a return on equity of 24.3%
+with a strong capital position. That's strong, as we wrote in our report. And of course, you will see
+competition, and we have lots of competition both in Norway and the Nordics every day. Where we
+see most (strange) competition, if I can use that word, it's on the private lines, and we also see
+more variety of competitors, not only the pure non-life players, but also life companies. We are
+dealing with new players. The variety in pricing for the large personal risks is higher related to
+personal lines.
+Yes, I have elaborated around the enter of barrier, or the competition in the Commercial segment,
+and said something about the competition. Maybe you have something more, Catharina? No.
+Did that an answer to your question, or --?
+
+Q - Vinit Malhotra
+
+{BIO 16184491 <GO>}
+
+Yes. Thank you very much. I will just give you that -- are you worried that the market or your
+business is at the peak of its performance and now the cycle could turn? Or if you are not worried
+about that, then it's fine, but you are changing a lot in the business, like the brand and the logo, for
+example. And are you fixing something which isn't broken, or are you thinking that it might break a
+bit, so let me be ready?
+
+
+
+I just wanted to understand, because these kinds of numbers are amazing numbers, and we
+always look from the outside and think if the cycle is peaking in terms of profitability.
+
+FINAL
+
+A - Helge Leiro Baastad
+
+{BIO 5865247 <GO>}
+
+Before I give the word to Cecilie Ditlev-Simonsen I want to say that we absolutely do not have any
+brand which is broken. We have the strongest brand in the Norwegian financial sector. That's the
+reason why the changing; maybe you can repeat that, Cecilie, because it's a strong, good reason
+for that change.
+
+A - Cecilie Ditlev-Simonsen
+
+{BIO 4958713 <GO>}
+
+Yes, happy to. There are a couple of reasons. One is that, as we increase our business in the
+digital space, we need to basically adjust our visual profile to communicate more efficiently and
+practically on the Internet and on mobile. So that's one reason.
+Now we could have, of course, done some very simple changes and not do the entire brand
+initiative. However, this initiative will allow us to communicate, allow me to say, in a less selfabsorbed corporate and generic way, and in a much more customer oriented way, which we think
+will contribute both to positive associations in the direction of customer service and friendliness.
+And it will also help us outside of Norway, where of course we are trying to improve and increase
+our business because we are introducing a more modern look.
+
+Bloomberg Transcript
+
+So basically, what we've done is we've modernized a very strong logo, and we have introduced
+some other visual elements that we think will work very nicely, especially in digital communication.
+So I think that we're not fixing anything broken, simply revitalizing something very vital.
+
+Q - Vinit Malhotra
+
+{BIO 16184491 <GO>}
+
+Okay. And does this cost a lot, this branding?
+
+A - Helge Leiro Baastad
+
+{BIO 5865247 <GO>}
+
+I want to add one sentence. You asked if I am worried. Without branding, I would say that I'm
+actually not worried at all. As we have presented today, we have a very strong base of underlying
+growth and profitability. What actually -- I am very optimistic around the initiatives. We actually have
+managed to invest into tariff developments, automation and self-service initiatives, and finally, that
+we can, with the same type of financial targets, invest highly into our revised review brand name.
+So I'm quite optimistic; I'm not worried, actually.
+
+Q - Vinit Malhotra
+
+{BIO 16184491 <GO>}
+
+Thank you. And just one quick follow-up. The brand will not cost much, because you said it will be
+within the 15%, even when you're doing all this reinvestment into brands and IT. Is that a fair
+understanding?
+
+A - Catharina Hellerud
+
+{BIO 17276650 <GO>}
+
+That is a fair understanding, but to be a little bit more specific from our end, we have just said
+today that costs will be, for the rest of this yea, another NOK20 million of the development costs
+we've already expensed earlier this year. And for next year, another NOK40 million for customer
+portals, new signage and profiling elements in the entire Nordic region.
+I might add that we will do this professionally and elegantly, but this is still a very moderate cost
+compared to what the other big brands have done in our part of the world.
+
+Q - Vinit Malhotra
+
+{BIO 16184491 <GO>}
+
+Okay. Thank you very much.
+
+
+
+Operator
+Per Gronborg, Danske Markets.
+
+FINAL
+
+Q - Per Gronborg
+
+{BIO 15910340 <GO>}
+
+I'll try my second question. On your capital, you (address) yourselves that Solvency II seems to
+continue to be postponed out into the future. On your excess capital, you have previously stated
+that you would keep it on board; you would keep the 80% payout ratio and keep the remaining
+capital on board until you had visibility into the regulatory framework.
+You're showing today in your slides that the key limitation today is very far from being your internal
+model, of which, I guess, it's very much Solvency II inspired, or the current regulatory regime, but
+more rating agencies. Are we going to wait until '14, '15, '16, whenever Solvency II is coming in
+place, or have you any thoughts about taking action on your capital situation earlier than that?
+
+A - Catharina Hellerud
+
+{BIO 17276650 <GO>}
+
+I'll just a short comment to that. I think, first and foremost, we need to have -- we still have to work
+under the 2014 implementation date until we get a final (certification) from the European
+authorities. Probably that will be within the next couple weeks, hopefully. And of course, if the
+implementation is postponed until '15 or '16, we will have to go back and do a new discussion on
+what we do on the capital side.
+
+Bloomberg Transcript
+
+A - Helge Leiro Baastad
+
+{BIO 5865247 <GO>}
+
+Yes, I would say that when we have enough visibility related to Solvency II for the non-life and the
+life companies, and when we have enough visibility also for the life regulation, which is important in
+the total picture, we'll of course take the discussion internal.
+
+Q - Per Gronborg
+
+{BIO 15910340 <GO>}
+
+Saying that Life is important. I know the size of your Life business; I have a hard time seeing that
+being important to the overall capital need for your Group as long as you don't plan to take over
+Storebrand.
+
+A - Helge Leiro Baastad
+
+{BIO 5865247 <GO>}
+
+As you know, we have associated companies and it's what kind of regulation we will have related
+to Solvency II capital requirements, and also related to the capital (binding) as a non-life company.
+So that's part of our business now.
+
+Q - Per Gronborg
+
+{BIO 15910340 <GO>}
+
+Okay. Thank you.
+
+Operator
+No further questions.
+
+A - Helge Leiro Baastad
+Okay. Thank you very much.
+
+A - Janne Flessom
+Thank you.
+
+{BIO 5865247 <GO>}
+
+
+
+FINAL
+
+Bloomberg Transcript
+
+This transcript may not be 100 percent accurate and may contain misspellings and other
+inaccuracies. This transcript is provided "as is", without express or implied warranties of any kind.
+Bloomberg retains all rights to this transcript and provides it solely for your personal, noncommercial use. Bloomberg, its suppliers and third-party agents shall have no liability for errors
+in this transcript or for lost profits, losses, or direct, indirect, incidental, consequential, special or
+punitive damages in connection with the furnishing, performance or use of such transcript.
+Neither the information nor any opinion expressed in this transcript constitutes a solicitation of
+the purchase or sale of securities or commodities. Any opinion expressed in the transcript does
+not necessarily reflect the views of Bloomberg LP. © COPYRIGHT 2022, BLOOMBERG LP. All rights
+reserved. Any reproduction, redistribution or retransmission is expressly prohibited.
+
+

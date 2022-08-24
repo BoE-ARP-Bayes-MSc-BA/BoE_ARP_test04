@@ -1,0 +1,1358 @@
+Company N ame: American I nternational Group I nc
+Company Ticker: AI G US Equity
+Date: 2020-08-04
+
+Q2 2020 Earnings Call
+Company Participants
+FINAL
+
+Brian Duperreault, Chief Executive Officer
+Kevin Hogan, Chief Executive Officer, Life & Retirement
+Mark Lyons , Chief Financial Officer
+Peter Zaffino, President & Chief Operating Officer of AIG & Chief Executive Officer of
+General Insurance
+Sabra Purtill, Head of Investor Relations
+
+Other Participants
+Brian Meredith, Analyst
+Elyse Greenspan, Analyst
+Erik Bass , Analyst
+Jimmy Bhullar, Analyst
+Michael Phillips , Analyst
+
+Bloomberg Transcript
+
+Yaron Kinar, Analyst
+
+Presentation
+Operator
+Good day, and welcome to AIG's Second Quarter 2020 Financial Results Call. As a
+reminder, today's conference is being recorded. At this time, I would like to turn the
+conference over to Ms Sabra Purtill, Head of Investor Relations. Please go ahead.
+
+Sabra Purtill
+
+{BIO 1764408 <GO>}
+
+Good morning and thank you all for joining us. Today's call will cover AIG's Second Quarter
+2020 financial results announced yesterday afternoon. The news release, financial results
+presentation and financial supplement were posted on our website at www.aig.com and
+the 10-Q for the quarter will be filed later today after the call. Today's remarks may
+contain forward-looking statements including comments relating to company
+performance, strategic priorities, business mix and market conditions including the effects
+of COVID-19 on AIG. These statements are not guarantees of future performance or
+events and are based on management's current expectations. Actual performance and
+events may differ materially. Factors that could cause results to differ include the factors
+described in our first quarter 2020 reported on Form 10-Q and our 2019 Annual Report on
+Form 10-K and our other recent filings made with the SEC, inclusive of the effects of
+COVID-19 on AIG which cannot be fully determined at this time.
+
+Page 1 of 22
+
+
+
+Company N ame: American I nternational Group I nc
+Company Ticker: AI G US Equity
+Date: 2020-08-04
+
+Bloomberg Transcript
+
+FINAL
+
+AIG is not under any obligation and expressly disclaims any obligation to update any
+forward-looking statement, whether as a result of new information, future events or
+otherwise. Additionally, some remarks may refer to non-GAAP financial measures. The
+reconciliation of such measures to the most comparable GAAP figures is included in our
+earnings release, financial supplement and earnings presentation, all of which are
+available on our website. I will now turn the call over to Brian.
+
+Brian Duperreault
+
+{BIO 1645891 <GO>}
+
+Good morning and thank you for joining us today. I hope everyone is staying healthy and
+safe. Like last quarter, our team is participating on the call from different locations. I'm
+joined by Peter, Kevin. And Mark and, Doug Dachille our Chief Investment Officer, will also
+be available for Q&A.
+AIG continues to show remarkable strength and resiliency as COVID-19 remains a
+formidable and ongoing catastrophe. Our global workforce is adjusted to working
+remotely and I am incredibly proud of how the team has become more unified and
+focused on supporting each other, our clients and other stakeholders during this
+unprecedented time. Throughout the second quarter, we continue to build on the strong
+foundation created since late 2017, to instill a culture of underwriting excellence, adjusted
+risk tolerances and implemented best in class reinsurance program. These actions
+strengthened and protected our balance sheet and are allowing us to effectively manage
+through COVID-19 and its collateral effects on the global economy in addition to natural
+catastrophes. We also made progress on strategic initiatives across AIG, including the
+early June closing of the sale of a majority stake in Fortitude which significantly de-risked
+our balance sheet and represented the vast majority of our legacy portfolio. Our focus on
+de-risking is also reflected in how the overall investment portfolio has held up during this
+extended period of market uncertainty.
+As we outlined on our last call, our portfolio is diversified by asset class and industry
+sector and contributes to our strong balance sheet. Mark will give more details on the
+accounting implications of the sale of Fortitude which while in line with what we outlined
+on prior calls are complex and added significant impact on our GAAP results in the second
+quarter. There are other positive developments in the second quarter, such as the launch
+of Syndicate 2019, which also added some noise to our results, but overall, I'm very
+pleased with our underlying performance in this quarter.
+We also enhanced our financial flexibility with parent company liquidity of over $10 billion
+at June 30, reflecting the proceeds from the Fortitude sale as well as the successful debt
+offering we completed in May. With respect to CATs in the second quarter, our total
+estimated net CAT losses were $674 million, including $458 million related to COVID-19.
+This brings our estimated COVID net losses for the first half of the year to $730 million.
+We continue to view COVID as an earnings event not a capital event for AIG. In arriving at
+our COVID estimate for the second quarter, we follow the same thoughtful and rigorous
+process that Peter outlined on our last call as the ramifications of the pandemic continue
+to unfold, different lines of business are being impacted which to date has been in line
+with what we expected.
+
+Page 2 of 22
+
+
+
+FINAL
+
+Company N ame: American I nternational Group I nc
+Company Ticker: AI G US Equity
+Date: 2020-08-04
+
+Turning to General Insurance excluding CATs, we continue to see improved underwriting
+profitability with the accident quarter combined ratio coming in at 94.9%, the 120 basis
+point improvement over the prior year quarter. With respect to rate, the current
+environment is as strong as I've seen in a more than 20 years and the increases over the
+last several quarters accelerating due to COVID-19. These rate increase are global broad
+based across multiple lines of business and the changes we are starting to drive in terms
+and conditions, particularly in commercial property are remarkable, the underwriting
+discipline and rigor Peter and the GI team has instilled across the business is impressive
+and they continue to be a market leader in solving risk issues for our clients and
+distribution partners.
+
+Bloomberg Transcript
+
+With respect to Life and Retirement, our financial results improved in the second quarter,
+reversing much of the negative impact of market volatility we saw in the first quarter and
+our hedging program, continue to perform as expected. Although it is still early days, we
+are seeing signs that the second quarter will represent a low watermark in sales and
+mortality rates remain within mid range of our pandemic models. Kevin will provide more
+details on Life and Retirement in his remarks. We also made significant progress on AIG
+200 in the second quarter. We moved into the execution phase of our operational
+programs and we have already seen the masterful results from our efforts so far. You will
+hear more about this from Peter.
+To summarize where we are the second quarter of 2020 relative to where we began our
+journey 3 years ago, well we've successfully reshaped AIG by substantially changing our
+operating model to focus on 3 core business units general Insurance Life and Retirement
+and investments. We also vastly improved our underwriting capabilities and business
+portfolios, significantly reduced volatility, de-risked our balance sheet, and increased
+financial and capital flexibility. These achievements are the results of extraordinary work by
+our colleagues across AIG to remediate the commercial and personal portfolios and
+general Insurance, strengthen our business in Life and Retirement and reduce risk in our
+investment portfolio. With the sale of Fortitude we essentially eliminated the vast majority
+of our legacy portfolio and related exposures of long tail runoff liabilities and interest rate
+risk. With all this complex work behind us, we are now able to focus on our core
+businesses and leverage our financial position to strategically deploy capital towards
+growth, particularly in the general Insurance commercial lines where we are seeing some
+of the strongest market conditions in our careers.
+I remain confident that AIG is well positioned for the future and on the right path to
+become a top performing company and a leading insurance franchise.Before I turn the call
+over to Peter, I do want to take a moment to address the recent movements, duration of
+quality across the United States and other parts of the world. At AIG, our colleagues were
+deeply upset by the traumatic events and exposed to depth within the quality that
+continues to exist in the United States and around the world. We saw an outpouring of
+empathy which led to courageous and often difficult conversations throughout our
+organization. We are now moving beyond empathy and conversation to formulating near
+short and longer term actions, we must take. We know there are no quick fixes and while
+we have taken important steps over the last few years, the foster a culture of diversity
+inclusion, we must do more. Like the other complex issues, we have taken on at AIG by
+
+Page 3 of 22
+
+
+
+Company N ame: American I nternational Group I nc
+Company Ticker: AI G US Equity
+Date: 2020-08-04
+
+leadership team that is committed and I'm confident that with the support of our global
+colleagues, we will make a lasting change at our company.
+
+Bloomberg Transcript
+
+FINAL
+
+As we continue our transformational journey at AIG, we remain steadfast in our pursuit of
+excellence in all that we do which we know can only be achieved with exceptional diverse
+talent at all levels of the organization. Peter, over to you.
+
+Peter Zaffino
+
+{BIO 15942020 <GO>}
+
+Thank you, Brian, and good morning everyone. Today I plan to provide more detail on
+Brian's comments regarding the General Insurance Second Quarter Results, COVID-19,
+the current market environment, and I will finish with an update on AIG 200. This month
+marks my third anniversary of joining Brian at AIG and when I look back at where we
+started our journey, the progress our team has made is extraordinary. As we've discussed
+on prior calls, during our first year at AIG, we determine the GI portfolio required a
+complete overhaul in terms of underwriting culture, establishing global standards and
+dramatically altering limits deployed.
+In addition, we knew that our businesses needs to be re-positioned in the marketplace to
+become more competitive and relevant to clients. We also moved quickly to design a
+comprehensive global reinsurance program, which has been evolving as our portfolio
+improves. This program vastly reduce volatility, unpredictability and outcomes and was a
+critical component of our overall strategy, allowing us to move faster and re-underwriting
+the GI portfolio. We built a world-class team and strengthened the bench across the world
+and are completely revamped risk appetite, but successfully communicated to and
+accepted by the marketplace.. We also achieved our goal of entering 2020 with an
+underwriting profit and since the second quarter of 2018, our adjusted accident year
+combined ratio has gone from 101 to 94.9%, a 610 basis point improvement. This is a
+result of the outstanding work done by the team and we've built considerable momentum
+that will allow us to continue to improve our financial results. With respect to our global
+commercial portfolio, it has been significantly remediated and while there will always be
+opportunities for improvement, this portfolio is now positioned for further strengthening,
+more diversification, and profitable growth. In personal insurance, as I outlined in our last
+call, we significantly de-risk private client group known as PCG with the creation of
+Syndicate 2019 through our partnership with Lloyd's. In addition, in late June, we
+announced an agreement to transition the PCG upper middle-market clients to Liberty
+Mutual and heritage Insurance this fall. PCG is the market leader and the innovative capital
+structure we carefully design with Lloyd's coupled with the disposition of our upper middle
+market business allows us to now focus on the areas in the high-net-worth segment
+where we bring the most valued clients as well as our brokers and agents. Our access to
+new capital and reinsurance partners reduces AIG's concentration risk in peak zones and
+resulting volatility that is inherent in this type of business and removes the constraints we
+had on our ability to grow this portfolio. To give you a bit more insight into the challenges
+we faced with PCG, prior to the actions we took in the second quarter, this portfolio
+contributed between 15% to 20% of our global property (inaudible) PML at various return
+periods. Going forward, we expect that the new capital-light model we have put in place
+will allow us to profitably grow the PCG portfolio in which we maintain a 25% interest.
+
+Page 4 of 22
+
+
+
+Company N ame: American I nternational Group I nc
+Company Ticker: AI G US Equity
+Date: 2020-08-04
+
+Bloomberg Transcript
+
+FINAL
+
+In addition, we will receive fee income from our capital reinsurance partners for making
+underwriting decisions providing other services, including Queen's administration, which
+will improve the quality of our earnings from this business. Mark will provide more detail
+regarding the impact of these actions in PCG will have over the next few quarters.
+Since our GI journey began, the industry has faced meaningful headwinds including social
+inflation, lower interest rates, significant infrequent natural catastrophes, constraints on
+retro capacity in property, and more recently the unprecedented and ongoing COVID-19
+pandemic and the resulting global economic headwinds it has created. Our global
+workforce is more connected nimble and agile in the new working environment created
+by COVID and we're becoming a stronger more unified company, which bodes well for
+our future. We believe that companies that adjust with new abnormal will be the ones that
+are best able to solve complex risk issues for clients and provide the continuity that is
+needed in the market. Turning to General Insurance, we saw continued momentum in the
+second quarter. Our focus on underwriting profitability continues to produce positive
+results. As I mentioned earlier, the action year combined ratio, excluding catastrophes in
+the second quarter was 94.9%, a 120 basis point improvement year-over-year.Mark will
+provide more detail in his remarks, our leadership position in the market continues to
+accelerate across multiple lines of business and we are achieving rate well in excess of
+loss cost trends.
+As Brian mentioned, this acceleration of rate improvement has been significant,
+particularly when you consider the improvement in rates that we see in the 10 consecutive
+quarters leading up to COVID-19. We believe that COVID has resulted in a flight to quality
+and we are benefiting from this market dynamic, while new business slowed in the
+second quarter as everyone quickly moved to a remote working environment in the early
+challenging days of COVID -19, the strong foundation, we've built allowed us to be
+responsive to stakeholders needs in our global commercial portfolio. For example, we
+saw an improvement in both client and revenue retention. In addition, we are resetting
+terms and conditions in many lines such as property and primary and excess casualty and
+we are continuing to deploy limit with discipline while pursuing growth in certain lines of
+business that will further strengthen our portfolio on a risk adjusted basis.
+Now turning to catastrophes; in the second quarter, we booked 674 million of CAT losses
+net of Reinsurance reflecting $458 million of estimated COVID -19 losses and $126 million
+of civil unrest-related losses and 90 million of natural catastrophe losses. This brings our
+total estimated COVID-19 related net loss of $730 million year-to-date. Our aggregate
+estimate for COVID, through the first half of the year is based on actual experience
+through the first and second quarter, as well as our broad based valuation of the relevant
+lines of business and includes IBNR. As we expected COVID -related claims activity
+increased in the second quarter, our first full quarter of COVID and impacted a large
+number of lines of business that in the first quarter, including travel contingency, property,
+trade credit, marine casualty, workers' compensation, accident health, financial lines and
+(inaudible)
+Like the first quarter, we conducted a very thorough estimation process utilizing experts
+from claims, underwriting finance and actuarial. We tested the assumptions we used in the
+first quarter and confirmed that they and our estimation process continue to be sound. As
+Page 5 of 22
+
+
+
+Bloomberg Transcript
+
+FINAL
+
+Company N ame: American I nternational Group I nc
+Company Ticker: AI G US Equity
+Date: 2020-08-04
+
+a reminder, on our last call, I stated that the overwhelming majority of our commercial
+property business interruption policies contain exclusions for losses related to viruses and
+otherwise require a showing that the virus caused direct physical loss or damage that was
+the cause of the business interruption. We continue to believe that these exclusions and
+related terms and conditions will be upheld where challenged. I also noted that in the
+small fraction of commercial property policies where we have provided affirmative
+coverage for infectious disease, we've done so under strict underwriting guidelines
+offering only small supplements with terms and conditions limiting coverage, in many
+instances, only to certain specified diseases and regardless only where it can be shown
+that the disease was physically present and led to a governmental suspension of the
+business operations. Our second quarter estimation process for commercial property as
+with all of our lines of business potentially impacted by COVID-19 was fact based both in
+terms of actual claims experience in the quarter and the specific terms and conditions
+under those policies, where we provided affirmative coverage for infectious diseaserelated losses. COVID-19 is still an ongoing catastrophe and in many cases is accelerating
+in geographies across the world. While we have an additional quarter of experience from
+which to assess our exposures, our second quarter aggregate estimate reflects our best
+view at June 30.
+Turning to our reinsurance program to provide meaningful protection against our overall
+gross losses related to COVID across our most impacted launch, with respect to property
+losses in addition to our global property per risk treaty, our property catastrophe
+reinsurance includes separate occurrence towers for North America and International and
+we have a substantial global aggregate cover. Based on our current expectations of
+COVID-related losses through the second quarter, we expect to recover under our
+international per occurrence catastrophe treaty and we have approximately one half of
+our retention remaining before attaching under the North America per occurrence
+catastrophe tree. Both per occurrence towers have a reinstatement in it.
+In addition, in light of COVID -19, we anticipate about reinsurance capacity could contract
+and as a result, we purchased an additional 500 million of aggregate limits early in the
+second quarter, such that we continue to have a substantial protection against exposure
+to natural catastrophes throughout the remainder of the year and in particular going into
+peak wind season. Net premium written was $5.6 billion in the second quarter or
+approximately $1 billion lower than the prior year. The reduction was entirely in North
+America Personal lines, which was down $1.1 billion year-over-year due to the sessions
+related to the formation of this in 2019 and to a lesser extent reductions in our travel
+business resulting from COVID-19. The negative net premium written in North America
+Personal lines is partially offset by growth in commercial. Net premium written commercial
+grew 6% in North America and 7% in international commercial year-over-year, driven by
+improved net retentions and strong rate momentum. While our overall new business is
+down primarily in our large account risk management business due to COVID -19, we did
+see new business growth in North America in line such as retail property, excess casualty,
+and financial lines excluding M&A. Similarly growth in international commercial was driven
+by financial lines, property and (inaudible). Turning to rate, momentum in our global
+commercial portfolio remained strong and was up 16% in the second quarter, which
+translates to 21% growth in North America and 10% in international. For example, retail
+property rates were up over 35%, excess casualty was up over 35%, public company
+D&O was over 50% and EPLI was up over 30%. Our UK business and Talbot both
+Page 6 of 22
+
+
+
+Company N ame: American I nternational Group I nc
+Company Ticker: AI G US Equity
+Date: 2020-08-04
+
+Bloomberg Transcript
+
+FINAL
+
+achieved rate increases of around 20% driven primarily by specialty lines with energy up
+more than 40% and aviation up more than 20%.
+With respect to Validus Re, the team continued its disciplined underwriting approach
+increasing premium volume where rate improvement and terms of conditions were
+strong while reducing lines where rates in terms and conditions did not meet our risk
+appetite. Net premium written was up 39% driven by new business and strong client
+retention in the non property sectors of agriculture, casualty, and specialty. Rates in
+property lines were up approximately 20% and an all lines combined rates were up
+approximately 16% although there were significant rate increases in property Validus Re
+property exposures, continue to be reduced with a focus on lowering volatility. For the
+remainder of the year, we expect that all reinsurance lines will experience continued
+positive rate movement, and there will be opportunities to grow our top line with
+improved risk-adjusted returns. Turning to AIG 200, our transformation continues to be a
+top priority. We came up rigorous and disciplined operating views on a regular basis and
+have built a strong team of leaders who are driving program execution. While we're still in
+early stages of executing on AIG 200, our colleagues are coalescing around this critical
+strategic effort that will position AIG for long-term sustainable and profitable growth. We
+remain on track to achieve $300 million in exit run rate savings for 2020 and our overall
+target is of achieving $1 billion in run rate savings by the end of 2022 with a cost to achieve
+a $1.3 billion, have not changed. I'd like to highlight recent progress we've made on 3
+operational programs. With respect to PCG, we're currently testing the modern digital
+platform we are moving to with clients, brokers and agents and incorporating feedback.
+This operational programs will streamline our processes, improve decision-making, and
+enhance the user experience for clients distribution partners and our colleagues through a
+dramatic increase in the use of external data and AI product delivery and risk
+management services.
+In procurement, we fully centralized this global function and now have visibility into all
+categories of spend across AIG. We have already achieved significant saving as well as
+improved supplier and partner performance. With respect to real estate, we continue to
+rationalize our global real estate footprint, our recent announcement regarding the move
+of AIG's global headquarters to Midtown Manhattan and the consolidation of our
+remaining offices in the Greater New York Metro area is just one example. The design of
+these new offices will incorporate key learnings and successes from our current remote
+working environment and will be reflected in our global workplace strategy. New York city
+has played an important role in AIG's history and through our re-commitment to the city
+and surrounding area, we hope to do our part to support these communities during this
+challenging time. We enter 2020 with a clear focus on continuing to improve our core
+underwriting performance, strengthening the value we deliver to our clients, distribution
+partners and other stakeholders and modernizing our operations and systems. I'm very
+proud, the meaningful progress our team has made against these priorities. AIG
+colleagues have shown tremendous strength and flexibility in the face of challenging
+circumstances and remain committed to our journey to excellence in all that we do. Now I
+will turn the call over to Kevin.
+
+Kevin Hogan
+
+{BIO 4650423 <GO>}
+
+Page 7 of 22
+
+
+
+Bloomberg Transcript
+
+FINAL
+
+Company N ame: American I nternational Group I nc
+Company Ticker: AI G US Equity
+Date: 2020-08-04
+
+Thank you, Peter, and good morning everyone. Today I will discuss overall Life and
+Retirement results for the second quarter, our current outlook and the results for each of
+our businesses. Life and Retirement recorded adjusted pretax income of $881 million for
+the quarter and delivered adjusted return on attributed common equity of 13.2%. With a
+significant rebound in equity markets during the quarter, we saw favorable benefits to
+both reserves and deferred acquisition costs, which had been impacted by negative
+equity market returns in the first quarter. This market recovery is not reflected in our
+private equity returns for the quarter since they are generally reported on a one quarter
+lag. Adjusted pre-tax income decreased by $168 million from the very strong second
+quarter of last year, driven by unfavorable mortality resulting from COVID-19, lower
+returns from share value option bonds to the volatile credit spreads and expected spread
+compression. Our current quarter also benefited from significant yield enhancements
+related to low interest rates. Well as results for the second quarter last year reflected a
+large IPO gain from a single private equity -- recognizing the limits of sensitivities
+especially in times of macroeconomic stress and historic volatility, the sensitivities we
+previously provided have generally continued to hold up. However, our reported base
+investment spread compression is higher than we would otherwise expect as we have
+continued to maintain liquidity and has held higher levels of cash on our balance sheet.
+Excluding the impact from this large liquidity position, our base investment spreads would
+continue to be in the 8 to 16 basis point range of annual spread compression. Relative to
+equity markets in total yields, we have also updated our sensitivity estimates as of the
+end of the second quarter. We would expect a plus or minus 1% change in equity market
+returns to respectively increase or decrease adjusted pretax income by approximately
+$40 million to $50 million annually, a modest increase based on higher market levels in the
+first quarter. As to rates, a plus or minus 10 basis point movement on 10 year
+reinvestment rates would increase or decrease earnings by approximately $5 million to
+$15 million annually consistent with prior quarter. As always, it is important to note that
+these market sensitivity ranges are not exact nor linear since our earnings are also
+impacted by the timing and degree of movements as well as other factors. Our risk
+management and discipline are serving us well in these challenging times. Moving our
+hedging program has continued to perform as expected and our balance sheet remains
+strong. We currently estimate our fleet risk-based capital ratio for the second quarter to
+be between 420% and 430%, well above our target range of 375% to 400% providing a
+good buffer for the uncertainty of the current environment. Further, as we have repriced
+and restructured many of our products, our new business margins generally remain within
+our targets at current new money returns. Sales were significantly lower in the quarter,
+especially in the retail annuity market as our distribution partners responded to their own
+challenges.
+Towards the end of the quarter, we began to see improvement in retail and liberty activity
+as our distribution partners responded to the new environment. As of today, based on
+early indications, we have seen a strong rebound in sales compared to June and our retail
+new business pipeline continues to build, suggesting improving volumes from historically
+low second quarter levels. Our broad position across products and channels has been
+especially advantageous during these times. For example as retail annuity sales
+languished in the second quarter, we expanded our pension risk transfer business
+concluding several significant reinsurance transactions. We remain well positioned and
+confident to deploy capital as attractive opportunities arise across our businesses.
+
+Page 8 of 22
+
+
+
+FINAL
+
+Company N ame: American I nternational Group I nc
+Company Ticker: AI G US Equity
+Date: 2020-08-04
+
+Now I will turn to our second quarter results for each of our businesses, the challenging
+sales environment for Individual Retirement that are noted resulted in negative net flows
+for annuities. The Group Retirement premiums and deposits decreased due to lower new
+group acquisitions as well as reduced individual product sales. Despite lower sales, net
+flows were essentially flat due to lower group and individual surrenders. For our Life
+Insurance business, total premiums and deposits increased due to higher international life
+premiums. Our estimate for the impact from excess mortality of all causes including
+COVID-19 results in a level of mortality net at reinsurance, and longevity offsets that is
+modestly higher than pricing assumptions. They've got a small and evolving data set. We
+currently estimate that around 40% of our COVID-19 related death claims reflect an
+acceleration of claims, we would have otherwise experienced in the next 5 years.
+Our recent mortality experience will be factored into our longer-term experience studies
+in our annual review of actuarial assumptions, which will occur in the third quarter. In
+isolation, we do not currently expect COVID-19 losses to have a large impact on our longterm mortality assumptions. For institutional markets adjusted pretax income was
+favorably impacted by the relative hazard activity I noted earlier. We significantly grew
+premiums and deposits and continued to develop attractive new opportunities across the
+portfolio. In particular, the pipeline for pension risk transfer opportunities both directly and
+through reinsurance is very strong. To close, we remain well positioned to meet the evergrowing needs for protection, retirement savings and lifetime income solutions. Now I will
+turn it over to Mark.
+
+Bloomberg Transcript
+
+Mark Lyons
+
+{BIO 6494178 <GO>}
+
+Thank you, Kevin and good morning all. AIG produced strong underlying performance this
+quarter, particularly in the somatic areas of risk reduction, liquidity and capital preservation.
+Overall AIG reported adjusted pretax income of $803 million and adjusted after-tax
+income of $571 million or $0.66 per diluted share compared to $1.3 billion or $1.43 per
+share in the second quarter of 2019. The key drivers of the year-over-year reduction were
+higher catastrophe losses from COVID and civil unrest along with lower net industrial
+income. Positive contributions stem from continued Improvement in General Insurance's
+adjusted accident year results, stronger likely retirement returns and our ongoing
+disciplined focus on costs, as Peter noted the continued focus on General Insurance
+underwriting profitability and expense management drove a 120 basis point improvement
+in the active year combined ratio, ex-cats, however, commercial lines with even stronger
+with a 400 basis point improvement on a global basis, made up of the 320 basis point
+improvement in North America and 500 basis points of improvement in International.
+General Insurance second quarter APTI with $175 million, down $805 million from the
+second quarter of 2019 due to a $350 million reduction in net investment income, driven
+by the combined impact of alternative investment losses and the continued impact of
+lower reinvestment rates unavailable for sale income, and a $500 million increase in
+catastrophe losses. Peter discussed second quarter catastrophe losses, but I'd point out
+that in the aggregate they represent 11.9 loss ratio points and that the non-COVID, noncivil unrest CAT reserves represent just 1.6 loss ratio points versus 2.6 loss ratio points in
+the second quarter of 2019. Prior period development was net favorable by 74 million, 53
+million of which is it was associated with the amortization of the ADC deferred gain. For
+North America Personal lines, the combined impact of lower travel premium and the
+syndicate 2019 structure sessions caused a sharp change in business mix within the
+Page 9 of 22
+
+
+
+Bloomberg Transcript
+
+FINAL
+
+Company N ame: American I nternational Group I nc
+Company Ticker: AI G US Equity
+Date: 2020-08-04
+
+segment for the quarter, which impacted both the loss ratio and expense ratio compared
+to the prior year. These impacts, which include some catch-up premiums caused the net
+written premium to be negative for the quarter. The structure, however, should
+significantly reduce the future all in combined ratio volatility of the personal lines book
+while allowing us to continue to profitably grow in this business. Looking forward to 2021,
+we anticipate retaining approximately 25% of the PCG premium; however, for the balance
+of 2020 for the totality of the North America Personal Insurance segment, as reported in
+our financial supplement, we estimate roughly 425 million and 325 million of net written
+premium and net earned premium respectively for each of the next 2 quarters.
+Turning to Life and Retirement, as Kevin mentioned, Life and Retirement achieved the
+13.2% annualized return on attributed equity for the quarter, the 881 million of APTI was
+aided by lower DAC amortization due to the recovery of the financial markets after the
+large increase in amortization in the first quarter of 2020 related to that quarter's market
+decline. So better measure is the year-to-date, nearly 11% return on attributed equity.
+Kevin described the market for its various product sets, but it should also be noted that
+surrender/lapse rates were noticeably lower for both individual and group retirement as
+well as the life unit both the quarter-over-quarter and sequential basis. Shifting to
+investments, net investment income on APTI basis was 43.2 billion or $537 million lower
+than the second quarter of 2019 and impacted both General Insurance and Life and
+Retirement APTI.
+The reduction was primarily driven by a $514 million year-over-year negative swing in
+private equity results with $276 million of losses recorded in this second quarter compared
+with a particularly high amount in second quarter of 2019 reserve returns, which it has
+included a one-time large IPO gain.Like others in the industry, we generally report private
+equity on a one quarter lag due to the timing of valuation information received from the
+managers.
+So the second quarter's loss reflects March 31, 2020, valuations. On a sequential basis,
+however APTI net investment income improved by almost $500 million from the first
+quarter, even though the second quarter only had two months of Fortitude related NII.
+This reflects the impact of the strong capital market recovery in the second quarter on
+hedge fund and fair value option income but please note that in future quarters, APTI and
+after-tax income will not include Fortitude although the investments themselves will
+continue to be included on our GAAP balance sheet. We will get into more of that soon.
+Turning to other operations, the adjusted pretax loss after consolidations and eliminations
+was $510 million, an improvement of $25 million sequentially and $76 million of
+improvement from the fourth quarter of 2019, reflecting AIG's continuous focus on
+expense reduction. Corporate interest expense was slightly higher due to our May bond
+issuance and will increase corporate interest expense for the second half of 2020 and
+into the first half of 2021. Our legacy segment had $257 million of APTI in the quarter, $96
+million of which was from Fortitude before the effect of nonconsolidating interest. The
+remaining $161 million is related to other run off General Insurance, Life and Retirement,
+and investment portfolios. As Brian noted on June 2, we completed the sale of Fortitude
+and because we closed during the quarter, the second quarter included earnings for April
+and May only in APTI.
+
+Page 10 of 22
+
+
+
+Company N ame: American I nternational Group I nc
+Company Ticker: AI G US Equity
+Date: 2020-08-04
+
+Bloomberg Transcript
+
+FINAL
+
+The net earnings on the funds withheld assets are excluded from APTI for the month of
+June, as the economics of those assets were shifted to Fortitude by closing. Now shifting
+from adjusted after-tax income to GAAP below the line impact on net income material
+common shareholders' equity, the second quarter included 2 largely non-economic items
+I'd like to unpack. The first item which I focused on during our last call involve the GAAP
+recognition that were variable annuity hedging program, which requires a
+nonperformance adjustment or NPA.
+In the second quarter, we recorded an approximate $1 billion GAAP pre-tax loss, which is
+shown and discussed on pages 158 to 160 at the 10-Q, which will be filed later today, and
+this represents a partial reversal of the large gains we recorded in the first quarter of
+2020 as our hedge program is designed to offset interest rate and equity market
+changes on annuity reserves. The second item involves the sale of Fortitude. As Brian
+noted the completion of this majority stake sale represents a significant milestone in
+derisking our balance sheet and improving our asset liability management profile.
+However, it also created a lot of noise on a GAAP basis, so I will highlight five key impacts
+that cut through the associated complex accounting but I will also direct you to the robust
+disclosures we've included in our slides, financial supplement, and 10-Q to help navigate
+the accounting involved. Additionally, our Investor Relations staffs stands ready to help
+with your understanding. The five core highlights, I'd like to make sure we communicate
+are as follows; first nearly $35 billion of GAAP reserves are now recoverable from a fully
+collateralized third party re-insure in which AIG now retains a 3.5% interest. Second, and
+perhaps most importantly is the recognition that the GAAP accounting impact is largely
+non-economic as this transaction has no adverse impact on the statutory capital of our
+insurance company. The assets are marked to fair value. The GAAP reserving practices
+don't reflect analogous fair value adjustments on the liabilities. Accordingly, had the policy
+holder benefit reserves been fair valued to reflect current low interest rates, their fair
+value would have been higher and have more closely align the GAAP accounting with the
+true underlying economics. Third, from a GAAP accounting perspective the impact on
+common shareholders' equity is a $4.3 billion reduction; however, the impact on adjusted
+common shareholders' equity is a lesser $2.5 billion reduction with the major difference
+being an adjustment for $4.2 billion of unrealized appreciation on supporting funds
+withheld assets included in our AOCI. As you recall, AOCI is one of the items historically
+removed in AIG's definition of adjusted common shareholders' equity. Fourth, the
+components of the $6.7 billion GAAP net income loss are comprised of 2 broad items; first
+is a loss on de-consolidation of the previously disclosed $2.7 billion for prepaid reinsurance
+assets and deferred acquisition expenses. The second item is the loss on sale, which
+totals $4 billion, which is primarily due to the increase in Fortitude GAAP equity from markto-market on the investment portfolio, primarily the funds withheld assets, Fifth, AIG has
+updated several non-GAAP financial measures this quarter to remove asymmetrical
+accounting treatments. There will be ongoing below the line volatility at our GAAP results.
+So to help navigate this, our continuing disclosures plus our Investor Relations team will
+drive understanding of this asymmetry and the need for these initial adjustment. And
+lastly on this, we will be re-segmenting before year end to better align with
+management's view of a setting operating performance given the legacy segment now
+expected de minimis contribution to APTI. Turning to the balance sheet at June 30, 2020,
+Book value per share was $71.64, down 2.7% from one year ago and adjusted book value
+per share, which exclude ATOI the DTA and unrealized gains on the Fortitude funds
+withheld assets was down 1.7% from one year ago. During the quarter, tighter credit
+Page 11 of 22
+
+
+
+Company N ame: American I nternational Group I nc
+Company Ticker: AI G US Equity
+Date: 2020-08-04
+
+FINAL
+
+spreads compared to March 31st reversed the negative mark-to-market impact on securities that we had on March 31 with a net increase in AOCI of $10.2 billion in the
+second quarter. We continue to place a high emphasis on maintaining ample liquidity and
+a strong capital position in this economic environment.
+At June 30th, AIG had parent liquidity of $10.7 billion. This is in addition to our fully
+undrawn $4.5 billion revolving credit facility. During the second quarter, we issued $4.1
+billion of senior debt and received $2.2 billion of proceeds related to the sale of Fortitude,
+of which $1.3 billion were retained at parent. We also repaid our precautionary $1.3 billion
+March 2020, credit facility borrowing in full and made a$548 million prepayment to the IRS
+related to principal and penalties on our previously disclosed tax settlement, on crossborder transactions that date back to the 1990s. We will pay the balance of this
+settlement, up to $1.2 billion pending receipt of the final interest calculation potentially by
+at the end of this year with the ultimate amount depending on the potential application of
+interest netting for the accrued interest calculation which AIG has requested.
+
+Bloomberg Transcript
+
+We do not plan to repurchase shares in the near term and have $1.3 billion in maturing
+senior notes in the second half of 2020 as well as $1.5 billion of maturing notes in the first
+quarter of 2021, all of which will be funded with cash on hand. Turning to subsidiary capital
+AIG's insurance lead capitalization and liquidity levels remain very strong. At June 30, RBC
+fleet ratios for General Insurance's US pool as for Life and Retirement are above prior
+year levels and above the higher end of our target operating ranges providing solid
+buffers for absorbing potential COVID-19 losses, capital market volatility, or credit impacts.
+Also our ratings and stable outlook were affirmed by S&P following its regular annual
+review.
+We continue to prioritize liquidity, strong operating capitalization and financial flexibility as
+we navigate this ongoing uncertain environment. Our balance sheet and liquidity are
+strong and our investment portfolio is diversified and significantly de-risks compared to
+years past. We remain focused on the continuing improvement of General Insurance
+profitability, managing likely to Retirement prudently and a low interest rate environment
+and executing AIG 200 on schedule and on budget. We are convinced that AIG will exit
+this unusual crisis as a stronger, more resilient company and with that I will now turn the
+call back over to Brian.
+
+Operator
+Thank you, Mark. I think it's time for Q&A. So, operator, can we start the Q&A process.
+
+Questions And Answers
+Operator
+Thank you. (Operator Instructions) We'll now take our first question from Michael Phillips
+from Morgan Stanley. Please go ahead, your line is now open.
+
+Q - Michael Phillips
+
+{BIO 21023048 <GO>}
+Page 12 of 22
+
+
+
+FINAL
+
+Company N ame: American I nternational Group I nc
+Company Ticker: AI G US Equity
+Date: 2020-08-04
+
+Thank you and good morning Brian. First question, focused on [ph] compliance where
+your (inaudible) operations is kind of pretty decent on the surface. I guess I'm going to
+dive into that a little bit. We've seen some competitors talk about in frequency benefits
+because of COVID, I suspect, that's not so much the case here, but I want to make sure
+given your book of business, high layers high limits and logic corporate accounts that may
+not be seen as much frequency benefit from COVID in that core loss ratio for North
+America, commercial, so can you maybe talk about that a little bit to look through what's
+really behind that 1.7 -- implement?
+
+A - Mark Lyons
+
+{BIO 6494178 <GO>}
+
+Well, I think that's, Michael that's a good question for Peter. And the frequency benefits or
+lack thereof. Peter, can you answer that.
+
+Bloomberg Transcript
+
+A - Peter Zaffino
+
+{BIO 15942020 <GO>}
+
+Yes, sure, Brian. Thank you and good morning, Michael. You're correct, we did not take
+the frequency benefits in the quarter. If there was any sign of a better frequency relative
+to expectations within some of our international business in auto in Japan, but we've seen
+that over the last several quarters. When you think about -- I'm going to go through
+workers' compensation, because I think that's the one that stands out the most which is
+we've had frequency in COVID. It's typically I would say 70% Industries related to health
+care, but it's very unique because again we have high retention in most of that over 90%
+is related to businesses where we have a deductible $1 billion or greater, so that
+frequency really hasn't impacted us and then we have seen a commensurate reduction in
+frequency in non-COVID related claims. Again their observation that's a quarter, again a
+lot of is on retention business, but we haven't recognized that yet because we want to
+see how it emerges. One thing back on COVID workers' comp which is very interesting is
+that over 50% of the claims that we've seen over the last 4 months, now 50% of them
+are already closed. So it's a very different type of loss relative to workers' compensation
+other lines that we've seen in the liability, and auto again will be slow to recognize that
+we've seen reduced frequency and we'll give you an update next quarter once we have a
+little bit more experience.
+
+Q - Michael Phillips
+
+{BIO 21023048 <GO>}
+
+Okay, great, thanks. Thank you. Second question is going to be throughout all last year
+you guys have been one of the few companies that did actually have a margin
+improvement and that's because of way you reiterated equity done for the past couple of
+years I guess, can you talk about where are you in that process, and where you are in with
+the re-underwriting efforts and you mentioned a rate and that we're all getting rates or
+risk from the most strength you said, but how much of that we underwriting efforts has
+been done and how much more is still to be done.
+
+A - Mark Lyons
+
+{BIO 6494178 <GO>}
+
+Okay, Michael, I think again that's Peter.
+
+A - Peter Zaffino
+
+{BIO 15942020 <GO>}
+
+Page 13 of 22
+
+
+
+FINAL
+
+Company N ame: American I nternational Group I nc
+Company Ticker: AI G US Equity
+Date: 2020-08-04
+
+Yeah, Michael, I think we're in a really good place. I mean we, when I said in my opening
+comments, you know what are the areas where we had headwinds in our new business,
+which I think the industry had seen when everybody was going to work remotely what
+drove the growth. It was driven by better retention. We had 400 basis points of
+improvement in international 500 basis points improvement on retention of our clients
+within North America. So I think that reflects that we'd like the portfolio and we're trying to
+be very helpful to our clients and distribution partners by deploying capital of course you
+know we're in a different dynamic and need to make sure that we're getting the
+appropriate returns. And I think you saw that in the rate. So I think the combination of
+retention of a portfolio we like and we can grow, combined with a positive rate
+environment I think contributed to the overall growth on the NPW commercial.
+
+Q - Michael Phillips
+
+{BIO 21023048 <GO>}
+
+Okay, thanks.
+
+A - Mark Lyons
+
+{BIO 6494178 <GO>}
+
+Thanks, Michael. Next question please.
+
+Operator
+We'll now take our next question from Elyse Greenspan from Wells Fargo. Please go
+ahead, your line is open.
+
+Bloomberg Transcript
+
+Q - Elyse Greenspan
+
+{BIO 17263315 <GO>}
+
+Hi, thanks, good morning. My first question is also related to the commercial business. You
+guys mentioned some of the prices that you're getting on into the double digits on and
+said that that's an excessive trend. Could you just give us a sense on where loss trend fits
+in your commercial business and how that's changed so far this year just as we think about
+kind of the spread between price and loss trend that can start running through your
+margin?
+
+A - Brian Duperreault
+
+{BIO 1645891 <GO>}
+
+Okay, thanks. I think in terms of trend etc it is going to be Mark, is a better responder
+Mark, can you answer the question?
+
+A - Mark Lyons
+
+{BIO 6494178 <GO>}
+
+Yeah. Thank you, Brian. I appreciate that -- so in the areas I think mostly asking about take
+like excess businesses that trend -- pure loss cost trend is approaching double-digits.
+When you get into auto it's a little bit less, probably in the 7%, 8% area. Another primary
+lines are little less than that, but you've got -- you weighted altogether with things like with
+property and other loss sensitive related exposure basis it kind of drops it off. So there is,
+-- I'm not going to get into the weighted average in total, but I'll tell you that we look at
+every single line and reflect that in our thinking. I want to give you the range where it could
+be a couple percentage points in some short tail lines up to almost double digits and
+some more volatile extra facts.
+Page 14 of 22
+
+
+
+Company N ame: American I nternational Group I nc
+Company Ticker: AI G US Equity
+Date: 2020-08-04
+
+FINAL
+
+Q - Elyse Greenspan
+
+{BIO 17263315 <GO>}
+
+Okay, that's helpful. And then my second question is on the earned premium. I guess on
+commercial lines and personal lines is impacted by that quarter share, but within
+commercial we've seen on with some pretty good growth in both North America and
+internationally on the Britain side, by but earned on it still be decelerating just given a lot
+of your business mix actions that you took on. So the right way to think about it that just
+given the earn in, we could see some pressure on the earns within commercial over the
+balance of the year and that could start to see some growth in 2021?
+
+A - Peter Zaffino
+
+{BIO 15942020 <GO>}
+
+Mark -- why don't you take that one too please.
+
+A - Mark Lyons
+
+{BIO 6494178 <GO>}
+
+Yeah, I think you actually answered your own question. Yeah, you get the increasing
+impact of the casualty quarter share. And that's really what you're saying.
+
+A - Peter Zaffino
+
+{BIO 15942020 <GO>}
+
+Okay. Elyse. Thank you. Next question please.
+
+Operator
+
+Bloomberg Transcript
+
+Next question is from Brian Meredith from UBS. Please go ahead, your line is open.
+
+Q - Brian Meredith
+
+{BIO 3108204 <GO>}
+
+Thank you. One quick numbered question and a broader question. First one, Mark, I
+wonder if you could give us a guidance on what dividend in interest income is going to
+look like in general Insurance big drop off, obviously in the second quarter, was there
+anything unusual there. Is that kind of a run rate given where we are right now as far as
+investment yields?
+
+A - Peter Zaffino
+
+{BIO 15942020 <GO>}
+
+Good. Mark, go ahead please.
+
+A - Mark Lyons
+
+{BIO 6494178 <GO>}
+
+Yeah. Thank you, Brian. You kind of a little bit -- Brian Were you asking about investment
+yields in GI?
+
+Q - Brian Meredith
+
+{BIO 3108204 <GO>}
+
+Yeah, I am looking overall, but also in GI in particular, you had a big drop-off in your
+investment yield sequentially, and I'm just wondering if there is anything there variable
+rate securities or something else that was causing the drop so much or if that's kind of
+true run rate.
+
+Page 15 of 22
+
+
+
+Company N ame: American I nternational Group I nc
+Company Ticker: AI G US Equity
+Date: 2020-08-04
+
+FINAL
+
+A - Mark Lyons
+
+{BIO 6494178 <GO>}
+
+Yes, actually you guys -- good I will answer your question. So there are 2 things going on in
+the last quarter I think was the first quarter we allowed this disclosure you will see that. So
+the drop off you see is somewhat caused by what you just said and I will get into that
+more a little bit later. And what of it is just a bit of a correction, so last quarter's GI yield
+was over -- I think it is overstated it was a $40 million Canadian security correction. But I
+think it is part of your question. So that would have come down another 12 basis points,
+something like that, to the extent of on the current quarter with the structured securities.
+You're right, a lot of that stuff is floating but you really require to retrospectively look at it
+and look at what has happened in what your view of the future is, and what that implied
+yield is and if that yield is lower than what you've booked, you have to do a catch up on it
+and that's what you're seeing in the quarter. So you can adjust for some of those, Brian
+and it looks to me to be a 9 to 10 basis point drop off sequentially not as steep as it
+appears.
+
+Q - Brian Meredith
+
+{BIO 3108204 <GO>}
+
+Great.
+
+A - Brian Duperreault
+
+{BIO 1645891 <GO>}
+
+Do you have a follow up one.
+
+Bloomberg Transcript
+
+Q - Brian Meredith
+
+{BIO 3108204 <GO>}
+
+Yeah, absolutely. Brian. And this is I guess more for you and Peter. Given how low yields
+are right now, I'm wondering what type of underlying combined ratio do you need to
+achieve? Do you believe in your general insurance business can earn an acceptable return
+on capital and if you had to kind of alter your targets?
+
+A - Peter Zaffino
+
+{BIO 15942020 <GO>}
+
+Well, that's a great question. Brian, I guess, I'll take that. Yeah, I mean double-digit returns
+with a higher interest rate makes sense with these low interest rates that probably comes
+down, I would say that it's an evolving -- right now it's an evolving process and it's difficult
+with COVID to understand what steady state looks like, but my gut would say that
+something in the double-digit range is possible becoming more difficult because of the
+low interest rates. So it's more like what's the return over the risk free rate. So it's hard to
+say with this driving this thing down, when we get into a market like this, where rates are
+rising in terms the conditions are improving. You don't have a fixed number that you're
+going to try to hit. We're going to take advantage of the market and have the results that
+we can achieve with this elevated level of risk received in the marketplace. I guess that
+the best way to put it Brian. Why don't we move with next question. Thanks.
+
+Operator
+Thank you. Our next question comes from Erik Bass from Autonomous Research. Please
+go ahead, your line is open.
+
+Page 16 of 22
+
+
+
+Company N ame: American I nternational Group I nc
+Company Ticker: AI G US Equity
+Date: 2020-08-04
+
+Q - Erik Bass
+
+{BIO 19920101 <GO>}
+
+FINAL
+
+Hi, thank you. So you've talked about some of the benefits from syndicate 19 in terms of
+the volatility and reduction in the fee income you'll generate and those make sense and
+should be clear positive over time that stepping back from a near-term perspective, do
+you see this has enhanced stinger detracting from the normalized earnings of the
+personal lines segment?
+
+A - Brian Duperreault
+
+Eric, let me start with this and then I'll let Peter pick it up. So when you make a change like
+this it is certainly a disruption, with ceded premiums on in the interim going out and so
+there will be some dislocation obviously we saw in the second quarter it will bleed into the
+third. Overall, though, when things normalize as we approach the end of the year, this will
+be a net benefit to the company. It is as Mark said a capital life structure and it basically
+allows us to grow the business and we could not grow it given the concentration of CAT
+exposure with the approach we've taken now only the structure at Lloyd's and its capital
+efficiency and the ability to spread it. We can now take the benefits net and actually grow
+it and have the net growth, Peter, do you want to add anything to that?
+
+A - Peter Zaffino
+
+Bloomberg Transcript
+
+{BIO 1645891 <GO>}
+
+{BIO 15942020 <GO>}
+
+Just a couple of points Brian. As you said, I mean I think derisking reposition the portfolio
+for growth is important. That reduce volatility increasing capital flexibility. I think the second
+quarter is going to be the noisiest just because of the catch-up on the unearned premium
+and seasonally the second quarter was the largest on the net premium written side. So
+again you will still see some noise in the third and fourth, but not to the degree you saw in
+the second, and we've just been very focused on accelerating the transition, so we can
+get the 2021 will be honored largely gone away and then we position Syndicate 2019 to
+be very competitive in the market in terms of value. So we're really excited about what
+this is going to mean for the business and for our clients and distribution partners.
+
+A - Brian Duperreault
+
+{BIO 1645891 <GO>}
+
+You have a follow-up. Eric. You have a follow-up.
+
+Q - Erik Bass
+
+{BIO 19920101 <GO>}
+
+Yes, thank you. And then the second is with the lower level of sales and Life and
+Retirement. How does this affect your outlook for capital generation, and are you planning
+to keep any sort of excess capital you generated in the life subs or do you see
+opportunities to shift capital to P&C to take advantage of some of the more favorable
+pricing backdrop?
+
+A - Peter Zaffino
+
+{BIO 15942020 <GO>}
+
+Well, let me have Kevin just talk about the sales, because we are seeing a pickup of it. So
+it may be premature to talk about our capital, but I'll get back on that. Kevin, you want to
+start with the sales please?
+
+A - Kevin Hogan
+
+{BIO 4650423 <GO>}
+Page 17 of 22
+
+
+
+FINAL
+
+Company N ame: American I nternational Group I nc
+Company Ticker: AI G US Equity
+Date: 2020-08-04
+
+Yeah, sure. Thanks. Our quarter was the lowest in memory, but towards the latter part of
+June, we saw some real signs of life. During the quarter, the channel that really was
+disrupted the most was the bank channel, which was down around 60% and if we look at
+just the month of July over June the bank channel is that's almost double. So the
+disruption that impact of that channel, the most we've seen starting to turnaround for
+financial advisors, broker-dealers and iron ores, they were down about 40%. But I think
+that the virtual sales practices that they adopted and we tended to reprice earlier than
+many companies and so I think as other companies caught up with repricing that level the
+playing field a bit. Again, what we saw following the month of June looking at July over
+June, we saw a substantial increase in sales in the pipeline is growing and our sales of
+annuities per day continue to improve. So we're pretty optimistic that if the conditions
+continue the way they are, we'll see recovery in July over June in the third quarter over
+the second. Life insurance continued to grow despite the disruption. We saw about [ph]
+4% growth in the second quarter and that trend continues, particularly our direct channel
+is performing very well and then Retirement Services, it's important to note that periodic
+premiums, which are really the backbone of that business were only down 4% in the
+second quarter and again our advisor channel is back up and focused on their customers
+and and its individual sales generally follow the retail individual retirement sales. So when
+you back that up with the fact that the pension risk transfer business and pipeline is as
+strong as we've ever seen it and we've opened up the reinsurance channel, we feel
+cautiously optimistic that second quarter will be the low watermark and our strategy will
+prevail in the third quarter and beyond recognizing all the uncertainties in the market.
+
+Bloomberg Transcript
+
+A - Brian Duperreault
+
+{BIO 1645891 <GO>}
+
+Yeah. Thanks, Kevin. Then, I'd just add, if you look at the, the opportunities seem to be
+much more in GI though. Yes, it's not as extreme as maybe the sales in the second
+quarter might have indicated, but we will move our attention, where we think that
+greatest growth and returns are occurring in right now. GI looks pretty good. So we move
+onto the next question please.
+
+Operator
+Thank you. Our next question comes from Yaron Kinar from Goldman Sachs. Please go
+ahead.
+
+Q - Yaron Kinar
+
+{BIO 17146197 <GO>}
+
+Thank you very much, couple of questions in GI. So first, can you maybe talk about how
+you're thinking of loss fix here with rates, well in excess of loss trend on the one hand, you
+also have the COVID driven favorable frequency more short term I guess on the other
+and I ask what's in the context of North America commercial loss ratio, which I guess
+improved year-over-year, but actually we can do that sequentially.
+
+A - Brian Duperreault
+
+{BIO 1645891 <GO>}
+
+Yeah, thanks. Yeah. And I think that's a Mark question, Mark?
+
+A - Mark Lyons
+
+{BIO 6494178 <GO>}
+Page 18 of 22
+
+
+
+FINAL
+
+Company N ame: American I nternational Group I nc
+Company Ticker: AI G US Equity
+Date: 2020-08-04
+
+I can certainly start. Thank you, Brian. Well, you do have a lot of forces. We were happy to
+be, I think one of the catalysts on this market and this level of increase as Peter talked
+about continue to increase in an increasing rate I think as the first statement, but you do
+have other things. We don't know the longer term impact of on many third-party and firstparty lines of COVID for example. Social inflation is more of a general upward movement
+as opposed to a lot of specifics that you can nail down and so I think there is still the
+thought amongst us and the industry that there is potential for quick moving up. I think
+there should be some back to normality between interest rates and inflation and we're
+probably heading more into an inflationary environment. So we're a little cautious on the
+fact that we're seeing this great rate increase and there's more variability, I flip it from a
+year ago where there was more variability around with kind of price increase going up.
+Now we see the magnitude of the price increases we can get and there is more variability
+of about the future look of [ph] low cost charge.
+
+Q - Yaron Kinar
+
+{BIO 17146197 <GO>}
+
+Okay.
+
+A - Brian Duperreault
+
+{BIO 1645891 <GO>}
+
+Do you have a follow-up?
+
+Bloomberg Transcript
+
+Q - Yaron Kinar
+
+{BIO 17146197 <GO>}
+
+I do. So in commercial premiums that has been growing and sounds like you're pretty
+constructive on those lines and growth there. Can you talk about the potential offset
+impact of exposure there. I think we've heard from some of your peers that exposures is
+coming in as a quite a headwind?
+
+A - Brian Duperreault
+
+{BIO 1645891 <GO>}
+
+Yeah. Peter, can you talk about exposures?
+
+A - Peter Zaffino
+
+{BIO 15942020 <GO>}
+
+Sure. Thank you Yaron for the question. I think when you think of us compared to our
+competitors, remember we don't have as much guaranteed cost business and so
+therefore, it's not a direct correlation to effect on payroll sales and that's going to result in
+a commensurate premium reduction. As we have in-force book, we have minimum
+deposits on our excess business in most cases. I think when we look to the future in terms
+of some of the changes on frequency and changes on payroll and sales, it could have a
+modest side which is what we had talked about in last quarter's call. In terms of exposure
+base for renewals and could have a slight impact on premium, but I would look to it on
+we're trying to solve issues on excess. We're deploying capital. I mean those have led to
+better risk adjusted returns because we are still coming up with similar structures. And
+while there may be a little bit of light headwinds in terms of overall exposure, it should not
+have a material impact on our premium as we look to the third and fourth quarter based
+on what we know today.
+
+A - Brian Duperreault
+
+{BIO 1645891 <GO>}
+Page 19 of 22
+
+
+
+Company N ame: American I nternational Group I nc
+Company Ticker: AI G US Equity
+Date: 2020-08-04
+
+Thank you. We've run a little late. Maybe we could take one last question. Operator.
+
+Operator
+
+FINAL
+
+Thank you. Our next question comes from Jimmy Bhullar from JP Morgan. Please go
+ahead. Your line is open
+
+Q - Jimmy Bhullar
+
+{BIO 4278955 <GO>}
+
+. On the travel insurance book. I think you wrote a little bit over $1 billion of premiums last
+year. Can you discuss how much that shrunk and whether you're seeing any sort of signs
+of a recovery in that book, either in the US or in international markets and then also on
+P&C with you having restructured your portfolio and reinsurance program, are you thinking
+about any major changes in reinsurance, as you're looking at next year given the
+hardening market there?
+
+A - Brian Duperreault
+
+{BIO 1645891 <GO>}
+
+Given the first, the first book of business that you referred to was what I didn't pick up.
+
+Q - Jimmy Bhullar
+
+{BIO 4278955 <GO>}
+
+The [ph] GI book
+
+A - Peter Zaffino
+
+{BIO 15942020 <GO>}
+
+Bloomberg Transcript
+
+(Multiple Speakers) Yeah. Got it.
+
+Q - Jimmy Bhullar
+
+{BIO 4278955 <GO>}
+
+The billion dollar book and it's shrinking. I'm just trying to get an idea on that.
+
+A - Brian Duperreault
+
+{BIO 1645891 <GO>}
+
+Thanks Jimmy. Peter. I think those are both yours.
+
+A - Peter Zaffino
+
+{BIO 15942020 <GO>}
+
+Yeah. So the first one on the travel again the second quarter, you had not only no new
+sales, you also had cancellation. So I think that that was one that was a headwind and
+contributed to the North American personal negative premium written. Yeah. As we look
+at, it's hard to predict. Again, we don't know what can happen with COVID, we don't know
+when travel is going to resume, it's less than $1 billion in North America and it's fairly
+evenly spread in terms of quarter-to-quarter. I think we would have some modest sales in
+the third quarter, probably about a third, as to what our run rate would be, but again very
+hard to predict. We think that there is a dynamic in that business, that's interesting which is
+nobody really contemplated. I think in terms of clients the CAT. And so I think there's
+going to be a re-base in terms of how we price this business what the economics are
+going forward and don't want to overreact to a quarter in terms of travel and think that it
+starts to rebalance, we think the economics will be better. But again, we'll give an update
+
+Page 20 of 22
+
+
+
+Company N ame: American I nternational Group I nc
+Company Ticker: AI G US Equity
+Date: 2020-08-04
+
+as to what it looks like in in the third quarter in terms of it if there is a rebound or not. I'm
+sorry i didn't get the second question, Jimmy,
+
+Q - Jimmy Bhullar
+
+{BIO 4278955 <GO>}
+
+FINAL
+
+It was just on reinsurance for prices going up. Are you thinking about sort of maybe
+retaining more risk or changing or insurance program in anyway.
+
+A - Peter Zaffino
+
+{BIO 15942020 <GO>}
+
+Well, we would have to trial at our virtual Monte Carlo in September, which is really where
+the kick-off is. I think we probably would have 100 meetings scheduled as AIG under
+normal conditions. I don't think that we're going to -- when we look at the reinsurance
+structures that any repositioning -- it will reflect the growth portfolio not trying say the
+market conditions are much stronger. Therefore, we're going to dump treaties because
+we always talked about the reduction of volatility, making sure we had more predictable
+outcomes and we have great partnerships that we trade across every geography and
+multiple lines of business with our reinsurance partners, but we would expect to see
+changes in our reinsurance programs that we put the excellent underwriting that we've
+been doing and the gross improvement that we've seen quarter-to-quarter. So we didn't
+have those discussions. What we have in terms of structures. I don't think there'll be
+something that materially changes, but I would expect some refinements to reflect the
+portfolio as it is today.
+
+Bloomberg Transcript
+
+A - Brian Duperreault
+
+{BIO 1645891 <GO>}
+
+Okay. Thank you, Jimmy. Thank you. Well, let me, let me just close and thank everybody
+for joining us this morning and I particularly want to thank my AIG colleagues around the
+world. I mean these last few months have really been challenging on many, many fronts,
+and I'm so grateful for your hard work and dedication on this journey we're on, and I hope
+everyone stays safe and healthy. Wear your masks. Okay, thanks everybody.
+
+Operator
+Ladies and gentlemen, this concludes today's call. Thank you for your participation, you
+may now disconnect.
+
+This transcript may not be 100 percent accurate and may contain misspellings and other
+inaccuracies. This transcript is provided "as is", without express or implied warranties of
+any kind. Bloomberg retains all rights to this transcript and provides it solely for your
+personal, non-commercial use. Bloomberg, its suppliers and third-party agents shall
+have no liability for errors in this transcript or for lost profits, losses, or direct, indirect,
+incidental, consequential, special or punitive damages in connection with the
+furnishing, performance or use of such transcript. Neither the information nor any
+opinion expressed in this transcript constitutes a solicitation of the purchase or sale of
+securities or commodities. Any opinion expressed in the transcript does not necessarily
+reflect the views of Bloomberg LP. © COPYRIGHT 2022, BLOOMBERG LP. All rights
+reserved. Any reproduction, redistribution or retransmission is expressly prohibited.
+Page 21 of 22
+
+
+
+Bloomberg Transcript
+
+FINAL
+
+Company N ame: American I nternational Group I nc
+Company Ticker: AI G US Equity
+Date: 2020-08-04
+
+Page 22 of 22
+
+

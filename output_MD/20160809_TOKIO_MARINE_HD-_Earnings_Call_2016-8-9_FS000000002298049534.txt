@@ -1,0 +1,653 @@
+Company N ame: Tokio M arine H oldings I nc
+Company Ticker: 8766 JP Equity
+Date: 2016-08-09
+
+Q1 2016 Earnings Call
+Company Participants
+FINAL
+
+Kiyoshi Wada
+
+Other Participants
+Futoshi Sasaki
+Kazuki Watanabe
+Koichi Niwa
+Masao Muraki
+Natsumu Tsujino
+Taichi Noda
+Tatsuo Majima
+
+MANAGEMENT DISCUSSION SECTION
+
+Bloomberg Transcript
+
+Operator
+Ladies and gentlemen, thank you very much for your patience, and thank you very much
+for participating in Tokio Marine Holdings FY 2016 First Quarter Financial Results
+Conference Call. Please be advised that during the presentation, all the lines other than
+the speakers' lines are put on mute. And this conference call is being recorded.
+Before we begin, let me remind you that the presentation may contain forward-looking
+statements based on the current projections and they entail risks as well as uncertainties.
+Actual results may differ from the current projections.
+With that, let us start the conference call. Mr. Wada, please.
+
+Kiyoshi Wada
+
+{BIO 19963983 <GO>}
+
+I am Kiyoshi Wada from Corporate Communications and Investor Relations Group. I would
+like to give you the overview of Tokio Marine Holdings' financial results during the first
+quarter of FY 2016, that we announced today.
+I would like to give you a presentation for the first 15 minutes or so, based on the
+PowerPoint slides uploaded on our website under Topics. After my presentation, we
+would like to entertain your questions.
+Let me start with the overview of our consolidated results on page two. Net premiums
+written were ¥894.4 billion, up by 6.3% or ¥53.1 billion year-on-year, primarily due to the
+Page 1 of 12
+
+
+
+Company N ame: Tokio M arine H oldings I nc
+Company Ticker: 8766 JP Equity
+Date: 2016-08-09
+
+FINAL
+
+contribution of newly consolidated HCC despite the appreciation of Japanese yen.
+Insurance premium, Domestic and International Life Insurance business totaled ¥215
+billion, up by ¥206.6 billion due to an increase in in-force policies and decrease in
+surrender of variable annuities. Consolidated ordinary profit went up by 1.6% or ¥2 billion
+year-on-year to ¥128 billion. Net income attributable to owners of the parent increased by
+8.7% or ¥7.7 billion over the year to ¥97.2 billion.
+I will amplify on the details about the consolidated ordinary profit later. After excluding the
+effects of provisions for cat loss reserves and amortization of goodwill associated with
+HCC consolidation, adjusted net income increased by ¥2.8 billion year-on-year to ¥125
+billion.
+Next, let us review how the consolidated ordinary profit changed from a year ago on
+page three. In the Domestic P&C business, ordinary profit of TMNF increased by ¥21.8
+billion year-on-year due to increase in underwriting profit and net investment income and
+other. Underwriting profit increased mainly due to increase of earned premiums and
+decrease in provision for cat loss reserves, while the net losses incurred by nat cat
+increased.
+
+Bloomberg Transcript
+
+As for net investment income and other, dividend from domestic subsidiaries and
+business-related equities decreased, but self-gains of securities increased.
+Ordinary profit of Nisshin Fire dropped by ¥3 billion, mainly due to increase in provision for
+underwriting reserves. As a result, ordinary profit of Domestic Non-Life in total grew by
+¥18.7 billion year-on-year. Profit of Domestic Life business increased by ¥4.4 billion yearon-year due to decrease in provision for underwriting reserves and improvement in gains
+and losses on sales of securities.
+Ordinary profit of International Insurance business declined by ¥10.3 billion year-on-year.
+So, HCC was newly consolidated to contribute to our P&L, profit declined due to stronger
+Japanese yen as well as capital losses on bonds realized by Delphi. As for consolidation
+adjustments, negative adjustment increased by ¥10.5 billion year-on-year due to an
+increase in amortization of goodwill associated with HCC consolidation.
+Next, please turn to page four to review adjusted net income. Adjusted net income is a
+group-wide KPI based on consolidated net income under J-GAAP, but compensating for
+the impact of various reserves unique to insurance business and deducting sales gains
+and losses of fixed assets in order to indicate the underlying profit and loss from our
+business operations.
+Major changes over the year in the reconciliation from net income under J-GAAP to
+adjusted net income are shown on the slide. Adjusted net income increased by ¥2.8 billion
+year-on-year to ¥125 billion. Sales of business-related equities progressed ahead of the
+annual plan, and we have already achieved approximately 32% of the full-year adjusted
+net income, which is projected to be ¥388 billion for FY 2016.
+
+Page 2 of 12
+
+
+
+Company N ame: Tokio M arine H oldings I nc
+Company Ticker: 8766 JP Equity
+Date: 2016-08-09
+
+FINAL
+
+Next, I will discuss Domestic Non-Life business on page five. This is the overview of the FY
+2016 Q1 results of TMNF. We explained in more detail about underwriting profit first. Net
+premiums written for private lines of business increased by 0.6% or ¥2.9 billion in total.
+While premium for fire business decreased due to the shortening of the contract
+durations, the number of auto policies increased and effects of the historical product and
+rate provisions came through. For more details by line of business, please refer to page
+seven later.
+Net losses incurred on the private lines of business increased by ¥11.4 billion year-on-year,
+despite the decrease in the provision for outstanding reserves for foreign currencydenominated claims, associated with the appreciation of Japanese yen. Main factors
+behind the increase in net incurred losses are described on the slide, but the biggest
+reason is the increase in nat cat losses in the commercial business due to Kumamoto
+earthquake.
+
+Bloomberg Transcript
+
+Provision for cat loss reserves decreased by ¥14.3 billion year-on-year mainly due to the
+reduction of the provision rate in the auto business. As a result, underwriting profit of a
+term under review increased by ¥16.3 billion year-on-year to ¥36.4 billion. Excluding the
+impact of cat loss reserve, underwriting profit was ¥54.1 billion, up by ¥2 billion year-onyear.
+Next. Net investment income and other. Details are described on page eight, but while
+dividend from domestic subsidiaries and business-related equities decreased, sales gains
+of securities increased. As a result, net investment income and other increased by ¥7.7
+billion to ¥78.6 billion. I would also like to note that during the first quarter, we sold
+business-related equities by approximately ¥52 billion, and the sales gains were
+approximately ¥38 billion. Based from the procurement that I explained so far, as well as
+increase in sales gains for fixed assets, all in all, we recorded a net income of ¥92 billion,
+up by ¥23 billion year-on-year.
+Next. Let me discuss combined ratio on page six. The private insurance, earned-incurred
+basis loss ratio increased by 0.9 points year-on-year to 55.4%, mainly due to an increase
+in net-incurred losses relating to natural catastrophe. The impact of natural catastrophes
+was 4.5 points per quarter compared to 1.5 points in Q1 last fiscal year. Hence, the loss
+ratio excluding the natural catastrophe impact was better year-on-year. The expense ratio
+improved by 0.4 points year-on-year to 32.2% mainly due to a decrease in personnel
+expenses. As a result, the combined ratio for private insurance on a earned-incurred basis
+increased 0.4 points year-on-year to 87.6%.
+Next, I will go through the financial results for Nisshin Fire. Please turn to page nine. For
+Nisshin Fire, although net premiums written increase driven by fire and auto insurance due
+to an increase in net provision for underwriting reserves and an increase in net incurred
+losses including natural catastrophes, underwriting profit decreased by ¥2.4 billion yearon-year to ¥1.7 billion. Net investment income decreased by ¥0.4 billion year-on-year to
+below zero due to a decrease in interest and dividends income. As a result, net income
+decreased by ¥2 billion year-on-year to ¥1.1 billion.
+
+Page 3 of 12
+
+
+
+Company N ame: Tokio M arine H oldings I nc
+Company Ticker: 8766 JP Equity
+Date: 2016-08-09
+
+FINAL
+
+Next, I will explain the results for TMNL, please turn to page 10. New policies ANP
+decreased by 15% year-on-year due to limiting the sales of long-term savings type
+products. However, excluding long-term saving type products, our core focus and the
+medium-term management plan, new policies ANP increased by 16.2% year-on-year due
+to favorable sales in third sector lines such as medical and cancer insurance. In-force
+policies ANP increased by 4.9% year-on-year due to an increase in new policies. Excluding
+the impact of variable annuities, in-force ANP increased by 11% year-on-year.
+Regarding key figures in financial accounting, as you can see on the slide, net income
+increased by ¥3.1 billion year-on-year to ¥6.2 billion due to a decrease in net provision for
+underwriting reserve as well as an improvement in gains and losses on sales of securities.
+Core operating profit increased by ¥1 billion year-on-year to ¥7.2 billion.
+Next, I'll talk about the international insurance business on page 11. Net premiums written
+for the international insurance business increased by 23% year-on-year to ¥429.5 billion
+due to contribution from HCC that has been newly consolidated from this fiscal year. By
+region, net premiums written decreased in some regions due to the appreciation of the
+yen. But on a local currency basis (13:33) recorded an uptick including Europe and Life.
+
+Bloomberg Transcript
+
+In North America, net premiums written increased by 49% due to HCC (13:45) sales and
+Philadelphia and Delphi contributing rate increases in the renewal book and an increase in
+new business. In emerging countries such as Brazil, India and Thailand, auto insurance
+sales growth continued and reinsurance increased mainly in the non-catastrophe business.
+Next, I'll talk about business unit profit for the International Insurance Business on page 12.
+Business unit profit increased by ¥2 billion year-on-year to (14:28) billion. Due to
+contributions from each business segment, progress made in Q1 compared to fiscal year
+projections came in line at 25%.
+Next, I will give details by region. America profits by ¥1.4 billion. Delphi realized capital
+losses on bonds with the aim of risk reduction. However, HCC's earnings contribution,
+Philadelphia's business profit and Delphi increased in interest and dividend income
+contributed positively. South and Central America and Asia profits decreased respectively
+by 57% and 69% due to the impact of large losses and others. Profits for Europe and
+Reinsurance on the other hand increased due to foreign exchange gains.
+Life increased mainly due to an increase of unrealized gains on bonds due to a decline in
+interest rates in Singapore and Thailand. Details for Philadelphia, Delphi and HCC are
+provided on page 13. This concludes my presentation.
+We'd now like to take any questions that you may have. Thank you.
+
+Q&A
+Operator
+
+Page 4 of 12
+
+
+
+Company N ame: Tokio M arine H oldings I nc
+Company Ticker: 8766 JP Equity
+Date: 2016-08-09
+
+Thank you very much, Mr. Wada. We would now like to open the floor for the Q&A session.
+The operator is now going to explain to the Japanese-speaking audience how to place
+questions. We thank you for your patience in advance.
+
+FINAL
+
+Once again, the operator is explaining how to place questions for Japanese-speaking
+audience. Thank you very much for your patience. The first question is from Mr. Muraki of
+Deutsche Securities.
+
+Q - Masao Muraki
+
+{BIO 3318668 <GO>}
+
+Yes. Thank you very much for this opportunity. My first question is related to TMNF on slide
+seven. The loss ratio over (17:12) business increasing. Why is that? I believe that for
+historical losses, you reflected the increase in losses incurred or the outstanding claims
+reserve. The outstanding claim reserve itself did not increase significantly. However,
+what's the background behind it and what is your outlook going forward?
+
+Bloomberg Transcript
+
+And my second question is pertaining to page 12 related to International Insurance
+Business. In your presentation, you mentioned earlier that you haven't really achieved 25%
+of projected profits for the year. And excluding the impact of nat cat losses, how much
+profit have actually achieved? I believe that you probably achieved only 22% or 23%.
+You're probably off to a slow start, if you will, for the year. So, it's my understanding
+(18:06) from this. And if it is correct, why is it the case? Why are you so? I believe the large
+losses have happened in Brazil and also in Asia. But excluding nat cat business, how is the
+profitability trending so far outside Japan?
+
+A - Operator
+Yes. My name is (18:35) from personal lines underwriting department of TMNF. Let me
+answer your first question. On year-on-year basis, the loss ratio for auto increased by
+0.7%, up in the first half of the year 2015. We exclude the outstanding claims and
+therefore, on a year-on-year basis, on earned-incurred basis, the loss ratio increased.
+And in terms of the actual trend of the loss, the claim cost is essentially trending flat for
+major lines of business. And thanks to the FX rate provisions that we have made so far,
+the actual profitability is slightly improving. And going forward, the claim cost is expected
+to be flat. And due to the factors that occurred in the fiscal year 2015, we think that the
+trend is going – the loss ratio is going to increase. And also, in the last fiscal year, in the
+first half, we made a full revision of the claims.
+And therefore, on the year-on-year basis, you're expecting loss to rather decrease. And in
+the second half of last year (19:39) damage was low and therefore, rather this fiscal year,
+the loss ratio is expected to increase. And, therefore, all we know, we don't think the
+actual loss ratio is going to deviate too much from the initial expected level for the year.
+My name is (19:52) from International Business Development Department. Let me answer
+your second question. Now, excluding nat cat losses that you have correctly pointed out,
+the actual progress rate is less than 25% so far. And the major reason behind this is that
+within Delphi Group, in order to proactively reduce risk, we have sold some bonds. As a
+Page 5 of 12
+
+
+
+Company N ame: Tokio M arine H oldings I nc
+Company Ticker: 8766 JP Equity
+Date: 2016-08-09
+
+result of that, we posted some capital losses realized. And at this point in time, we don't
+think that we need to revise our guidance as we are now seeing a major deviation from
+the initial expectation. However, the loss ratios are aggravating in emerging markets in
+particular and therefore, we will closely monitor the situation moving forward.
+
+FINAL
+
+Q - Masao Muraki
+
+{BIO 3318668 <GO>}
+
+Thank you. If it is possible, I would like you to amplify on the second rate which is the
+increase of the sales of bonds by Delphi. How much increase have you seen?
+
+A - Operator
+During the term under review, on a post-tax basis, we sold approximately ¥9 million worth
+of bonds by Delphi.
+
+Q - Masao Muraki
+
+{BIO 3318668 <GO>}
+
+Thank you.
+
+Operator
+The next person is from Daiwa Securities. Mr. Watanabe, please.
+
+Bloomberg Transcript
+
+Q - Kazuki Watanabe
+
+{BIO 15948747 <GO>}
+
+Hello. This is Watanabe. I have two questions. First one is the (21:12) impact. With regards
+to Kumamoto earthquake, how much do you think the ultimate amount is going to be?
+This is related equity.
+Related question is my second question. There was ¥52 billion in the first quarter. It seems
+that it's at a high level. And you were saying for the full year, it's more than ¥100 billion.
+So, if you – is there a possibility that you're going to exceed ¥100 billion for the full year?
+Those are my two questions.
+
+A - Operator
+It's Watanabe (21:41) from the Corporate Accounting Department. With regards to
+incurred losses really at the Kumamoto, excluding household earthquake, ultimately,
+we're expecting ¥14.1 billion.
+I'm (22:02) from Financial Planning. Let me answer your second question with regards to
+business-related equity sales. Like we've been saying, we need to negotiate with the
+company which we own. So, depending on when we reach an agreement, that amount is
+going to be decided. So, because we're following that plan, for the full year, we're
+expecting to sell down ¥100 billion as we've initially planned. So, at this point in time, we
+have no plans to change our target.
+
+Q - Kazuki Watanabe
+
+{BIO 15948747 <GO>}
+
+Page 6 of 12
+
+
+
+Company N ame: Tokio M arine H oldings I nc
+Company Ticker: 8766 JP Equity
+Date: 2016-08-09
+
+Let me ask a follow-up question. So, you were initially expecting only ¥5 billion, but it's
+exceeded that amount. So, are you going to be able to offset that with the reversal of cat
+loss reserves?
+
+FINAL
+
+A - Operator
+This is Watanabe (22:56) from Corporate Accounting. At the beginning of the year, it was
+right after the Kumamoto earthquake. Therefore, information related to damages was
+limited. So, we're looking at past earthquakes and net incurred losses from the past as a
+reference point. But there aren't many reference points and because it has its uniqueness
+in nature and we saw deviations when we looked at the actual unit prices. For the full year,
+on an ordinary basis, we were announcing ¥45 billion. At this point in time, we have no
+plans to revise it. So, for reversal of cat loss reserves, we are not depending (23:37) on
+reversing it at this moment in time.
+The next question is from Mr. Noda of Goldman Sachs.
+
+Q - Taichi Noda
+
+{BIO 16478436 <GO>}
+
+Bloomberg Transcript
+
+Yes. Thank you. I also have two questions. My first question is related to number of
+accidents reported. Earlier in January through March period, due to warm winter, you
+mentioned that it was a benign quarter. However, what is the situation since April this
+year? That is my first question.
+And second, related to ESR, I would like to know the update. I do assume that you
+probably do not have accurate number. However, I would assume that ESR suddenly
+(24:22) is declining, but is my understanding correct?
+
+A - Operator
+My name is Miniyama (24:24) from Personal Line Underwriting Department of TMNF. Let
+me answer your first question on number of accidents reported in and after April.
+Because the number of policies in-force has been increasing, the number of accidents
+reported has been increasing. However, excluding the impact of top-line growth,
+essentially, the number of accidents reported has been staying flat year-on-year.
+
+Q - Taichi Noda
+
+{BIO 16478436 <GO>}
+
+Yes. Thank you.
+
+A - Operator
+With regards to ESR, as you have (24:59) due to interest rate movement as well as the
+stock price movement, ESR also moved. This time around, we have (25:08) calculation of
+ESR. So, while we are not able to comment as to where the ESR is currently trending, I
+hope that you understand our situation.
+
+Q - Taichi Noda
+
+{BIO 16478436 <GO>}
+
+Page 7 of 12
+
+
+
+Company N ame: Tokio M arine H oldings I nc
+Company Ticker: 8766 JP Equity
+Date: 2016-08-09
+
+But perhaps to clarify, are you – I believe that you are disclosing ESR every six months as
+your policy. But, as one of the KPIs, if, for example (25:36) getting ESR, updated ESR on
+the monthly basis perhaps (25:42) management decision.
+
+FINAL
+
+A - Operator
+Of course, internally, we are checking ESR. However, we are not disclosing those ESR
+except for end of the first half and end of the full year. I hope that you understand.
+
+Q - Taichi Noda
+
+{BIO 16478436 <GO>}
+
+Okay. So, with regards to the recent ESR, it is possible that you might decide to take
+certain actions based on a more updated or recent ESR before you announce the first half
+results in November, irrespective of the communication externally?
+
+A - Operator
+As I mentioned earlier, we also do assume that the ESR has been changing. However, at
+this point in time, we don't think that the ESR has moved to the extent that that affects
+negatively our company's financial soundness.
+
+Q - Taichi Noda
+
+{BIO 16478436 <GO>}
+
+I understand very well. Thank you.
+
+Bloomberg Transcript
+
+Operator
+The next question is from JPMorgan, Ms. Tsujino please.
+
+Q - Natsumu Tsujino
+
+{BIO 2234779 <GO>}
+
+Hello. For this result reporting, Kumamoto is higher than expected. International was – you
+had Delphi. Something that wasn't anticipated before. You realized sales losses. Originally
+for Japan ¥45 billion was what you were expecting for nat cat. And ¥5 billion was related
+to Kumamoto. So, if you have wind and flood events, there is a chance that you're going
+to exceed ¥45 billion. For the first quarter, you had ¥52 billion worth of gains related to
+sales of securities. But with regards to full year expectations. First, if you believe you're
+going short, you could sell securities. Last year, you ultimately reached ¥120 billion of sales
+of securities compared to your target of ¥100 billion. So, my point is, so that you could
+achieve a higher level of sales, are you negotiating more with companies that you hold
+your shares out? That's my first question.
+With regard to Delphi, the amount you sold, how much was it? And with these sales, the
+exposure to energy or maybe – I'm not sure if the category is emerging category, but how
+less of an exposure do you have now? Were you able to cut it down by one-half ? How
+much of bonds did you have to sell in order to achieve that level? If you can give me the
+details of that, I could get a better impression if your measures were drastic or not.
+
+A - Operator
+Page 8 of 12
+
+
+
+Company N ame: Tokio M arine H oldings I nc
+Company Ticker: 8766 JP Equity
+Date: 2016-08-09
+
+FINAL
+
+(29:03) from Financial Planning. With regards to the business-related equities, then the
+sales amounts for the full year. And if we're going to increase the target, like I mentioned
+earlier, we need to do these negotiations with the companies, so we don't have a shortterm view, but a medium to long-term view. We're trying to enhance the understanding of
+that company before we make the sales. And based on that, we are proceeding with our
+plan with ¥100 billion per year target.
+So, for the fiscal year, we're negotiating based on our target of ¥100 billion. So, just
+because we are expecting to undershoot with regards to full year expectations, it doesn't
+mean we're going to try to offset that by exceeding ¥100 billion. So, our target for this
+fiscal year remains to be ¥100 billion.
+Let me answer your second question. This is Hattori (29:56) from International Business
+Development. For Delphi, for emerging country bonds and energy-related bonds, it was
+only 7% (30:06) percent. But with the sales, we were able to reduce exposure by onehalf. Unfortunately, we are refraining from announcing the actual amounts that we sold.
+
+Q - Natsumu Tsujino
+
+{BIO 2234779 <GO>}
+
+(30:23) entire portfolio, meaning the exposure is one-half ?
+
+A - Operator
+
+Bloomberg Transcript
+
+Yes. Exactly.
+
+Q - Natsumu Tsujino
+
+{BIO 2234779 <GO>}
+
+Thank you very much.
+
+Operator
+The next question is from Sasaki of Merrill Lynch Japan.
+
+Q - Futoshi Sasaki
+
+{BIO 17564798 <GO>}
+
+Yes. This is Sasaki from Merrill Lynch. I have two questions pertaining to International
+Insurance Business, first, risk reduction by Delphi. They reduced bonds. They sold bonds in
+and after March. I believe that energy and resource-related names are seeing more
+defaults in United States according to statistics. On a consolidated basis in the second
+quarter, are you expecting to see a similar either impairment or capital losses to be
+realized by Delphi? And also, looking at the current unrealized gains or losses of the
+portfolio, how large or small is it?
+And secondly, in terms of FX, the Japanese yen is becoming quite stronger. The
+Japanese yen is currently trending at ¥110 or ¥100 to $1. So, given this rate exchange, I
+believe that it has probably become more challenging for you to achieve the target. So,
+how do you assess the current FX and the achievement of plan for International Insurance
+Business this year?
+
+Page 9 of 12
+
+
+
+Company N ame: Tokio M arine H oldings I nc
+Company Ticker: 8766 JP Equity
+Date: 2016-08-09
+
+A - Operator
+
+FINAL
+
+My name is (31:43) from International Business Development Department. With regards to
+your first question on capital losses realized, we're still tallying up the latest number.
+However, as far as this company is concerned, it seems that the capital losses are
+declining and are becoming smaller.
+To your second question related to foreign exchange, with regards to net premiums
+written, in terms of sensitivity, ¥1 weakness to $1 has an impact of ¥10 billion; and to £1
+¥900 million. And also with a weaker Japanese yen by ¥1 to $1, there is an impact of ¥1.2
+billion. And for UK pound, there is an impact by ¥60 million, and we would continue to
+closely monitor the foreign exchange going forward.
+I think as of end of March, I think the rate was ¥112.6 and it's currently ¥100 to $1 or so. So,
+do you think that there could be a shortage by about ¥10 billion at the profit level? So,
+you're considering how to offset (33:09). Is that correct?
+Yes. We would consider duly, including the impact of foreign exchange toward the end of
+the first half. Thank you.
+Next person? From Tokai Tokyo (33:36) Research Center, Mr. Majima.
+
+Bloomberg Transcript
+
+Q - Tatsuo Majima
+
+{BIO 15338044 <GO>}
+
+Hello. This is Majima. Earlier you've talked about the revision of the ultimate loss ratio for
+bodily injury insurance. Is this going to be a rebound year-on-year? And for the full year,
+it's going to come down. And for the interim period, is this going to be a positive or a
+negative on your profit? I just wanted to confirm that.
+
+A - Operator
+I'm (34:15) from Personal Lines Underwriting. For this full year profits, it's not going to be a
+fluctuating factor. I was just talking about trends compared to the previous fiscal year, so
+I'm sorry if I gave you the wrong impression.
+
+Q - Tatsuo Majima
+
+{BIO 15338044 <GO>}
+
+So, one more question regarding nat cat. So, we didn't have any typhoons at all, although
+the Kumamoto earthquake occurred. Last year we did, but we didn't have now, which
+means on a natural basis (34:48) period, you should probably exceed. On a full-year
+basis, there may be snow (34:54). So, that's your outlook. So if that's the case, last fiscal
+year you made a downward revision at the interim period and you reversed it up again for
+the full year. So if you have good numbers for the interim period, what are you going to
+do?
+
+A - Operator
+This is (35:13) from the Corporate Accounting Department. For nat cat from the interim
+period onwards, it's really hard to project what's going to happen. But at this moment, we
+
+Page 10 of 12
+
+
+
+Company N ame: Tokio M arine H oldings I nc
+Company Ticker: 8766 JP Equity
+Date: 2016-08-09
+
+have no plans to change the ¥45 billion. But depending on what happens going forward,
+we may consider. But at this point in time, we can't give you a quantitative assessment of
+where things are going towards.
+
+FINAL
+
+Next question is from Mr. Niwa of SMBC Nikko Securities.
+
+Q - Koichi Niwa
+
+{BIO 5032649 <GO>}
+
+I have questions on Domestic Life business and also International business each. With
+regards to Domestic Life business, I believe you explained earlier that at TMNL in the first
+quarter vis-à-vis the full-year projection, you have achieved a very high progress rate.
+From the perspective of progress rate, how are you appreciating the actual performance
+to date of the Domestic Life business? That is my first question.
+And second, with regards to nat cat of Japan, on the definitive basis that you have known
+so far, do you see a need to change the full-year guidance? I do have an impression that
+nat cat losses turned out to be bigger than initially perhaps expected. So, what is your
+current view?
+
+A - Operator
+
+Bloomberg Transcript
+
+My name is (36:37) from Corporate Accounting and Financial Planning of TMNL. With
+regards to your first question, at the moment we have just finished first quarter of the
+year. In terms of the expenses and others, on a full-year basis, the current situations may
+not necessarily continue as this. And therefore, I'd like to refrain from making additional
+comments with regards to achievement of the full year.
+I'm from International Business Development Department. My name is (37:08). Before tax,
+we were expecting about ¥47 billion of nat cat losses outside Japan through the year. In
+the first quarter, we had ¥5.2 billion of cat (37:20) incurred by nat cat losses before tax. So
+we need to continue to monitor the situation. However, we don't see at this point in time,
+we have (37:31).
+There are no questions at this point in time. There seems to be no additional questions.
+Back to you, Mr. Wada.
+
+A - Kiyoshi Wada
+
+{BIO 19963983 <GO>}
+
+Thank you for attending Q1 fiscal 2016 telephone conference for Tokio Marine Holdings. If
+you have any additional questions or feedback for us, please don't hesitate to contact us.
+Thank you very much once again.
+
+Operator
+This concludes Tokio Marine Holdings Q1 2016 results call. Thank you for your attendance.
+Now, you can hang up your phone. Thank you.
+
+Page 11 of 12
+
+
+
+This transcript may not be 100 percent accurate and may contain misspellings and other
+inaccuracies. This transcript is provided "as is", without express or implied warranties of
+any kind. Bloomberg retains all rights to this transcript and provides it solely for your
+personal, non-commercial use. Bloomberg, its suppliers and third-party agents shall
+have no liability for errors in this transcript or for lost profits, losses, or direct, indirect,
+incidental, consequential, special or punitive damages in connection with the
+furnishing, performance or use of such transcript. Neither the information nor any
+opinion expressed in this transcript constitutes a solicitation of the purchase or sale of
+securities or commodities. Any opinion expressed in the transcript does not necessarily
+reflect the views of Bloomberg LP. © COPYRIGHT 2022, BLOOMBERG LP. All rights
+reserved. Any reproduction, redistribution or retransmission is expressly prohibited.
+
+Bloomberg Transcript
+
+FINAL
+
+Company N ame: Tokio M arine H oldings I nc
+Company Ticker: 8766 JP Equity
+Date: 2016-08-09
+
+Page 12 of 12
+
+

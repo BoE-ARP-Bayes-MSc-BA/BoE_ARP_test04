@@ -1,0 +1,1372 @@
+Company N ame: H artford Financial Services Group I nc/The
+Company Ticker: H I G US Equity
+Date: 2019-11-05
+
+Q3 2019 Earnings Call
+Company Participants
+FINAL
+
+Beth Costello, Chief Financial Officer
+Chris Swift, Chairman and Chief Executive Officer
+Doug Elliot, President
+Susan Spivak, Investor Relations
+
+Other Participants
+Amit Kumar, Analyst
+Brian Meredith, Analyst
+David Motemaden, Analyst
+Elyse Greenspan, Analyst
+Gary Ransom, Analyst
+Jimmy Bhullar, Analyst
+Mike Zaremski, Analyst
+Paul Newsome , Analyst
+Ryan Tunis , Analyst
+
+Bloomberg Transcript
+
+Yaron Kinar, Analyst
+
+Presentation
+Operator
+Good day, and welcome to Hartford Financial Services Group, Inc. Third Quarter Financial
+Results Conference Call and Webcast. All participants will be in listen-only mode.
+(Operator Instructions) After today's presentation, there will be an opportunity to ask
+questions. (Operator Instructions) Please note this event is being recorded.
+I would now like to turn the conference call over to Susan Spivak of Investor Relations. The
+floor is yours ma'am.
+
+Susan Spivak
+
+{BIO 1514699 <GO>}
+
+Thank you, and good morning and thank you for joining us today for our call and webcast
+on third quarter 2019 earnings. We reported our results yesterday afternoon and posted
+all the earnings related materials, including the 10-Q on our website. For the call today our
+speakers are Chris Swift, Chairman and CEO of The Hartford; Doug Elliot, President; and
+Beth Costello, Chief Financial Officer. Following their prepared remarks, we will have a
+Q&A period.
+
+Page 1 of 22
+
+
+
+Company N ame: H artford Financial Services Group I nc/The
+Company Ticker: H I G US Equity
+Date: 2019-11-05
+
+FINAL
+
+Just a final few comments before Chris begins. Today's call includes forward-looking
+statements as defined under the Private Securities Litigation Reform Act of 1995. These
+statements are not guarantees of future performance and actual results could be
+materially different. We do not assume any obligation to update information or forwardlooking statements provided on this call. Investors should also consider the risks and
+uncertainties that could cause actual results to differ from these statements. A detailed
+description of those risks and uncertainties can be found in our SEC filings.
+Our commentary today includes non-GAAP financial measures, explanations, and
+reconciliations of these measures to the comparable GAAP measure are included in our
+SEC filings, as well as in the news release and financial supplement. Finally, please note
+that no portion of this conference call may be reproduced or rebroadcast in any form
+without The Hartford's prior written consent. Replays of this webcast and an official
+transcript will be available on The Hartford's website for one year.
+I'll now turn the call over to Chris.
+
+Chris Swif t
+
+{BIO 3683719 <GO>}
+
+Bloomberg Transcript
+
+Good morning, and thank you for joining us today. The Hartford had an excellent quarter
+with strong financial results across all our business lines. Third quarter core earnings rose
+31% over prior year to $548 million or $1.50 per diluted share, with lower catastrophe
+losses and continued solid investment results. Our businesses are performing very well.
+Book value per diluted share, excluding AOCI was up 8% to $42.55 from year end. The
+consolidated 12-month core earnings ROE was 12.3%, an impressive result in the current
+market environment. The strong execution of our strategy is demonstrated by our
+consistent operating performance quarter-to-quarter, delivering on key integration
+milestones, and continuing to invest in our business to enhance customer experience
+inefficiency.
+Doug and Beth will cover results in more detail, but I wanted to touch briefly on a few
+items. Commercial Lines highlights in the third quarter include core earnings of $303
+million, up 14% over prior year. Solid top-line growth with and without Navigators and a
+renewal pricing rate acceleration compared to the first half of the year.
+When we announced the acquisition of Navigators more than a year ago, an important
+part of our strategy was to broaden our underwriting in product capabilities as a Global
+Specialty player, and added benefit was the expansion of our distribution relationships
+into the wholesale channel to serve more risk needs of customers. Nearly six months of
+past since we've closed the Navigators transaction.
+The progress to-date is on track and I'm very pleased with the collaboration amongst the
+teams and the positive reception from distribution partners. Our book is benefiting from
+the strong pricing tailwinds in the market, providing the opportunity to restore certain
+product lines within Global Specialty to targeted financial returns.
+
+Page 2 of 22
+
+
+
+Company N ame: H artford Financial Services Group I nc/The
+Company Ticker: H I G US Equity
+Date: 2019-11-05
+
+FINAL
+
+Personal Lines core earnings were $87 million, up 85% benefiting from lower catastrophe
+losses and favorable prior year development. While up slightly from prior year, the
+underlying combined ratio of 92.3 for Personal Lines was a strong result. Our primary
+focus in this business has been returning to growth, with new business up 34% in the
+quarter.
+Overall, net favorable reserve development for Property & Casualty was $47 million in the
+quarter. They were both favorable and unfavorable development in various lines. Our
+experienced actuarial and claims teams have demonstrated the ability to identify
+emerging trends within our data, which is used to update our estimates each quarter.
+Overall, I am confident in our loss reserve estimates.
+Group Benefits delivered another excellent quarter with core earnings of $141 million, up
+38%. The increase versus prior year was driven by favorable loss ratio, higher net
+investment income and lower amortization of intangibles. This was partially offset by
+increased investments in technology, claims management, and higher commissions
+related to our voluntary products.
+
+Bloomberg Transcript
+
+The total loss ratio improved 4.4 points, driven by favorable disability results, partially
+offset by a deterioration in the life loss ratio. The improvement in the disability continues
+to come from favorable incidence trends. Results also benefited from updates to our
+claim recovery assumptions and the recognition of an experience refund related to New
+York Paid Family Leave product or accident year 2018.
+In Group Life, severity was elevated in the quarter. However, we don't see any consistent
+trend other than normal volatility. On the top line fully insured ongoing premiums were just
+off slightly versus prior year. Persistency is running slightly below historical trends, as we
+adjust pricing on targeted segments of the Aetna book. Importantly earned premium on
+the Aetna book of business is in line with our deal assumptions and conversions of cases
+continues to go very well from both a platform and pricing perspective. Overall, we are
+very pleased with the operational execution and financial performance of Group Benefits.
+Before I turn the call over to Doug, I wanted to make a few comments on the macro
+environment. The Property & Casualty industry is facing a number of challenges that have
+been well documented. Net investment income is under pressure and what is likely a
+prolonged period of low interest rates, affecting new money in overall portfolio yields.
+The frequency of severe weather related storms, as well as other catastrophic events
+such as wildfires are elevated, pressuring rates to keep up with CAT trends. Social
+inflation related to larger claim settlements continue to put pressure on loss cost trends.
+However, social inflation is not a new phenomenon. We have been monitoring these
+trends for years, taking the appropriate actions to ensure our pricing models in
+underwriting reflect these realities.
+To conclude, with one quarter left in the year, our experience through the first-nine
+months is generally consistent with the outlook we provided with no major surprises. The
+successful integration and execution of our two recent transactions, strong financial
+Page 3 of 22
+
+
+
+Company N ame: H artford Financial Services Group I nc/The
+Company Ticker: H I G US Equity
+Date: 2019-11-05
+
+results, and capital management demonstrate our strategy is working. It is an exciting
+time at The Hartford for all our stakeholders, customers, employees, distribution partners,
+and shareholders. I am confident in our ability to produce consistent results contributing to
+shareholder value creation.
+
+FINAL
+
+Now I'll turn the call over to Doug.
+
+Doug Elliot
+
+{BIO 3700927 <GO>}
+
+Thank you, Chris and good morning, everyone. The Hartford's Property & Casualty results
+for the quarter were strong. Top line growth was fueled by the Navigators acquisition,
+while underlying organic growth in commercial lines was a solid 4%. In Personal Lines, new
+business growth is up significantly from third quarter 2018, but is moderated from earlier
+in the year. We're pleased with the underlying returns across all of our Property & Casualty
+businesses as each continues to execute effectively.
+
+Bloomberg Transcript
+
+It was a relatively benign quarter for catastrophes, as losses were well below third quarter
+2018. Current year CAT losses in the quarter totaled $106 million, $63 million less than a
+year ago. In aggregate, Property & Casualty reported favorable prior year development
+of $47 million this quarter. Improving severity trends across workers' compensation, small
+commercial package business, and personal lines auto all drove favorable reserve
+releases. Partially offsetting these releases was reserve strengthening in commercial auto
+liability, and general liability driven by some large loss activity.
+As Chris has already mentioned, there's been a fair amount of commentary during the
+quarter regarding social inflation and we're certainly not immune to these unfavorable
+(inaudible) trends. However, keep in mind, our Hartford book is made up primarily of
+smaller customers with lower limit profiles. In addition, the adverse development cover
+we purchased on the Navigators loss development provides another layer of protection.
+Over the past few years, while we've observed higher loss trends, we've also adjusted
+general liability and commercial auto reserves accordingly. At the same time, we've made
+underwriting and pricing adjustments to our book in response to these trends. We actively
+monitor these trends and we'll continue to take appropriate actions as necessary.
+Let me now shift into the results for our business segments. The underlying combined
+ratio for Commercial Lines which excludes catastrophes and prior year development was
+93.9, deteriorating 0.2 point from last year, but a strong performance nonetheless. As
+expected, the Navigators book generated approximately 1 point of increase on the
+combined ratio. This was partially offset by favorable non-CAT property results.
+I'm encouraged by the pricing environment in the quarter. Our renewal written pricing in
+standard Commercial Lines was 2.8%, up 40 basis points sequentially from second
+quarter and up 90 basis points from prior year. This positive pricing change remain
+somewhat depressed by the current workers compensation pricing environment.
+
+Page 4 of 22
+
+
+
+Company N ame: H artford Financial Services Group I nc/The
+Company Ticker: H I G US Equity
+Date: 2019-11-05
+
+Bloomberg Transcript
+
+FINAL
+
+Middle market pricing, excluding workers' compensation was 5.6% in the quarter, up 130
+basis points from second quarter and up a 180 basis points from the prior year. This
+strong improvement reflects the rate actions we're taking across our core lines. Given
+industry loss trends and operating performance in these non-workers' compensation
+lines, I expect this pricing trend to persist.
+Let's now take a look inside our Commercial Lines business units. Small Commercial
+continued its excellent performance with an underlying combined ratio of 87.9. The margin
+improvement versus last year was driven primarily by lower non-CAT property losses and
+lower underwriting expenses. Written premium was flat to prior year due to renewal
+written pricing, decreases in workers' compensation, and the completion of the new
+business rollover from the foremost renewal rights transaction. Excluding foremost, new
+business premium growth was up a very strong 13% for the quarter, driven by workers'
+compensation and package business.
+We expect continued new business growth to come from the launch of our nextgeneration package offering we call Spectrum. This is much more than just a new product
+release, with this modular policy and the enhanced platform that supports it. We've taken
+our industry-leading capabilities to a new level making buying small business insurance
+easier than ever. A consumer buying small business insurance from The Hartford now
+receives tailored recommendations for their coverage or the ability to customize their
+own. Their agent is able to view real-time pricing much the same way and online retail
+shopper can see a running total of the costs of products placed in their cart. As of today,
+we're live in 32 states and we'll be in 45 by year-end. We are already seeing increases in
+quotes, an additional, optional covered selections. This game-changing product launch
+only adds to our excitement about our long-term prospects for growth in this segment.
+In Middle & Large Commercial, the underlying combined ratio of 99.6 improved 1.6 points
+from 2018, driven primarily by lower non-CAT property losses. Notably inland marine
+losses, which were elevated in the second quarter have moderated. Written premium was
+up 12% over last year, due in part to the addition of certain legacy Navigator businesses
+within Middle & Large Commercial. EX-Navigators written premium was up 7% with strong
+production in national accounts, large property and programs as well as in verticals such
+as construction and energy. We're achieving rate increases across Middle & Large
+Commercial. Our property and auto rate increases are up sequentially in the quarter over
+100 basis points with liability not far behind.
+In Global Specialty, the underlying combined ratio of 96.2 deteriorated 6.4 points,
+primarily the result of including the Navigators book this quarter. Since the acquisition,
+we've been aggressively re-underwriting and repricing portions of the Navigators book. In
+the third quarter, we achieved double-digit rate increases on both the Navigators US and
+international business, where significant rate acceleration during the quarter and since the
+first quarter of this year.
+In the US, we achieved strong underwriting results in our management and professional
+liability and surety lines. We're also pleased with both renewal pricing and new business
+generation from our wholesale distribution channel in the US. In international, we've taken
+significant actions to address two plus years of sub par returns in our Lloyd's syndicate
+Page 5 of 22
+
+
+
+Company N ame: H artford Financial Services Group I nc/The
+Company Ticker: H I G US Equity
+Date: 2019-11-05
+
+FINAL
+
+and London market portfolio. In addition to the aggressive pricing actions we're taking on
+this book, we've exited certain underperforming lines and reduced significantly the
+number of binders, MGAs and line slips across the portfolio. We've also materially reduce
+the overall limits deployed in several lines including D&O, E&O and Casualty.
+Our Global Specialty team is off to a terrific start. They are actively addressing
+opportunities in the book, as well as taking advantage of favorable market conditions
+where appropriate. Integration efforts continue, including expertise, sharing and data
+science, technology, product design, claim and many other areas. Executing across core
+risk functions will play an important role in improving the financial performance of this
+business. We fully expect Global Specialty to be a significant contributor to commercials
+premium growth as profit returns to target return levels.
+
+Bloomberg Transcript
+
+Moving to Personal Lines. The underlying combined ratio of 92.3 deteriorated 50 basis
+points from the third quarter of 2018, but still a very good overall results. The expense
+ratio increased nearly 1 point due to the impact of lower earned premium, while the loss
+ratio improved 40 basis points. The loss ratio improvement is reflected in both our auto
+and homeowner results driven by earned pricing increases and non-CAT homeowners
+experience. New business growth was up 34% compared to prior year. This was another
+positive new business quarter as marketing spend and product adjustments continue to
+gain traction.
+In AARP Direct to auto, our critical production levers, including flow, close ratios, and new
+sales, all improved compared to prior year. Importantly, we're pleased with the underlying
+profile of this growth and encouraged by the improving trends. Despite continued strong
+improvement in direct new business growth, total written premium was down 4%, though
+we've made progress to improve the profitability of our ERP book more work is needed
+on retention and new business to return to positive growth.
+In summary, this was a very strong quarter across our Property & Casualty businesses,
+We're executing effectively against our plans while responding to loss cost trends and
+competitive market dynamics. We're taken appropriate pricing actions and making
+disciplined underwriting decisions. This is driving clear progress in lines and accounts that
+need to improve overall profitability.
+Meanwhile, we remain extremely encouraged by the product breadth and depth of the
+underwriting talent that the Navigators acquisition is contributing and we're already seeing
+the impact of these additions in our businesses and with our distribution partners. The
+positive progress on key milestones drive my bullish outlook on our future. I look forward
+to updating you all in another 90 days.
+Let me now turn the call over to Beth.
+
+Beth Costello
+
+{BIO 15349374 <GO>}
+
+Thank you, Doug. Today, I'm going to cover third quarter results for the investment
+portfolio Hartford Funds and Corporate and provide an update on capital management.
+Page 6 of 22
+
+
+
+Company N ame: H artford Financial Services Group I nc/The
+Company Ticker: H I G US Equity
+Date: 2019-11-05
+
+FINAL
+
+Our investment portfolio continues to perform very well, with strong limited partnership
+returns and generally stable investment yields. Net investment income was $490 million
+for the quarter, up $46 million or 10% from the prior year. Excluding Navigators net
+investment income was $462 million or 4% higher than the prior year. The annualized
+limited partnership return was 15.3% in the quarter due to higher valuations on underlying
+funds.
+Lower interest rates and tighter credit spreads increased net unrealized gains on fixed
+maturities after tax to $1.8 billion at September 30, up from $1.4 billion at June 30.
+Unrealized and realized gains on equity securities classified and realized capital gains in
+the income statement were $19 million before tax in the quarter and a $181 million before
+tax through September 30. The credit performance of the investment portfolio remains
+very strong. Net impairments in the quarter totaled $1 million, flat with third quarter 2018.
+
+Bloomberg Transcript
+
+Given the increasing likelihood of sustained low interest rate, I wanted to touch on how
+we manage the portfolio in this environment and the impact of the portfolio yield due to
+lower rates. We have a broad range of investment capabilities and a well-diversified
+portfolio. Our strategy does not pursue lower credit quality for the purpose of making up
+for lower yields and we will continue to invest in a diversified manner. For the quarter, our
+current yield before tax excluding limited partnerships was 3.6% equating to $425 million.
+Taking into consideration potential lower reinvestment rates projected using the forward
+curve, we could see the portfolio yield excluding limited partnerships declined by close to
+10 basis points in 2020 reducing the quarterly run rate of net investment income by
+approximately $10 million before tax.
+Turning to Hartford Funds. Core earnings of $39 million were down 5% from last year, but
+up $1 million sequentially. Daily average AUM rose 2% from second quarter 2019, reflecting
+strong market performance, partially offset by net outflows. Investment performance
+remains very strong. As of September 30, about 70% of Hartford Funds outperformed
+peers on a one, three and five year basis. Corporate core losses of $37 million improved
+by $8 million from third quarter 2018. The principal driver of the improvement this quarter
+was $11 million of income after tax from our retained equity interest in Talcott compared to
+$1 million in third quarter 2018.
+During the quarter, we continued to repurchase shares. Year-to-date through November 1,
+we have repurchased 2.2 million shares for $126 million. With strong capital generation and
+financial flexibility, we are pleased to be able to both invest in our businesses and return
+capital to shareholders. During the third quarter, we issued $1.4 billion of debt comprised
+of $600 million, 10-year 2.8% senior notes and $800 million 30-year 3.6% senior notes.
+We used the proceeds to redeem approximately $1.65 billion of debt with a weighted
+average coupon of 5.3%.
+The redemption resulted in a loss on extinguishment of debt of $90 million before tax.
+We continue to plan to repay our $500 million, 5.5% senior notes maturing in March 2020,
+which will put us in line with our leverage targets. Book value per diluted share, excluding
+AOCI was $42.55, up 8% year-to-date and 9% at September 30, 2018. Core earnings
+ROE over the last 12 months was 12.3%, well in excess of our cost of equity capital.
+
+Page 7 of 22
+
+
+
+Company N ame: H artford Financial Services Group I nc/The
+Company Ticker: H I G US Equity
+Date: 2019-11-05
+
+FINAL
+
+A few other items to comment on before I close. We have included disclosure in the 10-Q
+about the potential for subrogation recoveries from PG&E related to losses incurred
+uncertain 2017 and 2018 California wildfires. Given uncertainties with respect to approval
+of the PG&E bankruptcy plan, we have not recognized any subrogation recoveries to date.
+Based on subrogation claims submitted by all insurers to PG&E and the terms of the
+proposed settlement, which is contingent upon approval of the bankruptcy plan.
+We would expect gross subrogation recoveries to be approximately $325 million,
+although the actual amount we collect to subject to uncertainty. The first $116 million of any
+such subrogation recoveries would reduce reinsurance recoverables we have recorded
+under our CAT Reinsurance Treaties. Accordingly any benefit to income would be for
+subrogation recoveries in excess of $116 million.
+
+Bloomberg Transcript
+
+Turning to fourth quarter, it has already been an active quarter for catastrophe related
+events. Our budget forecast in the fourth quarter is approximately $80 million pre-tax.
+Before considering any losses from the current California wildfires, we are approaching
+$80 million of catastrophe losses in the month of October, including losses from
+tornadoes in the Dallas area and other wind events. While it is still too early to make an
+estimate of losses we may incur from the current California wildfires, we are monitoring
+the fires closely in the areas we have ensured properties and businesses at risk.
+As a reminder, in the fourth quarter, we will complete our annual study of a spasticity
+environmental reserves. Under the adverse development cover we purchased in 2016, we
+have $977 million of remaining coverage available for increases in these reserves. Also we
+did not seen any additional net loss reserves in the third quarter to our adverse
+development cover for Navigators. So we continue to have $209 million of coverage
+available on that book of business.
+To summarize, the execution of our strategy is generating strong results across our
+business lines. The integration of Navigators is on track and we look forward to continuing
+to update you on our progress.
+I'll now turn the call over to Susan, so we can begin the Q&A session.
+
+Susan Spivak
+
+{BIO 1514699 <GO>}
+
+Thank you, Beth. We have about 30 minutes for questions. Operator, can you please
+repeat the instructions for asking a question.
+
+Questions And Answers
+Operator
+Yes. We're through. We will now begin the question-and-answer session. (Operator
+Instructions) And the first question we have -- will come from Elyse Greenspan of Wells
+Fargo. Please go ahead.
+
+Page 8 of 22
+
+
+
+Company N ame: H artford Financial Services Group I nc/The
+Company Ticker: H I G US Equity
+Date: 2019-11-05
+
+FINAL
+
+Q - Elyse Greenspan
+
+{BIO 17263315 <GO>}
+
+Good morning. First off on that I do, the -- appreciate the new kind of streamline
+disclosure within the press release that was helpful this quarter. My first question for you is
+on capital. Just following up on some of your prepared remarks, it seems like you guys
+got the majority of the tax attributes you are expecting this year as of the end of the third
+quarter, just looking at the 10-Q disclosure. So I just -- I wanted to walk through that and
+get a sense of share repurchases for the fourth quarter. And then for next year on the
+capital side is, could you just give us a sense of the dividends, you could upstream from
+the P&C subs in 2020 and also there is any change in the tax attributes you expect as
+well?
+
+A - Beth Costello
+
+{BIO 15349374 <GO>}
+
+Bloomberg Transcript
+
+Sure. So first of all, thank you for the comment on the press release. I'm glad that you like
+the new format. So yes, as it relates to holding company cash. I would say overall, we're
+on track with what we expected at the beginning of the year. Yes. The timing of the tax
+benefit we received from our AMT refunds did come in a little bit earlier than we
+anticipated, but we were anticipating that this year. So we took all of that into
+consideration as we have projected sort of our view of share repurchases over the course
+of this year and into next year. And we continue to target for this year about a total of
+$200 million in share repurchases and then the remainder of our $1 billion authorization
+would be used in 2020.
+As it relates to then dividend streams as we go into 2020 again, as a reminder, we did
+not take any net dividends from P&C in 2019. But we do anticipate going back to our
+normal cadence in 2020. As we've talked about in the past, we see dividends sort of in
+the $850 million to $900 million range. Obviously, it will depend on actual results from our
+Group Benefits business. We're typically in the 300 to 350 range obviously results in
+Group Benefits have been very strong. So we've seen some increases in those dividends
+through the years. And then mutual funds usually is in that $100 million to $125 million.
+And then we do still have some remaining tax benefits that we would expect to receive in
+2020. So when we look at 2019, we're probably a little bit over $700 million in tax benefits
+that will come through. And as we look to 2020, we'd be just slightly under $600 million.
+So again, very much in line with what we have laid out previously. And then again, I'll just
+remind you, as I said in my prepared remarks, we do still anticipate paying our maturing
+debt of $500 million in March of 2020.
+
+Q - Elyse Greenspan
+
+{BIO 17263315 <GO>}
+
+Thanks. That's very helpful. And then my second question, if we want to kind of keep track
+of how Navigators is trending, you guys highlighted some earnings projections for that
+business going a couple of years out, so I'm just trying to get a sense. Can you kind of set
+the stage or give us a sense how much earnings came through in the quarter or is the
+best way for us to really look at the Global Specialty margin to get a sense of how
+Navigators is tracking?
+
+A - Chris Swif t
+
+{BIO 3683719 <GO>}
+Page 9 of 22
+
+
+
+FINAL
+
+Company N ame: H artford Financial Services Group I nc/The
+Company Ticker: H I G US Equity
+Date: 2019-11-05
+
+Elyse, thank you for your question. I would say what we've commented upon in the past as
+far as our goals, it related to the financial performance of Navigators are really
+unchanged. I think we did say that the slope of it might be slightly different and the
+components might be slightly different, but we still see a path to earning $200 million of
+core earnings prior to amortization of intangibles in that four year to five year period of
+time and still excited, obviously there's a lot of rate have been taken in the specialty
+space broadly defined, but Doug, that's what I would say over the long term, but what
+would you say in the near term?
+
+A - Doug Elliot
+
+{BIO 3700927 <GO>}
+
+Just add that this quarter, we made very few adjustments to the prior Navigators loss
+ratios across their lines either prior year or in the current action year. We tweak auto
+liability slightly in the quarter, but other than that Beth, it was a pretty quiet quarter relative
+to actuarial assumptions.
+
+Q - Elyse Greenspan
+
+{BIO 17263315 <GO>}
+
+Okay. And then can you give us a sense of the rate that you're getting just within their
+book of business.
+
+Bloomberg Transcript
+
+A - Chris Swif t
+
+{BIO 3683719 <GO>}
+
+Yeah. I mentioned in my commentary Elyse that it was double digits. And in the quarter,
+essentially the US book was right on top of 10. Internationally, they were getting closer to
+16 and when you put the two together, we're tuck-in 12-ish -- 11 to 12 points of price. I also
+said that it was accelerating in the quarter. So we're quite pleased about that as you think
+about the run rate July through September. And in early peak of October keeps me
+optimistic, October, it looks a lot like September. So I think we're off to a really good start.
+I'm very pleased with progress, Vince's team working hard to change the outcomes here.
+
+Q - Elyse Greenspan
+
+{BIO 17263315 <GO>}
+
+Okay. Thank you very much. I appreciate the color.
+
+Operator
+Next, we have Paul Newsome of Sandler O'Neill.
+
+Q - Paul Newsome
+
+{BIO 1541286 <GO>}
+
+Good morning. Thanks for the call. I was hoping you could weigh in a little bit more on
+some of the auto trends that we have seen it other companies both the commercial auto
+trend and the severity in frequency seems to be a little bit different by company and kind
+of how you vary that? What are your experiences have and so why you think its behind it?
+And then sort of second question, the football with the private passenger and they ask
+kind of the same questions about frequency and severity, all states saw a little bit of a
+spike in their frequency for physical damage and I don't know if you've seen the same
+thing, but anyway those are my two questions.
+
+Page 10 of 22
+
+
+
+Company N ame: H artford Financial Services Group I nc/The
+Company Ticker: H I G US Equity
+Date: 2019-11-05
+
+A - Doug Elliot
+
+{BIO 3700927 <GO>}
+
+FINAL
+
+And Paul, let me just clarify Personal and Commercial both you want me to, -- okay. Let's
+start with personal. We continue to be pleased by the trends we see in our Personal Lines
+auto book, frequency has been in good shape for several quarters now. And severity
+were mindful of collision severity, but essentially our loss trends are within our
+expectations and feel good about progress in overall performance of the personal line's
+auto line.
+In Commercial, bit of a different story in the sense that our small commercial book much
+smaller vehicle, we've been working right now for five years to six years, we have
+transformed that book, we're essentially not a monoline player except in certain
+circumstances. Improvement there, but more improvement necessary in the commercial
+auto small commercial space. In the middle, again, this is not especially auto sector. This is
+essentially commercial auto fleets attached to our middle market accounts, slightly
+heavier than small commercial. We also have been chasing rate here over the last six
+years to seven years. We've made progress, but not at all acceptable relative to our
+operating performance in the line today.
+
+Bloomberg Transcript
+
+So we continue to make underwriting adjustments. We will continue to work hard on rate.
+Very pleased that our rate was up over 10 points in Q3 and auto. We'll continue to work at
+that in Q4 and into 2020. When I think about loss trend, they look to us like they are in the
+mid-single digits maybe plus a little bit in that 5 to 6 -- 6.5 range commercial auto. We're
+mindful that which means our pricing needs to be on top of that plus some to make
+appreciable progress in combined ratio. Chris or Beth anything?
+
+Q - Paul Newsome
+
+{BIO 1541286 <GO>}
+
+Do you have any particularly theory about the commercial business. It might be different
+from other folks about why we're seeing this a very trend and whether or not it's
+deteriorating [ph]?
+
+A - Doug Elliot
+
+{BIO 3700927 <GO>}
+
+I would just offer that our book of business on the Commercial side, EX-NAV is largely
+primary auto. So we're not a significant player in the excess space. I do think the excess
+layers have had some pressure over the past three years, four years. Navigators has an
+especially auto book. We're very mindful that. We're working closely with them, sharing
+our trends, working actuarial assumptions et cetera, and taking quite a bit of rate there.
+So our rate change in the Navigator auto book is substantial. But I don't have any greater
+insight, because I don't have insight into other competitor books like I do our own.
+
+Q - Paul Newsome
+
+{BIO 1541286 <GO>}
+
+Thanks. Congratulations to the quarter. Thank you.
+
+A - Doug Elliot
+
+{BIO 3700927 <GO>}
+
+Thanks, Paul.
+
+Page 11 of 22
+
+
+
+Company N ame: H artford Financial Services Group I nc/The
+Company Ticker: H I G US Equity
+Date: 2019-11-05
+
+Operator
+Next, we have Brian Meredith of UBS.
+
+FINAL
+
+Q - Brian Meredith
+
+{BIO 3108204 <GO>}
+
+Yeah. Thanks. A couple of quick ones here. First, I'm just curious in the Commercial Lines
+segment, the expense ratio declined year-over-year only around 17% growth G&A
+expenses I expected to be a little bit higher than that. Was there anything unusual there?
+Or is that a decent run rate with respect to kind of G&A expense growth and what we're
+seeing with the expense ratio?
+
+A - Chris Swif t
+
+{BIO 3683719 <GO>}
+
+Bloomberg Transcript
+
+Yeah. Good question, Brian. And there are some thing is happening in both Q2 and Q3
+that make that compare a little bit challenging. So let me do my best unpack it. In Q3
+quarter, we actually had some credits that ran through from taxes, licenses and fees and
+also some bad debt credits. And when you kind of laser them and you basically get a
+quarterly expense ratio more like 34.5. In Q2, we had some one-timers that put some
+upward pressure on the expense.
+And I'd also point out to you, as the Navigators book comes into our expense ratios as a
+typical specialty company sometimes have -- they've got slightly higher expense base. So
+between the US and certainly the international, there is a little bit of inflation on the
+expense coming in from NAV that we work our way through over the next couple of years
+as we earn our way toward those profit targets we've talked about. So I look at the run
+rate Q3 more in the 34.5 range I think that's kind of where we'll be Q4 as I look out.
+
+Q - Brian Meredith
+
+{BIO 3108204 <GO>}
+
+Great. Thanks. And then my second question in the Small Commercial area, you talked
+about how it's a little bit more insulated from the social inflation environment given the
+kind of limits profile of that business. I'm curious, have you seen any increasing
+competition in that area as a result of what's going on in the loss cost inflation
+environment?
+
+A - Chris Swif t
+
+{BIO 3683719 <GO>}
+
+Yeah. Brian, this is Doug. Here we respond to -- I would say, again across many of our
+businesses, there is always competitive pressure. There is new entrants. There's FinTech
+related or insured tech-related activities, but I wouldn't say it's rapidly changing in a more
+competitive environment where everyone is piling in, I would say when heard us talk about
+this before, we have a 30-year history here with a lot of data, a lot of capabilities, a lot of
+deep trusted agent relationships that does provide an element of advantage to us, but
+we are really tuned in on the emerging trends and our own mindset of, what do we need
+to do to continue to get better every day. What do we need to continue to differentiate
+ourselves as one of the top go-to-market, so that's our mindset. And Doug, if you would
+add anything?
+
+Page 12 of 22
+
+
+
+Company N ame: H artford Financial Services Group I nc/The
+Company Ticker: H I G US Equity
+Date: 2019-11-05
+
+FINAL
+
+A - Doug Elliot
+
+{BIO 3700927 <GO>}
+
+Yeah. So maybe just a couple of comments about our new Spectrum and then comments
+on what we've been working on the last couple of years, so very excited Brian about this
+launch of NextGen Spectrum. We've been kind of in the design and building stage for a
+couple of years now, and I think it's going to be a terrific product in the market much in the
+way. The digital experiences that we're all used to on our personalized because of that
+launch we've been laser-focused these last couple of years to get our rate adequacy on
+our spectrum product where they need to be because it's very difficult, if your profit
+challenge in the current line and then go to launch new product.
+So as we think about loss trends over these last couple of years, we've continued to
+make sure we're on top of those trends with pricing. We see liability trends in that
+spectrum area, still in the mid-single digits and our pricing has been matching that over
+time and we feel good about our balance sheet in terms of the reserves that are
+recorded on our ledger. So yes, we've been very focused on loss trends here I think good
+progress and now exciting that we launch our new effort into the latter half of 2019 into
+2020.
+
+Q - Brian Meredith
+
+{BIO 3108204 <GO>}
+
+Great. Thank you.
+
+Operator
+
+Bloomberg Transcript
+
+Next, we have Jimmy Bhullar of JP Morgan.
+
+Q - Jimmy Bhullar
+
+{BIO 4278955 <GO>}
+
+Hi. Good morning. I've a couple of questions for Doug. And first on commercial lines. How
+do you think about your ability to take advantage of improving pricing in the overall
+market, especially given that you've got a big exposure to workers' comp where prices
+are actually obviously under pressure?
+
+A - Doug Elliot
+
+{BIO 3700927 <GO>}
+
+Well, we're optimistic that our non-workers' compensation pricing continues to improve,
+as I suggested that certainly that was the case in Q3. And I expect that to continue into
+Q4. Yes. We recognized we have some headwinds on the workers' comp environment, I
+would again point out the profitability of the books is excellent particularly small
+commercial. So we're mindful of those headwinds and navigating in the middle account by
+account and being thoughtful about class selection and state and geography and small
+commercial. So yeah, it is a tale of two where we're working hard to improve our core
+pricing, while we understand it's a very competitive workers' comp dynamic that matters
+greatly to us.
+
+Q - Jimmy Bhullar
+
+{BIO 4278955 <GO>}
+
+And then on Personal Lines, I think you would hope that at some point over the next few
+quarters, you'll start to see stabilizing premiums and maybe an improvement in
+Page 13 of 22
+
+
+
+Company N ame: H artford Financial Services Group I nc/The
+Company Ticker: H I G US Equity
+Date: 2019-11-05
+
+premiums, but it seems like more and more companies are sort of shifting their focus
+from reviving margins to accelerating growth just comments on competition whether it's
+still rational and your expectation of when you can sort of get to flat to positive premium
+growth in that market?
+
+FINAL
+
+A - Chris Swif t
+
+{BIO 3683719 <GO>}
+
+Jimmy, obviously we're not going to give any guidance or specific drivers, but the overall
+focus is both Doug and I've comments upon has been growth orientation. But you are
+right, I mean it's a dynamic marketplace just because we want to grow and there's a lot of
+other competitors that are shifting to that same mindset.
+So, the trick in that environment, at least in my judgment is going to remain disciplined.
+You got, again, segment appropriately your new business by states or territories that
+makes sense for you compared to where your pricing is and the team is executing very
+well. It's just we're getting the responses just not converting as many new business
+opportunities as feasible, but Doug, that's what I would say?
+
+A - Doug Elliot
+
+{BIO 3700927 <GO>}
+
+Bloomberg Transcript
+
+Yeah. I agree Chris. And I think we laid out in the supplement, you can see we've made
+very good progress on the retention front. So I think there's a little more work to be done
+there and I think there is a little bit more left. And then absolutely, we are focused on
+adjusting and thinking carefully about what we do on the new business front because we
+want to raise those levels new business successes.
+
+Q - Jimmy Bhullar
+
+{BIO 4278955 <GO>}
+
+Okay. Thank you.
+
+Operator
+Next, we have Ryan Tunis of Autonomous Research.
+
+Q - Ryan Tunis
+
+{BIO 16502263 <GO>}
+
+Hey, thanks. Good morning. First question for Doug on, I guess keep it here on
+commercial auto and just thinking about, it seems like over the past call, half decade.
+We've been talking about commercial auto reserve development, and it seems like we've
+been talking about are probably more Hartford than a lot of competitors, maybe not so
+much over the past year, but I'd just be curious to maybe hear your thoughts on the
+extent to which maybe you feel like you got ahead of some of these trends maybe in '15,
+'16 and '17? And to the extend that you're seeing something new, what is new in this 2019
+environment that you potentially had reserve for contemplated prior to this?
+
+A - Doug Elliot
+
+{BIO 3700927 <GO>}
+
+Ryan, thanks. Let's just start on the quarter and then I do want to comment, because I
+think you're onto something relative to the prior trends. So in this quarter, we made an
+adjustment to our prior year development based on some large losses we had seen in
+Page 14 of 22
+
+
+
+Company N ame: H artford Financial Services Group I nc/The
+Company Ticker: H I G US Equity
+Date: 2019-11-05
+
+FINAL
+
+our national account book, so it's largely national accounts. I would say almost all national
+accounts 80% of the change is national accounts. And it's something that we had not
+adjusted in the -- last several years, so really exclusively our National book.
+If you go back over five years to six years correctly stated, we have been adjusting auto. I
+would say back in the '12, '13 time period, we had a broader specialty auto book
+transportation vehicles that caused some of the adjustment and actually raised our
+attention to this commercial auto dynamic that we've been working hard on for five years
+or six years. So I would agree with you. If you've looked at what we've done in the
+commercial auto space on our reserves and our current actual year underwriting and
+pricing. This has been an ongoing work in process for us. We did some tuning in the
+quarter, but more importantly, we continue to leverage the findings in our book of
+business to do the best job we can and underwriting a profitability book going forward
+and we're sharing them with Navigators as we come together.
+
+Q - Ryan Tunis
+
+{BIO 16502263 <GO>}
+
+Perfect. And then, then maybe for Chris. Chris just on Group Benefits are we seeing some
+very favorable trends there? And I guess what surprises of P&C analysts, how well pricing
+seems to hold up? So I'm curious, in your view, how does the pricing cycle kind of work for
+Group Benefit? Are you seeing more competition there, what insulates Group Benefits
+from seeing I guess some of the same trends we've seen in workers' comp over the next
+couple of years?
+
+Bloomberg Transcript
+
+A - Chris Swif t
+
+{BIO 3683719 <GO>}
+
+Sure, Ryan, I would say, yeah, we are performing very well, and I said in my commentary, I
+think we've provided enough data to say that there were a couple of one timers in this
+quarter. So I'd look at it that the quarter was roughly more in line with that $120 million
+earnings, and 8% margin, but clearly above our long-term views that we've guided to
+which is still six to seven. I think the thing that you just have to keep in mind, there is a lot
+of the results that are emerging today are based on pricing and commitments we've
+made two years, three years ago that are just outperforming. So unlike P&C, we generally
+make three year rate guarantees. We're very thoughtful and disciplined in making those
+three year rate guarantees because that's the commitment. So we're just outperforming
+the expectations both on incidences and recoveries that is contributing to that current
+outperformance. So hopefully that helps you.
+
+Q - Ryan Tunis
+
+{BIO 16502263 <GO>}
+
+It does. Thanks.
+
+Operator
+Next, we have David Motemaden of Evercore.
+
+Q - David Motemaden
+
+{BIO 18818634 <GO>}
+
+Hi. Thanks. Good morning. Just a question for Doug. I just wanted to get a bit more detail
+on the changes that you guys made to reserves in GL. And also just talk about what you're
+Page 15 of 22
+
+
+
+Company N ame: H artford Financial Services Group I nc/The
+Company Ticker: H I G US Equity
+Date: 2019-11-05
+
+assuming on severity going forward in your loss picks and what sort of rate you're seeking
+in the market right now?
+
+FINAL
+
+A - Doug Elliot
+
+{BIO 3700927 <GO>}
+
+That was a multiple component question, so let me do my best to work our way through.
+In other liability, general liability, we made some tweaks really across years, across
+businesses I would say a series of small tweaks couple in the product area, a couple of
+umbrellas et cetera, nothing significant in any one pocket but largely across our middle
+market book of business. Construction included a little bit of our specialty general liability
+book. So that really is the basis for the tweaking we did in the quarter for general liability.
+In a broader sense, we think about loss trends. Overall, our loss trends are somewhere in
+that mid-single digit range, when you combine all our lines and I'm thinking primarily about
+auto liability and GL which are the two lines that really formed the basis for most of your
+question. So they may move a bit between small and middle and some of our specialty
+lines with the specialty -- Global Specialty book, but we're talking about trying to be on
+top of mid-single digit trends. And now our pricing across various lines is either on top of
+slightly advancing on or appreciably on top of in the case of some of our specialty excess
+areas.
+
+Bloomberg Transcript
+
+So I share with you, we're really pleased about some of the specialty areas that we've
+had substantial movement in pricing, double-digit moves in pricing where I feel like we're
+going to see the benefits of that kind of work into our book in 2020 and beyond.
+
+Q - David Motemaden
+
+{BIO 18818634 <GO>}
+
+Got it. Great. Thanks. And a question for -- just for Chris on the group business and top
+line specifically, sales were down a decent amount year-over-year, just sort of wondering
+what you're seeing competitively. And also more specifically what your outlook would be
+for top line earned premium growth here over the next few years as that knows is more
+fully integrated?
+
+A - Chris Swif t
+
+{BIO 3683719 <GO>}
+
+Sure, David. I would say, I was trying to explain that I mean it is still a competitive
+environment out there, but there is still an element of rationality that I see most of our
+competitors are exhibiting, you might have an account or two or new business opportunity
+where someone does something more aggressive, but generally competitive but
+balanced. So I would say the year-over-year numbers that you're looking at it does look
+down but really when you adjust for so in New York, the family paid leave product that
+launched in '18. You really have sort of a $40 million delta between year-to-date '19
+compared to year-to-date '18. So you really you can consider it slightly down to flattish.
+So again, I think we're still performing at a high level from our sales side. We do still get
+some contribution to sales in that $40 million to $50 million range from Aetna's medical
+staff that is still referring business and jointly selling. So we feel, good about the overall
+sales performance. So I said in my opening comments, premiums are slightly down 1% on
+an earned basis, primarily due to just higher lapses, lower persistency on the Aetna book
+Page 16 of 22
+
+
+
+Company N ame: H artford Financial Services Group I nc/The
+Company Ticker: H I G US Equity
+Date: 2019-11-05
+
+as we are taking targeted actions to reprice those book. So everything is according to
+plan, but as we look forward, I still see modest growth in top line for Group Benefits.
+Really supported by some of our ancillary lines anchored in A&H and voluntary.
+
+Q - David Motemaden
+
+{BIO 18818634 <GO>}
+
+FINAL
+
+Great. Thanks for the answers.
+
+Operator
+Next, we have Mike Zaremski of Credit Suisse.
+
+Q - Mike Zaremski
+
+{BIO 20606248 <GO>}
+
+Hey. Good morning. I wouldn't mind maybe trying to get more color on next-gen
+spectrum in terms of maybe you can just kind of isolate what the major changes are, is it - from the commentary, is it easier for your -- the business owners to self service. I'm just
+curious, is there a direct selling component to potentially for small businesses? And then
+also is there ultimately to measure the success to you, you expect sales to accelerate or
+better profitability? Just any more color would be great since it seems like it's a big deal.
+
+Bloomberg Transcript
+
+A - Doug Elliot
+
+{BIO 3700927 <GO>}
+
+Yeah. Good question, Mike and thank you for asking it. I'd start by saying, yes, this is a
+sales tool that essentially will sit on the desktop of our CSR's customer service reps
+around the country and all the agents and brokers we do business with. It's a tool that will
+allow them to be faster, more insightful and help their customers make choices. I would
+say inside the tool you should think about good-better-best type dynamics, all the
+coverage is very tuned to what a certain customer or SIC class would require. What types
+of optional coverages, are there, et cetera. So, I think it's a best-in-class selling tool with
+advice that either, comes out of the blocks with a terrific offer a customer or offers
+additional coverages that a CSR will work with a potential customer to purchase.
+So that is at the basis of this exciting innovation for us. And then secondly, yeah, we do
+expect over time. Our new sales and spectrum to lift. It's hard to predict, but our
+expectations over the next couple of years we will see some change in our new business
+sales and we'll watch that carefully and report on that as we go through time.
+
+Q - Mike Zaremski
+
+{BIO 20606248 <GO>}
+
+Okay. That's helpful. Yeah. Lastly, if we step back and kind of talk about in a broader sense
+about commercial pricing versus loss cost trend. What -- is it fair to say that there is -- if
+there is a gap it's not, it hasn't changed much quarter-over-quarter or taking into account
+workers' comp and I mean -- so it sounds like there hasn't been any meaningful notable
+changes over the last quarter.
+
+A - Chris Swif t
+
+{BIO 3683719 <GO>}
+
+And is your question more in the loss trend area or the pricing area. Just so --
+
+Page 17 of 22
+
+
+
+Company N ame: H artford Financial Services Group I nc/The
+Company Ticker: H I G US Equity
+Date: 2019-11-05
+
+Q - Mike Zaremski
+
+{BIO 20606248 <GO>}
+
+It's kind of both. It seems like pricing is moving north and trend might be moving a little bit
+north. So net-net kind of similar to last quarter.
+
+FINAL
+
+A - Chris Swif t
+
+{BIO 3683719 <GO>}
+
+Yeah, I would agree with your statement in the aggregate. And then I think we have to
+parse it apart by specialty, by excess, by primary, financial lines, spectrum et cetera. So in
+the aggregate, yes, we see lifting in pricing across middle, non-workers' comp, as we've
+examined our loss trend, I would say, largely in the primary space pretty consistent with
+Q2. Yeah. Maybe we are little careful to make sure we're catching some uptick in the
+social inflation dynamic, but I don't think material in any given way. And then in the
+Specialty book, yeah, we're spending a lot of time inside our excess and umbrella, our
+specialty areas and we're mindful of where trends are expecting a little bit of upward lift
+in those trends and therefore our pricing has been pretty aggressive there so pleased
+with progress on both fronts, but I think you have it about right.
+
+Q - Mike Zaremski
+
+{BIO 20606248 <GO>}
+
+Thank you very much.
+
+Operator
+
+Bloomberg Transcript
+
+Next, we have Amit Kumar of Buckingham Research.
+
+Q - Amit Kumar
+
+{BIO 15025799 <GO>}
+
+Thanks and good morning. Two quick follow-ups. So maybe going back to Mike's question
+on rate versus loss trend. So if you blend I guess all the moving parts and look at small
+commercial. As we head into 2020, is your sense that the loss trend will end up running
+harder than what we expected, hence the rate versus loss trend metric does not expand
+or is it more a function of the book?
+
+A - Doug Elliot
+
+{BIO 3700927 <GO>}
+
+So let me start and Beth and Chris, can grow it up. We're not prepared today to take into
+2020 yet. What I am very pleased about is, if you look at our metrics on our XX [ph]
+combines across commercial. And you see him for our segments, I think we've done a
+nice job and dealing with loss trend getting improving rate performance and across both
+our most profitable segment, which is small commercial kind of holding in margins that are
+terrific.
+And we are mindful that we need to make more meaningful change in the middle and
+large commercial areas. So I look at an all-in Q3 number on top of Q2 and feel pretty
+good about it. And as I mentioned in my earlier commentary, we know there was a little
+bit of upward pressure from the NAV book coming in. We'll work our way through that and
+at some point, that'll be a positive because we'll start turning the tide on that number as
+we move into 2020.
+
+Page 18 of 22
+
+
+
+Company N ame: H artford Financial Services Group I nc/The
+Company Ticker: H I G US Equity
+Date: 2019-11-05
+
+Q - Amit Kumar
+
+{BIO 15025799 <GO>}
+
+And I must -- Chris or anyone has to add something to that.
+
+FINAL
+
+A - Chris Swif t
+
+{BIO 3683719 <GO>}
+
+All right. Again I think Doug is accurate as always. I think the trick is going to be here -everything sort of more granular, right. These days, whether it would be states products,
+accounts. So when you add it all up, I think what Doug says makes perfect sense. My
+particular point of view is that this could be a dynamic environment for the next couple of
+years for sure, because I don't think it's realistic at least in my expectation that 15 points of
+rate in Specialty book in aggregate is going to get you back to targeted returns.
+As I said, particularly as it relates to Navigators, we're taking a multiple year journey to get
+to targeted earnings and returns. And I think a lot of others are going to be in that same
+position where just one year of feeling good about high-single digit or low-double digit
+rates in certain lines primarily specialty isn't going to cut it and it's going to require a
+multiyear approach.
+
+Q - Amit Kumar
+
+{BIO 15025799 <GO>}
+
+Bloomberg Transcript
+
+Got it. The only other question is on the last call, I guess we had fine tuned Navigators a
+bit and Chris on that call, you had said 0.10-ish [ph] was sort of the number for 2020. Are
+we still in the ballpark or based on what is evolved or we are somewhere in the middle or
+not?
+
+A - Chris Swif t
+
+{BIO 3683719 <GO>}
+
+Yeah. Obviously, we are not going to give you any really specific details but the ranges
+that we put out. I still think are valid, as I said I'd anchor in the low end of that range. And
+I'm not changing our views right now at this point in time.
+
+Q - Amit Kumar
+
+{BIO 15025799 <GO>}
+
+Got it. Thanks for the answers and congrats on the print [ph].
+
+Operator
+Next, we have Gary Ransom of Dowling & Partners.
+
+Q - Gary Ransom
+
+{BIO 3446828 <GO>}
+
+Good morning. Yes. Most of my questions have been answered, but I did want to follow
+up on the new Spectrum policy. And I wondered specifically whether the, there's a little bit
+of leapfrogging going on with other competitors in their own system. Can you actually
+detect when someone else has something, and a new strong offering and see a little bit
+of lowering of your quote volume, then you put something out, you see a little bit of
+higher. And if you do, does that last for a while, does that have some duration? I'm just
+trying to get a sense of the growth components and how this might play out?
+
+Page 19 of 22
+
+
+
+Company N ame: H artford Financial Services Group I nc/The
+Company Ticker: H I G US Equity
+Date: 2019-11-05
+
+FINAL
+
+A - Doug Elliot
+
+{BIO 3700927 <GO>}
+
+Thanks, Gary. We do watch all of those statistics carefully. So we're able to watch quote
+volume, we're able to watch yield. So the number of hits or successful quotes against
+total quotes. I would say relative to competitors rollout, we watch what they've put out
+publicly. And normally there is a little bit of a buzz or discussion about enhancements or
+innovations in the marketplace, I'm sure, very similar to what's happening with our nextgeneration Spectrum offering right now. I think that's the easier way to find out about
+things but we study the numbers we're mindful of even the statistics I quoted in my script,
+right. We're watching optional purchase, optional coverage purchases right now, we're
+watching number of quotes and we have an expected trajectory that we expect to see
+over the next three quarters or four quarters, and so we'll be right on top of that.
+
+Q - Gary Ransom
+
+{BIO 3446828 <GO>}
+
+Is this something that will roll out to all the renewals or is it just something for new
+business.
+
+A - Doug Elliot
+
+{BIO 3700927 <GO>}
+
+Yeah. We're quoting new business right now As I said, we're in mid-30s states and by
+year end, we expect to be essentially 45 and then we'll deal with the last couple of states
+next year, but new business think Gary today.
+
+Q - Gary Ransom
+
+{BIO 3446828 <GO>}
+
+Bloomberg Transcript
+
+Okay. All right. Thank you very much.
+
+A - Chris Swif t
+
+{BIO 3683719 <GO>}
+
+Thank you.
+
+Operator
+The next question we have will come from Yaron Kinar of Goldman Sachs.
+
+Q - Yaron Kinar
+
+{BIO 17146197 <GO>}
+
+Hi. Good morning, everybody. I want to start with one on the reserve development and in
+commercial lines, then sneak in another one on the Group Benefits. So with the reserve
+development, I think in recent years we've seen kind of initial loss picks in both general
+liability and commercial auto come in a bit below most recent picks for our prior years.
+Can you maybe talk about that dynamic and how comfortable you are with your picks for
+the more recent years considering the fact that you have been increasing the initial loss
+picks there? And is it just pricing that you've achieved that's offset some of the weaker
+picks in prior years?
+
+A - Doug Elliot
+
+{BIO 3700927 <GO>}
+
+Let me start and then Beth can work over the top. I would say over the past six plus years,
+we've been working both pricing and underwriting. So we've been adjusting our offerings
+Page 20 of 22
+
+
+
+FINAL
+
+Company N ame: H artford Financial Services Group I nc/The
+Company Ticker: H I G US Equity
+Date: 2019-11-05
+
+across the marketplace in classes, monoline, group with other accounts, et cetera. So
+multiple different options that we've been working. In general, I would agree with you that
+we have been light on our Axiom picks at 12 months, which is the reason that if you look at
+our trend line, we've made adjustments to those prior year picks over the last six years,
+seven years. And I think we do a nice job of disclosing that in our supplement. So the
+disappointment is that loss trend obviously has been higher than we expected and we
+didn't get the punch that we expected on the underwriting side, and so we're doubling
+down now, I think we continue to make progress.
+Again I'd separate some of this discussion by class of vehicle, whether we're talking small
+commercial with primarily private passenger and light-vans or middle mark with some
+heavier or the specialty area. And I think that our success or lack thereof is not very
+different than the overall marketplace. But what we've tried to do is when we see
+something in the book, we've addressed it both on our reserve levels and also on the
+underwriting and that's why I don't think there is anything new here. It's just -- we just
+need to dive even harder, Beth?
+
+A - Beth Costello
+
+{BIO 15349374 <GO>}
+
+No, I think that summarizes it very well, Doug.
+
+Q - Yaron Kinar
+
+{BIO 17146197 <GO>}
+
+Bloomberg Transcript
+
+Okay. Thanks. And then on the Group Benefits side, is the experience and claims
+recoveries that you've seen for recent vintage as you expect that to kind continue -- is
+that baked into your estimates today or do you expect some reversion that to me?
+
+A - Chris Swif t
+
+{BIO 3683719 <GO>}
+
+Yeah. I would say beyond that obviously we update our statistics in views periodically
+that's what we did this quarter. So that reflects our best views of trends going forward
+that in essence, we priced product on and book reserves on. So it is our best thinking
+from here. Now, we've always talked about it changes in incidents and/or recoveries is
+somewhat employment centric related. So as long as we don't have any big shocks into
+the system, I would expect our estimates here to hold, but as I said, it's a dynamic world
+out there and when things change we just have to reevaluate our assumptions and we
+would change accordingly.
+
+Q - Yaron Kinar
+
+{BIO 17146197 <GO>}
+
+Got it. Thanks so much and thanks for (inaudible).
+
+Operator
+That is all the time we have for today's question-and-answer session. I would now like to
+turn the conference call back over to Susan Spivak for any closing remarks.
+
+A - Susan Spivak
+
+{BIO 1514699 <GO>}
+
+Page 21 of 22
+
+
+
+Company N ame: H artford Financial Services Group I nc/The
+Company Ticker: H I G US Equity
+Date: 2019-11-05
+
+We appreciate all of you joining us as well as your questions, please do not hesitate to
+reach out, if you have any follow-up. And if we didn't get to your question within the time
+period, I'm available, so please just give me a call. Thank you.
+
+FINAL
+
+Operator
+The conference call is now concluded. We thank you all for attending today's presentation.
+At this time, you may disconnect your lines. Thank you again everyone.
+
+Bloomberg Transcript
+
+This transcript may not be 100 percent accurate and may contain misspellings and other
+inaccuracies. This transcript is provided "as is", without express or implied warranties of
+any kind. Bloomberg retains all rights to this transcript and provides it solely for your
+personal, non-commercial use. Bloomberg, its suppliers and third-party agents shall
+have no liability for errors in this transcript or for lost profits, losses, or direct, indirect,
+incidental, consequential, special or punitive damages in connection with the
+furnishing, performance or use of such transcript. Neither the information nor any
+opinion expressed in this transcript constitutes a solicitation of the purchase or sale of
+securities or commodities. Any opinion expressed in the transcript does not necessarily
+reflect the views of Bloomberg LP. © COPYRIGHT 2022, BLOOMBERG LP. All rights
+reserved. Any reproduction, redistribution or retransmission is expressly prohibited.
+
+Page 22 of 22
+
+

@@ -1,0 +1,984 @@
+Company N ame: American I nternational Group I nc
+Company Ticker: AI G US Equity
+Date: 2018-01-08
+
+(CES) Consumer Electronics Show
+Company Participants
+FINAL
+
+Alexander R. Baugh, Chief Executive Officer-North America General Insurance
+Gaurav D. Garg, Chief Executive Officer-Global Personal Insurance
+Kate Sampson, Vice President-Risk Solutions
+Robert W. Peterson, Professor of Law & Director-Center for Insurance Law and
+Regulation
+
+Other Participants
+Salen Churi, Assistant Clinical Professor of Law & Bluhm-Helfand Director-Innovation
+Clinic
+
+MANAGEMENT DISCUSSION SECTION
+
+Bloomberg Transcript
+
+Alexander R. Baugh
+
+{BIO 15706866 <GO>}
+
+Good afternoon and welcome to the 2018 CES Research Summit. My name is Lex Baugh.
+I'm the CEO of North American General Insurance for AIG, and I'd like to introduce my
+colleague, Gaurav Garg, who is the CEO for our Personal Insurance business. We're
+delighted to be back at the CES Research Summit. This is the third year in a row for us,
+and we're fortunate enough to have been selected as the only insurance company invited
+to speak.
+In 2016, we began our partnership with CES and in particular, we worked closely with the
+Chief Economist for the CES at that point in time. And our initial efforts were along the
+lines of just trying to understand how the Internet of Things, how the consumer Internet of
+Things, how the industrial Internet of Things would impact risk. Last year, we came back
+for a second time. We released the study on smart safe data sharing with Kleiner Perkins.
+The concept there was to introduce the ID of digital trust and to understand better how
+we were coming to trust the digital age and what the impediments would be for business
+and for the adoption. This year, I'm excited to say that we focus on the future of mobility
+and risk as autonomous features become driverless cars and trucks. And I don't know how
+many of you saw it this morning, but in my hotel room they slipped the newspaper under
+the door. I can't say that I had read the Las Vegas Review-Journal before in the Las Vegas
+Sun, but big article in there about BYTON, and BYTON is a fully autonomous electric
+vehicle, which is expected to be launched in China by 2019. So we'll talk a little bit more
+about what we learned in the survey, but the expectations there are well in advance of, I
+think, what most people are anticipating in the different tests that we've done around the
+world.
+
+Page 1 of 16
+
+
+
+Bloomberg Transcript
+
+FINAL
+
+Company N ame: American I nternational Group I nc
+Company Ticker: AI G US Equity
+Date: 2018-01-08
+
+Gaurav and I are here to outline why we did this year's study, and then take a seat on a
+panel of experts, which will explore the subject a little bit more deeply. As we step back
+and think about it, the world of travel is changing profoundly. It's changing quickly. Today
+we think nothing of sharing rides. Cars park themselves. I was on the phone this morning
+with a partner at McKenzie and he was like a young child. He was so excited about going
+around and looking at cars that actually park themselves. And I guess it was probably
+about three years ago that I first got into a Mercedes prototype, and I was pretty excited
+at that point in time when a car actually parked itself. These things are not something for
+the future. They're here with us today.
+How many people have seen the Lexus ad, where there's a jogger who jumps out from
+an obscured area behind a bush? The car doesn't only have automatic braking in order to
+stop before hitting the jogger, the car actually steers to avoid the object jumping out of
+the bushes. That's something that we probably couldn't have anticipated only two years
+ago.
+As our mobility behavior changes, we think about risk and exposure differently as well.
+The shift is upending our conventional wisdom about liability and the way that we predict
+the cost of risk. Within the insurance industry, we tend to look backwards in order to
+project the future in order to anticipate what's going to happen in the future. And in a
+period of time when we were introducing airbags, that was very feasible. Airbags were
+first conceived in 1971. It wasn't until 1998 that they were actually mandated in new cars
+released in the U.S., and so that gave us a span of 27 years to learn, to understand how
+do drivers react to having airbags. Do they take more risk? Do they drive differently? What
+happens with airbags? Do we get more serious injuries and less deaths? Those things
+turned out to be the case, but not something that we necessarily understood very well in
+1971.
+These technologies that I talked about earlier that we're seeing, where cars are
+automatically braking, cars are automatically avoiding an oncoming pedestrian, those are
+things which were really only in development three, four, five years ago. And today,
+they're already becoming ubiquitous in the transit market.
+The biggest change in risk management between three years ago and today is that today
+we have the power to know more about more things and with more certainty than ever
+before. For insurers, that's very valuable. This is an industry that used to price car
+insurance on the basis of the color of the car. We're able to correlate the color of the car
+with the likelihood of an accident, very different from the capability that we have today
+with the data feeds that are available to us from these new technologies.
+Some of you might be sitting there and wondering, why is an insurance company doing
+this at a Consumer Electronics Show? And I know Gaurav has some thoughts that he'd like
+to share with you on that.
+
+Gaurav D. Garg
+
+{BIO 17753314 <GO>}
+
+Thank you, Lex. Delighted to be here today.
+
+Page 2 of 16
+
+
+
+Company N ame: American I nternational Group I nc
+Company Ticker: AI G US Equity
+Date: 2018-01-08
+
+FINAL
+
+Autonomous vehicles, I think, fits very well with the Consumer Electronics Show. What is an
+insurance company doing here? So it is about the risk. As the risks transfer from selfdriven cars to driverless cars, there's a huge shift in the risk profile. And why is it
+important? Is that technology can lead to safer roads? We do know that there are around
+40,000 human lives lost in car accidents in the U.S. alone. And guess what? 90% of this is
+supposed to be through human error. So if we have technology that can prevent this, it
+would not only save lives, but make for safer roads, safer societies.
+So these individuals and families that travel in these cars, through this survey, we thought
+we should give them a voice. They should have a seat on the table, because ultimately,
+they would be the end consumers. So this survey that we did, we asked road users in
+three countries, in the U.S., in UK and Singapore, on three aspects. The first aspect, what
+is the risk on the road today? The second aspect, what do they think the risk will be with
+semiautonomous vehicles, which are already there on the roads? And the third aspect,
+how would they think the risk will be with driverless cars?
+
+Bloomberg Transcript
+
+Now, we will discuss the findings today in the panel, but one finding was very interesting,
+with many of you may agree with. The drivers in the U.S. rated themselves to be superior
+than the average driver. Well, that's what the survey said. So we'll discuss more about it
+today.
+But two ends of the spectrum emerged in this survey. One end of the spectrum is that
+people are concerned about things like cybersecurity, privacy of data. You see in videos
+about – of hacking of cars, of the music system going off, of cars being – the windshield
+wipers going on, so there are on YouTube videos about that. So they are concerned
+about that aspect.
+The other end of the spectrum is that with this technology, they also feel that the cars will
+become safer. And if the cars become safer, there is an expectation that the insurance
+premiums on cars will go down. There may be other areas I will talk about that the
+insurance premium will balance off on liability versus personal car insurance.
+So we are really excited today to be here to discuss this. I would go back to Lex and ask
+him as to, how is he risk shifting, Lex?
+
+Alexander R. Baugh
+
+{BIO 15706866 <GO>}
+
+We'll talk a little about that in the Q&A, but what is clear is that, risk will change. It's not
+simply going to disappear. It's going to, to some extent, shift. It's going to blur
+conventional lines that we think about between man and machine.
+Gaurav represents the personal side of the insurance business and I represent the
+corporate, commercial, industrial side, both from the same insurer. And what we're trying
+to work out and working through various partnerships and collaboration with our
+customers is exactly how that risk is going to migrate.
+
+Page 3 of 16
+
+
+
+Company N ame: American I nternational Group I nc
+Company Ticker: AI G US Equity
+Date: 2018-01-08
+
+FINAL
+
+So is it between the auto manufacturers, the software providers, the parts manufacturers,
+or perhaps the road construction people that are building the infrastructure that's going
+to – or the municipalities that are responsible for the infrastructure, that's going to speak
+to the cars? Is it the communication providers? Will they have some responsibility here?
+Or is it some new enabling technology, which we're really not even aware of yet?
+Answers to these questions we debated for quite some time and we've certainly only
+scratched the surface of these questions in our survey. But it's important to start
+somewhere. And speaking of starting somewhere, I want to return the podium to Gaurav
+and ask him to introduce our esteemed panelists.
+
+Gaurav D. Garg
+
+{BIO 17753314 <GO>}
+
+Thank you again, Lex. We are honored to share the stage with three experts in the field,
+who will join us now for the discussion on some of these questions. Santa Clara University
+School of Law Professor Emeritus Bob Peterson. Bob and Professor Glancy were true
+partners in this endeavor and an integral part in developing our findings today. Welcome,
+Bob.
+
+Bloomberg Transcript
+
+Kate Sampson. Kate Sampson is the Vice President of Risk Solutions at Lyft. She is a wellrespected insurance leader in the sharing economy after decades of experience at Marsh.
+She advices several startups on innovation. And finally our moderator, Professor Sal Churi,
+who runs the Innovation Clinic at the University of Chicago Law School. Tomorrow Sal
+releases IoT, Risk Manager Checklist Part 2, focused on Europe and the GDPR, a project
+that we at AIG were delighted to partner with you all.
+With that, I'd like to turn things over to you, Professor Sal Churi.
+
+Q&A
+Q - Salen Churi
+
+{BIO 20591117 <GO>}
+
+Well, thanks, Gaurav. Very happy to be here with all of you and thanks to AIG in putting this
+panel together. Just quickly a little bit about the Internet of Things Risk Manager Checklist.
+It's meant to be a practical approach to get risk managers asking the right questions as
+they implement IoT processes into their businesses, into their products and services. So
+this is actually the second collaboration between University of Chicago, myself, and AIG,
+where we've addressed IoT and the sorts of risks that we see on the horizon.
+Last year we did it for the United States, and this year we expanded it for Europe. With
+the looming sort of question of GDPR, and it sort of being implemented on the horizon,
+we thought it was important to address those questions for risk managers, who do
+business and whose businesses touch Europe. So with that shameless plus aside, I will
+open it up to our esteemed panel here to talk about autonomy. We'll start with you,
+Professor Peterson. We'd love to hear a little bit more about your work at Santa Clara and
+with AIG. I understand you're a Professor of Insurance and Liability there. Can you tell us a
+little bit more about how long you've been thinking about driverless cars?
+
+Page 4 of 16
+
+
+
+Company N ame: American I nternational Group I nc
+Company Ticker: AI G US Equity
+Date: 2018-01-08
+
+FINAL
+
+A - Robert W. Peterson
+
+{BIO 21267685 <GO>}
+
+Yeah. Well, despite appearances, I was not around in 2011, when the first silent movie was
+made about a robot driven car, but I had for many, many years taught insurance law, torts
+law, products liability. So when it looked like autonomous vehicles were going to become
+a reality, this was a very happy wedding for me. So I started really researching and writing
+in the area in 2012. But my colleague, Dorothy Glancy, also on the faculty, had been
+working with smart cars for well over 20 years starting with a grant she got from the
+Department of Transportation. So we've been working in the area for quite a long time.
+So when the opportunity came along to collaborate with AIG on this paper, both Professor
+Glancy and I jumped at it. We also did a fairly lengthy whitepaper for the Transportation
+Research Board, which, actually if I may plug this, won an award and she is back in
+Washington D.C. at the moment accepting that reward on behalf of all of us. In that same
+year, 2012, California Legislature adopted a statute enabling the Department of Motor
+Vehicles to begin creating regulations for self-driving vehicles. This has been a long and
+somewhat labored birth, because they still don't have their final regulations out. But we
+do expect they may be out by the middle of 2018, if things go as we hope that they are
+going to go.
+So this has been a really exciting area to fall into in the waning years of my academic
+experience, so I feel very, very lucky to be working in this area.
+
+Q - Salen Churi
+
+{BIO 20591117 <GO>}
+
+Bloomberg Transcript
+
+We all know you're just reaching your prime now.
+
+A - Robert W. Peterson
+
+{BIO 21267685 <GO>}
+
+Yeah.
+
+Q - Salen Churi
+
+{BIO 20591117 <GO>}
+
+So this one's for Kate from Lyft. We know Lyft is really focused on changing mobility in the
+future. We can tell that especially from last week. You had a really exciting announcement
+of a partnership with Aptiv. So how do you think about autonomy and the features that are
+available today and how that kind of leads into sort of full autonomy in the future?
+
+A - Kate Sampson
+
+{BIO 20505903 <GO>}
+
+Sure. So we're super excited to be at CES wearing my Lyft hat, demonstrating the first
+point-to-point ride-hailing experience. So you can head out to the Gold Lot and actually
+experience it. And what's super exciting about it, it's really the first real-life example of
+how autonomous technology can be used in a scalable way. I'm providing this experience
+to all the CES folks, but really thinking about the future on what this technology is going to
+do to emissions, our cities' congestion, all of that.
+So when I started to think about full autonomy, I started off with we all might not own a
+fully autonomous car. We might not own one now. We might not ever own one. But we've
+all experienced autonomous technology, whether it be cruise control, the parking assist
+Page 5 of 16
+
+
+
+Company N ame: American I nternational Group I nc
+Company Ticker: AI G US Equity
+Date: 2018-01-08
+
+FINAL
+
+that we talk about, it's all been there. So when I actually think about full autonomy, Level 5,
+an autonomous technology that has no means for human interaction when the car is
+moving.
+I think, from a Lyft perspective, we tend to think a lot about the impact on the
+environment, the impact on our commutes, what our cities are going to look like, are we
+going to live further away from the city, because that commute in is very efficient and you
+can work and it's quick. Or are we going to live in the cities, because the cities are going
+to be so livable. We're going to have green spaces where there weren't, parking garages.
+So at Lyft we think about that.
+Personally, I live in the Bay Area. I'm a big skier. I just drove back from Lake Tahoe
+yesterday, four and a half hours through Sacramento traffic, and I really am dying for this
+technology to make that ride better. I want that car, that's my living room. But then
+professionally, when I think about full autonomy, I do – and this is professionally from a risk
+professional. I think it's going to be much safer. But I also think there is going to be a
+significant shifting of liability. When I think about all the players that are in this space that
+will all have influence on that experience in the future, we still have a ways to go, as Lex
+and Gaurav were saying before, on where that liability is going to land. So I'm thinking
+about that.
+
+Q - Salen Churi
+
+{BIO 20591117 <GO>}
+
+Bloomberg Transcript
+
+Yeah, tough life making it back from Tahoe. So, Lex, you've been talking about risks
+shifting for years. Can you tell us a little bit more about what you mean when you say that?
+Unpack it a bit for us.
+
+A - Alexander R. Baugh
+
+{BIO 15706866 <GO>}
+
+I think I spent too much time thinking about risk shifting and not enough skiing in Tahoe.
+But we have spent some time studying and we truly believe that risk is shifting and shifting
+in really three categories, three different dimensions. The first area where risk is shifting is
+just in the mitigation of risk, the management of risk. Most of the technologies that you
+see being developed – and certainly the auto industry is no exception to this – are
+focusing on those things that human beings don't do particularly well.
+And so an example of that would be automated braking that where the car actually stops
+itself is it's getting closer to the object in front of it, directly in front of it. For whatever
+reason, human beings sometimes fall sleep, sometimes they're distracted, and they tend
+to accelerate right into the back of an object, which they should be seeing. That's a good
+example of where industry is stepping in using an autonomous feature to improve the
+safety to take the human out of the process in order to make that process safer.
+The second dimension of change in terms of risk is moving from one party to another.
+And the third dimension is that risk will aggregate differently, so that today risk in the
+largely human environment is a compilation of the actions of many, many independent
+actors in the process. And so you might have thousands, you might have actually millions
+of individuals making decisions, which are leading to relative risk as they execute on that
+
+Page 6 of 16
+
+
+
+Company N ame: American I nternational Group I nc
+Company Ticker: AI G US Equity
+Date: 2018-01-08
+
+FINAL
+
+decision. I think that the machine will do a far better job of making the decision, but when
+it gets it wrong, it won't get it wrong once. It will get it wrong thousands of times or
+millions of time, and so the aggregation of that risk is very different than what we've had
+to deal with as an economy up until now.
+Perhaps if I give a couple of examples of industries where this is the case, and I'll come
+back to auto. The first one I would give you as an example is the production of ammonium
+nitrate. Ammonium nitrate is – it's a product of petroleum input that runs through a
+chemical process in order to ultimately produce ammonium nitrate as an end product. It's
+used as an explosive, highly volatile, something that we as insurers would spend a lot of
+time worrying about, thinking about trying to engineer.
+
+Bloomberg Transcript
+
+Well, if we go to the plant today and we go and knock on the door and try and find out
+where the engineers are at the plant, they're not there anymore. The three shifts of
+eight-hour engineers who were controlling temperature, pressure, output, were
+managing the maintenance at that facility, they're not there anymore. There's an industrial
+control system that's not only controlling the process at that plant, but it's actually
+controlling the process at many plants across the country. And that's actually not – that
+industrial control system is not developed by the petrochemical company. It's a control
+system developed by Raytheon. And so the question of when something goes wrong
+who is responsible is very different. The chances for something to go wrong are far lower.
+When they do go wrong, they might happen not only at one plant but might happen at
+multiple plants.
+Another example closer to the customer or to the consumer side of the house is medical
+malpractice. So, one of the things that hospitals get sued for today is when people show
+up and they get a false negative. So they show up complaining of chest pains. They're
+sent home. They're said that if they've got angina, they don't have a particular risk of
+heart attack. They're sent home. They have a heart attack and they have a bad outcome
+from that heart attack. That's a classic medical malpractice type of exposure for hospitals
+today.
+In the environment where we have an embedded chip that's able to monitor the release
+of an enzyme which happens before you have a heart attack, usually six or seven days
+before you have a heart attack, that person is never going to show up in the hospital in
+the first place. There's going to be a new liability for the development of that medical
+equipment and for the monitoring of that medical equipment, and maybe the doctor
+monitoring that patient may have a new liability that they didn't have before. But the
+liability at the hospital will disappear. If something goes wrong, it's less likely to go wrong.
+If it goes wrong, it may go wrong in multiple instances.
+And finally, the example of the automobile, where you have these autonomous features
+and where the car is fully autonomous, kind of hard to imagine that the car will not be
+safer and that people won't be safer driving cars. I think Elon Musk's concept of us thinking
+of it as bizarre in 5 or 10 years' time that we would allow somebody to hurdle down the
+highway at 80 miles per hour uncontrolled in a hunk of 2 tons of steel, it's probably a
+pretty good vision in terms of how we're going to think back about driving before the age
+of autonomy.
+Page 7 of 16
+
+
+
+Company N ame: American I nternational Group I nc
+Company Ticker: AI G US Equity
+Date: 2018-01-08
+
+FINAL
+
+But as we move towards autonomous driving, the risk won't disappear. The risk will be
+perhaps with the manufacturers I alluded to earlier, perhaps with other parties or
+contributors to the process. The risk will be far less frequent, but the ramifications of the
+system going wrong have far greater severity implications than they would have
+historically.
+Our future of mobility study really pretty much agreed with that. They said where there
+was no autonomy, it's clear, the driver is primarily responsible. But in cases where you get
+driverless cars, other entities will take on responsibility. Who will be most liable in the
+accident involving a driverless vehicle? Auto manufacturers, software programmers were
+perceived to be the most liable, followed by the vehicle occupant, vehicle owner. Notice
+the distinction between occupant and owner in an autonomous world. The Internet service
+provider, parts manufacturing, the pedestrian – I'm not sure how that came up – and
+finally, road construction companies. Maybe you take responsibility for not looking both
+ways and you walk out into the road, I'm not sure.
+
+Q - Salen Churi
+
+{BIO 20591117 <GO>}
+
+Assumed risk. So this one is for you, Gaurav. From a consumer perspective, what is one
+really big issue that we, sort of the industry at large kind of building autonomous
+technology, have to address before we get to broader adoption?
+
+Bloomberg Transcript
+
+A - Gaurav D. Garg
+
+{BIO 17753314 <GO>}
+
+So, I mean, there are multiple things that we have to address before we get further down
+this road. And there are a lot of complex issues relating to technology, relating to
+infrastructure that Lex talked about. But I think one of the biggest issues that I see, and
+coming out of our study, is the perceived trust gap with the consumer. So if you look at
+our study, you will see that less than 50% of the respondents actually feel safe with a
+driverless car on the road. While 4 out of 10 think that this is safer, but would they be
+comfortable with a driverless car on the road. So that creates a big hurdle to surmount for
+any innovation or any progress to be made in this area.
+So there are things – people are confused about it. There are media reports, but at the
+same time, can a car anticipate the millions and millions of scenarios? Will it be able to
+identify, as Lex said, a pedestrian crossing? Would it be able to identify a stationary object
+instead of a pedestrian? Would it be able to identify a bike instead of a car? Would it be
+able to identify a pet or a cat running across the street? Would it be able to actually see
+what a four-way stop means? Is it a four-way stop, dead end, three-way? There is a lot of
+permutation, combinations that need to be worked into.
+So let's assume the technology is able to do everything. But there still has to be this trust
+gap that needs to be overcome with the consumers to be able to trust the technology
+and adopt. So in my view this would be one of the biggest hurdles as we go down the
+road. And one thing that, as Lex was speaking, is interesting is that once the autonomous
+vehicles come in, there won't be a DMV. Will there be? There'll be no licensing...
+
+Q - Salen Churi
+
+{BIO 20591117 <GO>}
+Page 8 of 16
+
+
+
+Company N ame: American I nternational Group I nc
+Company Ticker: AI G US Equity
+Date: 2018-01-08
+
+Sounds like a wishful thinking.
+
+A - Gaurav D. Garg
+
+{BIO 17753314 <GO>}
+
+FINAL
+
+...right? Anyone can just sit in a car and go.
+
+Q - Salen Churi
+
+{BIO 20591117 <GO>}
+
+So we'll go back to Kate to talk about autonomous in the ridesharing context. So over the
+past five years consumers have really taken to and embraced ridesharing. How do you
+think consumers are going to respond to autonomous rides?
+
+A - Kate Sampson
+
+{BIO 20505903 <GO>}
+
+Bloomberg Transcript
+
+Yeah. So, with no surprise, I'll probably be more bullish and optimistic about adoption. If I
+go back five years ago when we launched Lyft, I distinctly remember having a
+conversation with AIG to say – I was an insurance broker at the time, I worked at Marsh,
+and I called AIG and said, oh, I'm working with this company and this is what they're going
+to do. They're going to be the first peer-to-peer ridesharing and everyone will have an
+app and you can share a ride with a stranger. And I don't think it was AIG who said, but a
+number of insurers said, so hitchhiking, you're going to just do hitchhiking. And we've
+spent our whole lives being told not to get in the car with a stranger. And then, we
+launched Lyft and we're like, hey, here's a pink moustache and fist bump and jump in the
+car with us here.
+What we knew in 2011/2012 is that we were going to – Lyft was only going to be successful
+if we changed consumer behavior. We had to wipe out don't get in the car with a stranger,
+and get you to get in the car with a stranger. And then a year later, what we – so it
+worked, I think, we all agree. I used to say raise your hand if you've been Lyft or in Uber,
+and now every hand goes up in the room. But about a year later we launched Lyft Line. We
+said now not only are you going to get in the car with a stranger, but you're going to get
+in the car with another stranger, who is also going the same way as you. And everyone
+said, now that's just crazy. And then within months, 50% of the rides in San Francisco were
+Lyft Line rides, sharing a ride.
+So I tend to think that the adoption of this technology is going to be much quicker by
+consumers than we think. I think there is some hesitation. But when I think about getting in
+the car with a stranger or getting in the car with technology that is being advanced over all
+this time by some of the greatest thinkers in the world, I'm pretty bullish on it. And I like to
+compare it to – I had the opportunity to be in a couple of these cars.
+And when you first get in – I equate it to when I had a BlackBerry, and I held on to my
+BlackBerry forever. I've been around for a while in the insurance business. I had a
+Blackberry for a long, long time. And then finally I got an iPhone, and I just thought, oh, I'm
+going to miss the keypad, I'm going to not like this, and within an hour I thought why did I
+not get into this iPhone game before. So I think that we will get in these cars, experience
+it, and stay with it for a long time. And I think it's just going to be so much safer that I
+envision a time down the road, where if someone takes out their car key is you'll kind of
+
+Page 9 of 16
+
+
+
+Company N ame: American I nternational Group I nc
+Company Ticker: AI G US Equity
+Date: 2018-01-08
+
+look at them and say, you still drive, like aren't you using an autonomous car, because so
+many of the accidents are going to be caused by human drivers, not by the robot cars.
+
+Q - Salen Churi
+
+{BIO 20591117 <GO>}
+
+FINAL
+
+Yeah. We're going to have Mothers Against Human Drivers soon.
+
+A - Robert W. Peterson
+
+{BIO 21267685 <GO>}
+
+Yeah.
+
+Q - Salen Churi
+
+{BIO 20591117 <GO>}
+
+So we'll shift back to Professor Peterson. You looked at a number of different jurisdictions
+in your report and you found some interesting differences between them. Can you kind of
+just double click on the differences between the U.S., the UK, and Singapore, and kind of
+draw out some of the things that jumped out to you?
+
+A - Robert W. Peterson
+
+{BIO 21267685 <GO>}
+
+Bloomberg Transcript
+
+Sure. A little bit. I mean, just as a slight aside, going back to ammonium nitrate. If you really
+want to find out about the power of ammonium nitrate, Google the Texas City disaster
+from about 1944, when they are loading a fertilizer ship with ammonium nitrate and it
+blew up, and they found one of the anchors about 1.5 mile inland. So that gives you just a
+feel for ammonium nitrate.
+
+Q - Salen Churi
+
+{BIO 20591117 <GO>}
+
+Maybe don't Google it, you don't want to be on a list.
+
+A - Robert W. Peterson
+
+{BIO 21267685 <GO>}
+
+Yeah, that's right. We're probably all – every one of you is now. Yeah, there are a lot of
+differences between the United States and other countries. But there are a lot of things
+where they tend to agree too. And one of them is that, they virtually all agree that they
+think that these cars are going to be safer, that their driving is going to be less stressful,
+and their personal safety is going to increase. But when it comes to some of the
+problems, they also all agree that they think that cost is going to be one of the major
+barriers to the deployment of these vehicles. I think that comes from the fact that, I think
+40% or so of the people in the United States and the UK expect that they are going to
+own one of these cars; kind of surprising – well, maybe not surprising, only 24% of the
+people in Singapore think that they are going to own one of these cars.
+But if the cars are deployed on a fleet basis rather than an individual ownership basis, I
+think that particular concern about cost is going to fade a little bit into the background.
+About the same percentage of people expressed comfort with sharing the road with
+these vehicles – this is a point that Gaurav was making – maybe 42%, 43%. On the other
+hand, a similar number expressed discomfort. So you have to ask yourself, do we have a
+glass here that's half full or a glass that's half empty, because that other 40% that feels
+uncomfortable is going to have to be persuaded and is going to have to be brought
+
+Page 10 of 16
+
+
+
+Company N ame: American I nternational Group I nc
+Company Ticker: AI G US Equity
+Date: 2018-01-08
+
+FINAL
+
+around through education and marketing and other things. Otherwise, there is going to
+be, I think, a political challenge to rapid deployment of these.
+Cars are also a culture. They're a major part of the United States culture, but not
+surprisingly, they are less of an element of the culture in Singapore, for example, and
+that's probably because only 53% of the people in Singapore actually own a vehicle. You
+compare that with 79% in the UK and 85% in the United States. And from personal
+experience, a lot of those people in the United States actually own more than one vehicle.
+I think 91% of the people in Singapore have actually used ridesharing, 91%. So they're
+going to be more comfortable with this.
+If you look at the UK, it's only about 26% that have used ridesharing. And if you look at the
+United States, it's really only about 22%. Another impediment that people cited in the
+survey was they love to drive their cars. They enjoy driving their cars. They don't want to
+give up their cars. They'll say that you're going to have to pry the steering wheel out of
+my dead hands, which the EMTs might actually. But I can understand again why in
+Singapore they are less concerned about that, because so many fewer people own cars
+in Singapore, so it's not as ingrained a part of their culture. But I have lived in England for a
+while and I cannot see the joy, frankly, of driving my own car around London. But, if you go
+for a nice weekend drive in the Cotswolds, there is really nothing half so pleasurable as a
+nice drive to the Cotswolds, I understand that
+
+Q - Salen Churi
+
+{BIO 20591117 <GO>}
+
+Bloomberg Transcript
+
+So this one is for you, Gaurav. What role do you think insurance plays in this overall journey
+towards autonomy?
+
+A - Gaurav D. Garg
+
+{BIO 17753314 <GO>}
+
+Well, insurance companies are, obviously, not in the value chain of building the
+autonomous vehicle with so many people involved, but, as we discussed, autonomous
+vehicles expose different kinds of risks. So these risks are risks that an insurance company
+would be instrumental in helping manage, to the ecosystem, to individuals and
+businesses. And as the survey points out, things like cybersecurity, I mean, there is more
+than 70% people who really worry about cybersecurity, hacking into the cars, which could
+be very detrimental. Imagine a fleet of vehicles which are autonomous on the roads are
+hacked into. It could result in catastrophic damages and loss of life as well. So to ensure
+that this whole ecosystem has the right protection, to work with the regulators as they
+frame regulation on liability and what would happen, because it's also incumbent on the
+regulators to make roads safer for people, and how do we help shape that process.
+So insurance companies have to stay with the times, stay ahead of the times, and that's
+one of the reasons why AIG has invested heavily into this and we come to the CES and we
+are talking about this and we published this paper, is that we are seeing the trends and
+we want to be ahead with the kind of right insurance products with the various
+stakeholders in the value chain to help this process come forward and create the trust
+and confidence in the whole society, in the people who are investing in for this process to
+go on. So I think it's a critical role that insurance would play for this to go forward.
+
+Page 11 of 16
+
+
+
+Company N ame: American I nternational Group I nc
+Company Ticker: AI G US Equity
+Date: 2018-01-08
+
+Q - Salen Churi
+
+{BIO 20591117 <GO>}
+
+So opening up to the whole panel. If you could all just kind of share maybe the thing that
+jumped out to you most about this report. What really sticks out? Maybe start with you,
+Lex.
+
+Bloomberg Transcript
+
+FINAL
+
+A - Alexander R. Baugh
+
+{BIO 15706866 <GO>}
+
+Sure. For me – and I don't think it was a big surprise. I think it was very evident in looking at
+the research that partnerships are critical to the way forward. So when I think about that
+from an AIG perspective or from an insurance company's perspective, and I was talking
+about the inability to be able to go back and look at history in order to project the future,
+that leaves really only the option of looking at scenario planning. And in order to build
+strong scenarios and to do good scenario planning, you have to understand the
+dimension of the autonomous driving challenge from more than just the perspective of
+the insurance company. You need to understand what's happening from the standpoint of
+the communications industry, what's happening from the standpoint of experience as
+these new prototypes are being built and where they ultimately take us.
+And if you look at the paper, you can see that that's happening at multiple levels. You're
+seeing that there is a citing of the combination between Avis working with Waymo. You've
+got Volvo working with Uber. You've got nuTonomy working with Lyft. You've got Fiat,
+BMW, Intel, Mobileye, Delphi, all working together. This is happening across the
+landscapes and we're talking specifically about the space of autonomous vehicles, but
+parallel activity is happening in many aspects of our economy. And this is going to be
+requirement for us as we think about the development of the regulatory environments, as
+we think about the development of the law. And listening to the plaintiffs' bar, they're
+looking at this challenge and the one thing that's going to be very obvious and has been
+obvious in every technological revolution that we've gone through to-date is that the law
+lags the actual science and lags technology, and so we're not going to know exactly how
+the law is going to respond in every case. We're going to have to work with partnerships
+to get the best view we can to develop that scenario.
+In the world of innovation, hubris is absolutely deaf. Everybody wants to win. We all
+represent businesses or ventures ourselves, and we want that venture to win. But humility
+and the willingness to partner is going to be critical to success in this space, and I think
+that comes out loud and clear in the work.
+
+Q - Salen Churi
+
+{BIO 20591117 <GO>}
+
+Maybe move to you, Gaurav.
+
+A - Gaurav D. Garg
+
+{BIO 17753314 <GO>}
+
+Well, I mean, if you look at this paper and the research, I would tend to think that one of
+the biggest takeaways is that consumers have a voice, and at this moment they are kind
+of mixed and concerned on some parts, as well as looking forward to the safety of the
+vehicles. So the consumers are the people who ultimately will be voting to deciding who
+will be deciding and voting on regulatory changes, who will be sitting in juries who decide
+on liabilities as to where does the liability fall in case of an happening. And in my view, as
+Page 12 of 16
+
+
+
+Company N ame: American I nternational Group I nc
+Company Ticker: AI G US Equity
+Date: 2018-01-08
+
+we take this forward, we have to continuously shape this whole consumer sentiment, and
+that I think is very important for success of this autonomous vehicles going forward.
+
+FINAL
+
+A - Kate Sampson
+
+{BIO 20505903 <GO>}
+
+So for me, two things. I think the first is, the paper really highlights the number of players,
+the number of concerns that are out there. And when we first launched ridesharing, we
+certainly were disruptive to insurance companies, to transportation boards, to taxis,
+consumers had a voice there. But when I look at autonomous technology and the number
+of partnerships, the number of people, the cities who are building infrastructure to attract
+us to come and test in their cities, I really think the regulators – and this is a really complex
+regulatory environment, and I'm really hopeful that the regulations and the legal
+frameworks can be established to keep up with how quickly the technology is developing.
+And that's the second takeaway, is I think this is coming faster than people think. In the
+report, all three of the locations noted that they agree that a majority of cars on the road
+may be autonomous by 2051, so 35 years. And at Lyft, we're focused on getting a
+majority of rides autonomous by 2021. So there's a huge gap in what the report and what
+consumers are thinking for what some of the companies are working toward. So I think the
+future is here and is going to come quicker than people think.
+
+Bloomberg Transcript
+
+A - Alexander R. Baugh
+
+{BIO 15706866 <GO>}
+
+I think that regulatory point is a very interesting one, in that the regulation that controls
+most of motor vehicle operation globally was developed in the early 1970s, and it doesn't
+say anything about autonomous driving, you'd be surprised to hear. It really has as its
+tenet, as fundamental in all of the enabling legislation the fact that there's a human driver
+who is responsible for the operation of that car, and unraveling that and rebuilding that
+legislation is going to be no small feat. And I suspect that what we'll see, listening to the
+plaintiffs' bar a little bit that – what we'll see in the first instance is that, that law won't
+change immediately and won't even change quickly. And that you'll still be in a situation
+where the first action that you'll have will be against the operator of the vehicle, even if
+that operator is not actually in control of the car. And that will lead to subrogation activity
+against some of these other parties that we're talking about, and the law will evolve and
+we'll come to a different landing. I don't know exactly the path that that's going to follow,
+but I think that we'll see something along those lines.
+
+A - Kate Sampson
+
+{BIO 20505903 <GO>}
+
+Yeah. And I would also say, it's not the first time that this challenge has been put forth for
+insurance companies, for regulators. We have aircraft that we've got an operator of the
+aircraft. We've got a Rolls-Royce engine or a certain engine, we've got autopilot
+technology in there. So we've seen situations where liability has had to be determined, so
+it's not the first time, but it's on a much broader scale.
+
+A - Robert W. Peterson
+
+{BIO 21267685 <GO>}
+
+Yeah. Look, speaking of airplanes and the rate of adoption, let me just go back to when
+airplanes were first invented, because in 1901, Wilbur Wright said to his brother Orville, it
+will be 50 years before people fly. Now, Wilbur died young, unfortunately, from typhoid
+Page 13 of 16
+
+
+
+Company N ame: American I nternational Group I nc
+Company Ticker: AI G US Equity
+Date: 2018-01-08
+
+FINAL
+
+fever and didn't live long enough to see another innovation, which was vaccinations. But
+Orville actually lived long enough to see not only the destruction of Europe from the air,
+but the breaking of the sound barrier in 1947, because he passed away in 1948. So when it
+comes to these kinds of predictions, you can either cite Yogi Berra or Niels Bohr,
+whichever one you want to credit, with saying predictions are difficult especially about the
+future.
+But I think this train is now on a roll, self-driving cars for the last 100 years have always
+been 20 years away. Well, now, look in your rear viewer mirror, because things are closer
+than they appear. When was Uber founded? 2009 I think, and then Lyft a few years later,
+and now they're absolutely global. So a new technology in this age can sweep away the
+status quo almost overnight. So I agree with, I think, everybody here that the public
+perception is probably not correct that these cars are going to be on the road and in
+substantial numbers particularly in urban areas, where the value proposition is pretty
+obvious very, very quickly.
+
+Bloomberg Transcript
+
+There are going to be a lot of regulatory challenges and the ones that we see right now
+between – little bit of a tension between the states and the federal government that who
+is going to take the lead with respect to light of this regulation, is really just a microcosm
+of what's actually going on globally, because virtually every country and every economy is
+working as fast as they can to deploy these and to come up with whatever regulatory
+structure they are going to have for that particular deployment. And the report does, I
+think, a very good job – or the whitepaper, of showing exactly how this is a global
+enterprise with all the different pieces that we've been talking about.
+You go and take a look at pages 15 through 20 in the whitepaper and they have some
+wonderful charts that show how any particular vehicle that's being developed today may
+have elements coming from all around the world going into it. So those are going to
+cause any number of challenges and there is going to be a lot of sifting out and settling
+down that's going to be doing – going over the next years. But I say they're here and I
+think you can go out to the Gold Lot right now and reserve an autonomous ride in a Lyft, if
+I'm correct. So maybe when we're done here, Sal and all of us, let's go out to the Gold Lot
+and get on that train.
+
+Q - Salen Churi
+
+{BIO 20591117 <GO>}
+
+It does seem like there is a sense in which the people that are most optimistic about this
+or at least think it's coming the most quickly are the people who've experienced the taste
+of it, right? Kate, you mentioned the experience such as sort of sitting in one or the folks
+in Singapore who have more experience with ridesharing.
+Another theme I think we've seen kind of woven through all this is the trust gap, right?
+And I think Lyft and ridesharing has gone a long way towards solving that problem, right?
+You mentioned the first thing that your mom told you when you were a kind is don't get in
+a stranger's car, and now we all do that with regularity, because you guys built a digital
+trust platform and it's really something, I think, that has helped people kind of acclimate to
+this. So it does feel like one of those things where when you say it, it sounds really a pie in
+the sky, you're going to get in this car, it's going to whisk you away to somewhere. It's not
+Page 14 of 16
+
+
+
+Company N ame: American I nternational Group I nc
+Company Ticker: AI G US Equity
+Date: 2018-01-08
+
+FINAL
+
+a stranger, it's a robot. But the people who've experienced sort of the first steps we've
+taken in that direction tend to be a little bit more optimistic about it.
+It's been said recently in Silicon Valley that we're overstating the short-term effects of this
+and understating the long-term effects of autonomy. And we talked a little bit here today
+about sort of where we are today and where we're going in 2050 or 2030 or whatever
+the appropriate day is for that kind of deep penetration of autonomy. Can you guys talk a
+little bit about where you think we may go in between? What does the adoption look like?
+What does that process look like?
+
+A - Kate Sampson
+
+{BIO 20505903 <GO>}
+
+Bloomberg Transcript
+
+I'll start. So if I think about it, where we are today, the car is the second most expensive,
+largest expense in your house. So I'm constantly wondering, there is no question that we
+are close to, if we haven't already, hit peak car. So meaning, we have peak horse when we
+stopped buying horses, and the population of horses went down in America. Now it's
+we're at peak car. And we know that 16-year olds aren't getting their license. We know in
+the urban environment we're seeing much more adoption of rideshare versus owing a car.
+And I always use the analogy of, if you're – some of us have – we all use our cellphones,
+and many of us still have a landline in the house. And we really don't use it. It just accepts
+cold calls and political calls. But we like having it.
+But if that cost you $9,000 a year to keep, you'd get rid of it in a second and you'd use an
+alternative. And I think that's what we're looking at when we talk about the transition to
+the various forms of ridesharing that will occur with autonomous technology or semiautonomous technology until we get to that Level 5 state. So I think we're seeing more
+and more use cases for ridesharing in this middle ground. We're seeing non-emergency
+medical cases, where we're partnering at Lyft with folks who want to help their patients
+get to their dialysis appointment or come for their check-ups. So we're starting to see the
+use cases just explode in preparation for this really being the future.
+So I think we're going to still see adoption of ridesharing and the elimination of car
+ownership. Maybe you go from three cars to two cars or two cars to one car through this
+transitional period, but it'll start to be more and more obvious to consumers that this is
+the future as those things start to emerge.
+
+Q - Salen Churi
+
+{BIO 20591117 <GO>}
+
+Rip-off of that, I think that applies equally to sort of the regulatory picture, right? So as
+things sort of start to get adopted, you may see more and more willingness to engage
+with them. So this kind of parallels the sort of personal feelings that people might have
+and their optimism or pessimism about autonomy. But to just take one example, there is a
+company called Zipline. I don't know if you guys have come across them. It's a drone
+medical delivery company. So they have autonomous drones that are today delivering
+20% of Rwanda's blood to the hospitals and currently can't operate in the U.S. under FAA
+regulations. But once they get to that penetration and they show the tremendous
+transformative power of being able to make those deliveries and the lives that they're
+changing, it becomes easier for regulators here to get comfortable with that. And so, I
+
+Page 15 of 16
+
+
+
+Company N ame: American I nternational Group I nc
+Company Ticker: AI G US Equity
+Date: 2018-01-08
+
+would sort of echo your comments that you sort of start to build out a framework where
+you can see adoption coming across jurisdictional lines and even international lines.
+
+FINAL
+
+A - Robert W. Peterson
+
+{BIO 21267685 <GO>}
+
+Yeah. Well, I think we are as humans neophobes, and that's part of how we stay alive is
+we are a little bit fearful of new things until we establish that they are at least harmless to
+us. And then if they're useful, we will adopt them. But I could say just from personal
+experience, I rode in a Google car a number of years ago, we went out on US 101 and I280, and I was nervous when I first got in the car. But probably within five minutes I was
+relaxed and I was chatting with the person who was in charge of driving the car and it was
+– really it took no more time than that for me to sit back and say, I like this. And at 75, the
+other people around me when I'm driving would like it if I were in one of those cars, too.
+Yeah. But when you think about the rate of adoption, one of the figures that's always
+stuck in my mind is that, if you deploy these cars on a fleet basis and within a particular
+operational design domain you have only 5% of fully autonomous vehicles, but each of
+those replaces six cars, those are cars that either aren't going to be bought or they're
+going to be retired or they're going to sit in their driveway, you really have 30%
+penetration. 5% times replacing six cars, so it can happen very, very fast without deploying
+cars one-for-one or even close to one-for-one. So if I can commit the Yogi Berra error of
+guessing about the future, that is my best guess, it's going to happen very fast.
+
+Bloomberg Transcript
+
+Q - Salen Churi
+
+{BIO 20591117 <GO>}
+
+Well, I think we'll conclude there. Thank you so much to our esteemed panel here for
+sharing their thoughts and to AIG and to the authors of our reports. And for all those who
+would like to dig in and take a look at the report and learn more, you can find more on
+www.aig.com/innovativetech. Thanks so much.
+
+This transcript may not be 100 percent accurate and may contain misspellings and other
+inaccuracies. This transcript is provided "as is", without express or implied warranties of
+any kind. Bloomberg retains all rights to this transcript and provides it solely for your
+personal, non-commercial use. Bloomberg, its suppliers and third-party agents shall
+have no liability for errors in this transcript or for lost profits, losses, or direct, indirect,
+incidental, consequential, special or punitive damages in connection with the
+furnishing, performance or use of such transcript. Neither the information nor any
+opinion expressed in this transcript constitutes a solicitation of the purchase or sale of
+securities or commodities. Any opinion expressed in the transcript does not necessarily
+reflect the views of Bloomberg LP. © COPYRIGHT 2022, BLOOMBERG LP. All rights
+reserved. Any reproduction, redistribution or retransmission is expressly prohibited.
+
+Page 16 of 16
+
+

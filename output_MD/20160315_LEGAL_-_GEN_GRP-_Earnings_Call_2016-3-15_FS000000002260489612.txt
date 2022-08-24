@@ -1,0 +1,1617 @@
+Company N ame: L egal & General Group PL C
+Company Ticker: L GEN L N Equity
+Date: 2016-03-15
+
+Q4 2015 Earnings Call
+Company Participants
+FINAL
+
+Kerrigan Procter
+Mark J. Gregory
+Mark J. Zinkula
+Nigel D. Wilson
+Paul Stanworth
+
+Other Participants
+Abid Hussain
+Alan G. Devlin
+Anasuya Iyer
+Andrew J. Crean
+Andrew Sinclair
+Andy Hughes
+Ashik Musaddi
+Fahad U. Changazi
+
+Bloomberg Transcript
+
+Gordon Aitken
+Greig N. Paterson
+Oliver George Nigel Steel
+
+MANAGEMENT DISCUSSION SECTION
+Nigel D. Wilson
+
+{BIO 1535703 <GO>}
+
+Thanks, Alan (00:01). Now, I didn't really want to get up and down.
+Good morning, everyone, and thank you for coming to our Annual Results Presentation for
+2015. No doubt, some of you saw our model house in the lobby. Housing is part of our
+investing for the long-term. A couple of bits of housekeeping, here are the usual forwardlooking statements. Please switch off mobiles. And if there is a fire alarm, the home team
+will shepherd all of you downstairs.
+This is another terrific set of results from Legal & General: operating profit, up 14%,
+dividend up 19%, EPS up 11%. I'd like to thank all of my colleagues, and particularly, the
+team in front of me, Mark Zinkula in LGIM, Kerrigan Procter in LGR, Duncan Finch in
+Insurance, Jackie Noakes, in Savings and, of course, Gene Gilbertson in LGA. And I missed
+Paul Stanworth, but I'll put him in anyway.
+
+Page 1 of 27
+
+
+
+Company N ame: L egal & General Group PL C
+Company Ticker: L GEN L N Equity
+Date: 2016-03-15
+
+FINAL
+
+Very committed, strategically aligned and ambitious team driving our strategy forward,
+delivering value for customers and value for shareholders. Today, I will talk about the
+overall financials and our strategy. And Mark Gregory will lead you through the detailed
+financials on Solvency II.
+Mark and his team are central to our success at Legal & General. And I understand
+completely why he's decided to retire after 18 years and 8 years on our board, plus 3
+years as CFO, during which time, he landed the SII internal model approval. But I'm
+delighted he will be around for some time.
+
+Bloomberg Transcript
+
+Net cash, up 14% to £1.3 billion, operating cash up 11% to £1.2 billion, operating profit up
+14% to £1.5 billion, EPS up 11% to £0.186, a 17% ROE and a recommended full-year dividend
+of £0.134, that's up 19%. Growth in the teens across our key financial metrics is a major
+success. We can deliver these results because we have two things, a clear and consistent
+strategy and the ability to execute well. Our five growth drivers: ageing populations,
+globalized asset markets, the need to create new real assets, welfare reform and
+digitalization, these are long-term, persistent and operate across economic cycles. We
+are a resilient growth business.
+We don't just float along passively waiting for the rising tide that lifts our boats. We've
+positioned ourselves in the fast-moving water. And here's how we've done it. In pension
+de-risking, we're winning mandates everywhere and becoming a top UK lifetime
+mortgage provider. We're winning investment management mandates in the UK, in the
+United States, in Asia. We're achieving further big scheme wins in auto enrollment, moving
+insurance towards a digital direct model and investing in long-term real assets to capture
+illiquidity premium and drive economic growth.
+The 2015 results are part of a consistent medium-term trend. Over four years, our
+compound annual growth for net cash has been 10%, for EPS it's been 11%, for DPS 20%
+and ROE has grown to 17.7%. Total shareholder return for three years and five years has
+been 114% and 259% respectively. We've accelerated the evolution of Legal & General
+from a traditional life office to an integrated asset model, asset gathering, asset
+management and asset creation, whilst retaining our market-leading expertise in
+insurance risk management. We've de-cluttered and refocused our core capabilities,
+exited the non-core and subscale, and positioned ourselves in new growth markets
+including LDI, real assets, housing, urban regeneration, workplace pensions and lifetime
+mortgages, whilst retaining our consistent focus on efficiency and unit cost reduction.
+We have a compelling vision and our team is driven by deep thinking and excellent
+execution. I will return to strategy and outlook later. But first, Mark and I will address
+Solvency II. Our Solvency II capital surplus at the year-end is £5.5 billion, a coverage ratio
+of 169%. Our economic capital surplus at year-end is £7.6 billion, a coverage ratio of 230%.
+The only new business effect for us from Solvency II is in LGR in the UK, which we had, in
+any case, already moved to be more capital-efficient and risk-efficient business.
+Please note that about three quarters of our risk capital arises from market risk both
+under Solvency II and economic capital models, reflecting the fact that we are more of an
+
+Page 2 of 27
+
+
+
+Company N ame: L egal & General Group PL C
+Company Ticker: L GEN L N Equity
+Date: 2016-03-15
+
+asset company than an insurance company. Solvency II has not materially changed our
+strategy. Moreover, we believe there will be further helpful changes to Solvency II as the
+EU reviews its post-credit crisis legislation, potentially including a reworking of the risk
+margin for longevity.
+
+FINAL
+
+I'll now hand over to Mark to give you more color on both on Solvency II and the financial
+results for 2015.
+
+Mark J. Gregory
+
+{BIO 15486337 <GO>}
+
+Thanks, Nigel. I, too, would like to add my thanks to our colleagues for all their hard work
+in delivering a decent performance in 2015 and also in regard to the implementation of
+Solvency II which was a real team effort.
+I'm very pleased with our results for 2015. But before I get to those, I'll take you through
+our capital position. As I describe our opening Solvency II balance sheet, I'll also reference
+our economic capital position as both are relevant to how we run the business.
+
+Bloomberg Transcript
+
+In aggregate, the group's eligible owned funds on both an economic capital and Solvency
+II basis were the same at 31 December 2015, up £13.5 billion. This is coincidental. They are
+certainly not bound to be the same number.
+So, for the year-end 2015, it comes down to merely a case of where the line is drawn
+between what is required capital and what is considered surplus. Solvency II has many
+similarities to our economic capital. For example, both are calibrated as 1-in-200 year
+value at risk balance sheets. But Solvency II has a number of items which we consider to
+be non-economic and hence there are differences between the two and I'll explain those
+more later.
+Our economic capital coverage ratio is 230%, almost unchanged from last year and our
+opening Solvency II coverage ratio is 169% with a Solvency II capital requirement of £8
+billion and a surplus of £5.5 billion.
+Here's a breakdown of our Solvency II capital requirement or SCR by risk type after the
+effects of diversification. 48% of our £8 billion SCR relates to credit arising predominantly
+from our £39.4 billion of bond and bond-like assets backing our annuity business.
+11% of the SCR relates to equity asset risk, primarily relating to equities held in
+shareholder funds, or with profits fund and the value in-force of our non-profit savings
+business. Our largest insurance risk is longevity also equivalent to 11% of SCR on a
+diversified basis. I should also point out that the SCR includes the SCR related to our withprofits business and our final salary pension schemes.
+Moving on from our Solvency II capital requirement to consider the quality of the capital
+resources, which contribute to our £13.5 billion of own funds. £11.3 billion of our own funds
+
+Page 3 of 27
+
+
+
+Company N ame: L egal & General Group PL C
+Company Ticker: L GEN L N Equity
+Date: 2016-03-15
+
+or 84% of the total is Core Tier 1. And these components alone cover solvency capital
+requirement 1.4 times.
+
+FINAL
+
+Not unsurprisingly, given market risk comprised nearly three quarters of our solvency
+capital requirement, this analysis demonstrates that our coverage ratio is more sensitive
+to market and economic movements than insurance risks.
+The sensitivity shown here are all independent stresses to a single risk. In practice, the
+Solvency II balance sheet will be impacted by a combination of the stresses. And the
+combined impact can be larger than adding together the impacts of the same stresses in
+isolation.
+At a group level, the board has set a preferred Solvency II coverage ratio to be greater
+than 140%. This is not to say that should the coverage ratio drop below 140%, that any
+mitigating action will automatically be taken. But it is a prompt to consider whether any
+action might be appropriate given the prevailing circumstances and what has caused the
+coverage ratio to drop below 140%.
+
+Bloomberg Transcript
+
+I would remind you that the PRA have been very clear that from their perspective, 100%
+coverage ratio of the SCR at all times is sufficient. Any buffer above this is at the discretion
+of regulated firms and their boards.
+This slide shows our projection of the Solvency II surplus emergence over the next five
+years. It does need some very careful caveats. It is only one projection. And as you saw
+from the previous slide, the Solvency II balance sheet is sensitive to markets and other
+insurance experience, as well as to management actions and various other impacts. That
+said, I still think it is useful to see the trend before these impacts.
+What it shows is a projection of surplus emerging each year after amortizing the
+transitional benefit but before the cost of dividend in each discrete year. So, for example,
+the 2017 surplus emergence is shown before any dividend is paid in 2017, but it does
+assume dividends were paid in 2016 and so on. I can guarantee that, in reality, the actual
+surplus will not emerge as shown in here. So, don't bother getting your rulers out.
+But what I am saying is that over time, we expect surplus emergence to be sufficient to
+fund transitional amortization, new business investment, dividends and maintaining a
+strong capital base as the business grows. When we get to the interims and the next fullyear results, we'll show you the movement in the Solvency II balance sheet, so we will
+start to see actual experience rather than a projection.
+So, why I should have to wait for a Solvency II analysis of change, we can show it now for
+economic capital. We'll continue to use economic capital going forward alongside
+Solvency II to ensure that decisions we make are economically robust. We paid £0.7 billion
+in dividends in the year. In 2015, the new business we wrote generated £0.1 billion of
+economic capital surplus and the release from the back book generated £0.8 billion. The
+other capital movements primarily reflect changes in asset mix and other market
+movements, as well as some modifications to our model.
+Page 4 of 27
+
+
+
+FINAL
+
+Company N ame: L egal & General Group PL C
+Company Ticker: L GEN L N Equity
+Date: 2016-03-15
+
+Economic capital own funds at year-end was £13.5 billion. Our economic capital
+requirement was £5.9 billion, leading to a surplus of £7.6 billion, which meant our
+economic capital requirement was covered 2.3 times. Finally, in this capital section, I said I
+would explain the main differences between the economic capital and Solvency II
+positions. And this slide shows a bridge between the surpluses on the two bases at yearend 2015. The main difference between our economic capital and Solvency II models is in
+respect of credit particularly in the calculation of the matching adjustment whether that be
+the assumptions underpinning the matching adjustment calculation or eligibility of either
+assets or liabilities to qualify for matching adjustment treatment. These differences
+amount to a not insignificant £1.4 billion.
+
+Bloomberg Transcript
+
+To give you some sense of what our 1 in 200 event looks like, let me describe the
+longevity stress. We estimate that the average life expectancy of a 65-year old male in
+the UK is currently 85.4 years. In addition to this, as you would expect, we also make
+assumptions about how mortality will improve in the future. Our best estimate adds 1.9
+years to give a best estimate life expectancy of 87.3 years in total. Our Solvency II internal
+model stress then adds a further 3 years to this life expectancy to take it to 90.3 years.
+So, a 3 years increase in life expectancy over the course of the next 12 months.
+Translate this into causes of death, our best estimate assumes that 20% of all annuitants
+who are currently expected to die of cancer will be cured within 15 years. Our Solvency II
+stress assumes 95% of deaths from all forms of cancer will be cured in the next 15 years.
+This Solvency II longevity stress goes beyond our economic view of that risk, which
+accounts for a further £0.3 billion of the difference. Various assets within our balance
+sheet have been excluded from Solvency II own funds. On our economic view, these
+assets amounted to £0.5 billion are included in own funds.
+And finally, we don't have a transitional benefit in our economic capital balance sheet
+unlike Solvency II. And in this analysis, we've allocated the difference back across various
+components of the Solvency II technical provisions, most notably to neutralize the
+difference between the risk margin under Solvency II and the recap cost we hold under
+economic capital.
+Moving on from capital to our financial and trading performance in 2015, Nigel has given
+the top line figures and I'll now add some color on the group numbers and cover the
+divisional performances.
+Here, we have the key numbers in terms of stock of business, cash and earnings as well
+as the balance sheet. In terms of the stock of business, there are two particular great
+areas to highlight. First, the 8% growth in LGIM assets under management, now £746
+billion and driven by almost £38 billion of external net inflows, a record year, and a
+fantastic performance across all product areas, geographies and client segments.
+And the second is a 22% growth in direct investments, now at £7 billion across the group.
+This growth reflects the success we're having in originating and developing assets on
+which we expect to enhance the risk-adjusted returns for shareholders.
+
+Page 5 of 27
+
+
+
+Company N ame: L egal & General Group PL C
+Company Ticker: L GEN L N Equity
+Date: 2016-03-15
+
+FINAL
+
+As I said on previous occasions, it is our stock of business which drives our cash
+generation. Our operational cash at £1.217 billion was up 11%. Net cash generation, up
+£1.256 billion was up 14%. Operating profit was also up 14%, and our post-tax return on
+equity increased to 17.7%.
+Here, we see how our business stocks have progressed over the medium term. 11%
+compound annual growth rate in LGIM's asset under management. LGIM is now the 15th
+largest global fund manager but still represents around only 1% of the global market
+share, so plenty of headroom to grow.
+Our Insurance premiums have grown by a compound annual growth rate of 8%, now it's
+£3.1 billion. And bear in mind, we are the largest player in the UK protection market with a
+retail market share of around 25%. And of course, our growing annuity back book in LGR is
+expected to provide predictable releases for very many years to come.
+This slide shows the progression in net cash generation during the year, up £152 million or
+14%, with all our business divisions, other than Savings, making a meaningful positive
+contributions to the increase year-on-year.
+
+Bloomberg Transcript
+
+Moving now to the business divisions, and I'll start with L&G Retirement. This is a growing
+business. And operational cash generation was up 27% to £372 million in 2015. Net cash
+generation benefited from our new business surplus of £45 million within which the
+longevity reinsurance in respect to new business contributed to £55 million post tax or
+£69 million pre-tax.
+An operating profit of £639 million was up by 49% as a result of the expected release
+from the back book, the new business surplus, higher annuitant mortality in the year, and
+reserving changes in respect to customers who've gone past their normal retirement
+date but have not yet chosen to start receiving their pensions.
+Couple of further points on longevity, our reserve in for mortality improvement is still
+based on an amended version of the 2013 CMI table rather than the 2014 table where the
+latter places more reliance on recent heavier population mortality. And secondly, we've
+now reinsured £7.5 billion of longevity risk in respect of our annuity liabilities.
+Annuity business volumes were lower than 2014 at £2.7 billion as we did not repeat the
+two mega deals we wrote in 2014. We did, however, complete over 60 bulk transactions
+in the UK and expanded internationally with our first Dutch and U.S. transactions in 2015.
+UK individual annuity premiums at £327 million were lower. The 2014 comparator was £591
+million. This was broadly in line with our expectations. However, from a standing start at
+the end of Q1, we wrote £201 million of lifetime mortgages in 2015. Volumes continue to
+grow through the year with £99 million being completed in quarter four. Very definitely a
+growth business for L&G.
+
+Page 6 of 27
+
+
+
+Company N ame: L egal & General Group PL C
+Company Ticker: L GEN L N Equity
+Date: 2016-03-15
+
+FINAL
+
+Within the total annuity assets of £43.4 billion we increased direct investments by 20% to
+£5.5 billion evidence of the synergy that operates between LGR, LGC and LGIM,
+something which we will continue, whilst always maintaining discipline over asset quality.
+Turning to LGIM. 2015 was an outstanding year. But I suspect Zink would say that the
+business is only just getting into its stride. Revenues were up by 8% at £694 million, the
+cost/income ratio with a very competitive 48%, and operating profit from our asset
+management business was £359 million, up 7%.
+2015 saw very strong inflows. And international mandates amounted – accounted for £9.5
+billion of external net flows. In Asia, LGIM won further mandates in China and new ones in
+Korea, Japan and Taiwan. And the U.S. business continues to grow strongly, where – as
+well as having a market leading LDI proposition, we also won our first multibillion dollar
+U.S. index mandate.
+And we've not neglected the UK. The National Grid Pension mandate, they've been about
+£12 billion of inflows. We are expanding Workplace Savings, which now has £14.7 billion of
+assets under administration and continue to win significant new mandates including John
+Lewis and Tesco. We believe the latter to be the largest corporate pension scheme in
+Europe by a number of members.
+
+Bloomberg Transcript
+
+Total defined contribution pension assets including investment-only rose 13% to £46
+billion.
+Our retail offering is also growing. 2015 was a record year for inflows and we are now
+ranked at number six for retail flows. We were outside the top 20 in 2014. And real assets
+also performed well, with assets up 26% at £18.3 billion. And LGIM worked closely with
+LGC and LGR to launch three urban regeneration schemes in the UK in Salford, Leeds,
+and Cardiff.
+Legal & General Capital delivered strong net cash, £187 million compared with £162 million
+in 2014. Operating profit was up 15% at £233 million. LGC has been actively managing and
+diversifying its portfolio with a particular focus on direct investments in housing, urban
+regeneration, clean energy, and alternative finance. Direct investments in LGC now
+amount to £867 million, not just used in our balance sheet size and duration to capture
+illiquidity premium, but also driving synergy gains across the business.
+For our Insurance division, UK Protection gross written premiums were up by 2% at £1.442
+billion in 2015, as a result of strong sales and good retention. Retail protection premiums
+were up by 5% with a particular emphasis on growing the direct sales channel, which now
+accounts for 18% of new business APE. Protection purchases are frequently aligned with
+mortgages and house buying. Our Mortgage Club last year facilitated over £46 billion of
+mortgages, 20% of the entire UK mortgage market.
+Insurance net cash was up by 6% to £348 million, although operating profit was down to
+£293 million from £370 million as a result of changes to our modeling of reinsurance for
+our UK Protection business. The impact of these changes was to reduce operating profit
+Page 7 of 27
+
+
+
+Company N ame: L egal & General Group PL C
+Company Ticker: L GEN L N Equity
+Date: 2016-03-15
+
+after-tax by £93 million in 2015 and it will also reshape the potential margins, deferring
+some of the emergence of future cash generation.
+
+FINAL
+
+The General Insurance business saw operating profit reduced by £8 million in 2015 to £51
+million. That includes a £15 million impact from the UK floods in December. The combined
+operating ratio of LGR business in 2015 was 89% compared to 87% in the prior year.
+Operational cash generation in our Savings business was £119 million, down £8 million on
+the prior year. This reflects the decline in contribution from mature savings which is in runoff, partially offset by the contribution from our platforms business. Lower new business
+strain and yet net cash generation was only £3 million lower year-on-year. Savings'
+operating profit was £99 million as compared to £105 million reflecting active
+management of the cost base to offset the lower contribution from mature savings.
+Cofunds remain the largest platform business in the UK with a 19% market share and has
+now achieved £11 billion cost reduction target set at the time of the acquisition.
+
+Bloomberg Transcript
+
+Legal & General America had a much better year in 2015. Net cash generation, this is –
+their dividend of the Group was up by 9% at $83 million and operating profit increased
+from $93 million to $125 million. The 2016 ordinary dividend of $88 million has already
+been paid. LGA is moreover an important component of our expansion in the U.S. We're
+using its balance sheet for U.S. bulk purchase annuities and LGA is also providing backoffice support to both LGR and LGIM in America.
+This slide should be familiar to you. It illustrates the consistency and predictability of our
+cash generation. This means we are able to guide on operational cash generation for LGR
+in short with the expectation of GI, Savings, LGA, and LGC. Compared to the £1.014 billion
+we achieve from these subset divisions in 2015, we are guiding to a 6% to 7% increase in
+2016.
+And finally, on to dividend matters. The full-year recommended dividend for 2015 is
+£0.134, an increase of 19%. This represents a net cash coverage ratio of 1.58 times, down
+from 1.65 times in 2014. And as promised, we've also today announced our new dividend
+policy. Going forward, we would have a progressive dividend policy reflecting the Group's
+medium-term underlying business growth including net cash generation and operating
+earnings.
+So overall, a great set of results in 2015 with all divisions playing their part which had
+enabled the board to recommend a 19% increase in the dividend. And our new
+progressive dividend policy means we'll be able to reward shareholders for the future
+growth as we continue to transition our business model towards a greater emphasis on
+asset gathering.
+And with that, I'll hand back to Nigel.
+
+Nigel D. Wilson
+
+{BIO 1535703 <GO>}
+
+Page 8 of 27
+
+
+
+Company N ame: L egal & General Group PL C
+Company Ticker: L GEN L N Equity
+Date: 2016-03-15
+
+FINAL
+
+Thank you, Mark. Legal & General has evolved rapidly over the last few years. We've decluttered, aligned our strategy to the five macro drivers, set the growth businesses in
+motion, and are moving successfully towards a more digital asset manager. We've come a
+long way. 15 years ago, we were a traditional UK life office with a small investment
+management business; dull but worthy. Unsurprisingly, the credit crisis which took our
+share price to £0.21 in 2009 was a rude awakening.
+Since then, we've gone three phases. From the depths of the credit crisis in 2000 (sic)
+[2008] to 2011, we rebooted the company. Focusing on cash enabled us to clean up the
+business to set a credible strategy and to decide what was core and non-core. Net cash
+grew from £320 million to £846 million, restoring external confidence in the business but
+also internal pride.
+From 2011 to 2015, we delivered consistent progression in cash and dividend. We sold or
+exited non-core or subscale businesses. We focused ourselves on strong markets and
+geographies, and invested in our growth businesses. We took net cash to £1.3 billion, with
+strong growth in EPS, DPS, and ROE. And direct investments started to transform our
+capital-incentive industries.
+
+Bloomberg Transcript
+
+In the next phase, 2015 to 2025, the focus will be on growing the asset businesses and
+making our Insurance businesses increasingly international and digital, a program that has
+already started and which will drive our returns throughout the 10-year period.
+Today, we are substantially an asset gatherer, an asset manager, and an asset originator.
+The asset businesses, LGIM, LGR, and LGC, collectively delivered operating profits of
+£1.227 billion in 2015. That's more than three times the £376 million operating profit
+achieved by Insurance in the UK, in the United States, and in Asia.
+However, expertise and scale in insurance markets is an important component. It is a
+combination of asset management and insurance risk expertise which gives us a clear
+leadership position in pension de-risking.
+We are de-cluttering and simplifying our businesses to focus on core strengths and
+growth markets. We closed or sold subscale businesses where we don't have long-term
+competitive advantage, Egypt, France, Gulf Islands, Suffolk Life, estate agency, ventures,
+and so on. We reduced cost from £1.25 billion in 2014 to £1.13 billion in 2015 exceeding our
+£80 million cost reduction target.
+Kerrigan Procter's LGR has nine sources of profit and we're pushing forward on all of
+them, optimizing the cash generation of the back book, internationalizing new business
+with deals now completed in the U.S. and Netherlands, and setting a higher that's a £500
+million target for lifetime mortgages for 2016.
+As Mark has highlighted, the back book cash generation will remain a source of material
+profits for many years. Our £1.4 billion Lucida transaction in 2013 was a model for back
+book acquisitions. No people, no systems, and no property. This is a market where further
+potential as players consolidate or exit is an opportunity for us.
+Page 9 of 27
+
+
+
+Company N ame: L egal & General Group PL C
+Company Ticker: L GEN L N Equity
+Date: 2016-03-15
+
+FINAL
+
+LGR's capital-lite strategy is in place. We've already executed £11.6 billion of longevity
+reinsurance. We see huge potential demand for pension risk transfer. There are an
+estimated £9 trillion of DB pension liabilities globally and there are very few global
+competitors with the right combination of scale, insurance, and asset management
+expertise.
+The asset portfolio backing the annuity books which we published a few weeks ago is
+well-diversified and actively managed by an outstanding team with a track record of
+strong performance. 95% of our flagship active fixed income funds outperform their
+benchmarks in 2015. The average credit rating is A- and a quarter of the portfolio is made
+up of secured debt. Credit quality and diversification had been strengthened since the
+credit crunch in 2009. Just 2.9% of the £43 billion is sub investment-grade and just 4.7% is
+in oil and gas.
+
+Bloomberg Transcript
+
+We substantially reduced our exposure to banks. In addition, we built prudent reserves,
+£2.2 billion for the default risk and £1.7 billion for adverse mortality experience. The direct
+investment portfolio backing LGR's annuity liabilities is now £5.5 billion and rising. Again,
+with an average A- rating, these raise risk adjusted returns but also benefit from strong
+covenants. Our direct investments will continue to grow. We are moving into an age of
+real assets instead of synthetic assets that fueled the credit crisis.
+LGIM, led by Mark Zinkula, had a terrific year in 2015 and is really well-positioned going
+forward. Globalization means for us moving towards a three hub manufacturing model:
+the UK, the U.S., and Asia. Distribution is working effectively. Our brand travels brilliantly
+and our basic premise of scale, value, and customer service is winning mandates for us
+even where we have little or no infrastructure. Barriers to entry in local markets are
+coming down and we are on our way to becoming genuinely global.
+We're no longer a monoline asset manager providing index products to UK DB pensions.
+That was our old model. Our AUM has more than trebled in the last decade of compound
+annual growth rate of 14%, and scale has been accompanied by diversification.
+Here you see the growth across product categories, solutions, fixed income, real assets,
+workplace pensions, and UK retail where we were largely invisible for several years, but
+where we have the benefit of a strong brand and 10 million existing customers.
+International AUM inflows were strong in 2015. But what I think is really striking here is not
+the 43% compound annual growth rate, but the amount of headroom for further growth.
+We are, as Mark mentioned, the 15th largest global asset manager. But our global market
+share is only around 1%. In my opinion and indeed that of Mark Zinkula's, an ambition to
+grow market share towards 2%. A mere 2% over the next decade or so feels realistic to
+me.
+LGC, led by Paul Stanworth, has four areas of focus for direct investments: urban
+regeneration, housing, alternative finance, and clean energy. We are already leading the
+way in building an impressive real asset portfolio for the business. These are
+marketplaces with a clear funding gap where supply and demand are out of balance and
+Page 10 of 27
+
+
+
+Company N ame: L egal & General Group PL C
+Company Ticker: L GEN L N Equity
+Date: 2016-03-15
+
+where we can deploy our large long-dated balance sheet effectively offering partnering
+with sector specialists.
+
+FINAL
+
+We have momentum and we're accelerating our delivery and are always exploring ways
+to maximize returns such as our new investment in modular housing which allows us
+access to fast, cost-efficient building. This is asset creation for the whole Group and today,
+LGC has generated a terrific return on capital by creating assets for LGR and LGIM.
+This is a simple but important slide because I don't think we've communicated the
+multiple drivers of value within LGC well enough. We invest as a principal using
+shareholder money, we invest as a direct investor to back the annuity book, and we invest
+as an agent through LGIM and its massive institutional family and friends.
+
+Bloomberg Transcript
+
+The assets we create can be tailored in terms of maturity, in terms of cash flow, in terms
+of index linking and so on. And we can choose between LGIM, LGR, and LGC to best
+deliver our strategy. This delivers economically and socially useful outcomes, but is also a
+real win from Legal & General to have this capability. The synergies across LGC, LGR, and
+LGIM enable us to enhance earnings for shareholders directly, optimize cash flows from
+the annuity book, and create new asset classes for LGIM and its clients.
+We've been leading the institutional sector by doing this for three years. The political
+world is now catching up as they realize that investment in real assets is the way to
+improve productivity and growth. The digital disruption that we've seen across all
+industries, media, music, retail, and so on is coming to insurance. We've already seen the
+effects of regulatory change on intermediate and advised sales in financial services. But
+the combination of big data, digital communications, and the Internet of Things will have
+an even bigger effect.
+Duncan Finch's challenge is to ride that wave. We've made a decent start, but there's a
+long way still to go. The back office in our Insurance business is already highly automated
+and digital and delivers competitive unit costs. The drive is now on to expand the front
+office digital direct channels. Direct customers and sales grew at an impressive rate in
+2015, and L&G Direct now accounts for 18% of Insurance new business sales. We are
+investing in the direct channel, in the customer journey, and experience in marketing direct
+and in mobile optimization. This is vital for UK markets and to internationalize in a highvalue way.
+Belgium is a really good digital model, over 1 trillion of AUM, managed by 1,900
+employees. Insurance and Savings are fast followers. IndiaFirst, our JV with the Bank of
+Baroda and Andhra Bank has been a pathfinder, working closely with the Indian
+government, which has a strong digital program to deliver basic mass market products to
+improve financial resilience. We sold 2 million policies in just three months.
+The next steps will be to take that experience and reinforce it to the UK, improving
+financial resilience of our customers by introducing a highly affordable, entry-level
+protection product, which will be a significant disruptor to the UK insurance market. Our
+aim at L&G is to be our own active disruptor, not a passive disruptee.
+Page 11 of 27
+
+
+
+Company N ame: L egal & General Group PL C
+Company Ticker: L GEN L N Equity
+Date: 2016-03-15
+
+FINAL
+
+In Savings, we have clear opportunities to add value to the Group. We're using more
+digital to simplify operations, enhance customer journeys, and control costs in the cashgenerative legacy businesses while increasing our scale, enhance our operating efficiency
+in the platform businesses. LGA delivered 6% growth in gross written premiums in 2015,
+as well as Insurance, it gives us a terrific base in the U.S. from which the write pension risk
+transfer business and to support LGIM America.
+The U.S. is our second most important market after the UK, and our strategy will mirror
+what we do in the UK in the United States. We've made good strides there but we haven't
+yet maximized our synergies. We are focusing intently on a market that is underpinned by
+a strong economy and where our brand is really well-received.
+Legal & General is one firm with one set of values and one set of behaviors. We are
+constantly strengthening the capabilities of our colleagues, building the right positive
+supportive culture. This is not just for risk management purposes where culture is the best
+determinant of compliance, but it's ensure we attract and motivate the best and most
+committed people.
+
+Bloomberg Transcript
+
+Our businesses today are focused on those areas where we can operate at industrial
+scale, providing the best projects, service, and best value through tight cost control and
+economies of scale. The five growth drivers create a world of opportunities for Legal &
+General over the next decade. Aging populations and rapidly rising populations of over
+60s mean that we can aspire to international leadership in pension de-risking.
+As an asset gatherer, we're operating in a $78 trillion global asset market that is almost
+borderless and becoming even more global. It is realistic to double our global market
+share by 2025. We will continue to use our (38:22) and I believe them to be unique
+synergies to capture illiquidity premium and grow our real asset portfolio.
+And DC pension will grow across the world around over the next decade as it becomes
+the favored solution in the United States, in Europe, and in Asia. We will leverage our DC
+and workplace experience to become international leaders in providing private sector
+solutions for the shrinking welfare states and we will continue to disrupt ourselves and our
+markets to drive the digital agenda going forward, not least in insurance which in a
+medium or perhaps even short-term view will change beyond recognition.
+L&G has come a long way in a few years but it's still very much a work in progress. We do
+take a long-term view, but we've already started to make the changes that will drive us
+forward over the next 5 and indeed the next 10 years. And we'll make that change
+positive for our customers, for our employees, and for our shareholders.
+I'll now like Mark and Mark to join me on stage and we'll answer questions.
+
+Q&A
+Q - Alan G. Devlin
+
+{BIO 5936254 <GO>}
+Page 12 of 27
+
+
+
+Company N ame: L egal & General Group PL C
+Company Ticker: L GEN L N Equity
+Date: 2016-03-15
+
+FINAL
+
+Thank you. Alan Devlin from Barclays. A couple of questions. First of all, in 2015, you had
+strong net inflows in the LGIM and the bulk annuity volumes light (39:47) slightly. Can you
+talk about the pipeline of both businesses into 2016? And particularly, on bulks, the UK
+and the ex-UK pipeline?
+And then secondly, on L&G Capital, it's becoming an increasingly important part of
+earnings and cash. Can you talk – and you got some very ambitious targets in housing and
+regeneration, et cetera. Can you talk about how that plays into the Solvency II world of the
+capital-lite model? You're talking about £1.4 billion in your margin adjustment differences.
+Does that help in the Solvency II world or is it a headwind? Thanks.
+
+A - Nigel D. Wilson
+
+{BIO 1535703 <GO>}
+
+I'll just correct you, Alan. We have no ambitious targets. I think they're all realistic targets. I
+do have ambitious targets, but those are not the ones I'm allowed to put on these
+particular slides. They all got taken out yesterday when I was doing the slide final
+verification meeting suddenly. Mark, do you want to take the LGIM? Kerrigan, take LGR;
+and Paul take LGC, if that's okay? Mark?
+
+Bloomberg Transcript
+
+A - Mark J. Zinkula
+
+{BIO 16142450 <GO>}
+
+Yeah. The question is more about book annuities. But yes, within LGIM we had record
+flows last year really across the board. And we're continuing to see a lot of activity in the
+LDI space. So, obviously, with the volatile market first part of the year and so forth, it's not
+going to be a straight path. But there's different kinds of hedging activity that will occur
+and implementing trades on a capital-efficient basis and so forth. So, we do expect LDI
+volumes to continue to stay relatively healthy over the course of the year. Do you want to
+take the question on annuities?
+
+A - Kerrigan Procter
+
+{BIO 15093363 <GO>}
+
+Yeah. On the bulk (41:13-41:16) and the Netherlands, I think just back to the UK to start
+with, ever more pension schemes and run-off more and more schemes close in the future
+accrual, that market is definitely growing from the – it was about £1.8 trillion worth of
+liabilities and transferring at the rate somewhere between £10 billion to £15 billion a year
+from pension funds to ensure (41:38) that growing, the demand is definitely there. I mean,
+certainly, flows will be variable from quarter-to-quarter, quite a lot of acceleration towards
+the end of last year into deals into 2015 but, certainly, very constructive for like (41:51) the
+whole year this year in terms of client discussions that we're having.
+
+A - Paul Stanworth
+
+{BIO 15495409 <GO>}
+
+Yeah. Thanks. In terms of LGC. I mean, I think the key purpose of LGC is to capture an
+asset flow that's going to be coming to the institutional investor base anyway, whether it's
+in LGIM's funds or whether it's in Kerrigan's funds. And what we're trying to do is capture
+the kind of value chain earlier on rather than just buy completed assets just to build the
+assets themselves.
+So, the capital that LGC puts in has quite a huge leverage in terms of its ability to capture
+an asset flow. And Nigel talked about the fact that we can kind of get a 10:1 ratio; for every
+Page 13 of 27
+
+
+
+Company N ame: L egal & General Group PL C
+Company Ticker: L GEN L N Equity
+Date: 2016-03-15
+
+FINAL
+
+£1 we put in LGC, we capture 10 times of the asset flow that would go if it's debt-type
+instruments or sale and leasebacks to Kerrigan's and if it's equity-type co-investments,
+that would go into Mark's. And so, those benefits will come out in the different divisions.
+So, our targets are very big, but really the catalyst is in terms of LGC is to capture that
+front end of the development process and the deal flow that comes out of the bag.
+
+A - Nigel D. Wilson
+
+{BIO 1535703 <GO>}
+
+A couple of extra points to add there. Bill Hughes is not here today, otherwise I would
+have congratulated him. He cycling 1,400 kilometers to MIPIM and I think he's got 1,300
+km in his legs at the moment, so you start looking a bit weird. But he's a done a great job
+of building our real asset business. That's gone from about £5 million profit to £50 million
+profit over the last five or six years.
+And the direct investment hopper, which is very full at the moment. We've done quite a
+lot of deals already this year. And so, that's a tremendous benefit to shareholders. And
+that combination of Mark's team, working to Paul's team, working with Kerrigan's team
+gives us a real competitive advantage in winning the bids for that particular area.
+
+Q - Gordon Aitken
+
+{BIO 3846728 <GO>}
+
+Bloomberg Transcript
+
+Thanks. Gordon Aitken from RBC. Three questions, please. First, on annuities; you
+mentioned the potential for the market to consolidate there. Just wondering if you have
+any preference between large bulks versus existing retail annuity books versus existing
+bulk books. And what are consequences of maybe buying existing book? If the target
+already has a transition, do you get the benefit of that on the Solvency II?
+Second one on stream, it's positive overall and what happens to stream in the new
+capital-lite world when you use longevity reinsurance? And if you can talk maybe a bit
+about the capacity for longevity reinsurance on an annual basis, that'd be great. And the
+final point on the matching adjustment. You pointed that there's a big gap between the
+capital surplus and the economic capital in that Solvency II basis. Is there anything you can
+do to reduce that gap and just maybe we can get more of matching adjustment on more
+assets? Thanks.
+
+A - Nigel D. Wilson
+
+{BIO 1535703 <GO>}
+
+If I was going to write some questions, I haven't written those questions for us to answer,
+Gordon. So, thank you for, indeed, asking those questions. I think just on this big picture
+stuff around – I'm going to give my colleagues time to think about the answers, so I'm just
+going to waffle on for a minute. On the whole area of Solvency II, there are sort of four
+macro themes which we need to think our way through is one, the EU is definitely going to
+change the regime going forward and that's going to be a benefit to us as they change
+the risk margin. They've already had three goals of changing the fundamental stride. I
+think that's point one.
+The second point is the modeling point that you talked about the difference between
+matching adjustment. I'll let Mark give you more detail on that in the answer. But we didn't
+optimize. We did not do things at year-end and Mr. Stedman and Mr. Blunt (45:32) did a
+Page 14 of 27
+
+
+
+Company N ame: L egal & General Group PL C
+Company Ticker: L GEN L N Equity
+Date: 2016-03-15
+
+FINAL
+
+fantastic job. But they didn't quite get everything and we could've possibly done. So
+there's quite a bit of other things that we didn't get fully modeled out that we – that what I
+would expect in 2016 to model our way through.
+The third point, there is a number of optimization things like ineligible assets. Kerrigan and
+his team did a good job and actually, there's quite a bit of – could have also gone is the
+matching adjustment portfolio if you just speed it up a little bit towards the year-end. But
+they were busy on the 100 more other tasks. And the fourth area is really on the whole
+longevity question that Mark talked about where we've stood back and we've only used
+the 2013 tables. At some point, we've got to look at all the data that's coming through
+where people just been dying a lot quicker.
+But if – Kerrigan, do you want to go through the first answer and Mark, you're going to
+take the second?
+
+A - Kerrigan Procter
+
+{BIO 15093363 <GO>}
+
+Bloomberg Transcript
+
+Just on the industry consolidation. I mean clearly, there are some interesting opportunities
+out there, and we'll look at them just like any other deals. We'll look at our return on
+capital metrics. We'll look at impacts on coverage ratio. We'll look at the impact on our
+cash metrics. But there's certainly some interesting deals out there. And broadly, they rely
+on the same skills as bulks; you need, administrations, you need asset management
+skillsets, you need to understand the longevity risks. On the individual side, of course,
+we've got 550,000 individual policy holders ourselves, so we do understand that
+longevity risk, and we'll pick between the best bulk back book deals or the best individual
+annuity back-book deals or the best front-book deals.
+On your point about transitionals, yes, if you heading towards Part VII on those deals, then
+I think you're pretty likely to get transitional relief. So, that's a possible additional boost for
+looking at some of those back book. So interesting, certainly, to look at.
+
+A - Nigel D. Wilson
+
+{BIO 1535703 <GO>}
+
+And there's plenty to look at. I mean, we're not short of opportunities to look at and
+there's not lots of competitions around for those things.
+
+A - Kerrigan Procter
+
+{BIO 15093363 <GO>}
+
+You talked about capacity for longevity reinsurance. I was at a global conference on
+longevity reinsurance last year, and there are lots of global reinsurers either interested in
+the market as an offset to mortality risk or interest in the market with such potential for
+growth in the market or interested to longevity risk alongside asset risk, but with a huge
+global interest and understanding in the UK market. So, yeah, really positive on capacity
+there over the next – over the foreseeable future.
+
+A - Mark J. Gregory
+
+{BIO 15486337 <GO>}
+
+Just a couple – on the impact on surplus, I think we've explained that we – as best we
+could at the half-year, Gordon, that the effect of the capital, actually, broadly is to bring
+Page 15 of 27
+
+
+
+Company N ame: L egal & General Group PL C
+Company Ticker: L GEN L N Equity
+Date: 2016-03-15
+
+FINAL
+
+more of the profits forward. There's less profits in the tail from the capital-lite strategy but
+the reinsurance typically brings more into new (48:09) Hence, in my speech, I gave you a
+number for the benefit of new business surplus in 2015 based on the reinsurance we
+entered into the longevity in the year. So, I think that you should expect to continue
+broadly going forward.
+On your other question around what scope is there to close this gap in the £1.4 billion I
+highlighted between the economic capital surplus and the SII surplus in respect of
+matching adjustment treatment. I think the answer is some and some. Some the
+differences, I think are permanent in nature. So, for example, Solvency II, it's very clear that
+any assets below investment grade, you can't take any yield enhancement below that
+grade and below that, deemed to be credit risk rather than an illiquidity, so you are forced
+to go back up to a BBB yield. So, those sorts of features, they are permanent features
+going forward. So, we wouldn't expect those to reverse.
+
+Bloomberg Transcript
+
+But I think there is some scope elsewhere in the difference between the EC treatment of
+MA and Solvency II (49:02) some of the liabilities we have on annuities currently don't
+qualify for MA treatment. And some of those, we think with some – either some
+renegotiation with the counterparty or we'll do some more work ourselves. And just taking
+the PRA through our thinking, we hope we can get more of these liabilities to qualify for
+MA. So if I was to guide you over the next year or two, I might hope for maybe a quarter
+or a third of that gap to close, but we will need lot work to do internally then we'll take our
+colleagues at the PRA through our thinking as well. So, that's certainly kind of our target
+what we'd like to try and achieve.
+
+A - Nigel D. Wilson
+
+{BIO 1535703 <GO>}
+
+That's hundreds and millions of gains not tens of millions of gains. Greig, I know you're
+surprised. You usually went the 17th question before and usually comes in eight parts.
+
+Q - Greig N. Paterson
+
+{BIO 6587493 <GO>}
+
+(49:50) So, just in terms of the bulk annuities. I mean, they shrunk by 60% this year and
+you took reinsurance as obviously a capital constraint of some sort. You've given a full cost
+on Solvency II. I wonder if you could give us a feel for it, and it's got a business strain and I
+wonder if you can give us a feel what the bulk in the UK Protection budget in that forecast
+thing you gave.
+The second thing is platforms. I wonder if you could just give me the contribution to the
+MCG of the platform business. I think it's loss of some sort, just trying to think if you sell it
+what the boost to MCG will be? And the third question is I wonder if you can give us a feel
+because I mean, obviously credit risk has been a theme that's been quite dominant this
+year. In terms of how many – what sort of billions of bonds you had downgrades on this
+year versus what billions had upgrades? I mean, just get a feel for sort of activity that's
+going on in your portfolio?
+
+A - Nigel D. Wilson
+
+{BIO 1535703 <GO>}
+
+Page 16 of 27
+
+
+
+Company N ame: L egal & General Group PL C
+Company Ticker: L GEN L N Equity
+Date: 2016-03-15
+
+Okay. (50:50) second and third. I think the volumes – we're not capital constrained, I think
+is the point. I think we were resourced constrained getting through all of the Solvency II
+work.
+
+FINAL
+
+A - Kerrigan Procter
+
+{BIO 15093363 <GO>}
+
+I think when I look at 2.7 billion bulks roughly compared to 5.9 billion bulks in 2015 – in 2014,
+clearly, 2014 we did a big (51:18) That made a big difference. We closed roughly the same
+number of policies, and I think what I'll really focus on is return on capital metrics and
+profitability, and I'm not fuzzed about the fluff in the middle, that's the volume figure. So –
+and that's very much how we think about the business and we think very constructive, it's
+all about the business in the UK, in the U.S., and the Netherlands, competitive dynamics,
+looking good in those markets for us.
+
+A - Nigel D. Wilson
+
+{BIO 1535703 <GO>}
+
+It will all be in line with the volumes we wrote in 2015. Now, that obviously will hinge a lot,
+Greig, on exactly the price and actually risk characteristics, but I think in simple terms, your
+thinking is broadly in line with the 2015 volumes.
+
+A - Kerrigan Procter
+
+{BIO 15093363 <GO>}
+
+It's 3 billion to 4 billion rather than 6 billion to 7 billion. (51:00)
+
+Bloomberg Transcript
+
+A - Nigel D. Wilson
+
+{BIO 1535703 <GO>}
+
+Okay. And obviously a question on the net cash contribution from platforms. It is positive
+but not very positive, Greig. So, just to correct your question, it's not negative, but it's not
+a stunningly positive number, either. But there is a small positive contribution from the
+platform net cash generation.
+In terms of your question around credit experience in 2015, we had £2.1 billion of
+downgrades across the whole of our shareholder bonds and annuity bond portfolio. So,
+about 5% of the portfolio was downgraded in 2015. We had about £0.5 billion of
+upgrades during the year as well.
+
+Q - Anasuya Iyer
+
+{BIO 18981555 <GO>}
+
+Hi. It's Anasuya Iyer from Jefferies. The first question was just on the Solvency II ratio.
+Spreads are obviously volatile so far this year. Are you able to give us any Solvency II
+number at the peak of the spread-widening so far this year, and where it is now just to
+understand the range within which it moved?
+The second question, again, on Solvency II. You've given us quite a lot of useful
+sensitivities, but are you able to give us anything on a scenario like a 2008 financial crisis?
+And the last question is just a follow-up on the longevity reinsurance. We've had
+comments from the PRA increasingly cautious about longevity reinsurance. Do you have a
+comment on what that means for the future of your strategy?
+
+Page 17 of 27
+
+
+
+Company N ame: L egal & General Group PL C
+Company Ticker: L GEN L N Equity
+Date: 2016-03-15
+
+FINAL
+
+A - Paul Stanworth
+
+{BIO 15495409 <GO>}
+
+Just on the movements, when I talked about Solvency, there are going to be four big
+themes this year. One is the EU theme, which is going to result in hundreds of millions of
+difference; the modeling changes, hundreds of millions of difference; the back book
+optimization and hundreds of millions of difference. So, there's quite a lot of modeling
+stuff, which I think is preferential for us going forward for Solvency II. The big picture thing
+about Solvency, I don't think it makes any material difference to our business whatsoever
+for this year. The strategy that we had for last year will just be totally replicated for this
+year.
+
+A - Mark J. Gregory
+
+{BIO 15486337 <GO>}
+
+The number, I'm not ashamed to give it to you, it's 158% at the middle of February and it's
+about 163% as of the end of last week. Again? So, that's the coverage ratio. You asked
+the question what was the coverage ratio at the middle of – at the peak of the spread
+widening in February, it's around 158% and about 163% at the end of last week.
+
+Bloomberg Transcript
+
+And your question around kind of stresses rather than scenario, clearly, we've given
+individual stress. I did make the point in my presentation there that, okay, these things do
+happen in combination or I would say, we're not going to get the scenarios today, but
+clearly we have to make sure when we did our 1-in-200 stresses, et cetera, all kind of
+known lifetime events have been covered by (55:05) within the 1 in 200, so things like the
+events of 2008. Had to make sure they work within our view of 1 in 200. We couldn't have
+that as being beyond 1 in 200. So, I would say that in the round-off, you're 1 in 200
+absorbed or known events in the last 100 years or so. So we have to make sure that our 1
+in 200 wasn't kind of too tight.
+
+A - Nigel D. Wilson
+
+{BIO 1535703 <GO>}
+
+Just do two here then move over there.
+
+Q - Ashik Musaddi
+
+{BIO 15847584 <GO>}
+
+Yeah. Hi. Ashik Musaddi from JPMorgan. Just a couple of questions. Going back to the
+Solvency II point, if I start with 158% at February lows, if you strip off the dividend which
+should have been paid with last year's earnings, so you're like 150% give or take. Your
+target is 140%. I – we didn't enter a kind of debt crisis (55:55) I mean, February was
+nowhere close to 2011, 2008 (56:00) So, how should we think about the dividend growth
+given that your buffer such – like February lows was 10 percentage points or, say, how
+should we think about 140% or what would that mean? That's one.
+
+A - Nigel D. Wilson
+
+{BIO 1535703 <GO>}
+
+I'll take that one. I mean, the one thing I can rest assured, we'll do better than your
+forecast. I think I'm just looking through the history of JPMorgan's forecast in our dividend
+and bottom of the class would be (56:30) I think the – what? (56:34) Okay. I mean, you're
+in the same range, but actually – but even Greig, you've been better than JPMorgan on
+that. I think the – going back to the first point is that Solvency II is in its early stage. There's
+a number of EU things that are going to get rolled out. We're going to get the ineligible
+assets change at some point during the course of the year. There's some optimization of
+Page 18 of 27
+
+
+
+Company N ame: L egal & General Group PL C
+Company Ticker: L GEN L N Equity
+Date: 2016-03-15
+
+FINAL
+
+getting stuff that's one grade up a notch from BBB to A or A-. And there's a lot of
+potential to do stuff with the portfolio.
+140% is simply – it's not a target range in the sense that we even have to take any action.
+It's still a huge buffer. 140% is not a range that we wanted to give an illustration of what
+the board would ask us as a management to begin to think about any management
+actions. And, clearly, we're not in any type of scenario like that. Have you got any other
+question?
+
+Q - Ashik Musaddi
+
+{BIO 15847584 <GO>}
+
+Thank you. That's clear. Second question is how should we think about annuity growth and
+earnings? I mean, what I was looking at is your net inflows in 2014 was £4.4 billion. So, it
+was this opening AUM, say, 12% and net inflows of growth in assets in 2014, whereas your
+earnings jumped by 27% in annuities in terms of operational cash generation. That's a big
+jump between asset and earnings. Similarly, this year, your net inflows in annuities is like
+£0.4 billion which is like 1% of the asset base. So, how should we think about this asset
+growth versus earnings growth?
+
+A - Nigel D. Wilson
+
+{BIO 1535703 <GO>}
+
+Bloomberg Transcript
+
+No. I think Kerrigan gave a great answer to that. What I don't really picked it up is that we
+actually can grow the profitability and the cash from the business just by doing relatively
+what I would regard a simple optimization. And my colleagues tell me they're onerous
+optimization. So, we're very, very confident that the op cash that comes off the annuity
+book in 2016 will be significantly ahead of the op cash that we had in 2015.
+And then it's up to Kerrigan and the team to come up with various non-back book
+optimizations to drive the earnings further forward in 2016. There is a bigger choice and a
+bigger funnel, if you like, to look at, because we've got a lot of back books in the UK,
+which are coming on the markets and the team are looking at those. Got a lot of UK
+deals, which are on the market.
+I'm not sure if we're going to usually try and get one clause for the Morgan Stanley
+Conference, but you'd have to see whether we do that later this week or not. But if it's
+not this week, it'll be shortly thereafter. It's just that clients aren't always as obliging as we
+like them to be. Kerrigan was in America last week, and indeed, the Dutch markets and
+the Irish market have further opportunities for us. So, we're spoilt for opportunities and
+there's nine sources of profit that we have down. We had two, three, a few years ago
+we're two, have gone from two to nine and very comfortable. Anything you want to add
+to that, Kerrigan? Yeah. Okay.
+(59:43) and then work your way back.
+
+Q - Abid Hussain
+
+{BIO 17127644 <GO>}
+
+Good morning. It's Abid Hussain from Soc Gén. Three questions if I can. If I can just quickly
+come back to the 140% ratio that you mentioned. I was just wondering at what point
+
+Page 19 of 27
+
+
+
+Company N ame: L egal & General Group PL C
+Company Ticker: L GEN L N Equity
+Date: 2016-03-15
+
+would you stop paying dividends and I appreciate the EU looking at redefining the risk
+margin definition. That's the first question.
+
+FINAL
+
+And then the second one, if you had the same level of bulks as you did last year, how
+much Solvency II capital would you consume going forward, if you could give us some
+sense on that.
+And then finally on margins, can you share your EEV new business margins on UK bulks
+versus U.S. bulks?
+
+A - Nigel D. Wilson
+
+{BIO 1535703 <GO>}
+
+Yeah. Those are the good questions but also not so good questions, but I'll answer them
+anyway. I don't see at the moment, one-fourth is not a dividend trigger by any means
+whatsoever. It's net cash and earnings. If you read the dividend policy, it doesn't say
+anything about Solvency II in there, or as it used to. If you go back and read last year's. So,
+we have changed. There's such a lot of headroom in Solvency II.
+And I think as Kerrigan was trying to explain, the four or five things which are going to
+happen this year, which will help free up the amount of cash that we generate in capital
+that we generate as a business.
+
+Bloomberg Transcript
+
+A - Kerrigan Procter
+
+{BIO 15093363 <GO>}
+
+I think just on the margins points, we haven't given the breakdown of the figures, but the
+UK bulk would've been ahead of the U.S. just because of the nature of the business, the
+UK is typically inflation linked and there was some deferred in there, the big U.S. deal was
+no (01:01:25) and all pensions.
+
+A - Mark J. Gregory
+
+{BIO 15486337 <GO>}
+
+Just on that part about the impact of capital in Solvency II, in the projections that I showed
+you, there is a new business strain number on there. Clearly, that's a combination of all
+the groups of new business not just – we're not going to breakdown by business line. We
+got good indication there of how the total business we expect to write will come through
+in the Solvency II strain perspective. So, the slide I gave, we have to give you an indication
+of how we think about that impact going forward.
+
+Q - Abid Hussain
+
+{BIO 17127644 <GO>}
+
+Okay.
+
+A - Nigel D. Wilson
+
+{BIO 1535703 <GO>}
+
+Oliver then Andy. Okay.
+
+Q - Oliver George Nigel Steel
+
+{BIO 6068696 <GO>}
+
+Oliver Steel, Deutsche Bank. Apologies, I'm going to ask about Solvency II again, at least
+two other questions. The first is you've done the opposite of Aviva and Pru in the way
+Page 20 of 27
+
+
+
+Company N ame: L egal & General Group PL C
+Company Ticker: L GEN L N Equity
+Date: 2016-03-15
+
+FINAL
+
+you've stated your Solvency II ratios. So, I wonder if you could just give us an alternative
+Solvency II ratio if you strip out the profits on the pension fund surplus.
+Secondly, I cannot come back to that slide 14 about the new business strain because it
+looks very low, and you say it's a sort of mixture of everything. So, I wonder if you can just
+give us a little bit more guidance on exactly what's gone into that? Because I assume it's
+something to do with the sub-protection, in-force (1:02:37) generation and that sort of
+thing.
+And then thirdly, you talked about consolidation of pension books. Are you talking
+organically funded consolidation of pension books? Or annuity books rather?
+
+A - Nigel D. Wilson
+
+{BIO 1535703 <GO>}
+
+Both would be non-organic consolidation. I think this is it. No. I think we feel – maybe we're
+not getting across – very capital head strong. And so, the amount of capital that we're
+using in the business is not that great. Hence, the surpluses of, were incredibly strong. So,
+this view that somehow we're capital consumed or capital constrained in 2015 isn't true so
+whatsoever. indiscernible] (1:03:24) do you want to pick up the other?
+
+A - Mark J. Gregory
+
+{BIO 15486337 <GO>}
+
+Bloomberg Transcript
+
+So, on the SCR impacts, probably profits of about £650 million of SCR in our calculations
+of the £8 billion, about £650 million represents with-profits SCR. We got about £18 million
+in respect of our two internal defined benefit, pension schemes I'll let you, go and do the
+math. (1:03:46).
+And in terms of (01:3:50) back to the slide there, I guess, what I would say, they're almost
+(01:03:55) we're going to see annuities being Solvency II strained in pretty much all over
+the new business, we expect to be surplus generating on Solvency based partners, the
+diversification benefits, et cetera. (1:04:06) annuities were strained and the likes of
+Duncan's world in protection although quite attractive given the natural diversification
+between the two business lines.
+
+Q - Oliver George Nigel Steel
+
+{BIO 6068696 <GO>}
+
+Is it just protection?
+
+A - Mark J. Gregory
+
+{BIO 15486337 <GO>}
+
+No. It's pretty much all the lines actually diversify against annuities.
+
+Q - Andy Hughes
+
+{BIO 15036395 <GO>}
+
+Hi. Thanks a lot, (01:04:28). Andy Hughes from Macquarie. Three questions, if I could. The
+first one is, I thought we'd better talk about your dividend forecast given there are some
+revision of them.
+
+Page 21 of 27
+
+
+
+Company N ame: L egal & General Group PL C
+Company Ticker: L GEN L N Equity
+Date: 2016-03-15
+
+And on slide number 13, going back to Solvency II progression, clearly, we can see – I just
+want to double check exactly what I'm looking at here. So, the big bars are – are they pre
+or post the new business strain? Do they include LGIM? So, if I'm looking at the kind of
+progression of the net of the two bars, is that how I should think about the dividend?
+
+FINAL
+
+A - Mark J. Gregory
+
+{BIO 15486337 <GO>}
+
+Yeah.
+
+Q - Andy Hughes
+
+{BIO 15036395 <GO>}
+
+This doesn't seem to be growing at 5% to 6% or 19% in the future. In fact, it looks like it's
+growing at a very modest rate. So, is the dividend growth in the future coming from the
+one-off management actions you've highlighted in terms of risk margin matching premium
+or should we expect a much more moderate rate of dividend growth in the future, I
+guess, looking at the projection you've got here?
+
+A - Mark J. Gregory
+
+{BIO 15486337 <GO>}
+
+That projection's not – it just showed us plenty of dividend headroom because some of
+you asked for that slide. If you read the dividend policy, it doesn't mention that Andy. I
+don't really know. It didn't say net service generation. It says earnings and cash.
+
+Bloomberg Transcript
+
+So, we'll be basing the dividend going forward on the earnings and cash, not that. That
+was mainly for the techies, so that you understood that this – because a number of you
+were anxious that that was going down, so we wanted to produce a slide....
+
+Q - Andy Hughes
+
+{BIO 15036395 <GO>}
+
+So, this is the cash, isn't it? This is the Solvency II surplus, so this is the cash...
+
+A - Mark J. Gregory
+
+{BIO 15486337 <GO>}
+
+But that's not the cash that we're going to be using for the dividend policy. Dividend
+policy's driven off earnings and net cash under IFRS.
+
+Q - Andy Hughes
+
+{BIO 15036395 <GO>}
+
+Right. Okay. I'm not sure I understand the explanation (1:05:57), but the second question
+was on the CMI 2015 table. So, it shows up a couple of questions really, obviously, it's
+materially lower than 2014 and 2013 that you're currently using.
+So, how long is it before you sort of adopt CMI 2015? And if you don't, and your view is
+more that you should stick with 2013, doesn't that mean you have less new business
+coming through over the next year? As other people sort of think, well, CMI 2015 may be
+the way to go.
+
+A - Kerrigan Procter
+
+{BIO 15093363 <GO>}
+
+Page 22 of 27
+
+
+
+Company N ame: L egal & General Group PL C
+Company Ticker: L GEN L N Equity
+Date: 2016-03-15
+
+FINAL
+
+Well, as you know, Andy, we use a modified version of CMI 2013. Despite high mortality,
+we were reluctant to move with that trend in last year. But we do expect a full review of
+that longer term trend this year. That's something we'll be looking at.
+And then, of course, this is a section within reserving and what we use for pricing also. So,
+I don't necessarily think through what we put in reserving. It just controls how much we
+release each year versus upfront rather than how we think about – how we price the
+deals.
+
+A - Mark J. Gregory
+
+{BIO 15486337 <GO>}
+
+Yeah. Just a bit more color on your question about the surplus projection. I mean, clearly,
+I'll try to extend (1:07:02) my explanation. Actually, each year, assumes the prior year
+dividend has been paid, so we have got a progressive dividend assumption baked into
+that calculation.
+So we're not looking at just the increase in the top line. Actually, you're losing as that
+action is already progression being paid in all prior years. So, it's a little bit misleading to
+think about just the growth on that chart in isolation. Inherently, the projection for prior
+years allow for progressive dividend to be paid, i.e., an increase, – I won't give the exact
+number, but we have a progressive dividend assumed in our plan.
+
+Q - Andy Hughes
+
+{BIO 15036395 <GO>}
+
+Bloomberg Transcript
+
+(01:07:31 – 01:07:43) There's lots of other moving parts as well.
+
+A - Mark J. Gregory
+
+{BIO 15486337 <GO>}
+
+Andy, I think that's still not technically correct the way the projections work. So each prior
+year has already got the progressive dividend paid in. So you're only taking to paying that
+progressive dividend. So just looking at the top line growth doesn't show you the
+complete picture.
+
+A - Nigel D. Wilson
+
+{BIO 1535703 <GO>}
+
+I think this is the last question unless anybody else wants to put their hands up. We'll wrap
+up afterwards. Sorry, Andrew. Yeah. Two more questions.
+
+Q - Fahad U. Changazi
+
+{BIO 15216120 <GO>}
+
+Good morning. It's Fahad Changazi from Nomura. I suppose just for clarity or context,
+could you just give us your quick pitch for changes in policy when you went to the board?
+So, we're changing from cash over to this. What was that?
+Second thing is I suppose can you also do something in terms of optimizing your balance
+sheet given that you have a core Tier 1 which is strong?
+And the final thing is just a point of clarity. You don't give a top end of the range, you just
+gave 140%. Will you be deliberating to get the new EU stuff coming through and then still
+Page 23 of 27
+
+
+
+Company N ame: L egal & General Group PL C
+Company Ticker: L GEN L N Equity
+Date: 2016-03-15
+
+decide on that later? Thanks.
+
+FINAL
+
+A - Mark J. Gregory
+
+{BIO 15486337 <GO>}
+
+Yeah. And so, I'll pick all those up. Usually we've had, I guess, two sources of the dividend
+growth over the last five or six years, a combination of both business growth and the
+reduction – structural reduction in net cash coverage. Clearly the new policy has quite
+clearly not brought back that linkage to reduction in cash coverage in there, so we're very
+clear going forward. If you think about dividend growth very much in the context of the
+underlying business growth, you expect the organization to achieve – not being formulaic
+about it, we're simply saying that the structural decline and reduction in the cash coverage
+has been now being removed from the dividend. So, you should expect kind of the
+dividend to be much more correlated to underlying business growth from this point
+forward.
+
+Bloomberg Transcript
+
+In terms of why they're kind of sourcing the capital in our balance sheet, we're always to
+make sure we've got an efficient capital balance sheet. We had about 30% leverage –
+operating leverage covered in our balance sheet and we have a AA- credit rating from
+both Moody's and S&P for our Insurance business, LGAS. That's important in the context
+of the covenant we can offer for annuities, et cetera. So, we can always look at kind of the
+efficiency. And we probably could take out some more debt without threatening that
+rating. We keep an active review rather than certainly we're going to hit the bottom in
+2016. But we make sure we have got the right balance between debt and equity.
+And close to that part, at the top end of the range. I think clearly that's a deliberate policy
+at this stage. I think we want to deliver the Solvency II rules for a while long just to make
+sure on what we think has been too much and we would expect to deploy capital that
+Nigel last outlined and lot of growth opportunities going forward. We want to make sure
+we have enough firepower to deliver against that whilst maintaining a strong capital base.
+I think we're just holding back and now we're trying to think through what might be too
+much capital.
+
+A - Nigel D. Wilson
+
+{BIO 1535703 <GO>}
+
+Andrew?
+
+A - Mark J. Gregory
+
+{BIO 15486337 <GO>}
+
+(1:10:34) last question now.
+
+Q - Andrew J. Crean
+
+{BIO 16513202 <GO>}
+
+It's Andrew Crean for Autonomous. Could I ask a couple of things? Firstly, the risk margin.
+It was an erroneous calculation of the risk margin. Could you talk a bit about the
+possibilities that the regulator will be able to get things changed and maybe what
+timeframe with the EU and what that would do for you?
+And secondly, could you talk a bit more expansively on your retail savings strategy in the
+UK, because your adherence platform doesn't seem to be that strong if you read the
+Page 24 of 27
+
+
+
+Company N ame: L egal & General Group PL C
+Company Ticker: L GEN L N Equity
+Date: 2016-03-15
+
+press. You've closed with profit funds and that sort of thing. What is your preferred route
+to market in retail savings? Or are you just sort of saying that that area of the market is
+not one which you want to emphasize?
+
+FINAL
+
+A - Nigel D. Wilson
+
+{BIO 1535703 <GO>}
+
+Okay. I'll answer the first and Mark, you can answer the second, with Andy taking the last
+question. I'll put my glasses back on now. So – with the line of sight. In terms of the whole
+issue around Europe, we had various discussions with Europe towards the end of last year.
+I'm very sympathetic with Gabriel (01:11:37) and various other people who recognize that
+it's an imperfect rule that was designed in 2009 when the longevity market didn't really
+exist for – the longevity insurance market didn't really exist.
+
+Bloomberg Transcript
+
+There are two or three different routes to getting it sorted out. One, which would
+conclude in 2017, and two, that would conclude in 2018. But there'll be various
+representations led by the industry, I think Treasury has already made too. It was pretty
+clear that they would like to see it – would like to see a change. It doesn't make a huge
+amount of sense for UK PLC (1:12:14) to reinsure a lot of this stuff offshore and the tax
+revenue and the expertise and get moved to different jurisdictions. So there's a
+sympathetic understanding by both the regulators by Europe and by the Treasury, and
+whether that's – I prefer to see that resolved in 2017 and my many, many years of dealing
+with Brussels say that 2018 is more likely, but certainly, the quality of the meetings that
+John Godfrey and Ted Hart had with myself in Europe were very high. On retail savings,
+do you want, Mark, to answer? Do you want to talk about retail?
+
+A - Mark J. Zinkula
+
+{BIO 16142450 <GO>}
+
+Yeah. In regards to LGIM, so we did have a very good year last year in retail sales. So, the
+unit trust business moved across LGIM couple of years ago. We've always ranked around
+12th, 13th, 14th in this market since we've had such an institutional focus. So, we have
+rationalized our product offering and pricing and so forth. And I mentioned here earlier we
+had net sales that ranked 6th in the country. So, it's the higher ranking we've ever had by
+a long – by a wide margin. And we do expect to continue to grow our market share in the
+retail market, doing well in the passive as you'd expect, but also in multi-asset and
+property, and we have this outstanding fixed income team that we'd really never
+adequately marketed into the retail markets. So, that's obviously going to get a lot of
+focus since we did very well in the institutional space.
+
+A - Nigel D. Wilson
+
+{BIO 1535703 <GO>}
+
+One last question from Andy.
+
+Q - Andrew Sinclair
+
+{BIO 17749036 <GO>}
+
+Thanks, Nigel. Andy Sinclair from BofA Merrill Lynch. Just three quick questions. Firstly on
+annuity pricing, since Solvency II has come into force, I just want to, say, get an idea if
+annuity pricing for bulks has materially changed, if there's any material impact on the
+return on capital employed?
+
+Page 25 of 27
+
+
+
+Company N ame: L egal & General Group PL C
+Company Ticker: L GEN L N Equity
+Date: 2016-03-15
+
+FINAL
+
+Secondly, just possibly wrapping up a number of comments have been – or points have
+been raised about Solvency II, just wondered if you could give us an idea of how many
+points of capital you'd be organically generating, all things being equal, after the dividend
+has been paid this year?
+And thirdly, just on lifetime mortgages, clearly looking for a lot of more growth there. I
+believe you don't get the matching adjustment for these at the moment, just want to see
+what could be done there and what the opportunity is as you continue to grow?
+
+A - Nigel D. Wilson
+
+{BIO 1535703 <GO>}
+
+Okay. Do you want to talk about bulk pricing?
+
+A - Kerrigan Procter
+
+{BIO 15093363 <GO>}
+
+So, on bulk pricing, the capital-lite model and the Solvency II. I mean we're seeing three
+things. Firstly, increasing benefit of using longevity insurance as we talked about on the
+asset side, it favors some mix of high quality global investment grade, self manufactured
+DI and gilts. So, that's the other element to it. And then probably the third element, if
+prices have gone up a little bit for the end purchaser. So, we see the combination of all
+those things. If we did nothing, the price increase would have to be higher to maintain the
+return on capital. But that's why you have to work and do the hard jobs to get the
+structuring right.
+
+Bloomberg Transcript
+
+A - Nigel D. Wilson
+
+{BIO 1535703 <GO>}
+
+Mark, can you take the second one?
+
+A - Mark J. Gregory
+
+{BIO 15486337 <GO>}
+
+Yeah. I can't answer your question precisely, Andy, because I do that, you (01:15:23) what
+the dividend increase is going to be going forward given my slides so, I'll stick to what I
+said in the script. Actually, we expect to free some that surplus each year to fund the
+transitional amortization, to fund the EBITDA growth, to pay a progressive dividend and
+retain sufficient to grow the capital base as the business grows. So, you should take from
+that, there's enough money going around to feed all the mouths you would expect to
+feed.
+
+A - Nigel D. Wilson
+
+{BIO 1535703 <GO>}
+
+On lifetime mortgages, you're right, we took no credit in 2015, and that's one of the
+optimizations in 2016 is how we restructure the lifetime mortgage business. So, it does fit
+in and become matching adjustment compliant because we had what we felt was plenty
+of headroom. So, we didn't – it's one of the many projects that Mr. Steadman, Mr.
+Hickman, Mr. Blunt (01:16:08) and various others of my very clever colleagues have got on
+their to-do-list for 2016.
+I think in summary, we're feeling very good about the results for 2015. Indeed, over the
+last few years, we've constantly outperformed the industry's expectations particularly on
+dividends, in the very famous slide, which Merrill Lynch kindly produced, it's called the
+Page 26 of 27
+
+
+
+Company N ame: L egal & General Group PL C
+Company Ticker: L GEN L N Equity
+Date: 2016-03-15
+
+FINAL
+
+worm (01:16:34) slide which for those of you who haven't got it, we'll kindly make it
+available on our website for you.
+And we are feeling confident about the future, the range of opportunities and growth
+opportunities are so much better than they were two or three, four years ago. Got a much
+more capable, very focused management team. It isn't just the people in the room today.
+It's the bench strength that exists right across our organization. We have a fine risk
+function led by Simon Gadd that really keeps us all on our toes and Simon knows so much
+about the business and how it all works that nothing gets past him in any of the meetings
+that we have.
+
+Bloomberg Transcript
+
+We really like to thank everybody for their support over the last years and some of the
+constructive criticism we've had over the last few years. We'll relentlessly try and drive the
+earnings forward, the dividends forward and continue to prove our ROE. So, thank you.
+
+This transcript may not be 100 percent accurate and may contain misspellings and other
+inaccuracies. This transcript is provided "as is", without express or implied warranties of
+any kind. Bloomberg retains all rights to this transcript and provides it solely for your
+personal, non-commercial use. Bloomberg, its suppliers and third-party agents shall
+have no liability for errors in this transcript or for lost profits, losses, or direct, indirect,
+incidental, consequential, special or punitive damages in connection with the
+furnishing, performance or use of such transcript. Neither the information nor any
+opinion expressed in this transcript constitutes a solicitation of the purchase or sale of
+securities or commodities. Any opinion expressed in the transcript does not necessarily
+reflect the views of Bloomberg LP. © COPYRIGHT 2022, BLOOMBERG LP. All rights
+reserved. Any reproduction, redistribution or retransmission is expressly prohibited.
+
+Page 27 of 27
+
+

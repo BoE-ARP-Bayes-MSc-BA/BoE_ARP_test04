@@ -1,0 +1,1898 @@
+Company Name: AXA SA
+Company Ticker: CS FP Equity
+Date: 2015-12-03
+
+Investor Day
+Company Participants
+FINAL
+
+Alban de Mailly Nesle
+Andrew Wallace-Barnett
+Denis Pierre Marie Duverne
+Gérald Harlin
+
+Other Participants
+Andrew J. Crean
+Andy Hughes
+Blair Stewart
+Farooq Hanif
+James A. Shuck
+Nick Holmes
+Oliver G. Steel
+Ralph Hebgen
+
+Bloomberg Transcript
+
+William H. Elderkin
+
+MANAGEMENT DISCUSSION SECTION
+Andrew Wallace-Barnett
+
+{BIO 18671460 <GO>}
+
+So good evening, everybody, and welcome to AXA's 2015 Investor Day. Welcome to
+those on the phone, welcome to those on the webcast, and of course, welcome to those
+here in the room. After the presentation, we will have as per usual a session of Q&A and
+we'll be happy to take questions from those on the webcast or on the phone. Please
+follow the instructions you've been given and we will give preference, as per usual, to
+questions from the room.
+On the screen you can see the agenda for this evening, but before we start, I would like to
+make just one remark. And a number of you have been following the sector and AXA for
+some time, and you may remember back to the early 2000s, and AXA at that time started
+to build its economic capital model before it was even a well-known concept. It has been
+a 15-year journey and our model has evolved quite a lot over that time.
+What you will see today is the fruit of that work paying oﬀ. Denis Duverne, and I
+remember I was there at the time, Denis Duverne was the brains and the driving force
+behind that initiative, and it therefore seems very ﬁtting that he will make the introduction
+this evening.
+
+Page 1 of 30
+
+
+
+Company Name: AXA SA
+Company Ticker: CS FP Equity
+Date: 2015-12-03
+
+And without any further ado, I hand over to Denis.
+
+FINAL
+
+Denis Pierre Marie Duverne
+
+{BIO 1521138 <GO>}
+
+Thanks, Andrew, and good afternoon ladies and gentlemen. I will do just introduction and
+the conclusion of this presentation. Andrew is right. We started our internal modeling at
+AXA back in 2000. We had organized a competition between consultants at that time,
+and we eventually selected Tillinghast to support us, and we went for a long-term internal
+capital model.
+That was very useful to help us understand the proﬁtability of our long-term business line
+like annuities, workers' compensation, the casualty lines, but we realized that we were in
+the minority and the majority had gone for a short-term economic capital model over a
+one-year horizon.
+
+Bloomberg Transcript
+
+We were fortunate when we bought Winterthur in 2006 that they had built their own
+model over one-year horizon. And so we adopted the Winterthur capital model which we
+further enriched after that, and our modeling team still resides in Winterthur, and they are
+the ones that have built that model for us.
+In 2006, two years ahead of the ﬁnancial crisis, we started developing our risk appetite.
+Unfortunately we had not fully completed our journey on the risk appetite when the crisis
+came in 2008 which led to the surprises that you will remember on our U.S. VA portfolio.
+So we were a bit late on that one, but I believe that when we launched Ambition AXA in
+2011 we had fully incorporated in our strategy all the elements of the economic capital
+and the risk appetite, and that has led us to strengthen our balance sheet, to change our
+business mix, I will come back to that later and we have, just a few days ago, received the
+approval of our internal model from ACPR.
+When we say received the internal model approval from ACPR, it means a lot more than
+that because in reality, as you know, we are present in multiple jurisdictions across
+Europe, and it's not just the approval of the global model. It's also the approval of the
+local models in each of those geographies. And it's also the input and back and forth the
+incorporation of the conditions put by each of those local supervisors on the model, both
+on the local models and on the global model.
+So, our model is approved. It's approved by ACPR, but it's been approved also by the
+supervisors in other jurisdictions: the UK, Belgium, Germany, Italy, just to name a few. Our
+model is giving us a solvency coverage of 212% at the end of Q3. We had told you that we
+were conﬁdent that we would land within 10 points of our previous model. In fact, we are
+clearly closer to one point of diﬀerence between the model that we had published in the
+last three, four years and the model that is now approved. There are lots of pluses and
+minuses but we arrive at a number which is very close.
+The most important thing is that our model is at the heart of our decision-making process
+and has been so, I would say, since 2007. This explains why, as part of Ambition AXA, we
+had put the emphasis on protection & health and Unit-Linked which shows in the
+Page 2 of 30
+
+
+
+Company Name: AXA SA
+Company Ticker: CS FP Equity
+Date: 2015-12-03
+
+FINAL
+
+numbers that we published in the last four years. The Unit-Linked business has increased
+in proportion. The protection business has increased in proportion and the general
+account savings business which is a business which is less proﬁtable in the Solvency II
+environment has declined substantially to represent so far this year only 12% of the new
+business.
+Our new business margin has improved substantially which is a function not just of the
+changes in business mix, but it's also a function of all the re-pricing that we've done
+because our internal model also drives our pricing decisions as Alban will explain to you
+later.
+
+Bloomberg Transcript
+
+It has driven our asset liability management. We've always mentioned tight duration gap.
+We have, with in-force program that we launched four-and-a-half-years ago, reduced
+crediting rates in a very prudent fashion. We have added disciplined asset mix which has
+allowed us – and these are ﬁgures that you will recognize to have a resilient investment
+margin between 70 and 80 basis points and towards the higher end of that range. It has
+also driven our M&A decisions. You will recall that since 2010, we've sold for €9 billion of
+businesses and bought €5 billion of businesses, mostly in P&C and protection and in high
+growth market. And it has allowed us to have a strong dividend paying capacity with €8
+billion of dividends paid between 2011 and 2014, and over €19 billion of adjusted
+earnings.
+So our capital management is anchored in Solvency II. We have a strong Solvency II ratio
+at 212%. This is also what drives our decisions in terms of risk appetite. I will not comment
+all the words that are on this slide because that would steal the thunder of Alban, our
+Chief Risk Oﬃcer, who is now going to take over before Gérald talks to you about how we
+expect to manage our capital going forward.
+Thank you very much.
+
+Alban de Mailly Nesle
+
+{BIO 20387796 <GO>}
+
+Thank you, Denis. So, good evening ladies and gentlemen. I am happy to be with you
+tonight to be able to share our numbers after so many years of hard work. So what I'll do
+today, I'll take you through some technical details of our model, well the building blocks
+of our model. I'll show you some sensitivities of our capital to some shocks and show you
+how resilient our capital is. And then, as Denis mentioned, a few examples of how our
+internal model is embedded in our decisions.
+I think there are two messages today. The ﬁrst one is that we now have a stable capital
+framework with Solvency II entering into force in a few months, and our model having
+been validated by the European supervisors. And we have a resilient capital, as I'll show
+you in a few slides.
+So, if we talk about the number, as Denis mentioned we stand at the end of Q3 at a very
+strong 212% ratio and we have plotted on this slide what would have been our ratio over
+the last quarters had we used the internal model. And on the top of the slide what you
+Page 3 of 30
+
+
+
+Company Name: AXA SA
+Company Ticker: CS FP Equity
+Date: 2015-12-03
+
+FINAL
+
+see is the number that we've disclosed to you with our economic ratio. And you see, as
+Denis mentioned, that there is extremely little diﬀerence between the two and sometimes
+they're even identical. What I want to highlight as well is you know that we don't adjust for
+dividend during the year. We do that at Q4. So dividend to paid is not taken into account
+in those numbers. So how do we – there's something missing on the screen.
+So, how do we determine our AFR and our SCR? So, we start from our IFRS balance sheet,
+but we move from that IFRS balance sheet to a Solvency II economic balance sheet and
+we determine the market value of our assets, the market value of our liabilities. And the
+diﬀerence between the two is our available ﬁnancial resources, our available capital under
+Solvency II and that stands at €61 billion at the end of Q3.
+Then we determine how much AFR we would lose with a 0.5% probability shock, socalled one in 200 years shock. The amount of AFR that we would lose in such a shock is
+our solvency capital requirement, and it stands at the end of Q3 at €29 billion. The ratio
+between the two, AFR to SCR, is our solvency ratio of 212%.
+
+Bloomberg Transcript
+
+Now moving to some details on how you create a Solvency II or market consistent
+economic balance sheet. So you start with the IFRS shareholders' equity which stands at
+€71 billion. There are some asset classes for which the unrealized capital gains are not
+included in the shareholders' equity, that's real estates and loans, and we include those
+unrealized capital gains in our AFR.
+You remove all intangibles from the balance sheet, goodwill, DAC and VBI. And then you
+move from IFRS reserves to best estimate liabilities. As such, the best estimate liabilities
+are €24 billion lower than IFRS reserves, and that increases our capital by the same
+amount. But as there is new market price for insurance liabilities and there is uncertainty
+on those liabilities, because it's best estimate, we include a risk margin or market value
+margin – for us it's the same thing – to recognize that uncertainty and that's €12 billion.
+That increases the best estimate reserves and decreases our AFR. And over time, if there
+is no deviation from the best estimates, that amount should accrue to shareholders.
+Then you include also in your available ﬁnancial resources, the subordinated debt that is
+not yet included in your IFRS equity, and that's €7 billion. And overall, that's how you
+come to the €61 billion AFR that I mentioned in the previous slide. If we move to the SCR,
+that's the total capital requirement that we have. This describes the model that we have
+within the group and the model applies to almost all our insurance entities excluding the
+U.S. It covers 97% of our insurance entities, and the same model, the same diﬀerent
+modules of that model apply to all our insurance entities.
+We have four risk modules; underwriting risk, market risk, credit, and operational risk.
+And we're probably one of the few to have a validated internal model for operational
+risks. Underwriting risk, it's the insurance risk that we have. Market risk, I think, is rather
+intuitive. And credit risk is our default risk. We have the numbers for – again, one in 200
+year shock for each of those risks. So for instance, €15 billion for underwriting risk and we
+gave in the boxes below a number of examples of the risk that we model in each
+
+Page 4 of 30
+
+
+
+Company Name: AXA SA
+Company Ticker: CS FP Equity
+Date: 2015-12-03
+
+FINAL
+
+category. So for instance, underwriting risk, we would have lapse risk in life & savings,
+reserve risk longevity. Market risk, obviously equity, spread, interest rate.
+On default credit risk, it would be obviously on our portfolio of bonds, but also the
+reinsurance receivables that we have. And operational risk, it's the risk of fraud of centric
+processes that do not work or fraud. So, once you have that you have for each category
+the loss of AFR that you would have for a one in 200 year event. But as those events do
+not occur at the same time, obviously you're allowed for diversiﬁcation. Diversiﬁcation
+between those is €11 billion.
+
+Bloomberg Transcript
+
+The next step is the tax adjustment. The SCR is the net of tax amount. And the tax
+adjustment is €2.5 billion. So that's the total amount of capital required for our insurance
+operations outside the U.S. We add to that the capital requirement for banking and asset
+management operations, €2.5 billion and some countries which are on standard formula.
+That's a diﬀerence with our current Solvency I ratio where we do not include bank and
+asset management, here under Solvency II we do and that's the €2.5 billion that you see.
+And then you add the capital requirement for our U.S. operations and you know that we
+use equivalence. And that's – under equivalence, we use three times CAL, 300% of CAL
+which is not the most aggressive approach in the market.
+When you've done all that, you come to our Solvency Capital Requirement which stands
+at €29 billion. We put together then a couple of slides with some technical details. I don't
+plan to comment them all now but I'll be happy to take any questions during the Q&A.
+Just want to comment three of them. On sovereign risk, we do include sovereign risk both
+credit (17:36) risk and default risk in our model, be it for domestic or non-domestic bonds
+for OECD or non-OECD bonds, all government bonds are covered.
+Second item; transitional rules. We don't use any transitional rules be that for equity or
+reserves. And third one is the UFR, the Ultimate Forward Rate that we use for the discount
+of our very long-term liabilities. You know that it stands for most countries at 4.2%. If it was
+to go down by 100 bps, our solvency ratio would go down by 19 points. So on this slide
+again I won't comment any of these. But our information about market value margin, the
+volatility adjuster and taxes; and again, I'd be happy to take questions on that during the
+Q&A.
+Now let's go now to potentially even more interesting part of the presentation which is
+the sensitivities of our ratio to a number of shocks and that will demonstrate how resilient
+our capital is. So what we put on the slide is the sensitivity of our ratios to ﬁnancial shocks
+on corporate bond spreads, on interest rates, and on equity. And you see that for those
+shocks, even for large ones, our ratio does not move signiﬁcantly.
+Now I will go into the details of that for interest rates and corporate spreads. For interest
+rates, you may wonder why the shock in interest rates does not aﬀect our ratio. In fact,
+obviously, it does aﬀect our AFR and our SCR. And when you look at an upward shock in
+interest rates, you see that our available capital goes up by €900 million, and that's clearly
+what you would expect from an insurance company these days. But the fact is that at the
+same time, our capital requirement increases by €400 million, and that's between the
+
+Page 5 of 30
+
+
+
+Company Name: AXA SA
+Company Ticker: CS FP Equity
+Date: 2015-12-03
+
+FINAL
+
+two, more or less a ratio of 2:1, which is also our Solvency ratio of 200%. So, that's why
+when they move up, also then our ratio overall is not aﬀected, but AFR increases and so
+does our SCR.
+And by the way, it's exactly also what happens with equities, where AFR and SCR
+increases in the ratio of 2:1 when equity markets go up. But you'll see also on this slide
+that if interest rates go down, AFR is most signiﬁcantly aﬀected, and that's because of the
+convexity that we have in our portfolio due to the guarantee that we have in our – in the
+options that we have in our products.
+Moving to corporate spreads, I know there has been, again, a number of questions on the
+sensitivity of our ratio to corporate spread because it's not very sensitive. You will
+remember that our AFR are the diﬀerence between the market value of assets and the
+market value of our liabilities.
+
+Bloomberg Transcript
+
+On the asset side, our corporate bond portfolio has a limited duration, a low duration of
+four years to ﬁve years. And that, as such, means that we are not extremely sensitive to
+widening of corporate spreads. If I were to increase the duration of that portfolio by one
+year, that sensitivity will move from minus one to minus four. So it's not insensitive, but it
+depends on the duration of my assets.
+On the liability side, you know that we use the Volatility Adjuster. The purpose of the
+volatility adjuster is to recognize that, generally, we hold our corporate bonds to maturity
+and, therefore, will be repaid at par. And therefore, our solvency should not be
+signiﬁcantly aﬀected by volatility in the corporate spreads. So that's the purpose of the
+Volatility Adjuster.
+The Volatility Adjuster is not in our hands. It is determined by the EIOPA on the basis of a
+reference portfolio, and that's what dictates the adjustment to be made on our liabilities.
+And it so happens that in the reference portfolio, you have more corporate bonds than we
+do have in our balance sheet, and that also explains why the sensitivity to corporate bond
+spread widening is mitigated signiﬁcantly by the Volatility Adjuster.
+Conversely, we hold more government bonds than the reference portfolio. And you see
+that for shock of 50 bps on sovereign spreads, our sensitivity is a bit more signiﬁcant
+because we will lose 9 points of solvency.
+So this is probably the most interesting slide of my presentation, and if you had one to
+remember I would hope that it'll be the one. Because what we've done here is we've used
+real life shocks to determine how resilient our solvency would be with those shocks. And
+you see that, clearly, it is resilient. So as a reference, we put the 1 in 20 year shock from the
+model, and that cost us 32 points, 1 in 200 years by construction would cost us 100 points.
+And then, we computed what would be the change in solvency that we would have if we
+had a number of debt crisis as we had in the past. So, obviously, the one that everybody
+has in mind is the 2008-2009 ﬁnancial crisis. If such a crisis was to repeat, we would lose
+48 points of solvency. Admittedly, this is a signiﬁcant number but that's also a very severe
+Page 6 of 30
+
+
+
+Company Name: AXA SA
+Company Ticker: CS FP Equity
+Date: 2015-12-03
+
+FINAL
+
+crisis. But more importantly, it will leave us at a very strong 164% ratio. That also tells you
+how prudently we have calibrated our model because you see that we would lose 48
+points which is very far from the 100 points that we would lose in the 1 in 200 year event.
+With the ﬁnancial crisis of 2011, we would lose 22 points.
+And then, we also went for very speciﬁc insurance shocks that we had in the past on the
+P&C side or on the Life side. On the P&C side, we used the two windstorms that we had at
+the end of 1999, Lothar & Martin. If, again, that was to happen again, that would cost us 3
+points of solvency.
+On the Life side, we looked for a big pandemic. The largest one that we had in the recent
+past was the Spanish ﬂu that we had at the end of World War I. That only would be an
+impact – because of mortality loses of two points of our solvency. So overall I think it
+demonstrates the resilience of our capital.
+
+Bloomberg Transcript
+
+Another way to look at it is to say how much solvency do we create each year and what
+are the shocks that, so to speak, we can aﬀord in a given year with that amount? The
+operational capital generation that we have year-after-year is more or less 20 points of
+solvency. If you deduct the dividend that we pay, here we could – the one that we paid
+this year in 2014 earnings, that's 9 points. So you're left with 11 points of net capital
+generation in a given year. Only with those 11 points can I withstand a shock of minus
+50bps on interest rates or 45% on equity market or a combination of 30bps and 20%,
+only with the capital generated in one year.
+Then coming back to what Denis said at the beginning, if our ratio and our solvency are
+so resilient, it's no miracle, no magic. It's because we have been embedding our internal
+model in our business decisions for years now. Just wanted to give four examples about
+this.
+On products, the example that Denis mentioned was the fact that we moved from capital
+heavy products such as General Account to capital light products like Unit-Linked and
+Protection. There is also the fact that when we priced our products, the amount of capital
+that we use is the SCR for any given product, and that reﬂects the risk that we take. And,
+therefore, there's alignment between the risks that we take, the capital that we put at
+stake and the earnings that we expect, full alignment.
+On investments, we now have, for years, developed a strong and strict budget and
+monitoring of ﬁnancial capital requirements. We determine every year the amount of
+capital we want to dedicate to ﬁnancial risks, and we follow that on a monthly basis. Still
+on the asset side, the asset liability management, we've kept now for a very large number
+of years a small duration gap of one year or close to one year.
+And ﬁnally, the last example I would give is on the insurance side, there is no diﬀerence
+between the internal model that we use for solvency calculation and the model that we
+use to determine what would be a loss in a signiﬁcant catastrophic event. And, therefore,
+the amount of reinsurance that we need to buy. Again, there's full alignment between the
+two. And that also explains why our capital is so resilient.
+Page 7 of 30
+
+
+
+Company Name: AXA SA
+Company Ticker: CS FP Equity
+Date: 2015-12-03
+
+That being said, I'll now hand over to Gérald.
+
+FINAL
+
+Gérald Harlin
+Thank you, Alban. Good evening. So Alban has presented our internal model conﬁrming
+that our Solvency II ratio is strong and resilient. Now, my objective is to present the
+consequences of Solvency II in our capital framework. With a speciﬁc focus on these four
+topics: ﬁrst, the dividend policy; second, the capital management strategy; then, the
+capital structure; and, next, the cash ﬂow and remittance ratio.
+So let's start ﬁrst with the dividend policy. So I'm proud to announce that we are setting
+our payout ratio, our payout range at a higher level. Up to now, our dividend payout ratio
+was between 40% and 50% of adjusted earnings. As you can see here, we have been
+using the full range of our payout ratio. And from now on, we are increasing our payout
+ratio from 40% to 50% of adjusted earnings to 45% to 55% of adjusted earnings which is
+a great news for our shareholders.
+
+Bloomberg Transcript
+
+So let's have a look at our capital management policy. Here, we are presenting four
+diﬀerent scenarios. The ﬁrst one which is, I could say, a central case scenario, from 170% to
+230% of solvency. Next, an upside scenario, above 230%, where we could even do more.
+And downside scenario, between 170% and 140%, where we would protect our
+shareholders and then an extreme down scenario below 140%.
+Let's start ﬁrst with our central scenario, i.e. between 170% and 230%. So our dividend
+policy will be based on 45% to 55% payout ratio as I explained before. Then, we will
+neutralize the dilution of employee shares and stock option oﬀering. We will invest in
+business growth. We will maintain current investment risk appetite.
+Above 230% and, as solvency increases, we'll add ﬂexibility on the payout ratio. We will
+add some room to invest. We will have additional room to invest in business growth. We
+will increase our appetite for investment risk, and we could be in a situation to return
+excess capital to shareholders.
+Below 170% and we will gradually, I would say, be more conservative. First, with selective
+de-risking of investment, increased selectivity in growth initiatives, we would allow for
+dilution of employee shares and stock option oﬀering. Then, we would have additional
+ﬂexibility on the payout ratio. And in the extreme event where we would be below 140%,
+then we would restrict our growth initiatives. We'll further de-risk of investments, and
+reduce dividend payout ratio below the range.
+Have a look now at the capital structure. So our Tier 1, as you can see here, our Tier 1 is
+very comfortable and represents 84% of AFR. As you know, hybrid Tier 1 is limited to 20%
+of total Tier 1, meaning that under stress scenarios, our Tier 1 would be limited. That
+means that if Tier 1 would drop, then by deﬁnition, our Tier 1 debt would be haircut and
+considered as Tier 2 and declassiﬁed in Tier 2. This, combined with our strong solvency
+generation of plus 11 points as presented by Alban a few minutes ago, means that as a
+
+Page 8 of 30
+
+
+
+Company Name: AXA SA
+Company Ticker: CS FP Equity
+Date: 2015-12-03
+
+FINAL
+
+consequence and given our strong ﬁnancial structure, we believe that we have ﬂexibility
+not to renew part of our Tier 1 debt by Tier 2 or senior debt.
+Let's have a look now at the cash ﬂow management. So before going into more detail on
+the cash ﬂow generation and cash ﬂow generation of new business, I would like to remind
+you that we are going to maximize cash upstream to the group. That means that
+concretely we will maintain limited volatility buﬀer above the 100% Solvency II level. And
+meaning that, as a consequence, we will have some local excess capital in some countries
+and you have examples here like France Life & Savings, like Germany P&C, like the U.S. So
+that means that on the next years, we will strive to maximize upstream to the group.
+How could we do it, and you have – it's mentioned here. First, we will reduce local excess
+capital. We will maximize ordinary dividends. We will simplify our legal structures and we
+could do some risk pooling as well. So as a summary, we have excess capital in some
+entities. So let's analyze now how the free cash ﬂow generation of new business works
+under Solvency II.
+
+Bloomberg Transcript
+
+So here we are dealing with the cash consumption of Life & Savings new business. So I'm
+dealing here with 2014 ﬁgures. And those frameworks, on the left-hand side you have
+Solvency I; on the right-hand side, you have Solvency II.
+So as you know, the new business cash consumptions has two diﬀerent components, the
+ﬁrst one, which is the new business strain. And you can see here on the two – under the
+two frameworks, it's exactly the same. It was €1.2 billion, that's the cash corresponding to
+the strain, €1.2 billion in 2014. Whereas for the new business required capital, it's not the
+same under Solvency I and under Solvency II.
+It's the same for non-European countries, it's €0.2 billion, but for the European country,
+this cash – this capital needs – this capital requirements can be covered with the new
+business future proﬁts, which means that as a whole – the cash consumptions from Life &
+Savings new business, which was at €1.9 billion taking the example of 2014, which was at
+€1.9 billion under Solvency I, will move to €1.4 billion, i.e., an improvement of €0.5 billion.
+You can see here and it's mentioned, that, as a consequence, the new business internal
+rate of return is improved as well. And taking the example as well of 2014, we would –
+where it was our internal rate of return was 14% last year under Solvency I, it would be 17%
+under Solvency II. As far as P&C and Life in-force free cash ﬂow roughly speaking it would
+be broadly the same, which means as whole that we can – that we have an annual uplift of
+free cash ﬂows of €0.5 billion, and that means that our free cash ﬂow completely will be
+higher, and now I propose you to move to the remittance ratio to see how much real cash
+will be up-streamed to the holding company.
+So our remittance ratio will be maintained between 75% and 85% which means that taking
+the example of 2014 on the right-hand side, that means that where in Solvency I, we had a
+free cash ﬂow – we posted last year a free cash ﬂow of €5.5 million and we had a
+remittance ratio of 86% which was at the – slightly above the 75 points to 85 points range,
+
+Page 9 of 30
+
+
+
+Company Name: AXA SA
+Company Ticker: CS FP Equity
+Date: 2015-12-03
+
+which means that we had €4.7 billion of cash that was up-streamed to the holding
+company.
+
+FINAL
+
+Under Solvency II, as I explained before, we can expect to have €0.5 billion more free
+cash ﬂow and assuming that we would have an 80% remittance ratio on average. That
+means that we would have an additional €0.4 billion of cash that would be up-streamed
+to the company. Instead of €4.7 billion, we would be at €5.1 billion.
+As a conclusion, I could say that we can expect to have much more cash up-streamed to
+the holding company, and this is why we are conﬁdent in our ability to increase our
+payout ratio from 40% to 50%, to 45% to 55%.
+I now hand over to Denis.
+
+Denis Pierre Marie Duverne
+
+{BIO 1521138 <GO>}
+
+Bloomberg Transcript
+
+Thank you, Gérald. I would like now to wrap up and summarize the key messages of this
+presentation. Strong Solvency II ratio at 212% at the end of Q3 under our approved
+internal model. This is no surprise because this framework has driven our strategic and
+operational choices in the last several years; product mix, investment mix, risk mitigation
+and portfolio diversiﬁcation. Our Solvency II ratio is very resilient to a variety of ﬁnancial
+and non-ﬁnancial shocks.
+We have now a very clearly deﬁned capital management framework, with a range of 170%
+to 230%, within which you shouldn't worry about the volatility of the ratio. We are able to
+increase our dividend payout ratio range to 45% to 55%. We'll have a higher free cash
+ﬂow on the Life side by roughly €0.5 billion annually. And in spite of that, we can maintain
+our remittance ratio between 75% and 85%. I will add one point, which is that the – we will,
+within our capital, continue to increase the quality of our Tier 1 by increasing the core Tier
+1 part and slightly reducing the Tier 1 debt part.
+With that, I'd like to thank you very much for your attention and now hand over the ﬂoor
+back to you for questions-and-answers. First one in the back?
+
+Q&A
+Q - Andrew Wallace-Barnett
+
+{BIO 18671460 <GO>}
+
+(40:57) consumes 32% in the ratio. But normally, when I think 1 in 200, it's normally 10
+times worse than the 1 in 20. And so, it's obviously not in your case in your model. And so
+somehow, I guess, as you go from 1 in 20 to 1 in 200, actually becomes more resilient
+eﬀectively, either through hedging or management action. So, I guess, what am I looking
+at in this 1-in-20 shock? And obviously, if the hedging kicks in at 1 in 200, is the worst point
+between one and 20 and one and 200 that I should be thinking about in terms of
+pressure? Thank you.
+
+A - Alban de Mailly Nesle
+
+{BIO 20387796 <GO>}
+Page 10 of 30
+
+
+
+Company Name: AXA SA
+Company Ticker: CS FP Equity
+Date: 2015-12-03
+
+FINAL
+
+There is no linearity in the shocks between 1 in 20 and 1 in 200. You can't say that 1 in 200
+will cost 10 times more, and that's true for us and that's true for all our competitors. There
+is a distribution of losses. We look at to 0.5% probability or 5% probability. And you see
+that 0.5% probability which cost us 100 points, and the 5% will cost us 32%, but you
+cannot infer from the probability that the shock will be proportional.
+
+Q - Farooq Hanif
+
+{BIO 4780978 <GO>}
+
+Hi there. Thank you. Farooq Hanif from Citigroup. I don't understand your cash ﬂow
+because we're getting mixed signals from other companies. So, surely, when you write
+new business market consistently, if you're pricing that way, you should be creating value.
+So why is there a new business strain?
+And then also on your back book, you should be releasing risk margin. It must be a very
+big – it's obviously a very big number, it's €12 billion added to liabilities. So just wanted to
+understand, I might – are we just thinking about this incorrectly because I think
+inconsistency opening up between the way the diﬀerent companies are reporting cash
+over Solvency II? It may be that you have to take me oﬄine to answer that.
+
+Bloomberg Transcript
+
+Second thing is why 75% to 85% remittance, if you're saying you keep a slight buﬀer
+locally, there will come a point at which you can remit all of your cash. So what is still the
+constraint in your business – is it the U.S.? And last point is, yeah, why do you move to
+300% CAL? I mean, is that equivalent to what you would say as an economic capital
+equivalent level, or is it that a regulator told you to move to 300%? Thank you.
+
+A - Denis Pierre Marie Duverne
+
+{BIO 1521138 <GO>}
+
+Gérald, do you want to take the questions?
+
+A - Gérald Harlin
+Yeah. I'll start with your question about the 75% to 85% remittance ratio. Keep in mind that
+what you say would be absolutely true if you would have only European companies. But
+it's not the case. You mentioned the U.S., and as you know for the time being, the U.S., as
+we said in the past, has the capacity to upstream quite signiﬁcant amount of cash.
+Remember that in the previous meeting, we said that we could expect between €600
+million and €1 billion, so it's still true. But look at Japan and look at Switzerland, that
+means that these countries have a tougher regulatory constraints and framework, which
+means that in the end, on average, we are quite comfortable saying that it will be 75% to
+85%. That's the main reason.
+
+A - Denis Pierre Marie Duverne
+
+{BIO 1521138 <GO>}
+
+Do you want to take the question on new business strain and the Life business?
+
+A - Gérald Harlin
+So your question, and I'm not so sure that I understood your question about the new
+business strain. That means that the new business strain is anyway something which is
+statutory. So that means that it won't change. So that means that what does it correspond
+Page 11 of 30
+
+
+
+Company Name: AXA SA
+Company Ticker: CS FP Equity
+Date: 2015-12-03
+
+to? It's purely cash. So that means that you have to pay your commissions. And the fact
+that you have to pay your commissions makes that you have a cash strain...
+
+A - Denis Pierre Marie Duverne
+
+{BIO 1521138 <GO>}
+
+FINAL
+
+Plus internal acquisition expenses.
+
+A - Gérald Harlin
+Plus internal acquisition expenses, agree, which means that you have a cash strain which
+is, I would say, the same whatever the framework. So it's purely cash. It's in and out.
+
+Q - Farooq Hanif
+
+{BIO 4780978 <GO>}
+
+The local GAAP is not changing.
+
+A - Gérald Harlin
+No, no, no.
+
+A - Denis Pierre Marie Duverne
+
+{BIO 1521138 <GO>}
+
+It has nothing to do with local GAAP.
+
+Bloomberg Transcript
+
+A - Gérald Harlin
+It has nothing to do with local GAAP. It's local – it's local cash needs. So it's what we call –
+it's exactly the same. Just take a look at our EEV framework, it's exactly the same. So that's
+what we call generally the strain. So that's why it's a – I hope I answer your question, but
+it's really something which is quite the same taking the detail on countries.
+
+A - Denis Pierre Marie Duverne
+
+{BIO 1521138 <GO>}
+
+I would add one point which is that on the new business required capital, it's really a
+function of your mix of business. So if your mix of business is quite proﬁtable which is our
+case, then you have – you don't have any additional new business need in addition to
+what VIF you create. If you have a diﬀerent mix of business which has a lot of guaranteed
+general account business, then you could still have a new business required capital on
+top of the VIF. Is that clear?
+
+Q - Farooq Hanif
+
+{BIO 4780978 <GO>}
+
+The 300%?
+
+A - Denis Pierre Marie Duverne
+
+{BIO 1521138 <GO>}
+
+I see, yes, but – so, the 300%, yes, we have heard diﬀerent ﬁgures coming from diﬀerent
+competitors, but what you don't know and what we don't know is what has been required
+by the respective supervisors in terms of add-ons. So we can tell you that 300% for us is
+what we believe is required by the local regulator and that's why we put the 300% as the
+equivalent of 100% in Solvency II. For the companies that have taken a lower ﬁgure, it may
+
+Page 12 of 30
+
+
+
+Company Name: AXA SA
+Company Ticker: CS FP Equity
+Date: 2015-12-03
+
+mean that they had a capital add-on separately. And so I don't – I'm sure that there is
+fairness across geographies because the same supervisors are supervising diﬀerent
+groups. But that may be handled in a diﬀerent way. Nick in the second row? Microphone?
+
+FINAL
+
+Q - Nick Holmes
+
+{BIO 21515144 <GO>}
+
+Hi. It's Nick Holmes at SocGén. Sorry. I apologize for my creaky voice. First, two questions.
+First is on the dividend, the new payout ratio, 45% to 55%, previously with 40% to 50%,
+you started at the bottom and have worked your way up. And the question is, can we
+expect a similar sort of progression? I mean, for the dividend this year, presumably well, I
+mean, can you give us guidance? Are you expecting it to be 45% basically for this year?
+That's the ﬁrst question. Do you want me to give the second question or do you want to -?
+Second question is looking more optimistically at the progression of the dividend. And I
+wanted to ask, you've always been a leader in prioritizing Unit-Linked and being capital
+eﬃcient. We can see the beneﬁts coming through. But because you've always been a
+leader, how much more scope do you think there is? And I'm thinking in the context of
+Solvency II, which is a regulatory framework that favors the strategy you've had for a long
+time. One would imagine that there could be quite a lot more scope to improve your
+capital eﬃciency and to sell a lot more Unit-Linked. And I wondered if you could possibly
+share your thoughts with us on that? Thank you.
+
+Bloomberg Transcript
+
+A - Denis Pierre Marie Duverne
+
+{BIO 1521138 <GO>}
+
+Okay. Thanks, Nick. On the ﬁrst question, I'm afraid I will not give more guidance. If we
+deﬁne a range of 45% to 55%, this is to leave us the ﬂexibility to be any place between
+45% and 55%, and I would not give more guidance, and you would be surprised if I were
+to. On the second topic of Unit-Linked, I believe it's a very important topic for the whole
+industry, especially in the context of low interest rates. And I think it has more to do – our
+ability to go beyond the proportion of Unit-Linked that we currently have, has a lot more
+to do with how ﬁnancial markets evolve.
+In other words, we have had quite favorable markets, equity markets in the recent years,
+and that has helped us improve the proportion of Unit-Linked, but it also has a lot to do
+with the product design and the sales tools and training that we give to our sales force
+because I believe that's – I mean, our customers still want some guarantees, and we need
+to do a better job of guiding them through the asset allocation that will make them have
+enough money for their retirement.
+And so, it's a long process. It's a process that, I mean, where all the industry as a
+challenge. If we want to develop Unit-Linked, we have to make sure that we sell products
+with the appropriate asset allocation and convince our customers that even if they are 50
+years old, they would still normally need to have 50% of equities which are – and
+sometimes the regulation goes against that. So there is – this is a big topic for the
+European industry with rates at zero. And you heard today that QE would continue until at
+least March 2017. Clearly, the savers would need to invest more in equities, and it's not
+obvious with the mindset that most people have in Continental Europe, but it's deﬁnitely
+a challenge for the industry.
+
+Page 13 of 30
+
+
+
+Company Name: AXA SA
+Company Ticker: CS FP Equity
+Date: 2015-12-03
+
+Q - Nick Holmes
+
+{BIO 21515144 <GO>}
+
+Can I – may I – just a very, very quick follow-up on the subject of Unit-Linked. In France, if
+you look back far enough to the early 2000s, I think it was as much – Unit-Linked was as
+much as 40% for new business. Do you think Solvency II could drive a return to that?
+
+FINAL
+
+A - Denis Pierre Marie Duverne
+
+{BIO 1521138 <GO>}
+
+You're talking about the industry ﬁgure for...
+
+Q - Nick Holmes
+
+{BIO 21515144 <GO>}
+
+I'm talking about industry, yes, not your own.
+
+A - Denis Pierre Marie Duverne
+
+{BIO 1521138 <GO>}
+
+So this would allow me to make a comment on the Danish compromise. You know that, I
+mean, the Danish compromise allows that the banks to double count their insurance
+capital, and it is clear that this has – this means that there was less concern on the banks in
+terms of their capital consumption. And if the Danish compromise is prolonged, this trend
+will continue. So there is clearly a situation where pure insurers are at the disadvantage
+against the bancassurers who are less worried about the way their insurance capital is
+consumed. But having said that, I believe that there was now a big awareness that this is
+not going to last forever, and we see also the banks driving more Unit-Linked. Great.
+Back?
+
+Bloomberg Transcript
+
+Q - James A. Shuck
+
+{BIO 3680082 <GO>}
+
+Thanks. It's James Shuck from UBS. I have three questions, please. The ﬁrst one is on the
+corporate credit spread sensitivity. On slide 15, you show that for a stable Volatility
+Adjuster, there's a 13-point impact on the Solvency II ratio, whereas over the page, it's only
+1 point. So am I correct in assuming that you're assuming a dynamic Volatility Adjuster?
+And then kind of connected to that, I'm interested in – I mean, obviously, the economics
+are such that you clearly are exposed to credit spreads as long as the credit spreads
+blowout is driven by illiquidity, then Volatility Adjuster is fully justiﬁed. So I'm kind of keen
+to understand what your default assumption is within the corporate credit, I suppose, and
+actually what happens if you double the corporate credit default assumption within that
+so I can get a feel for what the true economic sensitivity is to corporate credit. So, that's
+my ﬁrst question, please.
+Secondly, the range of 170% to 230%, that's a 60-point range. You make a big point about
+you've got low level of volatility. So why do you need such a big range? At what stage can
+you see yourselves narrowing that range? That's my second question.
+And the third question is just quite a simple one, really. Could you give me a
+reconciliation between the basic own funds and the eligible own funds, please?
+
+A - Denis Pierre Marie Duverne
+
+{BIO 1521138 <GO>}
+
+Alban, do you want to start with the ﬁrst question?
+
+Page 14 of 30
+
+
+
+Company Name: AXA SA
+Company Ticker: CS FP Equity
+Date: 2015-12-03
+
+FINAL
+
+A - Alban de Mailly Nesle
+
+{BIO 20387796 <GO>}
+
+Yes. So on credit spread, you're right in assuming that we used a dynamic Volatility
+Adjuster. But that's an SCR issue, not an AFR issue. The dynamic Volatility Adjuster is used
+in the SCR. And you will have seen in the slides that what really matters in the corporate
+spreads sensitivity is the AFR. So what we have shown on the slide that you refer to is if in,
+I ﬁnd, the liabilities, the Volatility Adjuster were not to move at all, then the sensitivity on
+the asset side would give the number that you have on that additional slide. But it's
+irrespective of what happens to the SCR with a dynamic VA. But you're right in saying that
+we use a dynamic VA.
+On your other question which is the default assumption, so that's usually speaking of
+corporate default, right? That's not in the market risk. That's in our default risk. And the
+number that we show on slide 13, the €4 billion, mainly relates to corporate default much
+more than to receivables and so on. So that's the amount that we would have.
+
+A - Denis Pierre Marie Duverne
+
+{BIO 1521138 <GO>}
+
+And you have a third question?
+
+Q - James A. Shuck
+
+{BIO 3680082 <GO>}
+
+Well, the second question was for the ﬁrst part or the second part, was the range of...
+
+Bloomberg Transcript
+
+A - Denis Pierre Marie Duverne
+
+{BIO 1521138 <GO>}
+
+Oh, sorry. On the range, look, we have a ratio which, as we say, is very resilient. But, I
+mean, we remember the situation at the end of Q1. You see that we – the ratio dropped by
+10 points, and it was a – I mean, it was a big issue for the analysts. And we want to tell you
+that we are not worried by movements of 10 points or 20 points. Because markets will
+move, our ratio will move, and we are running a very long-term business. And we are not
+going to take short-term decisions on the basis of those short-term movements.
+So we tell you we feel very comfortable within that range, and you shouldn't worry about
+it. Yes, arguably, it's a big range, but we are comfortable with that range. And we don't
+see the beneﬁt of moving to a narrower range which would lead to major strategic
+decisions. We don't believe it's the right thing. So the reason why we've put a large range
+is because we want to manage the business on a long-term basis because this is a longterm business, and not on short-term ﬂuctuations.
+
+Q - James A. Shuck
+
+{BIO 3680082 <GO>}
+
+And then just on the basic own funds and the eligible own funds?
+
+A - Denis Pierre Marie Duverne
+
+{BIO 1521138 <GO>}
+
+I think you're referring to the diﬀerence between – well, the diﬀerence would be
+operational risk generally on this. That's for the standard formula. Well, I'm mistaken with
+something. I'm not sure I understand your question.
+
+Page 15 of 30
+
+
+
+Company Name: AXA SA
+Company Ticker: CS FP Equity
+Date: 2015-12-03
+
+Q - James A. Shuck
+
+{BIO 3680082 <GO>}
+
+FINAL
+
+No. To the extent that the AFR is the diﬀerence between the market value of the assets
+and the market value of the liabilities, you would have the basic owned funds and then
+there's restrictions over the amount of the basic own funds to get you to your actual
+eligible owned funds under the Solvency II framework. Perhaps you can follow-up later.
+
+A - Alban de Mailly Nesle
+
+{BIO 20387796 <GO>}
+
+Yeah. I'm not sure I get your point.
+
+Q - James A. Shuck
+
+{BIO 3680082 <GO>}
+
+Okay. Thank you.
+
+Q - Oliver G. Steel
+
+{BIO 6068696 <GO>}
+
+Since I've got a mic.
+
+Q - Andrew Wallace-Barnett
+
+{BIO 18671460 <GO>}
+
+(58:18)
+
+Bloomberg Transcript
+
+Q - Oliver G. Steel
+
+{BIO 6068696 <GO>}
+
+Okay, sorry. It's Oliver Steel at Deutsche Bank. Two questions. You talked about increasing
+your equity Tier 1, at least I think that was the understanding relative to the debt in that
+Tier 1. Can you just gives us some sort of guidance as to over what period and how far you
+want to move those ratios by. And just so we have a sort of sense of how you might use
+free capital generation going forward?
+And then, secondly, Alban talked about the regime being stable from here. Is that right or
+what changes could you expect from here on?
+
+A - Denis Pierre Marie Duverne
+
+{BIO 1521138 <GO>}
+
+Gérald, do you want to take the ﬁrst one?
+
+A - Gérald Harlin
+Yeah. Oliver, about your ﬁrst question, going back to the cash generation. So Alban
+mentioned that we can expect to have an 11 points cash generation year-after-year. And,
+as you know, this is after dividend, but taking – we are used to, taking many times, we
+mentioned that we would have external growth and, let's say, €1 billion of M&A. What
+does represent, €1 billion of M&A? It would represent, assuming that the goodwill would
+be one-third, it would be minus 3%. Assuming that it would be two-thirds of the value, i.e.
+€600 million roughly, it could represent minus 6%.
+So you can – I believe this gives you a good approximation of the fact that we can expect
+on a net-net basis on average, to have an operational cash generation, let's say, between
+4% and 6%, roughly speaking, and that gives you – and again, what I said is that Tier 1
+Page 16 of 30
+
+
+
+Company Name: AXA SA
+Company Ticker: CS FP Equity
+Date: 2015-12-03
+
+under stress scenario is not so resilient. So I believe that it gives you an idea of the speed
+and the pace at which we could recover. And presently we have as mentioned in the
+appendix, we have €9 billion of Tier 1.
+
+A - Alban de Mailly Nesle
+
+{BIO 20387796 <GO>}
+
+FINAL
+
+Do you want me to take the second question?
+
+A - Denis Pierre Marie Duverne
+
+{BIO 1521138 <GO>}
+
+Yes.
+
+A - Alban de Mailly Nesle
+
+{BIO 20387796 <GO>}
+
+Bloomberg Transcript
+
+So I think there's been a number of back and forth in the construction of the Solvency II
+framework. So everybody now wants to use it. When I say everybody, it's both the
+insurance industry and the supervisors, before potential changes are implemented.
+Obviously, what you may have in mind is the discussion on the UFR. There won't be any
+change on this at least until the end of 2016. The EIOPA then during 2016 will launch the
+consultation on what should be the level of the UFR. What the industry is saying, the CFO
+forum, the CRO forum, Insurance Europe and so on is that we need stability. And so for
+the next three years to ﬁve years, we are asking the supervisors – the regulators not to
+change the UFR because we need stability in Solvency II. That's, for me, the one thing that
+could change, and I will not mention the ICS and insurance capital standards that might
+come in so many years.
+
+A - Denis Pierre Marie Duverne
+
+{BIO 1521138 <GO>}
+
+The other topic that could change is the sovereign risk charge in the standard model, but
+as you have seen, we are already taking it into account in the internal model.
+
+Q - Andrew Wallace-Barnett
+
+{BIO 18671460 <GO>}
+
+Thank you very much. I didn't quite understand, and I'm on slide 27, you talked about the
+local excess capital. And I just wondered if you could just say again what you meant
+because I didn't understand if it's already excess or it's going to be excess or it's going to
+be released, France and the Germany and the U.S.?
+And then on slide 24 and 25, so slide 24, it strikes me as the dividend never goes down,
+and slide 25 used slightly diﬀerent words for the diﬀerent scenarios according to dividend
+ﬂexibility or outside range. And I just wondered whether underlying this, you've got a
+kind of commitment to a ratchet dividend, in other words, the payout 45% to 55%, but not
+cutting it, that seems to be coming through but maybe I'm wrong here. And then, you
+mentioned the balance of deals in the past that was positives, you released more capital
+than you reinvested. Is that right now we should expect €1 billion roughly to be reinvested
+net every year? Thank you.
+
+A - Gérald Harlin
+
+Page 17 of 30
+
+
+
+Company Name: AXA SA
+Company Ticker: CS FP Equity
+Date: 2015-12-03
+
+I'll start with the excess capital. It's on page 27. Let's put it this way, as you know, in a
+Solvency I world, we were quite highly reliant – we relied on the unrealized capital gains.
+And you know that the unrealized...
+
+A - Denis Pierre Marie Duverne
+
+{BIO 1521138 <GO>}
+
+FINAL
+
+On bonds.
+
+A - Gérald Harlin
+On bonds. And the unrealized capital gains, by deﬁnition, were extremely volatile. Here, I
+would say that it's completely diﬀerent. And obviously, today, yes, we have some capital
+excess mostly in the countries that are mentioned here, but it's quite volatile, and
+tomorrow it will be diﬀerent. That means that it will be less volatile.
+
+Bloomberg Transcript
+
+What do I mean by a buﬀer? Let's say that the buﬀer, it could be between 130% and 150%,
+but what is above these levels can be distributed not in one day, but progressively, and
+that's what we meant, which means that we are quite comfortable to say that over time, it
+will be possible to distribute now, and that's why we have – we conﬁrmed that the €0.5
+billion, the example of €0.5 billion could be distributed because we will have this capacity
+to upstream cash through the retained earnings locally in the diﬀerent entities. And it's
+mostly the case for the European entities, of course, because it will be – it's much more
+complicated, again, relative to countries like Japan or to countries like Switzerland
+because the framework is diﬀerent, but it doesn't mean that we won't do eﬀorts in order
+to reduce and to optimize capital in these countries.
+
+A - Denis Pierre Marie Duverne
+
+{BIO 1521138 <GO>}
+
+On the dividend payout range, I don't think I can tell you more than what is on slide 25.
+Basically, we say that's between 170% and 230%, we are conﬁdent that we can pay our
+dividend between 45% and 55% of adjusted earnings. It means that outside this range,
+we might have to change the payout ratio either upwards or downwards.
+
+Q - Andrew Wallace-Barnett
+
+{BIO 18671460 <GO>}
+
+And within the 170% to 230%, given the history of maintaining at least the same dividend,
+is there kind of implicit commitment maintaining the dividend or is that completely
+ﬂexible depending on the earnings?
+
+A - Denis Pierre Marie Duverne
+
+{BIO 1521138 <GO>}
+
+I mean, obviously, all companies tend to have a policy where you try to smooth the pace
+of growth of the dividend. I will not tell you anything more. That's a rational thing to do
+and that's what all boards will eventually propose to their shareholders.
+
+Q - Andrew Wallace-Barnett
+
+{BIO 18671460 <GO>}
+
+On deals?
+
+A - Denis Pierre Marie Duverne
+
+{BIO 1521138 <GO>}
+Page 18 of 30
+
+
+
+Company Name: AXA SA
+Company Ticker: CS FP Equity
+Date: 2015-12-03
+
+FINAL
+
+On deals, yes, we have already indicated in our previous calls or investor meetings that
+we would expect that the balance between acquisitions and disposals might be diﬀerent
+in the future that would have probably slightly more acquisitions than we would have
+disposals. That doesn't mean that we say that we won't continue to make disposals. But
+on balance, we would expect the balance to be slightly positive instead of having been
+negative or having more acquisitions than disposals going forward.
+
+Q - Ralph Hebgen
+
+{BIO 6297020 <GO>}
+
+Thank you. Hi. It's Ralph Hebgen from KBW. Just two things. One, going back to slide 28.
+I'm not entirely sure I understand why under the Solvency II framework, the new business
+required capital goes down and so I would value perhaps some comments on the
+dynamics there. And second, going forward, or let's start with the past. I mean, the past
+we had a very stable framework of reporting cash within the MCEV framework. Could you
+give us some comments how you plan to perhaps report on cash in the future under the
+Solvency II framework?
+
+A - Denis Pierre Marie Duverne
+
+{BIO 1521138 <GO>}
+
+Gérald, do you want to take the two questions?
+
+Bloomberg Transcript
+
+A - Gérald Harlin
+Yes. Starting ﬁrst with your ﬁrst question about the page 28. So, as you know, the biggest
+diﬀerence between Solvency I and Solvency II is that you can beneﬁt from the future
+proﬁt. Let's call it the value of in-force business, the VIF. So what does it mean? That
+means that up to now, where are had to post capital, let's say 4%, 1%, et cetera, you had to
+post capital which was hard capital in front of – in order to do new business. In the future,
+depending on the type of business that you will write, you will have less capital
+requirement, hard capital requirement. In other words – and that's our case. The fact that
+we are doing, as mentioned before, more Unit-Linked and more Protection means that we
+have future proﬁt and we're beneﬁting from this situation. So that's exactly what we want –
+that I wanted to mention here and to present here. Your second question was about cash.
+
+A - Denis Pierre Marie Duverne
+
+{BIO 1521138 <GO>}
+
+Yes. Cash in the – how we would report cash ﬂows in the future?
+
+A - Gérald Harlin
+Yeah. We will report. So, that means that most probably, we will report on a format which
+will not be fundamentally diﬀerent from the one of EEV, clearly highlighting the cash
+ﬂows. That means that our format which was based on free cash ﬂows, remittance ratio,
+how much cash, will be the same, except that on a capital requirement, we will adjust it.
+But you will have a strong – we will keep a strong cash ﬂow eﬀort.
+
+A - Andrew Wallace-Barnett
+
+{BIO 18671460 <GO>}
+
+Blair?
+
+Page 19 of 30
+
+
+
+Company Name: AXA SA
+Company Ticker: CS FP Equity
+Date: 2015-12-03
+
+Q - Blair Stewart
+
+{BIO 4191309 <GO>}
+
+FINAL
+
+Yeah. Thank you. It's Blair Stewart from Merrill's. Just following on the cash generation,
+you talked about the reduction in your cash consumption and the implication, obviously,
+is that your cash generation is the same as it was on the previous disclosures. Is that right,
+ﬁrstly?
+And following up from that, will you give – clearly the unwind of the discount rate in
+Solvency II is the low unwind. And then you have a real-world investment return on top of
+that. Coming back to the point about presentation of your cash generation, presumably
+you will present on a real-world investment return perspective rather than just simply the
+unwind of the Solvency II discount rate (01:10:29).
+
+A - Gérald Harlin
+Yeah. Anyway, what I can say about your last question Blair, we will go on, for the sake of
+calculation of the IRR, for example, you will need to have the risk free rate plus the
+additional – plus the risk margin – plus the spreads. So I think that we will do it also in a
+real world. So that means that it won't be very diﬀerent. That means that you will have the
+cash ﬂows, and the cash ﬂows under the management case, that will give you the capacity
+to calculate, as we do today, IRR. So that's – honestly, I don't believe that it will be – that's
+why I said it will be very close from the present framework except that there will be some
+small modiﬁcation, and we will have opportunity to discuss it on the right time.
+
+Bloomberg Transcript
+
+Q - Blair Stewart
+
+{BIO 4191309 <GO>}
+
+Yeah. I think that's clear. Just two very quick follow-ups and I have very quick additional
+questions. You've given some indication in the past of the impact of using U.S. equivalents
+in solvency point terms. Is that something that you're prepared to share now or is that
+something that's in the past?
+And secondly, just a bit (01:11:48) confusion on this with diﬀerent companies you speak to,
+but will you publish – will you be required to publish your solvency ratios without or
+excluding the impact of the volatility adjuster?
+
+A - Gérald Harlin
+About U.S. equivalence, we said that in the past that it would be between 30 and 40
+points, so it's still the case. About the volatility adjuster, the answer is no. That means that
+it will be required within roughly, if I'm right, it should be in mid-2017. Before, the answer
+is not.
+
+A - Andrew Wallace-Barnett
+
+{BIO 18671460 <GO>}
+
+There was a question in the ﬁrst row (01:12:33)
+
+Q - Andrew J. Crean
+
+{BIO 16513202 <GO>}
+
+Good evening. It's Andrew Crean, Autonomous. Could you – three things. Firstly, what is
+the beneﬁt of the internal model relative to the standard formula in terms of your
+
+Page 20 of 30
+
+
+
+Company Name: AXA SA
+Company Ticker: CS FP Equity
+Date: 2015-12-03
+
+FINAL
+
+coverage ratio?
+Secondly, when I'm thinking about your remittances, you're basically indicating you're
+going to cram down on the local regulators and try and push as much cash up to group as
+you can. Does that mean that the 75% to 85% has some element of sort of latent capital
+being pushed up or is that sort of ongoing rate? And as regulators settle down on the
+Solvency II and begin to understand themselves, do you think that they could open their
+shoulders a bit more and allow money to come up?
+And then thirdly, on slide 13, where you've given the underwriting risk, market risk, credit
+risk, probably not now but would you give us a bit more understanding of the diﬀerent
+elements within the market risk and the underwriting risk there? The €15 billion here, it
+might be quite useful to understand how much of that is equity risk and all the other
+components?
+
+A - Gérald Harlin
+
+Bloomberg Transcript
+
+As far as your ﬁrst question, that means that as far as the internal model is concerned, we
+don't – we beneﬁt from this internal model. So we don't give the advantage of the internal
+model relative to the standard formula. It's not something which is required at all in a
+Solvency II framework and at no time, it will be asked for.
+About your question relative to the remittance, I would say that so long as you will use
+new business future proﬁt, if you want to take all beneﬁt of this new business proﬁt, for
+sure, you will use some retained earnings, local capacity that you would have in the local
+entity and that's what we will do. So that means that we will, as much – so long as we have
+signiﬁcant excess capacities that over time could be up-streamed, then that's why the 75%
+to 85% is something that we can conﬁrm and where we switch we are quite comfortable.
+
+A - Denis Pierre Marie Duverne
+
+{BIO 1521138 <GO>}
+
+And this is – so, you should interpret that as meaning on an ongoing basis and not as
+something that would result from, as you say, pushing a lot of money upfront in year one
+and two and then not having the ability to push as much in the later years.
+
+Q - Andrew J. Crean
+
+{BIO 16513202 <GO>}
+
+I suggest you could, in the ﬁrst few years, actually push out more than 85% as some of this
+one-oﬀ excess capital get moved up.
+
+A - Denis Pierre Marie Duverne
+
+{BIO 1521138 <GO>}
+
+Maybe, but on the other hand, we have some internal debt that we would unwind.
+
+A - Gérald Harlin
+But nevertheless, as I've said, what is important to keep in mind that even net of these
+internal debts that would be unwound, there is capacity. Alban?
+
+Page 21 of 30
+
+
+
+Company Name: AXA SA
+Company Ticker: CS FP Equity
+Date: 2015-12-03
+
+A - Alban de Mailly Nesle
+
+{BIO 20387796 <GO>}
+
+FINAL
+
+And on your last question, what I can tell you is on page 13, the examples that we gave in
+the boxes are in a decreasing order of importance so in our market risk, equity risk is
+more than spread risk which is more than interest rate risk. And for those who wonder
+why equity risk comes ﬁrst, though we have limited exposure on our balance sheet, you
+should remember that our Unit-Linked business has some equity exposure, and we might
+lose future proﬁts from our Unit-Linked business if equities decrease.
+
+Q - William H. Elderkin
+
+{BIO 3349136 <GO>}
+
+Thanks. It's William Elderkin from Goldman, two questions. First of all, the guidance
+you've given in terms of the Solvency II capital structure on slide 26, does that supersede
+or show should we think about that in the context of the IFRS balance sheet target
+leverage range of 23% to 25%.
+And then secondly, going back to the – I think you made a statement on slide 11 that you
+expected the capital generation from the in-force and the life business to be roughly
+stable, Solvency I compared to Solvency II. I'm just wondering, is there a simple
+explanation of why that's the case given there seems to be so many parts for change
+moving to a full market value balance sheet and hence, why net-net, there isn't a sort of
+any material change?
+
+Bloomberg Transcript
+
+A - Gérald Harlin
+On your ﬁrst question relative to our Tier 1 debt, I would say that this doesn't change.
+Look at what I said, I mentioned that we will still have 23% to 25% target. We will keep it.
+It's our interest. And we always said that below, it would be considered as not in the
+interest of the shareholders. Nevertheless, you can imagine that over time, we could have
+some parts of the Tier 1 debt that could be replaced by other categories and that's mostly
+it, no need to pay for a spread which is quite important. We will keep the present range in
+term of debt while reinforcing our capital structure.
+
+A - Alban de Mailly Nesle
+
+{BIO 20387796 <GO>}
+
+Just the other question on the cash ﬂows in terms of (01:18:43).
+
+A - Denis Pierre Marie Duverne
+
+{BIO 1521138 <GO>}
+
+The cash ﬂow was from the in-force.
+
+A - Gérald Harlin
+Yes. The cash ﬂow in the in-force, it's not something which is so easy as you can imagine
+and you mentioned it. Thank you. But anyway, you can – we looked at it and it's – I said it's
+broadly the same. So, don't – we cannot expect to have big diﬀerences. What I could say
+and that what I didn't mention and it goes back to the previous question is that so long as
+for the in-force as well, you will beneﬁt from the VIF makes that if you have some capital
+available then you could beneﬁt from this, but I didn't take into consideration and that's
+why in the presentation, I focused only on the new business. But it's also something which
+is possible, but it goes back to the capacity to de-capitalize the company and to make the
+Page 22 of 30
+
+
+
+Company Name: AXA SA
+Company Ticker: CS FP Equity
+Date: 2015-12-03
+
+bid, to monetize the VIF. That's another way that I could explain it, but broadly speaking,
+everything equal, should be more or less the same.
+
+FINAL
+
+Q - Farooq Hanif
+
+{BIO 4780978 <GO>}
+
+Hi there. Farooq Hanif from Citi. So it seems to me from what you're saying that it's more
+attractive to buy stuﬀ in Europe because you've got a market value frame, which is looking
+similar to what you had before. You have a big diversiﬁcation beneﬁt. I'm just wondering
+whether this is informing your M&A.
+And secondly, is there any convexity in your 75 bps corporate bond spread sensitivity
+because I know you've got credit derivatives on the balance sheet. I know they're not
+necessarily that hedged, but can you talk about any convexity that gets more negative
+beyond 75 bps if we get a really, really big shock? Thank you.
+
+A - Denis Pierre Marie Duverne
+
+{BIO 1521138 <GO>}
+
+So, on the M&A strategy, we are not going to change our M&A strategy in any signiﬁcant
+way. We will continue with the strategy that we have had in the last 4.5 years, focused on
+P&C and protection, focused on high growth markets, and you should see a continuation
+of the previous strength there.
+On the convexity, you want to take that, Gérald?
+
+Bloomberg Transcript
+
+A - Gérald Harlin
+No, apparently I don't see any convexity. That means that there is convexity when there is
+a kind of option. So that's the case for interest rates but not for spreads.
+
+A - Denis Pierre Marie Duverne
+
+{BIO 1521138 <GO>}
+
+Alban.
+
+A - Alban de Mailly Nesle
+
+{BIO 20387796 <GO>}
+
+Yeah. If anything, we do have some protections on corporate spreads widening. So that
+would protect us against slightly, but against a signiﬁcant shock. So I don't think there is
+convexity in that.
+
+A - Andrew Wallace-Barnett
+
+{BIO 18671460 <GO>}
+
+A question in the back.
+
+Q - Andy Hughes
+
+{BIO 15036395 <GO>}
+
+Thank you. It's Andy from Macquarie again. A couple of questions. The ﬁrst one is on slide
+12. I couldn't ﬁnd any adjustment for fungibility that you talked about. Is it right to assume
+there isn't really any deduction to fungible or there no fungibility problems assumed in
+the Solvency II framework.
+
+Page 23 of 30
+
+
+
+Company Name: AXA SA
+Company Ticker: CS FP Equity
+Date: 2015-12-03
+
+FINAL
+
+And the second is if I just might like to kind of touch a bit more on the volatility adjuster
+and the comment you made that because you run lots of government bond, it's actually
+quite positive when the volatility adjuster increases. So are kind of regulators happy with
+you assuming the credit from the volatility adjuster, even though you own a portfolio of
+mainly government bonds? Thank you.
+
+A - Alban de Mailly Nesle
+
+{BIO 20387796 <GO>}
+
+So on fungibility, there is a haircut of £500 million, and that haircut is the recognition that
+the minority shareholders' funds cannot cover other entity's losses, and that mainly comes
+from our AXA MPS minority shareholders. And that's all. There's no other haircut in terms
+of eligibility. On the VA, the reference portfolio has certain percentage of government
+bonds and corporate bonds. And all the industry has to use the VA that comes from that
+reference portfolio whatever they have on the asset side. And given that we have a
+diﬀerent mix than the...
+
+A - Denis Pierre Marie Duverne
+
+{BIO 1521138 <GO>}
+
+Which is more conservative.
+
+A - Alban de Mailly Nesle
+
+{BIO 20387796 <GO>}
+
+Bloomberg Transcript
+
+Which is more conservative. As I explained during the presentation, the corporate bonds
+spread widening is more mitigated (01:23:23) than the government bonds spread
+widening. That's why you have that nine points sensitivity for 50 bps whereas it's closer to
+zero for the corporate bonds spread.
+Did that answer your question?
+
+Q - Andy Hughes
+
+{BIO 15036395 <GO>}
+
+(01:23:40) there's no question about – everyone's happy with you (01:23:46) using that in
+your SCR. How big is the beneﬁt out of interest?
+
+A - Alban de Mailly Nesle
+
+{BIO 20387796 <GO>}
+
+Okay. So, on the AFR, we use it like the rest of the industry; on the SCR, the ﬁrst part of the
+model that was approved by the supervisors, so everybody – if you refer to the
+supervisors that looked at our model, everybody is happy with that. Yes.
+
+A - Andrew Wallace-Barnett
+
+{BIO 18671460 <GO>}
+
+Question in the front.
+
+Q - James A. Shuck
+
+{BIO 3680082 <GO>}
+
+Thanks. James Shuck from UBS again. Just a couple of quick follow-ups, please. You
+mentioned the government bonds are risk charged. Could you just outline what your
+approach is there, or are you just treating them like normal corporate bonds based on the
+credit rating? In particular Italy and Spain I suppose.
+
+Page 24 of 30
+
+
+
+Company Name: AXA SA
+Company Ticker: CS FP Equity
+Date: 2015-12-03
+
+FINAL
+
+And then, secondly, just returning to the cash generation; you can see that the strain in
+year one is positive on capital generation. Obviously, you mentioned that Solvency I basis
+moving to Solvency II, but I'm thinking about capital generation from the back book. So at
+the moment when we look at your MCEV disclosure we can see how the required capital
+runs oﬀ as we move through one year. So my question is really what happens to that level
+of required capital release in the near-term as you transition to a Solvency II environment.
+
+A - Alban de Mailly Nesle
+
+{BIO 20387796 <GO>}
+
+So on the ﬁrst one, which is the government bond risk charge. So like for all the other risk,
+we look at path volatility, but here we look at path volatility country-by-country. So we
+would eﬀectively have diﬀerent capital charge for a Spanish government bond or a
+Belgium one or French one, based on the volatility that you've seen over the past years
+and notably in 2011-2012.
+
+A - Denis Pierre Marie Duverne
+
+{BIO 1521138 <GO>}
+
+Yes. The euro ﬁnancial crisis has had signiﬁcant inﬂuence on the – of the capital charge for
+Solvency (01:25:40). Second question, Gérald.
+
+Bloomberg Transcript
+
+A - Gérald Harlin
+About your second question that's not very far from the previous question. And what I
+said is that the way we released capital on the Solvency II world will not be exactly the
+same, but more or less it will be nice. So that means that we cannot expect with very big
+diﬀerences. And keep in mind as well that before in the Solvency II world we were using
+150% of Solvency I which means that we had already a certain amount of cushion that was
+used in our EV report, but again, wait for the – we will present it with the 2015 accounts
+and we will present a new format and we will (01:26:30) to release this at the time, but
+don't expect big diﬀerences on that side.
+
+Q - James A. Shuck
+
+{BIO 3680082 <GO>}
+
+Just to follow-up very quickly on that. So, for Italy, for example, if you took the sov work,
+can you actually tell me what your capital charges are for Italian sovereigns?
+
+A - Alban de Mailly Nesle
+
+{BIO 20387796 <GO>}
+
+I don't think we want to go into the details of our various capital charges for various risks.
+
+A - Andrew Wallace-Barnett
+
+{BIO 18671460 <GO>}
+
+Question in the ﬁrst row?
+
+Q - Andrew J. Crean
+
+{BIO 16513202 <GO>}
+
+It's Andrew Crean again. One thing I don't understand is when you – the most important
+slide according to you is this one about the resilience and the least resilient situation was
+2008-2009 ﬁnancial crisis which hit you by 48 points. Now, that essentially was a credit
+crisis. Given the fact that you're saying that you're very resilient under a credit situation,
+how come that is minus 48 points?
+Page 25 of 30
+
+
+
+Company Name: AXA SA
+Company Ticker: CS FP Equity
+Date: 2015-12-03
+
+A - Alban de Mailly Nesle
+
+{BIO 20387796 <GO>}
+
+So it was not only credit crisis because at the same time, you had equities going down,
+you had interest rates going down, you had credit spreads widening and...
+
+A - Denis Pierre Marie Duverne
+
+{BIO 1521138 <GO>}
+
+FINAL
+
+And volatility.
+
+A - Alban de Mailly Nesle
+
+{BIO 20387796 <GO>}
+
+...volatility signiﬁcantly increasing. So you had all those asset classes going the wrong way.
+And obviously, when – I showed you the shocks to individual ones, but naturally when
+they are severe and they are combined, the total combination of those shocks is more
+than a single sum.
+
+Q - Andrew J. Crean
+
+{BIO 16513202 <GO>}
+
+Perhaps it might be interesting now for us to have a feel for what's going on there within
+the 48 points.
+
+A - Denis Pierre Marie Duverne
+
+{BIO 1521138 <GO>}
+
+Michael (01:28:08), in the second row? If you can you pass the mic?
+
+Bloomberg Transcript
+
+Q - Andrew Wallace-Barnett
+
+{BIO 18671460 <GO>}
+
+Again, a stupid question because I don't understand what the Tier 1 discussion and I'm a
+bit lost. You say you want to reduce it or improve the quality but not change the debt
+ratios. Can you just give an example of what you intend to do, just so I understand? That's
+all. Thank you.
+
+A - Gérald Harlin
+Okay. Let's say that you could imagine that we will have, within the next year, some Tier 1
+debt that will mature. And we could decide that part of this maturing debt, instead of
+being renewed as Tier 1 debt will be replaced by senior or Tier 2, which will be cheaper.
+At the same time, the fact and it goes back to Oliver's question about what you expect,
+that means that the fact that we have capital generation of 11 points minus eventual M&A
+makes that you have an accretion of your solvency. And I believe that you have the answer
+to your question. I'm clear or not?
+
+Q - Andrew Wallace-Barnett
+
+{BIO 18671460 <GO>}
+
+Not the last point.
+
+A - Gérald Harlin
+No but the last point is a fact that...
+
+Q - Andrew Wallace-Barnett
+
+{BIO 18671460 <GO>}
+Page 26 of 30
+
+
+
+Company Name: AXA SA
+Company Ticker: CS FP Equity
+Date: 2015-12-03
+
+Retained earnings. Do you have retained earnings?
+
+FINAL
+
+A - Gérald Harlin
+Okay. Imagine that you have replaced a Tier 1 debt with a senior. So it may be, at least, the
+eﬀect would be to decrease your solvency ratio, okay but progressively, the fact that you
+are accretive and that you have, let's say, a few points that increase your solvency ratio
+makes – while, over time, while keeping the same solvency ratio, you end up with a
+structure which is stronger and cheaper.
+
+A - Denis Pierre Marie Duverne
+
+{BIO 1521138 <GO>}
+
+Any further questions? Yes (01:30:07)?
+
+Q - Andrew Wallace-Barnett
+
+{BIO 18671460 <GO>}
+
+Just – how have you treated your own pension funds within the – sorry, pension fund
+within the solvency, on what basis? Is it the accounting IAS basis or the funded basis or
+what? And the second question, I was just going to ask – or just for numbers purposes,
+can you provide the breakdown of the €2.5 billion between asset management, banking,
+and the others?
+
+Bloomberg Transcript
+
+A - Alban de Mailly Nesle
+
+{BIO 20387796 <GO>}
+
+So on the ﬁrst one, we use for owned staﬀ pension funds on the AFR which we have on
+IFRS balance sheet, there's no diﬀerence. But in terms of capital required for our pension
+funds, we use the same model as for the rest of our activities. So there is a capital
+requirement for our pension funds which is the same way.
+
+Q - Andrew Wallace-Barnett
+
+{BIO 18671460 <GO>}
+
+It's in excess of the amount under IAS basis?
+
+A - Denis Pierre Marie Duverne
+
+{BIO 1521138 <GO>}
+
+For the AFR, what Alban just explained, we take the IFRS basis. It's deducted – we don't
+change the existing deduction but for the SCR we include a chart which is based on the
+structure of the liabilities.
+
+Q - Andrew Wallace-Barnett
+
+{BIO 18671460 <GO>}
+
+Are all companies doing that? Do you know if everyone is doing that same basis?
+
+A - Alban de Mailly Nesle
+
+{BIO 20387796 <GO>}
+
+No. I'm not sure I know, but it was something shared obviously by our collegiate
+supervisors where all almost all European supervisors represented. So, I would think that
+our competitors should do the same but I can't assure you that.
+
+A - Denis Pierre Marie Duverne
+
+{BIO 1521138 <GO>}
+
+Page 27 of 30
+
+
+
+Company Name: AXA SA
+Company Ticker: CS FP Equity
+Date: 2015-12-03
+
+Your second question was?
+
+A - Alban de Mailly Nesle
+
+{BIO 20387796 <GO>}
+
+Was the breakdown of the capital requirements for...
+
+FINAL
+
+A - Denis Pierre Marie Duverne
+
+{BIO 1521138 <GO>}
+
+Yeah.
+
+A - Alban de Mailly Nesle
+
+{BIO 20387796 <GO>}
+
+So, I have to come back to you on that one.
+
+A - Denis Pierre Marie Duverne
+
+{BIO 1521138 <GO>}
+
+Okay. Blair?
+
+Q - Blair Stewart
+
+{BIO 4191309 <GO>}
+
+Just coming back on the Tier 1 debt instruments that you have. At the moment, my
+recollection is ﬁrstly they're very long dated, and secondly they're very cheap, certainly
+cheaper than equity. Why would you want to replace this with equity or am I missing
+something?
+
+Bloomberg Transcript
+
+A - Gérald Harlin
+The point is that it's very long, yes but they are calls as you know. Second, about the cost
+roughly is 4.6%. Okay. And second, we could say that this debt is as I said under stress
+scenarios, it wouldn't be extremely resistant. So that's all these reasons combined make
+that we decide to do this. Look, today – under today's conditions, replacing, let's say, Tier
+2 debt or senior debt is much cheaper.
+
+A - Denis Pierre Marie Duverne
+
+{BIO 1521138 <GO>}
+
+Any further question? Michael (01:33:27), again?
+
+Q - Andrew Wallace-Barnett
+
+{BIO 18671460 <GO>}
+
+Very slight puzzled. So, you're distinguished between Solvency I strain of new business
+and the Solvency II is €0.5 billion beneﬁt which is lovely. And you've been running your
+company on this for a while. So presumably, what you're telling us today you've been
+actually doing before or I don't quite understand. So if you've been running – if you've
+been using this framework until now, this change from Solvency I to Solvency II and the
+cash up-streaming, is that a real change or is that just a kind of information change for our
+beneﬁt?
+
+A - Gérald Harlin
+No, it's a real change. That means that we were not ruled before by Solvency II. We could
+not use the future proﬁt of our in-force business just in order to match up capital
+
+Page 28 of 30
+
+
+
+Company Name: AXA SA
+Company Ticker: CS FP Equity
+Date: 2015-12-03
+
+requirements. No, it's real. It's real.
+
+Q - Andrew Wallace-Barnett
+
+{BIO 18671460 <GO>}
+
+FINAL
+
+It's real. So, you're going to pass next (01:34:31). You're going to pay the lucky
+shareholders here (01:34:37) for 2015, is that right? Or is it 2016 that it comes into force?
+
+A - Gérald Harlin
+It comes into force in 2016.
+
+Q - Andrew Wallace-Barnett
+
+{BIO 18671460 <GO>}
+
+It comes into force in 2016. Sorry. I beg your pardon. Thank you.
+(01:34:55) Société Générale Credit Research. Sorry, one more question about your capital
+structure. You were talking about replacing Tier 1 hybrid with Tier 2. But do I understand
+you correctly that you leave the door open to place some of your outstanding Tier 1
+hybrid with new Solvency II compliant Tier 1? And would you consider being the ﬁrst
+issuer, issuing Solvency II-compliant Tier 1?
+And second question, am I right to assume that all of your outstanding hybrid debt falls
+under the grandfathering regime, and it's not Solvency II-compliant in its own right?
+
+Bloomberg Transcript
+
+A - Gérald Harlin
+Okay. So it's not at all what I said. And I didn't say that we wanted to be the ﬁrst one to
+use this Solvency II Tier 1 compliant. We will see in the future. And second, yes, you
+remember that we mentioned that we were beneﬁting from the grandfathering and this is
+a given. So we will beneﬁt it for 10 years. So we'll keep it. And you remember maybe that
+we decided that one year ago, we decided to prolong the sum of this debt in order to
+fully beneﬁt from it. So this is something that we will keep.
+
+A - Denis Pierre Marie Duverne
+
+{BIO 1521138 <GO>}
+
+Okay. Do we have questions from – on the – no? Okay. So I believe that we have
+exhausted your questions. Thank you very much for your attention. Thank you very much
+for coming for this investor day and I wish you a very pleasant end of the day. Thank you.
+
+This transcript may not be 100 percent accurate and may contain misspellings and other
+inaccuracies. This transcript is provided "as is", without express or implied warranties of
+any kind. Bloomberg retains all rights to this transcript and provides it solely for your
+personal, non-commercial use. Bloomberg, its suppliers and third-party agents shall have
+no liability for errors in this transcript or for lost proﬁts, losses, or direct, indirect,
+incidental, consequential, special or punitive damages in connection with the furnishing,
+performance or use of such transcript. Neither the information nor any opinion expressed
+in this transcript constitutes a solicitation of the purchase or sale of securities or
+commodities. Any opinion expressed in the transcript does not necessarily reﬂect the
+Page 29 of 30
+
+
+
+Company Name: AXA SA
+Company Ticker: CS FP Equity
+Date: 2015-12-03
+
+Bloomberg Transcript
+
+FINAL
+
+views of Bloomberg LP. © COPYRIGHT 2022, BLOOMBERG LP. All rights reserved. Any
+reproduction, redistribution or retransmission is expressly prohibited.
+
+Page 30 of 30
+
+

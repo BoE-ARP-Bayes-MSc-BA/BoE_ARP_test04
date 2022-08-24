@@ -1,0 +1,1081 @@
+Company Name: Zurich Insurance Group AG
+Company Ticker: ZURN SW Equity
+Date: 2015-05-07
+
+Q1 2015 Earnings Call - Q&A
+Company Participants
+FINAL
+
+George Quinn
+James Quin
+
+Other Participants
+Andrew J. Ritchie
+Andy D. Broadﬁeld
+Dhruv Gahlaut
+Farooq Hanif
+James A. Shuck
+Michael I. Huttner
+Niccolo C. Dalla Palma
+Nick Holmes
+Paul C. De'Ath
+Stefan Schürmann
+
+Bloomberg Transcript
+
+Thomas Seidl
+
+MANAGEMENT DISCUSSION SECTION
+Operator
+Ladies and gentlemen, good morning or good afternoon. Welcome to the conference call
+on the results for the three months to March 31, 2015. I am Sarah; I'm the Chorus Call
+operator. I would like to remind you that all participants will be in listen-only mode, and
+the conference is being recorded. After the presentation, there will be a Q&A session. The
+conference must not be recorded for publication or broadcast.
+At this time, it's my pleasure to hand over to Mr. James Quin, Head of Investor Relations
+and Rating Agency. Please go ahead, sir.
+
+James Quin
+
+{BIO 18345789 <GO>}
+
+Good afternoon, and welcome to Zurich's Q1 results call. Our CFO, George Quinn, will
+make a few introductory comments, and then we'll take your questions. As usual, please
+stick to two.
+Now, I'll hand it over to George.
+
+Page 1 of 17
+
+
+
+Company Name: Zurich Insurance Group AG
+Company Ticker: ZURN SW Equity
+Date: 2015-05-07
+
+George Quinn
+
+{BIO 15159240 <GO>}
+
+FINAL
+
+Thanks, James, and good afternoon or good morning to everyone on the phone. To just
+begin with, overall business operating proﬁt for the group was $1.3 billion in the ﬁrst
+quarter, and net income total for shareholders is $1.2 billion. Both numbers are about 5%
+lower than in the prior-year period.
+As you all know, currency has been a signiﬁcant feature of the ﬁrst quarter, and it's likely to
+continue to be a feature over the course of this year. Currency is mainly a translational
+issue for us because we typically match the local currency liabilities and assets, and on a
+constant currency basis, both would have been broadly ﬂat, and the 5% decline in gross
+premium written we've announced in GI would have been a 5% increase.
+From an operating performance perspective, we see this as a solid start to the year, both
+in terms of top line and BOP, albeit with results for both Q1 and the prior period
+beneﬁting from a very low level of catastrophes and we have a number of positive one-oﬀ
+items in both.
+
+Bloomberg Transcript
+
+Let me turn to one other topic before I start the Q&A. With respect to solvency, you've
+seen that both Z-ECM and SST ratios have declined in the second half of last year. Z-ECM
+ratio reduced from 126% at the half year to 122% at the end of the year, and SST declined
+from 215% to 196% over the same period.
+There are three moving parts. So the ﬁrst, impact of net market movements is mainly
+ﬂatter and lower yield curve, which reduced Z-ECM by around 6% and SST by around 13%.
+It's not all yield, but most of it is. Second, allowing for the expected growth that we expect
+to see in the business in 2014 (sic) [2015] (02:52) sort of negative 4-point impact on Z-ECM
+and a negative 5-point on SST. And then, thirdly, for Z-ECM only, these factors were
+partially oﬀset by a change on how we model certain investment risks. This had a beneﬁt
+of around 6 percentage points.
+The interest rate sensitivity that you see and the capital ﬁgures that we disclosed today is
+greater than the previously disclosed simple parallel shift that we've given for two
+reasons. First and most important, is convexity and positioning. And the second is the
+second and third dollar eﬀects that interest rates have on risk capital but now has
+particularly pronounced impact on SST.
+Looking into the development since the end of last year, we'd expect to see the Z-ECM
+ratio move lower in Q1 given the combined impact of currency movements, and the
+further ﬂattening and declines in bond yields amongst other factors. And our best
+estimate is that we'll see a ratio in the upper half of our target range. In other words, still a
+very comfortable level. And given the levers that we have at our disposal to manage the
+overall risks, this does not impact our view of the deployable capital that we hold.
+With that, we'll open up for Q&A.
+
+Page 2 of 17
+
+
+
+Company Name: Zurich Insurance Group AG
+Company Ticker: ZURN SW Equity
+Date: 2015-05-07
+
+Q&A
+Operator
+
+FINAL
+
+The ﬁrst question is from Michael Huttner, JPMorgan. Please go ahead, sir.
+
+Q - Michael I. Huttner
+
+{BIO 21417183 <GO>}
+
+Hello. Actually, thank you very much. Two questions. And I must say, I actually thought
+these were really good results. But within that because you've beaten a number of my
+estimates, where is – you have this target range for return on equity of 12% to 14%. You
+reported 12.9%, which is excellent, excluding one-oﬀ, 11.2%. So my two questions which
+are both on these. Which from your point of view, is actually the right ﬁgure, is it the
+reported or the adjusted? And where is the main miss coming from, is it still in Life or
+we're seeing a bit of a drift also in non-Life now? Thank you.
+
+A - George Quinn
+
+{BIO 15159240 <GO>}
+
+Is that both of your questions, Michael?
+
+Q - Michael I. Huttner
+
+{BIO 21417183 <GO>}
+
+That's it. Yeah.
+
+Bloomberg Transcript
+
+A - George Quinn
+
+{BIO 15159240 <GO>}
+
+Okay. So which is right? I mean, obviously, they're both right because they're both
+calculations. One is the headline number. But I think the more meaningful one is the
+underlying ROE performance because that gives you a better sense of what you could
+expect from a go-forward. And of course that's particularly relevant for the remainder of
+this year, and next year to make sure that we're in that 12% to 14% ROE range. If you look
+at the driver of kind of why we're not where we expect to be, I think there are probably
+two key pieces, I mean, one is the same thing that you have from us at the end of last year.
+So it's mainly GI. If you look at the GI combined ratio, if we adjust for CAT except for oneoﬀ expense on both sides, I mean, the underlying ex-CAT combined ratio hasn't changed
+by much, in fact it's almost exactly the same.
+If we drill into – we have a small improvement in attritional which we believe is oﬀset by
+large loss, but of course the large loss pieces and estimate rather than (06:34). Overall
+though, we need about 2-point to 3-point improvement over where we ended last year
+on GI. We really made a relatively small step in the right direction, so we need much more
+from GI to be in that 12% to 14% range. Second is capital. We're still carrying more capital
+than we need, obviously, depresses the overall ROE. And as we've highlighted before,
+and I guess we'll discuss during the course of this call, certainly we'll discuss again on May
+21. Capital deployment also has the ﬁgure and is achieving that 12% to 14% ROE.
+
+Q - Michael I. Huttner
+
+{BIO 21417183 <GO>}
+
+And that's perfect. Thank you so much.
+
+Page 3 of 17
+
+
+
+Company Name: Zurich Insurance Group AG
+Company Ticker: ZURN SW Equity
+Date: 2015-05-07
+
+A - George Quinn
+
+{BIO 15159240 <GO>}
+
+Thank you.
+
+Operator
+
+FINAL
+
+Your next question is from Andrew Ritchie, Autonomous. Please go ahead.
+
+Q - Andrew J. Ritchie
+
+Well, hi there. One straightforward question, the large loss noise you alluded to in Q1, is
+that still the same area generating large losses – that generated large losses in Q4, which I
+think was things like, for example, U.S. commercial auto, Brazilian surety or is it new areas?
+And maybe just give us a sense, is that revealing any issues or is it genuinely random. And
+then, on capital; you said in your opening comments, maybe I misheard you, that there
+was an eﬀect in the required capital for 2014 growth. But I thought the Z-ECM and SST
+took into account anticipated organic growth for 2015, so it's forward-looking in its
+requirements. Maybe if you just clarify that. And if that is the case, what level of organic
+growth is kind of penciled into that number? And is that one of the levers, I guess, the
+ﬁnancing of that future growth that when you talk about levers and things you can pull?
+Thanks.
+
+A - George Quinn
+
+Bloomberg Transcript
+
+{BIO 18731996 <GO>}
+
+{BIO 15159240 <GO>}
+
+So on the second one, ﬁrst. Sorry, I misspoke, it's absolute 2015. Thank you for that. I
+guess, as one of the levers – I guess, levers (08:41) I guess, it's a margin of prudence that
+we have in the calculation. We've got about negative 4 points and negative 5 points on ZECM and SST. I apologize, I don't really want to give you a forecast of volumes for the
+year, but even with the growth that we see in Q1, we're well beneath the level of growth
+that we had planned for, and (09:04) capital calculations that you see. So we'd have a
+signiﬁcant reduction in both 4 points and 5 points if the current trend continued through
+the remainder of the year.
+On the large loss theme, I'm not sure whether it's good news or bad news, but they are
+completely diﬀerent from Q4. We have a large corporate loss in North America. It's by far
+the largest single loss in the quarter. And we have some large losses in Europe, and in
+particular, the municipal business in the UK stands out as the source of two of them. So
+they're completely diﬀerent from what you saw last year.
+
+Q - Andrew J. Ritchie
+
+{BIO 18731996 <GO>}
+
+The issues that cropped up in Q4, are these calmed down, any development on them, or
+have they just not really come across your desk in Q1?
+
+A - George Quinn
+
+{BIO 15159240 <GO>}
+
+If you look at large losses overall, it's actually a touch higher than it was in Q4. But the
+theme – I guess, there are no themes in large losses are there, but the large losses that
+have occurred, you don't see the Brazilian topic crop up again, and the other items you
+
+Page 4 of 17
+
+
+
+Company Name: Zurich Insurance Group AG
+Company Ticker: ZURN SW Equity
+Date: 2015-05-07
+
+saw – I mean, even then looked as though they were one-oﬀs. And so the themes in Q1
+are completely diﬀerently than the large loss theme.
+
+Q - Andrew J. Ritchie
+
+{BIO 18731996 <GO>}
+
+FINAL
+
+Okay. Thanks.
+
+Operator
+Next question is from Andrew Broadﬁeld, Barclays. Please go ahead.
+
+Q - Andy D. Broadﬁeld
+
+{BIO 7273415 <GO>}
+
+Hi there. Good afternoon. Two questions. First one, on the need for capital, for the
+growth, you mentioned just now that you – that Q1 have missed what you had hoped to
+achieve and therefore to consume. Can you just give us a little bit of outline on where that
+– why you failed to reach that growth target, what part of the business it was in and where
+you think you might be able to catch back up over the course of the year? And then the
+second question is also in relation to solvency. But in terms of what you anticipate, you've
+talked about levers. Does it take into account things like the sort of steady decline in
+Farmers Re, quota share, et cetera, that although, I know it's not in stone your intention I
+see (11:14) the surplus improved again in the quarter at Farmers. So does it capture those
+sorts of actions within your plan?
+
+Bloomberg Transcript
+
+A - George Quinn
+
+{BIO 15159240 <GO>}
+
+So Andy, on the ﬁrst one, I mean, all I can say in response to that, I mean, it's broadly
+across GI. If you look at GI in Q1, we've got pretty strong growth on global corporate that
+we actually think the headline there tends to overstate the growth that we expect to see
+from global corporate for the year. I mean, rate is generally still modestly positive. It
+continues the trend that we've seen through the course of last year, even if the absolute
+numbers by the various businesses or territories move around. I mean where can we catch
+up? I mean, I don't know yet. I mean, we're obviously looking to same sources of
+proﬁtable growth, and we've allowed for that in the capital requirements that we forecast
+for the year. I think it's too early to be clear that we will or won't achieve that, albeit, we're
+behind already in Q1.
+On the solvency side, the anticipated levers, I mean Farmers Re is – I mean, I guess it's not
+a lever currently because it's – I mean, we'll have the reduction already baked into the new
+ﬁgures for this year which are the beneﬁt of the – the immediate beneﬁt of the piece that's
+reinsured into ZIBB or Zurich Bermuda Branch. I mean the levers, I was thinking of are
+more of a combination of our ability to manage the required capital on the risk side
+because of the choices that we take. I mean, we allocate that capital. I mean, there's no
+surprise that the main consumer of capital requirement is market risk, I mean that's
+something that the ﬁrm can choose to have more of or less of as it sees ﬁt. On the
+available sides, it's obviously a bit slightly trickier to manage it. We can manage capital
+structure which can be helpful, but mainly on the available side, it'll be the outcome of the
+year in terms of our ﬁnancial performance and the impact of ﬁnancial markets on the
+overall equity position that we have. The levers, for me, and we're obviously focused on
+
+Page 5 of 17
+
+
+
+Company Name: Zurich Insurance Group AG
+Company Ticker: ZURN SW Equity
+Date: 2015-05-07
+
+the risk-based capital requirements and what we can do there to inﬂuence capital
+consumption.
+
+FINAL
+
+Q - Andy D. Broadﬁeld
+
+{BIO 7273415 <GO>}
+
+So is it fair to assume that you make no assumptions around reduction in capital needs
+because of the natural one-oﬀ or changes that we anticipate – as a market, I guess, we're
+expecting of Farmers Re and other areas?
+
+A - George Quinn
+
+{BIO 15159240 <GO>}
+
+No.
+
+Q - Andy D. Broadﬁeld
+
+{BIO 7273415 <GO>}
+
+Okay. All right. Thank you.
+
+Operator
+The next question is from Paul De'Ath, RBC. Please go ahead.
+
+Bloomberg Transcript
+
+Q - Paul C. De'Ath
+Yeah. Hi there and a couple of questions on the Life performance, and on Latin America
+basically there you've had obviously good performance in the Santander JV, but slightly
+disappointing in the Zurich branded vehicles in Latin America. And what was the driver
+there? Is that kind of an active choice to favor the Santander JV or is there something else
+going on there? That's question one. And secondly, I'm just looking at the ﬂow, the net
+ﬂows in the Life business, the European ﬂows, I think very strong in the quarter compared
+to prior years, and what was kind of the key drivers behind that? Is that the Corporate Life
+and Pensions business in the UK, and how much of that is coming from winning new
+schemes and how much is from sort of general auto (15:01) enrollment type growth?
+
+A - George Quinn
+
+{BIO 15159240 <GO>}
+
+Thanks, Paul. So ﬁrst of all on the late performance in Latin America, it's not that we prefer
+the joint venture. But we have one particular large contract that we haven't rewritten this
+year, so that's largely why you're seeing the underperformance on the, I guess, the Zurich
+brand an element of Latin America. Having said that, of course, the – I guess, the contract
+is sharper because of the very strong performance of the JV has produced very, very
+strong growth in Q1. On the net ﬂows in Europe, I guess, the two or three main drivers of –
+I mean, as you hint, CLP in the UK as a piece of that, it's a combination of both new
+schemes and continued enrollment. And also new product in Germany, so we have a new
+product that we distribute through bancassurance partner and that also had a positive
+impact on ﬂows rather than (15:59) Q1.
+
+Q - Paul C. De'Ath
+Is that a unit-linked type product or is it protection or what?
+
+Page 6 of 17
+
+
+
+Company Name: Zurich Insurance Group AG
+Company Ticker: ZURN SW Equity
+Date: 2015-05-07
+
+A - George Quinn
+
+{BIO 15159240 <GO>}
+
+FINAL
+
+I guess, we would describe it as a hybrid product. I mean, if you look at our product mix,
+we don't sell signiﬁcant volumes with guarantees. But typically many of the products have
+guaranteed elements, and this is a new product with a guaranteed element rather than an
+overall guarantee.
+
+Q - Paul C. De'Ath
+Great.
+
+Operator
+The next question is from Stefan Schürmann, Bank Vontobel. Please go ahead.
+
+Q - Stefan Schürmann
+Yes. Good afternoon. Two questions. The ﬁrst one, still on the Life part, you show basically
+new business margins down in so-called other retail, which I think it's mostly down due to
+the traditional agent business in Germany and Switzerland. I mean, can you – maybe can
+we expect that to stabilize or do we take any corrective action here like cut in commission
+or will that continue? And then the second one on the Farmers surplus ratio, that's
+standing at 39%, and you guide towards a decrease to 33% to 36% in the near future. So I
+mean, I'm not quite sure to understand why that should drop there.
+
+Bloomberg Transcript
+
+A - George Quinn
+
+{BIO 15159240 <GO>}
+
+Okay. So Stefan, on the ﬁrst one, you're right, it's mainly Germany and Switzerland, and
+it's the impact of rates on the business there. I think, in the short term, I don't expect it to
+stabilize. So I think you'll see a further reduction in new business values given the further
+reduction we saw in rates in Q1 for both of those markets.
+
+Q - Stefan Schürmann
+I mean, volumes basically are up, new business volumes are up and margins are down. So
+you just continue like that, or you don't take any corrective action there?
+
+A - George Quinn
+
+{BIO 15159240 <GO>}
+
+So two things. So I guess we do take corrective actions. So I mean, if you look at where we
+sit in the league table on certain key measures such as bonus, we're not at the top end by
+far. I mean it's too early to determine what the outcomes for this year will be. But I mean
+that's one of the levers that we have to signiﬁcantly impact the overall ﬁnancial
+performance. And there has to be a close correlation between what we're earning on the
+portfolio and what we share with the policyholder. So I mean that's one of the key levers
+for us.
+I think – I mean just to be clear, on new business value, you could optimize purely for new
+business value and I think you'd end up with potentially an even more negative outcome.
+So we try and look at both new business value and BOP when we try to make decisions of
+
+Page 7 of 17
+
+
+
+Company Name: Zurich Insurance Group AG
+Company Ticker: ZURN SW Equity
+Date: 2015-05-07
+
+FINAL
+
+where we would prioritize growth. I mean, Germany (18:30) it's very diﬃcult though
+because of where interest rates are.
+On surplus, for Farmers, so the key reason you haven't seen it fall straight back into the
+target range it's because of where the calculation is done. The calculation is based on net
+written. So essentially as they recapture the reinsurance, you'll see a bit more streams, a
+few more quarters come by and that will cause all things being equal. And dependent on
+earnings at the exchanges, the surplus ratio to fall and we would expect to see it – again
+depending on the actual ﬁnancial performance fall back into the exchange's target range.
+
+Q - Stefan Schürmann
+Okay. Thanks.
+
+Operator
+The next question is from Nick Holmes, Société Générale. Please go ahead.
+
+Bloomberg Transcript
+
+Q - Nick Holmes
+
+{BIO 21515144 <GO>}
+
+Hi there. Thank you very much. Two questions. First is on the GI expense ratio, just
+wondered if you could share with us how you see the Q1 result developing throughout
+the year. I was really thinking, I guess the upfront distribution costs that have taking us up
+to 31%. Are they going to continue, and is 31% the sort of number that you would expect
+to see? And then second question is on U.S commercial pricing. Just wondered, again,
+how you see this developing. I mean, 2% rate change seems pretty good result. Does this
+sum, do you think, throw doubt out on what market scouts have been saying about the
+appearance of a soft market? Thank you.
+
+A - George Quinn
+
+{BIO 15159240 <GO>}
+
+Thank you. So on the ﬁrst one, on the GI expense ratio, I mean what you see for this
+quarter, I mean before we take action on the eﬃciency side is pretty much what you'd
+expect. So there's no reason why, for example, the impact of the distribution even would
+increase or decrease through the course of the year. But having said that, I mean, I guess
+we've made it clear at the year-end, and we're working on it currently, that the expense
+ratio that we see is too high. And as a topic, we'll speciﬁcally address when we have the
+investor updates on May 21. So I mean for the time being, based on what you see
+currently, the current level is reasonably indicative of what you would expect, but we have
+intentions to bring that number down.
+
+Q - Nick Holmes
+
+{BIO 21515144 <GO>}
+
+Right. And sorry, can I just ask, would that be for this year, or is that sort of looking out
+over the medium term, sort of two years, three years, or perhaps you prefer to wait until
+the Investor Day to tell us?
+
+A - George Quinn
+
+{BIO 15159240 <GO>}
+
+Well, I guess the one thing I will say, Nick, is that medium term would be too long...
+Page 8 of 17
+
+
+
+Company Name: Zurich Insurance Group AG
+Company Ticker: ZURN SW Equity
+Date: 2015-05-07
+
+Q - Nick Holmes
+
+{BIO 21515144 <GO>}
+
+Right.
+
+FINAL
+
+A - George Quinn
+
+{BIO 15159240 <GO>}
+
+...two years to three years. As I mentioned to Michael, in response to Michael's question,
+an improvement is required to make sure that we achieve the required return on equity
+that we have as a target. So that means it needs to be achieved over the course of the
+next 18 months.
+
+Q - Nick Holmes
+
+{BIO 21515144 <GO>}
+
+Okay. Thank you.
+
+Bloomberg Transcript
+
+A - George Quinn
+
+{BIO 15159240 <GO>}
+
+On U.S. commercial pricing, I guess the challenge is that it's bumped around a bit, if you
+look at our rate monitor. I'm not sure I would describe it as a particularly positive
+environment. I mean, we've been in position in the U.S. for some time now where the rate
+change is, I mean, roughly in line with loss cost inﬂation. I mean, Q1, I think we've seen the
+market respond to some of the challenges that were evident from a number of companies
+including ours in Q4, for example in commercial auto. So you've seen a number of areas
+where rate entries have been pushed through. But if you look at the market overall, it was
+down in the position where rate is covering what we think loss cost is increasing by, which
+means that margin is not currently expanding. And also, if you look at the individual lanes,
+I mean, property still has pressures. I mean, that story hasn't changed recently, and also
+workers' comp has a bit of pressure currently. So I mean, while I don't think it's clearly
+(22:41) negative. I think I mentioned on the full-year call that – I didn't share markets goes
+(22:47) more negative outlook for the full year. But we certainly haven't turned any corners
+on the U.S. pricing environment and, to be honest, I don't expect to see that take place
+over the course of this year. I think we'll see continued pressure.
+
+Q - Nick Holmes
+
+{BIO 21515144 <GO>}
+
+Right. Okay. Thank you very much.
+
+Operator
+The next question is from Farooq Hanif, Citigroup. Please go ahead.
+
+Q - Farooq Hanif
+
+{BIO 4780978 <GO>}
+
+Hi. Thank you very much. I apologize if this question has been asked. I was a little late at
+the beginning of the call. But looking at your Z-ECM ratio, I mean, you made the comment
+obviously that Q1 has been tough because of interest rates, and obviously that's reversed
+quite strongly in Q2. So presumably, if this is maintained in the current environment, then
+you will recover back up to the upper end of your coverage or above the upper end.
+That's one question. And then secondly, you have this kind of 4 points of business proﬁt is
+uplifting your Z-ECM ratio. Is that – can we just sort of normalize that for the year and
+presume that you'll grow pre-dividend 8 points a year in that Z-ECM ratio. Is that kind of
+Page 9 of 17
+
+
+
+Company Name: Zurich Insurance Group AG
+Company Ticker: ZURN SW Equity
+Date: 2015-05-07
+
+decent rule of thumb? And lastly, in Global Life, you've mentioned that going to the €350
+million, or above the €350 million was hard because of FX. Now, has that got worse or
+better based on movements to-date? Thank you.
+
+FINAL
+
+A - George Quinn
+
+{BIO 15159240 <GO>}
+
+Thanks, Farooq. So I mean, ﬁrst on Z-ECM, I mean, the only comment I've provided
+through the end of the quarter, and I've commented on the fact that, I mean, given the
+continuing move on yield curves, we expected to see Z-ECM come down and we expect
+to be in the upper half of our range. And we still believe we're in a comfortable position
+because of the extent to which we can control our capital consumption. I'm going to
+avoid commenting on what's happened post the end of the quarter. I mean, I guess, I may
+mention that when we come back on the Investor Day. I mean, interest rates, as they rise,
+particularly at the long end, particularly in some of the European markets, certainly, would
+be helpful. I mean, I think we're going to a relatively volatile period for a time. So it will go
+up and down a bit. But I think the good news, certainly from our perspective, is that we
+have enough ﬂexibility to manage.
+
+Bloomberg Transcript
+
+On the business proﬁt piece, the – I'm not sure exactly which – I guess, if you're looking at
+the waterfall chart, you need to be a wee bit careful that you got the business proﬁt on
+one side and then you got dividend on the other. I mean, given the payout ratios, you
+tend to ﬁnd that – I mean, we've paid back to our shareholders a very large proportion of
+the economic proﬁt that we generate. So I mean, if it's 4.5 points and we have an accrual
+of say 3 points within the 5 points that we've disclosed, for dividend, I mean it tends to be
+a relatively modest addition to the overall capital base because we're handing it back.
+
+Q - Farooq Hanif
+
+{BIO 4780978 <GO>}
+
+Okay.
+
+A - George Quinn
+
+{BIO 15159240 <GO>}
+
+On the GL topic, maybe to give GL that credit for what they have achieved. I think if we
+had stuck simply to the more than $350 million a quarter based on the foreign exchange
+levels when we ﬁrst announced it, we'd be there already. But having said that, I mean
+when we talk about a bit more than $350 million, we actually had now made a lot more
+than $350 million. I mean today – I mean, as FX moves, particularly euro weakens against
+the franc given the preponderance of earnings that GL has there, it becomes tougher. But
+when we looked at it earlier in the year, I mean we were just above $350 million in terms
+of expectation, once all the improvements that come through from GL. But the one point
+I'd like to add though, I was asked on the full year call about GI, and GI's expectation of
+growing their earnings by 5% compound. And I commented there that, of course, I didn't
+expect then to compensate for any possible FX movement and the same is true for GL, so
+we stopped to the $350 million. It's become tougher because of foreign exchange, I
+mean they've done a lot of what we'd expected of them already when we ﬁrst announced
+this. But we still hold to the more than $350 million.
+
+Q - Farooq Hanif
+
+{BIO 4780978 <GO>}
+
+Okay. That was really clear. Thank you very much.
+Page 10 of 17
+
+
+
+Company Name: Zurich Insurance Group AG
+Company Ticker: ZURN SW Equity
+Date: 2015-05-07
+
+Operator
+The next question is from James Shuck, UBS. Please go ahead.
+
+FINAL
+
+Q - James A. Shuck
+
+{BIO 3680082 <GO>}
+
+Hi. Good afternoon. I have two questions, please. Apologies for returning to the Z-ECM
+number, but I just wanted to pick up on something you said earlier on, George, that two
+of the reasons why the ROE is not hitting your target at the moment is, on the one hand,
+the GI combined ratio, but on the other hand you have more capital than you need. And
+I'm just struggling to see why that's the case because you're targeting 100 to 120 (27:52)
+of that ECM, and you're currently, on a Q1 basis, towards the upper-end of that range. I
+appreciate you got some levers to manage, but I kind of just wanted to understand
+whether you've actually got surplus capital.
+
+Bloomberg Transcript
+
+And that's the way I should look at it, or whether this is more a case of why we're going to
+pull some of those levers and then that will release capital. And if that's the case, so I just
+wanted to be clear that there's no modeling changes to the plan. It is strictly around the
+required capital management. And when you consider the required capital, you're also
+considering what the impact is on the potential earnings growth because obviously if you
+take less market risk then the outlook for earnings will come down even if volatility is
+improved. So that's my ﬁrst question.
+Secondly, just around the underlying accident – or the underlying loss ratio and the exprior year. So if I look at the accident year, loss ratio improved 70 bps in Q1 year-on-year,
+you had higher large losses of about 1 point and lower nat cat of about 40 basis points. So
+in theory, you have about 130 basis points of underlying loss ratio improvement now, and
+I was just hoping for some insight geographically where that's been coming from, please.
+
+A - George Quinn
+
+{BIO 15159240 <GO>}
+
+Okay. So let me try and do the ﬁrst one. So on the ﬁrst one, I guess we've been pretty
+clear. I mean, given the target range, we try and measure ourselves oﬀ the midpoint of the
+target range, so 110 (29:20). And if you think back to prior conversations about how much
+capital excess we had, we would often, well, I would often talk about the fact that if we
+have 16 points, 16 translates into, let's say, around $6 billion. But we don't have $6 billion
+because we have a lot of constraints, and therefore we'd use the short hand of $3 billion.
+And in fact, that was the basis for that, the additional step that you saw on the ROE book I
+presented back in London in December.
+So I mean, a part of what's happened through the second part of last year and the early
+part of this year is that, I guess, the constraints have come more into line with each other. I
+mean, some of the rating models don't move as rapidly. And despite of some of these
+things, as the Z-ECM, in particular, the SST, so the numbers have come down, but I guess
+the constraint picture has changed, if that makes any sense. So I don't see a fundamental
+change in the ﬂexibility that we have. On top of that, you're right, I mean, we have the
+ability to manage required capital. We need to be careful that we don't give up eﬃcient
+earnings as part of that. But again a peak capital requirement is for ﬁnancial market risk – I
+
+Page 11 of 17
+
+
+
+Company Name: Zurich Insurance Group AG
+Company Ticker: ZURN SW Equity
+Date: 2015-05-07
+
+FINAL
+
+mean, and that's certainly something we manage actively and we have done in the past
+and we'll continue to do in the future.
+Would modeling changes be part of the story? (30:44) I mean, I think one of the big
+diﬀerences you see between the two numbers today, between SST and Z-ECM, is that ZECM has the beneﬁt of what we think is a signiﬁcant improvement and the way that we
+model market and credit risks, and the tail. I mean, I think, in due course, we'll review that
+and we may propose that to the FINMA for inclusion on SST. But of course, the
+acceptance of that by FINMA is purely their discretion, and I would imagine that it would
+take some time from the point at which we would propose it. And we do need to manage
+the gap between Z-ECM and SST. So I mean, model change couldn't be a signiﬁcant
+factor.
+
+Q - James A. Shuck
+
+{BIO 3680082 <GO>}
+
+And just to clarify one point, any decision on capital that you may not need, either
+because you can't ﬁnd sources for it, or it might make sense to return that? That
+presumably would be a year-end decision.
+
+Bloomberg Transcript
+
+A - George Quinn
+
+{BIO 15159240 <GO>}
+
+(31:43) yes. So I think the – I mean, we'd make it – I mean, again, going back to what I said
+at the year-end, I mean, broadly (31:53). So as we come up to the year-end, we make any
+decisions there. But what we see in terms of the inorganic or organic opportunities ahead
+of us versus return to shareholders. So I mean, in the early part of 2016 is decisive for us.
+Underlying loss ratio. So I didn't quite understand the work that you did. I mean, in my
+head, I guess the numbers in the combined ratio were that the – if you adjust for some of
+the one-oﬀ expense in the prior year, if you adjust for the cap ﬂuctuation, we're about the
+same that we have a positive impact on the attritional, oﬀset by negative on the large loss.
+So there's a 60-basis point, 70-basis-point improvement rather than – you mentioned 130
+basis points, but you may have included some of the things I'm normalizing in my head.
+I mean, the improvements we see are a combination of various items, so it's something
+that we expect to drive proﬁtability over the course of this year. So portfolio management
+we describe tearing (32:58), so I mean obviously emphasizing the positive parts of the
+portfolio and looking for signiﬁcant rates in the weaker areas. And I mentioned
+commercial auto earlier in the conversation. We've had some small steps on turnaround,
+so obviously Russia, from a loss perspective is no longer in the picture. South Africa is
+slightly better, albeit Brazil is probably slightly worse than it was before. But I mean, those
+drivers are mainly the drivers of what we perceive the attritional loss ratio improvement to
+be in Q1.
+
+Q - James A. Shuck
+
+{BIO 3680082 <GO>}
+
+And North America commercial, how's the attritional loss ratio developed there at Q1?
+
+A - George Quinn
+
+{BIO 15159240 <GO>}
+
+Well, I mean, overall North America commercial has improved, I mean, both from
+underlying attritional and from PYD perspective. So results in North America commercial
+Page 12 of 17
+
+
+
+Company Name: Zurich Insurance Group AG
+Company Ticker: ZURN SW Equity
+Date: 2015-05-07
+
+stand out as one of the – is very positive Q1 this year than Q1 last year.
+
+Q - James A. Shuck
+
+{BIO 3680082 <GO>}
+
+Okay. Thanks very much.
+
+FINAL
+
+A - George Quinn
+
+{BIO 15159240 <GO>}
+
+Thank you.
+
+Operator
+The next question is from Thomas Seidl, Sanford Bernstein. Please go ahead.
+
+Q - Thomas Seidl
+
+{BIO 17755912 <GO>}
+
+Bloomberg Transcript
+
+Thank you. Good day, everyone. Two questions. Number one on the investment income
+side, we calculated you had a sharp drop year-on-year in regular investment income of 38
+basis points. And I wonder although in the context of total risk adjusted costs (34:30),
+should we now expect Zurich to re-risk to mitigate a further sharp drop in the investment
+income or should we actually expect Zurich to derisk in order to get more room to
+maneuver in the capital side and mostly about that.
+And the second question on the capital, I think they (34:54) of course but in the end
+would have been $116 million. The model change is not as you said available in SST, but
+from an outside perspective as we've seen a clear or robust metric. If I extrapolate the ZECM number you gave for Q1, I would say that SST is probably around (35:13) now after
+Q1, and I wonder if you ever have a threshold for this (35:21) metrics. So how low would
+you be willing to go in SST before it gets painful?
+
+A - George Quinn
+
+{BIO 15159240 <GO>}
+
+So let me start with the ﬁrst one. Again, going back to the full year, we indicated that we
+had decided that we would change asset allocation in a couple of areas, and that was
+predominantly in equities. So we've given Cecilia and the team a 1% shift in the equity
+asset allocation, predominantly away from ﬁxed income. On top of that, the IM team
+already had an existing strategy around the liquids. They've been completing that. They
+haven't completed it yet, but they will continue to do that through the course of this year.
+And those two steps were really the only steps that we had planned to take on the asset
+side to help mitigate the impact of negative rates in some of the countries we discussed
+earlier in the call. Whether we take further steps? No, I mean, Cecilia has the ability to
+tactically decide to be slightly long or slightly short depending on market circumstances.
+But we have no further intension to shift the SAE (36:30).
+On Z-ECM and SST, I guess you can get a sense of, I mean, where we're comfortable from
+an SST perspective from where we've operated in the past. I mean 196% is still a very
+strong position for the company to operate at. I'm not sure you can do what you just did
+and extrapolate the things straight-line. I mean, if you look at the moves we've had both
+for Q1 and some of the comments around what happened in April, May. I wouldn't get to
+
+Page 13 of 17
+
+
+
+Company Name: Zurich Insurance Group AG
+Company Ticker: ZURN SW Equity
+Date: 2015-05-07
+
+FINAL
+
+the same level that you've estimated. But I mean Z-ECM is where our focus is. I think the
+point that you made that we need to manage the GAAP is absolutely true. We haven't set
+a formal ﬂoor for SST, as we would expect over time Z-ECM and SST to remain somewhat
+in some kind of harmony. But I mean, SST is not a formal part of the risk tolerance, we're
+still very well capitalized under SST.
+
+Q - Thomas Seidl
+
+{BIO 17755912 <GO>}
+
+If anything, I would have expected SST to react more strongly to the macro risks
+materializing in (37:33) compared with Z-ECM, and that is also what you have seen in 2014.
+Isn't it?
+
+A - George Quinn
+
+{BIO 15159240 <GO>}
+
+I think that's what I said at the beginning of the call. So I mean, SST reacts more strongly, I
+mean, principally because things like market value margins and the way that calculation is
+done.
+
+Q - Thomas Seidl
+
+{BIO 17755912 <GO>}
+
+And hence, I would have expected that the 196% you reported at the year-end after Q1 is
+usually in the 180%s if you have like a 10% drop on Z-ECM after Q1 that struck my method
+here, (38:04) of course, with a linear extrapolation here.
+
+Bloomberg Transcript
+
+A - George Quinn
+
+{BIO 15159240 <GO>}
+
+Yeah. I tried to give guidance around Z-ECM because we see that as the essential capital
+measure for us. I haven't given guidance around SST.
+
+Q - Thomas Seidl
+
+{BIO 17755912 <GO>}
+
+Okay. Thanks, George.
+
+Operator
+The next question is from Niccolo Dalla Palma, Exane BNP Paribas. Please go ahead.
+
+Q - Niccolo C. Dalla Palma
+
+{BIO 16052945 <GO>}
+
+Yes. Good afternoon. Just one follow-up question. On the comments you made at the
+beginning of the call regarding the 2 points, 3 points combined ratio improvement
+needed in GI to bring you closer to the center of the target ROE. Could you give us any
+sense of how big a role expense ratio improvement compared to underlying loss ratio
+improvement have to play in there, or do we have to wait a couple of weeks to get more
+clarity on that? Thank you.
+
+A - George Quinn
+
+{BIO 15159240 <GO>}
+
+I mean, we'll do much more in a couple of weeks when we have the Investor Day. I mean,
+we already said that of the 2 points to 3 points improvement, broadly about one-third
+
+Page 14 of 17
+
+
+
+Company Name: Zurich Insurance Group AG
+Company Ticker: ZURN SW Equity
+Date: 2015-05-07
+
+from expense, almost one-third from turnarounds, and the remainder from portfolio
+management. I mean, that's roughly how we expected to break that.
+
+Q - Niccolo C. Dalla Palma
+
+{BIO 16052945 <GO>}
+
+FINAL
+
+Thank you.
+
+Operator
+The next question is from Dhruv Gahlaut, HSBC. Please go ahead.
+
+Q - Dhruv Gahlaut
+
+{BIO 16209870 <GO>}
+
+Good afternoon. Just two questions. Firstly, we talked about pricing in diﬀerent markets.
+But if you have to look at how the rate evolution has been compared to the claims, how
+would those two compare on a group level? Secondly, on the FMS business, there was
+commentary in terms of an uptick in terms of the expenses. Is that one-oﬀ or is this the
+number going forward?
+
+A - George Quinn
+
+{BIO 15159240 <GO>}
+
+Bloomberg Transcript
+
+So rate versus claims, I mean, broadly in line with each other. I mean, it varies market-tomarket, but from a group perspective, one broadly equals the other. On FMS, the
+comment on expenses was due to the fact that last year we had a margin on FMS of about
+7.2%. And I guess we guided that we'd be at 7% over the course of this year, next year.
+And we've arrived at 7%, a bit more quickly I think than we had anticipated. That's due to
+that expense feature, but I don't expect it to go further, 7% is where I expect it to be.
+
+Q - Dhruv Gahlaut
+
+{BIO 16209870 <GO>}
+
+Okay. Perfect. Thanks.
+
+Operator
+We have a follow-up question from Michael Huttner, JPMorgan. Please go ahead.
+
+Q - Michael I. Huttner
+
+{BIO 21417183 <GO>}
+
+Yeah. And it is just one question, thank you very much for all the answers until now. So
+Life, €350 million, you're keeping your target, that's brilliant, over €350 million. We
+achieved €319 million. Which reasons or which levers or which – where do you think there
+is a little bit of easy wins?
+
+A - George Quinn
+
+{BIO 15159240 <GO>}
+
+(41:14) for describing any of what it has to do is easy wins. I mean, I think the broad
+buckets, Michael, will be a combination of – I guess, what we refer to is, in-force
+management as some of the more mature European markets. So that means expenses,
+persistence management, those types of things. But I mean, I think on the more positive
+side of it, I mean, given the growth that you've seen again from the joint venture of
+Page 15 of 17
+
+
+
+Company Name: Zurich Insurance Group AG
+Company Ticker: ZURN SW Equity
+Date: 2015-05-07
+
+Santander in the quarter, we expect that also to be appraising as a good contributor to
+the growth on the positive side of what Life is doing. I mean, those would be the two most
+obvious as we expect further improvement from Life.
+
+FINAL
+
+Q - Michael I. Huttner
+
+{BIO 21417183 <GO>}
+
+And if I may just very brieﬂy, if you were to consider selling the remainder of your UK
+business in a kind of one-oﬀ deal, closed block or whatever, what impact would that have
+on your ROE metric?
+
+A - George Quinn
+
+{BIO 15159240 <GO>}
+
+So I guess, the only straight answer I can give to that, Michael, is that we don't expect to
+sell the remainder of our UK Life business.
+
+Q - Michael I. Huttner
+
+{BIO 21417183 <GO>}
+
+Okay.
+
+A - George Quinn
+
+{BIO 15159240 <GO>}
+
+Bloomberg Transcript
+
+In general, we're looking at the entire Life bank book for opportunities to try and
+optimize, to ﬁnd maybe parts of the portfolio that we ﬁnd better owners who would
+perceive a higher value, and that's something we continue. I mean, our Life business in
+general is actually expected to contribute, I mean, strongly positively to some of the
+strategic priorities that Life has currently (42:51) particularly CLP.
+
+Q - Michael I. Huttner
+
+{BIO 21417183 <GO>}
+
+Great. That's really clear. Thank you.
+
+A - James Quin
+
+{BIO 18345789 <GO>}
+
+Okay. That was our last question. Thank you all for dialing in. We wish you a very good
+day, and we look forward to seeing you at our Investor Day in Zurich in a few weeks' time.
+Thanks very much.
+
+Operator
+Ladies and gentlemen, the conference is now over. Thank you for choosing Chorus Call,
+and thank you for participating in the conference. You may now disconnect your lines.
+Goodbye.
+
+This transcript may not be 100 percent accurate and may contain misspellings and other
+inaccuracies. This transcript is provided "as is", without express or implied warranties of
+any kind. Bloomberg retains all rights to this transcript and provides it solely for your
+personal, non-commercial use. Bloomberg, its suppliers and third-party agents shall have
+no liability for errors in this transcript or for lost proﬁts, losses, or direct, indirect,
+Page 16 of 17
+
+
+
+Company Name: Zurich Insurance Group AG
+Company Ticker: ZURN SW Equity
+Date: 2015-05-07
+
+Bloomberg Transcript
+
+FINAL
+
+incidental, consequential, special or punitive damages in connection with the furnishing,
+performance or use of such transcript. Neither the information nor any opinion expressed
+in this transcript constitutes a solicitation of the purchase or sale of securities or
+commodities. Any opinion expressed in the transcript does not necessarily reﬂect the
+views of Bloomberg LP. © COPYRIGHT 2022, BLOOMBERG LP. All rights reserved. Any
+reproduction, redistribution or retransmission is expressly prohibited.
+
+Page 17 of 17
+
+

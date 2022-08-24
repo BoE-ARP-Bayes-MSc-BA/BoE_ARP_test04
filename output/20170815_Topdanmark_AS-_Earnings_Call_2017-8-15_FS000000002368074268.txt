@@ -1,0 +1,926 @@
+Company Name: Topdanmark AS
+Company Ticker: TOP DC Equity
+Date: 2017-08-15
+
+Q2 2017 Earnings Call
+Company Participants
+FINAL
+
+Christian Sagild, Chief Executive Oﬃcer & CEO of Topdanmark Forsikring
+Lars Thykier, Chief Financial Oﬃcer & CFO of Topdanmark Forsikring
+Steﬀen Peter Anker Heegaard, Director-Communications & Investor Relations
+
+Other Participants
+Asbjørn Nicholas Mørk, Analyst
+Jakob Brink, Analyst
+Janet Demir, Analyst
+Jonny Urwin, Analyst
+Paul De'Ath, Analyst
+Per Grønborg, Analyst
+Vinit Malhotra, Analyst
+Youdish Chicooree, Analyst
+
+Bloomberg Transcript
+
+MANAGEMENT DISCUSSION SECTION
+Operator
+Good afternoon. Thank you for standing by, and welcome to the Topdanmark H1 2017
+Results Call. At this time, all participants are in a listen-only mode. There will be a
+presentation followed by a question-and-answer session. I must advise you, this
+conference is being recorded today on Tuesday, the 15th of August 2017.
+I would now like to hand the conference over to your speaker today, Christian Sagild.
+Please go ahead, sir.
+
+Christian Sagild
+
+{BIO 15093649 <GO>}
+
+Good afternoon, everybody, and good morning to the U.S.A. And thank you for joining us
+in this conference call. With me are our CFO, Lars Thykier; and Steﬀen Heegaard, who's
+Head of Investor Relations and Group Communications. We're holding this conference
+because, earlier today, we published our results for the ﬁrst half of 2017.
+And we are ready now to answer your questions. Please ask them one at a time.
+Operator, could we have the ﬁrst question, please?
+
+Page 1 of 14
+
+
+
+Company Name: Topdanmark AS
+Company Ticker: TOP DC Equity
+Date: 2017-08-15
+
+Q&A
+Operator
+
+FINAL
+
+Thank you. Your ﬁrst question comes from the line of Jakob Brink from Nordea. Please ask
+your question.
+
+Q - Jakob Brink
+
+{BIO 20303720 <GO>}
+
+Hello. I have three questions, please. I'll ask them one at a time. The ﬁrst one is regarding
+what you mentioned about negative average premium growth in the motor segment.
+Could you maybe elaborate a bit more on that please, also, given what we have heard
+from some of your competitors and as discussed in earlier conference calls regarding
+claims inﬂation in motor? Yeah. I'll wait for the second question.
+
+A - Christian Sagild
+
+{BIO 15093649 <GO>}
+
+Bloomberg Transcript
+
+We have seen our average motor premium drop. Although we have an increase in the
+number of car insurances, we have a drop of 0.3% in the top line, stemming from this fact.
+And if you look at average premium, just to give you an example, from 2011 to 2017, the
+average motor premium has dropped from DKK 4,221 million to DKK 3,790 million. That is
+the average earned premium in motor insurance. So, that is the development.
+And if you take the pure risk premium on the motor premium, it is quite stable with a
+small drop from around DKK 2,200 million down to DKK 2,156 million. So, in the last year,
+risk premium has stabilized, but the average premium that we sell insurances for has
+dropped with this eﬀect on the top line. But as I said, and as we stated also last quarter,
+we see the stabilization. We don't see a further drop in the underlying risk premium.
+
+A - Steﬀen Peter Anker Heegaard
+
+{BIO 1513480 <GO>}
+
+What you also see is that the drop in the average premium is decreasing from quarter-toquarter.
+
+Q - Jakob Brink
+
+{BIO 20303720 <GO>}
+
+Okay. Thank you. And my second question regarding this 5 percentage points additional
+positive claims trend from Q2 to Q2. You mentioned also lower ﬁre claims in private and
+commercial. Is that really the main driver of this? I'm thinking about it's been a quite rainy
+summer, so I guess, there's been quite a few ﬁres overall in Denmark. Is that based to
+what is driving it, or is there something we should extrapolate in addition to the eﬃciency
+program? And in that case, how much does the eﬃciency program can make up of the 5
+percentage points?
+
+A - Lars Thykier
+
+{BIO 16427122 <GO>}
+
+I would advise you not to extrapolate. What we have seen is somewhat better
+development in private lines. We have had very good run on content. Theft has been low
+for some reason. The electronic claims has been lower, and so on, but that's not where
+
+Page 2 of 14
+
+
+
+Company Name: Topdanmark AS
+Company Ticker: TOP DC Equity
+Date: 2017-08-15
+
+FINAL
+
+the main reason is. Main reason is on the SME and agriculture segment, where we, for
+some reason, have had close to none ﬁres (04:33) in the quarter we have just seen.
+And this means that in ﬁrst place, we don't have to pay for the buildings and the content
+in the buildings that we expect to see burn (04:36). We don't have to pay the
+consequential losses on proﬁts, either. And that means that the claims ratio on the (05:02)
+side has fallen from – the claims trend is substantially lower now than it were last year, and
+that is mainly due to ﬁre.
+
+A - Steﬀen Peter Anker Heegaard
+
+{BIO 1513480 <GO>}
+
+But the very good development in Q2 has not led to a conclusion to change our guidance
+for the rest of the year.
+
+Q - Jakob Brink
+
+{BIO 20303720 <GO>}
+
+Fair enough. And then, sorry, just a very ﬁnal small question regarding the dividend and
+the solvency. You write some place that you do not deduct the dividend from the own
+capital. Why is that, again? I think we discussed it last quarter.
+
+A - Lars Thykier
+
+{BIO 16427122 <GO>}
+
+Bloomberg Transcript
+
+The main reason is that we don't know the size of the dividend. And we understand that
+you have to deduct the expected dividend in banks at least. But we don't have an
+expected dividend level, yet, and we are not forced to deduct it in insurance.
+
+Q - Jakob Brink
+
+{BIO 20303720 <GO>}
+
+Okay. Fair enough. Many thanks.
+
+A - Lars Thykier
+
+{BIO 16427122 <GO>}
+
+Welcome.
+
+Operator
+Thank you. Your next question comes from the line of Paul De'Ath from RBC. Please ask
+your question.
+
+Q - Paul De'Ath
+Yeah. Hi, guys. Thanks. I have a couple of questions. So, ﬁrst one, just sticking with the
+solvency ratio, I noticed the SCR has gone down by around DKK 600 million in 2Q.
+Maybe you can give any detail on sort of what the main moving parts are there that's
+brought that down. And then secondly, just touching, again, on the combined ratio and,
+particularly, the loss ratio – so, you say not to extrapolate this. I mean, ﬁrstly, are we
+looking at Q2 as a one-oﬀ extremely positive quarter and, therefore, we should kind of
+take that out of our next year forecasts in terms of where the combined ratio can go from
+here? Thanks.
+
+Page 3 of 14
+
+
+
+Company Name: Topdanmark AS
+Company Ticker: TOP DC Equity
+Date: 2017-08-15
+
+A - Lars Thykier
+
+{BIO 16427122 <GO>}
+
+FINAL
+
+So, I may comment on the solvency. It is around DKK 550 million. And the brunt of this
+change is – all rises in the life company. In the premium losses in the life company, the
+customers pay the major part of the loss. The higher the customer-owned buﬀers are, the
+bigger part of the losses will heed (07:48) to customers and the smaller the part, they will
+heed (07:51) the shareholders equity. We have had a rise in interest rates, which means
+that the guarantees has become less onerous.
+At the same time, we've had a good return and we have de-risked somewhat. And all
+these factors increase the buﬀers. To put it diﬀerently, the loss absorption (08:13) capacity
+of the life company has increased, thereby decreasing the SCR for the shareholders.
+We've had some de-risking in the non-life company as well.
+
+A - Christian Sagild
+
+{BIO 15093649 <GO>}
+
+Commenting on the combined ratio for Q2, you asked, to what extent probably this could
+be prolonged. And I'd say, we had for many years been working with risk-based prices.
+And we are always trying to set good premiums for good risks. If there is any eﬀect on
+that in the Q2 result, it's very, very diﬃcult to sort of ﬁlter out. So, we tend to think that it is
+coincidental that we have this very proﬁtable Q2. And this is why we state that we haven't
+changed our underlying approach to how the commercial and agriculture segments will
+develop in the coming quarters.
+
+Bloomberg Transcript
+
+A - Lars Thykier
+
+{BIO 16427122 <GO>}
+
+I would like to add that, we do have expectations about our claims ratio in the reforecast
+period. Since 2010, we have had higher claims in the SME market than we had expected.
+We had an increase in level from 2010 going forward, and we don't' really know why. So,
+you can pay both ways. Sometimes, it is more expensive than we expect. Sometimes it is
+better than we expect. This time was better.
+
+Q - Paul De'Ath
+Okay. Thanks.
+
+Operator
+Thank you. Your next question comes from the line of Janet Demir from Morgan Stanley.
+Please ask your question.
+
+Q - Janet Demir
+
+{BIO 19462264 <GO>}
+
+Hi. I have two questions, please. I'm just curious, given your solvency ratio is very strong, I
+know that you don't give as far as solvency ratio, but just wondering how we should think
+about how you will look at the dividend at year end. Let's say, should you decide that the
+capital is higher than you need it to be, so would you be comfortable paying, let's say,
+more than 100% of earnings out as dividend?
+
+Page 4 of 14
+
+
+
+Company Name: Topdanmark AS
+Company Ticker: TOP DC Equity
+Date: 2017-08-15
+
+FINAL
+
+And then secondly, can you give us a feel for what a normal quarter would be in terms of
+large losses? So, I'm talking, in terms of the combined ratio or an absolute number,
+because I note that you were saying, for example, in the SME segment that you have
+larger losses than expected in previous years. And perhaps the last few years have been
+lighter than expected. So, what should we expect going forward for large losses? Thank
+you.
+
+A - Christian Sagild
+
+{BIO 15093649 <GO>}
+
+It is, of course, a very comfortable solvency ratio that we announced now. And basically, it
+is for the reason that Lars just mentioned the movements in the underlying solvency ratio
+– SCR, and of course, the fact that we have produced surplus that has been adding to the
+sort of solvency ratio.
+We have published the dividend policy last quarter, stating minimum 70%. And minimum
+is still the keyword, because we don't have any ambition to build up unnecessary capital
+in the company. So, unless we have something interesting to spend the money on, I don't
+know why we should keep it very long in our pockets. So, minimum 70% means that we
+could expect with a very nice solvency ratio that it will be more than 70%.
+
+Q - Janet Demir
+
+{BIO 19462264 <GO>}
+
+Okay. Thank you.
+
+A - Christian Sagild
+
+{BIO 15093649 <GO>}
+
+Bloomberg Transcript
+
+On the big losses, the normalized, was that the other question?
+
+Q - Janet Demir
+
+{BIO 19462264 <GO>}
+
+Yeah.
+
+A - Christian Sagild
+
+{BIO 15093649 <GO>}
+
+I mean, if you take – we have made a slide in our presentation, take that slide 39, showing
+2015, 2016, and 2017 quarterly large-scale claims. And the full year 2015 was DKK 100
+million, the full year 2016 was DKK 129 million, and half year now is DKK 4 million. So, if
+anything would be normal, it would probably be in the range of DKK 100 million to DKK
+120 million. But this is not a guidance.
+
+Q - Janet Demir
+
+{BIO 19462264 <GO>}
+
+Okay. That's very helpful. Thank you.
+
+A - Christian Sagild
+
+{BIO 15093649 <GO>}
+
+Yeah.
+
+Operator
+
+Page 5 of 14
+
+
+
+Company Name: Topdanmark AS
+Company Ticker: TOP DC Equity
+Date: 2017-08-15
+
+Thank you. Your next question comes from the line of Youdish Chicooree from
+Autonomous Research. Please ask your question.
+
+FINAL
+
+Q - Youdish Chicooree
+
+{BIO 17430923 <GO>}
+
+Good afternoon, everyone. I've got two questions, please. Considering how strong your
+results were in the ﬁrst half, I was wondering whether that does anything to your pricing
+strategy, i.e., are you still happy to price in line with expected claims inﬂation, or would
+you rather grow a bit faster and settle for a slightly higher combined ratio? And secondly,
+could you just give us some more details around the eﬃciency improvements you talked
+about in your interim report? Thank you.
+
+A - Christian Sagild
+
+{BIO 15093649 <GO>}
+
+Bloomberg Transcript
+
+When we listen to our competitors and their half-year results, we hear that they have not
+seen the same favorable developments in the SME and the agricultural segment as we
+have. So we think, and have heard, that maybe some of our competitors are in for some
+price increases in these segments. So, we don't feel any urge to change our pricing
+structure right now. We feel comfortable with the levels we're at, and that goes for both
+private and commercial and agricultural sector. We don't have any very signiﬁcant price
+initiatives in the drawer.
+And when it comes to our expected combined ratio in the future, we're aiming now for an
+87. That's our guidance for the full year, not including run-oﬀ results in the second half.
+This, of course, is better than our target, but we also expect that with the more normalized
+weather conditions and with the more normalized large-scale and ﬁre claims, we would
+be more in range with our sort of standard goals of 90, 91 combined, excluding any runoﬀ. So, to conclude, we don't have any signiﬁcant price initiatives in the drawer right now.
+We would rather use the opportunity that may arise from our competitors having to
+increase prices.
+
+Q - Youdish Chicooree
+
+{BIO 17430923 <GO>}
+
+Okay. Understood. Thank you.
+
+A - Christian Sagild
+
+{BIO 15093649 <GO>}
+
+The second question was relating...
+
+A - Lars Thykier
+
+{BIO 16427122 <GO>}
+
+Eﬃciency.
+
+A - Christian Sagild
+
+{BIO 15093649 <GO>}
+
+Okay.
+
+A - Lars Thykier
+
+{BIO 16427122 <GO>}
+
+We're working on the eﬃciency side, but in the same time, we are investing in
+digitalization and automatization. And that means that we're saving on one side, and we
+Page 6 of 14
+
+
+
+Company Name: Topdanmark AS
+Company Ticker: TOP DC Equity
+Date: 2017-08-15
+
+are spending on one side. To give you an idea about the eﬃciency improvements, I
+suppose that the head count at Topdanmark will be at least 200 persons less at year-end
+2017 than it were at year-end 2015.
+
+Q - Youdish Chicooree
+
+{BIO 17430923 <GO>}
+
+FINAL
+
+Okay. And so, how much are we talking about in the second half of this year then?
+
+A - Lars Thykier
+
+{BIO 16427122 <GO>}
+
+That depend on what kind of calculation you want to make. We are saving a lot on head
+count, but we're spending this money on developing our automatization and our
+digitalization. That's why we have seen a slight decrease in expense ratio in spite of
+increasing taxes and increasing salaries.
+
+Q - Youdish Chicooree
+
+{BIO 17430923 <GO>}
+
+All right. Understood. Thank you very much.
+
+Operator
+Thank you. Your next question comes from the line of Per Grønborg from SEB. Please ask
+your question
+
+Bloomberg Transcript
+
+Q - Per Grønborg
+Yes. Thank you. Good afternoon. Just have a single or two questions left on my note. First,
+on the cost side, can you give us any indication where should we expect that to be? And
+you're clearly delivering signiﬁcantly more this quarter than I think most of us had
+expected, so some indication of a number would be very nice.
+My second question relates to the corporate segment where you write in the report that
+you have increased the sales provisions due to higher new sales, still your top line is
+going down in the second quarter. What are you seeing on the corporate side volumewise? What are you seeing competition-wise? Can you put some ﬂavor on that? Thank
+you.
+
+A - Christian Sagild
+
+{BIO 15093649 <GO>}
+
+Eﬃciency?
+
+A - Lars Thykier
+
+{BIO 16427122 <GO>}
+
+We have been very reluctant to give precise bids on how the expenses are developing
+from quarter to quarter. There'll be some lumps in expenses where we see increases and
+decreases between quarters. But basically, I think you should expect the expense ratio to
+move a little lower during the next year or so.
+
+Q - Per Grønborg
+Page 7 of 14
+
+
+
+Company Name: Topdanmark AS
+Company Ticker: TOP DC Equity
+Date: 2017-08-15
+
+What you are saying is that we should not extrapolate the very good Q2. Is that correct?
+
+A - Lars Thykier
+
+{BIO 16427122 <GO>}
+
+No, no, no.
+
+FINAL
+
+Q - Per Grønborg
+Yeah. Okay. Thank you.
+
+A - Christian Sagild
+
+{BIO 15093649 <GO>}
+
+Regarding the development in corporate premiums, it was ﬂattish in Q2 – or in the ﬁrst
+half year, and there were some diﬀerent eﬀects. Of course, there is an eﬀect from the fact
+that we lost the last major client which had a negative eﬀect. And this has been oﬀset by a
+higher level of sales. And these new sales some of them were actually in-force, some of
+them are waiting to come in-force in the second half of 2017, but we still have to pay
+commission. So that is one of the eﬀect. And the other eﬀect is that we've had some
+bonus payments on our captive, which reduces the top line.
+
+Q - Per Grønborg
+Okay. What are you seeing competition-wise? Protect (18:45), I guess, is not that visible in
+the market any longer?
+
+Bloomberg Transcript
+
+A - Christian Sagild
+
+{BIO 15093649 <GO>}
+
+True. We don't see the same type of competition that we saw last year at the same time.
+So, they have, as I understand, stated that they are looking somewhat diﬀerent at the
+Danish market when it comes to pricing. So, that is of, course, nice.
+
+Q - Per Grønborg
+Should we see that now, or will that – or are most of these contract renewed 1st of January,
+so this primarily will be an 2018 eﬀect, or it's hard to guess in what they are doing when
+you get to the renewal season?
+
+A - Christian Sagild
+
+{BIO 15093649 <GO>}
+
+We don't feel the same pressure from customers leaving us. And I think when we take our
+market, which is in the lower SME market. January 1 is less of a signiﬁcant date for in-force
+as in new in-force date.
+
+Q - Per Grønborg
+Okay. Perfect. Thank you.
+
+Operator
+Your next question comes from the line of Jonny Urwin from UBS. Please ask your
+question.
+Page 8 of 14
+
+
+
+Company Name: Topdanmark AS
+Company Ticker: TOP DC Equity
+Date: 2017-08-15
+
+Q - Jonny Urwin
+
+{BIO 17445508 <GO>}
+
+FINAL
+
+Hi, there. Thanks. Okay, there's just two from me. So, ﬁrstly, I wondered if you're seeing
+any sort of eﬀects on your competitive positioning from Tryg's customer dividend model.
+It doesn't look like it in the results today, but just some color there would be great. And
+secondly, could you give us a feel for where you're seeing claims inﬂation run at the
+moment on property, motor, in particular, and where pricing is relative to that? That'd be
+great. Thank you.
+
+A - Christian Sagild
+
+{BIO 15093649 <GO>}
+
+The fresh answer to the Tryg bonus program is actually, no. We don't see any signiﬁcant
+eﬀect, but the real answer is that we don't really know to what extent it has to do with
+bonus programs, or when it has to do with other pricing factors. But we can see in the ﬁrst
+half that we have a net inﬂow of customers comparing to Tryg. So, in that sense, we
+haven't been hit that hard from a bonus program.
+
+A - Lars Thykier
+
+{BIO 16427122 <GO>}
+
+So, in claims inﬂation, if we look at motor, we still see that the development in third-party
+liability is benign, while we see increases above the indexation on comprehensive. In
+property, we see more losses on tubing than we expected, and that may be regarded as
+claims inﬂation. On the other hand, the development in other lines has improved. So,
+basically, we are not concerned about the total claims in inﬂation.
+
+Q - Jonny Urwin
+
+{BIO 17445508 <GO>}
+
+Bloomberg Transcript
+
+Can you give us any rough indication of numbers to that?
+
+A - Lars Thykier
+
+{BIO 16427122 <GO>}
+
+The indexation next will be 1.6%, and we think that, that's probably a good starting point.
+
+Q - Jonny Urwin
+
+{BIO 17445508 <GO>}
+
+Okay. And pricing is largely attracting that?
+
+A - Lars Thykier
+
+{BIO 16427122 <GO>}
+
+Not on motor, where the price decreases we've made are still rolling through the
+portfolio. So, we'll see average prices come down in motor. Besides that, our pricing will
+follow the claims inﬂation.
+
+Q - Jonny Urwin
+
+{BIO 17445508 <GO>}
+
+Great. Thanks very much.
+
+Operator
+Thank you. Your next question comes from the line of Asbjørn Mørk from Danske Bank.
+Please ask your question.
+Page 9 of 14
+
+
+
+Company Name: Topdanmark AS
+Company Ticker: TOP DC Equity
+Date: 2017-08-15
+
+Q - Asbjørn Nicholas Mørk
+
+FINAL
+
+Yes. A couple of questions from my side. First on the top line, I was just wondering,
+Christian, what you said regards the new sales and the fact that you reiterate your top line
+communication for the full year. It looks to me as, all things equal, there should be some
+momentum in the second half of the year or some possible spillover? Is that correctly
+understood?
+
+A - Christian Sagild
+
+{BIO 15093649 <GO>}
+
+The eﬀect of some of the larger clients leaving us will have eﬀect in all of 2016 if you
+compare 2017 to 2016. So, you have to oﬀset that eﬀect from more sales. And this is what
+we actually did in the commercial segment. And that has led to more payment of
+commissions. When it comes to top line, we still say slightly positive, but there was this
+one-oﬀ eﬀect in Q1, which had a positive impact in Q1 of – probably was a 0.8%, 0.9% out
+of 1.7% growth rate in Q1. The growth rate in Q2 is 0.6%; so, now, it's averaged 1.2%, but
+holds in that an amount of one-oﬀ eﬀect. So, we still think that growth rate in the second
+half will be somewhat lower than what we've seen in the ﬁrst half.
+
+Q - Asbjørn Nicholas Mørk
+Okay. Fair enough. Another question on the cost side, was just curious if you're seeing
+any wage inﬂation or anything like that increasing, I mean, in terms of competition over
+key employees, or whether the eﬃciency program that you have means that you don't
+really need to ﬁght for key employees going forward?
+
+Bloomberg Transcript
+
+A - Lars Thykier
+
+{BIO 16427122 <GO>}
+
+That is a problem, of course. We have solved that – or we have got ourselves some relief
+by moving some of these tasks out as outsourced. But we think that the automation and
+eﬃciency improvements we make will at least make up for this pressure.
+
+Q - Asbjørn Nicholas Mørk
+Okay, then if I can ask a second question on that. So, leaving aside eﬃciency, how do you
+see your total inﬂation on the cost side on an annual basis right now?
+
+A - Lars Thykier
+
+{BIO 16427122 <GO>}
+
+I mean, that's not a ﬁgure that we make up as such. We expect to see an increase in
+salaries to the tune of 1.8% plus, say, 0.7% on top of the forced increases.
+
+A - Christian Sagild
+
+{BIO 15093649 <GO>}
+
+(25:29)
+
+A - Lars Thykier
+
+{BIO 16427122 <GO>}
+
+On top of this, we have the...
+
+A - Steﬀen Peter Anker Heegaard
+
+{BIO 1513480 <GO>}
+
+Page 10 of 14
+
+
+
+Company Name: Topdanmark AS
+Company Ticker: TOP DC Equity
+Date: 2017-08-15
+
+(25:33)
+
+A - Christian Sagild
+
+{BIO 15093649 <GO>}
+
+...wage tax and the salary taxation.
+
+FINAL
+
+A - Steﬀen Peter Anker Heegaard
+
+{BIO 1513480 <GO>}
+
+Payroll tax.
+
+A - Lars Thykier
+
+{BIO 16427122 <GO>}
+
+Payroll...
+
+A - Christian Sagild
+
+{BIO 15093649 <GO>}
+
+Payroll taxation, yeah, increases.
+
+A - Lars Thykier
+
+{BIO 16427122 <GO>}
+
+...which will increase 0.4% next year.
+
+Q - Asbjørn Nicholas Mørk
+Okay, so just below 3%, all things equal?
+
+Bloomberg Transcript
+
+A - Lars Thykier
+
+{BIO 16427122 <GO>}
+
+Yeah.
+
+A - Christian Sagild
+
+{BIO 15093649 <GO>}
+
+Yes.
+
+A - Lars Thykier
+
+{BIO 16427122 <GO>}
+
+All things equal, yeah.
+
+Q - Asbjørn Nicholas Mørk
+Okay. Thanks. And then, on the Tryg custom bonus, you said that you were actually
+gaining customers from Tryg. I was just wondering, does this mean that you need to give
+a discount to sort of attract these customers and, thereby, your combined ratio of these
+customers will be weaker, or is that not really the case?
+
+A - Christian Sagild
+
+{BIO 15093649 <GO>}
+
+We are selling to Tryg's customers in the same way we sell to all other customers, so it is
+the standard pricing structure that we use. But of course, we don't have exactly the same
+approach to pricing everywhere in Denmark. So, it's not that you need to go – to
+compromise with your tariﬀs in order to gain a customer. We can have diﬀerent approach,
+because we don't micro rate in the exact same manner. But, nevertheless, we can see that
+Page 11 of 14
+
+
+
+Company Name: Topdanmark AS
+Company Ticker: TOP DC Equity
+Date: 2017-08-15
+
+our competition is such that we gain more customers; but it changes from time-to-time
+and in the sales force you do have some allowance. They allow to give some discount
+within certain regulations in order to attract customers, but that doesn't apply especially
+to Tryg.
+
+FINAL
+
+Q - Asbjørn Nicholas Mørk
+Okay, very, very helpful. Thank you.
+
+Operator
+Thank you. Your next question comes from the line of Vinit Malhotra from Mediobanca.
+Please ask your question.
+
+Q - Vinit Malhotra
+
+{BIO 16184491 <GO>}
+
+Bloomberg Transcript
+
+Yes. Hi. Thank you. Just one, maybe, follow-up or maybe clariﬁcation more than anything
+else; apologies, I missed some part of the call. The 5 point Q2-to-Q2 additional
+underlying improvement in the claims ratio, in the report it has been mentioned that it is
+due to property theft and other factors. Could you just shed a bit more light? And if you
+did already, I apologize. I missed part of the call. But if you could comment on that 5
+points, it would be great. And second question is on the motor. You commented that
+you're cutting prices. You said that there is no major trend in claims inﬂation that you are
+observing, or any update on accident frequency or any other comment would be very
+useful. Thank you very much.
+
+A - Lars Thykier
+
+{BIO 16427122 <GO>}
+
+The 5 percentage points is basically due to – or the brunt of this is very few ﬁres. We have
+had a good run on theft as well. The claims inﬂation in motor is impacted by higher claims
+on comprehensive and lower claims on third-party liability.
+
+A - Christian Sagild
+
+{BIO 15093649 <GO>}
+
+And we do think...
+
+Q - Vinit Malhotra
+
+{BIO 16184491 <GO>}
+
+And no worsening (28:45) in motor – sorry.
+
+A - Christian Sagild
+
+{BIO 15093649 <GO>}
+
+All over in motor, we think that the claims development will be dealt with by the tax
+indexation, so we don't feel the need for additional price increases as we have heard
+some of competitors talking about.
+
+Q - Vinit Malhotra
+
+{BIO 16184491 <GO>}
+
+And sorry, just to follow up, this has been the stance in motor even last quarter. So that
+means, implies that nothing has changed in your view in 2Q.
+
+Page 12 of 14
+
+
+
+Company Name: Topdanmark AS
+Company Ticker: TOP DC Equity
+Date: 2017-08-15
+
+A - Lars Thykier
+
+{BIO 16427122 <GO>}
+
+It's the same picture as we saw after Q1.
+
+FINAL
+
+Q - Vinit Malhotra
+
+{BIO 16184491 <GO>}
+
+Same picture. And just, please, one follow-up, when you said test was also the cause of
+the 5-point move, is that the biggest cause, or is there something else as well, or is that
+the main thing there, or is that part of...
+
+A - Christian Sagild
+
+{BIO 15093649 <GO>}
+
+We have seen a positive development in the private lines within content and theft, but
+that is not the – that is only a minor part of the explanation. The vast majority of the 5%
+relates to the number of ﬁles in agricultural and commercial sector and also the large
+claims that is at an all-time low.
+
+A - Lars Thykier
+
+{BIO 16427122 <GO>}
+
+But, of course, the developed large-scale claims has to do with the fact that our exposure
+to industrial lines is very small now.
+
+Q - Vinit Malhotra
+
+{BIO 16184491 <GO>}
+
+Yes. All right. Thank you very much. Appreciate that.
+
+Bloomberg Transcript
+
+Operator
+Thank you. There are no further questions in the queue at this time. Please continue.
+
+A - Christian Sagild
+
+{BIO 15093649 <GO>}
+
+Well, thank you for taking the time to attending our conference. And as you know, you're
+always welcome to call one of us if you have any further questions. We'll be happy to
+answer them. Thank you, and goodbye.
+
+Operator
+Thank you. That does conclude our conference for today. Thank you for participating. You
+may all now disconnect.
+
+This transcript may not be 100 percent accurate and may contain misspellings and other
+inaccuracies. This transcript is provided "as is", without express or implied warranties of
+any kind. Bloomberg retains all rights to this transcript and provides it solely for your
+personal, non-commercial use. Bloomberg, its suppliers and third-party agents shall have
+no liability for errors in this transcript or for lost proﬁts, losses, or direct, indirect,
+incidental, consequential, special or punitive damages in connection with the furnishing,
+performance or use of such transcript. Neither the information nor any opinion expressed
+Page 13 of 14
+
+
+
+Company Name: Topdanmark AS
+Company Ticker: TOP DC Equity
+Date: 2017-08-15
+
+Bloomberg Transcript
+
+FINAL
+
+in this transcript constitutes a solicitation of the purchase or sale of securities or
+commodities. Any opinion expressed in the transcript does not necessarily reﬂect the
+views of Bloomberg LP. © COPYRIGHT 2022, BLOOMBERG LP. All rights reserved. Any
+reproduction, redistribution or retransmission is expressly prohibited.
+
+Page 14 of 14
+
+

@@ -1,0 +1,1806 @@
+Company Name: Allianz SE
+Company Ticker: ALV GR Equity
+Date: 2016-11-30
+
+Capital Markets Day
+Company Participants
+FINAL
+
+Aylin Somersan-Coqui, Chief Executive Oﬃcer-Allianz Turkey
+Christof Mascher, Chief Operating Oﬃcer & Member-Management Board
+Joachim Müller, Member-Management Board & CEO-Allianz Beratungsund
+Oliver Bäte, Chief Executive Oﬃcer & Chairman
+Solmaz Altin, Chief Digital Oﬃcer
+Unveriﬁed Participant
+
+Other Participants
+Andrew J. Ritchie, Analyst
+Farooq Hanif, Analyst
+James A. Shuck, Analyst
+Michael Huttner, Analyst
+Nicholas Holmes, Analyst
+Peter D. Eliot, Analyst
+Thomas Seidl, Analyst
+
+Bloomberg Transcript
+
+Vinit Malhotra, Analyst
+
+MANAGEMENT DISCUSSION SECTION
+Oliver Bäte
+So, good morning. Welcome to the Allianz Capital Markets Day 2016 in Munich. I'm very
+happy that you made it all here despite the fact that it's a little bit of a diﬀerent location
+than we typically meet at and despite the fact that we had sort of disruptions through our
+friends from Lufthansa. So, thank you very much for coming. We've organized some
+sunshine, not really warm in Munich, but I think it's appropriately sunny.
+Now, a lot of things will be diﬀerent today. Oliver Schmidt has told you in roundup of
+today. It's not just the location but also what we are going to say. I think many of you are
+very interested in spreadsheets and growth assumptions and cost of capital and expense
+ratios. And to be honest today, we will talk very little about that, very little. Today, we want
+to talk about the future of Allianz in the digital environment because we believe that the
+value of our company is also very much driven on how we are going to make a
+transformation into a very diﬀerent future than what it has been in the last 126 years. And
+we believe not just the sector, in particular, Allianz is signiﬁcantly undervalued because
+people don't understand how successfully we will be in the future. There's a lot of talk
+about Google is going to eat your lunch or Amazon or all the other guys is and I think we
+tend to underestimate what the power of this institution is like. And we're going to give
+Page 1 of 32
+
+
+
+FINAL
+
+Company Name: Allianz SE
+Company Ticker: ALV GR Equity
+Date: 2016-11-30
+
+you a little bit of a hint on what we are doing. And this afternoon, after the presentations
+and facts, we'll bring you into our digital factory and have you experience what we are
+talking about, not just see the slides because there's nothing better than getting a feeling
+what the organization actually does. And trust me, this is not (00:01:55) the Germans
+would say (00:01:55), something that only happens on the side. It's making its way into
+the core of the company over time. So, we're having a number of factories and setup
+around Allianz that looked very much like what we do here. To be fair also, it's the
+beginning of the journey, it's not the end of the journey. There's a lot more to be done.
+But before I get to that, let me just do a quick introduction. Now, I'll take the slide myself.
+So, the day as you say, is an introduction by me very quickly, already have the time
+running here, 2 minutes 40 left; and then Christof will talk about what the thing we are
+going to do, together with Solmaz, in detail. It's very important to understand while we
+have the technology side here today, the CDO and our COO, most of the rest of what
+you're going to hear is from the business side. It's a very important principle as Allianz's
+digital transformation is not driven by technology. It is driven by our desire to be the best
+with our clients, and I'll elaborate that in a second.
+
+Bloomberg Transcript
+
+So, we have some of our best people from around the world here today, like Aylin our
+CEO in Turkey; Joachim Müller who is doing the transformation in the P&C business and
+in the agency distribution. Birgit König talking about Health; Leonardo about Genialloyd,
+our most successful direct company; and Sylvie talking about the smart home; and Dieter
+at the end of the (00:03:22) day saying how we do all of that with almost no interest
+income.
+Now, in terms of the why we're doing the things that we are doing. The ﬁrst thing that is
+very obvious for you that you're working on your phone every day, also insurance is
+changing. It's not that we are aﬀected like other industries, media, with a full force yet
+because regulation to a certain degree and customer behaviors have shielded the
+industry, but every day you see things changing and changing more fundamentally.
+You see that a lot around the mobile car. You see that a lot around the mobile car – the
+mobility industry, cars. You see it around consumer behavior. My kids are less inclined to
+go to a physical outlet when I want to go shopping with my son who's 18. He doesn't want
+to go to the stores. He wants to order it online, tried with his big feet. He has 46.5 at
+home, and then the send the stuﬀ back that he doesn't need. So, if you are a retailer with
+a store outlet, that's a very bad message.
+And the same thing is going to happen in our industry as well. And the question that we
+really have is the industry ready for disruptions, substitution by something else or are we
+at the center of reshaping that? And what we would like to tell you today is that Allianz is
+going to be front and center part of this process, not a victim.
+Now, it's very important, if you go back to November of last year and the Renewal Agenda
+that Dieter, the team and I presented to you as our agenda going forward, we have ﬁve
+major levers that we are going to leverage to bring Allianz into the next chapter.
+
+Page 2 of 32
+
+
+
+Company Name: Allianz SE
+Company Ticker: ALV GR Equity
+Date: 2016-11-30
+
+FINAL
+
+The number one is Customer Centricity. We'll talk about it the whole day because the
+issue around digital has nothing to do with technology. And the essence of it is it's not a
+technology. While technology will enable the change, the fundamental thing is to really
+understand what clients really need and want and being able to provide it to them at the
+best possible level of service and the highest level of eﬃciency. This is what the issue is.
+And digital, by default – by the default, by the way, meaning it's the base answer. It is not
+the derivative. So, digital technology, at the end of the day, is at the core of what we do,
+not the addition – is an enabler like the other levers we have. It is very important to
+understand and many of the examples that you will hear about today is putting
+technology into a framework to say how is Allianz leveraging technology to provide better
+services to our clients? I always use the same example. Take out your expensive
+smartphone. Many of us have an iPhone. You're ready to accept an 80% margin on this
+product; an 80% margin because you really want it. Who wakes up in the morning and
+says, if I buy insurance, I really want this product. But this is where we have to go to. If we
+want to protect our margins in the future, we have to be at the center of customer choice
+and then our still very attractive margins will persist.
+
+Bloomberg Transcript
+
+Now, there's a lot of things that are going on in Allianz. And in diﬀerence to the past
+where the German military approach would say, now, here is the 10 things that we're
+going to do and they will all be successful. We have taken this time a little bit of a diﬀerent
+approach and let the ﬂowers bloom. And I'll give you a couple of examples, what can be
+done. When you go into businesses that say, we cannot replace paper, and after two
+years you get to a share of mailing to 90%, you move it up from 0% to 90%, you can see
+whole transformation.
+Getting to businesses where you bring growth to 56% of new business from digital
+sources is amazing. Bringing up digital context through social media, 90% on a weekly
+basis is amazing changes. When you think about what data we are capturing, this is going
+to be the source of competitive advantage. We already have more data than anybody
+else.
+So, the story around the Internet side will have better risk data is just not true. What our
+issue is we do not leverage the data yet properly. And in the meantime, we have recorded
+more than 10 billion of kilometers mileages on drivers' behavior that we are leveraging.
+And it's really, really important that this does not just change the way we do business. It
+also changes the way people collaborate across Allianz because while we have been
+operating historically in national or business silos, everybody understands that in the New
+World, you have to be much better in terms of cross-country and cross-business
+collaboration.
+Now, the other thing I'd like to point out in the slide is the small thing on the lower lefthand side. Whenever we put services into the client relationship, and don't forget Allianz
+is by far the largest assistance service provider in the world, double relative in terms of
+impact we have to the next competitor. You need to think about what it means if you have
+services that get an NPS of 64% when the industry is basically operating at zero or
+negative rates. So, bringing services into the products will be a huge thing for us going
+forward; whether it's in traditional things that you understand like motor assistance which
+Page 3 of 32
+
+
+
+Company Name: Allianz SE
+Company Ticker: ALV GR Equity
+Date: 2016-11-30
+
+FINAL
+
+sounds boring, it's highly eﬀective. But even on the medical side in Health, and in the Life
+insurance side.
+Now, sorry to say I will not go into the topics, whether it's Allianz Turkey, Germany,
+Germany Health, it's also very important that what I call our mother ship in this country we
+are presenting today that's often seen from the outside particularly shareholders as sort of
+being highly proﬁtable but a little bit slow moving. You will see today and hear from Birgit
+and the team that we are everything but not slow.
+Now, as I said in the beginning, it is just the beginning. We are laying the foundations this
+year. Next year, we would really like to accelerate business impact and start to change the
+way Allianz operates on a cultural level. And by 2018 plus, we want to harvest a lot more
+of the dividends that are just bubbling up today. And I'd like to say something since like
+many of you, I'm a CFA, there's something that we use in our spreadsheets that's called a
+discount factor. And the longer growth processes are, the stronger the growth is, the less
+you see when you start the journey.
+
+Bloomberg Transcript
+
+So, mathematically, it means you need to think very hard if what we're doing here, how it's
+going to impact Allianz because typically we operate with single-digit discount factors,
+which means what you see today will have no impact on the future. If I were you, in your
+spreadsheet, I think a little bit more about double-digit change in terms of what we're
+doing just not mathematically, but also culturally. So, thank you very much for listening.
+Now, good news is we have what other peoples would like to have. The ﬁrst thing is when
+you think about what we do and what we can invest, there's very few people that can
+match the ﬁnancial power that Allianz has and we're going to put it to use. Therefore, you
+will see today how are we going to put it to use and it's just the beginning.
+And the second thing is in this country, we are the only brand next to car companies that
+are in the top of mind of the consumer. We're the only insurance company in the top 50
+ﬁnancial institutions of the world in terms of brand power. And we have 85 million direct
+clients and probably 250-plus million through B2B2C channels. So, it's an unlevered
+power base yet that we need to explore and we will explore.
+Thank you very much. Christof will now tell you not why we're doing it, that's what I was
+supposed to do. He would tell you what we are trying to do.
+
+Christof Mascher
+
+{BIO 3552411 <GO>}
+
+Thank you very much. So the three major themes that we are using as the foundation of
+our digital strategy is our customer experience as the ultimate goal; the connected
+platforms as the second one and then our service strength as the diﬀerentiator.
+When we talk about digitalization, we talk about digitalization of our insurance work and
+that is, of course, a huge transformation – a transformation of our business model.
+Business model, a digital business model that is deﬁning, I would say, new balance
+between digital demand based on simple and convenient demand coming from our
+Page 4 of 32
+
+
+
+Company Name: Allianz SE
+Company Ticker: ALV GR Equity
+Date: 2016-11-30
+
+FINAL
+
+customers based on individual oﬀers, based on a one-to-one marketing approach and of
+course, we have them to follow also and implement this anytime, anywhere protected and
+secured services on the one side.
+And on the other side, the digital supply and of course, you see also there the basic
+constituents of this are technological constituents of this supply – that's mobile, that's
+social, that's data, data analytics and of course, cloud. So that is the starting point of trying
+to deﬁne what is a digital business model, and the digital business model we want to
+connect to a so-called digital ecosystem. What is that? Let's try to deﬁne it.
+Let's start with the customer. The customers are connecting their assets, what is important
+for them, to sensors and these sensors have the capability to produce data, tons of data
+permanently. And this data, the customers are using to manage what is important for
+them in a better way. Of course, they manage their assets. They do risk management.
+They try to really protect what is important for them: Their health, their family, the person,
+their individuality, and end-to-end (00:14:11), and of course we can expand this from the
+retail, also to the commercial area.
+
+Bloomberg Transcript
+
+And they use these sensors, the data produced and the devices to provide and to do that
+in a better way. And Allianz is the platform that is connected exactly to these ecosystems.
+And we try to provide and it's our aim to support our customers, to do better
+management of their assets, to do better risk management, help them to protect what is
+important for them.
+And that is the deﬁnition of our core pillars of the digital strategy: Customer excellence,
+connected platforms and services. I think it's clear that the ultimate goal is customer
+experience to deliver superior service to our customers. And in order to do that, Allianz
+has to be the platform that is providing our insurance services, our services to the
+customers. Oliver mentioned already in his introduction that we are providing service to
+more than 85 million customers directly, so we are providing our services to the
+customers – to 85 million customers.
+If we add to this number, the B2B2C business, we can increase the number of customers
+where we are providing services and that I think is our speciﬁc strength, up to 250 million
+customers. So, deﬁnitely we have already the market. We are strong. We are the number
+one assistance service provider in the insurance world. So, therefore, we deﬁnitely believe
+that digitalization is not a threat but a huge opportunity for us, not only to improve the
+services that we are delivering to our customers but also to additional ones to that.
+Oliver mentioned already, it's not only technology. It's not only that we have to add or to
+implement or to integrate new ID tools into our company. We have, of course, to
+implement a full transformation. This transformation is, of course, aﬀecting the
+capabilities, the people, the employees that are working, and of course, the whole
+management ecosystem and the leadership that we have to provide and to steer to our
+company, and that we described with our – with (00:16:49) digital culture.
+
+Page 5 of 32
+
+
+
+Company Name: Allianz SE
+Company Ticker: ALV GR Equity
+Date: 2016-11-30
+
+FINAL
+
+A little bit more in detail. As mentioned before, these three pillars: Customer experience,
+connected platform, and services are the constituents of our strategy. And you will later
+see that's not only the description of the pillars that we want implemented, how we want
+to implement it but it's also the description of our agenda. And all the presentations
+should not only theoretically highlight what we are doing but also demonstrate that,
+practically, we are really implementing these exercises or these examples day by day in
+our operations.
+Customer experience, the most important thing. There, we have two major topics. First,
+we have to improve the existing experience of our customers, how they experience our
+services. And therefore, we want to increase the Net Promoter Score, the NPS, and we
+want to be the number one in the markets where we are in. That is our ultimate goal, and
+that is the target that we want to achieve and we will achieve by 2018.
+
+Bloomberg Transcript
+
+This is not only improving the existing services. It's also a connection to develop the new.
+We are using, as part of the digital culture, ways like – methods like ideation, design
+thinking, and so on in order not only to improve the existing world, but also to expand to
+the new one. We want to develop new oﬀers, new services as part of this ecosystem that
+we can oﬀer our customers to better manage their assets, to better manage their risks and
+to protect what's important for them. And that, in my opinion, is not only new services in
+the ecosystem. It's also the risk of the digital ecosystem itself, and that is the meaning or
+the content behind the digital risks. So, we are really developing oﬀers that are protecting
+our customers and the consumers in this digital world.
+And of course, we want to connect to other pools of innovation. And therefore, for
+instance, we have established this Allianz X, our innovative pool, so to say. And so – it
+must be later on describe that in detail, how we want to connect not only our companies,
+our OEs, that is the network of digital factories, but also to connect to outside partners to
+incorporate and integrate external innovation to improve our services. Second pillar:
+Platforms. In order to be capable to provide these services to our customers, we have to
+be connected. And therefore, we developed a agile hybrid 2-speed architecture
+(00:20:01), basically consisting of two basic components. First, an interaction layer
+connecting to our customers and to our distribution channel; agile, rep-based, providing
+apps supporting the mobile devices, mobile ﬁrst to be very agile. And the second part is
+then the big engine, where we have to manage our business, or if you want, systems of
+engagement – that's the interaction with our customers and the distribution channels,
+system of records where we do our business, and of course we have to connect in a
+professional way these two basic areas.
+And so we have developed an integrated, component-based platform that's combining
+internal and external elements providing services or dealing with the objects like
+customers doing our business, connecting that with data analytics, and of course artiﬁcial
+intelligence. You will later see a quite (00:21:08) prominent example how we want to do
+that robotics, and of course, security. But basically, we are using these platforms to
+manage data. Data, data, data – data is the currency of the digital ecosystem, is the
+currency of the future. In my opinion, it was or always already the currency of the past
+especially in the information – in the insurance part but now with these additional tools
+Page 6 of 32
+
+
+
+Company Name: Allianz SE
+Company Ticker: ALV GR Equity
+Date: 2016-11-30
+
+FINAL
+
+and additional ecosystems became, by far, provide better services to our customers and
+therefore data is the core of our strategy. And of course, we have to develop an
+understanding of data. We have developed an understanding of this platforms in a way
+that we are not implementing fragmented processes, not consistent data structures and
+so on. We have to avoid that we are replicating the chaos of the analog world into the
+digital one. That would be a perfect description of providing or transforming the legacy
+into the New World with a big mistake.
+Of course, it's clear that took dead weight of the legacy systems is of course, a big pain
+also for us. But on the other side, with these 2-speed architecture, where we can provide
+on the one side (00:22:36), new teams, new topics, new apps, new web services and an
+end to our customers and distribution channels separating and segregating that with an
+interaction layer from the big engine, I think we are well prepared to manage this
+challenge.
+
+Bloomberg Transcript
+
+And of course, based on these platforms, we see a huge convergence of global and local
+ideas. It's obvious that the platform is a platform. And if we repeat the platform multitimes in various locations, in various diﬀerent markets, we would just create and repeat
+the mistake of the past.
+Services, I mentioned already, Allianz is a number one service provider in assistance. And
+there we see a fundamental shift from a traditional product logic to a service logic. What
+is the meaning of that? We believe that insurance products that are sometimes connected
+to service components will be replaced by insurance services and we have to extend and
+integrate then the insurance component into these services. That is the logic of the digital
+ecosystems, translate it into the insurance world.
+And, of course, this will then – the digital ecosystems will then also shape the future of our
+services. For instance, let's take Telematics or our mobile ecosystems. It's clear that the
+Internet of Things is designing a new way how to ensure how to provide services.
+Telematics is, for instance, providing or shaping on-demand insurance. On-demand
+insurance can be done based on the Internet of Things, where we are capable to use the
+data that are provided by the ecosystems and tailor and shape services. Insurance covers
+for our customers. And, of course, the system ﬁnally also supporting the fundamental
+shift. And Oliver mentioned that already in his introduction from push to pull. The digital
+ecosystems are providing the customers this information and data, helping them really to
+deﬁne (00:24:56) talk demand, and I think it's our job to support it. And of course, we
+want to do that in the co-creation mode. We want to connect all the digital factories in our
+markets in order to collect the innovative power, the innovation in the individual markets,
+and bring them together in the digital factories; of course under the lead of the global
+one.
+So, this is the ﬁnal – or it's the picture highlighting what people want to achieve. Allianz is
+an ecosystem, so to say mimicking, to a certain extent, ecosystems of our customers
+connecting with our platforms to the ecosystem of the – diﬀerent ecosystems of what is
+important for them – to their home, to their life, to their health or to their car, so to say. But
+I want to mention again there, we want also to stress the fact it's not only a retail play.
+
+Page 7 of 32
+
+
+
+Company Name: Allianz SE
+Company Ticker: ALV GR Equity
+Date: 2016-11-30
+
+FINAL
+
+Just take the example of Industrialization 4.0, a big program here in Germany. What we
+see in the enterprise area, this is also a digital ecosystem. There are also digital
+ecosystems and these ecosystems are also providing information and data, and the
+companies and the customers – the commercial customers are using that to manage their
+assets, their supply chain. Or take another example, farming, agriculture; complete new
+ecosystem, complete new data, complete new services, adding additional topics and
+additional services to our customers. So, that is really important.
+And I want also to stress there data piracy and IT security, I think, are two additional topics
+that we have to stress especially from our side, because insurance spend (00:26:53)
+Allianz without IT security and without data protection, that's not possible. That would be
+a violation of one of our core beliefs, of our core values. And therefore, we have to invest
+and to protect it. And how vulnerable these ecosystems are, you could observe at least
+this week in Germany, almost 1 million of customers not connected to the Web, whatever;
+and that was deﬁnitely, obviously, now in cybertech that's destroyed or caused this
+problem. So, this is smart insurance that we have to implement with these ecosystems.
+
+Bloomberg Transcript
+
+Just two, three numbers illustrating the status where we are now with the implementation.
+We took the P&C business as a proxy and tried to identify those businesses where we are
+more or less implementing or using or executing already a digital way, a digital fashion.
+And there we see more than 11% of our P&C business, we are executing in a digital mode
+and we are growing that in the following year, year-by-year, and we want to continue and
+to expand it.
+Second example, digital health claims. I have taken two examples. I don't want to
+preempt the presentation of Birgit. But I think it illustrates, well, it's not only an individual
+implementation of one company, Allianz Health Insurance in Germany, but in connection
+with Allianz Worldwide Care, our international provider. Both companies have
+implemented digital ways to do claims management.
+And you see the numbers here. They started, for instance, in Germany 2015 and in the
+meantime, one-third of claims management is based on this digital apps, website, and so
+on. AWC even better, but they started one year before. So, there we can already achieve a
+level of above 80%. All the claims of our members are deﬁned or issued, supported
+either via apps or digital website. I think it's a real outstanding illustration how digital is
+really changing the world and how the customers are using that in order to get better
+services.
+Digital productivity gains is the third status indicator. We communicated last year that by
+2018, we want to achieve €1 billion productivity gains available then – of course then for
+our digital investment. At the moment, the status is we have identiﬁed and we have
+mature initiatives of €800 million. This €800 million are already baked into the plans of
+the operating entities, and in addition to that, we are in discussion for another €400
+million. So, therefore, I think we are well on track to design (00:29:58) and to implement
+this Digital by Default ambition.
+
+Page 8 of 32
+
+
+
+Company Name: Allianz SE
+Company Ticker: ALV GR Equity
+Date: 2016-11-30
+
+FINAL
+
+Last slide, I think following our structure of customer experience, connected platforms
+and services, this is the topic not only of today and what we want to do but also how we
+want now to implement and it's the structure of today's agenda. We have two major
+topics: First, we want to do presentations here tomorrow, and afterwards and Oliver
+mentioned that already, we want then to do a digital tour in the digital factory close to this
+room to illustrate with additional examples how this digital agenda, how this digital
+strategy is really implemented in the diﬀerent entities.
+We will start with the digital transformation, this co-creation exercise that will be done by
+Solmaz. And then, we will see individual examples done by Aylin, by Joachim describing
+how we want really to develop co-creation for our customers, for our distribution partners.
+We want to demonstrate how this service part that we as number one service and
+assistance providers can leverage that in the digital world that will be done for the
+example for smart home and other digital ecosystem by Sylvie. And then two examples;
+only this is, of course, a connection of the two-speed IT architecture and services and new
+products. And that will be then claims handling or health claims handling done by Birgit.
+
+Bloomberg Transcript
+
+And Leonardo will then describe how digital Direct should work. So, this is the – and then
+the additional examples in the factory, we will have a guided tour, that you can see and
+understand how this collaboration and co-creation is working in a Digital Factory. We will
+have a presentation about it. Digital Agency in Turkey, please connect this presentation
+then with the presentation of Joachim that you see this morning.
+Allianz Property Solutions, we have implemented 2-speed architecture for claims handling
+in property. Drone ﬂight, I think it's interesting example how also this new technology we
+can use for doing insurance business but also claims management. And then Telematics.
+We want to illustrate the telematics or Internet of Things platform, how we are
+implementing this connected platform in Allianz.
+So, long story short, digitalization is vastly a huge opportunity. Thank you very much and I
+hand over to Solmaz.
+
+Solmaz Altin
+
+{BIO 18235413 <GO>}
+
+So, how to transform a big global company like Allianz into a digital company? You might
+have the question and I had the question when I took over this role 11 months ago. And I
+can tell you, it was a thrilling ride so far. I've been amazed by what I see outside
+happening, out of Allianz, by various travels
+I made throughout the world looking at start-ups. I'm also amazed and even more
+amazed by the level of innovation that we have internally at Allianz. What I can say is that
+on insurance, no one reaches up to us. We still know insurance best. And that's what we
+have to build on. So, this is why we come up with the answer to the question, how to
+transform a big global company that is 126-years-old to a digital SaaS company. Our
+answer is the Single Digital Agenda.
+
+Page 9 of 32
+
+
+
+Company Name: Allianz SE
+Company Ticker: ALV GR Equity
+Date: 2016-11-30
+
+FINAL
+
+The Single Digital Agenda shapes and organizes the eﬀorts that are running all around
+the globe in Allianz entities and structures it within ﬁve pillars: The ﬁrst pillar is the Global
+Digital Factory. You would see it later on this day as Christof mentioned. This is where we
+are creating new customer journeys of existing businesses. So, this is where we address
+existing businesses across all lines of business. The target clearly is to increase Net
+Promoter Score to achieve our mid-term targets up to 2018 and to increase retention and
+hence support growth.
+The second pillar is global digital partnerships. As Christof have mentioned, we are living
+in an interconnected world. The networks are connecting fast, spontaneous and new
+business models are arising from them. This is why we have to be a key player in these
+ecosystems whatever the shape and form of future insurance models might be. This is
+why we have dedicated a unit that does nothing else than searching, scouting and
+building partnerships with mature tech and also non-tech companies. So, this is the
+mature companies, the global companies that we're addressing.
+
+Bloomberg Transcript
+
+Digital pure play, this is the area where we want to build new, fast, digital-only direct units,
+which address the customer segment, which are very keen to have a direct purchasing
+experience in various markets. Allianz X, as Christof has indicated, is the new name of our
+Digital Accelerator and it addresses the start-up ecosystem, building new business
+models, building new revenue streams.
+Last but not least, advanced analytics. We are building a central team of data scientists
+that are working with operating entities on clear-cut use cases to get more out of small
+data, big data with a tool to machine learning, deep learning, algorithms, overall artiﬁcial
+intelligence. Let me go deeper into two of these ﬁve pillars today, of which one is Allianz
+X and the second one being the Global Digital Factory.
+As you know, Allianz X also under its former name of the Digital Accelerator has been
+building companies for the last 24 months. We are now going to the second iteration of
+Allianz X. We are establishing, actually reestablishing Allianz X as a fund. It will be a
+limited partner – general partner structure. It will have an endowment of €430 million. The
+tasks of Allianz X will be own company building, direct venture investments, and also we
+will be doing from these endowments, investments into international venture capital
+funds.
+The €430 million will be made available over a period in an annual installment of four
+years. Allianz X will be led by Peter Borchers who will be the CEO of Allianz X who is also
+here in the back, maybe just say hello. We will also meet them later in the factory who is
+the founder and also a former start-up entrepreneur of hub:raum.
+So, the targets and the mission of Allianz X is to not only build on companies, invest into
+start-ups and then increase value of these start-ups, employing the scale that we have at
+Allianz Group and that's the one thing that diﬀerentiates us massively from the start-ups.
+All start-ups are longing for scale. We have that and we can employ it. This is why we want
+to dedicate two-thirds of the €430 million to building own companies in a start-up style.
+
+Page 10 of 32
+
+
+
+Company Name: Allianz SE
+Company Ticker: ALV GR Equity
+Date: 2016-11-30
+
+This is why Allianz X and Peter will be having complete entrepreneurial freedom to decide
+what is best to build.
+
+FINAL
+
+So, the value of Allianz X will be not only that we want to have obviously company value
+i.e. return on investments, but also to enhance our core with the insights that we're
+gaining from a global venturing and start-up approach.
+Coming back to the factory, Christof indicated that the factory will be at the center of a
+global innovation endeavor. We have seen so many innovations going on in various parts
+of the Allianz world. We want to connect them. We want to coordinate them from the
+Global Digital Factory, but we also want to build things where we can build them best.
+
+Bloomberg Transcript
+
+We have innovation centers in Asia Paciﬁc, in France, in Germany, in other parts of the
+world and we want to combine them in a way that enables us to be cost-eﬃcient. And
+using the knowledge that we have on a global scale, i.e. the key words here are costeﬃcient, scaling up of our innovation endeavors. But it's not only about hard facts on KPIs,
+on cost savings, on increased NPS and growth, it's also about culture. You will see later in
+the Global Digital Factory that it's a diﬀerent way of cooperation. It's a diﬀerent way of
+working together. You will see and you will feel it. And people who have been working
+with us on the two journeys that we have redesigned in summer this year, that was motor
+claims and life customer onboarding, they have experienced a diﬀerent way of working.
+And this actually was very inspiring to those who have worked with us and these were
+over 50 participants this year.
+So, what is a customer journey? So, why are we thinking from a customer's perspective
+and how do we understand the customer journey? Let me give you one example. For us,
+customer journeys is a diﬀerent way of looking at things. We are going very deep into
+analyzing behavioral drivers of why our NPS is where it is, where do we see pain points of
+customers in our journeys. One such journey is, for example, motor claims. You all might
+have an accident before. What did you feel when you had an accident? Think about it.
+Every customer on average has every seven years an accident. The moment of an
+accident is a disruptive moment in the lives of our customers. What the customers want is
+go back to the normal life as fast as possible. And ﬁrst and foremost, they want to know
+when an accident occurs, what happens next? What do I have to do? When you have
+every seven years an accident, you typically do not remember what you have gone
+through seven years ago, on average.
+This is why we deﬁne a customer journey from that moment of disruption of a customer's
+life to the moment where everything is settled. The car is repaired, the cash is settled. And
+we ask the customer, do you have anything else that we can do for you? And the
+customer says, no, thank you, I'm happy. That's a journey for us. And we are taking these
+journeys and transforming them and building new assets. I will give you an example later
+on.
+How does that work in detail? How can we achieve faster at scale, saving costs and
+producing higher quality digital assets that make us ready for whatever comes in the
+future of changed customer behavior. We have three distinct phases. One is we come
+
+Page 11 of 32
+
+
+
+Company Name: Allianz SE
+Company Ticker: ALV GR Equity
+Date: 2016-11-30
+
+FINAL
+
+together in a co-creation approach in the Global Digital Factory or also in one of the
+innovation hubs in the world. We take one journey and we have prioritized these
+journeys. And we built it in six to eight weeks together with operating entities being in the
+lead because we do believe that in the center, we do not know better what the local
+markets know on what's happening in the local markets.
+So, the local OEs are in the lead of this co-creation exercise. We add this then with digital
+talent from the Factory and also with colleagues and the group centers all around the
+world that would add to that journey. So, we build teams of 20 roughly for one journey, 10
+of which are coming from the operating entities. We have ﬁve or six digital deep experts
+like the new ex-designers, the user interface designers, the scrum masters who
+orchestrate the process, a customer journey owner as we call them. That's a new role we
+have created. That is end-to-end for a couple of years, responsible of building it,
+developing it and scaling them up.
+
+Bloomberg Transcript
+
+Then we take, for example, data privacy experts and legal compliance because we want
+to have data privacy by design. We don't want to live the waterfall any longer. We do
+everything in one block. If there is a legal issue, if there is a data privacy concern, we
+attack that in that very moment of co-creation. When everything is signed oﬀ, we say,
+okay, that's it. That's the journey. These are the asset. And now, we are building it into one
+or two lead OEs, lead operating entities when they have improving their success, we scale
+them up globally.
+Let me show you one example. That is the journey we have designed in summer this year.
+That's the life customer onboarding journey. So, it addresses the customer journey of
+actually ﬁnding us and then going through the journey to actually having a policy at the
+end. It's product-agnostic, but this example is working on a hybrid savings product.
+More and more customers and you all know this phenomenon of ROPO customers;
+research online, purchase oﬄine customers, or we also call them sometimes hybrid
+customers. Where can they ﬁnd us? We have to be ﬁndable in the new world.
+So, for example, if a customer goes on Facebook, they see an ad from us. This ad would
+be location- speciﬁc and customer-speciﬁc. Facebook doesn't share customer data with
+us, but they do place our ads where we say we want this to be displayed in a given
+segment, in a given place, in a given situation. So, we can be very speciﬁc into placing
+digital marketing initiatives to the places we want to have.
+Let me give you an example. If someone is skiing in the mountains and, well, Facebook
+knows that this is the case, we can say, if someone is skiing in the mountains, put this ad
+up. That could be a person on accident cover. We can do it as speciﬁc without actually
+having the data and the insight that Facebook has. And as you know, Facebook doesn't
+share these data.
+Then what happens, the customer can interact with us on diﬀerent ways. If the customer
+clicks on the ad, they can either be directed to a personalized learning page. So, we know
+what kind of proﬁle the customer has, from anonymized data and from data we can see.
+Page 12 of 32
+
+
+
+FINAL
+
+Company Name: Allianz SE
+Company Ticker: ALV GR Equity
+Date: 2016-11-30
+
+And then it's a customer-speciﬁc learning page. Learning page must be looking diﬀerent
+for an 18 year old versus a 6 year old. There are diﬀerent preferences, diﬀerent insights
+from behavioral economics which we employ when designing these things. Or the
+customers can interact with us via chatbot. We will be available on Facebook Messenger,
+WhatsApp, WeChat, so they don't have to search for Allianz any longer. They can just do
+in Facebook Messenger, Allianz, then Allianz appears and they can have any kind of
+interaction. We will employ chatbots in customer communication going forward,
+messaging.
+Then the customer, if the journey until then is nice and it actually matters that it is nice, it
+must be pleasant the journey. Think about yourselves. When do you continue on certain
+websites and oﬀerings and when do you not. So, the look and feel of the whole journey
+from the start to the end is of relevance. And this is what the startups are doing very well
+and we can do it as well. It's not actually magic.
+
+Bloomberg Transcript
+
+Then we go through a risk assessment which is compliant with European rules of
+customer information data and sharing of the information, transparency regulations. And
+then depending on the preference of the customer, we can direct them into the physical
+intermediaries channel like agents. They can choose from their agents. They can choose
+from a wide array of intermediaries they can choose from, location, near to location. We
+know sometimes which agent the customer uses when we can identify the customer
+along the way, so we can match that quite nicely.
+Then the customer either gets a recommendation of a product from the intermediary, the
+agent, the broker, or via a robo-advice based on the risk assessment that has been ﬁlled
+up before. Once the product is being purchased, there is an app where the customer can
+follow up on the assets and can make transactions, change the asset allocation, change
+admin topics all online.
+So that's one journey. What do we do in the Factory? We build these assets as clickable
+prototypes within the six to eight weeks period then we coat them into a platform which
+we call agile development platform, which is consisting of toolchains based on private
+clouds. It's cloud foundry. It's a toolchain base with GitHub, Jenkins and all of the things
+that start-ups are using.
+So, it's a toolchain that is available on the market that we employ. We build the code in
+the platform, and we make it available to all entities worldwide. So, it's a copy-paste
+approach in the ﬁnal phase. Yes, we still need to work on the technology. Yes, we need to
+make it work with all kinds of back ends, but this is the way we are progressing, and we're
+progressing fast.
+So, to sum up, we have made proof this year with the two journeys that the approach
+works. The people who are working in the Factory are happy working there. We get
+together. The economies of scale and scale of Allianz Group with a (00:48:06) agenda,
+and we are going to go ahead with this with six more journeys in 2017. And we are
+working on this at scale.
+
+Page 13 of 32
+
+
+
+Company Name: Allianz SE
+Company Ticker: ALV GR Equity
+Date: 2016-11-30
+
+We will be having the target to adjust at least 50% of premium by the end of 2018 where
+we have transformed around 20 customer journeys on a global scale. And then we will be
+deploying that after phase after phase on a global scale.
+
+FINAL
+
+Coming back to the initial question, so do we transform Allianz Group fast enough? My
+answer to that would be yes, we can. Yes, we do. And we're doing that really fast. Thank
+you.
+
+Unveriﬁed Participant
+Okay. We have 10 minutes' time to take your ﬁrst questions, if there are any. Andrew, let's
+start in the front rows.
+
+Q&A
+Q - Andrew J. Ritchie
+
+{BIO 18731996 <GO>}
+
+It's Andrew Ritchie from Autonomous. I guess my main question is how easy is it to work
+with legacy systems? You must have a lot of legacy systems in all operations and all
+insurers we talked to say that so much of their time is preoccupied with making sure these
+legacy systems don't break down, getting front end to talk to them. Can you just talk to us
+about how diﬃcult that is? How do you hit snags? Has it been harder than you think?
+
+Bloomberg Transcript
+
+A - Christof Mascher
+
+{BIO 3552411 <GO>}
+
+Fair question. We have started the program or the digital program to replace the legacy
+spaghetti, so to say, if you want to have a nice description of the existing already years
+ago. In addition to that, we developed the 2-speed architecture. And this 2-speed
+architecture is also a tool to connect legacy with the new world because it allows us to a
+certain extent to normalize or do develop an agnostic layer above the legacy system. Just
+for your understanding, I mentioned that at the beginning, we have this interaction layer
+and we have the back-end. And in between, we have a service layer if I do it a little bit
+more in detail. And this service layer is a logical translator between interaction and back
+end.
+And with this service layer, we have the capability to a certain extent get rid of the
+dependency of the existing back-end system of the legacy system. And that allows us to
+develop these digital journeys that Solmaz mentioned and then translating that – this
+service layer into not only the new back-end, but also to the legacy.
+
+A - Oliver Bäte
+And Christof, maybe we can say a little bit about how much of our premiums are already
+on our core platforms to address the old stuﬀ.
+
+A - Christof Mascher
+
+{BIO 3552411 <GO>}
+
+Yeah. That is already above 40%. We are there, and if you connect – that's the premium. If
+you put in parallel also the number in place where we have all the platforms already in
+Page 14 of 32
+
+
+
+Company Name: Allianz SE
+Company Ticker: ALV GR Equity
+Date: 2016-11-30
+
+implementation, we are close to 70%.
+
+FINAL
+
+A - Oliver Bäte
+Yeah. So, Andrew, we have very much – by the way, I think the challenge for us is more on
+the agility for the new technology. There's still lots of debates both in the IT community
+and others and the tradeoﬀ between agility and security, for example, right? So, if you
+had, as Christof mentioned, 750,000 DSL terminals of Deutsche Telekom out of service
+for half a week, that's a major blow that we cannot aﬀord. And we have had also in our
+renewal one or two days of our online application is not functioning properly. So, I think
+the new technology is as much as challenged at scale, and it is the old technology. I'm
+very glad that Christof started with all pain and cost to it a long time ago to transform the
+back-end.
+We believe by the way that we'll be a very important competitive advantage in the future,
+because as you say, a lot of people are struggling just to keep the ship open, let alone
+being able to implement new API-driven architectures.
+I think Nick was second.
+
+Bloomberg Transcript
+
+Q - Nicholas Holmes
+
+{BIO 21515144 <GO>}
+
+Thank you. Nick Holmes of SocGen. I wanted to ask about cost reduction and how this ﬁts
+into the digital initiative. And I wanted also to kind of broaden out the cost reduction issue
+at Allianz because your peers are very visible in targeting big numbers in terms of cost
+reduction. Now, digital is both part of this and not part of it. And perhaps Oliver could
+outline his thoughts about cost reduction sort of in overview for Allianz and why there isn't
+a €2 billion cost reduction target. And then perhaps you could also explain how digital is
+going to aﬀect cost reduction. Thank you.
+
+A - Oliver Bäte
+Thank you very much. The ﬁrst thing is cost cutting is not a strategy. I think you're
+observing too many companies that don't have a strategy and they're trying to make up
+for that by having higher dividends. By the way, the same is true for buybacks. If you don't
+know what to do with money, that typically means management hasn't a lot of ideas on
+how to grow their company, but it doesn't mean we do not do them when we cannot
+invest capital. So, the key thing is going forward for Allianz to show you how we grow the
+business.
+The second thing is productivity, and that's very important, productivity enhancement
+versus cost cutting. These are two very diﬀerent mental models. We have to do a lot of
+productivity. Huge success will come from transforming us from a push-based model
+when we basically pay intermediaries a lot of money for bringing business to us, to create
+pool from consumers, and therefore the marketing mix has to change and get a lot more
+eﬃciency from scale.
+To give you a practical example, today we pay on Life insurance two-third of the
+commission for ﬁnding a client, and one-third we spend on advising and cultivating
+Page 15 of 32
+
+
+
+Company Name: Allianz SE
+Company Ticker: ALV GR Equity
+Date: 2016-11-30
+
+FINAL
+
+clients. That is not sustainable in the future. So, you have a great point, Nick, in terms of
+what has to happen on the underlying productivity of the industry. But there, you don't
+get there by saying I'm taking constantly people out of the system.
+Second thing, we have to do a much better job at leveraging productivity gains in the
+central functions like ﬁnance, HR and all other service function and putting them into use
+for the business. And you will see that over the next two years will do a signiﬁcant job. The
+reason why I'm never announcing these programs is again I believe its management
+failure if you have to go after ﬁve years of not mending your ship to go to the public and
+say, now I have to ﬁre thousands of people because we haven't done our job properly in
+the past. Productivity management has to be a job of management every day and we do
+not have to go in front of the public and saying I'm sorry, we don't know what to do, and
+therefore we are ﬁring our people. You will not hear that from Allianz.
+
+Bloomberg Transcript
+
+Now, it doesn't mean that we are not working very, very hard on increasing productivity
+because we are in a world of very low top line growth and we still have factor cost
+inﬂation on IT, on the investments that we provided. That's why Christof gave you an
+overview of what we are doing around implementing digital.
+Now, last comment and that is self-critically meant. Nick, you know me. We have to get to
+a very diﬀerent level of productivity management, our DNA. Allianz comes from a
+background of high quality, high service, but also high cost. In a digital world, we need to
+have a diﬀerent mentality in how we think about it. But not what you, I think as a Brit
+would call penny wise, pound foolish, yeah, which is, save 50,000 here and 50,000 here
+and announce that we are going to outsource the canteen and we have no more travel
+account and we do a consulting band (00:56:25). Yes, you can do that. And if you have a
+crisis coming, we'll also do that to protect the ship. But what we really have to do is to get
+the company to a diﬀerent productivity level by doing exactly what we've just heard.
+That is what we're going to do, because we also – last comment, we have an obligation as
+a member of society and I really mean it seriously. Why do you think people are electing
+the people they're electing? They are sick and tired of large companies not having social
+responsibility. And therefore you will not hear from me unless we really with the back
+against the wall. Now, we are cutting €2 billion because we don't know what else to do.
+Okay. Before we take the next question, let me mention that our presenters will be around
+over the lunch break as well, so in case we are running out of time now, there will be the
+opportunity to continue our discussion at lunch. I think we have time for one last question.
+Vinit, over there, yeah, please.
+
+Q - Vinit Malhotra
+
+{BIO 16184491 <GO>}
+
+Thank you. This is Vinit from Mediobanca. So, Oliver, you mentioned that existence of
+data is not the issue. The harvesting of data was the issue in your view. But I'm a bit
+surprised that in Solmaz's presentation, the data analytics and what it could do to loss
+ratios, what it could do to better claims handling is sort of being put a bit further out into
+the future, it looks like. Is that a fair understanding? Thank you.
+
+Page 16 of 32
+
+
+
+Company Name: Allianz SE
+Company Ticker: ALV GR Equity
+Date: 2016-11-30
+
+A - Oliver Bäte
+
+FINAL
+
+Actually, no. Let me give you one example. We are currently working on a project in
+Czech Republic with a completely new leading edge tool from a vendor with which we
+want to increase the predictability of churn of our motor retail customers in that pilot
+country, Czech Republic. What we have seen is that already in the country, the
+predictability is very high at 54% ability and conﬁdence to predict whether a customer will
+be retained in the next period or not.
+What we have seen just for three weeks of data search, using this tool just by adding one
+piece of information yet, we are still working on it which was the location data we
+matched with existing customer lifetime value data, we were able to increase the
+predictability of the model from 54% to 70%. That's a 30% increase. And this will help us
+to gain, to retain customers, to understand why customers are behaving like that, and this
+will increase. So, we're full on. We're working on these things for a while, and you will see
+a couple of stories on artiﬁcial intelligence as well later on. So, we are not pushing out
+anywhere in the future. We're full on and we're doing it for the operating entities.
+
+A - Christof Mascher
+
+{BIO 3552411 <GO>}
+
+Bloomberg Transcript
+
+Just to build on that, for instance in the nat cat area, we have the same entity, the data
+analytics team of Solmaz together with the Allianz, we, (00:59:28) specialists and the
+businesses that are dealing with commercial and P&C have established a data lake, if you
+want, of nat cat risks and nat cat barriers. And now we are using exactly the same tools to
+develop outstanding calculation of risk proﬁles in this area.
+
+A - Oliver Bäte
+It's actually one of the major levers as we are for example the world's largest motor
+insurer, as you can imagine, and working with OEMs and others, the issue around how we
+harvest data properly for better prediction you can ﬁnd the loan loss ratio that you'd ﬁnd
+in the industry is huge. Roberto (01:00:07) will talk about it with as an example of
+Genialloyd that has been like others always at the center of innovation. And then what we
+do as Solmaz said, then we scale that across the group. And by the way, we have to do
+that better going forward. (01:00:23) questions more.
+
+A - Unveriﬁed Participant
+I would say for the sake of time, let's stop here and thank you, Oliver, Christof and Solmaz.
+Let's have the next presentation by Aylin.
+
+A - Aylin Somersan-Coqui
+
+{BIO 18249361 <GO>}
+
+Good morning, ladies and gentlemen. My name is Aylin Somersan-Coqui. I'm the CEO of
+Allianz Turkey. I've been with the Allianz Group since 13 years, last 4 years in Turkey, ﬁrst as
+the CFO and the integration manager of the acquisition we have done in Turkey in mid2013. And since the beginning of the year, I've taken over from Solmaz as the CEO. And
+it's great pleasure to be here today to present you our innovative and disruptive modular
+health product in our Private Health insurance business.
+
+Page 17 of 32
+
+
+
+Company Name: Allianz SE
+Company Ticker: ALV GR Equity
+Date: 2016-11-30
+
+FINAL
+
+In the ﬁrst three pages, you have an overview of how the Turkish insurance sector has
+been continuing. I will not go through all the numbers. You have a chance to review them.
+I will just say that with the acquisition of Yapı Kredi Sigorta, Allianz Turkey has become the
+number one P&C and health player, number two life player and number three pension
+player in Turkey, being the largest insurance and pension company. And here, you see the
+development of our revenues and operating proﬁt.
+And I would like to update you with the latest Q3 2016 numbers. As of September 2016,
+our revenues have reached about €1.96 billion despite depreciation of TL versus the euro.
+That implies a year-on-year growth of 33%, and our operating proﬁt has reached €147
+million nine months and a year-on-year growth of 39%. So, following the successful
+acquisition and the merger, our numbers and our growth is continuing to be strong, and
+our customer numbers have exceeded well above €6 million as of today.
+
+Bloomberg Transcript
+
+Now, let me give you short introduction to the Turkish health insurance market. While
+Turkey is a very young country, more than 42% our population is under age of 25
+compared to 26.7 million (sic) [26.7%] (01:03:03) in Europe. So, this is a very promising
+future for us, but also – and we don't face the aging problem today, but we will face it in
+the future. If you look at the 2050 demographic development, the number of population
+lower than under 25 years will increase to 33%.
+This has huge implications on the health care expenditures. If you look at the total health
+care expenditures of Turkey versus OECD, as a percentage of GWP, it's less than 40%.
+And as of per capita spending, it's less than a third. So, the total health care expenditures
+are increasing. They have been increasing on nominal basis more than 14%, on real basis,
+7%. And importantly, the pressure on the Social Security system is also going signiﬁcantly
+up.
+If you look at the private health insurance penetration in Turkey, you see that it's very low.
+It's only 0.18%, and that's including the simple health products as well. So, it's less than
+health of overall Europe. So, the potential in Turkey is pretty big. Private Health insurance
+sector is still very small. We are talking about a whole market of a little bit of €1 billion. So,
+it's quite small, but with very big potential, given the demographics of Turkey.
+As Allianz Turkey, we have seen the potential here. And with the acquisition of Yapı Kredi
+Sigorta, we have become the dominant leader in terms of top line and bottom line in the
+health insurance sector with 36.5% market share as of end of 2015. And also importantly,
+with a combined ratio of 98% compared to 92% of market. That market is including us. So,
+without us, that number would be about 105%. We have a reach of 882,000 customers.
+And we own the widest medical network in terms of pharmacies, physicians and hospitals.
+Obviously, our customers are beneﬁting from the speed and quality of our medical
+network, but importantly, we are able to settle directly our claims with the hospitals, which
+basically means that the customer doesn't have any out-of-the-pocket payments with the
+exception of the core payment they have depending on their tariﬀ. That enables us to
+have 90% of our claims within our own network.
+
+Page 18 of 32
+
+
+
+FINAL
+
+Company Name: Allianz SE
+Company Ticker: ALV GR Equity
+Date: 2016-11-30
+
+Also, we have been investing heavily into integrating our systems with the hospitals. That
+allows us to have approximately 70% straight-through processing. That means a customer
+gets a provision approved within two seconds without any additional approvals. And if it's
+going through an authorization, this takes 6.8 minutes. This is very important for the NPS
+because the last thing you want to have and you're at the hospital is to wait for an
+approval. Additionally, we are also continuing to invest in our technology. If you are
+outside our network, you're able to take a photo of your invoice, upload it into our app,
+and you get the payment basically the next day.
+So, this is the picture we have currently. Why did we want to do modular? We wanted to
+do modular health to address a couple of very key challenges in the market. One
+challenge is our internal challenge basically following the acquisition. We had two
+diﬀerent customer portfolios with nine products and 96 diﬀerent plans. And the challenge
+was to ensure that we don't lose any customers, we continue to maintain our customer
+service, and we continue to maintain our technical excellence.
+
+Bloomberg Transcript
+
+Also, as you see from the combined ratios in the markets, the competition is very ﬁerce
+especially in terms of price. And the medical inﬂation is well above consumer price
+inﬂation especially given the medical equipment is FX-paced in a depreciating TL
+environment.
+From a customer perspective, the Private Health insurance product is very diﬃcult to
+understand. The sales process is cumbersome. It has a lot of coverages. You don't exactly
+know what you're paying for. And also, it's quite expensive. So, only the
+socioeconomically higher level of customers we can really address, which is a relatively
+small amount. And it's standardized in terms of coverages, so the customers are not able
+to get exactly what they need. They have to get whichever networks we are actually
+providing with whichever set of tariﬀs.
+So, with this in mind, we wanted with modular to address a couple of things. One is to
+reduce complexity in the system, to make it a lot more transparent, to reach the mass
+customer segment. We had been reaching top service seekers, quality seekers, but we
+needed to reach a much bigger customer segment to make the pie signiﬁcantly bigger.
+Also, as a secondary goal, we wanted to ensure that our network of hospitals are a lot
+more diverse than they were at the time, basically, also reaching to lower cost private
+hospitals too. Now, I'd like to share with you a video which will show you the sales process
+of modular health and give you a very good idea about how the product actually works.
+[Video Presentation] 01:08:41
+So, as you see modular product is bringing together features and modules, basically
+enabling the customer to choose whatever they exactly need. And obviously, I can hear
+the questions on how did you address anti-selection, because that's basically probably
+one of the major issues that would come up. And despite having a signiﬁcant number of
+combinations, we are talking about seven-digit combinations within one tariﬀ, we are also
+
+Page 19 of 32
+
+
+
+Company Name: Allianz SE
+Company Ticker: ALV GR Equity
+Date: 2016-11-30
+
+FINAL
+
+having certain rules to ensure that the anti-selection does not take place or is minimizing
+the eﬀect of anti-selection.
+For example, you cannot take the outpatient module without the inpatient module, or you
+cannot take maternity without the inpatient module. The family members have to take the
+same kind of combination in order to beneﬁt from the family discount. So, we have 50 to
+60 rules to basically address the anti-selection. And we are also following very closely the
+behavior of the customers in terms of the usage of these combinations.
+From the customer journey perspective, the product has addressed signiﬁcant number of
+pain points that we have seen. As you see, there's immediate price comparison, so you
+know exactly what you're buying throughout the whole process. So, fully transparent, a
+much more user-friendly design for the agents, making the sales process easier, as well as
+the customer. Much more options, and also, ability to create the contract basically right
+there at that point in time immediately, with signiﬁcant digital support. So, with this, we
+were able to increase our straight-through policy processing ratio to about 68%. So, this
+comes from 30% to 35% 1 and 1 1/2 years ago. So, that's a signiﬁcant improvement to
+ensure that policy the is received right there right now.
+
+Bloomberg Transcript
+
+Now without results, nothing really counts. And if you cannot measure it, you don't have it.
+So, I would like to share with you our initial results in terms of growth. Our business
+growth, since we have introduced this product has been 56% year-on-year. So, we 56%
+year-on-year. So, we have achieved our main aim of increasing the broadness of our –
+reach of our customer base.
+We also addressed our aim in order to diversify our network. Our low-cost network has
+been utilized signiﬁcantly more from 2% to 39%. This enabled the customers to also
+reduce their costs and enabling them to reduce their co-payment as well. And most
+importantly, the satisfaction of the customer has dramatically increased by 30%.
+As you see, our NPS results have improved to 48%. And if I can give an anecdote, also
+from one agent, he told me, I'm not selling this product; this product is actually selling
+itself. So, my colleagues have discussed to make the insurance from a push to a pull, and I
+think, this is a product that exactly addresses that.
+So, what else are we doing? We are paying a lot of attention to coming up with services
+that is enabling us to interact with the customers. For example, we have a Dr. Allianz
+service which is a 24/7 service provided by doctors and nurses. You can just make a
+phone call, tell you're an Allianz customer, and you can share your problem, and they
+would address this from, go and get a lemon tea, to calling the ambulance, to actually
+sending a doctor to your home. So, this has been very well-received.
+We have a fully digital interaction with our customers. Actually, our mobile app has a
+single customer view, which basically enables the customer to view all of his policies, as
+well as the pension (01:16:37) policy in one app. And for a health customer, this means
+they can interact with us fully from the app, looking at their payments, their balances,
+
+Page 20 of 32
+
+
+
+Company Name: Allianz SE
+Company Ticker: ALV GR Equity
+Date: 2016-11-30
+
+FINAL
+
+uploading an invoice, looking at which networks we have, call an ambulance. All of these
+can be done fully digitally.
+Another important service we have provided also was secure home service for our older
+customers, for preventative care. Essentially, with their permission, we go to the homes of
+our above 70-year-old customers to make their home a safer place, especially preventing
+them from falls, which is the biggest issue that older patients face. And this has also been
+received quite well. Obviously, it has a beneﬁt for us as well in terms of preventative care.
+So, what's coming next for Allianz Turkey? We have started, and we will launch this early
+next year, our chronic disease management. We are starting with diabetes. 71% of all
+deaths in Turkey are from chronic disease management, and 7 million people are suﬀering
+from diabetes. So, very big number. We will be proactively contacting our diabetes
+patients to provide them with their allowance, a gadget essentially, so that they can
+measure their blood sugar through a gateway uploaded to our dashboard, so we can
+proactively monitor and coach; and with their permission, also share it with their doctors.
+So, we will be their treatment assistants, so to say.
+
+Bloomberg Transcript
+
+Also, remember, in Turkey, our retention ratio in our Health business especially after they
+get the lifetime guarantee is close to 98%. These customers are staying with us lifelong.
+And their frequency of incurring a claim is signiﬁcantly more often than a motor claim,
+which basically means that this is the platform we can really make a diﬀerence in the
+customers' lives to really be their lifetime partner. And we are also working on
+engagement tools, both in terms of wellbeing as well as doctor and network rating to
+increase the loyalty and adherence of our customers.
+So, yes, in Turkey, we are the dominant leader in terms of top line and bottom line, but
+our aspiration levels are signiﬁcantly higher. We want to disrupt ourselves before the
+insurance sector actually is getting disrupted. We don't want to be a classic insurance
+provider. We want to be the wellness coach, the health and safety advisor to our
+customers, as well as their treatment assistant as well. So, that's our aim. We want to own
+the health space, we want to continue to pioneer the solution, and be the number one
+provider for our customers.
+Thank you very much for listening.
+
+A - Oliver Bäte
+Okay. Thanks, Aylin. And we, again, have time for some questions if there are any. Farooq,
+please?
+
+Q - Farooq Hanif
+
+{BIO 4780978 <GO>}
+
+Thank you. Farooq Hanif from Credit Suisse. Could you talk about proﬁtability of the
+product maybe in combined ratio terms? And one of the problems in Turkey, whether it's
+pensions, or motor insurance is regulation, so what risk do you see from increasing
+burden of regulation on pricing, especially as you go to the mass market?
+
+Page 21 of 32
+
+
+
+Company Name: Allianz SE
+Company Ticker: ALV GR Equity
+Date: 2016-11-30
+
+A - Aylin Somersan-Coqui
+
+{BIO 18249361 <GO>}
+
+FINAL
+
+On our retail product, the combined ratio is approximately 95%, 96%. With the modular's
+introduction, basically, our aim was to maintain the proﬁtability pretty much the same but
+really expand the customer base, so we have been able to achieve that.
+You're absolutely. From a regulatory perspective, there are there are signiﬁcant changes
+in Turkey. There has been – I mean, I will give you the example. In 2015, regulation
+changed 152 times. This was predominantly on MTPL. But from a modular perspective, we
+have received the Treasury approval. And we have not really seen any reactions – any
+negative developments on the regulatory side. So, it has been actually approved and
+moving quite smoothly.
+
+A - Oliver Bäte
+Okay. [Foreign Language] (01:21:11)
+
+Q - Thomas Seidl
+
+{BIO 17755912 <GO>}
+
+Thomas Seidl, Bernstein. One question on this modular app you showed us. So, how
+much did you beneﬁt from the group Digital Factory in this exercise? So, how much was
+coming from the group, as opposed to this was a de-central initiative?
+
+Bloomberg Transcript
+
+A - Aylin Somersan-Coqui
+
+{BIO 18249361 <GO>}
+
+Actually, we have started working on the digital app before the Digital Factory was
+founded. And basically, we have created it internally in Turkey, and it became live in 2016.
+But what we are beneﬁting from are the components of the mobile app because it's
+continuing to actually increase from day-to-day. We are increasing the components that
+the app is having. So, I mean, for example, from a motor claims side, how the motor
+claims are coming and uploaded. We have been pretty much in interaction with the
+Global Digital Factory on that.
+
+Q - Thomas Seidl
+
+{BIO 17755912 <GO>}
+
+The cost savings you expect basically from using other components from the group, as
+opposed to doing it stand-alone?
+
+A - Aylin Somersan-Coqui
+
+{BIO 18249361 <GO>}
+
+I mean, I don't exactly know right now. That's a little bit diﬃcult to predict at the moment,
+just because we have also been an exporter and a big contributor to Global Digital
+Factory as well. So, in terms of our cost base, we are signiﬁcantly lower than expense ratio
+basis from the group's expense ratio. Therefore, currently, we are on the exporter's side
+rather than the importer's side, so the interaction is there.
+
+A - Oliver Bäte
+Michael Huttner in the back there, please.
+
+Page 22 of 32
+
+
+
+Company Name: Allianz SE
+Company Ticker: ALV GR Equity
+Date: 2016-11-30
+
+Q - Michael Huttner
+
+{BIO 1556863 <GO>}
+
+It's really about the same – how expensive does it cost to develop this? And how do you
+account for it? Do you expense it immediately, or do you spread it over a number of
+years? Just to understand the numbers eﬀect a little bit.
+
+FINAL
+
+A - Aylin Somersan-Coqui
+
+{BIO 18249361 <GO>}
+
+Basically, if it's an investment, we're capitalizing it over the course of the investment,
+approximately, three to ﬁve years. But on an ongoing basis, for all the maintenance, we
+are expensing it directly.
+
+Q - Michael Huttner
+
+{BIO 1556863 <GO>}
+
+How expensive...
+
+A - Aylin Somersan-Coqui
+
+{BIO 18249361 <GO>}
+
+You mean our app is how expensive? I don't know the exact number, but it's actually – I
+mean, we are talking about low-single million digits. I mean, it was a very pragmatic eﬀort
+that we have done internally, so I would say, a relatively low number.
+
+A - Oliver Bäte
+Yeah. We can take one more question. James, please, over here.
+
+Bloomberg Transcript
+
+(01:24:04) Let me stand up. Don't worry. Is the mic working? Good.
+When you think about productivity gains, what Aylin has said before, we are, in Turkey, in
+a gross market, okay. So, the idea is not to reduce the expense ratio by 30 basis points in
+order to improve the margin. But let's go back to the numbers, to basically take a
+company that already has 35% market share and what the traditional markets and build
+the market. The problem of our industry is, Michael (01:24:37), it's not growing. That's why
+you as investors want to see ever higher payouts and dividend yields, because you're
+basically saying, I'm going to take the money, and put it somewhere else. Then, we'll
+become a self-fulﬁlling prophecy, if we do not get the leading companies, like Allianz to
+grow our business.
+That's why we went to Turkey and think about the TL (01:24:58) went down, whatever,
+30%. We're in euro terms been growing this company. And that is the strategy of Allianz.
+We are not going to shrink (01:25:06) We want to grow this place.
+So, the focus of digital is to bring clients more value, protect our margins, but start
+growing the business. And you will see that in Life when we show it you next years. While
+we're totally transforming the Life side, Allianz will be growing again in a market that
+overall is shrinking. That's the objective. Yes, we can debate what the 2 basis points are
+that's going to do on manufacturing costs. It's about eﬀectiveness and serving clients
+better. Sorry for the intervention there. Just to put the perspective right.
+
+Page 23 of 32
+
+
+
+Company Name: Allianz SE
+Company Ticker: ALV GR Equity
+Date: 2016-11-30
+
+Okay. We take the last question from James.
+
+FINAL
+
+Q - James A. Shuck
+
+{BIO 3680082 <GO>}
+
+Thanks. It's James Shuck from UBS. My question's really about the kind of the integration
+of how you view all of the products in Turkey, in particular, because there must be some
+kind of halo eﬀect from having a very strong relationship with your customer on the health
+product. So, can you share some kind of insight into the cross-sell information around on
+the motor product, the retention rates that you're experiencing. What is the beneﬁt from
+this kind of better service in other areas?
+
+A - Aylin Somersan-Coqui
+
+{BIO 18249361 <GO>}
+
+I mean, a couple of things. One is, obviously, as I said, the retention ratio in the Health
+business is approximately 90%, 95%, so we are retaining these customers. And Health
+customers happen to be, currently at least, the socioeconomically higher level customers.
+And if you actually look at their risks in terms of what kind of customers they would be in
+motor, we are also seeing signiﬁcant correlation of good risks as well.
+
+Bloomberg Transcript
+
+And we are working very heavily on cross-sell to these customers through our agencies,
+too. And you'll see in the afternoon our Digital Agency platform, which actually shows
+how we are planning to cross-sell it, essentially shows you and the renewal times is
+coming, and what other products you are able to sell to the customers. We are doing this
+on MoD, MTPL, as well as Health. So, the cross-sell opportunities are deﬁnitely there.
+The customer service is enabling us to have signiﬁcant more loyalty with the customers.
+That's the component. Basically, when the customer is thinking about insurance, they are
+thinking about Allianz. If they're able to see all their policies, they can interact with us
+digitally. They're essentially preferring to have the next policy with us rather than with
+somebody else.
+So, we have seen quite a big beneﬁt from this. We're continuing to see. I mean, these are
+still – I'm sharing with you initial numbers. So, I think next year, if I come in front of you, I'll
+be able to share the exact ratios in terms of how the cross-sells have improved.
+
+A - Unveriﬁed Participant
+Okay. Thank you, Aylin. We will now move to the next presentation.
+
+A - Joachim Müller
+Thank you. So, also, a warm welcome from my side. I'm happy to present to you today the
+Digital Agency concept and the status of the transformation of the German-tied agent
+organization.
+Let's jump directly on slide number 4. And there, you see how important it is for Germany
+to transform the tied agent network to the digital world. We have more than 40% of our
+life business done with tied agents. We have almost 70% on the P&C side, and even more
+
+Page 24 of 32
+
+
+
+Company Name: Allianz SE
+Company Ticker: ALV GR Equity
+Date: 2016-11-30
+
+FINAL
+
+than 70% on the health side. So, we have to grow the tied agent channel, we have to
+transfer the tied agent channel to the digital world so we can grow as Allianz in Germany.
+We started the transformation ﬁve years ago. It was 2011 with the concept, Pro3. And Pro3
+consists of several levers. One lever is the new, modern interactive needs-based sales
+approach. The other one was we launched a new CRM system where we support our
+agents to get in touch with our clients on a really regular basis. And the third one which is
+really important, we work on agency processes to free up time, to get more time for
+agents for sales-related interactions and for sales-related services. So, we are doing this
+rollout in groups of 800 to 1,000 salesmen, and we train and coach these salesmen for –
+in a period of six to nine months. So, this is really a huge change process to sustain the
+change and to sustain peak performance. So, we do the next rollup group – or we do the
+next rollout and start it in the ﬁrst quarter of 2017, so we will have more than 75% of our
+tied agents in this program by the end of 2017.
+
+Bloomberg Transcript
+
+Pro3 is the core program to transfer the organization to a modern one in the oﬄine world.
+On top of that, we started 2015 with our digital agency concept with a clear goal to
+transform the tied agent network and make them ready and ﬁt for the digital world. And
+we developed this format of the digital agency along the value chain of sales starting from
+Web presence and lean management.
+Then next, how is the sales process done and how does it look like and what we have to
+be aware of in the aftersales process? Let's start with Web presence and lean
+management. If you want to be successful in the online world, it's really necessary that
+you are really actively using social media. And also for an agent, it's important to have his
+individualized home page. We have not almost 100% of our agents with home pages with
+individualized homepages. And you have to use all contact channels. So, we have to use
+something like WhatsApp, but we have to also build something like doing online
+appointments.
+So, this is important to get in touch with not only your customers, it's very important to get
+in touch with prospects with new customers. And then it's the advice part and honestly
+speaking from my point of view, this is moment of truth. So, now you have contact with
+your prospect or with your customer. And then it's all about meeting or even better
+exceeding customer expectations. Therefore, we use this needs-based sales approach
+called ABP, Allianz Beratungsprozess, in Germany, which you can use oﬄine. And very
+important, you can also use it online. And you can do online consultancy only if you use
+this needs-based sales approach. So, with this approach, you can convince your
+customers. We are also developing new tools like apps and stuﬀ like this to engage the
+customer and the agent in the sales process.
+Later on, I will describe the concept of the digital specialist unit on one of the next slides.
+Then we come to the after-sales process. And the core of the after-sales process is Meine
+Allianz. This is our service and communication platform between agents, customers and
+Allianz. And with this platform, we can speed up the way how we communicate with our
+clients. And the other important point, Oliver mentioned it this morning. This is important
+to bring down cost for paper and postage cost and so on because if you do the
+communication digitally, you don't have to send mailings or using letters.
+Page 25 of 32
+
+
+
+Company Name: Allianz SE
+Company Ticker: ALV GR Equity
+Date: 2016-11-30
+
+FINAL
+
+Another important point is – Birgit will take – will present you and familiarize you with the
+health app on something like this. This is important to increase the service also for our
+customers in the various lines of business, P&C or the example (01:34:21) on the house
+side. And I will give you a deep dive on online agency evaluation which is, of course,
+(01:34:27) for transforming the organization into the digital.
+But let's start with Web presence and lean management. In my point of view, it's all about
+increasing the visits and the traﬃc on our Web pages. If I talk about Web pages, I talk
+about Allianz DE, and I talk about the individualized home pages of agents.
+And there you see, if you compare the ﬁrst quarters of 2015 with the ﬁrst three quarters of
+2016, you see an increase of 50% or 66% on agency home pages which, in my point of
+view, is really very positive trend.
+
+Bloomberg Transcript
+
+How do you get there? First of all, you have to increase the direct type-ins, but you also
+have to invest in Google, and you have to activate your organization to use social media.
+And I will provide you with the ﬁgures later on, but we have a really positive trend how
+many agents are now using social media. We have more than 3,000 agents using social
+media. And we reached more than 1.5 million persons on a weekly basis to get in contact
+with Allianz.
+And then we launched two new things which is really important in the oﬄine world. And
+one important thing is agency selection. In the past, we had only this, let's say, focus on
+regionality. So, we took the next one around the corner. Now, we changed this. We
+launched the new algorithm, so we have a look what is the competency of the agent into
+speciﬁc line of business. What is really a core thing (01:36:27)? And the other one, what is
+important is how online, how is – or how are the online capabilities of the agents? And
+now, we bring these three things together. And this – I would say this is really best
+matched, and our ﬁgures show that this brings up the conversion ratio, and this helps a lot
+for doing more on the sales side.
+The next point is we have to use all contact channels. If clients are prospects are familiar
+with using, for example, WhatsApp, we also have to use WhatsApp. So, this is important
+to increase the traﬃc.
+Now, let's have a look on the advice side. We started, as I mentioned before, from a very
+strong proposition in the oﬄine world. So, we have the highest coverage of all insurance
+companies in Germany in the oﬄine world. We are nearly everywhere. So – and now, we
+oﬀer online consultancy via our agents. And I shared with you the ﬁgures. So, we are still
+in the rollout phase but we oﬀered more than 70,000 online consultancy sessions in the
+last ﬁve months. In my point of view, this is really a peak number and this shows how the
+agents are adapting to these new tools and that there is really demand on customers'
+side. And we round up this oﬀer of the digital agency with this digital specialist unit.
+With this one be our setting, in my point of view, really, a new standard in the German
+market because we have specialists for complex business questions or complex
+situations. So in the past, the specialists were travelling to the agent and now he can
+Page 26 of 32
+
+
+
+Company Name: Allianz SE
+Company Ticker: ALV GR Equity
+Date: 2016-11-30
+
+FINAL
+
+connect, the agent can connect the specialist directly online. So for example if you do
+something like a video consultancy session you can bring in the specialist and then you
+don't do a dialogue, you do kind of a dry look. And the NPS is fantastic. So, this is a tool
+where you can – or a setup where you can really exceed customer expectation and this
+helps a lot. And the other point is, this helps for eﬃciency and eﬀectiveness because it
+brings down something like travel costs and so on and you can do more talks on a daily
+basis as a specialist.
+And also from a training perspective, this gives you a new opportunity for the future. Now
+let's have a look at aftersales. I already explained how important mainly Allianz is for
+Allianz Germany. Now I want to introduce you online agency evaluation. The core of a tied
+agent organization is the trust base because everybody knows the agent in a rural area
+and they trust him. And now what can we do to transfer this trust based to the online
+world and this is the solution online agency evaluation because clients can share their
+experience with the agents and the reason of a service contact or it was a sales contact
+and they like and they appreciate to share the information in the net.
+
+Bloomberg Transcript
+
+And what I like even more is the feedback they get – that they give us. So, we are still in
+the rollout phase, and the feedback on average is between 4.8 and 4.9 on a scale from 0
+to 5. And this is really gorgeous and we see this increases the traﬃc in the net especially
+on agency homepages because new prospects and new clients, they want to go to
+successful agents which get good feedback in the net.
+So, now let's have a look at facts and ﬁgures. As I mentioned before if you ever look at
+agency homepages and the visits, and if you compare September last year with
+September this year, you see this dynamic trend. So, we increased the visits by more than
+150%. From a Google perspective, the visibility index is up more than 50%.
+We have now increased the number of agents who are using Facebook with a corporate
+website and this is only Facebook, increased it by almost 40% compared to 2015. And
+what I think is very impressive, last year, we had something like 800,000 contacts on a
+weekly basis with people on social media. Now we increased this to 1.5 million. And this is
+a really dynamic trend and I'm really optimistic that this will help us in the future to
+generate more growth. I already talked about online advisory which is a new proposition
+for our tied agent channel.
+With all these tools and instruments, we are outperforming the market in a very important
+KPI. This is customer contact frequency, which is important for doing more business. So,
+we increased it from 50% to 80% last year and this shows that the whole concept is really
+working. On the right side of the slide, you'll see what is the eﬀect on the customer
+satisfaction side. This I would say is really, really huge.
+So, your now question is how about the business? Now, you see over the last three years
+we increase productivity per agent by almost 20%. And you'll see the trend is picking up.
+So, and we are as Oliver mentioned before, we are still in the roll out phase. This is more
+the beginning than the end. And this has a positive impact on all lines of business, P&C,
+
+Page 27 of 32
+
+
+
+Company Name: Allianz SE
+Company Ticker: ALV GR Equity
+Date: 2016-11-30
+
+FINAL
+
+Life and the Health side. And so we for Germany, quite optimistic that this is the way how
+we can grow also the tied agent channel.
+Now, I want to go more on the group perspective. So, because as part of the renewal
+agenda, we started an initiative, how can we transform the strong tied agent channels in
+Europe together in this digital world. And so we started a project to share not only or to
+share the tools, because if you for example develop a tool for online contact management
+or for doing online appointments, you can share this in Europe because the Internet in
+Europe is almost the same.
+So – but what is – also important that we share how we do the change because this is a
+huge change process, how do you transform a self-employed organization in the future?
+So, we share the tools and we share the experiences to be work here closely together.
+And though I'm also on this side very optimistic that we have built a successful
+transforming the organization to the digital world and make them ﬁt for the future.
+Thanks for your attention. And now, I'm ready for questions. And I will be also here in the
+coﬀee break or during lunch, so don't hesitate to approach me during lunch or coﬀee
+break.
+
+A - Oliver Bäte
+Thanks very much, Joachim. Any questions? Let's have Peter ﬁrst here.
+
+Bloomberg Transcript
+
+Q - Peter D. Eliot
+
+{BIO 7556214 <GO>}
+
+Thank you very much. Peter Eliot from Kepler Cheuvreux. You talked an awful lot about
+social media and the need to have that. And I guess going back to – so nice this
+presentation to start, we heard that as well, we heard the example of the advert on
+Facebook. Where Facebook, it was Facebook's data that was used and kept the data. So,
+I'm just wondering what are we missing in terms of going back to an original concern that
+it was these players that could perhaps take an initiative of the customer (01:45:42) and
+we're still using their data, how do we get around that challenge?
+And perhaps if I can split in quick second one. The focus here was very much on moving
+to the oﬄine to online, but still using agents. I guess going forward the amount of time
+that agents have spent would be reduced. Thanks to various initiatives that we've heard. Is
+that a challenge given the size of the number of agents you have.
+
+A - Joachim Müller
+So, this – we have two questions. First of all, I want to start with the last one. It's question,
+what is the commission level for business which is generated online in connection with
+the agents? So, we agreed on a new commission scheme for life, for health and also for
+P&C. And actually, it is important if you have more spendings for generating leads, then
+you have to know other commission and ﬁnd a new commission scheme. And we found
+one. And that's important because otherwise, it's getting too expensive in the online
+world. So, there's a prerequisite for sure.
+
+Page 28 of 32
+
+
+
+Company Name: Allianz SE
+Company Ticker: ALV GR Equity
+Date: 2016-11-30
+
+FINAL
+
+And the important thing is we talk about social media. It's important that you know all the
+social activity is done by the agents. And this is the reason why we are so successful. So,
+they are using their community and they are getting in touch with prospects, with new
+customers, and so they can do their sales, and this is really, really powerful. So, they more
+successful on the social media side. and in my point of view, we can be in the future. And
+this is a proposition of a tied agent network, and if you work also on the commission side,
+this will be also a very good deal for us as Allianz.
+
+A - Oliver Bäte
+I think Farooq was next. Here, over there, please.
+
+Q - Farooq Hanif
+
+{BIO 4780978 <GO>}
+
+Thank you very much. Farooq Hanif from Credit Suisse. Are you getting diﬀerent
+customers to your normal customer base through social media? Can you describe that?
+And is it ever going to be a diﬀerent price through the diﬀerent channels? Will it ever be
+cheaper in the future for you to buy through social media and throughout that way rather
+than pick up the phone or travel (01:48:02) with an agent? Thanks.
+
+Bloomberg Transcript
+
+A - Joachim Müller
+So, if you talk about the blueprint, we have the same price if you buy a digital or if you buy
+it via the agent. And your question is – or your question was how about the customer
+segments. Actually, they are really diﬀerent ones. They are really diﬀerent ones. They are
+younger ones. They are more in cities. But as I mentioned before, we are still in the rollout
+phase and maybe we can talk about this maybe next year or a year later then I give you – I
+can give you more insights. But the ﬁrst trends are younger customers and more from
+cities.
+
+A - Oliver Bäte
+Okay. I think – Michael, ﬁrst; and then, James here in the front. Thank you.
+
+Q - Michael Huttner
+
+{BIO 1556863 <GO>}
+
+I work for a bank which I think has 30,000 people who are employed to control what I do
+or not speciﬁcally what I do, but if you see what I mean. So, what's the reputational control
+risk because eﬀectively a lot of the stuﬀ which used to be very tightly controlled by
+mailings, etcetera, is now you've kind of put it out there? How do you deal with that, or
+how do you see that?
+
+A - Joachim Müller
+So, in my point of view, what we are controlling – so we are oﬀering the tools and the
+components, and the agents are using our tools so we can control this. So, we don't work
+with self-developed stuﬀ out there. So, we allow agents to work with their own apps or
+stuﬀ like this. So, we developed the new tools regarding digital agency. So – and
+therefore, in my point of view, we don't have a problem. We control these tools, and so
+we are well on track.
+
+Page 29 of 32
+
+
+
+Company Name: Allianz SE
+Company Ticker: ALV GR Equity
+Date: 2016-11-30
+
+A - Oliver Bäte
+James, and then Andrew...
+
+FINAL
+
+A - Joachim Müller
+And we have a huge buy-in from the agency side. So this is now after three or four years
+of changing the organization, they buy in because they know we are better in developing
+these tools and they are good in customer interaction. This ﬁts good together.
+
+Q - James A. Shuck
+
+{BIO 3680082 <GO>}
+
+I have two quick questions actually. Firstly, if memory serves from 2011 when you ﬁrst
+talked about the roll out of Pro3 and the Digital Agency 2.0, you had certain pilot studies
+that were targeting a – or illustrated an improvement in productivity. Can't quite recall
+what that number was but I'm interested to know what – would they actually hit that
+target? Whether things didn't develop quite as you expected?
+And then my second question was just around the – if you look at what you're trying to do,
+the Digital Agency is very successful in Germany. The rollout in other markets is taking far
+longer and I think there are nuances to each individual market. To what extent has the
+target operating model and AMOS inﬂuenced your ability to roll out this sort of
+standardized approach to tied agency particularly versus some of your larger peers?
+
+Bloomberg Transcript
+
+A - Joachim Müller
+So, ﬁrst question was how about the targets of Pro3. So, we were – three years ago, we
+were discussing this issue and the goal was to improve productivity in the groups by
+something like 20%. So for this, we are well on track because the ﬁgures I showed you are
+ﬁgures regarding the whole organization. So if I have a look at the groups, in the rollout
+groups then we are well on track to reach the 20% and now on top you have positive
+eﬀects regarding the digital agency. And your question, AMOS and what we do here is
+front end development. These are really agile tools. They have nothing to do with
+back-end systems and so we can share also this with our European colleagues. And this is
+agile development, so it ﬁts well together.
+
+A - Oliver Bäte
+Okay. We'll take – sure.
+(01:52:33) questions I think we didn't fully answer. The ﬁrst one was price diﬀerentiation. I
+think what Joachim was talking about, if you have this exact same product, it has to be
+consistent across channels. But we oﬀer obviously diﬀerent products online and through
+other channels and even through (01:52:50) and others have diﬀerent features and
+therefore have diﬀerent prices. So, the answer is, yes, if you access diﬀerent value
+propositions from Allianz, i.e. well, you'll hear that from Leonardo later on Genial Click
+which is a fully online product where you fully service yourself. You will obviously have a
+diﬀerent construction, therefore, diﬀerent price.
+
+Page 30 of 32
+
+
+
+Company Name: Allianz SE
+Company Ticker: ALV GR Equity
+Date: 2016-11-30
+
+FINAL
+
+So, price diﬀerentiation, at the end of the day, you need to think less about trying to avoid
+channel conﬂict but rather value proposition diﬀerentials. Let's say, if you have a client are
+ready to accept that you service yourself fully, and that comes at a lower cost, it will come
+obviously also at a diﬀerent price.
+So, Allianz will diﬀerentiate it. You have markets like Australia where we are having the
+same brand on all channels but do diﬀerentiate depending on what the cost of the
+channel to serve is or product features are, deductibles and so on. So, the diﬀerentiation,
+you will see, but it has to be consistent. And that, I think, is the biggest challenge today,
+still talking about challenges, too. We shouldn't only talk about what's great between the
+online and the oﬄine world because the online world is real time in terms of pricing
+mechanism, product design. And the oﬄine world is still not. And we have to bring our –
+that's the next chapter – our agency forces and brokers into the online world where they
+have to get use to the fact that for example motor pricing is changing daily some times by
+the minute and then being comfortable with that in terms of explaining why that isn't what
+the value proposition is. So, that's the next step but it will come.
+
+Bloomberg Transcript
+
+The second question was, agency transformation. So, let's just put it into perspective. We
+have three large entities in Europe, Italy, France, Germany, that have sophisticated agency
+forces that that serve retail and increasingly commercial clients. It's very important to
+understand. Then you have on top of that the Iberian platform, which is more focus to
+retail and SME. And then you have Eastern Europe, more or less, that are smaller agency.
+So, we have a program and the large three are actually working in a consistent step
+forward as Joachim are describing that now. Some of the historical regulatory framework ,
+scales and models are diﬀerent. But as you think about the modular product or the digital
+agency in Italy or what has happened in France, is totally consistent to what you Joachim
+was saying.
+The only – the emphasis is diﬀerent. So, for example, it's common for all of them that we
+operate more outside of big cities. This is why we are strong also in terms of proﬁtability.
+Then we operate inside of big city. So, still working on, how do we compete in larger
+cities.
+On the country side, the module are very consistent. What do we on life and health? What
+do we on motor? What we do on commercial lines? The wording and the design might be
+diﬀerent. The concepts of how we are bringing them into the digital world are very
+consistent.
+Last comment is, I think where Germany is and particularly strong, it's something that
+Joachim hasn't actually mentioned, is the connection between digital and customer
+satisfaction, and customer centricity. I think the most important change that I have seen is
+the introduction of the ﬁve-star rating system for our agents. We don't have everybody on
+the system where clients are giving online feedback about the service quality of their
+agents to the public. And now the agencies are using that to advertise the services. So,
+we are bringing in a customer satisfaction mindset in culture through the online world
+because of the ﬁve-star ratings.
+
+Page 31 of 32
+
+
+
+Company Name: Allianz SE
+Company Ticker: ALV GR Equity
+Date: 2016-11-30
+
+FINAL
+
+Now does everybody have that yet? No, we don't have that yet. And we are forcing
+everybody to get into the system, and I can tell you that long term, very few agents will
+survive that do not have a ﬁve-star rating from their clients. So, it's forcing the cultural
+transformation from a product push to a customer pull from the online world into the
+oﬄine world. And I think that's very important to understand.
+So, digital is not just about moving oﬄine to online. It's bringing online customer
+centricity to the oﬄine world.
+Christof?
+
+A - Christof Mascher
+
+{BIO 3552411 <GO>}
+
+An additional comment on the platform question, Joachim. This is Germany, and
+Germany is a really good example how to implement this 2-speed architecture. This is a
+good combination. Germany is one of our forerunners. They are implementing our core
+platforms, and in parallel the interaction layer especially for those activities, for instance,
+these online services, online consulting, the Webpages (01:57:32) and exactly these
+modules are then the basis or the platforms are then the basis for the transformation and
+the translation into other markets, of course then with the speciﬁc customization if needed
+with the local needs.
+
+Bloomberg Transcript
+
+A - Joachim Müller
+Oliver mentioned the agency online evaluation after only three months. If you compare
+the agents using this tool compared with the other ones. The number of visits on the
+homepages tripled. This is only the beginning. So, we are quite optimistic for the future.
+Thanks a lot, and see you later.
+
+A - Oliver Bäte
+Yeah. Thanks, Joachim. I would say, for the sake of time, we'll break now. We will have a
+short coﬀee break, 20 minutes and we will reconvene here at 20 minutes past 11:00 sharp.
+Thank you.
+
+This transcript may not be 100 percent accurate and may contain misspellings and other
+inaccuracies. This transcript is provided "as is", without express or implied warranties of
+any kind. Bloomberg retains all rights to this transcript and provides it solely for your
+personal, non-commercial use. Bloomberg, its suppliers and third-party agents shall have
+no liability for errors in this transcript or for lost proﬁts, losses, or direct, indirect,
+incidental, consequential, special or punitive damages in connection with the furnishing,
+performance or use of such transcript. Neither the information nor any opinion expressed
+in this transcript constitutes a solicitation of the purchase or sale of securities or
+commodities. Any opinion expressed in the transcript does not necessarily reﬂect the
+views of Bloomberg LP. © COPYRIGHT 2022, BLOOMBERG LP. All rights reserved. Any
+reproduction, redistribution or retransmission is expressly prohibited.
+
+Page 32 of 32
+
+

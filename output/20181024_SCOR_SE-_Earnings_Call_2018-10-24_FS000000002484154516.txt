@@ -1,0 +1,859 @@
+Company N ame: SCOR SE
+Company Ticker: SCR FP Equity
+Date: 2018-10-24
+
+Q3 2018 Earnings Call
+Company Participants
+FINAL
+
+Denis Kessler, Chairman & Chief Executive Officer
+François de Varenne, Chief Executive Officer-SCOR Global Investments
+Ian Kelly, Head-Investor Relations
+Mark Kociancic, Chief Financial Officer
+Paolo de Martin, Chief Executive Officer, SCOR Global Life
+Victor Peignet, Chief Executive Officer-SCOR Global P&C
+
+Other Participants
+Frank Kopfinger, Analyst
+James A. Shuck, Analyst
+Jonny Urwin, Analyst
+Kamran Hossain, Analyst
+Michael Haid, Analyst
+Thomas Fossard, Analyst
+
+Bloomberg Transcript
+
+Vinit Malhotra, Analyst
+
+MANAGEMENT DISCUSSION SECTION
+Operator
+Good day, ladies and gentlemen, and welcome to the SCOR Group Q3 2018 Results
+Conference Call. Today's call is being recorded. There will be an opportunity to ask
+questions after the presentation. In order to give all participants a chance to ask
+questions, we kindly ask you to limit the numbers of your questions to two.
+At this time, I would now like to hand the call over to Mr. Ian Kelly, Head of Investor
+Relations. Please go ahead, sir.
+
+Ian Kelly
+
+{BIO 19976646 <GO>}
+
+Good morning, everybody and welcome to the SCOR Group 2018 third quarter results
+call. May I please ask you to consider the disclaimer on page 2 of the presentation, which
+indicates that the financial results for the third quarter 2018 included in the presentation
+are unaudited.
+With this, I would like to give the floor to Denny Kessler, CEO and Chairman of the SCOR
+Group, who is joined on this call by the entire COMEX.
+
+Page 1 of 14
+
+
+
+Company N ame: SCOR SE
+Company Ticker: SCR FP Equity
+Date: 2018-10-24
+
+Denis Kessler
+
+{BIO 1498477 <GO>}
+
+FINAL
+
+Thank you, Ian and good morning, everyone. The first nine months of 2018 fully
+demonstrates the relevance of SCOR strategy and the resilience of the business model.
+When you look at the results we presented this morning, we delivered, one, sustained
+premium growth that the groups targeted geographical areas and business lines. Two,
+excellent technical results in both Life and P&C, and in both Treaty and Specialty. Three,
+continuing improvement in the income yield. Four, a stable cost ratio that bears witness to
+the efficiency of the Group's operations. Five, excellent operating cash flow. Six, a high
+solvency ratio marginally above the optimal range.
+SCOR's global footprint, Tier 1 status and go-to-market approach allows the Group to
+continuously expand and deepen its franchise globally. At present, co-operating 38 offices
+worldwide and covers risk in 160 countries, serving more than 4,000 clients. We expect to
+cross the €15 billion mark of gross written premiums in 2018, mainly driven by a
+development in the U.S. on the P&C side and in Asia Pacific on the Life side. This translates
+into a 10% annual growth rate since 2009 at current exchange rates.
+
+Bloomberg Transcript
+
+Let's move to the next slide. SCOR recorded a very solid performance in the first nine
+months of 2018. First, the Group delivered strong continuous growth. Gross written
+premium stand at more than €11.3 billion in Q3 2018 year-to-date, up 7.4% at constant
+exchange rates compared to the same period last year. Strong growth is driven by an
+expanded and deepened franchise of the Group's two business engines. Life and P&C
+business is 9.2% and 5% respectively at constant exchange rates, which is the right metric.
+Second, the Group delivered a strong set of technical results, the P&C net combined ratio
+of 93.6%, robust Life technical margin of 7% and a return on invested assets of 2.5%,
+driven by a continuing increase in the investment income yield. It is worth highlighting that
+despite the high level of natural catastrophic events across the various regions in the third
+quarter, the P&C combined ratio year-to-date is tracking better than a strategic plan
+assumption.
+Last but not least, the Group solvency ratio stands at 222% at the end of the third quarter,
+slightly above the optimal range of the solvency scale, driven by robust capital generation.
+Putting the impact to the U.S. tax reform, gross net income for the first nine months of
+2018 would stand at €405 million, corresponding to a return on equity of 8.9%, higher
+than the profitability target set out in the Vision in Action plan.
+Given the high frequency of natural catastrophic events in the third quarter, this
+performance bears witness to the relevance of SCOR's strategy and its resilient value
+creation capability. The Group is in very good shape and we are well on track to meet the
+targets of Vision in Action.
+Finally, SCOR continues to execute its €200 million share buyback program as planned.
+Half of the program has been executed and completion remains on track for July 2019. In
+
+Page 2 of 14
+
+
+
+Company N ame: SCOR SE
+Company Ticker: SCR FP Equity
+Date: 2018-10-24
+
+FINAL
+
+the meantime, we're pursuing the optimization of our legal entities, the merger of the 3
+SEs will be completed as planned in the first quarter of 2019.
+Let's go to slide 5. SCOR is uniquely positioned to accelerate its franchise expansion and
+pursue its strong value creation. All three engines are powering ahead. SCOR Global P&C
+strengthened its position in the U.S. where we continue to enjoy a steady expansion with
+the ability to regain a market position that is commensurate with the global position and
+Tier 1 status. At the moment, we're around number 10 in the U.S. versus being number 5
+globally. Besides SCOR's Tier 1 status and prime rating are major assets to capture
+profitable growth opportunities in a more favorable P&C market environment.
+Asia-Pac, SCOR Global Life records exceptional growth, close to 30%, 3-0, per annum,
+successfully delivering on Vision in Action and leveraging the quality of the franchise to
+outgrow the market.
+Finally, SCOR Global Investment expects to strongly improve its financial contributions to
+the Group's bottom line from a higher recurring yield. Thanks to the positioning of our
+invested assets portfolio, which remains highly liquid, the expected rise in interest rates
+would be very positive for SCOR.
+All of the three engines have additional room to contribute positively to improving the
+return on equity with a continued focus on value creation.
+
+Bloomberg Transcript
+
+Let me now hand over to Mark for the financial details. Mark, the floor is yours.
+
+Mark Kociancic
+
+{BIO 17852409 <GO>}
+
+Thank you, Denny, and good morning, everyone. So, let's begin with slide 6, and I'll walk
+you through the financial highlights of the third-quarter results. SCOR underwrote €11.3
+billion of gross written premiums in the third quarter of 2018, representing a 7.4% increase
+over Q3 2017 at constant exchange rates or 1.9% at current exchange rates.
+This top-line growth was generated by the strong contribution of both business engines.
+SCOR Global P&C grew by 5%, and SCOR Global Life by 9.2%, both at constant exchange
+rates. P&C net combined ratio for the first nine months of the year stands at 93.6%,
+including a 7% nat cat ratio due to heavy nat cat activity during the third quarter. The Life
+technical margin reached 7.0%, also in line with the Vision in Action assumption. Finally,
+SCOR Global Investments delivered a strong return on invested assets of 2.5%, driven by
+a recurring yield of 2.3% in the third quarter 2018 year-to-date.
+Overall, SCOR's net income for Q3 was €80 million due to the elevated nat cat ratio of
+16.5% within the quarter. Year-to-date, net income stands at €342 million with an ROE of
+7.6%. Excluding the impact of the U.S. tax reform charge booked in the second quarter,
+the net income would stand at €405 million, and this translates into a normalized return
+on equity of 8.9%, well in line with our Vision in Action profitability target of 800 basis
+points above the five-year risk-free rates.
+
+Page 3 of 14
+
+
+
+Company N ame: SCOR SE
+Company Ticker: SCR FP Equity
+Date: 2018-10-24
+
+FINAL
+
+SCOR's solvency position remains very strong at 222% at the end of Q3, marginally above
+the optimal range of our solvency scale and at 219%, if we were to take into account the
+execution of the remaining part of our share buyback program.
+Now, moving on to slide 8, SCOR generated very strong cash flows of €811 million. SCOR
+Global Life benefits from strong cash flow, in particular, due to positive impacts from
+financial solution deals in the United States, while SCOR Global P&C also provides robust
+cash flow. Overall, the total liquidity of the Group is strong and stood at €1.2 billion at the
+end of September 30th, in line with our asset allocation assumptions.
+Let me now hand over to Victor, who will give you more details on the P&C results.
+
+Victor Peignet
+
+{BIO 6287211 <GO>}
+
+Bloomberg Transcript
+
+Thank you, Mark, and good morning. As an introductory remark, I'd like to say that the
+market we have been in for the last seven years is now leading to the emergence of
+increasingly differentiated technical performances between insurers and reinsurers. It is,
+therefore, becoming increasingly relevant to assess each company's technical
+performance on its own merit without putting all of us in the same basket and without
+systematically trying to find common ground, trends and fortunes that may not actually
+exist.
+For us, whilst Q2 was characterized by abnormally high activity in terms of man-made
+losses, Q3 has seen, first, a return to normal for man-made loss activity which is reflected
+by the technical performance of business solution; and second, significantly higher than
+average net cat loss activity.
+Q3 2018 events, Jebi, Florence, Mangkhut and Trami are assessed based on the latest
+claims information available. Considering the nature and the magnitude of these recent
+events, you will appreciate that at this point in time, there is a significant real uncertainty in
+these estimates.
+Again, for us, all in all, the performance on a year-to-date basis continues to be excellent
+with a net combined ratio of 93.6% and a growth of 5% at constant exchange rates. This
+growth continues to be fueled mainly by Treaty reinsurance in the U.S., but also, to a
+lesser extent, by Treaty reinsurance in Asia and business solution, thanks to our leading
+positions on major projects mainly related to infrastructure.
+You'll have noticed that we've processed €60 million of reserve release in this quarter
+corresponding to 1.5 percentage points of net combined ratio on a year-to-date basis. We
+are currently conducting our annual analysis of where our book reserve stands versus the
+best estimate and we believe that net of these releases our margin above best estimate
+at the end of this year will be at a similar level to the end of last year. These reserve
+releases are generated in long tail lines, namely facultative casualty (00:12:11), inherent
+defects insurance, and French and UK professional liability, with a good spread over a
+number of underwriting years.
+
+Page 4 of 14
+
+
+
+Company N ame: SCOR SE
+Company Ticker: SCR FP Equity
+Date: 2018-10-24
+
+FINAL
+
+You will also have noticed that on a normalized basis the net combined ratio stands at
+94.1% on a year-to-date basis, which confirms what we've been indicating about the net
+combined ratio range, at which we operate across the entire portfolio. At this point, it is
+worth mentioning that the normalized net combined ratios of 94.1% on a year-to-date
+basis and 92.1% for Q3 both benefit from around €30 million of positive development in
+Q3, in the same long tail lines that generated the reserve releases.
+Just like the reserve releases, the positive developments are spread over a number of
+underwriting years, which illustrates our disciplined underwriting and our prudent
+reserving. This means that our aim to maintain our net combined ratio at around 95% is
+realistic. It's also realistic because we expect two ongoing movements that we're currently
+observing to balance each other out. On one hand, we may have to slightly adjust our nat
+cat budget when planning for 2019 and the following years.
+That being said, our nat cat net ratio stands at 7% on a year-to-date basis at the end of
+Q3, which even with Michael (00:13:36) already factored in for Q4 does not call our 6%
+budget into question in a big way. On the other hand, we are seeing the positive effects
+of the pricing improvement that we have obtained across the board in recent years,
+gradually materializing in the technical performance, full improvement of the net attritional
+ratio. This in mind, we are entering the renewal season in a very sound situation which
+allows us to carry on with the same underwriting policies and to continue to offer the
+business consistency and continuity that are so essential in our relationships with our
+clients.
+
+Bloomberg Transcript
+
+I will now hand over to Paolo for the presentation of the Life division results.
+
+Paolo de Martin
+
+{BIO 15930577 <GO>}
+
+Thank you, Victor. SCOR Global Life (00:14:20) delivers a very strong performance in the
+Q3 2018 both in terms of growth and profitability. In the first nine months of 2018, we
+recorded gross written premiums of €6.7 billion representing an increase of 9.2% at
+constant exchange rate or 3.7% at current exchange rate. This strong growth is driven by
+the expansion of our protection franchise business in Asia-Pacific which has grown at 29%
+per annum since 2016, in particular in China, South Korea, Japan. Asia-Pacific is now
+representing a material share of the Life division both on premiums and results.
+Growth in Life, as you know, is also being supported by new financial solution deals which
+reflect the strength of the teams that we've built in this line of business. Going forward,
+we expect the full-year 2018 gross written premium to normalize down in line with the
+Vision in Action assumptions or potentially slightly above.
+On the profitability side, we see a strong increase in the net technical results standing at
+€462 million, up 8.5% at constant exchange rate. The technical margin is solid at 7% for
+the first nine months, in line with the Vision in Action assumption. Performance of the inforce portfolio is in line with expectations and the new business underwritten continues to
+exceed the group ROE target.
+
+Page 5 of 14
+
+
+
+Company N ame: SCOR SE
+Company Ticker: SCR FP Equity
+Date: 2018-10-24
+
+I'll now hand over to François for details on our investment strategy.
+
+FINAL
+
+François de Varenne
+Thank you, Paolo. Moving on to slide 11, SCOR's total investment portfolio reaches €27.6
+billion at the end of September with an invested asset portfolio of €19.4 billion compared
+to €19 billion at the end of June, mainly driven by strong cash flows. The positioning of the
+investment portfolio is in line with the Vision in Action target asset allocation. Liquidity is
+stable at 5% of the invested assets, in line with the target level defined for the strategic
+plan.
+
+Bloomberg Transcript
+
+The share of corporate bond in the invested asset portfolio is stable compared to the
+previous quarter at 49%, close to the maximum of 50% designed for the plan. And the
+duration of the fixed income portfolio is at 4.5 years compared to 4.6 years at the end of
+June. Our fixed income portfolio remains a very high quality with an average rating of A+
+and highly liquid. Indeed, at the end of September, expected financial cash flows from the
+fixed income portfolio over the next 24 months stand at €5.5 billion, allowing SCOR to
+benefit from increasing our investment rate. SCOR has no exposure to Italian government
+bonds.
+SCOR Global Investments deliver a 2.5% return on invested assets for the first (00:17:05)
+nine months of the year, which is supported by a continuing increase in income yield, 2% in
+2016; 2.1% in 2017; and now 2.3% during the first nine months of 2018. During the last
+quarter, our income yield reaches 2.5%, highlighting the relevance of the portfolio
+rebalancing implemented since the launch of the strategic plan. We benefit from an
+improved investment yield at 3% at the end of September. Under current market
+condition, we expect the annualized return on invested assets to be in the upper part of
+the Vision in Action 2.5% to 3.2% range both for full year 2018 and over the entire
+strategic plan. This level could be achieved, thanks to the disposal of a significant equity
+co-investment that might be completed by the end of the year.
+With this, I will hand it over to Ian Kelly for the conclusion of this presentation.
+
+Ian Kelly
+
+{BIO 19976646 <GO>}
+
+Thank you very much, François. On page 12, you will find the forthcoming events
+scheduled for February next year including the P&C January 2019 renewals call and the
+SCOR Group 2018 full-year results presentation. You can see the upcoming conferences,
+which we are planning to attend during the remainder of this year.
+With this, we can start the Q&A session.
+
+Q&A
+Operator
+We will now take our first question from Kamran Hossain of RBC. Please go ahead, sir.
+Page 6 of 14
+
+
+
+Company N ame: SCOR SE
+Company Ticker: SCR FP Equity
+Date: 2018-10-24
+
+Q - Kamran Hossain
+
+{BIO 17666412 <GO>}
+
+FINAL
+
+Hi. Morning, everyone. Thanks for taking my question. So, firstly, on the – I guess on the
+Q3 cat losses, were any of them surprising and do you have an indication of what the
+return period for the losses during the quarter were because (00:19:26) interested in that.
+And then I guess following on from that, any thoughts on pricing going into January given
+the losses you've had plenty of them this quarter as the year-to-date is still making a very
+decent margin, so any updated thoughts on that since Monte Carlo? Thank you.
+
+A - Denis Kessler
+
+{BIO 1498477 <GO>}
+
+Victor?
+
+A - Victor Peignet
+
+{BIO 6287211 <GO>}
+
+Bloomberg Transcript
+
+On the return period, no, we have not completed our studies on that. Well, it's obvious
+that you need to go – except last year, you need to go back to 2011, 2012, see the same
+sort of ratios in our portfolios. So it's certainly every quarter. Regarding the pricing, well, I
+think, first, I insist on that, the situation of each and every company is very specific, and I
+think what we are enjoying at the moment is not the same situation for everyone.
+In addition, well, the number of lines of business that are in deficit on a worldwide basis
+has reached a level that is difficult to imagine that we can tolerate that on a longer basis.
+So I think the pricing improvement, in my opinion, will have to continue. They will have to
+continue on a very focused basis line by line and market by market and, more importantly,
+client by client. I think there are currently (00:20:52) conferences going on, and there are
+a lot of remarks that are made by different actors in there which, in my opinion, describe
+pretty well the situation whereby, I mean, more and more with the pricing reinsurers, the
+leading markets, while discussions are becoming bilateral between the client and the
+reinsurers on a global basis, well, the entire business worldwide or in the region where
+they operate.
+So I think, as I said, we are entering the renewal season in a pretty good position. We
+know where we are. We are – as you say, we are good at the moment, but we know what
+it takes to be good at the moment, and we believe that in a number of areas and the
+latest areas to be highlighted is certainly the large corporate business in the downstream
+area, petrochemical refining, where the number of losses this year has piled up to a very,
+very high level. So those lines of business or those industry sectors will have to be –
+continue to be rectified and corrected.
+
+Q - Kamran Hossain
+
+{BIO 17666412 <GO>}
+
+Thanks for the color, Victor.
+
+Operator
+We will now take our next question from James Shuck of Citi. Please go ahead.
+
+Page 7 of 14
+
+
+
+Company N ame: SCOR SE
+Company Ticker: SCR FP Equity
+Date: 2018-10-24
+
+FINAL
+
+Q - James A. Shuck
+
+{BIO 3680082 <GO>}
+
+Good morning. Two questions for me, please. Firstly, just in terms of the U.S. growth on
+the P&C side that you're targeting, I think you're kind of deemphasizing workers' comp,
+but really looking to grow in general liability. I'm just interested to hear a bit more about
+some of the claims inflation patterns that we're seeing there, largely driven by whether
+it's wage inflation or whether it's due to other kind of liability and kind of (00:22:46) kind
+of issues. But are you still confident that you can still grow? Is this the right time to be
+growing in that particular line of business?
+Second question, could you update on where you are in terms of S&P surplus capital
+versus kind of a AA level? They've recently made some changes to their modules,
+particularly around mortality and around ALM requirements. So just interested to hear
+what your surplus is over that level and how that has evolved over the year, please? Thank
+you.
+
+A - Victor Peignet
+
+{BIO 6287211 <GO>}
+
+Bloomberg Transcript
+
+Well, our growth in the U.S. is a growth on the portfolio of about 250 clients with which we
+have established relationship. So it's not a growth across the board. Again, it's a very
+focused growth, deepening the relationships and increasing the alliance with selected
+clients. So we are very comfortable with the way we grow and the market segmentation
+that we've done. We continue to have, well, basically a no-go on workers' compensation.
+We do some of it within package of regional companies, but it's a very, very limited
+amount of workers' comp that we have.
+Regarding inflation. I think we carry like other insurers. I'm sure, we carry very thorough
+studies on an annual basis regarding the different parameters and the loss portfolios. So
+we have seen inflation. We have repeatedly said last year and the year before that the
+price increases are barely covering this inflation and that we are not at the moment in a
+situation where the price increases are restoring margin above the loss expectation,
+which is why we've grown much less than what we expected to grow. And we've passed
+on certain large contracts that have been offered to the market because we thought that
+basically the terms and conditions were not reflecting the situation of the market.
+But what is encouraging is that the primary insurers in the U.S. are totally cognizant of the
+situation and they are themselves with or without the pressure of reinsurers, sometimes
+without, unfortunately, they are themselves, well, going on with corrections of the market.
+So I think the problems are known and they are being dealt with, probably not at the
+depth and the speed we would like to see, but it's encouraging.
+
+A - Denis Kessler
+
+{BIO 1498477 <GO>}
+
+Thanks. Mark, on the solvency position of the group.
+
+A - Mark Kociancic
+
+{BIO 17852409 <GO>}
+
+So, for the S&P capital position, we've had pluses and minuses as you point out from
+changes in the S&P model, but we still remain firmly above – well above the AAA
+
+Page 8 of 14
+
+
+
+Company N ame: SCOR SE
+Company Ticker: SCR FP Equity
+Date: 2018-10-24
+
+threshold in order to maintain our AA- rating. So it's quite secure, not something that I am
+particularly concerned about as we do our operating plan.
+
+FINAL
+
+Q - James A. Shuck
+
+{BIO 3680082 <GO>}
+
+Would you actually be able to quantify that number? I mean most of your peers do
+actually kind of give some kind of guidance about where you are in that. Because it's
+interesting to think about that buffer relative to your Solvency II ratio. So is it more of a
+limiting factor to you and ideally if you could quantify, that'd be great, please?
+
+A - Mark Kociancic
+
+{BIO 17852409 <GO>}
+
+Yeah, it's an estimate obviously, but it's our estimate, not S&P's. It's several hundred
+million above the AAA threshold.
+
+Q - James A. Shuck
+
+{BIO 3680082 <GO>}
+
+Okay. Thank you very much.
+
+Operator
+We will now take our next question from Jonny Urwin of UBS. Please go ahead.
+
+Bloomberg Transcript
+
+Q - Jonny Urwin
+
+{BIO 17445508 <GO>}
+
+Hi. Good morning. Thanks. Just two for me. So, just firstly, just to clarify the message that
+you you're giving on the P&C combined ratio for next year. So, is my interpretation correct
+that the stronger attritional performance we're seeing today might be offset a bit next
+year by a higher cap budget? And then just to clarify again, you mentioned that the 92.1%
+normalized for Q3 was boosted by some positive reserve development or is that actually
+a normalized number? I didn't catch that, sorry.
+And then secondly, have your preparations for the 1st of January renewals been disrupted
+at all by the recent Covéa approach? Thank you.
+
+A - Victor Peignet
+
+{BIO 6287211 <GO>}
+
+I think you read the message quite clearly. I think what we are saying in a nutshell is that
+we have been traveling at 94.5%, 95% combined ratio – net combined ratio, and we
+believe that next year considering the nat cat activity and also the penetration of nat cat
+business in certain areas of the world, the increased frequency of midsized severity, we
+will probably – while it all depends also on our (00:27:36) program, we will renew, but I
+think basically it will renew as is. So we will be driven to probably slightly increase our cat
+budget, which will be compensated by the continued improvement of attritional, thanks to
+the pricing corrections that we have already basically benefited from and will continue
+from, benefit from. So overall, I think the 95%, well, as I said, is for us a very realistic
+traveling sort of run rate for our combined ratio at the moment.
+Regarding the 94.1% year-to-date and the 92.1%, those are two normalized combined
+ratio. But well, they both benefit from positive development. Positive development has
+Page 9 of 14
+
+
+
+Company N ame: SCOR SE
+Company Ticker: SCR FP Equity
+Date: 2018-10-24
+
+FINAL
+
+got nothing to do with the margin above best estimate. Now, just positive development
+that we see as the years develop. And some of those positive development have been
+taken in the accounts of Q3. So if you – and I am talking about €30 million of positive
+developments, so if you reintegrate those positive developments in the normalized, well,
+your normalized would be again between the 94.5% and the 95%. So I think all of this to
+me is showing that there's a lot of consistency in our figures and a lot of stability in our net
+combined ratio.
+Regarding Covéa, I think this has got absolutely no bearing whatsoever on the renewals.
+It's business as usual for us and for our teams. Everyone is from the clients' side and from
+our side, we are busy discussing about next year, and Covéa doesn't at all come up in the
+conversations.
+
+Q - Jonny Urwin
+
+{BIO 17445508 <GO>}
+
+Thank you, very clear.
+
+Operator
+We will now take our next question from Thomas Fossard of HSBC. Please go ahead.
+
+Bloomberg Transcript
+
+Q - Thomas Fossard
+
+{BIO 1941215 <GO>}
+
+Yes. Good morning. Two question on my side on the (00:29:40) P&C. First one would be
+regarding to HIMM losses, just to better understand if you've seen any change to your
+early estimate made last year, how that has trended so far and, actually, if you could
+mention also how the – maybe the buffer you had at the start of the year may have
+changed positively or negatively?
+And the second question would be on the gross written premium growth on the P&C
+resale. So, year-to-date and constant FX basis, you're plus – you're at plus 5%. But I kept
+in mind from the September Investor Day and looking again, this morning at slide 123 of
+the Investor Day that you were more guiding towards something which was around 7% to
+8% on a full-year basis. So, I mean, should we expect a pretty significant pickup in Q4
+based on the nine months' results? Thank you.
+
+A - Denis Kessler
+
+{BIO 1498477 <GO>}
+
+Well, on HIMM, first of all, we've paid about 50% of what we have booked in in the
+reserves. Secondly, well, for the moment, we see indications that are positive, in the
+sense that we still have a buffer, or a cushion of 10% to 15% between our reserve booked
+and the sum of all the information that are providing to us by the clients and the insurers.
+So, this discussion, we've kept it. We've decided to stay prudent and for the moment,
+we've not touched it.
+There will be a point in time where we will take a view on that, but for the moment, we
+leave it as it is, and we are pretty confident that more and more, as time goes that, yes,
+there will be positive out of discussion. But for the moment we've kept it and it is very
+stable. So, we are pretty satisfied with what we did in the very first place. I think our
+Page 10 of 14
+
+
+
+Company N ame: SCOR SE
+Company Ticker: SCR FP Equity
+Date: 2018-10-24
+
+reserving has been very solid, continues to be, and we'll see in the quarters to come
+whether we take a view or not on this, or when we take a view on this question.
+
+FINAL
+
+Regarding the premium, we are at plus 5%. Well, difficult to say how much will the end of
+Q4 will be. But I would think that, well, what we what we gave as an indication but
+probably still stands may be a bit softer than that, maybe 6% rather than 7% or 8%.
+
+Q - Thomas Fossard
+
+{BIO 1941215 <GO>}
+
+Okay. Thank you.
+
+Operator
+We'll now take our next question from Frank Kopfinger of Deutsche Bank. Please go
+ahead.
+
+Q - Frank Kopfinger
+
+{BIO 16342277 <GO>}
+
+Yes. Good morning everybody. I have also two questions. My first question is for François
+on the expected realized gains. You said that these disposals might be completed, so is
+there any risk that this could be postponed probably also due to the weak equity
+markets? But any color on this would be also helpful.
+
+Bloomberg Transcript
+
+And then, secondly for Victor on hurricane Michael, as you mentioned, do have already
+any view on the magnitude of potential losses here?
+
+A - François de Varenne
+On the first question, on the expected realized gain, so again, this is a core investment
+within the equity portfolio. I have strong confidence that the sponsor will execute the
+transaction before the end of the year.
+
+A - Denis Kessler
+
+{BIO 1498477 <GO>}
+
+No, no Victor on Michael. No, it's Victor on Michael.
+
+A - Victor Peignet
+
+{BIO 6287211 <GO>}
+
+Yes. Well, it's difficult, it's more a feeling that I'm going to give than really is something
+that is based on the information. I would think myself that Michael has got a potential,
+even though we are not on cat specialist in Florida. But Michael has got the potential to be
+maybe slightly higher than Florence. But I think our take on Florence at the moment is
+probably a bit conservative. Florence seems to be trending downward. So, I can't give you
+a figure at the moment, but the feeling is, well, maybe slightly higher but – than Florence,
+but Florence maybe a bit too high at the moment in our reserves.
+
+Q - Frank Kopfinger
+
+{BIO 16342277 <GO>}
+
+Okay. Perfect. Thank you.
+
+Page 11 of 14
+
+
+
+Company N ame: SCOR SE
+Company Ticker: SCR FP Equity
+Date: 2018-10-24
+
+Operator
+We will now take our next question from Vinit Malhotra of Mediobanca. Please go ahead.
+
+FINAL
+
+Q - Vinit Malhotra
+
+{BIO 16184491 <GO>}
+
+Yes. Good morning. So, Vinit here from Mediobanca. Two P&C questions, please, for me.
+First is on the – so, Victor, this traveling run rate of 95%, of going forward as well. Would it
+not benefit a bit from the price increases achieved, or would you say that some of those
+price increases might be expected to go into the reserve buffers? That's the first
+question. So for next year, I mean.
+Second question is, I just noticed that the ceding premiums seem to have gone up quite a
+bit in the third quarter on the P&C re side. Is there something we should note? Is it –
+because it doesn't just look like another cat bond or there seems to be some more thing
+there, if it's just an accounting thing, please could you clarify? Thank you very much.
+
+A - Denis Kessler
+
+{BIO 1498477 <GO>}
+
+Bloomberg Transcript
+
+Well, we have repeatedly said for the first two quarters that we had expanded our
+requisition in particular our proportional requisition which has got the effect on the ceded
+premium, on the earned net premium as well as on the expense ratio. So, there's no
+secret about that. We have expanded the perimeter of our proportional requisition and
+we have been very open about that.
+Regarding the 95%, well, as I said, I mean, we are looking at our cat budget and we think
+that our cat budget may have to be slightly increased. If we increase the cat budget, well,
+we believe also that our attrition will continue to improve, thanks to the translation of
+pricing improvements into the P&L. So – and for the moment, well, our indication is that,
+we should have those two phenomenon balancing out. Hence, the stability around 95%.
+
+Q - Vinit Malhotra
+
+{BIO 16184491 <GO>}
+
+Very clear. Thank you very much.
+
+Operator
+We will now take our next question from Michael Haid. Please go ahead.
+
+Q - Michael Haid
+
+{BIO 1971310 <GO>}
+
+Thank you very much. Good morning. Two questions also. You mentioned that every
+company – every reinsurance company is different. And when I look at the SCOR
+combined ratio, I noticed you have a low attritional ratio in the third quarter. And also, I
+noticed that you have a low commission ratio, 23.4% only. Is that also driven because of
+your retro program, or what is the reason for that? I'm not so sure about that.
+And the other thing is, you mentioned the €30 million positive development and,
+obviously, the reserve releases of €60 million. Can I just add up these two figures to arrive
+Page 12 of 14
+
+
+
+Company N ame: SCOR SE
+Company Ticker: SCR FP Equity
+Date: 2018-10-24
+
+at the normalized combined ratio for the third quarter? How sustainable is positive
+development of €30 million? I think it's just third quarter event, right?
+
+FINAL
+
+A - Denis Kessler
+
+{BIO 1498477 <GO>}
+
+Positive development is outside of the normalized. Clearly, the normalized is reserved
+release and nat cat budget. So, I mean, the positive development I mentioned, because
+you have seen that our normalized is slightly lower than our normalized of the previous
+quarters, but there is a quarter reason for that. So, I think our normalized on the run rates
+continues to be between 94% and 95%, but you've got a bit of positive development this
+quarter, positive development of the best estimate itself and not of the margin over best
+estimate. So, that's why we provided that information, so that while we are clear on the
+fact that on our view, our normalized is 94.5% to 95%, not 94% to 94.5%. I know that Vinit
+is trying to drive us downwards by all means but I prefer to be clear of where we are.
+
+Q - Michael Haid
+
+{BIO 1971310 <GO>}
+
+But should we expect the positive development not in each and every quarter or...
+
+A - Denis Kessler
+
+{BIO 1498477 <GO>}
+
+Bloomberg Transcript
+
+We have a positive development every quarter, but what I'm saying is that this quarter, we
+have decided to take a view on certain positive development, and we are having positive
+development this quarter that has evolved the, say, average sort of a positive
+development we have on each and every quarter.
+
+Q - Michael Haid
+
+{BIO 1971310 <GO>}
+
+Okay. Perfect.
+
+A - Denis Kessler
+
+{BIO 1498477 <GO>}
+
+With all the hike. That's all. But that explains why our normalized is a bit lower.
+
+Q - Michael Haid
+
+{BIO 1971310 <GO>}
+
+And the lower commission ratio?
+
+A - Denis Kessler
+
+{BIO 1498477 <GO>}
+
+The commission ratio, yeah, you're right. I mean you found the reason. We cede more
+proportional, but the proportional is higher commission, so you cede something which is
+acquired at a higher commission. Oh, yeah, the – mathematically, the effect is you lower a
+bit your commission level, yes.
+
+Q - Michael Haid
+
+{BIO 1971310 <GO>}
+
+And is the lower commission ratio then kind of sustainably lower commission ratio for the
+next quarters?
+
+A - Denis Kessler
+
+{BIO 1498477 <GO>}
+Page 13 of 14
+
+
+
+Company N ame: SCOR SE
+Company Ticker: SCR FP Equity
+Date: 2018-10-24
+
+I think at 25%, you have a good proxy of the commission ratio going forward.
+
+Q - Michael Haid
+
+{BIO 1971310 <GO>}
+
+FINAL
+
+Perfect. Thank you very much.
+
+A - Denis Kessler
+
+{BIO 1498477 <GO>}
+
+You have it in one of the footnotes by the way.
+
+Operator
+It appears there are no further questions at this time. Mr. Kelly, I'd like to turn the
+conference back over to you for any additional or closing remarks.
+
+A - Ian Kelly
+
+{BIO 19976646 <GO>}
+
+Okay. Thank you very much for attending this conference call, but please do not hesitate
+to call us, should you require any further information. And a short reminder for the sellside analysts, we will hold our usual roundtable discussion at our offices this evening
+starting at 6:00 PM European Time. Thanks a lot, and have a nice day.
+
+Operator
+
+Bloomberg Transcript
+
+This concludes today's call. Thank you for your participation. You may now disconnect.
+
+This transcript may not be 100 percent accurate and may contain misspellings and other
+inaccuracies. This transcript is provided "as is", without express or implied warranties of
+any kind. Bloomberg retains all rights to this transcript and provides it solely for your
+personal, non-commercial use. Bloomberg, its suppliers and third-party agents shall
+have no liability for errors in this transcript or for lost profits, losses, or direct, indirect,
+incidental, consequential, special or punitive damages in connection with the
+furnishing, performance or use of such transcript. Neither the information nor any
+opinion expressed in this transcript constitutes a solicitation of the purchase or sale of
+securities or commodities. Any opinion expressed in the transcript does not necessarily
+reflect the views of Bloomberg LP. © COPYRIGHT 2022, BLOOMBERG LP. All rights
+reserved. Any reproduction, redistribution or retransmission is expressly prohibited.
+
+Page 14 of 14
+
+

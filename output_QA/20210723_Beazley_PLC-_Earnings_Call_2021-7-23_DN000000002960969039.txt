@@ -1,0 +1,2224 @@
+Company N ame: Beaz ley PL C
+Company Ticker: BEZ L N Equity
+Date: 2021-07-23
+
+S1 2021 Earnings Call
+Company Participants
+FINAL
+
+Adrian Cox, Chief Executive Officer
+Paul Bantick, Head of Global Cyber & Technology
+Sally Lake , Group Finance Director
+
+Other Participants
+Andreas van Embden, Analyst
+Andrew Ritchi, Analyst
+Ashik Musaddi, Analyst
+Faizan Lakhani, Analyst
+Freya Kong, Analyst
+Ian Pearce , Analyst
+Ivan Bokhmat, Analyst
+Kamran Hossain, Analyst
+Nick Johnson, Analyst
+Unidentified Participant
+
+Bloomberg Transcript
+
+Will Hardcastle , Analyst
+
+Presentation
+Operator
+Hello, everyone, and welcome to the Beazley's Interim 2021 Results Conference Call. My
+name is Emily, and I will be coordinating this call today. (Operator Instructions)
+And now, I have the pleasure of handing over to your host, Adrian Cox, CEO to begin.
+Adrian, please go ahead.
+
+Adrian Cox
+
+{BIO 16257010 <GO>}
+
+Good morning, everyone, and welcome to the Beazley interim results. I thought, I'll give a
+quick overview of what to expect this morning. I will start with the highlights of our halfyear numbers. I am quite pleased with them and following that, Sally will go through the
+numbers in a bit more detail Including the exhibits on capital and reserve strength that we
+know and love.
+We've been talking to a number of stakeholders this year and the two most frequent
+thematic questions that we get, concern our cyber business and our strategy, given the
+Page 1 of 36
+
+
+
+Company N ame: Beaz ley PL C
+Company Ticker: BEZ L N Equity
+Date: 2021-07-23
+
+FINAL
+
+new CEO. So after Sally, we will move on to the main event and forward answer the big
+cyber questions.
+Cyber insurance is our biggest business. It's about 15% of our premium overall and we
+launched our flagship cyber product Beazley Breach Response back in 2009. And at that
+point, I was running specialty lines which housed it and Paul was running the London
+international cyber business. So we've both been working on this together for a long time
+now and we are both quite excited about the prospects for it.
+This year, we've also been thinking through our strategy, though lastly, I will give a little
+detail on that. Spoiler alert, it is exciting but not revolutionary as well as some of the
+attributes of Beazley to which I'd like us to commit. And after that, we will have some time
+for Q&A.
+Before that though I'd like to begin by making a few introductory comments. At the start
+of the year, I wasn't expecting to be here doing this, but 113 days into my new role, I
+thought I'd share some reflections. The CEO role had always appealed to me, but I was
+genuinely enjoying being CUO and had certainly not expected this to happen this soon,
+but it's been fascinating getting exposure to different parts of the business and getting to
+know colleagues that I hadn't been spending too much time with before and I've
+genuinely loved every minute of the job so far.
+
+Bloomberg Transcript
+
+The executive team continues to evolve and I'm very pleased to welcome Troy Dehmann,
+our new COO, a couple of weeks ago, and I expect us to be able to announce the new
+CUO by the end of the summer.
+And I have to say I'm pleased with our performance so far in 2021. We've done a lot of
+hard work these last few years to improve our business mix, to concentrate on what we're
+good at, remediate or stop where we weren't performing as we should have done, and
+to invest into opportunity. And I think that work is beginning to reflect in the numbers that
+we show today.
+And it feels like we're beginning to get the old Beazley back. My role I think is to get
+people here enthusiastic about the opportunities that lie ahead and ensuring that the
+business has the capabilities and capacity to deliver. But I also have to say that we did
+misstep last year during 2020. We had underestimated our exposure to the pandemic
+assuming such a thing that would not cancel the events industry as completely and for as
+long as COVID-19 did. And it was also disappointing that we had to increase our COVID
+provisions last September.
+Unsurprisingly, I think that has impacted shareholders' confidence in us and our ability to
+do the hard things well. And one of my ambitions is to demonstrate to you over time that
+we merit your trust and that the Beazley you knew is the Beazley that you still have and
+that the future prospects for us are generally exciting.
+So with that then, let's move on to the results. Headline profit of $167.4 million, which
+generates return on capital of 15%, which is our target across cycle returns, so that's
+Page 2 of 36
+
+
+
+Company N ame: Beaz ley PL C
+Company Ticker: BEZ L N Equity
+Date: 2021-07-23
+
+FINAL
+
+good, and a decent level of growth. We added about 4% of exposure growth in the
+second quarter. So although we continue to take exposures down in some areas including
+cyber, it's being more than offset by the businesses that we are looking to grow.
+Combined ratio is in the mid-90%s, which is what we had guided to and we have an
+accelerating rate increase although with different drivers to last year which Sally will go
+through a little bit later. Our COVID provisions remain unchanged at $340 million. The
+world continues to open up, albeit in somewhat of a staccato fashion, but that was the
+central assumption we had when we put together the $340 million.
+We intend to pay a dividend at year-end all other things being equal, which will take into
+account the 2021 results as a whole, rather than just the second half. And at that point at
+year-end, we will also share the future dividends strategy.
+And with that over to you Sally.
+
+Sally Lake
+
+{BIO 20925273 <GO>}
+
+Bloomberg Transcript
+
+Thank you, Adrian, and good morning, everyone. My name is Sally Lake and I am the
+Beazley Finance Director. I am going to get to the right slide. I'm going to take you
+through some of the more details on the financials that we are reporting today focusing
+on investments, reserves and capital, before I pass over to Paul to speak in more detail
+about cyber.
+This half we have seen an increase in reserve releases with the underwriting work
+performed in recent years beginning to show through. The investment return is very
+similar in dollar terms to this time last year. However, the drivers are rather different. And
+finally, I will give an update on our capital position which remains in the top half of our
+preferred range.
+Before that, here is some more detail on the numbers. Adrian has already spoken about
+our top-line growth of 22%, this is less after we allow for reinsurance, as just over a year
+ago we purchased some new proportional reinsurance on our specialty lines and CyEx
+book. We have also completed a loss portfolio transfer on our construction and
+engineering book which we stopped writing recently. And that's a one-off effect that
+happened in the first half of this year.
+Our net earned premium on which our combined ratio is based has grown by 14%. Our
+claims ratio improved significantly as this time last year we had incurred significant losses
+around COVID-19 first-party types. And the expense ratio has increased slightly in part
+due to the reinsurance effects I just mentioned but also given that sterling has
+strengthened compared to the dollar and a large part of our costs are in pounds this has
+also put some pressure on our expense ratio.
+And now, onto investments, so looking at our investment dispositions and how they have
+changed during the first half of 2021. Most noticeably, we've seen an increase in our
+sovereign bond holding with an equivalent reduction in the investment-grade corporate
+Page 3 of 36
+
+
+
+Company N ame: Beaz ley PL C
+Company Ticker: BEZ L N Equity
+Date: 2021-07-23
+
+FINAL
+
+debt portfolio. At the moment, we see the investment-grade spreads as relatively less
+attractive than in recent times and so the maturing bonds being reinvested into the highly
+liquid sovereign debt, improving our portfolio flexibility.
+Other changes at this summary level are modest. However, during the period we have
+performed a number of management actions to maximize the return within our relatively
+prudent risk appetite for investment. So what has this led to in terms of performance? So
+$83 million, or 1.2%, 2.5% annualized, the half one return is similar to last year.
+Low but rising yields created difficult conditions for bond markets and our fixed incomes
+produced a low albeit positive return in the first half, and that makes up around 85% of
+our assets. Our capital growth investments did much better returning nearly 8% year-todate as risk assets rallied, oiled by the improving economic outlook.
+
+Bloomberg Transcript
+
+Our tactical investment actions have also added value. We reduced duration as yields
+rose, held more equity exposure for some of the period and have added significant
+inflation-protected holdings to our fixed income portfolio as inflation expectations grow.
+Overall, we think it's a really good outcome in view of the market conditions and our risk
+appetite. In recent years only 2019 saw a materially better first-half return.
+Now, moving on to reserve releases and how they have evolved over time. This graph
+shows split by division and you can see that we are very pleased to see reserve release
+across all divisions for the first time since 2017. Since taking over in my role in 2019, I have
+really focused on ensuring that this graph gets to a better position though this outcome
+makes me very happy. This is a result of the underwriting action that the business has
+been taking for a number of years, and as a percentage of net earned premium, the
+releases are around 7%. And as you can see on the dotted line, this number continues to
+go in a pleasing direction.
+So that's looking back onto everyone's favorite graph, what we've got left in the tank.
+Though to remind everyone this graph compares reserves on our balance sheet to our
+internal actuarial estimate which in itself is not a best estimate and includes a level of
+margin. And we aim to hold 5% above this actuarial measure. The reason we show you
+this graph is to show how consistent we have been in our reserving strategy over time
+and 6.6% which is the number at half-year 2021 is very much in line with recent times.
+Though it's great to see this continuing despite improved reserve releases and just show
+you that we are continuing in exactly the same way as we reserve.
+Just before I head on to talk about capital, we just want to take a moment to review the
+rate change graph. Here you can see that the rate improvements have been impressive
+this year so far, with a real acceleration caused primarily by the dislocation in the cyber
+market. The rate change is 20% across all divisions over the past six months.
+Most divisions are seeing double-digit rate increases with CyEx seeing 44% rate
+improvement. So whilst we are continuing to grow the premium, the benefit of rates are
+being seen when we look at our capital requirements.
+
+Page 4 of 36
+
+
+
+Company N ame: Beaz ley PL C
+Company Ticker: BEZ L N Equity
+Date: 2021-07-23
+
+FINAL
+
+Since we last reported on capital, we have started allowing for the growth expected
+within our 2022 business plan within the numbers we show here. And whilst we continue
+to work on the business plan over this summer as usual, we are currently expecting similar
+growth in premiums next year as we planned for this year. And after allowing for this and
+allowing for other updates to the Solvency II positions, we are estimating a surplus of 23%
+above our Lloyd's economic capital requirement which is towards the top of our preferred
+range.
+Our capital resources remain unchanged with $550 million of Tier II debt, the banking
+facility of $450 million of which $225 million remains unutilized. And as Adrian mentioned
+earlier, the Board remains committed to a dividend payment at the end of the year after
+taking the whole year into account.
+With that, I will pass over for the main event, as we call it, and Paul on cyber.
+
+Paul Bantick
+
+{BIO 15979097 <GO>}
+
+Bloomberg Transcript
+
+Thanks, Sally. Good morning, everyone. For those who don't know me, my name is Paul
+Bantick. I am the Global Head of the Cyber and Tech business here at Beazley and I have
+the privilege of leading both the underwriters and the service team that help us provide
+with the services to our cyber clients globally. I've been here, as Adrian said, about 16, 17
+years, and have been part of the cyber team whilst it's been CyEx and also when it was
+previously SO when Adrian was leading SO.
+It's great that Sally and Adrian have asked me to give you an update this morning. I plan to
+cover a brief history of cyber insurance but also more importantly, its evolution and how
+it's evolved at Beazley, talk a little bit about how we've seen the threats evolved and what
+we've seen in the past year, give a highlight of some of the underwriting action that we've
+been taking, talk about some of the investments that we're making and then talk about
+what we see the cyber opportunity as moving forward.
+So I wanted to start by giving a bit of an overview of this slide, the evolution. You will see
+that this timeline really shows two things. It shows what's been going on in the outside
+world and what's been going on at Beazley as cyber evolved. Cyber really started in the
+US back in 2009, which is when we saw the first real drive and boom of demand for cyber
+insurance. And it was really focused on data breaches.
+At the time, there were lots of large companies that held a lot of data that were been
+attacked and their data was being stolen. And this was really coupled with regulation and
+law changes at the time, gave clients a greater need for insurance. They wanted help with
+protecting the bottom line and these things became very complex and very expensive.
+That complexity really gave us another opportunity. Clients weren't just worried about
+what these were costing. When they had a data breach they were saying how do we
+manage one of these, how do we respond to one of these, and that's where at Beazley
+we really saw this change in regulation and the change in what clients were looking for.
+And we developed a product and service around it. And that's when we launched the BBR
+Page 5 of 36
+
+
+
+Company N ame: Beaz ley PL C
+Company Ticker: BEZ L N Equity
+Date: 2021-07-23
+
+FINAL
+
+product, Beazley Breach Response. And we also created our Beazley Breach Response inhouse team. That's an in-house team that we have that is focused on helping clients
+manage events when they happen.
+So BBR was born and it was a product with (inaudible) service around it. As the market
+continued to grow and we wrote more business, we decided that we needed to invest
+early into several things. Examples of this were, we invested in our international business.
+We now have locations all around the world writing cyber business, we have underwriters,
+claims managers, and breach response people base around the globe.
+We also made big investments into risk management. One example is we created
+Lodestone. It's a cyber-service security company based in the US that's 100% owned by
+Beazley. Lodestone is now working with lots of our clients in the US, is up to 40 to 50
+employees and going very well.
+
+Bloomberg Transcript
+
+The BBR service team had a huge impact on our clients, but it also had a huge impact for
+Beazley. We were saving on our losses, we were saving 10% to 20% compared to the
+market on the costs we were incurring. This is because of the in-house model that we
+have. This in-house model really enabled us to bring in-house what people were
+outsourcing to law firms, forensics firms. We had a lot of capability in-house to do it
+ourselves and it's a model that we've invested in and continue to invest in.
+As '17 and '18 years rolled around, we saw data breaches became a little bit quieter. There
+were some very large ones that went on, that were the high-level names that we will see
+and know, but it was a little bit quieter. However, during this time, we continued to invest
+in that team because we knew cyber threats do change and they do change and come
+and go and we knew that team would bring even greater value moving forward.
+In recent times, as I'm sure many people know, the cyber threat has evolved and
+ransomware in '19 and '20 really is the big shift that we've seen. And ransomware has
+done several things. Number one, it brings new exposures. If you have a ransomware
+event, your systems are locked up, someone wants money to unlock your systems, you
+have to decide as a business what you want to do about that.
+That presents new issues and new challenges for clients. Do you pay a ransom, do not
+pay a ransom, but whilst this is going on, there is the business interruption risk that clients
+are going through. Clients are experiencing a reputation risk and business interruption.
+What this does is it brings a lot of new clients to the market looking for support with their
+cyber insurance. Previously, it was just companies that held data that were worried about
+cyber insurance and now any organization around the world has an exposure to
+ransomware or some of the newer cyber threats that we've seen.
+Breach response is still very, very critical for these ransomware events and I want to
+underline that. What we've seen is that clients are now seeing the value of that breach
+response team again. So the investments we made and we continue to make are bringing
+back those benefits that we saw as we did with data breach.
+
+Page 6 of 36
+
+
+
+Company N ame: Beaz ley PL C
+Company Ticker: BEZ L N Equity
+Date: 2021-07-23
+
+FINAL
+
+But as the threats evolve and as we see ransomware, we've also been looking at how do
+we help clients with resilience. Cyber threats change and evolve over time and what we
+need to do is help clients become more resilient, so that they are more protected and
+better protected from whatever cyber threats exist.
+During 2020, as we saw ransomware impacting our clients, we looked at what
+underwriting action we were going to take. And now, I want to give you a quick overview
+of some of that. We really divided it down into five key pillars, and we worked on this in
+second quarter of 2020, and it was fully deployed in Q3 2020. This is a huge investment
+that we made, both in terms of money, people, and a huge project to get off the ground.
+Firstly, we made a big investment into data analytics. We're working both with our own
+data, with third-party data, lots of other organizations. We've brought in specialist data
+scientists that are now part of the cyber team to look at based on our data are clients less
+or more likely to have a cyber event, what can we tell about them from the data we have,
+how can that help us drive both client's increase their resilience and also help with our
+underwriting.
+
+Bloomberg Transcript
+
+Secondly, we developed a ransomware application. This has been a critical piece of
+information that we've been using as part of the process. When we underwrite an
+account, every client tells us about the ransomware exposures and controls and mitigation
+that they have in place. We've been scanning organizations. This is done with third parties
+and it's an outside-in view and it's becoming quite common in the marketplace.
+We scan clients not only when we insure them, but we also scan them through their life
+cycle of the policy. If we see new vulnerabilities appear, these are the same kinds of
+vulnerabilities that bad actors are looking for. And so if we can see them, they can see
+them. So what we're doing there is notifying our clients about these vulnerabilities and
+helping them to remediate them, helping them to shut them down. Nine times out of 10,
+these are reasonably simplistic things to fix, things that should be addressed quite quickly
+and quite easily. We don't know how many ransomwares we may or may not have helped
+clients avoid, but we know that we've shut a lot of vulnerabilities down.
+These three things are really focused on frequency. We've been targeting frequency very
+hard. If we can help our clients be more resilient, we will therefore see less claims, and
+that has been our approach to addressing the ransomware issue.
+However, we have also done some limits management. We've looked at our book and
+we've targeted specific areas where we think we need to look at the limit we have
+deployed and we've been reducing some limits in certain sections. This will also help with
+severity.
+And then the last thing is, we were talking about the rating environment. Absolutely, the
+answer to cyber insurance is to address the frequency and focus on frequency. And as I've
+just explained, we've been making massive efforts with that, but we knew that rates
+needed to increase. So during 2020, we started to build the rate runway and increase
+
+Page 7 of 36
+
+
+
+Company N ame: Beaz ley PL C
+Company Ticker: BEZ L N Equity
+Date: 2021-07-23
+
+FINAL
+
+rates. And as Sally said, we're seeing some great rate changes currently, and I'll talk more
+about those shortly.
+The other bullet point I want to make is, we provide great support to underwriters
+globally. One of the things we did is we created a global dedicated cyber underwriting
+management team that reports to me. This has been invaluable because as we are taking
+action, as we're navigating a very fast-changing and volatile market, having a team
+focused on this and profitability and supporting the team through that process has been
+absolutely fantastic.
+And then, lastly, and more very excitingly, we are making a huge investment into risk
+management. Every client has their own view of risk. We scan them, they talk about their
+ransomware application, we look at our data, every client is different, everyone's got their
+own view of risk, everyone gets their own terms. We treat every client individually. And I
+think that's really important. And we want to continue to do that, but we want to continue
+to help with resilience.
+
+Bloomberg Transcript
+
+And so with that, we are making big investments into our cyber ecosystem. We've been
+to the exec [ph] during the course of the year and we've had approved significant
+investments to look at the Beazley cyber ecosystem and think about how can we help
+make risk management and resilience and support our clients and brokers much better
+with the cyber threats, the ones that we have now and ones that may exist in the future.
+So this is a diagram that shows you our cyber ecosystem and the investments we are
+making. And what I'd like to do is briefly touch on each of these areas. The first is the data
+and threat intelligence. I spoke about that. We've been doing some of that already, but
+we're now working with more providers, more data, more threat intelligence. We're
+overlaying that. As you will see there, Lodestone, the IT security company, they are now
+providing us with threat intelligence.
+We've established a threat intelligence network that involves people not just from
+companies that work in cybersecurity, but also we are working closely with people that the
+ex-government, ex-law enforcement. And we really are trying to make sure we stay on
+the front foot of the emerging threats for our clients.
+Secondly, risk management services. This is absolutely critical. It's one thing to have the
+threat information, it's another thing to figure out how you can help prevent these things
+happening. And so what we're doing is we're creating a lot of new risk management
+services for our clients. We're currently hiring a head of cyber services that will be focused
+on building out these risk management services that we do even further.
+Incident response, we've obviously been doing that since the very early years in 2009. We
+have a fantastic team that work on that around the globe. We are now launching that
+further. One example would be, internationally, we established Lodestone in the UK to
+help us do some incident response. We're looking at how we build out the model further
+afield. We have it in many countries, but we're making sure we have that response and
+that unit and that team everywhere where we need them.
+Page 8 of 36
+
+
+
+Company N ame: Beaz ley PL C
+Company Ticker: BEZ L N Equity
+Date: 2021-07-23
+
+FINAL
+
+And then we are looking at the US team and constantly thinking about how do we evolve,
+how do we make sure we're on the very front edge. We are looking at different services,
+different technology, and incident rooms that we can work with our clients on.
+And then, most importantly, underwriting and claims. How do we build what we are
+learning, what we are seeing, the risk management into our underwriting and claims
+processes going forward so that we continue to manage the frequency, continue to
+manage the book, and continue to help our clients maintain profitability.
+I think it's really important to say there's a lot of things on this page that I could talk about
+a lot of time. It's a huge project. it's an undertaking that's involving 80 to 100 people
+across the Company that are coming together to collaborate on this, which is fantastic.
+And I really appreciate everyone's support with that. But it's not about doing any one of
+these things well. It's about doing a lot of them well and put in them all together, that's
+where the magic is in this and that's what we are committed to and that's what we are
+committed to continue investing in.
+
+Bloomberg Transcript
+
+So what's the impact of the underwriting and all the action and the risk management that
+we've been doing, what's it having so far? We wanted to give you an early view. And I
+would say, it's still very early. We've been looking at accounts to have been found since
+October, that have been throughout the whole process. And although it's early days, we
+are seeing some positive signs.
+We've seen a 20% ransomware frequency reduction on a policy basis and we've seen a
+50% reduction on a per premium basis. And as Sally said, we've seen increase in rates. In
+the last three months, we've seen the cyber rates doubling in all parts of our cyber books.
+We show this graph quite a bit during our results presentations and it's been slightly
+updated this year with a new line. The bottom charts show the premium growth of the
+cyber business. And as you can see the premiums are up in 2021. We've actually reforecast and written slightly more than planned. This is driven predominantly by rates.
+This is shown by the pink line at the top. The pink line at the top shows the policy count.
+And as you can see due to the underwriting actions that we're taking, we've shed more
+policies than planned due to our continued focus on risk selection. So the overarching
+message of this is that we have less exposure than planned this year, with significantly
+more rate.
+The other benefit of that is that we are now seeing that our systemic event exposure is
+reducing. And I want to just to take a minute just to talk about systemic risk in cyber just
+for a second because again, it's another common question that comes up quite a bit.
+Certain covering cyber policies are more systemic in nature, business interruption,
+dependent business interruption. When we talk about systemic risk in cyber, we are
+thinking about things that can impact more than one client. When we are thinking about
+attritional cyber risk, it's something -- attacks that are focused and just really impact one
+
+Page 9 of 36
+
+
+
+Company N ame: Beaz ley PL C
+Company Ticker: BEZ L N Equity
+Date: 2021-07-23
+
+FINAL
+
+client. And I've given some examples on the slide. A client being targeted for a data
+breach that's typically one client, one data breach, it's an attritional loss.
+Things that are more systemic in nature, for example, cloud outages that can impact lots
+of clients at once, are really what we are thinking about when we think through systemic
+risk in Beazley. Managing the systemic risk, it's really no different than any other line of
+business at Beazley. We manage systemic risk in the same way. We have a group of
+people that work on the systemic cyber risk that are focused on it and are constantly
+meeting.
+Firstly, we will have a set of scenarios. We spent a lot of time putting together our realistic
+disaster scenarios that we work. This involves not just the internal expertise we have, but
+we work with a lot of third parties around the world, a lot of external experts and we are
+constantly updating them every six months, 12 months and they are constantly under
+review.
+
+Bloomberg Transcript
+
+As part of that, we're not just looking at what happened. We spent a lot of time thinking
+about what could happen, what are the black swans, what could they look like, how would
+we manage those, what would be the reality of those happening, what's the likelihood
+and we model a lot of scenarios based on that basis. We have a suite of RDS scenarios
+that we run. We can run them any time at the push of a button and we're constantly
+reviewing them on a weekly, monthly basis.
+The other thing is diversification is key. The one thing I've learned through the years of
+coming through the cyber business here at Beazley is that the more diversified book you
+have, the better you can manage systemic risk. And the thing I'm very proud of and I know
+the team is very proud of at Beazley is we have a diversified book not just by revenue, but
+now by geography, by client size, by industry. Managing diversification is absolutely critical.
+We set our risk appetite for cyber, the same as we do for any other line of business at
+Beazley and we manage that risk appetite. And if we think we could go outside of that risk
+appetite, we purchase additional reinsurance to keep us within that appetite. Exposure to
+systemic events has been coming down. This is due to two things: number one, as you
+saw the policy count is down because we've shed more business than planned, but we
+are already working since 2019 on reducing our exposure to these events by looking at
+the limits we have exposed, and the types of coverages that cause the main aggregation
+with our clients, things like business interruption and dependent business interruption.
+So for my final slide and in closing, I have given a good overview I think of how we
+manage our exposure, the work we've been doing, how we are evolving our cyber
+ecosystem, what we seeing from an underwriting action standpoint, what we seeing from
+the market and the rates, but what does this mean for us looking forward.
+As we continue to get evidence we are profitable and frequency is reducing and that the
+risk management is really helping our clients with resilience, there could be a rare
+opportunity for profitable growth. This is actually further supported by the market
+conditions that we are seeing. However, it's still very early, and this is going to be a
+Page 10 of 36
+
+
+
+Company N ame: Beaz ley PL C
+Company Ticker: BEZ L N Equity
+Date: 2021-07-23
+
+FINAL
+
+continually evolving process. We're going to keep learning as we do this. We are going to
+keep looking at the threats, looking at the data, looking at the underwriting action,
+thinking through how we are going to navigate these things.
+At Beazley, we remain agile and we want to evolve. We saw market opportunity in 2019,
+and that was to establish a leading position through the creation of BBR services. We think
+there is an opportunity now through risk management and resilience to create a seamless
+kind of opportunity.
+And with that, I will pass it back to Adrian.
+
+Adrian Cox
+
+{BIO 16257010 <GO>}
+
+Bloomberg Transcript
+
+Thank you, Paul. Okay. So I hope you found that insightful. On then to the outlook. So I
+expect growth to continue at the current levels for the rest of the year, but also for that
+level of opportunity to persist into 2022. We have a particular set of opportunities and a
+particular set of products at Beazley that are more than just transitory, and that's why we
+think there is opportunity for continued good growth at the similar levels to this year into
+next year.
+Yields currently on our fixed income is 0.5% and when we think about that all altogether,
+our combined ratio guidance for the year remains unchanged. The year-to-date natural
+catastrophe appetite, including the floods and the wildfires that are currently occurring,
+remain so far within the margin that we hold as there is no need to update our guidance
+at this stage. And once again, we intend to pay a dividend at the year-end all things being
+equal and share the strategy at that point.
+Talking of strategy, I thought this is an opportune moment to spend a little bit of time
+outlining our strategy which we have refreshed this year, and also reaffirming some of our
+attributes. So to start with strategy then, we're a specialty insurer. What does that mean?
+Well, most of the products that we underwrite are not written by the majority of the
+general insurance market as they are by definition specialists, and so require certain
+specific tools or skills to do well. These products are less commoditized, which allows for
+the insurer to apply IP and differentiate their offering.
+Given that, there can be more margin and better cross-cycle returns than in general
+insurance. And lastly, demand is growing faster in specialty than in general insurance
+markets. Why? Because products are generally at an earlier stage in their life cycle and
+new products are created here to address new and emerging risks which occurs now at
+an increasing pace as the world continues to evolve faster and faster.
+So a successful specialty insurer is in a market that has better cross cycle returns and
+persistently high levels of growth. And where do we fit into that? Well, our strategy is to
+employ people who have genuine subject matter expertise and who take pride in
+continually refining that knowledge and then to deploy them at the point of sale and
+empower them to use their expertise.
+Page 11 of 36
+
+
+
+Company N ame: Beaz ley PL C
+Company Ticker: BEZ L N Equity
+Date: 2021-07-23
+
+FINAL
+
+We then find niches were deploying that expertise drive some competitive advantage
+and I think there are two ways we do this. Firstly, as we out underwrite, out risk select, out
+claims manage our peers on a risk forward [ph] basis and secondly, our customers,
+brokers, and insureds value having access to that expertise, people who know what they
+are talking about, understand our industry and have the authority to make decisions.
+In most of the insurance and reinsurance well even in some of the specialty areas those
+capabilities don't really drive competitive advantage, but in some, they do, and that tends
+to be in areas where risk is more complex or volatile or changing or new. And our job then
+is to find those areas where that applies and where there is margin if you do it well to
+properly reward us for our efforts.
+So our product strategy is relatively simple, refine our product set to maximize our
+competitive advantage by ensuring that the businesses we are currently in are fit for
+purpose and constantly looking for new ones.
+
+Bloomberg Transcript
+
+Our footprint strategy is also relatively simple. As a specialist and relatively small,
+personally, I don't think scale is of itself important. I think our relevance comes from having
+to say something -- having something to say rather than by size, but given that, it makes
+no sense for us to have an ambition to have a presence in every geography across the
+world. Rather, we have a preference to locate whether large pools of demand for the
+specialist products that we sell. And they are in the large non-life markets in North
+America and Europe, and in the big wholesale markets for us, London, Singapore, and
+Miami.
+The business that we build in those large mostly retail markets in North America and
+Europe is sticky, more mid-market and SME, and painstakingly built over decades rather
+than years. The business that we build in the wholesale markets is more larger risk, more
+volatile and more actively managed through the market cycle reflecting the fact that
+opportunities in the wholesale world to wax and wane considerably.
+When you combine that then you have a business that can create and maintain
+differentiated products, where demand growth is higher, that gives us long-term
+opportunity for compound growth with levels of cross-cycle margin significantly higher
+than the cost of capital. It's an appealing model I think, but it's hard by very definition if
+there is a risk you concentrate on are new changing, volatile, complex.
+And we have to be good at it to get it right. And not only good, but relentlessly looking
+for ways to do it better, and that's the challenge that we set ourselves every day. And
+that's why we invest heavily in improving our underwriting technology, seeking new data,
+which can generate insight, working with third parties to harness different technologies,
+building out our risk management services, all to drive doing specialty business well,
+designing those differentiated products and building barriers to entry. And that's our
+strategy in a nutshell. It's not new, but I think it's good to articulate it every now and then.
+The second topic I thought I would address is what are all the attributes of Beazley as a
+Company. We've long been associated with a number of them, and I think it seems
+Page 12 of 36
+
+
+
+Company N ame: Beaz ley PL C
+Company Ticker: BEZ L N Equity
+Date: 2021-07-23
+
+FINAL
+
+appropriate now to affirm to the ones that we wish to commit to afresh.
+And the first is underwriting discipline. This is particularly important to me. We are an
+underwriting company, is what we hang our hat on, and as I hope you heard, it's central to
+our strategy and our competitive advantage. And that means both capitalizing on
+opportunities, but also knowing when to pull back or to stop when needed. And you will
+have seen over the last few years that we do reassess our product set and we do stop
+when what we have doesn't really drive competitive advantage. Engineering, trucking,
+SME marine, are examples of that over the last couple of years.
+Secondly, capital discipline. We've always put great steadiness, returning capital to
+shareholders when we don't have attractive opportunities to deploy them ourselves and
+that commitment remains. Thirdly, financial discipline. I do believe in the discipline of
+regular dividends and the prudential financial management that that drives.
+Next, reserve discipline. We commit, as Sally said, to maintaining a consistent and prudent
+philosophy of setting reserves which should, other things being equal, provide for a
+consistent flow of reserve releases over time.
+
+Bloomberg Transcript
+
+Next, diversification. We've long valued the benefits that diversification bring. One of our
+favorite charts has been that which show rate change across all teams, which is
+significantly less volatile than each team of itself. That portfolio management philosophy
+remains.
+And lastly, responsible business, which we will discuss I think more at the year-end, but we
+are building out strategies to address the E, the S, and the G of being a responsible
+business. I want us to be a Company that embeds these values and those goals at its
+heart. Our vision is to be and be recognized as the highest performing specialty insurer,
+and I believe that highest performing includes a commitment to becoming a better
+business that contributes to those goals.
+So with that, I hope you found that useful and I open up to Q&A.
+
+Questions And Answers
+Operator
+Thank you very much. (Operator Instructions) Our first question today comes from Kamran
+Hossain from RBC. Kamran, your line is now open.
+
+Q - Kamran Hossain
+
+{BIO 17666412 <GO>}
+
+Hi. Good morning, everyone So the first two questions are on cyber because I guess it
+would be rude not to ask Paul some questions given his presentation. The first one is just
+about market behavior in cyber. Obviously, you've been in this market for the long haul.
+There have been some people that have been called into the market more recently and
+probably have been burnt a little bit in the last year. I am not sure then whether people
+Page 13 of 36
+
+
+
+Company N ame: Beaz ley PL C
+Company Ticker: BEZ L N Equity
+Date: 2021-07-23
+
+have exited or the behavior is changing, and maybe all kind of barriers to entry now are a
+little bit higher than they were a year ago?
+
+FINAL
+
+The second question on cyber is, I guess, as the risk changes all the time, do you think we
+will get to a world where I guess given risk management capabilities, we can get some
+more real-time pricing, or do you think an annual contract is just the thing that we will see
+in the market for the next few years? So kind of a very big picture question.
+And then, the third question, I guess, the growth outlook for next year it sounds really
+exciting. In terms of the areas of growth for next year, should we expect them to be
+similar to those that you've seen kind of year-to-date, or are there any other areas that
+you think we should highlight? Thank you.
+
+A - Adrian Cox
+
+{BIO 16257010 <GO>}
+
+All right. Paul, do you want to tackle the first two cyber questions. I will think about how we
+are going to grow.
+
+A - Paul Bantick
+
+{BIO 15979097 <GO>}
+
+Bloomberg Transcript
+
+Hey. Thanks, Kamran. Yes, you are absolutely right about market behavior. I mean we are
+definitely seeing a situation where capacity is restricted in the market and that's driven
+predominantly because of the losses, and some of the ransomware activity, and
+definitely, as you've seen from the market conditions, and the rate changes we're seeing,
+the demand is outweighing supply. There have been some entrants in the market. I
+haven't seen as many in recent times.
+In terms of barriers to entry and investment, I think, the word investment is critical. I do
+think that barriers to entry to be able to this well for clients and to be able to manage
+clients and help them with their resilience and manage your own frequency and severity I
+think the investment is colossal. And it's not just a monetary investment, it's the people
+and IT investment, it's just a huge investment. So I think the barriers to entry are definitely,
+definitely growing.
+In terms of real-time pricing, I think, it could get there one day. I think we're a long way
+away from it. I think it's early doors. I think we've always thought about that and it's been
+something that's been in the back of our minds. I think it will become more realistic in the
+coming years as clients start to increase their resilience and as we can get a better
+understanding from clients constantly around what do they -- how are they constantly
+evolving, how are they constantly seeing their controls evolve. But I do see that one day
+that could be something that potentially the cyber market starts to look at.
+
+A - Adrian Cox
+
+{BIO 16257010 <GO>}
+
+Thank you, Paul. So on to growth, I think, what we've been talking for the last 18 months is
+about the 85-15 split of how we are feeling about our portfolio, with the 15 really being
+the areas that we think are exposed to this COVID aftershock claims environment, as well
+as social inflation. I think the underlying assumption still remains, Kamran. So we are
+looking to grow across most of our book. We still remain quite defensive on things like
+Page 14 of 36
+
+
+
+Company N ame: Beaz ley PL C
+Company Ticker: BEZ L N Equity
+Date: 2021-07-23
+
+FINAL
+
+employment practices, liability, certain parts of our health care book, and certain parts of
+our E&O/PI book.
+But I think overlaying that there is some stuff which is a bit more life in that. We are
+beginning to open up as an economy. So there will be more evidence generated I think in
+the second half of this year about what's happening to those COVID aftershocks, is social
+inflation going to reemerge as the courts reopen. So we will be able to update our
+assumptions I think as the years go on, which as the year goes on, which will influence
+what we want to do next year.
+Likewise, I think we are continuing to build evidence about how successful our cyber
+strategy is, and that will influence how much exposure we want to put on the books or
+not. And of course, we are in a very live natural catastrophe environment, not only in the
+middle of the windstorm season, but there is other stuff going on as well. And I think that
+will impact what we think is going to happen to the market, as well as what we think we
+need to do to our own underwriting strategy.
+So the sort of short answer is, our 85-15 remains, but we are in a very live claims
+environment at the moment, and I think that will influence both what the market does and
+what our view of risk is. And so that will influence what we do.
+
+Q - Kamran Hossain
+
+{BIO 17666412 <GO>}
+
+Bloomberg Transcript
+
+Okay. Thanks, Adrian.
+
+A - Adrian Cox
+
+{BIO 16257010 <GO>}
+
+Thank you, Kamran.
+
+Operator
+Our next question comes from Will Hardcastle from UBS. Will, your line is now open.
+
+Q - Will Hardcastle
+
+{BIO 16346311 <GO>}
+
+Hi. Good morning, everyone. First question on cyber, second on capital and dividend, if it's
+okay. So first on cyber, you are seeing these enormous price increases that sounds to be
+potential opportunities, of course, you are going to weigh the risk off. And you are sort of
+suggesting that there could be a great opportunity. I guess when will we know if that
+opportunity truly exists, knowing it's sort of seven, eight months through starting the
+remedy or the action there?
+And then in that context, that level of growth, what should we really see as the maximum
+level on a Group level that you'd consider to be comfortable to be cyber exposed,
+perhaps whether it'd be premium exposure or however you look at that would be helpful?
+And then on capital and dividend, I guess we've seen a really big earnings beat today to
+expectations, but still no dividend, the capital even after achieving what feels now higher
+Page 15 of 36
+
+
+
+Company N ame: Beaz ley PL C
+Company Ticker: BEZ L N Equity
+Date: 2021-07-23
+
+premium growth expectation for next year is robust. Can you just help us to understand
+the logic in your thinking perhaps of the no interim at this stage? And what's the greatest
+risk in your mind that perhaps prevented you from distributing that despite these financial
+metrics suggesting that you'd have been comfortable to do so?
+
+FINAL
+
+A - Adrian Cox
+
+{BIO 16257010 <GO>}
+
+Okay. Thank you, Will. I'll have a crack at those and please feel free to wade in if I miss
+anything. So on to cyber and as we've been very careful to say that the data that we have
+is very early because as you say we're any seven, eight months into something and in
+insurance terms that's just a blink of an eye right. So having said that, first-party side, the
+ransomware side, predominantly of our cyber business is very short-tail. So I think we
+gather more evidence month by month. We'll have a reasonable idea in time for the
+business plan for next year as to whether we think it's successful or what else we need to
+do. And so, we should be able to give more guidance towards the end of the year about
+what we want to do as the evidence builds. And I think because it's so short tail, that's
+faster than normal I think.
+
+Bloomberg Transcript
+
+Going back to the little speech I gave about the attributes of Beazley, we do still believe in
+the benefits of diversification. You definitely can't have too much of a good thing. At the
+same time, as you say, there may be an opportunity here and we will look to capitalize on
+that if we think there is one. Nonetheless, we want to make sure that we remain a
+balanced business. Our rule of thumb is around 15. We may flex that up or down a little bit
+depending upon how big of an opportunity it is and we may well use our reinsurance
+partners to build the business with us. But think as a share of the overall, we will flex
+around a little bit, but we remain committed to a diversified business.
+But we might grow it a little bit more gross, use our reinsurance, and likewise, as you sort
+of intimate Will, there are sort of two ways of measuring this, by premium and by
+exposure. And because rates are going up so fast, premium may not be an adequate way
+to do this. And so we'll look at both, but we remain committed to diversification because I
+think it's important to the consistency of results.
+In terms of sort of capital and dividend, we are pleased with where our capital is in the
+sort of top half of the range. And we did consider whether or not we should pay an
+interim dividend. I think the underlying driver of why we've decided to postpone is, is
+because paying a dividend is not just that. It's paying a dividend and explaining what your
+dividend strategy is going forward. And to us really, that sort of feels like a year-end
+decision when we can take a look at the whole thing and then set out something new for
+next year, and that didn't seem to be the sort of thing you want to do halfway through the
+year. It's a sort of thing that you do when you finish and you have a look back and set out
+something that's going to last for the foreseeable future. So it's just a timing thing for us
+really, not much to read into it apart from that.
+
+Q - Will Hardcastle
+
+{BIO 16346311 <GO>}
+
+Okay. That's really clear on the dividend. I guess one thing I just wanted to clarify, it's not a
+new point. You mentioned something about the full-year. Obviously, you stand committed
+on doing some changes, but just thinking about that a little bit, if that comes, I'm not sure
+Page 16 of 36
+
+
+
+Company N ame: Beaz ley PL C
+Company Ticker: BEZ L N Equity
+Date: 2021-07-23
+
+if you've delivered this yet, but will that be the sort of final sort of equivalent, or roughly
+two-thirds of the year, or will it be covering the whole year, how would you look at that?
+
+FINAL
+
+A - Adrian Cox
+
+{BIO 16257010 <GO>}
+
+Yeah. That's a yes. And so you're right to ask that question because we worded it quite
+carefully. So the intention, all things being equal, is that the dividend will reflect the full
+year's earnings rather than just second half. So thank you for asking us.
+
+Operator
+Our next question comes from Andrew Ritchie from Autonomous. Andrew, your line is
+now open.
+
+Q - Andrew Ritchi
+
+{BIO 18731996 <GO>}
+
+Bloomberg Transcript
+
+Hi, there. Thanks. And thanks for the detailed presentation on cyber space, that was very
+useful and timely. Questions, first of all, I noticed in the triangles, there continues to be
+recoveries on various accident years on your speciality/CyEx aggregate excess of loss. I
+mean if you just recap what comfort there is on remaining room on those recoveries
+because at the minute there is a helpful spread between gross deterioration and net
+improvement? Should we expect that to continue to basically?
+Second question, we are in wind season, what should I think of as your property exposure
+or property plus reinsurance exposure? Obviously, you give us that through your real
+estate results annually, but should I think that it has gone up from last year or same
+because I can't tell to what degree your exposure has grown in those classes? And linked
+to that, is there any sense can you give us, not you will, of what your sort of remaining cap
+budget would be for the year?
+Sorry. I had two other quick questions. One on cyber, on Lodestone, that's an intriguing
+business, though I didn't realize you had set up. Is that a business that can generate
+meaningful fee income I suppose from non-insurance clients? I think I need to check out
+the website, and it appears to be open to non-insurance clients. So I'm just curious what
+the sort of strategic thinking behind that business longer term is?
+My only other question, Sally, I'm a bit confused by your EPS calculations. I don't get why
+the average check count is the same year-on-year for the half-year. And also the
+translation from cents to pence appears to be (inaudible) last year's average exchange
+rate. Maybe just clarify what's going on there. Thanks.
+
+A - Adrian Cox
+
+{BIO 16257010 <GO>}
+
+Okay.
+
+A - Sally Lake
+
+{BIO 20925273 <GO>}
+
+I start with. I'll take that one away to look in detail at that. So I probably can't do that live.
+
+Page 17 of 36
+
+
+
+Company N ame: Beaz ley PL C
+Company Ticker: BEZ L N Equity
+Date: 2021-07-23
+
+A - Adrian Cox
+
+{BIO 16257010 <GO>}
+
+The earnings per share one.
+
+A - Sally Lake
+
+{BIO 20925273 <GO>}
+
+FINAL
+
+Yeah.
+
+A - Adrian Cox
+
+{BIO 16257010 <GO>}
+
+Okay. I will get back to you on that one, Andrew. If we go through the first three questions
+then, in terms of reinsurance recoveries available. We may have an echo if that's the case,
+I do apologize. And yes, we have plenty of reinsurance left available across our specialty
+lines and CyEx. So you're right to notice the difference in the gross to the net, but nothing
+is exhaustive and the scenarios that we run don't have us exhausting it either.
+
+Bloomberg Transcript
+
+In terms of exposure growth, I think there's sort of two things to look at. Yes, our property
+business and our reinsurance business in aggregate has grown a little bit and I think that
+has driven up a little bit, 1 in 250, sort of on a pro-rata sort of basis, but there's more to it
+than that I think. And one of the things we've been talking about the last few years is
+looking at the near end of the curve as well as the end of the curve. And we've been
+quite careful to make sure that we are very strict about growing exposures on the near
+end of the curve. And so it's not all pro-rata.
+I would love to be able to share the net cat budget with you, but I'm not allowed.
+(inaudible) myself to say that's fine, I thought I can say that. And Paul why don't I pass over
+the Lodestone question to you.
+
+A - Paul Bantick
+
+{BIO 15979097 <GO>}
+
+Yeah. Thanks, Andrew. Lodestone, as you rightly point out, is doing fantastically well. Yes,
+it can and it does do work with non-Beazley clients. It's something that we're seeing a lot
+of people, particularly in the middle-market clients having a huge amount of value from.
+So if you take a step back for a second, they kind of do two things, really, when you want
+to think about Lodestone. They do incident response work. So they're forensics provider
+and can do incident response work when someone's having some quite of incident, like a
+data breach or ransomware.
+And secondly, they do a lot of proactive risk management services, so helping clients
+become more resilient, understand their risk before they have some kind of cyber event.
+We work with them closely on both across our client base and is extremely exciting. We
+now have cybersecurity firm that can benefit our insureds greatly and as would evolving
+our cyber strategy and our ecosystem, we're actually -- we've been sitting down with
+Lodestone every step of the way to think about what does this mean for Lodestone and
+Beazley and how do we partner on this and what is the opportunity for both organizations.
+And it's very much done in partnership and very exciting. They have just launched in the
+UK, and there is hopefully a lot more to come.
+
+A - Adrian Cox
+
+{BIO 16257010 <GO>}
+Page 18 of 36
+
+
+
+FINAL
+
+Company N ame: Beaz ley PL C
+Company Ticker: BEZ L N Equity
+Date: 2021-07-23
+
+Yes, Andrew. I think when we first conceived of Loadstone a few years ago, it was -- we
+started it because of that concept that you suggested, right. If the world is getting more
+digitized and that equals more risk and there is an opportunity in insurance, but there's
+also opportunity in risk management, that could be a business for us to build there. And
+so we started it quietly, used it to help our clients only, but with optionality to pivot
+according to where we see the opportunities. And that's exactly what we're doing now, is
+we're assessing what can we do with Lodestone folks to help our own proposition, but
+also in and of itself because cyber risk management -- cybersecurity risk management is a
+very fast-growing opportunity and maybe it's something we can capitalize on that.
+
+Q - Andrew Ritchi
+
+{BIO 18731996 <GO>}
+
+And owned by Beazley today?
+
+A - Adrian Cox
+
+{BIO 16257010 <GO>}
+
+Sorry.
+
+Q - Andrew Ritchi
+
+{BIO 18731996 <GO>}
+
+It's 100% owned by you today to clarify that?
+
+A - Adrian Cox
+
+{BIO 16257010 <GO>}
+
+Bloomberg Transcript
+
+Yes. It is. Well, that and the employees, but yes.
+
+Q - Andrew Ritchi
+
+{BIO 18731996 <GO>}
+
+Okay. Thanks.
+
+A - Adrian Cox
+
+{BIO 16257010 <GO>}
+
+Pleasure.
+
+Operator
+Our next question comes from Ian Pearce from Credit Suisse. Ian, please go ahead.
+
+Q - Ian Pearce
+
+{BIO 17168137 <GO>}
+
+Hi. Thanks for taking my questions, all cyber-related, please. So just I was hoping you
+could touch on sort of what's going on more widely in terms of claims trends in the cyber
+market. Obviously, you are all flagging some improvement in claims experience. Can you
+just touch on what the market thinks? I don't think that's been replicated across the
+market.
+Secondly, just in terms of cyber rates, I mean you are sounding a bit more bullish on how
+long this hardening can continue. So just if you could flag what your expectations might be
+for sort of cyber rates in 2022 and if you think how long they can continue beyond that
+potentially as well?
+Page 19 of 36
+
+
+
+Company N ame: Beaz ley PL C
+Company Ticker: BEZ L N Equity
+Date: 2021-07-23
+
+FINAL
+
+And then, on the loss ratio that you book in cyber, could you just talk a little bit around how
+you thought about booking the loss ratio at the start of this year for cyber and whether
+you are reflecting some of that positive claims experience in the cyber loss ratio, because
+the CyEx loss ratio at the start of this year was still quite high?
+And then, finally, just in terms of the investments that we've made, could you just put
+some numbers around that and how you're treating that from an accounting perspective,
+whether that's all been expensed?
+
+A - Adrian Cox
+
+{BIO 16257010 <GO>}
+
+Okay. I think there four questions there. I'll do the third one.
+
+Q - Ian Pearce
+
+{BIO 17168137 <GO>}
+
+Sorry.
+
+A - Adrian Cox
+
+{BIO 16257010 <GO>}
+
+No, it's perfect, just making sure that we address them. I'll pass the fourth one about the
+investments to Sally. I will have a go at the loss ratio and if you want talk about the trends
+and the rate into next year.
+
+A - Paul Bantick
+
+{BIO 15979097 <GO>}
+
+Bloomberg Transcript
+
+Sure.
+
+A - Adrian Cox
+
+{BIO 16257010 <GO>}
+
+Yeah.
+
+A - Paul Bantick
+
+{BIO 15979097 <GO>}
+
+Should I go, one and two first. Okay. So, yes, I mean you right Ian. We are seeing right
+now, as I said, rates doubling. When you look at the wider cyber market and you think
+about trends, I think, there are several things. Definitely, all the cyber carriers that certainly
+we see are certainly taken action, everyone's got their own approach and got their own
+action and their own course that they are taking. But we are definitely seeing a varied set
+of actions across the market and everyone is starting to really address it, some focused
+on rate, some focused through other things. And so you're seeing a mixture. It's definitely
+picking up as we move through the second half of the year.
+The rates that were seen for the last month or two, were not the rates that we saw in the
+first three months of the year. So I think there is certainly a lot more to come in terms of
+run way. I think you're going to see the rate environment with us for a little while certainly
+through the rest of the year and into next year. We are in a very fast-changing market. We
+are in a very, very fast-changing market, and as capacity restricts, it could well be that the
+rates continue to extend into and through next year. That's one of the reasons why we
+are keeping our plan very agile and why we plan to reassess later in the year because had
+we looked at rates three months ago and made assumptions, that have been very
+Page 20 of 36
+
+
+
+Company N ame: Beaz ley PL C
+Company Ticker: BEZ L N Equity
+Date: 2021-07-23
+
+different three months ago than they are today, they are on definitely a very steep curve
+and upward trajectory.
+
+FINAL
+
+And so I think once we get to the end of the year, we'll think about what is the most likely
+scenario for 2022 rates, but right now, I certainly see and from talking to brokers and our
+partners and others, we certainly see the rate environment and rates continuing to
+increase through next year.
+
+A - Adrian Cox
+
+{BIO 16257010 <GO>}
+
+Claims trends.
+
+A - Paul Bantick
+
+{BIO 15979097 <GO>}
+
+Bloomberg Transcript
+
+Claims trends, when we look at the claims trends, obviously, we've got some positive
+claims trends on frequency. It will be interesting to see. There is also a number of other
+factors that are starting to happen around the world that are going to impact claims
+trends. We are seeing certainly different governments start to take action and law
+enforcements start to take action around some of the cyber threats and will be
+interesting to see what they do to claim trends. Obviously, we've seen the reduction in
+frequency.
+It's very early to tell on severity, but obviously, the action that we're taking through limit
+management and the targeted limit management approach, now that we've been doing
+that for seven, eight months, we will start to see that in the coming months start to really
+pull through as well because that limit management -- having less aggregate expose to
+these things will have an impact on the severity. The claims trends, again, it's something
+that we watch on a monthly basis. It's something that is, as Adrian said, it's a short tail
+class of business. And so once we get to the end of the year, we'll have another three,
+four, five months worth of claims trends data, we'll have a much better handle on where
+the market is at that point in time from a rating standpoint and then we be able to finalize
+the rate.
+
+A - Adrian Cox
+
+{BIO 16257010 <GO>}
+
+I think cyber frequency is down generally or just --
+
+A - Paul Bantick
+
+{BIO 15979097 <GO>}
+
+I think cyber frequency was not just -- may have been down slightly recently, but I don't
+think generally. I think cyber frequency is down slightly. And it can be a bit seasonal, cyber
+frequency. You see certain hotspots. So July 4 in the US, that holiday weekend, Christmas
+time, Black Monday, the shopping -- the busy shopping periods, you do see some
+seasonality for cyber events over the years. But from what we hearing and what we are
+seeing and from talking to a lot of the experts that we work with, they are not seeing any
+dramatic drop in frequency, although there are things on the way that might help along
+with the underwriting actions.
+
+A - Adrian Cox
+
+{BIO 16257010 <GO>}
+Page 21 of 36
+
+
+
+Company N ame: Beaz ley PL C
+Company Ticker: BEZ L N Equity
+Date: 2021-07-23
+
+FINAL
+
+Thank you, Paul. Loss ratios, so we have not taken credit in our loss ratios for the reunderwriting that we've done and from a GAAP perspective, any impacts that that has is
+likely to be felt at the tail end of next year. And it's not something that we will be booking
+this year. As you say, it's early from a business line perspective, it's even earlier from a
+booking and profit perspective. So we will wait a little bit longer before that flows through
+to our P&L or not. Sally do you want to talk about the investment dollars?
+
+A - Sally Lake
+
+{BIO 20925273 <GO>}
+
+So it's not a dissimilar answer actually. So the cost of the ecosystem, as Paul described, is
+minimal within the first half. I expect it to increase in the second half and then probably
+increase further in the fullness of next year as well. It will come through our admin costs. I
+would expect, we may look depending on what we do to look at it if we want to capitalize
+some of that, but that decision hasn't been made yet. So I can update in the future on
+that, but in terms of the financials we are seeing today, it's not a significant amount within
+those.
+
+Q - Ian Pearce
+
+{BIO 17168137 <GO>}
+
+Okay. Perfect. Thank you.
+
+A - Adrian Cox
+
+{BIO 16257010 <GO>}
+
+Thanks, Ian.
+
+Bloomberg Transcript
+
+A - Paul Bantick
+
+{BIO 15979097 <GO>}
+
+Thank you.
+
+Operator
+Thank you. Our next question comes from Freya Kong from Bank of America. Freya,
+please proceed with your question. Your line is open.
+
+Q - Freya Kong
+
+{BIO 20097488 <GO>}
+
+Good morning, guys, and thanks for taking the questions. I've got three questions if that's
+all right. Firstly, on your dividend strategy, and what you will be giving us at the end of the
+year, has anything changed in the business for you to step away from your previous
+progressive dividend policy and what sort of re-basing should we expect?
+My second question is on COVID. How are you tracking versus the $50 million of extra
+exposure that you flagged for 2021? I would think by now at this stage we would have
+decent visibility for the rest of the year. And if this $340 million that you have booked for
+reserves, could you give us a sense of the IBNR?
+And last question is on net premium growth. So you previously guided to slightly below
+gross premium growth, but now there is a 10 point difference in the guidance that you
+arse giving us. Has there been any change in the reinsurance that you expect take on this
+year? Thanks.
+Page 22 of 36
+
+
+
+Company N ame: Beaz ley PL C
+Company Ticker: BEZ L N Equity
+Date: 2021-07-23
+
+FINAL
+
+A - Adrian Cox
+
+{BIO 16257010 <GO>}
+
+Great stuff. Okay. So has anything changed on our dividend strategy? Yes and no. So we
+haven't decided what it is next year or going forward yet. So it may be a resumption of
+what we've been doing before and maybe something different and we haven't thought
+through that. So I can't really give any guidance as to what that's going to be because we
+haven't had those discussions yet. I do think it's a good opportunity for us to set a path for
+the next five to 10 years, want to make sure we take the proper amount of time to think
+that through and once we have, we will share it. So I'm not being evasive. We just haven't
+done the work yet.
+
+Bloomberg Transcript
+
+Moving onto COVID, we haven't used the $50 million yet. So as I said, the sort of behavior
+in terms of what events are happening and how they are happening, it's relatively in line
+with what we had expected to happen, and so if that continues as it is, we don't expect to
+have to use the $50 million of extra that we had flagged. And by the time we reach the
+end of the year, most of the events that we are concerned about will have either
+happened or not happened. So we will get clarity one way or another by the end of the
+year. But as we stand here, we're not planning to use the $50 million.
+I'm not able to share with you, unfortunately, how much of that $340 million is in IBNR.
+There is some, but we currently are not going to give any detail beyond that. And in terms
+of the difference between net and gross premium, you are right. We had flagged last
+year some of the growing areas. We were growing in partnership with some reinsurers.
+And so we were sharing some of that risk on a proportional basis. That is coming through
+now. I think the net premium growth of 14% is sort of in line with the mid-teens that we
+were guiding to and which we are still guiding to, and which we are thinking it will persist
+into next year. Sally, have I missed anything?
+
+A - Sally Lake
+
+{BIO 20925273 <GO>}
+
+No. It's fine.
+
+A - Adrian Cox
+
+{BIO 16257010 <GO>}
+
+Does that help, Freya?
+
+Q - Freya Kong
+
+{BIO 20097488 <GO>}
+
+Yes thanks. Yes. I mean the maximum gross guidance hasn't really changed, but your
+gross premium guidance has increased. Where -- in which lines are you sharing more with
+the reinsurers?
+
+A - Adrian Cox
+
+{BIO 16257010 <GO>}
+
+So the biggest type of reinsurance we've been buying is proportional reinsurance on our
+specialty lines and our CyEx books, which are the most capital-intensive that we have and
+that's why we chose to share that, and also the ones that are growing the fastest.
+
+A - Sally Lake
+
+{BIO 20925273 <GO>}
+
+Page 23 of 36
+
+
+
+Company N ame: Beaz ley PL C
+Company Ticker: BEZ L N Equity
+Date: 2021-07-23
+
+And then you've got the one-off purchases.
+
+A - Paul Bantick
+
+{BIO 15979097 <GO>}
+
+FINAL
+
+And then you've got the loss portfolio transfer that's right in property, which does have a
+one-off impact. So the difference between gross and net shouldn't be as much at the end
+of the year. Yeah, you're right. Thank you.
+
+Q - Freya Kong
+
+{BIO 20097488 <GO>}
+
+Okay. Perfect. Thanks, guys.
+
+Operator
+Our next question comes from Ashik Musaddi from JPMorgan. Ashik, the line is now yours.
+
+Q - Ashik Musaddi
+
+{BIO 15847584 <GO>}
+
+Bloomberg Transcript
+
+Yeah. Thank you and good morning, everyone. Just a couple of questions again on cyber
+and one on the overall as well. On cyber, I mean prices are going up quite a lot, I mean
+50%, 100% as you have mentioned. Would you say that most of those price increases that
+you are seeing is expected to be absorbed by like just increase in the frequency or
+severity, or would you say that it's just too early to say, and you are being trying to be a bit
+more conservative with the loss picks that you are putting? I mean this question will last
+earlier as well, but I'm just trying to get a bit more clarity on how do we think about the
+price increases and the reserves that you're booking in at the moment. So that's one.
+Secondly is I mean clearly you are doing a bit of a portfolio pruning as well, but is it
+possible to get some views on how do we think about new customers coming in and old
+customers going out? How do we think about things like whether the new customers
+coming in are at that 100 -- like double premiums versus same exposure or they are
+coming with a lower premium, i.e., most of the price increases are with old customers? So
+that could be second.
+And just related to that, I mean, would you say that going forward, you still expect more
+new customers or would you say that this portfolio pruning will just continue for a year or
+two, just because you're trying to watch out what's going on?
+And the third one is pricing ex-cyber, I mean clearly pricing in second quarter ex-cyber has
+been more or less stable versus the first quarter, whereas there has been a general noise
+in the market that going into second half, pricing would most likely start tapering off in
+specialty lines, reinsurance, et cetera. So I mean it's early days, I agree, but any thoughts
+on where the pricing is heading towards ex-cyber?
+
+A - Paul Bantick
+
+{BIO 15979097 <GO>}
+
+Okay. Right. So let's try and tackle that bit by bit. So yes, we are also seeing significant
+price increase and we are pushing price increase, and at the same time, we are improving
+our risk selection and we're seeing some early impact of that. The expectation is if all that
+Page 24 of 36
+
+
+
+Company N ame: Beaz ley PL C
+Company Ticker: BEZ L N Equity
+Date: 2021-07-23
+
+Bloomberg Transcript
+
+FINAL
+
+plays out as we're hoping it would, that that will bring the margin back, but we have not
+reflected that in our loss picks or our reserves so far. We're going to wait for further
+evidence of that.
+The portfolio pruning is an interesting way of putting it. So what we've been doing is with
+all the analytics that Paul was referring to, when we scan our clients and we do our due
+diligence, the clients are either green-green, or amber, or red, and what we've been
+doing is, I think, pursuing a different strategy with clients according to which of those
+buckets they fall into. And we are treating new and existing customers exactly the same
+because that's the right thing to do, but essentially, we are doing our due diligence to see
+how well protected they are and how resilient they are.
+One of the interesting things is that that itself is also changing because not only are we
+being more active in what we're looking for, gradually the corporate world is realizing that
+risk management for network security is an increasingly important thing to do. The clients
+and companies are behaving now differently to where they were a year ago because they
+are realizing they need to improve their own risk management. And so our own renewal
+clients will be different now than they were a year ago because they would have done a
+lot of that work themselves. And so, part of what we're in now is a transition from a low
+risk-managed environment to a very higher risk-managed environment, and that's
+essentially what we're trying to do is to help them through that. And so we're not really
+pruning necessarily, we're just making sure that the clients we have, new and existing, are
+appropriately risk managed and that is essentially up to the clients. I would agree of that.
+And I would add that we are writing new business where we see we're putting new
+business through the same process where we see new business, as Adrian said, it is
+green that we think when we do our underwriting due diligence and we run them through
+the technology and the processes we have, we are writing that new business. But the
+rates we're seeing on that new business are significantly higher than the rates we saw on
+new business last year. So we're seeing for the amount of new business we write, it's
+actually a lot less policies that we need to add to do that because of the rating
+environment. So we are seeing a lot of new business both in the US and internationally.
+
+A - Adrian Cox
+
+{BIO 16257010 <GO>}
+
+And when we look at our rate change ex-cyber, your -- it was a good observation. It's sort
+of consistent with where it was and it is slightly different from what we hear in the market
+and that's due to some of the impacts that we were talking about in Q1, right. So, we, like
+everyone else, have noticed that there is a little bit of tapering on some of the shorter tail
+lines of business, which continues, but some of the other longer-tail lines of business
+we've got in specialty lines and CyEx continue to exhibit strong rate changes. And so,
+overall, that amounts the same sort of number, but the drivers are slightly different. And
+because I think we do have higher weighting of that business compared to some of our
+peers, that generates a higher average rate change that we are demonstrating today.
+
+Q - Ashik Musaddi
+
+{BIO 15847584 <GO>}
+
+Okay. And just any visibility on like going forward you would expect it to continue or would
+you say that for your book as well probably we are getting towards a bit of tapering now?
+
+Page 25 of 36
+
+
+
+Company N ame: Beaz ley PL C
+Company Ticker: BEZ L N Equity
+Date: 2021-07-23
+
+FINAL
+
+A - Adrian Cox
+
+{BIO 16257010 <GO>}
+
+No, I don't think we have anything new to say on the short tail lines of business. What
+you're hearing from others is consistent with what we are seeing. I think the longer tail
+lines of business took longer to turn, so whereas the property market, for example, really
+started to turn at the end of 2017. It was two years later on some of the long tail classes.
+So it's slightly behind the market cycle. And our expectation is that it will persist slightly
+longer because of that. So that's why we're guiding to a similar level of rate change for
+the second half of the year.
+
+Q - Ashik Musaddi
+
+{BIO 15847584 <GO>}
+
+Thank you. Thanks a lot.
+
+Operator
+Thank you for your question, Ashik. Our next question comes from Faizan Lakhani from
+HSBC. Faisal Please go ahead.
+
+Q - Faizan Lakhani
+
+{BIO 22154809 <GO>}
+
+Bloomberg Transcript
+
+Hi. Good morning. Congratulations on very good set of results. I have three questions.
+First is on reserve releases -- on the reserve margins, sorry. If your margin is at 6.6%, I
+remember at the full year you mentioned that the 6.3% was depressed due to the
+(inaudible) and COIVD. So can we assume that the buffer is flat to possibly down relative
+to full year? Or is it actually a genuine improvement?
+And question two is on cyber. Can you just give us some indication on how severity has
+developed since October and also how cyber is booming relative to 2019? And final
+question is on capital. Could you just give us a breakdown in terms of how the capital
+developed from the implications of the change in investment portfolio, rates and
+volumes/
+
+A - Paul Bantick
+
+{BIO 15979097 <GO>}
+
+Okay. I think you want to take questions one and three, Sally.
+
+A - Sally Lake
+
+{BIO 20925273 <GO>}
+
+Yeah, sure. So, yes, so just to remind everyone at the year-end we spoke about actually
+that there was a depression caused by a set of claims within the reserved surplus being
+COVID in particular, but also the fact that we've had some cats, which we have had again
+in Q1 to a slightly lesser extent in Texas. And then the other thing that was causing the
+depression was the fact that the excessive loss we've been speaking about on specialty
+lines and CyEx was leading to the net position on both the actuarial number and on our
+balance sheet being very similar, though all of those things still remain and they're not
+necessarily exactly the same. So that effect still remains in the reserve margin calculation
+and it will do to some extent whilst we are still recovering on the excessive loss insurance.
+So hopefully that helped you there.
+
+Page 26 of 36
+
+
+
+Company N ame: Beaz ley PL C
+Company Ticker: BEZ L N Equity
+Date: 2021-07-23
+
+Q - Faizan Lakhani
+
+{BIO 22154809 <GO>}
+
+So will it remain to the same extent this half year?
+
+FINAL
+
+A - Sally Lake
+
+{BIO 20925273 <GO>}
+
+It probably hasn't changed significantly is what I would probably say because if I look at
+how the gross versus net has moved, as we spoke about earlier, we are still in a similar
+position. So I would say, it may have moved, but not to anything significant.
+
+A - Adrian Cox
+
+{BIO 16257010 <GO>}
+
+And then capital.
+
+A - Sally Lake
+
+{BIO 20925273 <GO>}
+
+And then on capital, short answer, kind of no. So we don't give that breakdown. I guess
+what you're seeing is an overall increase in the ECR of around 5%. So you could kind of
+work out what if we are growing net premium by 14%, and we're getting 10% offsets from
+other things both -- and that would include both rate change and claims, but we don't give
+that breakdown. That's just high level --
+
+Q - Faizan Lakhani
+
+{BIO 22154809 <GO>}
+
+Bloomberg Transcript
+
+Did the investments portfolio have any impact at all in terms of how the capital developed
+or has that been modest in the grand scheme of things?
+
+A - Sally Lake
+
+{BIO 20925273 <GO>}
+
+No, not particularly. The two things that would impact it is if we changed our risk appetite,
+which we haven't, and secondly, if there is some volatility change in the market which
+there has been up and down over the last couple of years, but it's not a significant driver
+of our capital, though it will do in the rounding but our peak capital isn't driven by our
+investment portfolio because relatively the risk is lower compared to other risks that we
+take.
+
+A - Adrian Cox
+
+{BIO 16257010 <GO>}
+
+So Paul, cyber severity.
+
+A - Paul Bantick
+
+{BIO 15979097 <GO>}
+
+Yeah. So cyber severity. It's still fairly early when we're looking at the business, it is down
+since October, talk about severity. I mean it will take a little bit more time for us to be able
+to look at that and take a view on that. But with the action we've been taking, both in the
+limit management, both with program changes where clients -- some larger clients take
+much larger retentions now than perhaps they did a year ago, we will see I think severity
+start to pull through in the coming quarters. And we will be able to take a look and take a
+view on that.
+
+Page 27 of 36
+
+
+
+Company N ame: Beaz ley PL C
+Company Ticker: BEZ L N Equity
+Date: 2021-07-23
+
+FINAL
+
+Performance relative to 2019, well, when we show you the 20% reduction that we've seen
+so far and the 50 basis [ph] on premium, that is very much comparing it to 2019 and 2020
+-- early 2020, which is when we saw the most of the ransomware activity. So those
+numbers are looking at not just how is it down, but how is it down compared to what we
+saw in 2019, 2020 because that's predominantly where the ransomware threat existed.
+
+Q - Faizan Lakhani
+
+{BIO 22154809 <GO>}
+
+And may I ask a couple of follow-up questions if that's okay?
+
+A - Adrian Cox
+
+{BIO 16257010 <GO>}
+
+Sure.
+
+Q - Faizan Lakhani
+
+{BIO 22154809 <GO>}
+
+In terms of cyber, your frequency is down by 20%. You're keeping your loss pick -- your
+loss pick isn't allowing it to the improvement in cyber. Can we -- though we eventually
+assume that the loss pick in CyEx you've sort of broken it down to set (Technical Difficulty)
+current year down being additional buffer to your results. That would be fair?
+
+A - Adrian Cox
+
+{BIO 16257010 <GO>}
+
+You want to answer it?
+
+Bloomberg Transcript
+
+A - Sally Lake
+
+{BIO 20925273 <GO>}
+
+Yes. So I think the question was given that we have amended our loss pick given the
+positivity that we're seeing in the data, can we imply that there is more reserved margin
+coming out of that. I would say, if the trend continues, then that would be the outcome,
+but I would not rush to that conclusion at this stage because I'll say again, as Paul and
+Adrian have, it's a very early indicator of the data. So I think we need to wait for a year's
+data at least probably till the year-end to start drawing those conclusions because you are
+completely correct that if we continue with this trend then that would be an outcome.
+Hopefully that (Multiple Speakers)
+
+Q - Faizan Lakhani
+
+{BIO 22154809 <GO>}
+
+And just in terms of the second half of the year, if rates go up, do you think that will simply
+just pause the worsening trends, or can we assume improving cyber rates from here
+would feed into better experience in the second of the year?
+
+A - Adrian Cox
+
+{BIO 16257010 <GO>}
+
+So rate action is a backwards looking thing, right. So rates are going up because the
+claims of the insurance market has paid and so I don't think rates will continue to go up
+because of what happens in the second half of 2021, rates will continue to go up or not
+because of what's happened in the first half of 2021 because the insurance market reacts
+what it has seen and I think the rating environment will persist until the insurance industry
+in general has reinsured itself that is on top of this problem. And it is a long way from that
+yet.
+Page 28 of 36
+
+
+
+Company N ame: Beaz ley PL C
+Company Ticker: BEZ L N Equity
+Date: 2021-07-23
+
+Q - Faizan Lakhani
+
+{BIO 22154809 <GO>}
+
+Perfect. Thank you very much for answering my questions. Thanks, Faizan.
+
+Bloomberg Transcript
+
+FINAL
+
+Operator
+Thank you for your questions Faizan. Our next question comes from Ivan Bokhmat from
+Barclays. Ivan, the floor is yours.
+
+Q - Ivan Bokhmat
+
+{BIO 15378004 <GO>}
+
+Good morning. I've got a couple of questions both in cyber. The first one would be
+related to capital intensity of the business. I'm just wondering if given the panel that
+you've got, the quote right now, if you can help us understand for cyber, what is the -what cost of business would you compare the capital intensity to? If it would be akin to
+specialty or akin to property because clearly some of the aspects like the accumulation
+risk would make cyber quite close or similar let's say to property cat, but I presume that
+the risk charge under your model and under most rating agency models is far lower?
+Maybe if you can give some general thoughts on that. Maybe you are aware of any
+discussions happening broadly of perhaps increasing risk weights in the Lloyd's or
+Solvency II framework that would be very interesting?
+And the second one, I suppose you spoke about the attritional versus systemic risk. And
+I'm just wondering, could you explain a bit how you can distinguish between your
+customers? Are you able to offer more narrow policies, limiting that systemic risk to some
+others outside than just the risk limits? Or typically the policies you offer are quite broad,
+and therefore, you would still be exposed to, let's say, cloud outages even for the breach
+response customers? Thank you.
+
+A - Adrian Cox
+
+{BIO 16257010 <GO>}
+
+Sally, on the capacity, why don't you have me take a crack?
+
+A - Sally Lake
+
+{BIO 20925273 <GO>}
+
+You have a crack. You quite like it.
+
+A - Adrian Cox
+
+{BIO 16257010 <GO>}
+
+Okay. Yeah. It's a good observation, right. So it does have attributes or elements of both
+property and liability in it and if cyber would have been born a different way, it would have
+been in our property team, as Paul said because it emerged as a regulatory and legal
+obligation mostly in our specialty lines team. I think, so it has its own place in the internal
+model, it is modeled separately. I would say if it was like anything, it's probably like D&O in
+terms of how capital intensive it is. And I think a significant part of that is still the fact that
+although we've been doing this since 2009, it's still a new business with a lot of
+uncertainty to it and that generates an extra load, though part of that is because of the
+volatility that it exhibits, but actually a large chunk of it is because we still load the capital
+ratios, because it's new and there is uncertainty around that newness.
+
+Page 29 of 36
+
+
+
+FINAL
+
+Company N ame: Beaz ley PL C
+Company Ticker: BEZ L N Equity
+Date: 2021-07-23
+
+Attritional versus systemic is an interesting one. We have and what we discovered as
+we've done more modeling which bits of cover create more systemic issues than others
+and the cyber coverage has broadened over the years. And as we thought about that
+more and more, we have realized which bits do. And as Paul I think alluded to earlier, the
+real thing that joins all businesses together is business interruption and its cousins,
+dependent business interruption and service interruption. And part of the management
+that we've been doing these last couple of years is to be much more stringent and
+careful as to how we give that coverage out because of the fact that we do know it
+accumulates. Paul, is there anything else you would like to add on top of that/
+
+A - Paul Bantick
+
+{BIO 15979097 <GO>}
+
+I think we've been doing that, but we also do a lot of work to understand what these
+scenarios would look like because they don't I mean the same for large accounts, for
+example, as they do middle market. It doesn't mean the same for international as it does
+the US. It doesn't mean the same for different industries. So when we're thinking about
+the cover we give to clients, we're thinking through those issues and we have a good
+understanding of when these scenarios happen, who is that going to impact, and
+therefore, what coverage are we giving them and how much are we give them. It's a
+combination of all those things put together.
+
+A - Adrian Cox
+
+{BIO 16257010 <GO>}
+
+Does that help, Ivan?
+
+Bloomberg Transcript
+
+Q - Ivan Bokhmat
+
+{BIO 15378004 <GO>}
+
+Yeah. Maybe I can follow up. I mean, considering that a lot of your portfolio would be
+market risks, I'm just wondering, what do you perceive the wording of the contracts in
+your books different than from broader markets exposures? There is some differentiation
+which you can help illustrate.
+
+A - Adrian Cox
+
+{BIO 16257010 <GO>}
+
+The differential between our cyber wordings and the market cyber wordings, is that what
+you are after?
+
+Q - Ivan Bokhmat
+
+{BIO 15378004 <GO>}
+
+Yeah. As in, if you look at the largest cyber writers, like (Multiple Speakers) who would
+presumably take more larger clients, and it doesn't have to be minutes of course. But
+whether you think there is a difference in the wording between you and the largest
+players, let's say, in the US?
+
+A - Paul Bantick
+
+{BIO 15979097 <GO>}
+
+Yeah. I think the biggest difference is around the fact is in our Beazley Breach Response
+product, which gives us control over the claim. So when you look at the cyber market and
+the wordings, firstly, agents -- spot on, the main point of differentiation in the wordings is
+services (Technical Difficulty). Look at our wording, our BBR product is designed -- it's
+typically used in the middle market because middle market clients are the ones that
+Page 30 of 36
+
+
+
+Company N ame: Beaz ley PL C
+Company Ticker: BEZ L N Equity
+Date: 2021-07-23
+
+FINAL
+
+gravitate to the Beazley Breach Response product because they really crave a lot of
+those services and all that we give with the policy.
+When you line up wordings more generally, the coverages there are all very similar in
+terms of the actual coverage within the policy. But that said, we also write a lot of cyber
+that isn't on BBR. We said we are striving for diversified books, we write large accounts
+where perhaps BBR may not be the best fit. We have a middle-market book and we also
+have an SME portfolio as well.
+So we really work hard to keep the balance of diversification between those. But right
+now, if you were to compare the policy wordings, I think the services and the risk
+management services and the way we structure those in the policy is the main difference
+that you would see.
+
+Bloomberg Transcript
+
+A - Adrian Cox
+
+{BIO 16257010 <GO>}
+
+And that manifests itself in how the claim presents and that's the important thing for us,
+right. So the value that the client of Beazley Breach Response has if they have an issue,
+they can call us up and we will handle it for them and take a lot of the stress out of that
+because it's a very stressful thing to do. And we've very experienced team that can do all
+that. The advantage it gives to us is that we are controlling how the claim goes. We're
+doing a lot of it in-house. We are controlling the costs and the result of that is that not only
+is the claim safely handled, but it's handled by people that we know and trust. And
+therefore, the costs are contained. And that control over how a breach is handled and
+how the ensuing claims is handled, which you don't always get an insurance, because
+oftentimes it's the indemnity policy so the client does it and then we reimburse them. The
+control that gives us is a significant advantage for us.
+
+A - Paul Bantick
+
+{BIO 15979097 <GO>}
+
+The other significant advantage that gives us is speed. We see data far quicker because
+clients are -- we are their first call. If something is happening, they call us first. So we will
+see trends, we will see costs, we should see movements far quicker because we have it
+in-house rather than waiting for third parties to tell us about what they are seeing.
+
+Q - Ivan Bokhmat
+
+{BIO 15378004 <GO>}
+
+Great. Thank you. By the way, this focused session on cyber is brilliant.
+
+A - Paul Bantick
+
+{BIO 15979097 <GO>}
+
+Thank you.
+
+Operator
+Our next question comes from (inaudible). Ming, please go ahead.
+
+Q - Unidentified Participant
+Page 31 of 36
+
+
+
+Company N ame: Beaz ley PL C
+Company Ticker: BEZ L N Equity
+Date: 2021-07-23
+
+FINAL
+
+Hi. Good morning. Thank you for taking my question. Just two questions please. First is, US
+liability line, there is a comment that you said you are expecting the return of social
+inflation. I think that's quite in line with market expectation, but could you just give a little
+bit color in terms of what you have assumed and what actions have you taken in that line?
+And my second question is that, you are quite bullish in terms of your growth for full-year
+2022, and how much of that is actually embedded with the rates momentum outlook and
+how much of that will be organic growth? Thank you.
+
+A - Adrian Cox
+
+{BIO 16257010 <GO>}
+
+Bloomberg Transcript
+
+Okay. So to take the first question, we are assuming that the social inflation goes back to
+the sort of levels that it was and the sort of drivers that it had before the pandemic struck.
+And so we were talking quite a lot about social inflation and where that was having an
+impact and the sorts of impacts that that was having back in 2018 and 2019. And our
+central assumption is that that's what we'll revert to. And we took underwriting action
+around that back in '17 and '18. And we have superimposed on top of that additional
+action reflecting the fact that we do think there is a danger of COVID-related claims
+activity on top of that, and that's what we have done and that those actions remain in
+place.
+When we look at growth next year, it is partly rate and partly organic growth. I think our
+overall level of rate change is probably slightly down from this year into next year, with
+slightly more organic growth, noting that overall that the rate environment should be -could be more positive but we will be able to provide a little bit more guidance on that at
+the end of the year when we've got more certainty about what that mix looks like, but at
+the moment, those are just our first pass at it. Did I miss anything?
+
+Q - Unidentified Participant
+Thank you.
+
+A - Adrian Cox
+
+{BIO 16257010 <GO>}
+
+Thank you, Ming.
+
+Operator
+Our next question comes from Andreas van Embden from Peel Hunt, Andreas, please go
+ahead.
+
+Q - Andreas van Embden
+
+{BIO 1795530 <GO>}
+
+Yes. Hello. Thank you very much. I just really had one question. We've seen sort of three
+years of rate on rate increases across your portfolio and your peers as well and I
+appreciate we are seeing an acceleration on cyber now. But just want to see how this sort
+of filters through into your underwriting margins. The rate increases across your whole
+portfolio, are they well above loss cost trends now? And are you seeing this translate into
+an improvement in your attritional loss ratio, i.e., your loss ratio excluding the reserve
+
+Page 32 of 36
+
+
+
+Company N ame: Beaz ley PL C
+Company Ticker: BEZ L N Equity
+Date: 2021-07-23
+
+releases and the large losses and the cat losses you incurred during the first half ? Thank
+you.
+
+FINAL
+
+A - Adrian Cox
+
+{BIO 16257010 <GO>}
+
+Okay. I'll have a go then. If I get it wrong, please. So, I think -- so yes, I mean what was Sally
+saying earlier, she was saying that one of the goals she had, when she took over the role
+a couple of years ago, was to show more consistent and better prior-year reserve
+releases. And we've gradually been getting closer to where we used to be as an
+organization, which I think is evidence of both the re-underwriting that we've been doing
+and the rates that we've managed to charge. So we are hopeful that the underwriting
+margin is back in the business and we will start to see that flow through to our financials,
+which is one of the reasons why I think we are guiding to the low 90%s.
+Having said all of that, we live in risky times, right So we are talking about European
+floods, we are talking about wildfires, we are talking about riots in South Africa, we are
+talking about cyber changes. The world is a very volatile place and so the game is never
+finished, right. So we consistently have to react and make sure we're on top of what's
+new as well as fixing what we know about from the past which is a sort of general hedge.
+As I said before, that all other things being equal, yes, it should begin to flow back in.
+
+Q - Andreas van Embden
+
+{BIO 1795530 <GO>}
+
+Bloomberg Transcript
+
+And how long do you think it will take for those rate increases to really sustainably take it
+back to the sort of low 90%s or perhaps even better combined ratios?
+
+A - Adrian Cox
+
+{BIO 16257010 <GO>}
+
+Well, we are guiding to low 90%s this year, Andreas. So we're hoping that that will start to
+go then. When you look at our combined ratios in the past, when we had combined ratios
+under 90%, those were generally years with significantly lower than average cat activity.
+So we had a sort of a run rate of 92%ish, low 90%s. And then the bonus, if you will, of a
+low natural cat-free year.
+
+Q - Andreas van Embden
+
+{BIO 1795530 <GO>}
+
+Understood. So the rate increases will bring you back to where you were on average
+before?
+
+A - Adrian Cox
+
+{BIO 16257010 <GO>}
+
+That's what a low 90%s projection would imply, yes, absolutely.
+
+Q - Andreas van Embden
+
+{BIO 1795530 <GO>}
+
+Okay. All right. Thank you very much.
+
+A - Adrian Cox
+
+{BIO 16257010 <GO>}
+
+Thank you.
+
+Page 33 of 36
+
+
+
+Company N ame: Beaz ley PL C
+Company Ticker: BEZ L N Equity
+Date: 2021-07-23
+
+Operator
+And our final question comes from Nick Johnson from Numis Securities. Nick, please
+proceed with your question.
+
+FINAL
+
+Q - Nick Johnson
+
+{BIO 1774629 <GO>}
+
+Hi, everybody. Just two questions, please. Firstly, on capital, the required capital growth
+for next year estimate of 5% is a lot lower than recent years. It's been around about 15% I
+think. You mentioned the benefit of rates in that calculation. Just wondering, to clarify,
+does the estimate for next year just plainly change in the percentage of premium ceded?
+And is it possible that the required capital number for next year could go up once you
+finalize your cyber growth plan for next year?
+And then the second question is on SPAC D&O growth, perhaps you could just talk a bit
+about the risk management in that category? And sure it feels like quite a risky segment.
+Thanks.
+
+A - Adrian Cox
+
+{BIO 16257010 <GO>}
+
+Right. Why don't you take the first one. While I bring my D&O underwriter on and ask -while you answer the second one.
+
+Bloomberg Transcript
+
+A - Sally Lake
+
+{BIO 20925273 <GO>}
+
+Yes. Hi, Nick. So yes, you are completely right what that 5% increase allows for is what
+we're planning to -- currently planning to grow in the business plan, early days on it net of
+reinsurance which as we've said is similar to what we're looking at this year. So that does
+allow for the reinsurance -- a growth in every insurance to continue into next year. If
+definitely -- that is an early estimate of the number and as in every year, that will evolve
+between now and the end of the year as we continue to evolve the business plan. And
+then also depending on what happens on cyber and depending -- A, what happens in
+cyber in terms of rate and exposure growth and what our decisions are within the
+business, part of which we continue to work through, they will all have effects on the
+capital and capital requirement They can go up and down, because as I said earlier, one
+of the reasons the capital is down compared to the overall premium growth is that our
+exposure is down on cyber in particular. So we have to work through all of that to see
+where we end up in the year. Again, following on from the point that Paul made earlier,
+that we've got some encouraging data but there is more to learn between now and when
+we finalize the business plan, but yeah, it will definitely evolve in the coming months. Over
+to you Adrian on SPACs? Was that long enough?
+
+A - Adrian Cox
+
+{BIO 16257010 <GO>}
+
+Thanks. So that's a great question to finish good morning with. So I guess to start with -SPACs have been around for a long time. I first had SPACs explained to me when I was
+running SL back when -- and than must have been five, seven years ago, and they've
+always been slightly curious instruments, but they've been around for a while and they've
+really come into vogue as we all know, the last couple of years or so. And they are quite
+esoteric in terms of the particularities of how the different transactions work and what the
+Page 34 of 36
+
+
+
+Company N ame: Beaz ley PL C
+Company Ticker: BEZ L N Equity
+Date: 2021-07-23
+
+FINAL
+
+liabilities are around those different transactions. And so we designed a policy form so
+that it was very clear what cover was been provided when because it wasn't always
+obvious just using a normal D&O policy.
+And that's sort of what we're trying to do, right. When things are a bit different, we
+customize and we bespoke sort of this very clear what is being done when. And there
+was a chance to do that here I think. We are -- so, although it's been around for a while
+and although we've managed to produce a policy form, and I think it's a very good one
+that produces that clarity of what's being covered, they always have been and they
+remain quite high-risk things. Just like IPOs, high-risk things, and that is reflected in our
+underwriting due diligence and how much limit we are going to payout and the sort of
+premiums that we charge. And we are very careful about what SPACs we do, avoiding
+these celebrity-endorsed ones and so on so forth. We like to do the ones that are proper
+businesses and so on and so forth. But they are a valid part of our D&O book and we
+have some history with them, but we're very careful because they are high risk just as
+we've been very careful with IPOs over the years.
+
+Q - Nick Johnson
+
+{BIO 1774629 <GO>}
+
+Thanks. That is reassuring. Thanks very much indeed.
+
+A - Adrian Cox
+
+{BIO 16257010 <GO>}
+
+Thanks, Nick.
+
+Bloomberg Transcript
+
+A - Sally Lake
+
+{BIO 20925273 <GO>}
+
+Thanks, Nick.
+
+Operator
+We currently have no further questions registered. So I'll now hand back to Adrian, Sally,
+and Paul to conclude today's call.
+
+A - Adrian Cox
+
+{BIO 16257010 <GO>}
+
+Great stuff. Thank you very much indeed. Well, thank you very much for calling in this
+morning. I hope that was useful. If you have any follow-up questions, please get in touch
+with Sarah and we'll do our best to answer them. And we look forward to seeing you very
+soon. Thank you very much.
+
+A - Sally Lake
+
+{BIO 20925273 <GO>}
+
+Thanks, everyone. Have a good day.
+
+A - Paul Bantick
+
+{BIO 15979097 <GO>}
+
+Good day.
+
+Page 35 of 36
+
+
+
+This transcript may not be 100 percent accurate and may contain misspellings and other
+inaccuracies. This transcript is provided "as is", without express or implied warranties of
+any kind. Bloomberg retains all rights to this transcript and provides it solely for your
+personal, non-commercial use. Bloomberg, its suppliers and third-party agents shall
+have no liability for errors in this transcript or for lost profits, losses, or direct, indirect,
+incidental, consequential, special or punitive damages in connection with the
+furnishing, performance or use of such transcript. Neither the information nor any
+opinion expressed in this transcript constitutes a solicitation of the purchase or sale of
+securities or commodities. Any opinion expressed in the transcript does not necessarily
+reflect the views of Bloomberg LP. © COPYRIGHT 2022, BLOOMBERG LP. All rights
+reserved. Any reproduction, redistribution or retransmission is expressly prohibited.
+
+Bloomberg Transcript
+
+FINAL
+
+Company N ame: Beaz ley PL C
+Company Ticker: BEZ L N Equity
+Date: 2021-07-23
+
+Page 36 of 36
+
+

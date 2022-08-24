@@ -1,0 +1,1009 @@
+Company N ame: Axis Capital H oldings L td
+Company Ticker: AXS US Equity
+Date: 2016-07-27
+
+Q2 2016 Earnings Call
+Company Participants
+FINAL
+
+Albert A. Benchimol
+Joseph C. Henry
+Linda Ventresca
+
+Other Participants
+Charles Joseph Sebaski
+Christopher Campbell
+Kai Pan
+Ryan Byrnes
+
+MANAGEMENT DISCUSSION SECTION
+
+Bloomberg Transcript
+
+Operator
+Good morning and welcome to the Second Quarter 2016 AXIS Capital Earnings
+Conference Call. All participants will be in listen-only mode. After today's presentation,
+there will be an opportunity to ask questions. Please note this event is being recorded.
+I would now like to turn the conference over to Linda Ventresca. Please go ahead.
+
+Linda Ventresca
+
+{BIO 5930519 <GO>}
+
+Thank you, Carrie, and good morning, ladies and gentlemen. I'm happy to welcome you
+to our conference call to discuss the financial results for AXIS Capital for the second
+quarter ended June 30, 2016. Our earnings press release and financial supplement were
+issued yesterday evening after the market closed. If you would like copies, please visit the
+Investor Information section of our website, www.axiscapital.com.
+We set aside an hour for today's call, which is also available as an audio webcast through
+the Investor Information section of our website. A replay of the teleconference will be
+available by dialing 877-344-7529 in the United States and the international number is 412317-0088. The conference code for both replay dial-in numbers is 10088680.
+With me on today's call are Albert Benchimol, our President and CEO; and Joe Henry, our
+CFO. Before I turn the call over to Albert, I will remind everyone that the statements made
+during this call, including the question-and-answer session, which are not historical facts,
+maybe forward-looking statements within the meaning of the U.S. federal securities laws.
+
+Page 1 of 17
+
+
+
+Company N ame: Axis Capital H oldings L td
+Company Ticker: AXS US Equity
+Date: 2016-07-27
+
+FINAL
+
+Forward-looking statements contained in this presentation include, but are not limited to,
+information regarding our estimate of losses related to catastrophe, policies and other
+loss events, general economic capital and credit market conditions, future growth
+prospects; financial results and capital management initiatives; evaluation of losses and
+loss reserves; investment strategies; investment portfolio and market performance;
+impact to the marketplace with respect to changes in pricing model; and our expectations
+regarding pricing and other market conditions.
+These are important factors that could cause actual results, level of activity, performance
+or achievements to differ materially from the results, level of activity, performance or
+achievements expressed or implied by the forward-looking statements as are further
+described in the risk factors set forth in AXIS' most recent report on Form 10-K and our
+other documents on file with the SEC. We undertake no obligation to update or revise
+publicly any forward-looking statements whether as a result of new information, future
+events or otherwise.
+In addition, this presentation contains information regarding operating income, our
+consolidated underwriting income and adjusted group and segment results, which are
+non-GAAP financial measures within the meaning of the U.S. federal securities laws. For a
+reconciliation of these items to the most directly comparable GAAP financial measures,
+please refer to our press release and financial supplement which can be found on our
+website.
+
+Bloomberg Transcript
+
+With that, I'd like to turn the call over to Albert.
+
+Albert A. Benchimol
+
+{BIO 2023727 <GO>}
+
+Thanks, Linda. Good morning everyone. Thank you for joining us today. Last night, AXIS
+reported second quarter net income of $119 million or $1.29 per diluted share, and
+operating income of $47 million or $0.51 per diluted share. As noted in our
+preannouncement of July 18, this quarter was impacted by 20 catastrophe and weather
+events, leading to $104 million of second quarter catastrophe and weather losses.
+We ended the quarter with diluted book value per share of $57.62. Growth in diluted book
+value per share adjusted for dividends, which we believe is the best measure of value
+creation, was up 3% in the quarter and 14% over the last 12 months.
+Joe will shortly review the financial results in more detail, but before that, I'd like to put
+our quarter's results into context. The insurance industry occasionally experiences
+quarters with unusual catastrophe frequency or severity, and this was one of them with
+over $19 billion in estimated insured losses.
+Our estimated market share of the losses is consistent with our position in the lines and
+geographies exposed and meaningfully lower than our average share in prior years.
+We're pleased that our actions in recent years positioned our portfolio to better absorb
+catastrophe and weather activity and deliver strong book value growth.
+
+Page 2 of 17
+
+
+
+Company N ame: Axis Capital H oldings L td
+Company Ticker: AXS US Equity
+Date: 2016-07-27
+
+FINAL
+
+Importantly, all relevant metrics in our second quarter and year-to-date results
+demonstrate clear progress along the various initiatives focused on delivering a
+consistent attractive return to shareholders. In addition to a lesser impact from
+catastrophes and weather than we would have experienced in the few short years ago,
+our accident share loss ratio and combined ratio, excluding the impact of catastrophes
+and weather, improved over the quarter and the year-to-date, even as we and the rest of
+the industry experienced weaker pricing.
+A significant highlight of this quarter was the launch of Harrington Re co-sponsored by
+AXIS Capital and Blackstone, with total capital of approximately $600 million and an A.M.
+Best rating of A minus. This important development significantly advances our 21st century
+approach to capital management, whereby we complement our own balance sheet with a
+broad range of third-party capital to deliver enhanced capacity, innovation and tailored
+solutions to our clients and brokers. With Harrington Re, AXIS will be able to deliver more
+capacity to profitable opportunities, have enhanced capital flexibility and generate an
+attractive flow of fee revenue.
+
+Bloomberg Transcript
+
+Our commitment to intelligent capital management was further demonstrated by the
+repurchase of $127 million in stock during the quarter. So far this year, we've returned $332
+million to our shareholders in the form of dividends and share repurchases, representing
+223% of year-to-date operating income. If current conditions hold, we intend to continue
+repurchasing stock for the remainder of the year and into the foreseeable future.
+We're pleased with our progress along strategic and operational initiatives, and our focus
+on continuing the diligent execution of our plans to position AXIS as a leader in specialty
+risks, delivering superior value creation to its shareholders.
+With that, I'll turn the call over to Joe.
+
+Joseph C. Henry
+
+{BIO 13390626 <GO>}
+
+Thank you, Albert, and good morning, everyone. During the quarter, we generated good
+results featuring net income of $119 million and an annualized ROE of 9%. Our operating
+income for the quarter was $47 million and annualized operating ROE of 3.6%.
+Our net income this quarter benefited from a strong performance from our investment
+portfolio, including realized gains, foreign exchange gains, continued favorable prior year
+development, a decrease in our ex-cat and weather current accident year loss ratio, and
+lower general and administrative expenses. These positive factors were offset by an
+elevated level of catastrophe and weather-related losses in the quarter.
+Despite the headwinds to net income, book value per share grew 3% in the quarter,
+favorably impacted by an increase in unrealized gains on our available-for-sale investment
+portfolio, which reflected downward shifts in sovereign yield curves and tightening of
+credit spreads, partially offset by strengthening of the U.S. dollar against the euro and
+sterling.
+
+Page 3 of 17
+
+
+
+Company N ame: Axis Capital H oldings L td
+Company Ticker: AXS US Equity
+Date: 2016-07-27
+
+FINAL
+
+Before I get into specifics, I'd like to provide some context for premium growth in our
+reinsurance segment both in the quarter and year-to-date. First, there were some
+significant transactions which I'll explain shortly. The more moderate growth adjusting for
+these transactions primarily reflects expansion of our relationships with key customers.
+Second, we have increased retrocessions, which are reflected in the ceded premium ratio
+of our reinsurance segment increasing in the quarter to 10%. Half of these cessions, which
+are third-party capital providers, and that will increase in the second half of the year and
+beyond with our new Harrington relationship.
+It is our expectation that Harrington will be writing at a net premium-to-capital ratio in the
+range of 0.25 to 0.3 to 1 and this will be entirely sourced from AXIS. There will be
+increased impacts on our financial results prospectively as our third-party capital activities
+ramp up, including a growing stream of fee income.
+
+Bloomberg Transcript
+
+Moving into the details of the income statement. Our second quarter gross written
+premiums increased by 11% with growth reported by both of our reporting segments. This
+number is inflated by multi-year treaties and timing variations. Adjusting for these, gross
+premium growth would be 5%.
+In the second quarter of 2016, our reinsurance segment top line was up $109 million or
+26% compared to the same period in 2015. Treaties written on a multi-year basis primarily
+in our liability line of business had a significant impact on our premiums written, with
+approximately $37 million of quarterly premium variance attributable to future
+underwriting years. A significant professional lines client changed their treaty from an
+excess of loss to a quota share structure, which resulted in $30 million of additional
+premium.
+Timing differences of approximately $19 million also had a favorable impact on our
+premium growth this quarter, primarily in our professional lines, where the restructuring of
+a large quota share treaty affected the timing of premium recognition. Adjusting for these
+items, our gross written premium grew $23 million or 5%, most of which was increased
+participations on existing treaties as well as a small amount of growth in our property
+catastrophe and liability lines.
+Our insurance segment recorded an increase in gross written premiums of $23 million or
+3% in the second quarter compared to the same period in 2015. Increased premiums
+from new business written in our property lines were partially offset by a reduction in our
+professional lines due to the recent exit from retail insurance operations in Australia. For
+the six-month period, gross written premiums were up 14%. Adjusting for multi-year and
+timing differences, we estimated that figure would have been 10%.
+Net premiums written increased by 6% in the second quarter of 2016 compared to the
+same period of 2015. An increase in the reinsurance segment was partially offset by a
+slight decrease in the insurance segment. Adjusting for multi-year and timing differences,
+volume would be down 4%.
+
+Page 4 of 17
+
+
+
+Company N ame: Axis Capital H oldings L td
+Company Ticker: AXS US Equity
+Date: 2016-07-27
+
+FINAL
+
+Reinsurance net premiums were up 17% in the second quarter of 2016 compared to the
+same period in 2015, reflecting the increase in gross written premiums in our liability,
+professional and catastrophe lines, partially offset by the increase in premiums ceded
+principally in the catastrophe and credit and surety lines. Insurance net premiums were
+down 1% in the second quarter of 2016 compared to the same period of 2015, impacted
+by an increase in the premiums ceded following increased reinsurance protection
+purchased principally in the professional lines.
+Net premiums earned increased by 1% in the second quarter of 2016 compared to the
+same period of 2015. An increase in the reinsurance segment was partially offset by a
+reduction in the insurance segment.
+The increase in net premiums earned recorded by our reinsurance segment was largely
+driven by growth in business written in our liability, marine and other, and catastrophe lines
+in recent periods, partially offset by an increase in reinsurance purchased in our
+catastrophe and property lines. The decrease in net premiums earned recorded by our
+insurance segment was primarily driven by a reduction in business written in our marine
+lines in recent periods, as well as increases in premiums ceded in our professional lines
+partially offset by growth in our accident and health lines.
+
+Bloomberg Transcript
+
+Our second quarter consolidated current accident year loss ratio increased by 6.5 points
+to 75% compared to the same period in 2015, driven by a 7.6% increase in the cat loss
+ratio. This was driven by an elevated level of catastrophe and weather-related losses.
+During the quarter, we incurred $109 million or 11.7 points on our current accident year loss
+ratio in catastrophe and weather-related losses net of reinstatement premiums,
+compared to $39 million or 4.1 points of such losses in the same period of 2015.
+In our preannouncement last week, we reported losses of $104 million for Q2 2016
+events, including $41 million for our insurance segment and $63 million for our reinsurance
+segment related to events that occurred in the second quarter, including the Fort
+McMurray wildfires, the U.S. weather events, Japanese and Ecuadorian earthquakes, and
+European floods. In addition for the current quarter, we reported $5 million of losses
+attributable to development of first quarter U.S. weather events.
+Our ex-cat and weather current accident year loss ratios improved to 63.3% compared to
+64.4% in 2015 with decreases in both segments. The insurance segment's current
+accident year loss ratio ex-cat and weather improved by 1.3 points to 63.2% compared to
+the same period in 2015, primarily due to a decrease in mid-size loss experience in both
+our marine and property lines.
+Our reinsurance segment current accident year loss ratio ex-cat and weather decreased
+by 1% to 63.4% compared to Q2 2015, primarily due to the recognition of better-thanexpected recent attritional loss experience and business mix changes across various lines
+of business.
+
+Page 5 of 17
+
+
+
+Company N ame: Axis Capital H oldings L td
+Company Ticker: AXS US Equity
+Date: 2016-07-27
+
+FINAL
+
+Year-to-date our current accident year loss ratio increased by 3.5 points to 69.2%
+compared to the same period in 2015, driven by a 4.3 point increase in the cat loss ratio.
+We reported $124 million of cat and weather-related losses compared to $47 million in the
+same period of 2015.
+After adjusting for these events, our current accident year loss ratio improved to 62.4%
+compared to 63.2% in 2015. The decrease was due to improvement in mid-size loss
+experience in our insurance marine and property lines, together with the recognition of
+better-than-expected recent attritional loss experience across various lines of business,
+partially offset by the adverse impact of rate and loss trends.
+Turning to loss reserves established in prior years, our results continue to benefit from net
+favorable loss reserve development, which amounted to $78 million during the second
+quarter. Short tail classes in both segments contributed $27 million of this balance. In
+addition, our professional insurance and reinsurance reserve classes recorded $15 million,
+our motor reserve class contributed $17 million, and our liability reinsurance reserve class
+contributed $15 million of net favorable prior year development during the quarter.
+
+Bloomberg Transcript
+
+Our year-to-date favorable loss reserve development was $148 million compared to $121
+million recognized during this first six months of 2015.
+During the three and six months ended June 30, 2016, our acquisition cost ratio increased
+modestly by 0.5 and 0.8, respectively, compared to the same periods in 2015, driven by
+increases in our reinsurance segment. Our reinsurance segment ratio was 25.1%. However,
+after adjusting for the impact of loss-sensitive features due to favorable prior year
+development reported in the quarter, the ratio would be 23.9% and is comparable to
+2015.
+It is important to understand trends in our results when it comes to the treatment of prior
+year business that includes adjustable sliding scale commissions based upon loss
+experience. In the periods that loss experience is favorable, our results will show an
+increase in favorable prior year development and the current year acquisition cost ratio.
+For Q2 2016, this primarily relates to our professional and motor lines of business.
+Decreased acquisition costs in our insurance segment were driven by higher ceding
+commissions following the expansion of our reinsurance programs, which were partially
+offset by higher commissions in certain lines of business.
+Our G&A expense ratio in the second quarter was 15.4% compared to 15.8% in the same
+period of 2015. On a year-to-date basis, our G&A expense ratio was 16% compared to
+16.9% in the same period of 2015. Removing the effects of some onetime items in both
+periods, expenses declined due to lower direct and performance-based compensation.
+Overall, we reported underwriting income of $10 million and a combined ratio of 102.2%
+for the second quarter. On a year-to-date basis, our underwriting income was $109 million
+with a combined ratio of 97.2%.
+
+Page 6 of 17
+
+
+
+Company N ame: Axis Capital H oldings L td
+Company Ticker: AXS US Equity
+Date: 2016-07-27
+
+FINAL
+
+Net investment income was $92 million for the quarter, an increase of $43 million from the
+previous quarter and is comparable to the second quarter of 2015. The improvement
+from the first quarter reflects a return to hedge fund performance to more normal levels.
+In aggregate, the total return on our cash and investment portfolio for the quarter was
+1.2%, 1.4% excluding the impact of foreign exchange. The total return in the current
+quarter benefited from a downward shift in the sovereign yield curves and tightening of
+credit spreads on investment grade and high yield corporate debt, partially offset by the
+decline in the British pound and euro FX rates.
+Our net income reflected a large increase in foreign exchange gains, driven by the impact
+of the appreciation of the U.S. dollar on our foreign-denominated liabilities, as well as
+realized gains on our investment portfolio.
+
+Bloomberg Transcript
+
+During the quarter, we repurchased an additional $127 million worth of common shares
+comprised of $125 million purchased pursuant to our board-authorized share repurchase
+program and $2 million relating to shares purchased in connection with the vesting of
+restricted stock awards. At July 22, 2016, the remaining authorization under the
+repurchase program approved by our board of directors was $500 million.
+We continue to make strong progress on the strategic goals and expansion opportunities
+with our $100 million investment in Harrington Reinsurance Holdings Limited, the parent of
+Harrington Re Limited. As I'm sure you're all aware, a subsidiary of AXIS Capital has been
+appointed exclusive liability manager for Harrington Re. This role will involve responsibility
+for negotiating and sourcing reinsurance business for recommendation to the
+management of Harrington Re.
+We noted previously that the impact of third-party capital activities will ramp up through
+the balance of the year-end. Commencing with the next quarter, we will provide
+disclosure with respect to premiums ceded to Harrington and other capital providers as
+well as the fee income generated.
+And with that, I'll turn the call back over to Albert.
+
+Albert A. Benchimol
+
+{BIO 2023727 <GO>}
+
+Thank you, Joe. Turning to industry conditions, as we look forward, notwithstanding the
+high loss quarter we just experienced, we expect market conditions to remain generally
+challenging with a localized firming where there is no escaping the need for improvement.
+In our insurance business, renewal rates were down 4% on average as compared to down
+3% in the earlier quarter. Casualty lines in the U.S. are strongest with positive rate change,
+while professional lines are flat to down modestly and property-related lines down the
+most.
+
+Page 7 of 17
+
+
+
+Company N ame: Axis Capital H oldings L td
+Company Ticker: AXS US Equity
+Date: 2016-07-27
+
+FINAL
+
+The London market is the most competitive with international property and energy lines
+still down double-digits. We're managing our activities accordingly, emphasizing service,
+responsiveness in the claims management as our differentiators.
+In the reinsurance market, we are encouraged by increasing size of discipline at least in
+North America. You'll recall we expected this in the most recent renewals and we have
+observed that. Most Florida renewals were completed flat to minus 5% and some
+accounts renewed at better terms. Following the June 1 renewals, there was strong
+demand for capacity that was generally only provided at higher terms.
+In professional and liability lines, cedents and brokers were pushing for better terms in
+ceding commissions, but generally faced strong pushback, especially from established
+industry leaders. And a number of placements were not completed even at flat ceding
+commissions.
+
+Bloomberg Transcript
+
+While we are not expecting across-the-board reinsurance price increases in the
+immediate future, we believe we are close to a floor, especially in North America. We
+expect Europe to be a bit more competitive and smaller international markets the most
+challenging of all, as capacity continues to exceed demand.
+Approximately, 10% of AXIS Re's 2015 expiring premium was renewable in July. For us,
+volume and price technical ratios were essentially flat with expiring as we managed our
+book to protect balance and profitability. Through these renewals, we continued to see an
+encouraging contraction of reinsurer panels as cedents position themselves to retain
+high-quality capacity to support their strategic positioning and growth. AXIS Re does very
+well in that environment as we provide outstanding product expertise, service, capacity
+and cooperative claims management.
+As Joe noted, much of our reported growth in reinsurance gross premiums written for the
+second quarter and year-to-date was related to multi-year deals and timing such that our
+growth in estimated gross annual premium was close to 10%. You'll also observe,
+however, that we are ceding more of our reinsurance premiums, leading to mid-singledigit growth in net reinsurance premium.
+This increase in cessions will accelerate in the second half of the year as we start sharing
+some of the risk with Harrington Re. And that will happen through quota shares of
+business that we write for ourselves to ensure the right kind of alignment between
+ourselves and our capital partners.
+Increasing our cessions in both insurance and reinsurance is consistent with our 21st
+century capital management philosophy. We intend to respond constructively to our
+clients and brokers when terms and conditions make sense, all the while expanding our
+risk funding flexibility and matching risk with the best source and form of capital.
+We fully intend to leverage our intellectual capital and relationships to do more for our
+clients and brokers on the one hand, provide attractive risk return opportunities to
+investors across the globe, and enhance our ROE in the process.
+Page 8 of 17
+
+
+
+Company N ame: Axis Capital H oldings L td
+Company Ticker: AXS US Equity
+Date: 2016-07-27
+
+FINAL
+
+Our path to leadership in specialty risks rest on a customer-centric front-end
+characterized by expertise and responsive service, and efficient operating structure that
+delivers decision-enhancing analytics, and multiple sources of risk funding to maximize
+capital flexibility and operational leverage. We've made great progress along these three
+pillars and we remain committed to executing on this strategy for the benefit of our
+clients and brokers, shareholders, and employees.
+And with that, let's open the call for questions.
+
+Q&A
+Operator
+We will now begin the question-and-answer session. Our first question comes from Kai
+Pan of Morgan Stanley. Please go ahead.
+
+Q - Kai Pan
+
+{BIO 18669701 <GO>}
+
+Good morning and thank you. First question, Albert, you mentioned in the past few years,
+you have been optimizing the portfolio for lower volatility business and the second
+quarter cat is kind of the realized task (25:41) of that strategy. So can you expand a little bit
+more on the performance of portfolio versus expectations? Because if the 3.6%
+operating ROE is still not ideal, do you see further reduction in the cat volatility?
+
+Bloomberg Transcript
+
+A - Albert A. Benchimol
+
+{BIO 2023727 <GO>}
+
+Thanks for that question, Kai. I would separate that question into two, which is how do we
+feel about the changes in our cat book volatility, and secondly, what are we doing to
+improve our overall ROE. So we'll take a look at this quarter, and this quarter is really –
+every event in every quarter is a single data point. And so, of course, you don't want to
+generalize just from one quarter.
+But if you take a look at where we were in the 2010 to the 2012, 2013 period and you look
+at the various cat quarters and the cat events that we had, our average market share of
+loss in that period was a little above 1.1%. Our share of loss in this quarter is 0.5%.
+If you look at the second quarter of 2013, which was another second quarter with multiple
+events, that was a quarter with approximately $12 billion to $13 billion of cat events across
+the industry. In that quarter, we reported $140 million of cat losses or 1.1% share of the
+reported losses in that quarter. And if you then turn around – and by the way, that was also
+about 15 points of cat losses in the second quarter of 2013.
+If you look at the 2016 second quarter, this is a quarter where people are estimating $18
+billion to $20 billion; we're using a $19 billion number. With that $19 billion, our market
+share of loss is not 1.1% like it was in 2013, but 0.5%. The combined ratio impact of those
+events was not 15%, but 10.7% and the book value loss was lower. So, I feel good that we
+have had significant change in our sensitivity to catastrophe events across the world.
+
+Page 9 of 17
+
+
+
+Company N ame: Axis Capital H oldings L td
+Company Ticker: AXS US Equity
+Date: 2016-07-27
+
+FINAL
+
+Does that mean that we're happy with where the portfolio is now? Of course not. We can
+always improve it and we will continue to do so. But I think that in this one event, and
+again, it's a single event, we want to see more quarters to demonstrate that. But certainly,
+if you look at the second quarter of 2016 compared to what our cat book did in the 2010
+to 2013 period, I would say that the exposure is about half of what it was then.
+Now with regards to the overall profitability, you're absolutely correct. We are not happy
+with the overall ROE. And we will continue to work on our portfolio to improve the
+profitability of our portfolio as we go forward and there, I'm very encouraged by what
+we're seeing in 2016.
+And as we mentioned in our prepared remarks, our loss ratio is down over 1 point in the
+second quarter and six months notwithstanding the fact that over the last 12 months, we
+and the industry have experienced, I'm going to say, approximately 1.5 points to 2 points
+of adverse rate and trend. So, we're continuing to work on the portfolio and we will
+continue to improve on that area.
+
+Bloomberg Transcript
+
+We are continuing to make decisive actions with regard to non-performing portfolios.
+You've seen us get out of Australia. You've seen us get out of global excess casualty. We
+are continuing to monitor our portfolios to determine if further action might be necessary
+in one or the lines of business. We're growing our subscale businesses, we're making
+intelligent use of reinsurance and we're optimizing our capital efficiency, and you can
+certainly expect us to do more as we go forward.
+Finally, a good chunk of that disappointment continues to be with regard to investment
+volatility, and what we have done with regard to that is we have shifted our investment
+portfolio to what we believe to be lesser volatile investment as we moved away from
+hedge funds and moved over to more illiquid long-term assets like private equity, real
+estate, debt and so on.
+So we have a full slate in front of us. I think the progress to-date is good, but we certainly
+are anticipating to continue on that path and deliver not simply satisfactory, but superior
+ROEs.
+
+Q - Kai Pan
+
+{BIO 18669701 <GO>}
+
+Thank you. That's very comprehensive. Then follow-up on the insurance segment that you
+saw a core loss ratio improvement year-on-year for the first quarter – both first quarter
+and second quarter, but you can see the second quarter actually – the underlying loss
+ratio like higher than the first quarter. I just wonder if that six months' view is probably is a
+better indication of the current trends and also, any other opportunity to improve the core
+loss ratio in the current pricing environment.
+
+A - Albert A. Benchimol
+
+{BIO 2023727 <GO>}
+
+The reasons for the second quarter over the first quarter is we had more mid-size losses
+in the second quarter than the first quarter. So you're always going to have some volatility.
+
+Page 10 of 17
+
+
+
+Company N ame: Axis Capital H oldings L td
+Company Ticker: AXS US Equity
+Date: 2016-07-27
+
+But overall, again I feel good about the fact that the loss ratio has come down for the six
+months and the second quarter.
+
+FINAL
+
+With regards to ongoing improvements, I'll go back to my earlier answer, we're continuing
+to apply analytics to guide our underwriting activities and we expect to continue to see
+results from those portfolio improvement activities.
+
+Q - Kai Pan
+
+{BIO 18669701 <GO>}
+
+Okay. Lastly, on the expense side, are we still on track to achieve the $50 million expense
+saving by 2017 and beyond that, any other sort of potential opportunities?
+
+A - Joseph C. Henry
+
+{BIO 13390626 <GO>}
+
+Yes, Kai. It's Joe. We're very pleased with the progress that we've made on the expense
+side. If you compare our year-to-date expense ratio drop, you can see it's down about
+$20 million. So, we're well on our way to achieving the $50 million that we outlined in prior
+periods. And frankly, we're taking some additional actions to continue to improve upon
+that. So, we're very comfortable with the progress made on the expense side.
+
+Q - Kai Pan
+
+{BIO 18669701 <GO>}
+
+Okay. Great. Thank you so much.
+
+Bloomberg Transcript
+
+Operator
+Our next question comes from Charles Sebaski of BMO Capital. Please go ahead.
+
+Q - Charles Joseph Sebaski
+
+{BIO 17349221 <GO>}
+
+Thank you. Good morning. First question, I guess just a little more clarity on Harrington Re
+and how the flow-through it's going to be. I think, Joe, you said they expect to write it
+0.25 to 0.3, so that would be a little under $200 million. So, should we think that your
+reinsurance book is going to grow by $200 million and then that will be ceded off ? Is that
+conceptually how that's going to work?
+
+A - Albert A. Benchimol
+
+{BIO 2023727 <GO>}
+
+I think you have to separate the front-end from the back-end. I think the front-end will
+grow or shrink based on the opportunities available to us. And then, we will turn around
+and cede a business to Harrington in the scale that both Joe and you have estimated.
+I think whether we grow or not on the reinsurance side, it still makes sense to cede
+premium to Harrington Re. We get the opportunity of leveraging our front-end, we get
+the opportunity of earning fees and we have the opportunity of establishing multiple
+sources of risk funding, which are, I believe, critical to the success of the company going
+forward.
+
+Q - Charles Joseph Sebaski
+
+{BIO 17349221 <GO>}
+Page 11 of 17
+
+
+
+Company N ame: Axis Capital H oldings L td
+Company Ticker: AXS US Equity
+Date: 2016-07-27
+
+Okay. And then it'll come out of the reinsurance section then as opposed to your primary
+book where you might have a reinsurance program with Harrington Re? Will they be
+getting any access to the primary? Or is at all on the reinsurance side?
+
+FINAL
+
+A - Albert A. Benchimol
+
+{BIO 2023727 <GO>}
+
+Charles, that's a very good question. Predominantly, they will see the bulk of their
+business coming in from AXIS Re's book, but Harrington will also be given an opportunity
+to participate in our established reinsurance panels. And so, that will also be a source of
+revenues to Harrington Re.
+
+Q - Charles Joseph Sebaski
+
+{BIO 17349221 <GO>}
+
+Okay. And just a little follow-up, I appreciate the clarity on the share of loss in the back
+years versus this, but I guess – and you mentioned you thought your $19 billion loss
+estimate was in the middle of the industry estimates. I guess I thought it seemed a bit
+high. It seemed that a lot of the competitors that were announcing industry losses were
+more in the $14 billion to $16 billion range. And I guess I'm just curious on what your overall
+sensitivity of your loss pick is, the $104 million, to that end industry loss as it develops over
+time?
+
+Bloomberg Transcript
+
+A - Albert A. Benchimol
+
+{BIO 2023727 <GO>}
+
+Charles, I haven't gone through every report in detail, but my understanding is that many
+of the other companies were giving you the total of the cats that they were reporting for.
+So their geographic expansion, the business that they're in may have caused them to
+include or exclude a cat, whether it's in Ecuador or in Japan or Europe and that, I think, is
+the basis for the difference.
+We have been, for as long as I recall, a global company. And so we do participate in
+Japan. We do participate in Latin America, in Europe, in America, and therefore, we like
+the spread that we get as a result of this, but it also means that when there are global
+catastrophe events, we will include them in our book.
+And so, what you see in the $18 billion to $20 billion that we are telling you is the total for
+all of the events that we've named. And we continue to believe that those are reasonable
+numbers.
+Joe?
+
+A - Joseph C. Henry
+
+{BIO 13390626 <GO>}
+
+Charles, the only thing I'll add to that is that we've taken a very close look at each of these
+events. And if for some reason the events deteriorate, in other words the loss estimates
+go up, we will not participate on a proportional basis to how others might be affected in
+the industry.
+
+Q - Charles Joseph Sebaski
+
+{BIO 17349221 <GO>}
+
+Page 12 of 17
+
+
+
+Company N ame: Axis Capital H oldings L td
+Company Ticker: AXS US Equity
+Date: 2016-07-27
+
+Excellent. Thank you very much for the answers, guys.
+
+A - Albert A. Benchimol
+
+{BIO 2023727 <GO>}
+
+FINAL
+
+Thank you.
+
+Operator
+Our next question comes from Christopher Campbell of KBW. Please go ahead.
+
+Q - Christopher Campbell
+
+{BIO 20262752 <GO>}
+
+Hi, good morning and congrats on a great quarter.
+
+A - Albert A. Benchimol
+
+{BIO 2023727 <GO>}
+
+Thank you.
+
+Q - Christopher Campbell
+
+{BIO 20262752 <GO>}
+
+Okay. My first question is just with Harrington now in the market, is this going to change
+AXIS' reinsurance underwriting appetite?
+
+Bloomberg Transcript
+
+A - Albert A. Benchimol
+
+{BIO 2023727 <GO>}
+
+No, it's exactly the same underwriting appetite. And I think a clear feature of Harrington
+for us is we only share business with Harrington that we are writing and retaining the
+majority of that business. So if it's not good for us, it's not good for Harrington. And if it's
+good for us, we believe it'll be good for Harrington.
+So, we will continue to size our portfolio appropriately. We will continue to underwrite with
+the underwriting discipline that is core to our strategy. But we also do recognize that
+today, we have the equivalent of $600 million of extra capacity. So where the risks are
+appropriate, we will be happy to take a larger share knowing that Harrington will share in
+that.
+
+Q - Christopher Campbell
+
+{BIO 20262752 <GO>}
+
+Okay. So you have $600 million funded currently, will you continue additional fundraising in
+that vehicle? And then, how should we think about the premiums written to fee income
+for modeling?
+
+A - Albert A. Benchimol
+
+{BIO 2023727 <GO>}
+
+Right. I think that we are – part of our strategy is to expand our sources of third-party
+capital. So we may, certainly, at some point in the future, do a second round for
+Harrington. We may look for other sources of capital for different risks than those that are
+currently targeted by Harrington.
+
+Page 13 of 17
+
+
+
+Company N ame: Axis Capital H oldings L td
+Company Ticker: AXS US Equity
+Date: 2016-07-27
+
+And as Joe mentioned earlier, in our third quarter supplement, we will introduce
+information with regards to managed premium. You'll see exactly how much we write
+gross and net, and we will also disclose on that sheet the fees that we are collecting as
+part of our third-party capital initiative.
+
+FINAL
+
+Q - Christopher Campbell
+
+{BIO 20262752 <GO>}
+
+Okay. Thanks. That's very helpful. And just two more minor questions. Just a little
+surprised by the reinsurance property cat and the insurance commercial property growth.
+Can you give a little bit more details behind those opportunities and what you're seeing?
+
+A - Albert A. Benchimol
+
+{BIO 2023727 <GO>}
+
+My understanding is they're both up on a gross basis and both down on a net basis. And
+what we're doing is optimizing the net portfolio, of course.
+
+Q - Christopher Campbell
+
+{BIO 20262752 <GO>}
+
+Okay. Perfect. That makes sense. Then just the final question is with the more competitive
+pricing environment and reserve releases were up about 140 bps year-over-year. So just
+for the more significant lines driving that, what accident years are those releases coming
+from?
+
+Bloomberg Transcript
+
+A - Joseph C. Henry
+
+{BIO 13390626 <GO>}
+
+On the reinsurance side, the releases are coming from virtually all accident years, with the
+exception of 2015. We had some development on a property loss there. And for the most
+part on the insurance side, it's the same story. We had one or two earlier accident years in
+which there were adverse development, but it relates to an unusual transaction. It has
+nothing to do with actual development. So for the most part, favorable development is
+coming from all accident years in both sides.
+
+Q - Christopher Campbell
+
+{BIO 20262752 <GO>}
+
+Okay. Thanks for all the answers and good luck in 3Q.
+
+A - Albert A. Benchimol
+
+{BIO 2023727 <GO>}
+
+Thank you.
+
+A - Joseph C. Henry
+
+{BIO 13390626 <GO>}
+
+Thank you.
+
+Operator
+Our next question comes from Ryan Byrnes of Janney. Please go ahead.
+
+Q - Ryan Byrnes
+
+{BIO 16902592 <GO>}
+
+Great. Thanks. Good morning everybody.
+Page 14 of 17
+
+
+
+Company N ame: Axis Capital H oldings L td
+Company Ticker: AXS US Equity
+Date: 2016-07-27
+
+A - Albert A. Benchimol
+
+{BIO 2023727 <GO>}
+
+Good morning.
+
+FINAL
+
+Q - Ryan Byrnes
+
+{BIO 16902592 <GO>}
+
+I want to follow up a little bit on the prop cat I guess gross growth but net declines. Just
+want to understand the strategy there and maybe what kind of retro purchases you're
+buying there and just trying to get a little further understanding of that strategy.
+
+A - Albert A. Benchimol
+
+{BIO 2023727 <GO>}
+
+I think the strategy on the cat reinsurance business is again a combination of not gross
+and retro, but gross, retro and third-party capital. So part of our premiums are not simply
+shared in the retro market, but through third-party capital. As you know, there is appetite
+in the investment community for catastrophe risk and we shared with them also.
+I go back to the point that I made earlier, which is that it's important for us to make sure
+that we are responsive to attractive opportunities in the market. The front-end really
+needs to be about serving our clients and brokers and making sense, and writing business
+when it makes sense. And then secondly, on the back-end having diversified sources of
+risk funding.
+
+Bloomberg Transcript
+
+And so, we are certainly going to continue to look for opportunities to serve our clients
+and brokers on the front-end. But in many cases, we don't expect that that will result in a
+net increase because we will be sharing those risks with capital partners.
+Joe, you want to add to that?
+
+A - Joseph C. Henry
+
+{BIO 13390626 <GO>}
+
+Yes. Ryan, just to comment on the insurance property growth, which was about 7% in the
+quarter, it's really due to three reasons. One, as you know, we participated into some
+facilities as of the first of the year. Those two broker portfolios have a property element
+to them.
+Secondly, in renewable energy, we actually rewrote a major account, which gave the
+impression of creating more growth and maybe we actually did. And then third, on the
+Lloyd's side, we're actually seeing – with our new Lloyd's capability, we're actually seeing a
+lot more smaller accounts which are helping to diversify our portfolio.
+And then on the ceded side, we've actually changed our reinsurance program to the point
+where we're now excess of $5 million as opposed to excess of $10 million as we've been
+in the past. So, there's been some growth, but as Albert pointed out, we're ceding net
+back out on the reinsurance side. So, I hope that helps.
+
+Q - Ryan Byrnes
+
+{BIO 16902592 <GO>}
+
+Page 15 of 17
+
+
+
+Company N ame: Axis Capital H oldings L td
+Company Ticker: AXS US Equity
+Date: 2016-07-27
+
+Okay. Yeah. No, it does. And then, we could be just moving back to Harrington as well.
+How long should that take to get it to scale, again, of that 0.25 or 0.3 to 1? Could that be
+done in the next 12 months? I imagine it could be possible.
+
+FINAL
+
+And then secondly, I just also wanted to just understand what their kind of prop cat kind of
+PML tolerance would be?
+
+A - Albert A. Benchimol
+
+{BIO 2023727 <GO>}
+
+One of the values of creating a company like Harrington is that, in fact, you can ramp up
+the volume immediately simply by sizing the quota share that we have with them. And
+you're absolutely correct that we expect Harrington to reach their premium to capital
+leverage in the first year and we will grow that as they grow their capital.
+The second question related to their PML appetite, and Harrington is substantially focused
+on mid- to long-tail lines. And that is – the cat book is not a large part of that book. It will
+have some small cat exposure for diversification purposes, but Harrington needs to be
+considered really as a mid- to long-tail line reinsurer.
+
+Q - Ryan Byrnes
+
+{BIO 16902592 <GO>}
+
+Bloomberg Transcript
+
+Okay. Great. And then, Joe, just one quick little nitpick (43:17) one. Corporate expenses
+kind of – they're running mid-$20 million. They bumped up a little above $30 million this
+quarter. Was that something to do with Harrington ramp-up or just other onetimers?
+
+A - Joseph C. Henry
+
+{BIO 13390626 <GO>}
+
+It's actually more due to reallocation between our segments in corporate. The total
+expenses really have gone down as I mentioned before, but we decided to keep certain
+expenses at a corporate level as opposed to allocate them to the businesses. So, if you
+look at the business expense line, it's actually down, offset by the increase on the
+corporate expenses.
+
+Q - Ryan Byrnes
+
+{BIO 16902592 <GO>}
+
+Sure. But that relationship should continue though. So I guess a little bit more into
+corporate then a little bit locked into (43:56) the segments?
+
+A - Joseph C. Henry
+
+{BIO 13390626 <GO>}
+
+Yeah. I think the run rate you're seeing for corporate expenses should hold.
+
+Q - Ryan Byrnes
+
+{BIO 16902592 <GO>}
+
+Okay. Great. No, thanks for that.
+
+A - Joseph C. Henry
+
+{BIO 13390626 <GO>}
+
+Yeah.
+
+Page 16 of 17
+
+
+
+Company N ame: Axis Capital H oldings L td
+Company Ticker: AXS US Equity
+Date: 2016-07-27
+
+Operator
+And this concludes our question-and-answer session. I would now like to turn the
+conference back over to Albert Benchimol for any closing remarks.
+
+FINAL
+
+A - Albert A. Benchimol
+
+{BIO 2023727 <GO>}
+
+Thank you very much for participating in our conference call and we look forward to
+speaking with you again later. Have a good summer. Bye-bye.
+
+Operator
+
+Bloomberg Transcript
+
+The conference has now concluded. Thank you for attending today's presentation. You
+may now disconnect your lines. Have a great day.
+
+This transcript may not be 100 percent accurate and may contain misspellings and other
+inaccuracies. This transcript is provided "as is", without express or implied warranties of
+any kind. Bloomberg retains all rights to this transcript and provides it solely for your
+personal, non-commercial use. Bloomberg, its suppliers and third-party agents shall
+have no liability for errors in this transcript or for lost profits, losses, or direct, indirect,
+incidental, consequential, special or punitive damages in connection with the
+furnishing, performance or use of such transcript. Neither the information nor any
+opinion expressed in this transcript constitutes a solicitation of the purchase or sale of
+securities or commodities. Any opinion expressed in the transcript does not necessarily
+reflect the views of Bloomberg LP. © COPYRIGHT 2022, BLOOMBERG LP. All rights
+reserved. Any reproduction, redistribution or retransmission is expressly prohibited.
+
+Page 17 of 17
+
+

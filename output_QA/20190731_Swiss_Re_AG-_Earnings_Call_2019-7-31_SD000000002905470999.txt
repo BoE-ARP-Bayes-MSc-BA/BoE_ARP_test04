@@ -1,0 +1,1506 @@
+Company N ame: Swiss Re AG
+Company Ticker: SREN SW Equity
+Date: 2019-07-31
+
+Q2 2019 Earnings Call
+Company Participants
+FINAL
+
+Andreas Berger, Unknown
+Christian Mumenthaler, Group CEO
+Edouard Schmid, Group Chief Underwriting Officer
+John Robert Dacey, Group CFO
+Philippe Brahin, Head IR and Head Governmental Affairs & Sustainability
+
+Other Participants
+Andrew James Ritchie , Partner, Insurance
+Edward Morris , Equity Analyst
+Farooq Hanif , Head of Insurance Research in Europe
+Frank Kopfinger, Research Analyst
+James Austin Shuck, Director
+Jonathan Peter Phillip Urwin, Director and Equity Research Insurance Analyst
+Kamran Hossain, Analyst
+Sami Taipalus , Research Analyst
+
+Bloomberg Transcript
+
+Simon FÃ¶ssmeier, Head of Insurance
+Vikram Gandhi, Equity Analyst
+Vinit Malhotra, Banca di credito finanziario S.p.A., Research Division
+William Hawkins , MD, Head of European Insurance Research and Senior Analyst
+
+Presentation
+Operator
+Good morning, or good afternoon. Welcome to Swiss Re's Half-Year 2019 Results
+Conference Call.
+Please note that today's conference call is being recorded.
+At this time, I would like to turn the conference over to Christian Mumenthaler, Group
+CEO. Please go ahead.
+
+Christian Mumenthaler
+
+{BIO 6479864 <GO>}
+
+Thank you very much. Good morning. Good afternoon, everybody. Welcome to our halfyear 2019 results Q&A call. I'm here with John Dacey, our Group CFO; Edi Schmid, our
+
+Page 1 of 25
+
+
+
+Company N ame: Swiss Re AG
+Company Ticker: SREN SW Equity
+Date: 2019-07-31
+
+Group Chief Underwriting Officer; Andreas Berger, the CEO of Corporate Solutions; and
+Philippe Brahin, our Head of Investor Relations.
+
+FINAL
+
+Before we go to Q&A, I will make a few comments to put today's reported information
+into context. Andreas will complement this by adding some additional color on Corporate
+Solutions.
+The Group reported a net income of USD 953 million for the first half of 2019, supported
+by the strong results of our Reinsurance business unit and reflecting an excellent
+investment result.
+I want to emphasize the very strong performance of P&C Re, despite significant adverse
+claims development of Typhoon Jebi in Q1. The enhanced earnings power of P&C Re, in
+an improved pricing environment, is supported by our core strengths: the scale of the
+business, coupled with a flat expense base, the diversification via Life & Health Re, our
+unparalleled client access and the expertise and risk knowledge built over many decades.
+In the year-to-date renewals we found attractive opportunities to deploy capital and
+expect our pretax earnings to increase by more than USD 350 million as premiums are
+earned.
+
+Bloomberg Transcript
+
+Life (inaudible) Reinsurance continues to deliver very good results, supported by
+improved mortality experience in the Americas and portfolio management actions.
+In Corporate Solutions, we have now completed the previously announced business and
+reserve review, implementing decisive management actions to put the business unit back
+on track to profitability.
+The group has contributed USD 600 million of capital into Corporate Solutions, restoring
+its SST capital position to a level which we consider adequate. Andreas will tell you more
+about Corporate Solutions in a few moments.
+On to Life Capital. We obviously spent a lot of time and effort in H1 preparing for the
+ReAssure IPO. Unfortunately, market conditions were not favorable. And we decided to
+suspend the process. We still aim to deconsolidate this business and will continue to act in
+shareholders' best interest.
+And with that, I'll hand over to Andreas.
+
+Andreas Berger
+
+{BIO 15171017 <GO>}
+
+Thanks, Christian. Good afternoon to everyone also from my side. I'd like to make a few
+remarks on the work undertaken at Corporate Solutions since I took over on 1st of March
+this year.
+
+Page 2 of 25
+
+
+
+Company N ame: Swiss Re AG
+Company Ticker: SREN SW Equity
+Date: 2019-07-31
+
+FINAL
+
+We conducted a comprehensive review of our portfolio and left no stone unturned.
+Specifically, we looked at historic profitability and volatility, both for Corporate Solutions
+and for the market; potential market size; legal trends; as well as our ability to efficiently
+service customers and provide a product that is differentiated from competitors.
+Through this thorough review we identified the business lines where we wanted to focus
+our profitability growth and those which needed to be addressed. The pruning actions
+focused on 35% of the book and are expected to decrease our premiums by
+approximately 20% of our book. The remaining portfolio is in much better shape. And we
+also benefit from the positive rate momentum observed in commercial insurance. In the
+first half of 2019, the risk-adjusted price quality of Corporate Solutions portfolio improved
+by 9%. We expect pricing momentum to continue in the second half. But also beyond that.
+As part of our detailed reserve review, we analyzed case reserves mostly related to prior
+accident year large losses and strengthened reserves where appropriate. The majority of
+the development was in recent accident years 2017 and '18. From a line of business
+perspective, liability, predominantly North America liability. And property were the most
+impacted.
+
+Bloomberg Transcript
+
+In order to protect Corporate Solutions back book, an adverse development cover was
+put in place with P&C Reinsurance business unit. And we have set up our tactical and
+strategic reinsurance protection to reduce volatility, going forward.
+As another outcome of our strategic review, I have installed a new management team,
+our executive committee for CorSo ensuring all parts of our business are represented at
+our leadership table. This ensures that our decisions taken are based on input from all
+relevant areas and that we deliver to our customers quickly and consistently across
+geographies.
+We're confident that these decisive actions will drive a turnaround in the performance of
+Corporate Solutions and expect to achieve 98% combined ratio in 2021.
+With that, I'll hand over to Philippe to introduce the Q&A session.
+
+Philippe Brahin
+
+{BIO 19081619 <GO>}
+
+Thank you, Andreas. And good day to all of you also from my side. So as usual, before we
+start the Q&A, I'd like to remind you to please restrict yourselves to 2 questions each and
+then register again if you have follow-up questions.
+So with that, Operator, could we please take the first question?
+
+Questions And Answers
+Operator
+Page 3 of 25
+
+
+
+Company N ame: Swiss Re AG
+Company Ticker: SREN SW Equity
+Date: 2019-07-31
+
+The first question comes from Andrew Ritchie, from Autonomous.
+
+FINAL
+
+Q - Andrew James Ritchie
+
+{BIO 18731996 <GO>}
+
+I think the first question is for Edi. Could you give us a sense as to what the nominal rate
+increase was year-to-date and in July if you didn't allow for higher loss costs? Because I
+think your +1 and +2 has some reflection of higher loss costs in it. And on renewal, are you
+playing in the very high layers? Because I noticed your nat cat PML went up considerably
+again from the year-end. But obviously that's not matched by the sort of volume of nat cat
+premium. So where exactly is the best-priced nat cat business in the U.S. now, what layer?
+Is it being found that?
+And secondly, on CorSo I'm still not sure of the longer-term ambition. Is it still to generate
+a 10% to 15% ROE? It doesn't look like the 98% combined in today's interest rate
+environment with a book that's becoming shorter tail is enough to get you there. And also
+on the strategy, is it still the aim to expand into Global Master and, generally, just further
+down the layers from excess. Is that still the long-term ambition?
+
+A - Philippe Brahin
+
+{BIO 19081619 <GO>}
+
+Thanks, Andrew. I think it's more, like, 4 questions. But that's okay. Go ahead, Edi.
+
+Bloomberg Transcript
+
+A - Edouard Schmid
+
+{BIO 18942809 <GO>}
+
+Okay. On the first one, Andrew, regarding the price increase and how does this relate to,
+let's say, adjustment to models, that's basically what you were asking about. So yes, we
+have adjusted our loss models in some part of the business where we had new learnings.
+In Japan, out of Jebi, we adjusted the model to some extent. And obviously there was the
+experience with the wildfires in California where we also took action and made the loss
+model a bit more conservative.
+So the 1% does actually reflect this. So without these adjustments, the price increase
+would look a bit better. But it's fair to say this would not make a huge difference.
+Obviously, we need to see -- this 1% is across a very broad-based portfolio, which has a
+lot of cat business but also a big quota share business. So the 1% really needs to be seen
+in that context.
+So it would be a bit better. But even I think 1% across this (inaudible) portfolio is a
+significant improvement, which also explains why our combined ratio estimate moved
+from 100% two years ago, 99% last year. And now we are comfortable to get to the 98%.
+And the second part of your question is regarding the nat cat growth. It's fair to say that
+this is geared more towards the peak perils: hurricane U.S., earthquake. So the increase in
+exposure, measured in valued risk, which we disclose externally, is more pronounced than
+the increase in premium and expected loss. So that explains why it's not moving in sync.
+I don't think you can put out any, let's say, layers which we prefer. It's really across the
+board. We look at it on a client and ideal basis. Also, quite a few of these cat deals are
+Page 4 of 25
+
+
+
+Company N ame: Swiss Re AG
+Company Ticker: SREN SW Equity
+Date: 2019-07-31
+
+structured in the form of a transaction. So it's not really possible to point to any one area.
+
+FINAL
+
+There's a lot of factors that really come together and boil down to what we think is now a
+very adequately priced cat portfolio. That's why we felt very comfortable to deploy more
+capital. We are confident it will turn into an attractive return on capital because we have all
+the diversification and it will boil down to a significant contribution to earnings at the end
+of the day.
+
+A - Andreas Berger
+
+{BIO 15171017 <GO>}
+
+Okay. I'll take the CorSo question. Andreas, here. First of all, on your ROE target, we have
+no reason to change the ROE target for CorSo which stands at 10% to 15%. With our
+ambition and target for 2021 with 98%, we think we should end up at the lower end of our
+target corridor. So we're pretty comfortable on that one.
+
+Bloomberg Transcript
+
+On the longer-term ambition, first of all, the focus this time here for the half-year results is
+profitability, restore profitability to set the foundation for future growth. And we'll come
+back in November, obviously, at the Investor Day to be a bit more specific on our strategy,
+going forward, with a strategic vision. We call it Strategic Vision '23-Plus.
+Now on your Primary Lead, all I can say is, yes, this is the right move. It's quite logical that
+for a company like Swiss Re and Swiss Re Corporate Solutions, with the expertise, the risk
+knowledge and everything on technical capabilities that we have, we should drop down
+from excess positions. We should go down from wholesale markets more to where the
+risk is, through primary layers, because that's where we can differentiate and where you
+also get the premium levels that you require in order to sustainably meet also your target
+on the ROE side.
+I think we can declare victory in penetrating the Primary Lead markets. We've invested a
+lot of money into people, into capabilities. And I think this is a tick in a box for us.
+On the Global Master program business, this is sort of my home turf, I truly believe that
+there are very few players who really can play in this segment. We are probably one of
+the few ones that have identified a key differentiator, which is the delivery of the program.
+A lot of competitors in this segment struggle due to IT legacy. We've developed a stateof-the-art technology platform to deliver Global Master programs. I think this is something
+we're going to capitalize on and you will hear much more on our November Investor Day.
+But I'm very comfortable and very confident that we would have success with this one.
+That's the feedback that we get from clients and from brokers.
+
+A - Philippe Brahin
+
+{BIO 19081619 <GO>}
+
+Great. Thanks, Andrew, for your questions.
+
+Operator
+The next question comes from Kamran Hossain, from RBC.
+
+Page 5 of 25
+
+
+
+Company N ame: Swiss Re AG
+Company Ticker: SREN SW Equity
+Date: 2019-07-31
+
+FINAL
+
+Q - Kamran Hossain
+
+{BIO 17666412 <GO>}
+
+2 questions. The first one, coming back to CorSo my read of it is that it looks like an
+exceptionally good job there. I'm really pleased you're addressing it. But when you think
+about CorSo it might be one for Christian. But could you maybe talk about the similarities
+between the Life & Health changes a few years ago and the Corporate Solutions
+restructuring changes that actually you've announced today? Is this -- what's your degree
+of confidence in here we make changes here and then we can move on and anticipate
+much better results? So that's the first question.
+The second question, I saw the comments about ReAssure and committed to reducing
+the stake. You didn't make any comment about the second tranche of the buyback. How
+should we think about that for now?
+
+A - Christian Mumenthaler
+
+{BIO 6479864 <GO>}
+
+Thanks, Kamran. So on the comparison of Life & Health it's actually an interesting
+question. So to me there's some parallels and some differences.
+
+Bloomberg Transcript
+
+I think the parallel I would drive is that when a business starts to get into trouble it's not a
+good idea to bleed it out over many years, even though that might be the first instinct
+because it's too hard to face reality. So I think clearly my aim was to take on the learnings
+from Life & Health and apply them to Corporate Solutions, which is why so much work has
+gone into these 2 quarters, on all different aspects. And the choices we made are painful.
+I think the difference is that obviously Life & Health is a much less volatile business. In
+CorSo whatever we do, if there's a big nat cat it's going to hit CorSo and there's not
+much I can do. Whereas in Life & Health, I think some of these results are much smoother
+and easier to predict.
+What's also difficult to predict is ultimately where will the trends go in U.S. casualty, in
+particular, where we saw some underlying trends increase. We had to make some
+assumptions. But obviously nothing is ever certain.
+So I'd say we tried our best. We also through the ADC cover protect some of the old
+reserves. I wanted to make sure the team has a real chance to start from here. But I'm
+also aware that there are some. And you are aware that there are some, risk factors
+which could affect them. But I would hope that the underlying program that Andreas has
+come up with to me is very plausible and executable because of price increase in the
+market. We can prune; pruning is part of it. But I think, frankly, it's the price increases which
+are really, really needed and necessary and coming through at this stage which make this
+plan in my view executable.
+Do you want to, John, you want the second one?
+
+A - John Robert Dacey
+
+{BIO 4437051 <GO>}
+
+Page 6 of 25
+
+
+
+Company N ame: Swiss Re AG
+Company Ticker: SREN SW Equity
+Date: 2019-07-31
+
+FINAL
+
+And with respect to the share buyback, first of all, just reiterate that the first tranche of
+CHF 1 billion is well on track. As of yesterday we've completed about 45% of it and look to
+continue to execute that over the coming months.
+As we said before, the second tranche is not dependent necessarily on the ReAssure
+IPO; but rather, more broadly, on the excess capital position during the course of the year
+and the second half of the year, in particular. Unambiguously, I think it's safe to say that not
+doing the ReAssure IPO will make it a little less likely that we find ourselves with excess
+capital after we finish the first tranche of the buyback. But let's see how the next three
+months go. And we will give you an update I think on October 31 when we release our Q3
+results.
+Obviously, there's a lot of moving parts here. The good news is we're finding the ability to
+deploy real capital in the P&C Re business as well as in Life & Health. But with a fairly
+strong first half and expectations of a strong second half of the year, we'll build back up
+the earnings and, therefore, the overall capital of the group.
+
+A - Philippe Brahin
+
+{BIO 19081619 <GO>}
+
+Thanks, Kamran, for your questions.
+
+Operator
+
+Bloomberg Transcript
+
+The next question is from the line of Vikram Gandhi, from Societe Generale.
+
+Q - Vikram Gandhi
+
+{BIO 18019785 <GO>}
+
+Firstly, on CorSo referring to Slide 17 and 19, I'm a bit confused as to how should we
+integrate the 9% rate increase in the first half alone against the 6percentage points
+combined (inaudible) improvement from rate increases by 2021? Is it just because the
+expected losses has changed? Or is there something else?
+And secondly, on P&C Re, on the one hand these Slides 30 and 31 say the price increases
+for the nat cat business were mostly flat, apart from the loss-affected treaties, while on
+the other hand we see that the nat cat exposure has increased significantly. So just
+wondered why the sudden increase in appetite despite the rating momentum clearly not
+that strong.
+
+A - Andreas Berger
+
+{BIO 15171017 <GO>}
+
+So on CorSo the 9% rate increase, this is a risk-adjusted increase. The 9% in first half of
+2019 reflects the year-on-year increase in risk-adjusted price quality of Corporate
+Solutions on the total portfolio. That also includes 2% pruning and business mix changes
+and 7% pure rate changes. The 7% rate changes is only for the first half of the year. So
+what you find in this walk, in the combined ratio walk, this is obviously then projected also
+to the three years until 2021. That's the difference.
+
+A - Philippe Brahin
+
+{BIO 19081619 <GO>}
+Page 7 of 25
+
+
+
+Company N ame: Swiss Re AG
+Company Ticker: SREN SW Equity
+Date: 2019-07-31
+
+Edi, you want to take the P&C Re question?
+
+FINAL
+
+A - Edouard Schmid
+
+{BIO 18942809 <GO>}
+
+So the question is that the nat cat price increases this year seem rather moderate while
+we grow a lot. I think that's the gist of the question. If you look at it a bit over two years, I
+think out of the record loss year '17 we pushed a lot of price increases into '18. And we
+could achieve a significant quality improvement of the book. But we also let go quite a bit
+of shares.
+Into this year now, in a further improving pricing environment, even though not massively,
+it made a lot of sense for us to recapture share but also grow the nat cat business. It goes
+to quality we have in our book and we can achieve in the market. Clearly, this is attractive.
+Given our global (diversification) and Life & Health diversification , this nat cat business
+achieves a very attractive return on capital.
+
+Bloomberg Transcript
+
+What we've seen in this year, that business that has been significantly loss affected, like
+(inaudible) in Japan or Florida business, we saw significant rate increases, 15%. But it's fair
+to say in a lot of other places pricing line was more flattish. But the quality of the business
+we've put on board is very adequate. And that's why it made a lot of sense to deploy
+more capital into that space.
+What we've also done, we seeded a bit more to serve the capital investors. So the
+business that goes beyond our appetite cannot be readily diversified. We see it more
+towards some long-term, third-party capital providers to make sure, over all, we keep a
+balanced book and always in our risk appetite.
+But it's a very attractive space, the nat cat area, where we have demonstrated over many
+years that we understand this risk very well. So we feel very comfortable to deploy more
+capital. And we are confident it will turn into good contribution to earnings.
+
+A - Philippe Brahin
+
+{BIO 19081619 <GO>}
+
+All right. Thanks, Vikram, for your questions.
+
+Operator
+The next question is from, from Edward Morris, from J.P. Morgan.
+
+Q - Edward Morris
+
+{BIO 16274236 <GO>}
+
+The first is just on the $350 million that you talk about the increase in net earnings from
+renewals achieved so far year-to-date. I wonder if you could just help us in thinking about
+how quickly that is likely to earn through into the results. And also if we take into account
+how interest rates have evolved over the course of the year, where does that put you
+relative to your 10% to 15% ROE ambition in P&C?
+
+Page 8 of 25
+
+
+
+Company N ame: Swiss Re AG
+Company Ticker: SREN SW Equity
+Date: 2019-07-31
+
+FINAL
+
+Then, secondly, Edi, just picking up on that point about the increased use of third-party
+capital for nat cat business, something that Swiss Re hasn't in the past done a huge
+amount of, I wonder if you could just elaborate on why now you've decided to do more of
+that. Is it because you're getting closer to your thresholds of what you would like in nat
+cat? Or if you could just talk a bit more about that strategic change.
+
+A - Philippe Brahin
+
+{BIO 19081619 <GO>}
+
+John, you want to take the first part?
+
+A - John Robert Dacey
+
+{BIO 4437051 <GO>}
+
+Sure. So on the $350 million, you should expect that that gets earned I think largely over
+the next two years. There might be a little bit of a tail into a third year. But the business
+that's come on starting with January 1, April, June, July renewals all we expect to help out
+here.
+Also, don't forget that part of the strength of this portfolio was some relatively short-tail,
+SME-focused casualty underwriting that we put in place with a publicly identified
+transaction with AmTrust at the beginning of the year.
+
+Bloomberg Transcript
+
+So net-net, we're comfortable with these new earnings.
+The point you mention about a decrease in interest rates is a challenge for us. It's a
+challenge for the industry. We're pretty proud of being able to maintain the running yield
+at 2.9% in the first half of this year. We'll be challenged to keep that up going into 2020 if
+rates continue their recent path here.
+But in the meantime I think we're comfortably in place with our target return on equity in
+P&C Re when we get our combined ratio delivering at a 98%. If the price rises that we've
+seen coming through during the course of this year continue, I think we should be
+comfortable also in 2020 with the underwriting of the book.
+With respect to the retrocessions, I'd argue that this is not necessarily a change of
+strategy, just an expansion of some capabilities that we've always had. But Edi, why don't
+you explain where we are?
+
+A - Edouard Schmid
+
+{BIO 18942809 <GO>}
+
+Thanks, John, for the lead-in. It's fair to say Swiss Re was at the forefront to establish
+third-party capital maybe 20 years ago by introducing ILS and so on and so forth. And it's
+fair to say we have always been using third-party capital. But we didn't make a big fuss
+about it as maybe other players have done.
+But it's -- clearly, we believe nat cat is a very attractive business for the Swiss Re balance
+sheet, given the diversification, our client franchise, the proprietary risk modeling we have.
+We are the natural home. So it's clearly our ambition to remain a leader in the nat cat
+business. And given the growth by just all the risk factors, the concentration of values in
+Page 9 of 25
+
+
+
+Company N ame: Swiss Re AG
+Company Ticker: SREN SW Equity
+Date: 2019-07-31
+
+FINAL
+
+exposed areas, all this together just means this is a growing risk pool where we want to
+play in substantially.
+And we already have a certain maximum appetite for hurricane U.S. and some other peak
+perils. So we get for some of these perils close to these levels. So for us it makes sense
+then to get as much of this attractive business on our balance sheet and diversify it.
+Where it becomes too big, there it makes sense to share it with some long-term, thirdparty capital investors. We've done that in the past. And given the growth outlook
+(inaudible) that we can also use more of that as we see fit.
+
+A - John Robert Dacey
+
+{BIO 4437051 <GO>}
+
+And just for the absence of doubt, the vast majority of the business we write gross
+remains on our balance sheet net.
+
+A - Philippe Brahin
+
+{BIO 19081619 <GO>}
+
+Ed, thanks for your questions.
+
+Operator
+The next question comes the line of Jon Urwin, from UBS.
+
+Bloomberg Transcript
+
+Q - Jonathan Peter Phillip Urwin
+
+{BIO 6126952 <GO>}
+
+Just focusing on reserves. So did you spot anything in P&C Re reserving that weren't
+intentional discussion during the CorSo reserve review? What drove the P&C Re reserve
+additions in casualty in the period? And what's your expectations for casualty reserve
+development from here in the context of some peers' flagging higher social inflation?
+
+A - Philippe Brahin
+
+{BIO 19081619 <GO>}
+
+Edi, you want to take it there?
+
+A - Edouard Schmid
+
+{BIO 18942809 <GO>}
+
+I can take the P&C Re reserving question. So as we have said, (inaudible) development,
+over all, was negative, by 5.1%, in terms of combined ratio points. The majority of that
+comes from the (Jebi) strengthening, which we did in Q1. Otherwise, if you break it down
+to lines of business there was some positive on special lines. Property obviously was quite
+negative, driven by Jebi, compensated a bit by some favorable from the hurricanes in '17.
+Then you have the casualty reserves, which developed slightly negatively during the first
+half of the year. That was stemming from U.S.. But only from 2 isolated client cases.
+Over all, we feel very comfortable with the reserve level, also the U.S. one. As we have
+explained in the past, we reflected all the (inaudible) strengths and everything in the U.S.
+So what we have put up now as the reserves there is, in our view, adequate.
+I think that's on the reserves.
+Page 10 of 25
+
+
+
+Company N ame: Swiss Re AG
+Company Ticker: SREN SW Equity
+Date: 2019-07-31
+
+A - Christian Mumenthaler
+
+{BIO 6479864 <GO>}
+
+And I think part of the question was also the look-through from CorSo the learnings from
+CorSo both underwriting and claims side. Maybe you can say a few words?
+
+FINAL
+
+A - Edouard Schmid
+
+{BIO 18942809 <GO>}
+
+Obviously, it's important to always compare the 2 parts. I think one clear element of the
+CorSo learning is that we were overexposed to U.S. liability, particularly the large
+corporate risk. I think we have flagged that already in the past that we have clearly
+spotted that as a general industry trend, that large corporate risk, the development of the
+core decisions to settlement just have exploded over the last few years. That's clearly an
+area we have addressed on both sides. On CorSo we have taken significant actions to
+reduce that part. But also in Reinsurance we moderate this.
+What we can say, the Reinsurance casualty portfolio is a much more diversified business.
+So it's much more global, much less U.S.-focused. And it has a much broader underlying
+risk basis. So it's much less focused on these large corporate risks. It has a lot of midmarket and also SME business. That's why the reserve base also in Reinsurance is much
+more diversified and not exposed to these, let's say, very large individual large limits. And
+you can also see it in the loss (planning), although we publish that the Reinsurance
+reserves are much more predictable and robust in nature.
+
+A - Philippe Brahin
+
+{BIO 19081619 <GO>}
+
+Bloomberg Transcript
+
+Okay. Good. Thank you, Johnny, for your questions.
+
+Operator
+The next question comes the line of Sami Taipalus, from Goldman Sachs.
+
+Q - Sami Taipalus
+
+{BIO 17452234 <GO>}
+
+The first one, it's just on the SST ratio. I know you haven't disclosed a number for H1. But is
+it possible to give -- there's a lot of moving parts. Is it possible to give some sort of steer
+on where you are there? And can you just remind us the second buyback, would that be
+to avoid building the ratio versus where it was at year-end? Or should we think about it
+relative to your target levels of capital? That's number one.
+And number two, it seems like your business is getting a bit more capital intensive as you
+move into more nat cat business. And obviously, the duration of the casualty book has
+shrunk, as well. So should we expect that there's a mix shift impact on the combined ratio
+going into 2020 as well as a sort of tailwind on pricing?
+
+A - John Robert Dacey
+
+{BIO 4437051 <GO>}
+
+Sure, Sami. So let me start with the SST. As you say, there are a lot of moving parts here.
+And we will give you the July 1st estimate of the SST when we report our Q3 results on
+October 31.
+
+Page 11 of 25
+
+
+
+Company N ame: Swiss Re AG
+Company Ticker: SREN SW Equity
+Date: 2019-07-31
+
+FINAL
+
+To help you a little bit with direction, obviously, the capital that was deployed in P&C Re
+has been or will have (inaudible) reduced the SST ratio. The first $1 billion of growth was
+already in on the January 1 renewals. And so that would have been in the 251% number
+that we published as of January 1. The second $1 billion would be worked through. And
+you should think of that to be a reduction of available capital for us or a utilization of
+capital.
+I think on market movements we've got countervailing forces. Credit spreads have
+tightened in the U.S. and U.K.. And that's probably positive for us, somewhere between
+30 and 40 basis points depending on the market.
+On the other hand, interest rates moving down by 60 to 70 basis points will reduce the
+SST numbers for us. And that second one is probably going to be a larger impact, at least
+in the first six months, than the credit spread.
+So financial markets, net-net, will be negative. The deployment in P&C Re will also be a
+reduction. We've had the earnings, which are reasonable I think for the first half of the
+year. But as we continue to deploy capital you should not necessarily expect a lot of other
+positive moves, absent something in the markets.
+So I think we'll see where we are and we'll also see what happens during the next three
+months of the hurricane season.
+
+Bloomberg Transcript
+
+A - Edouard Schmid
+
+{BIO 18942809 <GO>}
+
+The second part of the question was around the business mix and kind of impact on
+duration. I think that's the question. I think it's fair to say looking at the growth we've
+achieved this year in P&C Re so far, nat cat was a driver and a lot of casualty transactions.
+But the underlying business is mainly short-duration, SME type, which is also shortduration. So there is a bit of shift to shorter tail.
+And it's also fair to say in our portfolio outlook, given we see the attractiveness of nat cat
+and some other short-tail lines, that will be a bit of a shift. Given the broad diversification
+of the book, I think the mix and also duration is quite robust. So it doesn't change rapidly
+over time. But a slight shift to a bit shorter tail, that is a fair assumption into next year.
+
+A - Philippe Brahin
+
+{BIO 19081619 <GO>}
+
+All right. Thanks. Thanks, Sami, for your questions.
+
+Operator
+The next question is from Simon Fossmeier, from Vontobel.
+
+Q - Simon FÃ¶ssmeier
+First question is for John, I guess. Can you elaborate what you think is the return on
+investment on the capital injection into ReAssure and also the $600 million that you invest
+Page 12 of 25
+
+
+
+Company N ame: Swiss Re AG
+Company Ticker: SREN SW Equity
+Date: 2019-07-31
+
+into CorSo?
+
+FINAL
+
+And the second question I guess goes to Andreas. On the reserve addition that you're
+taking in CorSo is this a, shall we say, academically actuarial reserve addition? Or did you
+put in a little bit of a safety cushion there?
+
+A - John Robert Dacey
+
+{BIO 4437051 <GO>}
+
+Thanks, Simon. Look, I think our belief is the $600 million that we injected into the
+Corporate Solutions business positions that business to be successful in the future. As
+Andreas mentioned earlier, we expect in 2021 to return not only to an underwriting profit.
+But to a return on equity that's within the range, probably a bit at the lower end of that
+range, of profitability. So when we think about the IRR of this capital, it's linked to the longterm earnings capability of CorSo and I think we're pretty comfortable that that's a
+reasonably robust return.
+
+Bloomberg Transcript
+
+On the capital put into ReAssure, I think that is a little different story. Again, in preparation
+for the IPO we moved the Solvency II capital level from where it had been, at around
+120%, up to something close to 145%. That required a total injection of GBP 480 million,
+of which we put in 75%, about GBP 360 million.
+Again, in the long-term value creation of ReAssure, we're confident that this will have a
+fine return. To give you a sense of what that could look like, the dividend yield that we
+calculated for ReAssure, had it priced at the lower end of the IPO range, would have been
+a 9.5% dividend yield, to give you one parameter of the kinds of returns that this business
+is capable of.
+We obviously didn't do the IPO. But we're confident about the business' ability to deliver.
+We talk in the document sent out this morning about the GBP 2.1 billion that we expect
+ReAssure to generate in gross cash generation over the next five years, 2019 included.
+And with that kind of cash generation we think the GBP 265 million of dividend that they
+committed to is entirely feasible. If we own 75% of that, that will be a nice return.
+
+A - Andreas Berger
+
+{BIO 15171017 <GO>}
+
+Okay. I'll take the (case) question whether there's some cushion or buffer built in. Again, I
+can only repeat. As we did the strategic review we looked at the portfolio and at all cases.
+And here, I must say we looked at all the rules that we had in place, the timeliness, the
+accuracy of the claims reserves. And in the roundtables, we looked at the low, the high
+point, the midpoint. And all available information that was at hand led us then to a best
+estimate. And this is exactly what we have seen here in the numbers in Q2.
+In general, we can say that we already saw a trend that started a couple of quarters
+before; that was a trend that we acknowledged. And we saw an increased number of
+claims, not only at the large end now but also at actually the medium-size one, meaning
+the claims between the $5 million and $10 million range. So before we only predominantly
+looked at the large ones. And then we saw that below the $10 million range we saw an
+
+Page 13 of 25
+
+
+
+Company N ame: Swiss Re AG
+Company Ticker: SREN SW Equity
+Date: 2019-07-31
+
+increased number of claims closer to the $8 million to $10 million. And I think that's a
+reflection of what we have done here.
+So best estimate is exactly the right term here.
+
+FINAL
+
+A - Philippe Brahin
+
+{BIO 19081619 <GO>}
+
+Thanks, Simon, for your questions.
+
+Operator
+The next question is from Farooq Hanif, from Credit Suisse.
+
+Q - Farooq Hanif
+
+{BIO 4780978 <GO>}
+
+Just going to the adverse development cover. To give us a sense or some confidence on
+whether that will feed through into P&C Re, can you give us an idea maybe of the
+confidence level that you price that at? Or perhaps a size of reserves that the $100 million
+pertains to? Just so we get an idea maybe of if you're charging an arms-length price what
+is that risk as a percentage of the book that you are pricing in.
+
+Bloomberg Transcript
+
+And maybe, secondly, going back to the GBP 2.1 billion capital generation in sterling in
+ReAssure, if I remember correctly that included re-risking benefits, which under SST were
+difficult to put into place. Are you going to be willing to let that business unit now run and
+price on a Solvency II basis and maybe take some short-term pain on an SST basis to allow
+them to sort of continue with the plan that they had before anyway, including re-risking?
+
+A - Edouard Schmid
+
+{BIO 18942809 <GO>}
+
+Okay. I can give a bit of color around the ADC. The (inaudible) was really what Andreas
+has been explaining, that we did a lot of diligence to review the case reserves in
+Corporate Solutions. And the ADC now attaches at what we think is really a prudent level
+of reserves in the CorSo back book. And that was also again, as we always do it, reviewed
+in an independent matter by (inaudible) control, also confirming that the new reserve
+base is really at the prudent level.
+Then on that level, Reinsurance P&C was comfortable to provide that ADC cover. Then
+also we structured it in a way that only 80% of the risk goes to P&C Re. So Andreas
+Berger and team is still on the hook with 20%, to have some alignment of interest.
+And what is important that as for any other transaction between 2 business units is this
+has to be (inaudible) on at arms length. So on the P&C Re side, this goes through the
+normal underwriting and transactional review process, as any other deal. So they come up
+with their own view. And in the end they felt comfortable at this price that this makes
+sense to be put on their balance sheet.
+And also of this reserve strengthening and CorSo putting it at a prudent level if it did
+make actually sense to them, keep the residual reserve risk within the group. Otherwise,
+Page 14 of 25
+
+
+
+Company N ame: Swiss Re AG
+Company Ticker: SREN SW Equity
+Date: 2019-07-31
+
+again, we would just see some marching out of the firm. But we have the capital to hold
+that residual risk.
+
+FINAL
+
+But at the end of the day, this is a transaction that is at arms length. And P&C Reinsurance
+felt comfortable at that price to take the risk with the structuring and everything we have
+put in place.
+
+A - John Robert Dacey
+
+{BIO 4437051 <GO>}
+
+And just for the absence of doubt, there is a certain asymmetry to this cover, where P&C
+Re is responsible for 80% of any deterioration, should there be deterioration. But CorSo
+will actually get 80% of the upside if we find that our reserves are, in some cases,
+redundant. So I think there's a balance here. But the underlying point is we believe the
+reserves are well set as a starting point.
+With respect to the ReAssure gross cash, the GBP 2.1 billion, you're exactly right. There is
+a belief that there would be a re-risking component to that.
+
+Bloomberg Transcript
+
+I'd make a couple of observations. One, I mentioned before the capital that we've
+injected into ReAssure. Most of that actually came over from Life Capital, which had the
+capital already in the business unit. A relatively small amount came from the group. But
+that provides them with a stronger capital base to be able to manage a couple of things,
+including the potential adjustment of asset risks for the company.
+Your larger point I think is as we consolidate it up to the group SST, are we prepared for
+that hit. And I think within reasonable bounds, probably yes. But again this is a 5-year plan
+and, as we've said, our midterm objective is to find the means to reduce our stake from
+the current 75% to 49%. I hope that doesn't take five years. If we don't see any good
+answer and we're getting our dividends, we may hold on to it. But my expectation is that
+in this time horizon we will become a minority owner and the freedom on the asset risk
+side will be unmitigated.
+
+A - Philippe Brahin
+
+{BIO 19081619 <GO>}
+
+Okay. Thanks, Farooq, for your questions.
+
+Operator
+The next question comes from Vinit Malhotra, from Mediobanca.
+
+Q - Vinit Malhotra
+
+{BIO 16184491 <GO>}
+
+Just 2 questions, please. So one is a follow-up, if you like, on buyback. And the second
+one is on CorSo please. So on the buyback, just it's obvious that SST is a bit lower than
+the 250% you last reported. If we think of a scenario where interest rates remain where
+they are the next three months and if the hurricanes or large losses are within the budget,
+does that make this buyback a bit more likely? Or there's no such probability (inaudible)? I
+
+Page 15 of 25
+
+
+
+Company N ame: Swiss Re AG
+Company Ticker: SREN SW Equity
+Date: 2019-07-31
+
+FINAL
+
+just want to understand how you think of it, because basically the interest rates and the
+hurricanes are the 2 unknowns.
+Secondly, just on the Corporate Solutions, this concept of pruning is obviously needed.
+But in the past we've also heard from Christian that we are not trying to slow this business
+too much or not 'shrink it to greatness,' was the phrase I think. And also seeing a 7%, 8%
+growth rate now. So Andreas, are we looking at actually a lower volume base in CorSo
+going forward? Or are you saying that there is the shrinkage in this 20% of the $900
+million. But you will be very open to finding the growth, arguably, open to making it up
+somewhere else?
+
+A - Philippe Brahin
+
+{BIO 19081619 <GO>}
+
+John, you take the first question.
+
+A - John Robert Dacey
+
+{BIO 4437051 <GO>}
+
+Bloomberg Transcript
+
+Yes, I'll try. So with respect to the buyback, I'd say we'll look at the comprehensive capital
+position of the group towards the end of the Third Quarter. Those 2 items that you
+mentioned, interest rates and large losses or nat cat losses, will be part of the factors.
+We haven't changed our long-term target for the SST of 220%. Our starting point in the
+beginning of the year was 251%. We built the optionality of the second buyback to deal
+with the situation where we found ourselves with unambiguously excess capital. I think, as I
+mentioned before, the absence of the IPO reduces the probability. But let's see where
+we are towards the end of Q3. And as I said, we'll give you clarity on our intentions on
+October 31.
+
+A - Christian Mumenthaler
+
+{BIO 6479864 <GO>}
+
+I think it may be worthwhile repeating what I said before on why do we have the second
+potential tranche. It came from last November. We had a SST ratio of 280%, which is really
+very high, the highest we had in a long time. And as we did the business plan, we were
+worried that it was clear that this year there could be a series of factors, including
+recovery in financial market, IPO, low nat cat, et cetera, that could be a combination which
+would lead a year later to an even higher one, which is not really acceptable.
+So we said we would like to have this instrument at hand to avoid this situation, for this
+particular case. And the time we want to take a decision is really in November, because
+that's when we have all the facts together.
+So I think it's very hard at this stage to say if this. But that. There's no formula in our head.
+We're not on autopilot. There's a real business decision to be taken in view of all the
+factors we will have there.
+So it's not like we try to be difficult; it's really more that I try to make it clear what our
+intent was with this second buyback. So the goal is certainly not to be above 280%. The
+
+Page 16 of 25
+
+
+
+Company N ame: Swiss Re AG
+Company Ticker: SREN SW Equity
+Date: 2019-07-31
+
+risks are much lower right now with the IPO and the capital we could deploy. But who
+knows? And again, we're not on autopilot.
+
+FINAL
+
+A - Andreas Berger
+
+{BIO 15171017 <GO>}
+
+I'll take the pruning question on CorSo. No. We don't want to shrink to greatness. But what
+we did in our strategic review, we looked at the portfolio and created 3 different buckets.
+One bucket was portfolios where it will not see sustainable improvement of our risk
+exposure and price to risk. So those areas, we said to ourselves, we will not be able to
+influence this market. We don't have the size and the leadership position to influence this
+market. So we will have to take action here. So that's where we reduced significantly our
+engagement. That's bucket #1.
+And #2 is the bucket where we said we're so sub-scale in this market. We will in the
+foreseeable future not reach a position of a leader, a market leader, to also bring in our
+strengths to differentiate, as well. So that's another area we said if you don't make money
+in those areas and can't scale up properly. So why be in there? Because we can't bring in
+our strength.
+
+Bloomberg Transcript
+
+And the third area are risk sub-portfolios where we believe it might be an attractive
+market. But the way we are trading and handling the risk is not efficient. So it could be a
+market inefficiency; it could be ourselves. So that's something we look in detail into it.
+And marine, for instance, is such a market, where we say we'd like to be in the marine
+market. But not in the way it is traded today. So you can't operate with an almost, like,
+40% expense ratio in that market. That's not sustainable. Here, we would like to redefine
+how marine can be done, mostly digitally, in future. And you've seen that we have created
+a Chief Innovation and Transformation Officer. That's a signal already for the future
+strategy.
+Now the risk landscape is changing dramatically. And I think now is the time to address
+profitability, to restore profitability, in order to set the foundation for future growth. And I
+think it requires really fresh thinking and fresh ideas and solutions to bring to the party.
+The clients welcome if we have the right positioning, we have the right ingredients and
+assets to bring to the party to really address the risk management changes in the industry.
+And we're very confident that we can do this. I already mentioned one area with the
+global rogram platform that we are providing. But I'd like to give this detail more in our
+November Investor Day, if you may.
+
+A - Philippe Brahin
+
+{BIO 19081619 <GO>}
+
+Thanks, Vinit, for your questions.
+
+Operator
+The next question is from the line of James Shuck, from Citi.
+
+Page 17 of 25
+
+
+
+Company N ame: Swiss Re AG
+Company Ticker: SREN SW Equity
+Date: 2019-07-31
+
+FINAL
+
+Q - James Austin Shuck
+
+{BIO 3680082 <GO>}
+
+My first question, again on CorSo. So you show the bridge on the combined ratio from a
+normalized level of 110% in 2018 down to the 98%. I think about the portfolio pruning, the
+rate increases and the expense savings. Most of those will be earning through in the sort
+of second half of '19, into '20. And into 2021. The slide on Slide 15, though, is showing that
+the combined ratio for CorSo excluding the kind of management actions and the impact
+from the ADC, is actually running at 101% in H1 2019. So can you just help me square that
+as a starting point, versus 110% as a starting point?
+The second question, thinking about the group ROE targets. So CorSo we're now looking
+at an ROE at the lower end of the 10% to 15%. You'll be holding on to ReAssure for the
+foreseeable future, which obviously has a low-single-digit ROE. It looks like you've
+deployed $2 billion of capital in the period just gone, for $350 million of earnings pretax
+over two years, which looks like a net-of-tax return on solvency capital around 7%. I guess
+when I put all that together and think about your target for 700 basis points over U.S. riskfree, which is currently around 2%, I'm sort of looking at that and thinking it looks a little bit
+challenging in order to hit that as an across-the-cycle target. So maybe you could just give
+an update on how you see that group ROE target, please.
+
+A - Andreas Berger
+
+{BIO 15171017 <GO>}
+
+Bloomberg Transcript
+
+I'll handle the first part of the question, on the combined ratio on Slide 15. It's fair to say
+that in Q1 and Q2 I think we had the underlying business that we brought on book is
+actually very good. We had a benign nat cat situation. So over all, I think we were very
+happy; also, in particular, with the rate increases that we could generate. So we are very
+healthy as far as the new business. And I think, going forward, it will look very good.
+So the point we tried to make here on Page 15 and the gap between the 132.8% and
+101.2% is really the management actions. And here, it's fair to say we had 2 buckets of
+management actions is Q1 and Q2. And as we said, in Q2 we had a reserve impact after
+the review of $328 million. This is subdivided into prior years reserving and in current year
+reserving. So those are the 2 buckets.
+Now if you look at the first half-year and only look at the prior-year development, then you
+take the Q1 $225 million and now the Q2 $264 million, which brings you then to the $489
+million as first half-year prior-year development. So that's the situation.
+Then if you add again the adverse cover development, the $100 million, this will bring you
+then to an H1 2019 management actions number of $653 million. So that sort of gives you
+the overall picture of that Slide 15.
+
+A - John Robert Dacey
+
+{BIO 4437051 <GO>}
+
+And James, my quick answer to the question is, yes, the first half was actually pretty
+benign. And that's where Andreas started with, for CorSo's core business; nat cat,
+especially. So the 110% is the right place to start this walk. We expect a glide path through
+2020 to get to the '21 (inaudible) target of a 98% combined ratio.
+
+Page 18 of 25
+
+
+
+FINAL
+
+Company N ame: Swiss Re AG
+Company Ticker: SREN SW Equity
+Date: 2019-07-31
+
+With respect to the group ROE, the continued ownership of 75%, not 100%, of ReAssure
+will be a drag on ROE. But as I suggested before, the price firming that we see both in
+P&C Re as well as CorSo lead us to think that the opportunities to make money in these
+lines is significant on a going-forward basis. I'm not concerned about the group's target of
+700 basis points over the 10-year risk-free. And as you say, right now we're diving down
+to something very close to 2% for that U.S. benchmark. We will work through the asset
+side of the balance sheet as best we can. But those financial targets I think are entirely
+achievable by the business mix we have.
+
+A - Christian Mumenthaler
+
+{BIO 6479864 <GO>}
+
+If I may add, because I think it's an important question, we are fully committed to this
+group ROE target and we think it's feasible. You can see the underlying, with 98%, is
+maybe 11.5% ROE in P&C Re. But hopefully that's not the end of it. We still see some price
+increases. Over all, the P&C Re market is still in the softer side of the cycle. So I think you
+can expect a bit more there.
+Then CorSo we have to get certainly to the lower end of this range by 2021.
+
+Bloomberg Transcript
+
+Clearly, we need to do something about ReAssure. That's a key focus. And I think it would
+be wrong to assume just because we didn't an IPO now that we're going to have it for
+five years. As we said, the goal is clear and it's midterm. And I think we talk about one
+year, two years. But in my view -- if we can do it for the right price for the shareholders,
+obviously. But it's clear there's a focus on that.
+Then the excess capital is being deployed as we talk. The earnings are on top. The GAAP
+capital doesn't change.
+So I think we're very focused on that. It just takes time from where we are. It's clearly 2
+businesses have now just crossed a bad soft cycle.
+
+A - Philippe Brahin
+
+{BIO 19081619 <GO>}
+
+Thank you, James, for your questions.
+
+Operator
+The next question is from the line of Frank Kopfinger, from Deutsche Bank.
+
+Q - Frank Kopfinger
+
+{BIO 16342277 <GO>}
+
+I have 2 questions. My first question, is there -- on ReAssure and coming back to your
+point, Christian, on the potential environment you're looking for to restart this project
+again. We are potentially at peak equity levels and (inaudible) are potentially further
+declining from here. So what could be the environment you're looking at? Or what would
+be the catalyst here?
+
+Page 19 of 25
+
+
+
+Company N ame: Swiss Re AG
+Company Ticker: SREN SW Equity
+Date: 2019-07-31
+
+FINAL
+
+Then, secondly, on Corporate Solutions, in the past whenever you presented combined
+ratios you always pointed also to a track of 3 to 4percentage points coming from your
+investment expenses. How should we look, think about those in the context of this new
+98% target? Are they also reflected in? Or you don't have any more investment expenses
+anymore so you have a 3% to 4% release? How are they reflected?
+
+A - Christian Mumenthaler
+
+{BIO 6479864 <GO>}
+
+Good. So I'll take, I guess, the ReAssure question. I think about 70% of the work has been
+done now for the IPO preparation. It is something we can use anyway because it allowed
+us to extract ReAssure from the Swiss Re group but in a much bigger extent. So all the
+functions were folded in. We have a new CEO. We have a board. We have basically a new
+management team. We recapitalized it at a standalone level. And all of that. And so that's
+precious work and we won't bring that back.
+So I think what needs to happen now is that the new management team needs to
+execute on the plan they have. There's a perspective. There's planned dividends. A lot of
+things. Some of the investor feedback was that it's not a -- the management team is new
+and they are not proven. So I think they have now a good opportunity to prove
+themselves.
+
+Bloomberg Transcript
+
+We decided clearly not to go for an IPO at the second half of the year because this is a
+new time window in the second half. But I think in view of the political situation right now
+that will be unwise to kill everybody in the work to do that. So I think the next date to look
+at it is probably early 2020, to see where the markets are (inaudible).
+I think an asset yielding 9.5% in a market like the U.K. with pension funds and local
+investors who are not caring about the pound, for example, is not a completely
+unreasonable -- I think it's an attractive opportunity, honestly, for local investors.
+So I'm not particularly worried about the value of this asset over a medium term. So I think
+it's only a question of time. And obviously, should there be any other opportunities we will
+also look at other opportunities. But I think we have several potential ways to continue the
+deconsolidation of this asset. And we're going to pursue them.
+
+A - John Robert Dacey
+
+{BIO 4437051 <GO>}
+
+And Frank, maybe the one thing I would say, what we found in the marketplace, while
+equity markets, broadly. And in the U.K., specifically, seemed to be functioning fine at the
+end of June, early July, the primary market was a different story. And the combination of a
+couple of other IPOs which had gone out the door and performed badly and an emerging
+concern by institutional investors about putting new money into the U.K. just created an
+environment where this appeared very, very difficult.
+You can claim that our aspirations on price might have been too high. We'll evaluate that
+over time. But I do think that the weakness in the pound that we've seen in the
+subsequent weeks is indicative of concerns that were emerging as we were trying to build
+the book for the IPO, in the first case.
+Page 20 of 25
+
+
+
+Company N ame: Swiss Re AG
+Company Ticker: SREN SW Equity
+Date: 2019-07-31
+
+FINAL
+
+With the second case, on CorSo maybe I'll jump in first and then Andreas can talk about a
+bit. But a lot of this comes from before Andreas' time. You're exactly right. We have been
+making these investments both in the Primary Lead capabilities as well as some other
+technologies. Most of that will, in fact, finish by 2021. But I don't expect CorSo to not
+invest. There will be important technology-related moves that we will expect to continue.
+Having said that, the 98% is a firm number and doesn't have caveats around it. It's not
+98%, plus 2 points. It's 98%.
+
+A - Andreas Berger
+
+{BIO 15171017 <GO>}
+
+Just to maybe elaborate on that, when we did the review we obviously looked also into
+the expenses. And investments were always singled out as 3 to 4percentage points. And
+we saw that the investments went mainly into the Primary Lead initiative.
+And the Primary Lead initiative had again 3 buckets. One was domestic primary leads. So
+we hired people. We developed the skills and the capabilities. And I think this went
+actually quite well. So you see a much stronger engagement in primary leads. And so not
+everything is bad. So those lines of business is where we are very strong. That's primarily
+due to the Primary Lead investment.
+And the second bucket was additional lines of businesses. For instance, Accident &
+Health, we acquired a company and portfolios in this area.
+
+Bloomberg Transcript
+
+So those are all initiatives that were under the flag or under the heading of Primary Lead.
+And the third bucket was the international program platform, the international business
+program platform.
+Now the first 2 that I mentioned, I would say let's declare victory. Those are basically
+running up as investments and they as business as usual. The third one, that's an area
+where we are going to drill deeper. We still continue to invest.
+So what you see in the walk of the combined ratio slide, you will see 2% expense savings.
+And this is on a gross basis actually 2.5%. Then you get back to the investments, in
+particular, on this side of the technology platform. And that brings you then to the 2%.
+So we continue to invest. And again, in our Investor Day in November we're going to be a
+bit more specific about what that means for the strategy, going forward.
+
+A - Philippe Brahin
+
+{BIO 19081619 <GO>}
+
+Thank you, Frank, for your questions.
+
+Operator
+The next question comes from the line of William Hawkins, from KBW.
+Page 21 of 25
+
+
+
+Company N ame: Swiss Re AG
+Company Ticker: SREN SW Equity
+Date: 2019-07-31
+
+Q - William Hawkins
+
+{BIO 1822411 <GO>}
+
+FINAL
+
+Just one small one. Can you update us on where the absolute level is of risk-adjusted
+price quality for P&C Re and CorSo after these rate increases? From memory, the last
+time you gave us a P&C Re figure it was 103%, at the beginning of last year. So given that
+you've had 1 or 2 points of rate increase, I'm guessing that figure is quite easily 104%,
+105%. But I have no idea where CorSo is. It's good you've had the 9% rate increase. But I
+don't know where that actually takes you absolutely.
+
+A - Philippe Brahin
+
+{BIO 19081619 <GO>}
+
+Edi, you want to take it?
+
+A - Edouard Schmid
+
+{BIO 18942809 <GO>}
+
+I think we stopped disclosing it. The interim price (inaudible) in the past. Because the main
+point we always want to make is what is really the price change, comparing the renewal
+basis and the basis we put on our books.
+
+Bloomberg Transcript
+
+Then I think the big change to new measure, which we explained, is a more simple
+measure, which would be more comparable to also what peers disclose. And on that
+measure we now say for the first half of year the basis of renewal this is 1 point better
+than the expiring is. But it's fair to say that it is an improvement in price quality. It does not
+reflect some capital allocation and other things. But I would also then say this internal
+measure, this long-term price (quality), is up a bit. But it's not a number that we disclose,
+going forward.
+
+A - John Robert Dacey
+
+{BIO 4437051 <GO>}
+
+And that's also true for CorSo.
+
+A - Philippe Brahin
+
+{BIO 19081619 <GO>}
+
+Okay. Thank you, William, for your question.
+
+Operator
+The next question is a follow-up from Vikram Gandhi.
+
+Q - Vikram Gandhi
+
+{BIO 18019785 <GO>}
+
+Very quickly, on costs. So how do you define the normalized combined ratio? So how
+should we think about the average nat cat losses when we think about the 98% combined
+target?
+Then, secondly, with respect to the aggressive pruning in some lines and growing in
+others, I'm assuming there must be a natural limit to doing this, as that would reduce the
+diversification. So any thoughts there would be welcome.
+
+Page 22 of 25
+
+
+
+Company N ame: Swiss Re AG
+Company Ticker: SREN SW Equity
+Date: 2019-07-31
+
+A - Andreas Berger
+
+{BIO 15171017 <GO>}
+
+The CorSo normalized loss ratio has a large nat cat budget of $190 million for the full year
+2019. We expect something north of 45%, or something, 46%, expected in the first half of
+this year. That's the main part of the combined ratio normalized.
+
+FINAL
+
+A - Philippe Brahin
+
+{BIO 19081619 <GO>}
+
+Vikram, the second part of your question, can you remind us?
+
+Q - Vikram Gandhi
+
+{BIO 18019785 <GO>}
+
+The couple of actions, which is one is the aggressive pruning in lines of businesses, while
+growing in others where there is good pricing. I'm assuming there must be a natural limit
+to doing this, as continuing this would reduce the diversification in the portfolio at some
+point. So any thoughts around that would be helpful.
+
+A - John Robert Dacey
+
+{BIO 4437051 <GO>}
+
+Bloomberg Transcript
+
+Maybe I'll jump in. I think there's both in terms of geographies but also in lines of business,
+there remains a robust diversification, even within CorSo. Then when we think about within
+the group, the concentration on some of the more profitable lines is not going to be a
+problem for us.
+So I don't expect any particular issues with respect to either capital charges and/or
+earnings concentration to be the issue here as the CorSo portfolio gets rebalanced. I think
+the important thing you see on one of the pages when we talk about pruning, there's a
+number of lines where we're going to significantly reduce. But not exit. And part of that is
+due to be able to serve clients, let's say, that might be great clients for our property book
+and still ask for some covers, which we're prepared to do for those better clients.
+
+A - Christian Mumenthaler
+
+{BIO 6479864 <GO>}
+
+We actually came to the conclusion that the CorSo portfolio was too concentrated, for
+example, in U.S. liability. So it was not enough protected by Reinsurance. So going forward,
+with better insurance protection and a bit less, let's say, U.S. liability focus actually
+becomes a better average in that portfolio. But the diversification may be managed then
+as a group. And we can use Reinsurance for CorSo to get it all in balance.
+
+A - Philippe Brahin
+
+{BIO 19081619 <GO>}
+
+Thanks, Vikram, for your questions.
+
+Operator
+The next question is a follow-up from the line of James Shuck.
+
+Q - James Austin Shuck
+
+{BIO 3680082 <GO>}
+
+Just a question on the new money rate, really. So can you just give us an idea of as of
+today what the new money rate is and what you're actually investing in? Obviously, U.S.
+Page 23 of 25
+
+
+
+Company N ame: Swiss Re AG
+Company Ticker: SREN SW Equity
+Date: 2019-07-31
+
+rates are higher. But in Europe the situation is very different. And you're seeing yields
+around 50 basis points. So how are you thinking about risk-adjusted returns on
+investments? And what does this mean for your strategic asset allocation, please?
+
+FINAL
+
+A - John Robert Dacey
+
+{BIO 4437051 <GO>}
+
+Sure. So you've correctly identified a challenge for us. The majority of our assets are
+dollar-related, reflecting the majority of our liabilities. And so the matching, the estimate
+new money rate that we've got for the reinvestments is something close to 2%. That's
+below the running yield of 2.9% and, obviously, something we're going to have to
+manage.
+I would say that the Asset Management team has been able in a challenging environment
+to maintain that 2.9%, in part by going into some alternative investments, infrastructure,
+other plays, increasing in some cases parts of the real estate portfolio, which are
+providing solid yields; nothing exceptional. But adequate.
+The quality of the portfolio has not changed. We maintain a fairly conservative positioning
+on the credit book, in particular. And I think that's also reflected in the de minimis level of
+impairments that we've had in the last quarters.
+So this will be a challenge to us, going forward, as it will be a challenge to everyone in the
+industry. Let's see how we work through it.
+
+Bloomberg Transcript
+
+A - Philippe Brahin
+
+{BIO 19081619 <GO>}
+
+Thank you, James, for your follow-up questions.
+
+Operator
+The next question is a follow-up from Edward Morris.
+
+Q - Edward Morris
+
+{BIO 16274236 <GO>}
+
+Just a quick follow-up, please. The reinsurance purchasing strategy, going forward, for
+CorSo could you just confirm whether you intend to consider buying reinsurance
+externally? Or are you likely to continue just buying it from P&C Re?
+
+A - Andreas Berger
+
+{BIO 15171017 <GO>}
+
+So in principle, we prefer to buy internally via P&C Reinsurance business unit. But we're
+not excluding external markets. Going forward, we are strategically positioning ourselves
+in buying reinsurance. And we will use external markets, as well. But obviously, we prefer
+to use internal markets.
+
+A - Christian Mumenthaler
+
+{BIO 6479864 <GO>}
+
+It has already been in the past a combination. It's a business we like and if it was within our
+overall risk tolerance should, as a first priority, stay on either the CorSo or the Reinsurance
+Page 24 of 25
+
+
+
+Company N ame: Swiss Re AG
+Company Ticker: SREN SW Equity
+Date: 2019-07-31
+
+balance sheet. And only if it gets above what we can digest within our own balance sheet
+we go externally. But it's important also for CorSo to be a bit more direct in the market.
+It's also feedback signals. So it's both. But the first priority is to keep the risk we can
+diversify in our balance sheet internally.
+
+FINAL
+
+A - Philippe Brahin
+
+{BIO 19081619 <GO>}
+
+Thank you, Ed, for your follow-up questions. This is actually the end of the Q&A session,
+as there are no more questions. So if you have any follow-up questions don't hesitate to
+reach out to any member of the IR team.
+Thank you, again, everyone, for joining today. Operator, back to you.
+
+Operator
+
+Bloomberg Transcript
+
+Thank you for your participation, ladies and gentlemen. You may now disconnect.
+
+This transcript may not be 100 percent accurate and may contain misspellings and other
+inaccuracies. This transcript is provided "as is", without express or implied warranties of
+any kind. Bloomberg retains all rights to this transcript and provides it solely for your
+personal, non-commercial use. Bloomberg, its suppliers and third-party agents shall
+have no liability for errors in this transcript or for lost profits, losses, or direct, indirect,
+incidental, consequential, special or punitive damages in connection with the
+furnishing, performance or use of such transcript. Neither the information nor any
+opinion expressed in this transcript constitutes a solicitation of the purchase or sale of
+securities or commodities. Any opinion expressed in the transcript does not necessarily
+reflect the views of Bloomberg LP. © COPYRIGHT 2022, BLOOMBERG LP. All rights
+reserved. Any reproduction, redistribution or retransmission is expressly prohibited.
+
+Page 25 of 25
+
+

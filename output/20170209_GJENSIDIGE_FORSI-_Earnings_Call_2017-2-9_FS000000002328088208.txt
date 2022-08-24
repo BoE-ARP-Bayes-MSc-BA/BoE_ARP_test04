@@ -1,0 +1,1072 @@
+Q4 2016 Earnings Call
+Company Participants
+FINAL
+
+Helge Leiro Baastad, Chief Executive Officer
+Janne Merethe Flessum, Head of Investor Relations
+Jostein Amdal, Chief Financial Officer & Executive Vice President
+
+Other Participants
+Bengt Kirkøen, Analyst
+Blair Stewart, Analyst
+In-Yong Hwang , Analyst
+Jakob Brink, Analyst
+Jonny Urwin, Analyst
+Matti Ahokas , Analyst
+Niccolò Dalla Palma, Analyst
+Paul De'Ath, Analyst
+Steven Haywood, Analyst
+
+Bloomberg Transcript
+
+Vinit Malhotra, Analyst
+
+MANAGEMENT DISCUSSION SECTION
+Janne Merethe Flessum
+
+{BIO 19368607 <GO>}
+
+Good morning, and welcome to this Fourth Quarter Presentation for Gjensidige. My name is Janne
+Flessum, and I'm Head of Investor Relations.
+We will start with our CEO, Helge Leiro Baastad, giving you some highlights from the quarter
+before our CFO, Jostein Amdal, runs you through the numbers in more detail. And then we will
+open up for the Q&A session.
+And with that, I give the word to you, Helge. Thank you.
+
+Helge Leiro Baastad
+
+{BIO 5865247 <GO>}
+
+Thank you. Good morning, and welcome from me as well.
+I will start with the fourth quarter. We delivered a satisfactory result. The profit before the expense
+amounting to NOK 1.3 billion, and underwriting result was NOK 700 million, corresponding to a
+combined ratio of 87.7%. Growth in premiums was 3.5%, with underlying growth of 2.4% when
+adjusted for currency effects and acquisitions. Underlying growth in Norway was 1.7% and 2.3% in
+Private and Commercial, respectively, which is satisfactory given the slowdown in the economy and
+continued fierce competition. Growth in the Nordic segment was 10.8%, driven partly by
+acquisitions and partly by a strong underlying growth of 5.9%.
+Competition is still fierce, but the situation is relatively stable from last quarter. Overall, Gjensidige
+continues to experience good competitiveness in all markets. The loss ratio was 70.6%, positively
+affected by a somewhat higher run-off gain and somewhat lower large losses than normally
+expected. We faced the tough comparison this quarter, with the fourth quarter 2015 when the
+underlying claims level was record strong due to a very benign weather situation.
+
+
+
+FINAL
+
+The fourth quarter 2016 was more normal winter quarter, with a generally higher frequency claims
+level. However, we have also experienced higher claims inflation than expected, something Jostein
+will talk about in more detail afterwards.
+I would nonetheless like to make a few comments about development we see in the motor
+insurance in particular. As you remember, in the third quarter 2016, we communicated that we saw
+signs of increased claims inflation in the motor segment. The development during the fourth
+quarter confirmed this and measures have been taken to mitigate higher claims inflation than
+previously expected.
+Going into 2017, we now expect claims inflation of around 3% to 4% for motor insurance at from
+around 1% the last couple of years. We are increasing premiums, and effects will gradually feed
+into our P&L. That said, the absolute profitability level for motor insurance is still very good.
+In general, I would like to remind you that total premium increases should compensate for claims
+inflation over time. The cost ratio was 17.1% this quarter, 16% adjusted for one-offs, reflecting
+continued good cost control. The finance result was NOK 561 million, reflecting a satisfactory return
+on financial assets of 1%.
+
+Bloomberg Transcript
+
+Looking at the year as a whole, we once again reported a record strong result, well within our
+financial targets as shown on the right. We delivered the profit before tax expense of NOK 6.1
+billion. The underwriting result was NOK 3.7 billion, corresponding to a combined ratio of 83.4%.
+Adjusted for one-offs as well as for run-off gains and large losses at expected levels, the
+combined ratio was 86.9% which is in the lower end of the target corridor of 86% to 89%.
+Based on new actuarial review, annual run-off gains are now expected to be around NOK 900
+million on average over the next three to five years, still related mainly to motor TPL and workers'
+comp in Norway. This reconfirms the targeted 86% to 89% combined ratio corridor for slightly
+longer period. The financial result was solid at NOK 2.1 billion, corresponding to return on financial
+assets of 3.9%. The return on equity was 21.4% for the full year and earnings per share were NOK
+9.34.
+Then based on the full year result, the board has proposed a dividend of NOK 3.4 billion,
+corresponding to NOK 6.80 per share. Based on yesterday's closing price, the proposed dividend
+corresponds to a dividend yield of 4.8%, which is in line with our dividend policy of distributing a
+high and stable nominal dividend on regular basis and at least 70% of profits after tax.
+A dividend of NOK 6.80 per share corresponds to increase in the nominal dividend of 6.3% from
+2015 and a payout ratio of 72.9%. I would like to remind you that we also paid NOK 2 billion in
+special dividends in November 2016. Including the proposed dividend, total dividends from
+Gjensidige since the IPO in 2010 has been NOK 29 billion, equal to our market cap at the same
+time of the IPO.
+Of this amount, our general insurance customers in Norway have been entitled to NOK 13 billion
+through our unique customer dividend model, and they have received customer dividends
+corresponding to as much as 11% to 16% of premiums they have paid every year. Gjensidige's
+business model is characterized by high and stable cash generation and as an investment
+alternative, Gjensidige has been and will continue to be a yield story for our shareholder.
+On the operational side, we are delivering on our strategy and targets. As shown on the right, we
+are on track and ahead in relation to reaching our 2018 KPIs that we communicated back in
+November 2014. I'm particularly proud to be able to report record high customer satisfaction once
+again, as well as continued high and stable retention levels. We are making dedicated efforts in
+relation to digitalization, analytics, and organization capabilities, and are comfortable that we are
+
+
+
+well positioned to meet the gradual change in customer behavior and participation in new
+ecosystems going forward.
+
+FINAL
+
+Gjensidige is the number two general insurance player in the Nordic region. During 2016, we have
+further strengthened our already strong and leading position in Norway, as well as our position as a
+challenger in the Danish market. Progress towards profitability in Sweden and the Baltics is
+according to the plan.
+Before Jostein gives you the details on the numbers, I would like to spend a few minutes
+illustrating how we work proactively to further strengthen our position as a true Pan-Nordic general
+insurance player. Looking to Denmark, we have recently taken important steps to further
+strengthen our growth platform.
+Firstly, last month, we acquired Mølholm Forsikring, making us number one in the market for health
+insurance in Denmark with a market share of around 18%. This initiative is in line with our recently
+updated and communicated group strategy to take our share of the growing personal health
+insurance market. Premiums in the Nordic segment will increase by around DKK 400 million or
+more than 8%, and acquisition will give us a unique platform for further developing of our product
+offering, both in Denmark and cross-border.
+
+Bloomberg Transcript
+
+Secondly, we recently entered into a new partner agreement with Interdan, which takes effects
+from the first quarter 2017. Interdan is a large Danish car import company, and the new agreement
+give Gjensidige a direct access to more than one third of the new car sales market, doubling our
+previous access.
+Thirdly, we had gradually strengthened our position in the growing housing market. We have
+increased insurance penetration in this market through the launch of new product packages
+containing all product lines. We have a leading position in change of ownership insurance and
+through partnership with three large real estate brokers in Denmark, Gjensidige has started access
+to 45% of the housing market.
+And last but not least, this week, we have signed a long-term strategic agreement, partnership
+agreement with Dansk Supermarked Group, the largest retailer in Denmark. This agreement
+represents a large potential utilizing the distribution network of Dansk Supermarked. The
+partnership is exclusive and will bring us a unique platform to further expand our brand awareness
+and develop our digital platform and CRM activities to support further organic growth in the Danish
+market.
+Gjensidige's brand awareness is now higher than ever in Denmark and customer loyalty is on the
+rise. In the short term, we will work on improving profitability in our Danish franchise but in the long
+term, we are confident that we have strong and scalable growth platform in this market.
+With that, I give the word to Jostein who will give you more details about the figures. Thank you.
+
+Jostein Amdal
+
+{BIO 19939645 <GO>}
+
+Thank you, Helge, and good morning, everybody.
+We report yet another good underwriting results of NOK 700 million. We saw a more normal
+winter this quarter and thereby a more normal overall frequency claims level compared to the
+corresponding quarter the previous year, which was record strong due to a very benign weather
+situation.
+
+
+
+In addition, the underwriting result was negatively affected by an underlying growth in claims
+inflation, as well as one-off costs totaling NOK 67 million.
+
+FINAL
+
+On the positive side, large losses were lower and the run-off gains higher than normally can be
+expected. The retail bank and pension and savings continued to show a positive development and
+contributed a total of NOK 123 million in the quarter, mainly driven by growth. The investment
+portfolio yielded a satisfactory return of 1.0% in the quarter corresponding to NOK 561 million.
+The profit before tax expenses thereby amounted to NOK 1.3 billion compared with NOK 1.5 billion
+in the same quarter the year before. And the profit before tax expenses for the full year is a
+record high NOK 6.1 billion compared to NOK 5.1 billion the year before reflecting improvements in
+all the group's business areas.
+
+Bloomberg Transcript
+
+The loss ratio was 70.6% this quarter or 75% when adjusted for normalized large losses and our
+run-off expectations. This is a satisfactory asset level taking into consideration that the fourth
+quarter is a winter quarter in the Nordic region. The reported level is 2.6 percentage points higher
+than the corresponding quarter the year before. Adjusted for changes in run-off and large losses,
+the underlying loss ratio was 5.5 percentage points higher. This reflects the very benign weather
+situation in the fourth quarter of 2015 compared to a more normal winter this quarter.
+Motor and property insurance in Norway were particularly affected by more cold weather. And as
+Helge commented, the development for motor insurance both in Norway and Denmark during the
+fourth quarter confirmed a less benign claims inflation development than anticipated, and
+measures have been taken to offset the higher expected claims inflation going forward. The
+reason is more expensive repairs due to a combination of higher input costs, currency movements
+and more advanced cars that contain more technology. We still expect the frequency of personal
+injuries to develop positively long term due to safer cars and safer roads, but at a slower pace
+than before.
+All in all, this made us revise our claims inflation expectation for motor to 3% to 4%. We adjust our
+premiums accordingly. Please remember that the profitability level is still very good for motor
+insurance in Norway.
+The underlying loss ratio for the property products in Norway were also higher compared to the
+corresponding period in 2015, due to a more normal weather situation. Claims inflation
+expectations are stable at around 4%. The Nordic segment recorded a high loss ratio than the
+same quarter in 2015. This was mainly due to weaker underlying profitability in Denmark for
+agriculture and property insurance. In addition to frequency of mid-sized claims within the
+agriculture sector especially was unusually high in the quarter. Measures have been taken to
+compensate for higher expected overall claims inflation in Denmark. Better risk selection and reunderwriting will be prioritized in addition to premium increases. Putting new tariffs in place and
+continuously improving existing tariffs will gradually give effect.
+The Swedish portfolio continues to develop in a positive direction driven by re-underwriting of the
+Commercial book and a more diversified Private portfolio. We are on track to reach profitability
+during 2017 in Sweden.
+The Baltics recorded an improved loss ratio driven by lower run-off losses, the implementation of
+new tariffs and a lower level of frequency claims. We are well on track to reach breakeven during
+2017 and profitability in 2018.
+We got a good premium growth this quarter, 3.5% or 2.4% adjusted for acquisitions and currency
+effects. In Norway, growth was driven by a combination of price and volume. We are competitive
+and continuing to strengthen our market position. The underlying premium growth was positive in
+both Denmark and Sweden driven especially by growth in Private insurance in the Swedish portfolio
+
+
+
+FINAL
+
+and property insurance in the Danish Commercial portfolio. The negative development in the
+Corporate Centre line is mainly due to the Vardia reinsurance (17:15) program which is being
+gradually phased off over 12-month period from takeover.
+Renewals of Commercial lines coming into 2017 have been satisfactory and over time, we still
+expect growth in line with nominal GDP growth, although the growth rate for the whole insurance
+market is somewhat lower at the moment. Disciplined structural growth that supports our overall
+strategy is still on the agenda as witnessed by the acquisition of Mølholm, but our main focus is still
+on profitability.
+Cost control is still good. We continue to focus on efficiency measures to create room for investing
+in the brand, technology and competencies. The increase in nominal cost is driven by the
+acquisition of Vardia last year. In addition, a provision of NOK 20 million was made for the
+announced increase in payroll tax from 2017. The provision is related to holiday pay and
+compensation in connection with announced restructuring program, which will be paid out in 2017.
+A provision of NOK 44 million was also made in connection with the restructuring program itself.
+This is related to more staff reductions than initially anticipated from 190 to 230, as well as
+somewhat higher average severance pay.
+
+Bloomberg Transcript
+
+The cost ratio excluding the Baltics and one-offs is now at 15.0% for the quarter. The cost ratio
+adjusted for one-offs only was 16.0%. The annual cost ratio is unchanged at around 15%. But as we
+have communicated earlier, 2016 and 2017 are affected by integration activities outside Norway,
+leading to a somewhat higher ratio. It will still be in the 15%s.
+Large losses amounted to NOK 182 million in the quarter, which accounts for 3.2 percentage points
+on the combined ratio. The level of large losses was lower than expected and lower than the
+corresponding quarter in 2015 when large losses amounted to NOK 261 million. The storm Urd
+contributed NOK 75 million to large losses this quarter.
+The runoff gain of NOK 314 million had a positive effect of 5.5 percentage points on the combined
+ratio in the quarter compared to 4.2 percentage points in the fourth quarter of 2015. The gain is
+related to motor TPL workers' comp in Norway, as well as a positive effect from Danish worker
+comp this quarter. Helge has already commented that we now expect average annual run-off gains
+at around NOK 900 million over the next three year to five year period. This will still be related to
+personal injuries in motor TPL and workers' comp in Norway.
+The investment portfolio yielded a return of 1.0% for the quarter. The portfolio amounted to NOK
+54 billion. The match portfolio of NOK 35 billion continued to make a stable contribution to the
+financial results with a return of 0.0% compared to 0.9% (20:13) in Q3. The portfolio at amortized
+cost is a large part of the match portfolio. The running yield in this portfolio was 4.5% at the end of
+the quarter, and the average reinvestment rate was 2.8% for 2016. The unrealized excess value
+amounted to approximately NOK 1.3 billion.
+The free portfolio of NOK 18.9 billion yielded return of 1.6% in the quarter. The result was positively
+impacted by good returns on the investment in SR-Bank, properties, and more short-term tactical
+allocations. This was partly offset by negative returns in particular from global investment-grade
+bonds, but also to some extent from private equity funds and convertible bonds.
+In the appendix, we have this time added some more detailed information about the composition
+of the investment portfolio and relevant benchmark. And in January this year, we announced the
+sale of a further 10 million shares in SR-Bank at NOK 61 per share, resulting in a limited realized
+gain in the first quarter. The proceeds have been reinvested, so that the concentration risk in the
+portfolio is now reduced.
+
+
+
+FINAL
+
+This quarter, we have also included Gjensidige Bank. The bank will celebrate its 10th anniversary
+this year. Gjensidige Bank is a retention tool in relation to our Private general insurance customers
+in Norway, enabling us to offer a combination of banking and insurance product. It is especially
+important for our Gjensidige Group (21:45) customers who are among our most loyal customers.
+The lending volume totals NOK 41 billion and today 76% of the bank's customers are shared
+customers with insurance as measured by lending volume. And the bank is becoming increasingly
+important to the group. As an example, the bank launched car financing through car dealers in
+2013 which has contributed to our strengthened position in insurance market for new cars.
+The bank has a relatively low risk lending portfolio, as proven by low loan losses over time. Since
+breaking even three years after its establishment in 2007, the bank has strong growth combined
+with good cost control. The bank's pre-tax profit was NOK 94.4 million in the fourth quarter,
+totaling NOK 428.5 million for the year as a whole, and the return on equity was NOK 11.7% after
+tax.
+
+Bloomberg Transcript
+
+Last but not least, looking at our capital position, the rating model is still the most binding
+perspective with a capital surplus of NOK 1.3 billion at the end of 2016, up from NOK 0.9 billion in
+the previous quarter when including the sale of SR-Bank shares in October. Available capital
+increased in all three perspectives, mainly driven by retained earnings. The fair value adjustment of
+bonds at maturity decreased due to increased interest rates, but that also increased the
+discounting effect of (23:12) both in non-life business and in Gjensidige Pensjonsforsikring.
+The capital requirement changed only slightly. Market risk is lower in all three perspectives due to
+the sale of shares in SR-Bank in the fourth quarter and due to the expiry of a forward contract at
+year-end reducing the property exposure. Underwriting risk is stable, but increases slightly in the
+internal model perspective due to changes in some parameters for some lines of business.
+Expected increase in future run-off gains is also accounted for in the rating perspective which
+reduces the capital requirement there. The capital margin from a rating perspective is now 109%,
+which, as already mentioned, results in NOK 1.3 billion strategic buffer. This is adjusted for the
+proposed dividend. When also adjusted for the purchase of Mølholm Forsikring, which is expected
+to be effective in Q2, the strategic buffer is NOK 0.9 billion or a capital margin of 106%. This is a
+strategic buffer level that is regarded as comfortable in relation to the purpose it's intended to
+serve and given the current situation.
+The solvency margin is 147% based on the standard formula and 180% based on internal model,
+both adjusted for the proposed dividend. We expect the internal model to be approved this year.
+In summary, we have a solid capital position in all perspectives, and we'll continue to balance our
+capital structure in a disciplined way in order to support the return on equity target, while at the
+same time, having some leeway for further bolt-on acquisitions and stabilization of the dividend.
+And with that, I give the word back to Helge for some concluding remarks.
+
+Helge Leiro Baastad
+
+{BIO 5865247 <GO>}
+
+Thank you.
+Then to sum up, we delivered strong full year results in 2016, and we have managed to further
+strengthen our Pan-Nordic position. We have measures in place to compensate for increased
+claims inflation and have pricing power and prioritized profitability before growth and market share.
+We are on track to reach profitability in Sweden during 2017, and in the Baltics from 2018. Over
+time, we still expect growth in line with GDP growth, and the combined ratio target corridor is
+
+
+
+unchanged. Our capital position is strong and we are confident that we will continue to deliver high
+and stable cash dividends to our shareholders.
+Thank you. We will now then open for Q&A session.
+
+FINAL
+
+Q&A
+Operator
+Our first question comes from the line of Jakob Brink. The line is open. Please go ahead.
+
+Q - Jakob Brink
+
+{BIO 7556154 <GO>}
+
+Thank you. I have two questions, please. The first one is regarding your comments on motor claims
+inflation. I think last quarter you said that you had previously been seeing around 1% but now you're
+seeing it higher. I don't think you quantified it back then. So, it basically only six months ago, we're
+talking about 1% and your pricing for less than 1% as far as I recall. Now, we're talking about 3% to
+4%.
+
+Bloomberg Transcript
+
+Thinking about how long time it took to go down from 3% to 4% a few years ago, down to 1%. It
+seems like a very sudden move up to 3% to 4%. And in that context, now I was thinking when
+should we actually expect it to have fully implemented the price measures you're telling us you
+have taken in order to compensate (27:09) 3% to 4%, i.e., will we see continued deterioration of
+the underlying combined ratio during 2017 and a good way in 2018 or how should we look at that?
+The second question is regarding your running yield on the total fixed income portfolio, I just the –
+based at the coupons paid. What was that in this quarter? I think it's at 2.7% last quarter. I see that
+in this quarter the actual return on the fixed income portfolio was 2.4% in weighted. So, basically
+just to confirm that this quarter is actually pretty normal on the fixed income, please. Thank you.
+
+A - Jostein Amdal
+
+{BIO 19939645 <GO>}
+
+Hello. It's Jostein Amdal. To your first question on the change of the motor inflation, as we
+commented on the third quarter, we have at that time seen a change and didn't want to be very
+specific on the numbers. I think what Helge said was – confirmed kind of the figure we had in mind
+during the third quarter, and we were taking action gradually to the second half of 2016.
+That said, it takes 12 months to run all the policies to renewals and also then further 12 months to
+get everything reflected in the accounts. Meaning that, from accounting perspective, there will be
+some delay in the increase in premiums compared to when we see the increase in claims. For new
+policies, the price increases are in place quicker because we don't need to wait for the renewal
+cycle. There would be a faster effect on new policies.
+
+A - Janne Merethe Flessum
+
+{BIO 19368607 <GO>}
+
+On your second question, Jakob, it's Janne, here. The running yield for the total fixed income
+portfolio, you're correct, was 2.8%. And looking just isolated on the bonds at amortized cost in the
+match portfolio, the running yield there was 4.5%.
+
+Q - Jakob Brink
+
+{BIO 7556154 <GO>}
+
+Okay. So, 2.8% and standalone (29:26) 4.8%. Okay. And just to come back, sir, but so, you're
+basically saying that you did price now for 3% to 4% higher claims inflation and you have been
+doing that throughout the second half of 2016, or is it only now that you have increased all the way
+to 3% to 4%?
+
+
+
+A - Jostein Amdal
+
+{BIO 19939645 <GO>}
+
+We did see this in the second half and have gradually improved – or increased prices to meet that
+expected claims inflation going forward. It means that, as I said...
+
+Q - Jakob Brink
+
+{BIO 7556154 <GO>}
+
+FINAL
+
+Okay. Many thanks.
+
+A - Jostein Amdal
+
+{BIO 19939645 <GO>}
+
+Yeah, policies won't be getting the new price level and from there actually have the renewal date.
+
+Q - Jakob Brink
+
+{BIO 7556154 <GO>}
+
+No, of course.
+
+A - Helge Leiro Baastad
+
+{BIO 5865247 <GO>}
+
+And, Jakob, maybe to give you...
+
+Q - Jakob Brink
+
+{BIO 7556154 <GO>}
+
+Thank you.
+
+Bloomberg Transcript
+
+A - Helge Leiro Baastad
+
+{BIO 5865247 <GO>}
+
+...some more insight into the claims inflation, we are talking about short-tail part of the motor
+product. TPL has been positive development for many years. We see a more stable – we expect a
+more stabilized situation going forward. But the reason for our expectation regarding claims
+inflation for motor is related to input cost, currency and technology related to the short-tail part of
+the product. So, it's the frequents (30:51) part.
+
+A - Janne Merethe Flessum
+
+{BIO 19368607 <GO>}
+
+Operator, the next question, maybe?
+
+Operator
+Thank you. We will now move to our next question from the line of Vinit Malhotra. Your line is open,
+please go ahead. Your line is open, please go ahead.
+We will now move to our next question from the line of Paul De'Ath. Your line is open, please go
+ahead.
+
+Q - Paul De'Ath
+Hi, there. And thanks for taking the questions, and a couple from me, please.
+Firstly, going back to the motor claims inflation, is it something that you feel the rest of the market
+is aware of ? I know that one of your large investors has been talking about this as well, but they
+seem to suggest that some of the smaller players in the market weren't necessarily catching on to
+the fact that the claims inflation in terms of the prices and the payers and stuff has been going up
+and just what the market dynamic means then going forward?
+And then the second question would be related to M&A. I think, you've mentioned in the slides
+that you still look at potential options of the, maybe, smaller acquisition in January. But if you could
+just give any thoughts on where you might still feel that you're missing anything or anywhere that
+you might be looking at, that would be very helpful. Thanks.
+
+
+
+A - Jostein Amdal
+
+{BIO 19939645 <GO>}
+
+FINAL
+
+Okay. To your first question, I think, the major Pan-Nordic players have all seen the same. I would – I
+don't have any specific information of companies not seeing this. But our impression is that the big
+players need to take lead here and kind of (33:22) see something happening in the market. We
+have done so in Norway, I think, but it has been (33:27) very disciplined than Denmark. So, this is
+something that, I think, more space we'll need to adjust.
+For your second question about M&A, we use bolt-on acquisitions as part of our overall strategy to
+improve our total position. You can see from market geographies (33:45) that we have a smaller
+position in Sweden and partly Denmark than we have in Norway and the Baltics. But we have kind
+of no specific targets for M&A. We will continue to scan the market for good opportunities which
+supports our strategy and within the financial targets that we have stated.
+Mølholm is a good example of this. We stated that we wanted to grow in the health insurance
+market. And with this acquisition, we get a leading position in Denmark, which is our number two
+market. So, it fits perfectly with what we have stated.
+
+Q - Paul De'Ath
+Excellent. And I mean, just to go back on that slightly, and I know in the past at various points,
+you've mentioned that potentially some of the smaller challenger players in Norway might come
+under some pressure if the pricing environment changed (34:45) that kind of thing, and we're not
+at that point yet presumably with the higher claims inflation?
+
+Bloomberg Transcript
+
+A - Jostein Amdal
+
+{BIO 19939645 <GO>}
+
+I don't have any information about the particular place being in the financial difficulties. But as I
+stated, our main interest in growing is outside of Norway. We have (35:06) 25% market share
+approximately in Norway. There is not that much we can get from buying any small player in
+Norway.
+
+Q - Paul De'Ath
+Yeah. Thanks a lot.
+
+Operator
+We will now move to our next question from the line of Matti Ahokas. Your line is open, please go
+ahead.
+
+Q - Matti Ahokas
+
+{BIO 2037723 <GO>}
+
+Yeah. Good morning. It's Matti Ahokas here (35:35) from Danske. Two questions on the motor
+insurance side since you brought it up and have talked about it quite extensively. What is the
+combined ratio for the motor business overall? And also, I'm a bit puzzled when you talk about the
+increasing prices to adjust for the claim inflation, at the same time talk about fierce competition.
+So, how does this all kind of match together in your book? Thanks.
+
+A - Helge Leiro Baastad
+
+{BIO 5865247 <GO>}
+
+Hi, Matti. I can start to give you an overall comment regarding the competition and Jostein could
+then handle your first part of the question. I would say that overall, we are comfortable regarding
+our competitive position. It's no increase in competition. It has been fierce competition for years
+actually, and we have a very strong position in Norway. As I said during my presentation, our pricing
+power is strong. And with the proposed dividend now, it's 14% customer dividend back to our
+customers. So, we are very confident and it's – I would not way that it's increased competition, our
+confidence is even better compared to one year ago.
+
+
+
+And then Jostein could handle the first part of the question. I don't think he will give you the
+answer there, but he can say it himself.
+
+FINAL
+
+A - Jostein Amdal
+
+{BIO 19939645 <GO>}
+
+I can say no myself. But as I commented without giving specific numbers for motor as such, but
+what I can say is that motor insurance in Norway is among our most profitable products this quarter
+and it's been for many years. It's an extremely profitable product for us.
+
+Q - Matti Ahokas
+
+{BIO 2037723 <GO>}
+
+So, it's fair to assume that the average combined ratio is lower than what you report for Private
+overall?
+
+A - Jostein Amdal
+
+{BIO 19939645 <GO>}
+
+You need to make your own assumptions. But it's a very profitable line of business.
+
+Q - Matti Ahokas
+
+{BIO 2037723 <GO>}
+
+Great. Thanks a lot.
+
+Operator
+
+Bloomberg Transcript
+
+We will now move to our next question from the line of Jonny Urwin. Your line is open. Please go
+ahead.
+
+Q - Jonny Urwin
+
+{BIO 17445508 <GO>}
+
+Hi. Good morning, all. Thanks for taking my questions. Just two quick ones. So, first to go back to
+claims inflation again. But just thinking about the loss ratio developments over the next few years,
+couple of years really, I mean, it sounds like there's going to be a lag here before the pricing kicks
+in to meet the higher claims inflation. So, should we think about the combined ratio drifting a little
+bit from pretty strong levels?
+Secondly, I mean, just thinking about it more strategically, I mean, could this be an opportunity to
+take market share? You guys are better than the market especially in Norway, I mean, how are you
+thinking about the growth versus margin trade off ? I mean, in theory, if everyone is putting their
+prices up, then maybe you guys could see some of this as (38:31) an opportunity to grow a bit
+more given your strategic positioning? Thanks. That's it.
+
+A - Jostein Amdal
+
+{BIO 19939645 <GO>}
+
+As you know, the pricing dynamics in non-life insurance is that there it takes some time for a price
+increase to be fully reflected in the accounts. We don't guide on specific combined ratio
+development. But our combined ratio targets remain firm and we are very confident that we'll
+meet them. The combined ratio corridor is still 86% to 89%, and we will deliver in that range.
+As regards to market share, we will not use the situation to gain market share in Norway. The
+positive side, however, is that the claims inflation is a business opportunity itself. It is actually future
+business volume for us as long as we're able to price it correctly. So, it's not all bad that the (39:23)
+claims inflation is going up. It means that we have high growth on the top line.
+
+Q - Jonny Urwin
+Okay. Thanks.
+
+Operator
+
+{BIO 17445508 <GO>}
+
+
+
+We will now move to our next question from the line of Niccolò Dalla Palma. Your line is open,
+please go ahead.
+
+FINAL
+
+Q - Niccolò Dalla Palma
+Hi. Good morning, everyone. Thanks for taking my questions. So, my first one is on – so, coming
+back to the investment results – thanks for providing slide 26, that's very useful, I just wondered
+whether you would feel commenting on the outlook for the match portfolio for 2017. Would you say
+it's fair to assume that, on aggregate, the match portfolio should go back to something below
+2015 levels assuming that interest rates stay of course where they are?
+And my second question is on the dividend. Yes, you've been growing at 6% this year, 8% previous
+year. Now, the longer-term challenge I guess is that at some point, the special run-off gains will
+fade off in 2020 or 2021. Do you think that it's fair to assume that that effectively puts a cap on
+how fast you can grow the dividend from here, or is that the wrong way of thinking about it?
+And last question is on the cost ratio, the 16% adjusted number. If you could give us some idea in
+terms of the speed at which you expect improvement from here and whether still the Baltics is
+most of the downturn (41:07) there? Thank you.
+
+A - Jostein Amdal
+
+{BIO 19939645 <GO>}
+
+Bloomberg Transcript
+
+Yeah. Your first question on the future yield of the match portfolio, it's – we do not really guide
+there, but you see the composition of portfolio and in all that the (41:32) money market running
+yield is much lower than the amortized cost when we've given you the information on the current
+running yield of the amortized portfolio which is a large part of the match portfolio.
+And you need to make your own interest rate assumptions about kind of where money market
+rates going and you have the running yield on the amortized cost portfolio from us. The rates
+there will not drift very fast down because it's not that much that is actually renewed every year.
+So, it will have a book yield of similar levels that you're seeing now.
+I think that's kind of what I can say. Yeah. The obvious point is that...
+
+Q - Niccolò Dalla Palma
+Okay. And last quarter, you gave me some idea on the current yield that you have on the current
+bonds portfolio which are mark to market. So, is that still around 0% as a fair assumption? That's
+what you said last quarter, I think.
+
+A - Jostein Amdal
+
+{BIO 19939645 <GO>}
+
+Yeah. It's slightly higher now due to (42:40) general interest rates movements. I mean, if you look
+at the three-month NIBOR, (42:45) slightly above 1% is a bit higher than it was three months ago, if
+I remember correctly. So, you can use kind of those general money market fluctuations (42:57).
+
+Q - Niccolò Dalla Palma
+Okay. Thank you.
+
+A - Jostein Amdal
+
+{BIO 19939645 <GO>}
+
+Your second question was on the dividend and how this is linked to the planned run-off gains. We
+are very much behind our dividend policy that there will be a high and stable nominal ordinary
+dividend. That's why we've kind of used special dividends to take out kind of the steam (43:21) of
+the high profits we've had for periods. So, that means you should not expect the nominal dividend
+or no dividend to go down, and we kind of calibrate the dividend every year, so we won't have this
+
+
+
+FINAL
+
+cliff effect (43:37) that when the run-off gains are over, we will have to reduce it. So, that is into our
+dividend planning. Yes.
+Your last question was about the cost ratio and as we said, 16.0% this quarter, a bit higher in 2016
+and 2017 due to the integration efforts in Sweden and the Baltic. It will be in the 15%s also in 2017
+and around 15% going forward after that. We continue to takeout underlying ordinary kind of
+operating costs to make room for investment improvements on all – kind of in every area, really.
+So, that is a continuous effort (44:24).
+
+Q - Niccolò Dalla Palma
+Okay. Thank you very much.
+
+Operator
+We will now move to our next question from the line of Blair Stewart. Your line is open, please go
+ahead.
+
+Q - Blair Stewart
+
+{BIO 4191309 <GO>}
+
+Bloomberg Transcript
+
+Thank you and very good morning. A couple of questions left. On the run-off gains, I just wonder,
+has there been a slight upgrade to your expectations there? I think, a year or so ago, you said NOK
+800 million a year for three years to five years. You're now saying NOK 900 million for three years
+to five years. So, the actual number has gone up, and partial timeline has been extended. Just
+wondering, if you can clarify that.
+Second question, just a technical one, just on the SpareBank disposals. How have those proceeds
+been invested and what would you expect the (45:22) to be in the coming quarter?
+And finally, just a question on your debt headroom, just an update as to what your plans are for
+that in terms of your ability or willingness to use that headroom. Thank you.
+
+A - Jostein Amdal
+
+{BIO 19939645 <GO>}
+
+Yeah. First of all, your observation is correct. We have now extended the number of years as we
+this planned run-off gains. It was three to five years in Q3 2015 when we first communicated. Now,
+say it's three to five years going forward from now. So, we kind of extended it kind of one quarter
+a year approximately. And also the annual kind of run rate on the run-off gains is also increased
+slightly. We have said around NOK 800 million before and now it's around NOK 900 million, yeah,
+corresponding to around 4 percentage points of the combined ratio.
+
+A - Helge Leiro Baastad
+
+{BIO 5865247 <GO>}
+
+The proceeds from the sale of the...
+
+Q - Blair Stewart
+
+{BIO 4191309 <GO>}
+
+And what's driven that? Sorry. Is that just based on an updated actuarial opinion?
+
+A - Jostein Amdal
+
+{BIO 19939645 <GO>}
+
+That is correct. We have seen this trend on the – it's a long tail personal injuries in Norway both in
+the workers' comp line and in the motor line.
+
+Q - Blair Stewart
+Okay. Thank you.
+
+{BIO 4191309 <GO>}
+
+
+
+A - Helge Leiro Baastad
+
+{BIO 5865247 <GO>}
+
+FINAL
+
+Proceeds from (46:46) sale is reinvested in the ordinary day-to-day management of our
+investment assets. We don't have any specific guidance on that. This is (46:58) investment
+department within their mandates and their risk limits to make the best of those proceeds. The
+accounting gain was kind of more or less zero. It was sold. The stake has been mark-to-market for
+a long time. So, not...
+
+Q - Blair Stewart
+
+{BIO 4191309 <GO>}
+
+Just to – sorry – just to come back on that. So, the reinvested as per normal mandates, should we
+assume that it's gone back into a basket of equities, or is it sitting in cash?
+
+A - Helge Leiro Baastad
+
+{BIO 5865247 <GO>}
+
+It's an inter-basket of – diversified basket of equities, fixed income, yeah, any type of investment
+that we do. We have limits around the allocation and the proceeds could be – will be changed
+according to the kind of the ordinary market operations that we have, not necessarily equities, it
+could be international equities, Norwegian equities, fixed income, whatever. We don't give any
+guidance in that.
+
+Q - Blair Stewart
+
+{BIO 4191309 <GO>}
+
+Okay. Thank you.
+
+Bloomberg Transcript
+
+A - Helge Leiro Baastad
+
+{BIO 5865247 <GO>}
+
+Debt headroom, we say NOK 1.6 billion as a theoretical capacity and as before, we say that we will
+never use the full theoretical capacity for reasons that we talked about sometimes. Our thinking
+around the traditions of kind of hybrid capital sub debt is that this is a tool we have. We can use it
+when we feel it's a good time in the market or if we have some needs for capital. (48:32). And,
+yeah, I think that's what we'll say. We'll communicate when we do something.
+
+Q - Blair Stewart
+
+{BIO 4191309 <GO>}
+
+So, I guess, then the question was you – or the question was intended to ask you raised debt the
+last time and then used that effectively to pay a special dividend. I think that that in and of itself
+was – is something that you're not going to replicate. You seem to be suggesting that it's there as
+a tool if you need to raise capital for some other purpose. I think the debt equity – effective debt
+equity swap is something that you're not looking to repeat at this stage.
+
+A - Jostein Amdal
+
+{BIO 19939645 <GO>}
+
+So, I think you kind of have a new guidance, it could be either. We (49:25). We thought of it as a
+good cost of capital exercise. But will we do it the same or for some other reason next time, we
+won't really guide you on that.
+
+Q - Blair Stewart
+
+{BIO 4191309 <GO>}
+
+Yeah. Okay. Understood. Thanks very much.
+
+Operator
+Our next question comes from the line of In-Yong Hwang. Your line is open. Please go ahead.
+
+Q - In-Yong Hwang
+
+{BIO 18784369 <GO>}
+
+Good morning. Thank you very much for taking my questions. I've got three, hopefully, quick ones.
+First on the underwriting deterioration of 5.5 percentage points, could you give us an idea of how
+much of that is purely down to the benign weather that we saw in 4Q 2015? I appreciate that,
+
+
+
+given that impact is not easy to segregate, but just an idea of how you see the weather impact will
+be helpful?
+
+FINAL
+
+Secondly, on the Mølholm acquisition in Denmark, given as a premium, is there any idea you can
+give us around the profitability of the acquired business and what it might be for your Nordic
+combined ratio going forward?
+And lastly, on your capital position, you're saying outlook that the uncertainty around Solvency II has
+largely decreased, but there's still a couple of outstanding issues. Could you give us a quick
+update on that, whether that's something that we should be thinking at all for 2017? Thank you.
+
+A - Jostein Amdal
+
+{BIO 19939645 <GO>}
+
+Kind of splitting up the 5.5 percentage points in loss ratio deterioration from fourth quarter 2015 to
+fourth quarter 2016, I think you should start with that a quarter in non-life insurance is really a fairly
+short period and there will be quarter-to-quarter volatility always in the loss ratio. So, one of the
+reasons is that there will be volatility every quarter.
+
+Bloomberg Transcript
+
+As you pointed out, the precise effect of the difference from a kind of a mild winter quarter to a
+more ordinary winter quarter we had this year, I don't have that number. It is kind of one part of the
+explanation, but I cannot really quantify very precisely to you.
+And thirdly, as we have communicated, in Denmark, especially, and for property claims within the
+agriculture sector and partly also elsewhere, we saw what we think is a volatility of kind of what you
+call the medium-sized claims which are less than what we report as large claims but higher than the
+kind of your frequency claim.
+And there was a (52:08) kind of quarter-to-quarter, you can see that it was unusually high for the
+fourth quarter of 2016. We think it's a pure volatility effect. I think there is no trend or information
+that gives you a read from that going forward.
+
+Q - In-Yong Hwang
+
+{BIO 18784369 <GO>}
+
+Loan (52:25) profitability?
+
+A - Janne Merethe Flessum
+
+{BIO 19368607 <GO>}
+
+Yeah. I'm going to take that one, In-Yong. We acquired the company, and the earned premiums
+was around DKK 400 million. The company is profitable but the profitability is a bit weaker than our
+target. But we of course aim for the portfolio to reaching or approaching our target corridor in two
+to three years ahead.
+
+Q - In-Yong Hwang
+
+{BIO 18784369 <GO>}
+
+And the last question (53:02), if there any kind of update on the outstanding issues that we have
+talked about for a couple of years now?
+
+A - Jostein Amdal
+
+{BIO 19939645 <GO>}
+
+There has been no changes to the outstanding issues. We think the most important ones were
+taken away a year ago on the Natural Perils Fund. We still have uncertainty relating to the tax
+treatment of technical reserves, whether that will follow the Solvency II or the accounting
+perspectives going forward.
+So far, there are no change. It will still follow the accounting perspective, but there is a risk
+somewhere there. That probably the main uncertainly at least on downside going forward. On
+upside, we still have still the Norwegian guarantee scheme provision, which we have now kind of
+
+
+
+taken for the last several quarters, reported as kind of the negative outcome (53:55). But we think
+there's an upside there because we think the Norwegian guarantee scheme provision is really an
+ordinary part of equity. If our view will somewhat prevail, then that's an upside to the capital
+position of around NOK 600 million.
+
+FINAL
+
+Q - In-Yong Hwang
+
+{BIO 18784369 <GO>}
+
+Great. Thank you very much for your details.
+
+Operator
+Our next question comes from the line of Steven Haywood. Your line is open. Please go ahead.
+
+Q - Steven Haywood
+
+{BIO 15743259 <GO>}
+
+Good morning, everybody. Just a couple of quick questions hopefully. The reinvestment rates you
+gave for 2016 was 2.8%, but do you have the reinvestment rates for the Q4 period only? And then
+on the motor and claims inflation again, can you tell us whether that's also an increasing claims
+frequency as well and what sort of level increase in claims frequency this might be? Thank you.
+
+A - Jostein Amdal
+
+{BIO 19939645 <GO>}
+
+Bloomberg Transcript
+
+We didn't provide this in Q4 but it is – reinvestment rates, but it's actually been fairly few
+investments, that's why we provided the whole year figure. Of course, the turnover and the
+amortized cost portfolio isn't really very big. Its long-term positions usually help the (55:18). On
+your – so, we need to come back to that. But I think there's, if I remember correctly, three
+investments on that. So, it's a bit sensitive to the specific (55:30) involved.
+In terms of the motor, there is a combination of increased frequency and average size of claims. In
+combination with our communication regarding run-off gains, it's still important to reiterate that
+we're talking about increased inflation in the kind of the hull, motor hull damages, not personal
+injuries. We see a combination where technology and the cost of imported parts are increasing. So,
+it's kind of – even the Mercedes low-severity accident, you will then have quite expensive repairs,
+use of sensors in all around the car, really. So, it's all kind of repairs are more expensive than they
+used to be and we see that trend still on the increase.
+As well as there might be a small uptick in the frequency and the speculations on our side is maybe
+related to the increase in hybrid cars which have a quicker acceleration than your average-size
+ordinary fossil-fuel cars. But we don't (56:36) numbers to substantiate that claim, but that's one
+hypothesis.
+
+Q - Steven Haywood
+
+{BIO 15743259 <GO>}
+
+Okay. Thank you very much.
+
+Operator
+Our next question comes from the line of Vinit Malhotra. Your line is open. Please go ahead.
+
+Q - Vinit Malhotra
+
+{BIO 16184491 <GO>}
+
+Thank you. Good morning. Thanks for taking my questions. Just – I wanted to follow up on the – I do
+remember that the S&P model gave you a credit of around NOK 0.5 billion for reserve in the
+strategic buffer. Have you heard from S&P recently on – given the fact that the claims inflation is
+picking up? So, that's my first question.
+Secondly, very quick check on the investment side and apologies if this was already addressed
+because I was not on the call all the time for the (57:33). But the property gain – or the property
+
+
+
+investment income was quite big relative to recent history as well. Is there some – is there an
+effect of the index that you had invested in and that gave you a leverage gain of some sort or
+could you just comment on the property investment income in the fourth quarter? Thank you.
+
+FINAL
+
+A - Jostein Amdal
+
+{BIO 19939645 <GO>}
+
+On the first question, we do speak to S&P every quarter, at least and they fully acknowledge the
+way we report our capital position, although the reported capital position is our own responsibility
+and our own interpretation.
+So, when we increased communicated reserves or run-off gains, then that means that the effect
+on the cap requirement also increase more in parallel with that, meaning that on the capital
+requirement effect of the reserve run-off gains and not the run-off gains themselves are taking into
+account. So, it reduces the capital requirement but it doesn't increase the capital available.
+On your second, on the property investment gain, if you ask about the underlying reason, that is
+that we have – that actually there is a fairly good commercial property market especially in the Oslo
+area, where we have kind of the bulk of our investments. It is not specifically related to the index as
+such, it's just a general insurance market – sorry, general property market in Oslo, which is – it's
+fairly good.
+
+Q - Vinit Malhotra
+
+{BIO 16184491 <GO>}
+
+Bloomberg Transcript
+
+Okay. All right. Thank you very much.
+
+Operator
+Our next question comes from the line of Bengt Kirkøen. Your line is open. Please go ahead.
+
+Q - Bengt Kirkøen
+Yes. Hello. Good morning. Just a question on competition. For the last year, we have seen an
+increase (59:44) higher market shares. But at Q3, I believe you said that you saw increased
+competition from the larger established players. Is that the same situation now that the
+competition from the large player is increasing?
+And one more question, on the motor claims inflation. Isn't it a bit strange that you see this sudden
+increase within, I mean, six months in claims inflation. I mean, the technology changes has been
+going on for at least a few years now with more sensors and so on. Thank you.
+
+A - Helge Leiro Baastad
+
+{BIO 5865247 <GO>}
+
+I can give you some comments regarding the competition, just to start with Norway and the Private
+segment in Norway. As I said, we have good competitiveness. We have stable/positive customer
+developments and we had pricing power. The main competitors we are dealing with, I would say,
+the last few months to the last couple of quarters, is still the large players, it's If, Tryg, SpareBank1
+and then we gradually see (01:01:01) and the DNB, they're bancassurance players. They're really
+small ones, I do not hear that much about them compared to one, one-and-a-half years ago.
+So, it's dominating among the large competitors. The rational competitors, the competitors that
+see the same trends like ours.
+
+A - Jostein Amdal
+
+{BIO 19939645 <GO>}
+
+And the second part of your question, motor claims inflation, you could probably usefully split that
+into two, what is happening kind of to the physical and motor hull damages and the personal injury
+claims. The long-term trends have been there for several years. The personal injury claims have
+been going down. That slow down in the personal injury claims actually kind of – was sort of that
+
+
+
+FINAL
+
+reduction in personal injury claims slowed down in 2016 and this probably also limit kind of how far
+that we can get but there is no uptick again in the personal injury claims.
+And the combination then of downtick in personal injury claims and an increase in the kind of the
+physical damages is the – results in our previous communication of 1% underlying claims inflation
+overall in the first half of 2016, which we down then said in the third quarter was higher without
+quantifying and then this quarter quantifies to between 3% and 4% as a total. I think that is – it is a
+long-term perspective on this.
+
+Q - Bengt Kirkøen
+Okay. Thank you.
+
+Operator
+It appears there are no further questions at this time. Thank you.
+
+A - Janne Merethe Flessum
+
+{BIO 19368607 <GO>}
+
+Bloomberg Transcript
+
+Okay. Thank you, everybody, for participating. Just to remind you of the roadshows we are doing
+this quarter, we're going to London tomorrow and then we are doing U.S., Boston, New York,
+Chicago and also Canada, Toronto and Montreal next week. So, hope to see some of you there.
+Thank you and good-bye.
+
+This transcript may not be 100 percent accurate and may contain misspellings and other
+inaccuracies. This transcript is provided "as is", without express or implied warranties of any kind.
+Bloomberg retains all rights to this transcript and provides it solely for your personal, noncommercial use. Bloomberg, its suppliers and third-party agents shall have no liability for errors
+in this transcript or for lost profits, losses, or direct, indirect, incidental, consequential, special or
+punitive damages in connection with the furnishing, performance or use of such transcript.
+Neither the information nor any opinion expressed in this transcript constitutes a solicitation of
+the purchase or sale of securities or commodities. Any opinion expressed in the transcript does
+not necessarily reflect the views of Bloomberg LP. © COPYRIGHT 2022, BLOOMBERG LP. All rights
+reserved. Any reproduction, redistribution or retransmission is expressly prohibited.
+
+

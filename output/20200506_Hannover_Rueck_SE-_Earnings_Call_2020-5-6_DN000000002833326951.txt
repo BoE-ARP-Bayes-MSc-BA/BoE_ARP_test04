@@ -1,0 +1,723 @@
+Company N ame: H annover Rueck SE
+Company Ticker: H N R1 GR Equity
+Date: 2020-05-06
+
+Q1 2020 Earnings Call
+Company Participants
+FINAL
+
+Jean-Jacques Henchoz , Chairman of the Executive Board
+Roland Vogel, Member of the Executive Board - CFO
+Sven Althoff , Member of the Executive Board - Property & Casualty
+
+Other Participants
+Andreas Schafer, Analyst
+Andrew Ritchie , Analyst
+Vikram Gandhi, Analyst
+Vinit Malhotra, Analyst
+
+Presentation
+
+Bloomberg Transcript
+
+Operator
+Good morning, ladies and gentlemen. I welcome you to today's Hannover Re International
+Conference Call on Q1 2020 Financial Results. For your information, this conference is
+being recorded. At this time, I would like to hand the call over to your host today, Mr. JeanJacques Henchoz, Chief Executive Officer. Please go ahead, sir.
+
+Jean-Jacques Henchoz
+
+{BIO 17457677 <GO>}
+
+Good morning, ladies and gentlemen. I'd like to welcome you to our conference call
+presenting our results for the first quarter of 2020. First of all, I need to apologize for the
+specific timing of this call and the overlap with Axel's [ph] Q1 call. But today is our AGM
+and there was unfortunately no flexibility for rescheduling. We will also have to end our call
+by 10:30 this morning as we need to go to the AGM thereafter.
+As usual, I will start with an overview before our CFO, Roland Vogel, will go over the
+financials in more detail. I'll then comment on the outlook for the year and for the Q&A, as
+usual, I'm additionally joined by my board colleagues, Klaus Miller and Sven Althoff.
+In the first quarter of 2020, Hannover Re was able to grow both its top and bottom line
+with a net income of EUR301 million, fully in line with our initial profit guidance for the year
+of EUR1.2 billion.
+However, you all know that we withdrew our full-year guidance just 2 weeks ago due to
+the prevailing uncertainty surrounding both the claims development and the capital
+market environment. Therefore, the results for the first quarter cannot be used to draw
+
+Page 1 of 13
+
+
+
+Company N ame: H annover Rueck SE
+Company Ticker: H N R1 GR Equity
+Date: 2020-05-06
+
+FINAL
+
+conclusions about the full year. But purely looking at the underlying business
+development, I'd still say that we had a good start to the year. This is also confirmed by
+the return on equity of 11.5%, which is well above our minimum target.
+In P&C reinsurance, we saw double-digit premium growth due to increased demand for
+reinsurance. The combined ratio of 99.8% was above our target of 97%, and this can
+entirely be explained by the decision to reserve for anticipated Coronavirus related
+losses, mainly in the area of business interruption, event cancellation, as well as credit and
+surety. In total, we reserved EUR220 million, implying that our large loss budget was
+exceeded by around EUR100 million.
+The results of our Life & Health Reinsurance business group was not impacted by the
+Coronavirus pandemic to-date. The EBIT of EUR124 million is quite favorable. The US
+mortality experience was in line with expectations. And also in general, the good result did
+not include any material extraordinary effects.
+At 3.2%, the return on investment is similarly pleasing. And finally, based on preliminary
+calculations, the solvency ratio should be within the range of 220% to 230% at the end of
+the first quarter, well above our threshold of 200%, despite the considerable volatility in
+interest rates and credit spreads.
+
+Bloomberg Transcript
+
+The operating cash flow in the first quarter was particularly strong, driven by attractive
+reinsurance growth as well as very solid results on the investment side. However, total
+assets under own management only increased very slightly to EUR47.9 billion Q2 due to
+mitigating effect from decreasing valuation reserves and currency translation.
+Looking at our capital position, shareholders' equity was almost stable. Market
+movements had a strong impact in the first quarter and the negative change in unrealized
+gains due to significantly increased credit spreads was the -- stronger than the positive
+impact from the decrease in interest rates. Therefore on balance, the unrealized gains
+within the OCI decreased by EUR379 million, more than offsetting the positive net income
+for the first quarter. The composition of the total capital on the left side of the slide is
+unchanged, with a high degree of flexibility around the hybrid bucket.
+On that note, I'd like to hand over to Roland, our CFO, who will explain the figures in more
+detail.
+
+Roland Vogel
+
+{BIO 16342285 <GO>}
+
+Good morning, and thank you, Jean-Jacques. Moving directly onto the segmental
+reporting, I will start with the development of our P&C business group. Gross written
+premium grew by 12%. Adjusted for currency effects, this growth came in well diversified
+by region and line of business and more pronounced in property than in casualty. The
+Americas and the APAC region contributed particularly to this growth, while structured
+reinsurance remained on the high level of the previous year.
+
+Page 2 of 13
+
+
+
+Company N ame: H annover Rueck SE
+Company Ticker: H N R1 GR Equity
+Date: 2020-05-06
+
+FINAL
+
+The large loss situation in the first quarter was two-fold. On the one hand, the -- I would
+call it normal, large loss experience was rather benign; on the other hand, we had to deal
+with a high degree of uncertainty around the impact from the Coronavirus pandemic with
+almost no claims notifications received for our clients. However, based on our own
+assessment of potential impacts from the Coronavirus pandemic, we set aside around
+EUR220 million in IBNR reserves for expected losses from the pandemic.
+These reserves are really across our book, mainly for expected losses from business
+interruption, event cancellation cases as well as credit and surety reinsurance. As a result
+of this reserving for Corona related claims expectations, the large loss budget for the first
+quarter was exceeded by EUR96 million, which accounts for roughly 3 combined ratio
+points. And adjusting the 99.8%, reported combined ratio for this budget over-run, the
+figure would have been in line with our 97% combined ratio target.
+
+Bloomberg Transcript
+
+Based on the development of a variety of single [ph] cases, the run-off of reserves was
+slightly negative in the first quarter. Overall, we have to assume that the balance of our
+reserve developments, including conservative initial underwriting year combined ratios,
+led to a confidence level rather in line with the year-end 2019, but we also did not have
+the chance to increase it after the year-end reduction.
+The net investment income increased strongly, driven by higher realized gains, we will
+come to that, in addition to the favorable ordinary investment income. Other income
+expenses were positive by EUR11 million, mainly driven by positive currency effects. And
+altogether, the EBIT margin is slightly below our 10% target to -- due to the decreased
+underwriting results. Finally, the tax ratio is slightly above the normal level but this is within
+the normal quarterly volatility.
+Total large -- net large losses including Corona related claims accounted for EUR284
+million in the first quarter, exceeding the budget by the already mentioned EUR96 million.
+The EUR220 million provisions for the Coronavirus complex is included in both the gross
+and the net numbers, as we have exceeded our estimates cost [ph] for net.
+Our large loss list includes four events in the area of natural catastrophes, namely three
+weather related events in Australia and Storm Sabine, also known as Ciara in Europe. We
+did not actually record any large manmade losses exceeding our EUR10 million threshold
+in the first quarter. The net CAT losses added up to EUR63.6 million, which would have
+been very benign in comparison to our Q1 budget of EUR188 million. However, in the end
+the budget was exceeded by the approximately EUR100 million mentioned various times
+already.
+The next slide shows the profitability of our P&C portfolio by line of business according to
+our new reporting lines. Here the regional split is a little bit more condensed and including
+the network -- catastrophe components of such reasons to no longer artificially take that
+out. The various lines of business are shown on a worldwide basis, albeit [ph] more
+consequently.
+
+Page 3 of 13
+
+
+
+Company N ame: H annover Rueck SE
+Company Ticker: H N R1 GR Equity
+Date: 2020-05-06
+
+FINAL
+
+Looking at the numbers for the first quarter, the impact from the large losses and the
+additional reserving for the Coronavirus led to an increase in the combined ratios in all
+regional markets. Not surprisingly, the most visible effect is on our credit and surety
+business where we expect to see increased loss activity due to the impact of the
+economic downturn. The agricultural business was affected by the bush fires in Australia.
+And overall, as already mentioned, the ratio -- combined ratio stands at a rather high
+99.8%.
+Let's move on to Life & Health. Growth was mainly driven by large -- by a large financing
+treaty in Australia, which we wrote in the fourth quarter of 2019. However, this was
+mitigated by the expected -- already expected reduction in premium volume due to the
+effect from recaptures in our US mortality portfolio as a result of our management action
+in the previous year.
+
+Bloomberg Transcript
+
+Altogether, gross written premium increased by 0.5% adjusted for currency effect in
+contrast to our P&C business group. The Life & Health results for the first quarter does
+not include any impacts from the Coronavirus pandemic. On the other hand, our US
+mortality portfolio performed in line with expectations compared to a very favorable
+experience in the first quarter of the previous year. On the other hand, the technical result
+is not impacted by negative effects from Australian disability business in the way it was in
+the previous year's first quarter.
+Therefore, the underwriting result including funds withheld is on a comparable level to last
+year. Ordinary investment income was favorable and also in Life & Health the contribution
+from -- realized gains has contributed. The credit spread widening impacted the value of
+our ModCo derivative. The effect was around minus EUR27 million. However, other
+derivatives contributed very positively to the change in fair value through P&L and thereby
+compensating for the ModCo impact.
+Other income and expense is mainly driven by a further increase in the contribution from
+financial solutions business, for which a large portion is recognized according to the deficit
+[ph] -- the accounting deficit. Currency effects in this quarter, slightly negative, although -altogether, the EBIT of EUR124 million does not include any material extraordinary effects
+and demonstrates a good underlying profitability of the Life & Health business group. At
+10.5%, the tax ratio is below the normal level, mainly due to very good results from
+subsidiaries and jurisdictions with a low tax rate.
+On the next slide, the development of our investments in the first quarter of 2020 was
+very satisfactory. I'm particularly pleased with the strong ordinary investment income,
+which was rather stable this -- by the somewhat lower contribution from private equity.
+Realized gains of around EUR100 million are coming mainly from our fixed income
+portfolio. Apart from the normal portfolio turnover, we sold around EUR0.5 billion in lower
+quality credits before the crisis actually started. And at the time, almost all sales within our
+fixed income portfolio were associated with realized gains. Impairments and
+depreciations were above last year, but still on a very low level.
+
+Page 4 of 13
+
+
+
+Company N ame: H annover Rueck SE
+Company Ticker: H N R1 GR Equity
+Date: 2020-05-06
+
+FINAL
+
+As I already explained, the main effect within the change in fair value of financial
+instruments, here the negative effect from ModCo was more than offset by other
+derivatives. Altogether the ROI was very strong at 3.2%. Realized gains decreased
+significantly to EUR1.8 billion, mainly driven by higher corporate spreads.
+On the next slide, you can see that on the other hand we have slightly reduced -- on the
+one hand we have slightly reduced our corporate bond exposure, in particular within our
+US SME portfolio, on the other hand the share of government as well as short-term
+investments in cash were slightly increased, reflective -- reflecting our passive derisking
+approached with new money currently being invested in risk free assets.
+
+Bloomberg Transcript
+
+Finally, the price corrections on the stock markets in March was a trigger event for our
+investment committee to look at, whether we should re-enter listed equities. Owing to
+the current uncertainty, we decided to start with a buy of around EUR250 million, a careful
+and moderate step, that portfolio has developed positively after we bought it. The
+contribution to ordinary investment income is diversified as usual, this time with a lower
+share from private equity. This should not be surprising in the current market environment
+and is expected to remain the case in the currently distressed markets.
+The next slide, here we have included this one because the Coronavirus and the
+economic downturn have put the asset risk and in particular corporate portfolios in the
+spotlight. As you can see, our corporate portfolio is highly diversified by sector, within
+those sectors additionally by issuer as we have rather strict limit control by issuer
+implemented, the exposure to the energy sector which may be impacted by the low oil
+price is around EUR700 million. The exposure to other sectors such as retail, travel,
+leisure, hotel and Airlines, which may be directly impacted by the current crisis, was
+around EUR500 million in total, again on a very well-diversified basis.
+Having said that, on the asset side it is similar -- it is similarly too early to make any reliable
+estimates as regards where and to what extend we might see defaults or impairments.
+We certainly expect some, but the amount is highly dependent on the severity and the
+duration of the economic downturn and the effectiveness of potentially mitigating
+government measures.
+I think this concludes my remarks, and I would like to hand back to you, Jean-Jacques.
+
+Jean-Jacques Henchoz
+
+{BIO 17457677 <GO>}
+
+Thank you, Roland. As you know, we withdrew our profit guidance on the 21st of April due
+to the uncertain impact of the Coronavirus pandemic. However, we're still showing you
+our target metrics with the initial targets for 2020 to allow for an assessment of the
+results for the first quarter.
+On the positive side, the return on investments is very strong at 3.5% adjusted for the
+impact from our ModCo derivative, the return on equity and also our capitalization
+according to Solvency II are both comfortably above our minimum target. In P&C, the first
+
+Page 5 of 13
+
+
+
+Company N ame: H annover Rueck SE
+Company Ticker: H N R1 GR Equity
+Date: 2020-05-06
+
+impact from the reserving for Coronavirus related losses is visible and in Life & Health the
+overall results and also the earnings growth were favorable in the first quarter.
+
+FINAL
+
+The treaty renewals as at 1st of April, 2020 were successful for Hannover Re, confirming
+that the Coronavirus crisis is not materially affecting us from an operational perspective.
+On this date, we traditionally renegotiate our business in Japan as well as on a lesser
+scale in Australia, New Zealand, some Asian markets and North America.
+In the US, we mainly expanded our property business based on increasing primary rates
+and improved pricing in non-proportional business. Additionally, the renewals in the
+Caribbean and South America were successful. In Japan, we saw rate increases for loss
+affected CAT business that were significant, with improvements of plus 40% to plus 60%.
+However, after the heavy loss burden in the last 2 years, we still feel that terms and
+conditions need to further improve and hence we decided to simply maintain our market
+share in that segment.
+Positive trend could also be observed in our aviation and marine portfolio and overall, our
+premium in the April renewal increased by 25%. The risk adjusted price change was plus
+4.4%. And looking only at the non-proportional business, the price increase was 8.3%.
+
+Bloomberg Transcript
+
+On the next slide, we have put together our current assumptions for the impact of the
+Coronavirus pandemic. Overall, the high degree of uncertainty around the claims
+development and the capital market impact do not allow us to quantify the impact on our
+financials. Therefore, we can only focus on qualitative comments at this point in time.
+In P&C, we expect a direct impact on coverage of event cancellation and business
+interruption while second order effects are possible in casualty lines. Also, we're
+expecting that the economic downturn will result in insolvencies, Roland mentioned it
+already, which would lead to losses in our credit and surety business as well.
+In Life & Health, we believe the impact on mortality and morbidity will not be significant, an
+assumption that is also supported by our scenario analysis and stress testing. The main
+impact on our investments is the risk of impairments, as already mentioned, and reduction
+in ordinary investment income. Otherwise, we feel that we have a high quality investment
+portfolio, and to complete the picture the market movements and in particular the spread
+widening are expected to negatively impact our capitalization but not to an extent that
+would bring our solvency ratio below our 200% threshold in the year 2020. Therefore, we
+also intend to maintain our general dividend policy.
+Based on the favorable renewals at 1/1 and 1/4, we see further growth opportunities in
+2020 in most areas of our diversified P&C reinsurance portfolio even though the
+Coronavirus prices is expected to moderately impact our growth rate later in the year. On
+the positive side, we would expect that the crisis will support further improvements in
+reinsurance market conditions. And additionally, we would expect to see some
+opportunities for our structured reinsurance business. In general, highly rated reinsurers
+with a strong balance sheet like Hannover Re, may see higher demand than the average
+market players these days.
+Page 6 of 13
+
+
+
+Company N ame: H annover Rueck SE
+Company Ticker: H N R1 GR Equity
+Date: 2020-05-06
+
+FINAL
+
+Usually, we also show the indication for the profitability versus cost of capital on this slide.
+However, one reason for withdrawing the profit guidance was the uncertainty regarding
+the claims development from the Coronavirus pandemic and hence, we're currently not
+yet in a position to provide an update on the profitability data.
+The same is true for our Life & Health outlook, we did not see any material impact from
+the Coronavirus pandemic in the Q1 results. However, we also cannot rule out moderate
+negative effect on our mortality and morbidity business, depending on the further
+development of the pandemic.
+In longevity, some positive effects might be possible, but this is still uncertain. And we also
+expect continued strong profitability in Financial Solutions because the business is risk
+remote. In Financial Solutions, we might also see additional demand to support clients in
+mitigating the impact of the crisis. Apart from this, we see particularly promising growth
+potential in the Asian market beyond the crisis.
+Overall, I see the Hannover Re Group well positioned to manage and absorb the impact
+of the Coronavirus crisis. We're constantly updating our scenario calculations and we will
+provide profit guidance again as soon as the underlying probabilities are sufficiently
+reliable.
+
+Bloomberg Transcript
+
+This concludes my remarks on the outlook, and we would be happy to answer your
+questions.
+
+Questions And Answers
+Operator
+Ladies and gentlemen we will now begin our question-and-answer session. (Operator
+Instructions). And the first question is from Andrew Ritchie, Autonomous Research. Your
+line is now open. Please go ahead.
+
+Q - Andrew Ritchie
+
+{BIO 18731996 <GO>}
+
+Hi there, good morning. I hope all are keeping well. I guess my main question was just to
+get a sense of your view on market conditions and how market conditions may change,
+both from an opportunity to write more business and broad pricing. We've already seen
+quite a few primary companies go into the market to buy more reinsurance already. So,
+maybe just your perspective on would you expect to see, for example, already some
+change in market conditions relative to what you were expecting before as early as the
+mid-year renewals?
+And the second question, just remind us how you would treat your -- any revaluation of
+private equity? Does that -- when would you do that? Is that at your discretion? Just some
+sensitivities around the private equity portfolio will be useful. Thank you.
+
+A - Jean-Jacques Henchoz
+
+{BIO 17457677 <GO>}
+Page 7 of 13
+
+
+
+FINAL
+
+Company N ame: H annover Rueck SE
+Company Ticker: H N R1 GR Equity
+Date: 2020-05-06
+
+Thank you, Andrew. I'll take -- start with the first question and Sven might complement if
+needed, and Roland will talk about private equity. Generally, we don't -- we didn't really
+identify Coronavirus specific changes during the 1/4 renewal although it's very difficult to
+assess. But my sense is that based on client feedback, broker feedback, that there is a
+flight to quality, there is increased scrutiny from the buyers on capitalization level. And I
+can see some opportunities for changes in the sense of increased shares on programs
+for a company like ours and possibly also less capacity -- desirable capacity, if you want,
+for the 1/7 renewals already and beyond, probably more marked in the 1st of January 2021
+renewals, but I believe that the hardening of market conditions, which is already fueled by
+NatCat events in the past few years will be strengthened and there'll be momentum in
+the reinsurance market.
+In terms of opportunities for me, I mentioned it briefly in the introduction, I feel that
+structured reinsurance is the one area where we might have a good upside. We don't
+have specific demand right now but a lot of questions asked by our customers on options,
+on structured, and you can feel very much that all clients are looking at the wide range of
+options to derisk and reinsurance comes among the prime options for our speed [ph]. So,
+I also see there opportunities for growth. So both pricing and flight [ph] to quality and
+structured reinsurance will create momentum in my view in reinsurance.
+On private equity?
+
+Bloomberg Transcript
+
+A - Roland Vogel
+
+{BIO 16342285 <GO>}
+
+I'm happy to take that, Andrew. We -- I think, we've mentioned before that of course the
+valuation of the private equities is a little bit less pro cyclical than that of the listed equities
+because you have these market values immediately. We are talking to managers and fund
+managers to get new values. We should not forget that the private equity portfolio has
+also value-wise performed very well. It does contribute significantly to the nearly EUR1.8
+billion of reserves and -- valuation reserves that we have today. We will update -- of
+course valuation will go down. This will have an impact on the OCI,
+I do not foresee really write-offs to a material extent this year. Of course, it depends on
+scenarios, but I don't see that. We have seen already -- and this is why we mentioned it
+and that is also what we would expect for the running year, that distributions from these
+funds and from the managers will decrease, so the usual outperformance of -- or the
+contribution of private equity to the ordinary, this is something we do not expect for the
+year. But from a valuation perspective, this should have an impact on our OCI to a
+digestible extent.
+
+Q - Andrew Ritchie
+
+{BIO 18731996 <GO>}
+
+Okay, thanks very much.
+
+Operator
+And the next question is from Vinit Malhotra, Mediobanca. Your line is now open. Please
+go ahead.
+
+Page 8 of 13
+
+
+
+Company N ame: H annover Rueck SE
+Company Ticker: H N R1 GR Equity
+Date: 2020-05-06
+
+FINAL
+
+Q - Vinit Malhotra
+
+{BIO 16184491 <GO>}
+
+Good morning. Just -- thanks and just 2 questions from me please. One is the slide 20,
+the Coronavirus, the IBNR has taken of EUR220 million for these 3 lines. Could you just
+help us understand the risk on the knock-on a little bit? I mean we've heard of this
+enhanced scope in US workers' compensation and I know that you've reduced your
+premiums there but that's also non-proportional. And then, just how much of a risk or
+uncertainty do you see relative to this EUR220 million from the knock-on effects? That's
+really the question.
+And second thing is just on the growth, in April -- it's quite a bit far ahead of some of the
+renewals seen in the peer group, which are mid single digits really in terms of growth. Is it
+mostly your difference is coming from more the US side or more specialty like aviation,
+marine? Could you just help us quantify a little bit where you might be different from the
+peers in this renewals? Thank you.
+
+A - Jean-Jacques Henchoz
+
+{BIO 17457677 <GO>}
+
+Thank you. I'll pass on these two questions to Sven.
+
+Bloomberg Transcript
+
+A - Sven Althoff
+
+{BIO 19104724 <GO>}
+
+Thank you and a very good morning also from my side. When it comes to the knock-on
+effects, this has played a limited part in offsetting these EUR220 million of Corona
+reserves. On the other hand, of course we have to be conscious that when it comes to
+lines of business like the E&O where we have systemic risk out of insolvencies. And in the
+end certain insolvency situations may be related to Corona impact, and therefore this is
+one of the aspects where the uncertainty is particularly high and where we have we will
+have better answers towards the end of the year. But we are watching this very carefully
+like we are watching the credit and surety space very carefully. And it's not always easy to
+decide whether an insolvency is Corona related or Corona was only one of the
+contributors in what would have happened otherwise. So, I would not have a specific
+number for you which part of the EUR220 million is taken care of the knock-on effects. But
+as Roland has mentioned, this was very much a top-down view of how we see Corona in
+general right now, and we have spent less time given the uncertainty on how we are
+contributing those numbers across our business.
+When it comes to the growth at the 1st of April renewal, quite a bit is driven by Japan.
+Jean-Jacques already mentioned the very meaningful rate increases we have achieved on
+both a cash and on a risk adjusted basis. Our approach with the Japanese client in general
+has been a little different compared to a number of our peers. The focus from the peer
+group was very much on the wind towers, but we said from the word go to our Japanese
+client that, yes, we need to readjust the pricing on the wind towers but at the same time
+we also understand that giving payback will be difficult for the client on the wind towers
+only.
+So, we had a much broader conversation with our Japanese client and that was very
+successful. We received a lot of compliments after the renewal from our clients. And in
+terms of payback, we have no not only achieved those cash increases which are very
+
+Page 9 of 13
+
+
+
+Company N ame: H annover Rueck SE
+Company Ticker: H N R1 GR Equity
+Date: 2020-05-06
+
+FINAL
+
+much in line with the market, but we have also achieved additional non-CAT business from
+our Japanese clients and we have also received well -- very well priced earthquakeexposed business from our Japanese client.
+So, that was one of the main contributors for the very significant growth at 1/4. And the
+other main contributor was the agricultural business where we have very successfully
+negotiated one contract in the United States on the MPCI business on a quota share
+basis. This is coming from a client that used to buy from us, then the client stopped to buy
+from us and now that client is buying again. And that was the main contributor compared
+to 1/1 as well.
+
+Q - Vinit Malhotra
+
+{BIO 16184491 <GO>}
+
+Thank you.
+
+Operator
+And the next question is from Andreas Schafer, Bankhaus Lampe. Your line is now open.
+Please go ahead.
+
+Bloomberg Transcript
+
+Q - Andreas Schaf er
+
+{BIO 21186558 <GO>}
+
+Thank you. So there's just one question from my side left. On the asset side, I mean I was
+surprised see that you're unrealized capital gains for non-fixed income assets have risen
+quite strongly in Q1. So could you give us, especially on real estate, some sort of overview
+about -- on your exposure, especially to retail investments, shopping center and so on?
+And what do you expect here for the development of the value of your investments in
+real estate?
+
+A - Jean-Jacques Henchoz
+
+{BIO 17457677 <GO>}
+
+Yeah, I'm happy to do that. Overall, if we talk about real estate and the prices, the
+portfolio as such has not changed dramatically. We sold one piece of real estate in the
+first quarter with a good -- realized gains. So in that regard, the valuation reserves should
+have gone down by that gain. Other than that, the portfolio has not changed a lot. So,
+these are revaluations, the portfolio -- the real estate portfolio as such, comprises EUR2.6
+billion including funds. Retail is really one of the smaller components in our direct holdings.
+This is all commercial and within that the most of it is a focus on office buildings and we
+have increased logistics, so retail is really a minor component of that.
+Still also we have seen that some of our clients here -- and have stopped the payments of
+their rents and we have been flexible in this regard. The impact, especially in the first
+quarter of course, was limited. We expect a little bit more, but also again the real estate
+portfolio is not driven by retail.
+
+Q - Andreas Schaf er
+
+{BIO 21186558 <GO>}
+
+Thank you.
+
+Page 10 of 13
+
+
+
+Company N ame: H annover Rueck SE
+Company Ticker: H N R1 GR Equity
+Date: 2020-05-06
+
+Operator
+And the next question is from Vikram Gandhi, Societe Generale. Your line is now open.
+Please go ahead.
+
+FINAL
+
+Q - Vikram Gandhi
+
+{BIO 18019785 <GO>}
+
+Hello, good morning. This is Vikram, SocGen. Just got one question, how should we think
+about the EUR220 million charge on the COVID-related claims with respect to credit and
+surety business? Have you already penciled in the more significant part of the claims that
+you are -- that are likely to (Technical Difficulty) and likewise even on the event cancellation
+claims or is there more to come? And how should we think of this EUR220 million with
+regard to the initial EUR200 million potential exposure that you had provided to the
+market? Thank you.
+
+A - Roland Vogel
+
+{BIO 16342285 <GO>}
+
+Thank you. Sven, I'll let you address this one as well.
+
+A - Sven Althoff
+
+{BIO 19104724 <GO>}
+
+Bloomberg Transcript
+
+Yeah, thank you. I mean, as you will appreciate, there is a very high amount of uncertainty
+right now in coming up with a robust Corona reserve, for part of the uncertainty of course
+comes from the fact that the event is still ongoing and we do not have a final view on
+what will happen in the upcoming weeks. So therefore, we have tried to take a balanced
+top site [ph] best estimate view.
+On the credit and surety side, which was one of the specific parts of your questions, we
+have of course 2008 as a reference case where roughly we had 15 to 20 loss ratio points,
+more frequency coming during the financial crisis years out of our credit and surety book
+of business. At the same time, we have very strong mitigating programs from
+government in place or in negotiations right now, which did not happen in 2008.
+I mean to take Germany as a specific example, the German Government has decided to
+take a very, very significant quota share of the in-force German and export credit business
+written by German companies for a less than proportionate part of the premium. And we
+are aware that we have various European countries thinking about at least similar
+concepts.
+At the same time, credit insurers, given the uncertainty, are doing what they are doing.
+And these circumstances, as long as the programs from governments are not finally in
+place, they are severely de-risking their portfolios. And therefore, we still feel, even
+though the dynamics of the recession will be very different compared to -- only [ph] the
+financial crisis recession in 2008 compared to a recession which is hitting the non-financial
+part of the economy much more severely now in the Corona crisis is giving us comfort at
+our initial loss ratio. And Roland mentioned that when he commented on the slide where
+we showed the loss ratios by line of business that our initial view on the credit and surety
+side is conservative by adding roughly 25 to 30 loss ratio points in the first quarter based
+
+Page 11 of 13
+
+
+
+Company N ame: H annover Rueck SE
+Company Ticker: H N R1 GR Equity
+Date: 2020-05-06
+
+on this line of business as well. Could you repeat just the second part of your question,
+please?
+
+FINAL
+
+Q - Vikram Gandhi
+
+{BIO 18019785 <GO>}
+
+Sure. The second part of the question was pretty much similar to credit and surety. Should
+we think that you have also reserved a large (Technical Difficulty) of the event cancellation
+claims that you anticipate?
+
+A - Jean-Jacques Henchoz
+
+{BIO 17457677 <GO>}
+
+Yes, even though -- again it was a top-down number we have established, this is taking
+care of a very significant part of our event cancellation portfolio. As you know, we are one
+of the three participants on the program for the 2020 or now 2021 Olympics. Our line on
+the program is relatively small with only $50 million. So this number, even though we only
+expect a partial loss on the Olympic program, is sitting comfortably into our overall
+reserve.
+Outside of the Olympics, we have a contingency in the event cancellation portfolio. But
+that is in itself only a double-digit number we are currently associating with Corona
+specific cancellations. So, I would say that we have been able in the first quarter to
+reserve for most of that particular exposure.
+
+Q - Vikram Gandhi
+
+{BIO 18019785 <GO>}
+
+Bloomberg Transcript
+
+Okay, that's very clear. Thank you.
+
+Operator
+There are currently no further questions, so I hand back to the speakers for closing
+remarks.
+
+A - Jean-Jacques Henchoz
+
+{BIO 17457677 <GO>}
+
+Well, thank you very much for your question and interest. I think we've covered the ground
+pretty well. We wanted to convey the message that we have a decent Q1 with material
+reserving for these Corona related losses. At the same time, it's still early in the year and
+we will follow development very carefully and we will be able to quantify more specifically
+how the impact evolves. But generally, we feel confident, we feel well positioned, very
+well capitalized to master this challenge, but also beyond that to capture new
+opportunities, we mentioned that earlier during the question session. So, a good steady
+performance with challenges ahead, but these are nevertheless, in our view, manageable.
+We have our AGM, as you know, later today to present the results of 2019 and to
+comment on Q1 as well, for today. Thanks again for your interest and see you next time.
+
+Operator
+
+Page 12 of 13
+
+
+
+Company N ame: H annover Rueck SE
+Company Ticker: H N R1 GR Equity
+Date: 2020-05-06
+
+This transcript may not be 100 percent accurate and may contain misspellings and other
+inaccuracies. This transcript is provided "as is", without express or implied warranties of
+any kind. Bloomberg retains all rights to this transcript and provides it solely for your
+personal, non-commercial use. Bloomberg, its suppliers and third-party agents shall
+have no liability for errors in this transcript or for lost profits, losses, or direct, indirect,
+incidental, consequential, special or punitive damages in connection with the
+furnishing, performance or use of such transcript. Neither the information nor any
+opinion expressed in this transcript constitutes a solicitation of the purchase or sale of
+securities or commodities. Any opinion expressed in the transcript does not necessarily
+reflect the views of Bloomberg LP. © COPYRIGHT 2022, BLOOMBERG LP. All rights
+reserved. Any reproduction, redistribution or retransmission is expressly prohibited.
+
+Bloomberg Transcript
+
+FINAL
+
+Ladies and gentlemen, thank you for your attendance. This call has been concluded. You
+may disconnect.
+
+Page 13 of 13
+
+

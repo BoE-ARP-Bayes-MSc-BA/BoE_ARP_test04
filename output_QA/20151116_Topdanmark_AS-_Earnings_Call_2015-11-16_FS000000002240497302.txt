@@ -1,0 +1,496 @@
+Company Name: Topdanmark AS
+Company Ticker: TOP DC Equity
+Date: 2015-11-16
+
+Q3 2015 Earnings Call
+Company Participants
+FINAL
+
+Christian Sagild
+Lars Thykier
+
+Other Participants
+Christian Hede
+In-Yong Hwang
+Jakob Brink
+Niccolo C. Dalla Palma
+Per Grønborg
+
+MANAGEMENT DISCUSSION SECTION
+Operator
+
+Bloomberg Transcript
+
+Ladies and gentlemen, thank you for standing by and welcome to the Topdanmark's
+Results for the First Three Quarters of 2015. I must advise you the webcast is being
+recorded today on Monday, November 16, 2015.
+I'd now like to hand the webcast over to your presenter today, Christian Sagild. Please go
+ahead.
+
+Christian Sagild
+
+{BIO 15093649 <GO>}
+
+Good afternoon, everybody, and good morning to the USA, and thank you for joining us
+in this conference call. With me are, as usual, our CFO, Lars Thykier; and Steﬀen
+Heegaard, who is Head of Investor Relations and Group Communications. We are holding
+this conference because earlier today we published our results for the ﬁrst three quarters
+of 2015. We are now ready to answer your questions. Please ask them one at a time.
+Operator, could we have the ﬁrst question, please?
+
+Q&A
+Operator
+Thank you. Your ﬁrst question comes from the line of Jakob Brink of ABG. Please ask your
+question.
+
+Page 1 of 8
+
+
+
+Company Name: Topdanmark AS
+Company Ticker: TOP DC Equity
+Date: 2015-11-16
+
+FINAL
+
+Q - Jakob Brink
+
+{BIO 7556154 <GO>}
+
+Thank you. I have some questions regarding the capital and the transfer to Solvency II. I
+think it was in the Q1 report you mentioned that there would be potential for expected
+future proﬁts to be calculated as a percentage of Group premiums instead of the
+premium reserves. I was just wondering – we have heard some slightly diﬀerent
+comments from some of your competitors. So I was just hoping if you can give us some
+more details on that and maybe if DFSA have guided you in connection with also the
+model improvement a few weeks ago on that speciﬁc topic.
+And also on Solvency II, I was wondering about the discounting curve. It looks like the
+AOPA end of October curve is basically in line with the end of October FSA curve, is that
+correctly understood; i.e., that we should expect only a marginal change to the impact of
+discounting when going over to Solvency II?
+And then, ﬁnally, on a diﬀerent topic; on price changes. You mentioned earlier in the year
+that you would lower prices with around 5% on motor. How – what is the progress on this?
+Do you still need to do some of those changes or is it all basically factored in by now?
+Thank you.
+
+Bloomberg Transcript
+
+A - Lars Thykier
+
+{BIO 16427122 <GO>}
+
+I can recall this from the ﬁrst quarter's accounts, but the basic thing when we are talking
+insurance contract is, that insurance contracts are regarded as an investment in Solvency II
+and in the future Danish accounting rules. That is that when you expense (02:40) the
+acquisition cost and the insurance contract is concluded, the insurance contract represent
+some kind of value.
+The expected net cash ﬂow of the insurance contract is discounted through the day where
+the accounts are made up to calculate the present value. That is that if an insurance
+contract is to yield a positive net cash ﬂow of DKK 100 million over next year, we'll (03:10)
+in the balance sheet.
+In the Solvency II balance sheet, the value of insurance contracts is booked as expected
+future proﬁt and reﬂected in shareholders' funds. In the future Danish GAAP balance
+sheet, it would probably be named service margins.
+Concerning the curve, you are right that the diﬀerence between the current curve and the
+curve we will have after January 1 is, the diﬀerence is very small, given that the company
+that uses the curve has asked for and got the permission to volatility adjustments. But this
+is – you have to apply it and we have applied but we have not got the permission yet.
+
+A - Christian Sagild
+
+{BIO 15093649 <GO>}
+
+Jakob, you asked about the price development in motor. What happened in Q2 was that
+we introduced a new motor tariﬀ. And if you took the old motor tariﬀ and change that into
+the new motor tariﬀ, that meant a discount – a lowering average of 5%. Those 5% does
+not materialize at once, but it represents a competitiveness in the market to have the
+lower prices on the new motor insurances.
+Page 2 of 8
+
+
+
+Company Name: Topdanmark AS
+Company Ticker: TOP DC Equity
+Date: 2015-11-16
+
+FINAL
+
+We have seen through 2015 that we have lost more customers than we have gained; and
+therefore, we have a slight drop in our market share in motor. And this is due to a very – a
+quite ﬁerce competition. I think that we have now seen that most of the companies have
+introduced their motor tariﬀs, and I think that we are probably moving towards a more
+normalized competitive situation. But the eﬀect of new customers having lower prices on
+average than customers leaving us will still have an eﬀect in 2016. And I think that we, also
+in 2016, will see an average drop in the motor premiums.
+So that is one of the reasons why we guide minus 1% in 2016 and the other reason is that
+we still expect some larger accounts in the commercial line business to accept oﬀers that
+we will not compete with from some of our competitors.
+
+Q - Jakob Brink
+
+{BIO 7556154 <GO>}
+
+Okay. Thanks for that. Just one follow-up on the capital. So those new items of Solvency II,
+they will most likely then boost your solvency position. I guess you could argue that you
+already – today you basically have those capital elements available. It's just not included in
+reported capital. How does – or how are you looking at that? I mean, will you actually treat
+this as extra capital or is it just extra reported capital?
+
+Bloomberg Transcript
+
+A - Lars Thykier
+
+{BIO 16427122 <GO>}
+
+You are completely right. The individual solvency regime we have now included the same
+items as Solvency II (06:31). So there will not be more capital cover when we change to
+Solvency II. We regard these extra elements as, what we call, an accounting illusion,
+because it doesn't change the fundamental value of the company. And that means that
+this extra capital will not be – will not trigger any more share buybacks.
+
+Q - Jakob Brink
+
+{BIO 7556154 <GO>}
+
+Okay. Thanks a lot.
+
+Operator
+In-Yong Hwang of Goldman Sachs. Please ask your question.
+
+Q - In-Yong Hwang
+
+{BIO 18784369 <GO>}
+
+Hello. Good afternoon. This is In-Yong Hwang from Goldman Sachs. Two questions for
+me. Just one on run-oﬀs, it's not as high as last quarter, but still quite high and higher than
+your kind of 1.5% to 2% guidance. Is it still the same third-party liability and kind of change
+of ownership insurance that you were talking about in the last quarter and where that's
+coming from?
+And just a bit of detail on how often you kind of look at reserves to determine whether
+you've got too much, I mean, just especially in the context of your Nordic peer in Norway
+got into (08:02) much higher bonus levels going forward in the next couple of years.
+
+Page 3 of 8
+
+
+
+Company Name: Topdanmark AS
+Company Ticker: TOP DC Equity
+Date: 2015-11-16
+
+FINAL
+
+And my second question is on your buybacks. You converted to the safe harbor method
+going forward. I wonder – does that aﬀect anything in terms of whether you get closer to
+your guided level of buyback? In the last few years we've seen Topdanmark for – quite a
+few hundred million short of the kind of the announced number in terms of the buyback
+achieved during the year. So I wonder whether that actually makes it more likely that you
+would get closer to the DKK 1.95 billion that you've announced for this year at all. Thank
+you.
+
+A - Christian Sagild
+
+{BIO 15093649 <GO>}
+
+If I can answer the last question for you regarding the buyback. The fact that we use safe
+harbor method enlarge the window that we can have buybacks performed, since they can
+start tomorrow but continue up until February 10; whereas we would be in a silent period.
+The report states that we will – that we have asked Danske Bank to perform a buyback of
+DKK 564 million from now and up until February and that is the remainder of the buyback
+of DKK 1.95 billion, which is still the potential buyback or stated buyback for 2015.
+So apart from this small time lag, the buybacks will be performed to DKK 1.95 billion. And
+going forward, we will probably not use – I mean, we will, of course, state how much
+buyback has been performed by January 1 also, but we will use these windows between
+reporting dates to announce buybacks for the future quarter.
+
+Bloomberg Transcript
+
+A - Lars Thykier
+
+{BIO 16427122 <GO>}
+
+Concerning run-oﬀ. The major part of the run-oﬀ this quarter has been in illness and
+accident and in liability. We look at the reserves every quarter, but we do not have runoﬀ
+for every business line every quarter. We just have to – we look at it from time to time we
+close (10:25) and this means that (10:29) in the runoﬀ stream.
+I don't know. Did that answer your question?
+
+Q - In-Yong Hwang
+
+{BIO 18784369 <GO>}
+
+Yup, yup. But I guess you probably keep the same comment you just made in the last
+quarter that I think you mentioned something like the 1.5% to 2% is a bit too conservative
+in the near term. Is that correct?
+
+A - Lars Thykier
+
+{BIO 16427122 <GO>}
+
+It probably is. The 1.5% to 2%, that is looking forward. When we make up our reservations
+for claims this year, we look at kind of conservatism in the reservations, which should be
+1.5 percentage points to 2 percentage points.
+
+Q - In-Yong Hwang
+
+{BIO 18784369 <GO>}
+
+Thank you.
+
+Operator
+
+Page 4 of 8
+
+
+
+Company Name: Topdanmark AS
+Company Ticker: TOP DC Equity
+Date: 2015-11-16
+
+Thank you. Your next question comes from Per Grønborg of Danske. Please ask your
+question.
+
+FINAL
+
+Q - Per Grønborg
+Yes. Good afternoon. It's Per from Danske. A couple of questions from my side as well.
+First going back to the issues that Jakob asked about on capital. You now got your
+Solvency II models approved. I would assume that this implies that you know how much
+capital you will need going forward. But what you don't need – what you don't know is
+how much of the existing balance sheet you're able to include in your capital available
+going into 2016. Is that correctly understood? That was the ﬁrst question.
+
+A - Lars Thykier
+
+{BIO 16427122 <GO>}
+
+I don't think so. We need to know whether our volatility adjustment is approved or is not
+approved. That is an outstanding point, Per. But I think we have a pretty clear picture of
+our base capital in 2016.
+
+Q - Per Grønborg
+And (12:26) what your capital need will be in 2016 will be approved you have now and
+assuming you will get the volatility approved?
+
+A - Lars Thykier
+
+{BIO 16427122 <GO>}
+
+Bloomberg Transcript
+
+There are still a few small items that we'll have to adjust, but it'll be close to the individual
+solvencies that you see now, or the base capital we show in the sheets.
+
+Q - Per Grønborg
+So to the individual solvency need, you show somewhere in the report?
+
+A - Lars Thykier
+
+{BIO 16427122 <GO>}
+
+Yeah, in the presentation.
+
+Q - Per Grønborg
+In the presentation. Okay. I'll try and look in the presentation. My ﬁnal question, where
+was conversation, that discussions now are – it has basically decided that retirement age
+will be increased by one year. There's two more years to come down the road. How do we
+see the 2015, 2016 proﬁt impact from those changes?
+
+A - Lars Thykier
+
+{BIO 16427122 <GO>}
+
+In ﬁrst place, we make reservations until 70 years, so this will not impact the reserves. But I
+mean, the industry will have to cope with this change in retirement date and that might
+mean that some of our colleagues will increase the premiums, but I don't see any impact
+on our combined ratio.
+
+Q - Per Grønborg
+Page 5 of 8
+
+
+
+Company Name: Topdanmark AS
+Company Ticker: TOP DC Equity
+Date: 2015-11-16
+
+You already provisioned as based on 70 years.
+
+A - Lars Thykier
+
+{BIO 16427122 <GO>}
+
+Yes.
+
+FINAL
+
+Q - Per Grønborg
+Retirement age. Okay. Perfect. Thank you.
+
+Operator
+Thank you. Your next question comes from Christian Hede of Nordea. Please ask your
+question.
+
+Q - Christian Hede
+
+{BIO 18642300 <GO>}
+
+Yes. Good afternoon. It's Christian from Nordea. I just have a few follow-up questions.
+One is on the shadow account and life insurance business. Do you know what the
+treatment will be going forward, and do you have any news to share with us?
+
+Bloomberg Transcript
+
+Another part would be if you could talk a bit more about what you call the loss of
+unproﬁtable industrial customers. I understand there is workers compensation. And how
+you see the competition going forward as well? And then just to clarify because I wasn't
+paying enough attention, did you say that you would issue buyback sizes, buyback
+programs every quarter? Thank you.
+
+A - Lars Thykier
+
+{BIO 16427122 <GO>}
+
+(14:49) shadow account. We have not received the guidelines for new – for contribution in
+the future yet. But it is our expectation that the shadow account one that is the shadow
+account concerning the return on investment there. That it will disappear and we'll have
+to run oﬀ the existing shadow accounts within ﬁve years. And if we are not able to make
+up the missing income within these ﬁve years, we'll have to write it oﬀ.
+
+A - Christian Sagild
+
+{BIO 15093649 <GO>}
+
+With regards to the workers comp, you're absolutely right. The competition in workers
+comp is quite ﬁerce. And for some reason, we feel that some of our competitors are using
+other methods of tariﬃng than we do. We see quite a severe loss of portfolio. We have
+lost, for instance, to protect the small Norwegian company we lost more than DKK 50
+million in portfolio in workers comp on a net basis. And what we see is a price policy that
+we cannot recognize in the claims patterns (16:11) that these customers have produced in
+the past.
+So we are looking at competition that we will simply not participate in. We are being
+(16:22) some 30% on price levels that would cover the average claim cost, marginal costs
+and this of course is something that we'll not accept. So this is to some extent, of course,
+aﬀecting the competition in workers comp right now.
+
+Page 6 of 8
+
+
+
+Company Name: Topdanmark AS
+Company Ticker: TOP DC Equity
+Date: 2015-11-16
+
+Q - Christian Hede
+
+{BIO 18642300 <GO>}
+
+Thank you. And the buybacks every quarter?
+
+A - Lars Thykier
+
+{BIO 16427122 <GO>}
+
+FINAL
+
+I don't think we said anything about this.
+
+A - Christian Sagild
+
+{BIO 15093649 <GO>}
+
+But, well, did you ask the question, Christian, about that?
+
+Q - Christian Hede
+
+{BIO 18642300 <GO>}
+
+Yeah. Yeah. Because I wasn't paying enough attention, so I heard that you would say how
+much you would buy back each quarter, but maybe I was wrong. So I was just asking
+whether that's correct or not.
+
+A - Christian Sagild
+
+{BIO 15093649 <GO>}
+
+We will report through the Safe Harbor method how much we authorize Danske bank to
+buy back in the next open window.
+
+Q - Christian Hede
+
+{BIO 18642300 <GO>}
+
+Bloomberg Transcript
+
+Okay. Thank you.
+
+Operator
+Thank you. Your next question comes from the line of Niccolo Dalla Palma of Exane BNP
+Paribas. Please ask your question.
+
+Q - Niccolo C. Dalla Palma
+
+{BIO 16052945 <GO>}
+
+Hi. One more question please on Solvency II. Could you – were the DKK 4.7 billion of
+estimated (17:31) capital remain completely unchanged even after the ﬁnal adjustments
+and is that the number we should compare to the DKK 6.7 billion on slide 20 of available
+capital going forward?
+
+A - Lars Thykier
+
+{BIO 16427122 <GO>}
+
+What we need to have is a reasonable surplus of base capital above the solvency capital
+required. But the Solvency II elements, they are quite volatile and for this reason, we will
+probably continue stating that the DKK 4.7 billion of (18:14) funds, hybrid capital and Tier 2
+capital is the number that we are aiming at.
+
+Q - Niccolo C. Dalla Palma
+
+{BIO 16052945 <GO>}
+
+Okay, very clear. Thanks.
+
+Operator
+Page 7 of 8
+
+
+
+Company Name: Topdanmark AS
+Company Ticker: TOP DC Equity
+Date: 2015-11-16
+
+Thank you. There are no further questions. Please continue.
+
+A - Christian Sagild
+
+{BIO 15093649 <GO>}
+
+FINAL
+
+Well, thank you for taking the time to attending our conference. As you know, you are
+always welcome to call one of us if you have any further questions. We'll be happy to
+answer them. Thank you and goodbye.
+
+Operator
+Thank you. That does conclude our webcast for today. Thank you for participating. You
+may all disconnect. Speakers, please stay on the line.
+
+Bloomberg Transcript
+
+This transcript may not be 100 percent accurate and may contain misspellings and other
+inaccuracies. This transcript is provided "as is", without express or implied warranties of
+any kind. Bloomberg retains all rights to this transcript and provides it solely for your
+personal, non-commercial use. Bloomberg, its suppliers and third-party agents shall have
+no liability for errors in this transcript or for lost proﬁts, losses, or direct, indirect,
+incidental, consequential, special or punitive damages in connection with the furnishing,
+performance or use of such transcript. Neither the information nor any opinion expressed
+in this transcript constitutes a solicitation of the purchase or sale of securities or
+commodities. Any opinion expressed in the transcript does not necessarily reﬂect the
+views of Bloomberg LP. © COPYRIGHT 2022, BLOOMBERG LP. All rights reserved. Any
+reproduction, redistribution or retransmission is expressly prohibited.
+
+Page 8 of 8
+
+

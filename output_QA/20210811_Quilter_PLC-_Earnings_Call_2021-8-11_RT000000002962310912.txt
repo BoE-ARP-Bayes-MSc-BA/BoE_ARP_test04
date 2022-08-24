@@ -1,0 +1,1188 @@
+Company N ame: Quilter PL C
+Company Ticker: QLT L N Equity
+Date: 2021-08-11
+
+S1 2021 Earnings Call
+Company Participants
+FINAL
+
+Andy McGlone , Chief Executive Officer, Quilter Cheviot
+Mark Satchel, Chief Financial Officer
+Paul Feeney, Chief Executive Officer
+Stephen Gazard, Chief Executive Officer at Quilter Financial Planning
+Steven Levin, Chief Executive Officer, Quilter Investment Platform & Quilter Investors
+Unidentified Speaker
+
+Other Participants
+Andrew Sinclair
+Benjamin Bathurst
+Enrico Bolzoni
+Gregory Simpson
+Gurjit Kambo
+
+Bloomberg Transcript
+
+Nicholas Herman
+
+Presentation
+Paul Feeney
+
+{BIO 17570862 <GO>}
+
+Hello, and good morning, everyone. Thank you for taking the time to join us this morning
+for our Interim Results Presentation. Hopefully, when we next present, we won't be limited
+to a virtual format, and I look forward to meeting you in person. In the meantime, I hope
+you and your families are keeping safe and well.
+I'll start with some words about our industry and cover the highlights of the entire
+business. Mark will talk to our financial performance with a focus on the continuing
+business, and then we'll switch over to our live call, where I'll be joined by my executive
+committee colleagues to take your questions.
+We're pleased to be announcing a good set of results today. Before we dive into those, I
+want to start with a broader perspective on Quilter's position within the wealth
+management industry and the main themes defining the industry landscape. First, there's
+an enduring need for the advice we provide. Times are particularly uncertain as we adjust
+to living with the pandemic. Easy monetary policy, and targeted financial support,
+prevented a social and medical catastrophe, from becoming an economic one. But as
+those measures are withdrawn, they'll have to be paid for, potentially through high taxes.
+All these uncertainties create demand for financial advice as clients look for guidance in a
+hard to navigate world.
+Page 1 of 20
+
+
+
+FINAL
+
+Company N ame: Quilter PL C
+Company Ticker: QLT L N Equity
+Date: 2021-08-11
+
+Second, our industry is being transformed by digitalization. Its potential to drive efficiency
+has been apparent for a while now and the pandemic has turbo-charged both client and
+advisor adoption of new and more convenient ways of working. Indeed technological
+leadership was the philosophy that underpinned our investment in our new platform. The
+new platform provides the digital foundation for all things Quilter by linking products,
+business lines, and distribution channels. We can now do things that we simply couldn't
+have considered with the old platform. It allows clients self-service options and means we
+can offer a wider range of services more efficiently than ever before.
+Looking forward, both advisers and investment managers will continue to embrace digital
+means of serving clients to drive efficiency and enhance productivity. That makes
+embedding digital strategies into core operating models essential.
+
+Bloomberg Transcript
+
+Third, our market will continue to consolidate and I'm not just talking about M&A.
+Overtime, assets will migrate to the scale players who can afford to invest to deliver
+compelling, competitively priced solutions. Weaker players if they're not acquired, will
+simply fade away. We're going to be a winner here. And while we never rule out
+acquisitions, they're not currently on our agenda. Our business is in the shape we want.
+We have the scale and capabilities to cover all clients and their needs right across the
+wealth market in the UK.
+Finally ESG, and particularly the E, is increasingly central to any successful business model.
+Both the pandemic and the recent extreme climate events globally, have brought this
+home even to the skeptics. I want Quilter to be the UK's leading, responsible wealth
+manager, with ESG philosophies fully embedded within the advice process. We'll provide
+ESG ratings right across all the funds on our platform and we're positioning our solutions
+in Quilter Cheviot and Quilter Investors to deliver good ESG outcomes and good
+investment performance.
+Right, let's now turn to our first half performance. In our familiar format, let's consider
+progress along three dimensions; financial momentum, operational improvement, and
+strategic progress.
+I'm delighted to report that we've made excellent progress on all three fronts. Financially,
+we've achieved a strong improvement in gross and net flows, driven by our new platform.
+And we delivered 20% growth in adjusted profit to GBP85 million. We've lifted our interim
+dividend to GBP0.017 per share versus GBP0.01 a share last year. We drove a 3
+percentage point improvement in the operating margin despite absorbing cost
+headwinds, which Mark will cover later. And as you know, we've also returned around
+GBP265 million to shareholders through our buyback program with nearly GBP100 million
+completed since our full-year results in March, leaving just over GBP100 million to go which
+we plan to get done this year. Operationally, our optimization plans, which we upscaled to
+GBP265 million bounce back in March are on track. We have deployed the first phase of
+our new general ledger, which will ultimately replace the multiple ledgers in place today
+and achieve operational and control efficiencies right across the business. We've also
+been hard at work implementing productivity initiatives in Quilter Financial Planning and we
+are investing to transform that business.
+
+Page 2 of 20
+
+
+
+Company N ame: Quilter PL C
+Company Ticker: QLT L N Equity
+Date: 2021-08-11
+
+Bloomberg Transcript
+
+FINAL
+
+Finally, in terms of strategic progress, we completed our platform migrations. We
+announced the sale of Quilter International, which was overwhelmingly approved by
+shareholders in June, while we're pleased with where we are and the progress we have
+made, there is much more that I know we can do. That's why we have a plan with
+demanding growth and efficiency targets to deliver much improved operating margins.
+I'm looking forward to sharing more details of these plans with you at our capital markets
+day in November.
+You've seen this slide before, a summary of our net flows. We haven't been delivering this
+level of client flow since 2018 and we're just getting started. I'm delighted by the strong
+improvement in our platform flows and I'll draw down into that in a moment. But what I
+want to draw out here is the sharp improvement across the whole business. Our platform,
+shown in dark green delivered its best performance in over three years. Quilter Cheviot in
+black, doubled net flows on last year and finished the quarter with strong momentum.
+We've also seen a welcome pick up of flows into Quilter Investors in light green. This was
+supported by the strong improvement in investment performance, for the Cirilium active
+range over the last year. There's a slide showing investment performance at Quilter
+Investors and Quilter Cheviot in the appendix to this presentation which summarizes their
+strong performance outcomes.
+Let me now turn to our advice business. Here, we're very focused on advisor productivity
+and strategic alignment. We want to ensure that we have the best targeted advisor force
+across the entire wealth spectrum. This is all about providing an integrated proposition for
+advice, platform services and investment solutions to an excellent standard across all our
+core client segments. We're pleased with the more focused shape of the advisor mix, but
+it's not just about the number of advisors, we have also been investing in Quilter Financial
+Planning's infrastructure to support growth while strengthening processes and control.
+You'll recall that at the full year, we said that we would see would see a reduction in
+advisors and an improvement in productivity and you can see this is coming through in the
+charts on the right. Essentially, fewer more productive advisors driving higher flow onto
+our platform and into our solutions. We expect further reductions in advisor numbers in
+the second half with some departure still working their way through the system. By the
+end of 2021, we expect to be at a steady state. Thereafter, new additions will lead to a
+resumption in net growth and rightly we're being discerning on new hires.
+Finally, you know that we've been working through some of the legacy DB to DC transfer
+advice given by Lighthouse with the skilled person review. This review has identified some
+instances of unsuitable DB to DC advice beyond that relating to British Steel Pension
+scheme transfers. Even though this advice predates our acquisition of Lighthouse, our
+focus remains on doing the right thing by customers. We've therefore increased our
+provision by GBP7 million to cover the potential for additional remediation together with
+the associated cost.
+Let me now say a few words in our UK platform. As you can see from the graphic on the
+right, we've seen substantially improved gross flows, up 50% from GBP3 billion to GBP4.5
+billion overall. Now beneath that strong performance are two distinct trends in flows
+across both channels; our own advisers and independent advisers and both are excellent
+trends. Flows from our own advisors have been growing steadily for the last few years as
+Page 3 of 20
+
+
+
+Company N ame: Quilter PL C
+Company Ticker: QLT L N Equity
+Date: 2021-08-11
+
+Bloomberg Transcript
+
+FINAL
+
+we've grown the business and despite a lower number of restricted advisers this year,
+we've seen a 30% increase in flows from them onto our platform. Our new platform is
+now capturing flows from our advisors, which would previously have gone elsewhere, but
+it's in the IFA market where there has been a huge turnaround.
+We lost some market share with IFAs during the platform migration process, but we are
+definitely back with 60% increase in flows from this channel absolutely demonstrates the
+attractiveness of our new platform to independent firms. It's still early days, but we're
+pleased with feedback and advisor activity on the new platform over 2,700 firms on a
+platform have increased their business with us year-on-year. Our new discretionary
+investment hub functionality allows advisors to hold assets in discretionary managed
+portfolios. We've been encouraged also by the speed at which early adopters have made
+use of this functionality and look forward to building this momentum. And nearly 40% of all
+new business flows in the first half, used our market-leading, family-linking capability to
+join accounts and reduce their charges. Since the soft-launch of the platform back in 2019,
+we've been using advisor and customer feedback to refine our proposition. We'll be
+implementing more enhancements to the system over the next couple of months.
+Looking forward, our priorities include stepping up marketing of the new platform to
+independent advisor firms later in the year. And you'll see the benefit of that coming
+through in flows in 2022 and beyond. Linking Quilter Cheviot with the new platform, this
+will mean that Quilter Cheviot clients can use our platform to access pension wrappers,
+and it will mean that other platform clients can fully access Quilter Cheviot discretionary
+fund management capability. Finally, we'll also be enhancing our wealth select offering as
+a more streamlined ESG-friendly proposition for both our restricted advisors and IFAs.
+Before I hand over to Mark, let me summarize, what is on our to-do list for the next six
+months. We'll drive flows as we build towards our medium-term targets. We'll complete
+our current optimization plans and keep focus on efficiency to meet our 2023 and 2025
+operating margin targets, will continue the repositioning of quarter financial planning,
+creating a highly productive strategically aligned and client-focused advisor force. We'll
+complete our existing capital return program of this year assuming market dynamics allow.
+And finally, we will complete the sale of Quilter International before year end. And with
+that, let me hand over to Mark to walk through the financials.
+
+Mark Satchel
+
+{BIO 18275874 <GO>}
+
+Thanks, Paul, and good morning, everyone. As Paul has said, we are pleased with our
+financial performance in the first half. I'll start with the snapshot of how the total business
+has performed including Quilter International, then I'll drill down into the performance of
+the continuing business, which is obviously more relevant for the future. So, let's get
+started with the snapshot of the entire group. You made GBP85 million of adjusted profit
+in the half year that was up 20% on the prior period despite some headwinds, which I'll
+get into later. Picking out some of the highlights on the slide. We were delighted with the
+big step up in flows. We continue to see good retention. We improved our operating
+margin of three percentage points. We delivered stronger EPS growth and adjusted profit
+growth supported by the ongoing buyback and a low tax charge and through our higher
+
+Page 4 of 20
+
+
+
+Company N ame: Quilter PL C
+Company Ticker: QLT L N Equity
+Date: 2021-08-11
+
+Bloomberg Transcript
+
+FINAL
+
+dividend and ongoing share buyback, capital management clearly remains our focus for us
+all good progress, I hope you'll agree.
+Before I drill down into the ongoing business, I wanted to remind you of a few transitional
+items, which arise from the Quilter International sale and the new UK platform
+implementation all of which, we've talked about previously. Let's start with Quilter
+International. First, as a result of the sale, they are recoverable costs, which we will reclaim
+from Utmost, due to the lack of the Transitional Services Agreement. We highlighted
+these in April and we focused on reducing the impact as much as we can during the TSA
+period. And second, they are unallocated costs, even though Quilter International remains
+within our corporate envelope until completion, its cost base now clearly reflects its direct
+costs and those that will be reclaimed under the TSA. In these results, we haven't
+allocated international any of the head office and IT costs, that had previously carried. So
+the continuing business has had to absorb approximately GBP5 million of costs, which
+obviously depresses profitability and operating margin.
+Now to platform. When I talk to the financial performance of our new platform later, you'll
+see an uplift in costs. But you should bear in mind, that the 2021 cost base is not directly
+comparable with that of last year. Last year's expense base reflected the costs of running
+our own platform whereas this year we are paying FNZ to run the new platform. And what
+we pay in FNZ is a bit higher than the internal costs we have been able to shed in the
+short-term. As we've always said, the business case behind replatforming, what about
+improved functionality, ensuring greater IT resilience and driving long-term operating
+leverage, it was never about reducing day one costs operational platform costs on our
+links to assert under administration on a tiered basis as are our revenues, we've rebased
+to a modestly higher but more flexible cost base.
+Finally, I wanted to explain the low tax charge, another anomaly in this half, but unrelated
+to the platform or Quilter International. You'll be aware that we've have a net deferred tax
+assets on our balance sheet when the Chancellor's proposal to increase the UK tax rate
+to 25% received royal assent earlier this year, we recognize an uplift in the value of that
+net asset, which gave a tax credit of GBP12 million. That GBP12 million was broadly
+equivalent to the accrued tax liability for this half year. Hence, we shows zero tax rate in
+the first half, which flows through into post tax profit and the EPS calculation. To be clear,
+the GBP12 million credit is not expected to change for the remainder of this year. We
+anticipate a normal tax charge in the second half. This will probably lead to a high single
+digit tax rate for the group over the year as a whole. For 2022, following the sale of
+Quilter International, we'd expect an average tax rate, a couple of percentage points
+below the UK standard rates in line with our existing guidance.
+Let's get back to the get back to the results of the continuing business. Adjusted profit
+was up 19% to GBP56 million. Let me walk through the detail of how we got there. Starting
+top-left, net flows more than doubled on those of a year ago with higher integrated flows
+particularly encouraging together with higher market levels this led to an increase in every
+inch AuMA of 16% on first half of 2020. And top right, you can see revenues were up 9%
+reflecting the AuMA uplift and three basis points decline in the revenue margin, which was
+entirely in-line with expectations. Costs bottom-left were up 7% or GBP16 million so below
+the rate of income growth, positive -- if you like. That gave us an operating margin of 18%
+Page 5 of 20
+
+
+
+Bloomberg Transcript
+
+FINAL
+
+Company N ame: Quilter PL C
+Company Ticker: QLT L N Equity
+Date: 2021-08-11
+
+on a continuing business basis. This operating margin includes the cost that we've
+previously allocated to Quilter International that I mentioned earlier. And FSCS levies,
+which as you know, mainly come through in the first half. If the FSCS levies were evenly
+spread over the year, our operating margin would have been around 23% instead. As a
+result, we've delivered a 19% increase in adjusted profit, and more impressively adjusted
+diluted earnings per share of 3.3p was up 50% on last year. The higher growth in EPS and
+adjusted profit is due to the share buyback program and the zero tax rate that I've just
+covered. So good momentum across the business.
+Let's scroll down a little further, starting with revenue margins. The slide is one you have
+seen before. It breaks revenue margins up by business unit. As a reminder, our guidance
+and group revenue margin continues to be for margins to gradually ease and then
+stabilize over time, as we drive up integrated flows as a proportion of total AuMA. This
+increases the proportion of assets on which we own more than one revenue stream.
+Within the group, 32% of total AuMA is integrated compared to 30% a year ago. Turning
+to the first half trends, nothing here should come as a surprise, but let me -- some of the
+dynamics for you. First, you'll notice the two basis point of declining in Quilter Investors
+revenue margin shown here in light green. This reflects our success in delivering one of
+Quilter Investors strategic goals, attracting new money into a broader range of solutions.
+With increased balances across the board, including Cirilium active, but importantly, we've
+seen particularly strong flows into our Wealth Select range, which were opened up
+restricted advisors last year. The proportion of Quilter Investors total assets in the Wealth
+Select range increased by around 2.5%.
+Similarly, the proportion of assets and Cirilium Passive and Cirilium Blend has also
+increased. You'll find the details on the product mix at the back of this presentation. Each
+of those three solutions, come at a lower all-in cost than the more actively managed
+Cirilium Active range. Therefore, the blended revenue margin for Quilter Investors is
+slightly lower even though total income is higher, this is entirely in line with our strategy. As
+I've said before, we expect continued makeshift in Quilter Investors revenue margin with
+this driven by clients and advisor preferences. Next, our UK platform. Here, again, there
+was about a 2 basis point revenue margin decline from the second half of last year, but
+half of that is due to the normal attrition we expect over time and the other half was due
+to two factors: First, market growth; higher markets mean more clients to more client
+assets falling into lower pricing tiers; higher equity markets led to a GBP5 billion increase
+in average assets on last year, that means, more revenue overall, but at a slightly lower
+revenue margin; and secondly, and a lot less materially, a change in the way, the average
+balance is calculated following the move to the new FNZ platform. So, revenue margins
+are as we expected.
+Now, let me turn to costs. This slide shows you how we've controlled costs year-on-year.
+I've taken last year's cost of GBP264 million and stripped up Quilter International's direct
+costs of GBP32 million. You can then see the impact of cost push from the external
+environment inflation and higher regulatory levies. And then on the right, our optimization
+activities as well as the reversal of last year's tactical cost savings which mainly relate to
+staff compensation. The net increase in costs were GBP16 million. I think it is a great upturn
+especially given that the combination of the higher regulatory levies and the tactical cost
+
+Page 6 of 20
+
+
+
+Company N ame: Quilter PL C
+Company Ticker: QLT L N Equity
+Date: 2021-08-11
+
+Bloomberg Transcript
+
+FINAL
+
+unwinds headed up to GBP22 million drag, evidenced that our optimization program and
+cost management initiatives are being effective.
+Next, let's look at the platforms financial performance in the first half. This is a better oneoff disclosure, if you like. Now that Quilter International is reported as a discontinued
+business, the platform's performance is clear to see. So, I thought a few words of context
+might be useful. You've heard Paul talk about the substantial improvement in flows, which
+are already growing in line with our medium-term target. And I'm just as pleased with the
+year-on-year increase in profitability. As you know, our platform is highly scalable, and it's
+going to be a source of considerable operating leverage. In that context, it is worth calling
+out the main contributors to expense growth. These were high regulatory costs, reversal
+of last year's tactical cost savings and the switch across the FNZ run in the platform, which
+I mentioned earlier. Improvements in the platform's operating margin will be one of the
+significant drivers behind achieving our operating margin targets and the platform will also
+be a key contributor to our future profit growth.
+Turning now to our capital and cash positions starting with our solvency ratio, which you
+can see remains strong. The decline in the ratio to 203% at the end of June was
+principally due to share buybacks and the deduction of the interim dividend after allowing
+for the final GBP100 million of the GBP375 million buyback, which is still to come. The
+Solvency II ratio would be around 190%. We've always considered cash to be more
+important in terms of actually running the business and here we're in a strong position
+too. Cash balances of just under GBP520 million at the end of December, reduced to just
+under GBP400 million by the end of June. As with capital, the main draw downs were the
+payment for the final dividend and GBP100 million of share repurchases in the first half.
+We upstreamed around GBP110 million from subsidiaries, a material improvement on the
+GBP27 million in the first half of 2020. You'll recall we were cautious in extracting capital
+from subsidiaries last year due to the uncertainties around COVID. Remittances this year
+were partially offset by around GBP40 million of capital contributions into subsidiaries as
+well as GBP30 million spend on transformation initiatives and head office costs.
+The remaining share buyback decommissioning costs for the legacy platform,
+optimization spend, and the interim dividend will reduce the -- cash position around
+GBP150 million in total. That will leave about GBP250 million for managing the business,
+which is an appropriate buffer to cover stress scenarios. The board declared an interim
+dividend of 1.7p per share. That is a meaningful step up on the 1p a share we declared of
+last year's interims when we were deliberately cautious, given the uncertainties around
+COVID. As previously announced, we are breaking this year's dividend down between the
+contributions from the ongoing business of 1.2p pence per share and Quilter International
+at 0.5p per share to provide a line of sight to our sustainable dividend base in 2022 and
+beyond. We continue to make good progress for the capital return from the sale of
+Quilter Life Assurance and we've now returned around GBP265 million out of the plan
+GBP375 million at an average share price of about 140p.
+The current buyback tranche will complete by the end of August and regulatory approval
+for the final GBP100 million tranche is in place. Subject to Board approval, we expect to be
+able to push on once the current tranche completes and aim to finish the total GBP375
+million buyback by around year end. Then of course, we have the sale of Quilter
+Page 7 of 20
+
+
+
+FINAL
+
+Company N ame: Quilter PL C
+Company Ticker: QLT L N Equity
+Date: 2021-08-11
+
+International to look forward. Here all is going to plan. You'll recall that the transactional
+structured as a locked box mechanism, but the sale price of GBP460 million plus the
+ticker, which we estimated a GBP23 million assuming the deal completes on 31
+December, 2021. Good progress has been made on regulatory approvals this means
+there's the possibility of completion in the fourth quarter prior to 31 December and that
+would of course lead to a commensurate reduction in the ticker. We continue to consult
+with our shareholders on the best means of returning the majority of the net just
+proceeds and expect you updates on that by completion.
+Now guidance, you know the slide well and the only notable change here is revised
+guidance from the tax rate for this year, which I explained earlier. The other thing, you may
+want to note for your models is that we transferred Quilter Private Client Advisers into
+Quilter Cheviot at the end of July. You'll see in the press release that PCA had GBP13
+million of advice revenues in the first half. And so you'll need to update your segmental
+forecast accordingly. Segment costs of course do not change. So in conclusion, I'm very
+pleased with the first half results. The business is in good shape. The trend in revenue
+margins is in line with our expectations. We continue to keep costs well under control. And
+lastly, we've got a strong balance sheet with our capital return program progressing well.
+We plan to conclude the current program and update on the next stage of capital returns
+by the end of the year. And with that, let me hand back to Paul to wrap up.
+
+Bloomberg Transcript
+
+Paul Feeney
+
+{BIO 17570862 <GO>}
+
+Thank you, Mark. Before I open up for questions, let me just conclude with a few key
+messages. These results have demonstrated our continued ability to deliver strong topline growth and sharply improve flows with more to come. We've created a highly scalable
+business that will drive operating leverage. We've got both a strong balance sheet and a
+strong track record of returning capital to shareholders and there's definitely more to
+come there as well. We look forward to updating you all on this and more at our Capital
+Markets Day on the 3rd of November. And with that, let me open for questions.
+
+Questions And Answers
+Operator
+(Question And Answer)
+Thank you. (Operator Instructions) Our first question comes from the line of Andrew
+Sinclair of Bank of America. Please go ahead. Your line is open.
+
+Q - Andrew Sinclair
+
+{BIO 17749036 <GO>}
+
+Thanks. Good morning, everyone. I have three for me, if that's okay? Firstly, just on
+financial advisor numbers and of something we spoke very often. You've talked about
+returning to net growth from 2022, which is great to hear, but really just want to ask, what
+sort of growth do you think is achievable? I think, it'd be really helpful to provide some
+guidance there, particularly given that some of your peers are having some disruption in
+
+Page 8 of 20
+
+
+
+Company N ame: Quilter PL C
+Company Ticker: QLT L N Equity
+Date: 2021-08-11
+
+the short-term. That may be something that can be exploited. I'm not sure, we'll hear
+more about this in the Capital Markets Day. That's question one.
+
+FINAL
+
+Secondly, just on Quilter Investors, flows there are maybe a little bit below of what I might
+have hoped for in Q2. Just really, what sort of feedback are you getting here from
+customers GBP0.2 billion a quarter and that flows just doesn't seem quite for you -- I'm
+sure, you'd want that to be.
+And thirdly, we're just on slide 8, I know you talked about the options that you got from
+your own advisers, but I actually thought that may even be a little bit more as maybe
+some of your own advisors move to use the platform for the first time and the new
+platform gives a bit more opportunity, just could you give us a little bit more color on
+what's achievable here for your own advisors? Thanks.
+
+A - Paul Feeney
+
+{BIO 17570862 <GO>}
+
+Bloomberg Transcript
+
+Thanks, Andy. It's Paul. Yes. So, we said, we expect to return to net growth in advisor
+numbers by 2022. This year you're already seeing, I have to say, quite an increase in
+productivity from our own advisors for GBP1.5 million per advisor to GBP2.2 million per
+advisor, 40% odd, 47% increase. 30% increase in overall flow from our own advisor base.
+So, I'm actually quite pleased with that.
+But I think what we would expect to see is what we've guided to you in the past. Midsingle digit, net percentage growth in advisor in RFP, restrictive financial planning numbers
+per year. So, in the past, we've done a bit better number than that. But that's where
+we've guided to. And I think that's what we'd expect to get back to you from 2022.
+In terms of Quilter Investors' flows and it's certainly better than last year. Our investment
+performance of Cirilium Active and investments solutions, a one-year performance is
+certainly been very good and that adds to our longer-term excellent performance.
+And of course, we've got something that we want to talk to you about in the Capital
+Markets Day, which is a brand-new kind of huge revamp of our wealth select investment
+solution coming towards the end of the year, which again we think, which was not possible
+on the old platform. Now I won't go too much into it, it's going to still thunder at the
+Capital Markets Day. But we of course expect to see now that starting to ramp-up with
+Quilter Investors as well.
+What I really want to say, is first and foremost, greater capture of platform flows. As you
+know, last year, we were capturing around 50% of platform flows from our own advisors.
+This year, to date we're capturing around 77%. So, we've seen up greater than 50% pick
+up or it's like vast reduction in leakage. You won't get to a 100%. So long as we've still got
+clients and other platforms that need chopping up. And once we get to, let's say, the 80%
+level, and I want to see a big proportion of that flowing through into Quilter, into our own
+investment solutions, whether it's Quilter Investors or Quilter Cheviot with our private
+client advisor business.
+
+Page 9 of 20
+
+
+
+FINAL
+
+Company N ame: Quilter PL C
+Company Ticker: QLT L N Equity
+Date: 2021-08-11
+
+In terms of what's possible from our own advisors, clearly more, but again, I think I'm
+happy where we've got to within the six months of this year, given that we only landed on
+new platform in early March. So, we will see that ramping up as we again continue to
+reduce leakage, which we are doing, and continue to increase productivity and continue
+to have a more strategically aligned advisor force. Because now it's all about us having the
+courage of our own conviction. It's all about having strategic alignment into pursuit of a
+common purpose. And that's why those advisors who perhaps didn't want to come on the
+journey with us on this, we've had to say goodbye too. What that means, we've got a lot
+more to invest with those advisors and those advisor firms that are on the journey with us
+and we're already seeing the fruits on that labor.
+
+Q - Andrew Sinclair
+
+{BIO 17749036 <GO>}
+
+Thank you.
+
+A - Paul Feeney
+
+{BIO 17570862 <GO>}
+
+Sure.
+
+Operator
+Thank you. And our next question comes from the line of Greg Simpson at Exane BNP
+Paribas. Please go ahead. Your line is open.
+
+Bloomberg Transcript
+
+Q - Gregory Simpson
+
+{BIO 18850594 <GO>}
+
+Hi. Good morning. Thank you for taking my question. If I could go back onto the advisor
+question, could you provide any color on how the advisor school is going, which is building
+us the way to grow advisors, about everything, on partnering, from the IFA industry, and
+also add any color updates on that how that's going on? (Technical Difficulty) question
+based on paid on costs. Could you provide any color on how you're thinking about cost
+for the full year? Is that kind of GBP5 million of inflation in that slide, a good guide to the
+level of the inflation you're seeing across the business? And then on just finally on slide 16,
+following slide, GBP66 million of Platform expenses. Just to understand, does that include
+-- does that still include kind of costs for the running the Platform of the previous, can
+internally run Platform and systems that eventually can be -- can retired at some point?
+Just to understand, the mix between what is going to be (inaudible) debt and what is
+other costs of within the Platform costs base? Thank you.
+
+A - Paul Feeney
+
+{BIO 17570862 <GO>}
+
+Okay. Thanks Greg. I'm going to take -- I'm going to ask Steve Gazard to answer your first
+question. Steve, as you know, the CFO of Quilter Financial Planning. Mark, of course,
+containment costs for the full year, and I think, probably also you could take the third one
+on the other 66. So, Steve, do you want to take about where we are with you?
+
+A - Unidentified Speaker
+Hi. This is Scott. Again, we're really pleased with where we are with you last school, last
+year, we did a lot of work and move it through primarily a digital offering it in response to
+Page 10 of 20
+
+
+
+Company N ame: Quilter PL C
+Company Ticker: QLT L N Equity
+Date: 2021-08-11
+
+COVID, but also as a part of the generational move as we bring younger advisors into the
+mix. That's going very well. We continue to see that drive new advisors into both our
+existing businesses and in the network, but also are in national. So, we're pleased with
+where we expect that to be.
+
+Bloomberg Transcript
+
+FINAL
+
+A - Stephen Gazard
+
+{BIO 21784069 <GO>}
+
+Great. Okay. And Greg, just on your first question, it was around the general cost for the
+business and guidance. On that, we previously guiding towards about GBP560 million of
+full year expenses for this year, which I'm still more or less guiding towards that, obviously
+includes Quilter International in for a full year. So, if completion of that had to happen
+earlier, that would be a proportionate amount that would come down but if you vision the
+revenues on that side into whenever that completion did happen. In terms of inflation
+guidance, at the moment we pretty much sort of still I think seen around about of a 2%
+inflation type of impact overall. But, clearly started to feel a bit more pressure and that's
+just as you would have generally noted in the UK more generally. So, on a go-forward
+basis for this year, I'm still guiding towards that sort of number, but down the line and may
+need to be some revisions just in terms of inflation expectations in (inaudible). And what
+I'd probably also just use this opportunity to just remind you that in the first half of this
+year, with the UK still being substantially a sort of, a remote working type environment.
+The tactical cost unwinds that we called out last year haven't fully unwound in total. So,
+while we've had the variable components come back, the areas around travel,
+entertainment, marketing, some development spend, those are the things I'm expecting
+that has the UK and as we as a business, going to more of a office-based working
+environment, again, that's some of those costs will go up in line up focusing at our fullyear results.
+
+A - Mark Satchel
+
+{BIO 18275874 <GO>}
+
+On the Platform expenses, that the first half is full of bit of a transitional period, because
+you've got a portion of it, that was still operating the old platform and then a portion of it,
+that's all being on the new Platform. So, there's a little bit of a double count in terms of
+some of those costs. We are still going to decommissioning costs on the existing
+platform. Most of those decommissioning costs, the actual cost of the decommissioning
+rather than the run costs, are in the below the line item around the Platform
+transformation program, that the operational costs do have an element of inefficiency
+given that it was taken place over the transitional period. So hopefully that answers.
+
+Q - Gregory Simpson
+
+{BIO 18850594 <GO>}
+
+Thank you.
+
+Operator
+Thank you. (Operator Instructions) And we've got some further questions coming through.
+Okay. And next question comes from the line of Gurjit Kambo of JP Morgan. Please go
+ahead. Your line is open.
+
+Q - Gurjit Kambo
+
+{BIO 6300383 <GO>}
+Page 11 of 20
+
+
+
+FINAL
+
+Company N ame: Quilter PL C
+Company Ticker: QLT L N Equity
+Date: 2021-08-11
+
+Hi. Good morning. Just two questions from me. So, firstly, in terms of Platform, the sales,
+you've seen good gross sales increasing to GBP4.5 billion, I think from GBP3 billion. And
+we've seen redemptions grow to GBP2.7 billion from GBP2 billion. Just on the redemption,
+is that really a function of the advisors who perhaps no restrictive and therefore leaving
+and then as we sort of get through this year, we do expect that redemption number too - so, potentially sort of become more stable, they even come down. So that's the sort of
+first one. Just trying to think about, the dynamics of net flows in the Platform, if you see,
+the growth is good, maybe (inaudible) come down. So, you get a double benefit, as you
+go into '22 and beyond. And then on the ESG, I think you mentioned you did -- there's a
+bit more going on around the ESG, making new funds, ESG from client. What sort of
+demand you're seeing from clients? There are much bigger demand now for the ESG
+side and then and where are you on that edge, are you using it to invest in or are you kind
+of already there? Thank you.
+
+A - Paul Feeney
+
+{BIO 17570862 <GO>}
+
+Okay. Thank you, Gurj. I'm going to pass to Steven Levin. I think you can take both of these
+questions. Let me just say very quickly on ESG. We certainly are seeing greater demand.
+At the same time, we're taking or give ourselves that we want to be leaders in this area.
+So, we're not waiting around for that demand to match supply. We're going to push
+forward with it. But Stephen, first of all Platform, what you expect on retention -redemption numbers and then what you're seeing on ESG in Q1.
+
+Bloomberg Transcript
+
+A - Steven Levin
+
+{BIO 18803363 <GO>}
+
+Sure. Thanks. So, on the outflows. Outflows have increased as market activity has
+increased. So, if you go back to last year, actually, the outflows were quite depressed as
+the rates, because those advisor activity, less transfer of pension business around, the
+whole lot markets slow down, quite a lot last year, we've seen more of around
+normalization of that. And we also saw last year, but a lot of customers actually reducing
+the is -- they draw down, that they were taking and customers were taking conservative
+approach and not trying to sell a lot of markets, particularly in the first sort of first half of
+last year, when the markets were down. But again, that has normalized. We track outflows
+specifically looking at outflows to transfer to other companies, which is many moving
+around industry and outflows direct to customers which are paying off the benefits of the
+product. And so, different drivers on each of those.
+And one of the factors that, outflow has been, as you point out, some of the advisors who
+have left, the restrictive advisors, they typically can end up at another place, and then end
+up using a different platform as a preferred platform. And so, we do see outflows in that
+cause. But by and large actually, when a rate of outflow bases, our outflows are actually
+improving compared to longer-term trends. So, we're seeing less transfers and we're
+seeing that as a benefit of our new platform. And we're expecting that there will be some
+continuation of that, because there's less need for advisors to transfer us the way for
+acquiring different functionality and things like that. So, little bit of a detailed answer on
+outflows. But hopefully, hopefully that helps.
+In terms of ESG. I think as Paul mentioned in response to an earlier question, we are
+investing heavily in a new expansion to our Wealth Select proposition, which will be
+Page 12 of 20
+
+
+
+Company N ame: Quilter PL C
+Company Ticker: QLT L N Equity
+Date: 2021-08-11
+
+FINAL
+
+launched towards the end of this year or potentially next year. And that will have a
+significant ESG offering embedded within it and a whole lot of processes for advisors to
+give great advice and help customers select the ESG (inaudible). We're in the both phase
+at the moment and we're very pleased with where we are. That's probably all I'd say on
+ESG at this point. We do say that obviously it's strategically very important.
+
+Q - Gurjit Kambo
+
+{BIO 6300383 <GO>}
+
+Great. Thank you, guys.
+
+Operator
+And our next question comes from the line of Ben Bathurst from RBC. Please go ahead.
+Your line is open.
+
+Q - Benjamin Bathurst
+
+Bloomberg Transcript
+
+Good morning, everyone. Three questions, if I may, this morning. Firstly, just on the
+Platform. Appreciate the color around the reduction in the leakage. I just wonder if you
+could perhaps give an update on the stock or maybe just a reminder on the stock of
+advisor asset, that are sitting on other platforms? And perhaps comment as to whether or
+not you started to see any sort of meaningful movement of that stock on to the Quilter
+platform yet?
+And also, just sort of wondering, that's almost automatically if you were to have advisor
+transfer across where that would sit within that kind of leakage statistic, exactly was just
+on the financial planning revenues. I think, in the outlook comments, you referenced the
+benefit of higher residential property transaction activity in the first half. I wonder if I can
+ask for, maybe just a split of the revenues that you think were linked to housing market
+activity in H1 and how that moved year-on-year, so we can try and form a view of how that
+might reduce in the second half and beyond, if residential property transaction do fall
+down?
+And third question was just to try and get a kind of a temperature check on client
+sentiment and activity. I think others in the industry are expecting Q3 to be somewhat
+slower. Just due to people taking holidays and what have you -- would that be kind of a
+fair assumption for the Quilter of Q3, and then maybe distinct flows and activity to pick up
+again in Q4? Thank you.
+
+A - Paul Feeney
+
+{BIO 17570862 <GO>}
+
+Thanks, Ben. Look, I'm going to say a few things first on the Platform and advisor assets
+and other platforms and hand over to Steve Gazard very quickly to talk about what we're
+doing there. And then in terms of QFP revenues I'll hand over, and particularly regard to a
+mortgage and protection revenues from our advisor force, and I'll hand over to Mark.
+And then, I think interesting in Q3, we've been pleased with how Q3 has started, but we
+certainly expect that we'll have some seasonality as we always do every year and Q3 is
+usually our slowest quarter, simply because, people like to go away on holiday. And I think,
+Page 13 of 20
+
+
+
+Company N ame: Quilter PL C
+Company Ticker: QLT L N Equity
+Date: 2021-08-11
+
+FINAL
+
+this year people are gathering to go away on holiday. Certainly I am. Yeah, but well and
+we'd expect that to then pick up properly again in Q4. So, just in terms of advisor assets
+with the platform.
+Our number one priority, when I knew platforms went ahead in Q1, let's not to move that
+books of assets and other platforms, it was to capture a far greater percentage of our
+own advisors, new business flow onto our platform. Because clearly that's a litmus test.
+Advisors will use your platform for new business and basically try it out more, before
+they'll move clients and assets from other platforms. So, I checked myself an internal goal
+of what I'm -- I'm not doing a mistake, what I wanted to see in terms of total platform
+flows coming to our platform, I can tell you, we're very close at 77% to that number, but
+not quite at it yet. And for this year, that was the core goal, that is a greater -- to capture,
+a greater percentage of flow of new business. We'll never capture a 100% of brand-new
+business, so long as there were clients under the platforms that need top-ups. Okay? So,
+as long as top-up is, there's always going to be about 20% going to other platforms,
+because that tend to be where the total business is. Okay? And in terms of new business,
+we wanted to capture a big percentage and we're at 77%. So, in terms of the amount of
+the assets from QFP and other platforms, I'm going to ask Steve Gazard to come in and
+to say some of the things that we're looking up there.
+
+Bloomberg Transcript
+
+A - Stephen Gazard
+
+{BIO 21784069 <GO>}
+
+Yeah. So, I mean, (inaudible) our focus is absolutely been on driving, the adoption through
+new business, the way advisors work is that they will absolutely read that first, and then
+look at the back books activity. We've been really pleased with our progress to date and
+naturally with the reshaping of the QFP business, means that all of our teams whether that
+would be in the field with operations have far more time to focus now on the right type of
+the advisors who want to engage with us and want to move productively towards that. So,
+our focus is now shifting towards helping advisors look at their opportunities with our back
+books and look efficiently how we move across in doing so. That's really where we're
+driving our next agendas.
+
+A - Mark Satchel
+
+{BIO 18275874 <GO>}
+
+If I just ask the question just around the action portion of revenues linked mortgage, I can
+give you the mortgage and protection number on it rather than mortgage specifically,
+we've had across the business in the GBP59 million of Quilter Financial Planning revenue is
+GBP15 million of that was driven by mortgage and protection business over the first half.
+So, it's round about 22%, which is a very similar percentage to what that was for the same
+period in 2020. So, you'd expect a, so proportionately that's the sort of number we're
+talking about. (Inaudible) is going to still be a lot of activity in there, but there might be a
+slight softening of that given in the second half, given the change in (inaudible) situation in
+the UK. So that's, that sort of gives you, I think, a feel for the order of magnitude.
+
+Q - Benjamin Bathurst
+Okay. Thank you.
+
+A - Paul Feeney
+
+{BIO 17570862 <GO>}
+Page 14 of 20
+
+
+
+Company N ame: Quilter PL C
+Company Ticker: QLT L N Equity
+Date: 2021-08-11
+
+Okay, Ben. Thanks.
+
+Operator
+
+FINAL
+
+Thank you. And our next question comes from the line of Nicholas Herman of Citigroup.
+Please go ahead. Your line is open.
+
+Q - Nicholas Herman
+
+{BIO 18097295 <GO>}
+
+Yes. Thank you for taking my questions. Hopefully, you can hear me. Okay?
+
+A - Paul Feeney
+
+{BIO 17570862 <GO>}
+
+Yeah. We can hear you fine. Thank you.
+
+Q - Nicholas Herman
+
+{BIO 18097295 <GO>}
+
+Bloomberg Transcript
+
+Three quick questions from my side, please. The first one on advisors, the second on,
+coming back to inflation and then the third one on M&A. So, on advisors, can you just
+remind us what are the quantitative metrics you've been using analyzing advisor
+performance and the ones that you've cut also the minimum level of flows profit
+contribution so on? That would be helpful. And also, are you able to confirm whether
+there is any revenue question from the advisors leading, and if you could quantify that
+too, that would be helpful.
+Moving on to inflation, on presumably, if you can just continue from the previous question.
+If inflation was to continue presumably, are you (Technical Difficulty) with that impact, your
+operating margins every time, and presumably it's quite difficult to pass on. Although I
+assume it, on (inaudible) side there wouldn't be any risk on your immediate targets. But
+just curious how, on the ability to talk how sensitive your operating margins are to that?
+And then finally on M&A, we've seen M&A in the UK wealth management side that
+continued quite a rapid tick, obviously, you've been speak about that too long ago back in
+April, I mean how you feeling about the market and as you yourself -- see yourselves
+being even more constructive on the M&A option, on your potentials to acquire? Yeah.
+Okay. Thank you. Thank you.
+
+A - Paul Feeney
+
+{BIO 17570862 <GO>}
+
+Thanks. I'm going to say a couple words on your first one on advisors and maybe hand
+over to again to Steve Gazard. I think inflation and its impact on our margins over to Mark,
+certainly and I'll come back and mention a bit about what I see in terms of M&A.
+So, one of the key metrics that you looking at advisor productivity is just that productivity.
+How much of our integrated flows per advisor are we seeing -- an integrated flows that
+our advisors are using, our platform and the products in our platform and also our
+investment solutions. So, that has increased to GBP2.2 million per advisor in the first half of
+this year from about GBP1.5 million last year. But I'm sure you've got a few others, Steve.
+
+Page 15 of 20
+
+
+
+Company N ame: Quilter PL C
+Company Ticker: QLT L N Equity
+Date: 2021-08-11
+
+FINAL
+
+A - Stephen Gazard
+
+{BIO 21784069 <GO>}
+
+Yeah. I mean, I'll review in this area. It's been wide-reaching from integrated flows through
+to case counts, through to average case size, through to profitability of the business,
+through to kind of alignment with our propositions, and ultimately, that's not a one-size
+fits-all approach. We have various advisor models that we're operating in central, our
+national and our network and so, traders versus larger businesses, and that engagement
+has carried on throughout the process and certainly in our network, in conjunction with the
+principles of that network from environment. So, there isn't a one-size fits-all, but all the
+metrics you'd usually expect.
+
+Q - Nicholas Herman
+
+{BIO 18097295 <GO>}
+
+Okay.
+
+A - Paul Feeney
+
+{BIO 17570862 <GO>}
+
+Inflation?
+
+Bloomberg Transcript
+
+A - Mark Satchel
+
+{BIO 18275874 <GO>}
+
+So, look, the inflation question is kind of, it depends. It depends on the rates of inflation
+and it depends what some of the second order impacts are going to be of having a
+higher inflationary environment. Say if we have a higher inflation environments and interest
+rates go up, that will provide some offset to the higher cost base, that probably weren't
+totally alleviated on a one-for-one basis, but it provides an offset. Now, Cirilium, at the
+moment, I'm not changing any guidance in terms of operating margin, but a higher
+inflation environment could have an impact on the achievement of those targets over
+time, but it does depend on what else happens at the same time as there is a higher
+inflationary cost environment, which I don't think, we use unusual for us. I think the same
+probably applies to most of the businesses in the UK operating in our segment.
+
+A - Paul Feeney
+
+{BIO 17570862 <GO>}
+
+I think on M&A. The first thing I'd mention is that, Quilter does not have to do M&A. To
+build culture, we had to do some M&A. And as much disposals as we did acquisitions, if
+not more in fact, but we have now got the business and the shape of business that we
+want. And our two goals from here on in are growth and efficiency, not M&A. However, our
+market is consolidating and it continues to consolidate, and it's not just in the advice area
+now, it's in the platform area, it's in the money management area. And we're going to
+continue to see that. I think one of the key things for us will be to, now that we are, we do
+have a business in the shape you want. We get offered stuff like (inaudible) Center. Very
+little do we actually, even really look at. But I think we've got a good business model now.
+A business in the right shape and the core goal is organic growth.
+
+Q - Nicholas Herman
+
+{BIO 18097295 <GO>}
+
+Great. And can I have just follow-up again, on the first question on the advisors. I mean,
+what do you saw, any revenues that we bill, but there wasn't any revenues session from
+advisors.
+
+Page 16 of 20
+
+
+
+Company N ame: Quilter PL C
+Company Ticker: QLT L N Equity
+Date: 2021-08-11
+
+A - Paul Feeney
+
+{BIO 17570862 <GO>}
+
+There is a bet on annualized basis. It's sort of low single-digit millions, around about GBP5
+million in total. That's we don't feel the impacts over (inaudible) coming from, but it's
+more or less that sort of a level.
+
+FINAL
+
+Q - Nicholas Herman
+
+{BIO 18097295 <GO>}
+
+Good bye. (Inaudible)
+
+Operator
+Thank you. And we have one further question on the phones at this time. That's from the
+line of Enrico Bolzoni of Credit Suisse. Please go ahead. Your line is open.
+
+Q - Enrico Bolzoni
+
+{BIO 19966397 <GO>}
+
+Bloomberg Transcript
+
+Hi. Good morning. Thanks for taking a couple of questions. So, one is on advisor with crew.
+So, so some of the other players out there are quite aggressive in terms of (inaudible)
+how many advisors possible. Considering that there is limited amount of people at any
+time that they are able to winning seat from pay to restrict that I just wanted to ask you,
+what is your view in terms of how aggressive you need to be in terms to convince these
+people to become your advisor. And related to that, I mean, clearly you have a very, I'll
+say, a scalable DSM proposition. How important you think that is and try to convince ISA to
+join and can you give a bit more color on the actually the very good margins you add on
+Cheviot in the first half of this year? Thank you.
+
+A - Paul Feeney
+
+{BIO 17570862 <GO>}
+
+Okay. Again, I'm going to hand over to Steve Gazard the first one and Andy McGlone, who
+is the Chief Executive of Quilter Cheviot, for the second one.
+But just in, I'll say quick on advisor crew. And we said that from the end of this year, we
+expect to grow our advisor numbers back again, at sort of mid-digit percentage numbers.
+And that's what we -- we've have done that all better on that in the past and that's what
+we will do again from the end of this year. If you want to add or if you want to talk about
+the sources that we get advisor numbers from.
+
+A - Stephen Gazard
+
+{BIO 21784069 <GO>}
+
+Yeah. Absolutely. So, we continue to recruit from (inaudible) We in respect to go back to
+kind of single-digit net numbers as Paul talk about. But from our perspective, we are
+rightly being discerning on who we're allowing in the door, and we have multiple routes.
+So, whether that is our continued organic or recruitment through the recruitment team,
+but also the financial advisor school we've already said. Yeah. And financial advisor school
+definitely holds part of our long-term agenda to bring the next generation of advisors, so
+that we're not reliant on a circle of other existing market.
+
+A - Paul Feeney
+
+{BIO 17570862 <GO>}
+
+Page 17 of 20
+
+
+
+Company N ame: Quilter PL C
+Company Ticker: QLT L N Equity
+Date: 2021-08-11
+
+FINAL
+
+Yeah. And in terms of DSM proposition. We've got an excellent DSM proposition, great
+investment performance from Quilter Cheviot. We've just transferred Quilter Private Client
+advisors over to Quilter Cheviot. So that's, and of course, that is all run by Andy McGlone,
+the Chief Executive. So, Andy join, and say a little bit more about the margins that you
+see.
+
+A - Andy McGlone
+
+{BIO 18492549 <GO>}
+
+Sure. I mean, you saw from the chart, that the margins revenue, margins have held up
+pretty well. They've been pretty constant for a number of years now, even though we've
+thought they might drop down a little bit each year. But I think in some ways even if they
+did drop it, it wouldn't necessarily worry, because a lot of that fees, most of that fees is
+based on the tiers level. So, actually, if markets rise -- as markets rise, you get a lot of
+blended cost to the clients and see that would have a little impact on margins. But now
+they've been holding up pretty well.
+
+Q - Enrico Bolzoni
+
+{BIO 19966397 <GO>}
+
+Great. Okay.
+
+A - Paul Feeney
+
+{BIO 17570862 <GO>}
+
+I think that's it for questions on the line. Is that right, operator?
+
+Operator
+
+Bloomberg Transcript
+
+That's right. There's no further questions on the phone.
+
+A - Unidentified Speaker
+There's just one question that is coming through the website, with two parts. May be the
+first part is for Paul and Andy. Which is, what was the rationale transferring, as she says,
+(inaudible) what was the rationale for transferring PCA to Quilter Cheviot? And as noted,
+the revenue number we've called out the GBP13 million in first half, and is after the
+associated profit number, which we won't give, but I just mentioned, but what was the
+rationale for the transfer there.
+The second question is of course for Mark. Should we think about the higher FSCS charge
+as normal and ongoing or higher with assets what you'd expect in the future.
+
+A - Paul Feeney
+
+{BIO 17570862 <GO>}
+
+So let me just start and share a few words and then I'm going to hand over to Andy. One
+thing, I think we've all learned here at Quilter over the last 18 months of this pandemic, is
+that we operate better when we operate around our clients, as opposed to operate
+around our corporate entities. So, making sure, that we look at our core client group, so
+effectively high net worth and affluent and much affluent, and the high-net-worth area
+predominately is a discretionary investment management led proposition. So having the
+right wealth planning effort and capability inside Quilter Cheviot, as well as operating the
+open market, I think, just make things less clunky, easier client journeys, not asking clients
+Page 18 of 20
+
+
+
+Company N ame: Quilter PL C
+Company Ticker: QLT L N Equity
+Date: 2021-08-11
+
+for the same information, tries good financial planner working hand in (inaudible) with the
+investment manager, but I probably stolen all your thunder there. I apologize.
+
+Bloomberg Transcript
+
+FINAL
+
+A - Andy McGlone
+
+{BIO 18492549 <GO>}
+
+That's largely, I mean, if I'm making this client journey experience so much better, but it's
+also that makes it a lot easier for our staff and, not having to duplicate things, bringing
+people much closer together, geographically more aligned. We just feel that we can really
+focus the QC and the PCA businesses more closely by bringing close together.
+
+A - Unidentified Speaker
+Yeah. And David to answer your question, just on the FSCS levies. It's really one that you
+should be asking the regulator, because we are a bit of a price taker on that one and have
+little indirect influence over at ourselves. As you are aware, the FSCS levies have
+increased at an astronomical rates over the last three years to five years from, since they
+were first introduced probably a little bit before that even. Checking my own expectation
+is that FSCS levies is going forward, are likely to go to well above the rate of inflation. So,
+but I think even the regulator's trying to seek ways to actually reduce that increase,
+because I think that they are seeing, that they are being -- they are increasing at quite a
+high (inaudible) And you would know that before Christmas day set expectations then on
+what the -- what they expected the industry-wide levies to be, which was a significant hike
+up and what it had been in the prior year. And then round about March time, April time,
+maybe they came out as an announcement then which time that they were actually
+undertaking the invoice into the firms that it was still an increase, but not as big as the one
+that had previously indicated or suggested before Christmas. So, it should be, my own
+expectation is that, as I've already said, FSCS levies will continue to increase at a higher
+rate than pure inflation over the next little sort of while.
+Okay. Nothing else. I think, we can (multiple speakers) do you want to say few words?
+
+A - Paul Feeney
+
+{BIO 17570862 <GO>}
+
+Yes. Let me -- first of all thank you for listening in this morning, everybody. As I said, I'm
+really pleased with the results that we've delivered today over the half-year. Strong
+increase in profits, strong increase in flows, both gross and net flows, real reduction in
+leakage from our platform, our brand-new platform in international, so that
+overwhelmingly supported by our shareholders, our buyback program likely to be finished
+by the end of year. And now it's about growth and efficiency for our business and we're
+not operating target guidance yet in terms of margins or a net client cash flow guidance
+yet, but we're well on our way and we'll get there. So, thank you very much everybody.
+And hopefully, next time we'll be able to do. Hopefully, we'll be able to do this face-toface and look forward to seeing you in our Capital Markets Day, on the 3rd of November.
+
+This transcript may not be 100 percent accurate and may contain misspellings and other
+inaccuracies. This transcript is provided "as is", without express or implied warranties of
+any kind. Bloomberg retains all rights to this transcript and provides it solely for your
+personal, non-commercial use. Bloomberg, its suppliers and third-party agents shall
+Page 19 of 20
+
+
+
+Company N ame: Quilter PL C
+Company Ticker: QLT L N Equity
+Date: 2021-08-11
+
+Bloomberg Transcript
+
+FINAL
+
+have no liability for errors in this transcript or for lost profits, losses, or direct, indirect,
+incidental, consequential, special or punitive damages in connection with the
+furnishing, performance or use of such transcript. Neither the information nor any
+opinion expressed in this transcript constitutes a solicitation of the purchase or sale of
+securities or commodities. Any opinion expressed in the transcript does not necessarily
+reflect the views of Bloomberg LP. © COPYRIGHT 2022, BLOOMBERG LP. All rights
+reserved. Any reproduction, redistribution or retransmission is expressly prohibited.
+
+Page 20 of 20
+
+

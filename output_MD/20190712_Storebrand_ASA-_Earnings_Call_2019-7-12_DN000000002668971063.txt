@@ -1,0 +1,863 @@
+Company Name: Storebrand ASA
+Company Ticker: STB NO Equity
+Date: 2019-07-12
+
+Q2 2019 Earnings Call
+Company Participants
+FINAL
+
+Kjetil Ramberg Krokje, Group Head of Finance, Strategy and M&A
+Lars Aasulv Loddesol, Chief Financial Oﬃcer
+Odd Arild Grefstad, Chief Executive Oﬃcer
+
+Other Participants
+Analyst
+Jan Erik Gjerland, Analyst
+Jonny Urwin, Analyst
+Matti Ahokas, Analyst
+Peter Eliot, Analyst
+
+Presentation
+
+Bloomberg Transcript
+
+Operator
+Good afternoon. And welcome to Storebrand's Second Quarter Conference Call. My
+name is Ann and I will be your coordinator for today's conference. During this call, you
+will be in listen-only. However, in the end of the presentation, we'll have the opportunity
+to ask questions. (Operator Instructions)
+I will now hand you over to Group Head of Finance, Strategy and M&A, Kjetil Krokje to
+host this call. Thank you.
+
+Kjetil Ramberg Krokje
+
+{BIO 20060140 <GO>}
+
+Good afternoon, ladies and gentlemen. Welcome to Storebrand's second quarter 2019
+conference call. My name is Kjetil Ramberg Krokje, and I am Head of Finance Strategy at
+Storebrand. Together with me, I have Group CEO, Arild Grefstad; CFO, Lars Aa. Loddesol;
+and Trond Finn Eriksen, Head of Capital Management.
+In the presentation today, Odd Arild will give you an update on the developments in the
+second quarter. CFO, Lars Loddesol will give an overall view on the ﬁnancial development
+and dig into some of the more technical elements in the quarter. The slides will be similar
+to the analyst presentation released this morning and are available on our web page.
+After the presentation, the operator will open up for questions. To be able to ask
+questions, you will need to dial into the conference call.
+
+Page 1 of 14
+
+
+
+Company Name: Storebrand ASA
+Company Ticker: STB NO Equity
+Date: 2019-07-12
+
+I now give the word to Storebrand's CEO, Odd Arild Grefstad, who will start the
+presentation on slide two.
+
+FINAL
+
+Odd Arild Grefstad
+
+{BIO 5483351 <GO>}
+
+Thank you, Kjetil and good afternoon, everyone. I have presented today our results of
+NOK578 billion with the operating proﬁt of NOK474 for the second quarter of 2019. This is
+a weak operating proﬁt, but as I will show you on the following slide, the underlying proﬁt
+is signiﬁcantly better due to restructuring costs and not least as a consequence of a good
+performance in the asset management, resulting in performance fees not booked while
+the corresponding performance related costs are fully booked in the quarter. In total, the
+performance-related income not booked is calculated to 200 million in the quarter and
+166 million year-to-date.
+
+Bloomberg Transcript
+
+We see solid growth within our asset management business with NOK45 billion in growth
+so far this year, that's a 6% growth rate. And our Unit Linked business has the annual
+growth of 11%. The solvency ratio has weakened 6 percentage points to 167% in the
+quarter, with lowest interest rates and temporary adjustments in the asset allocation being
+the primary causes for the change, Lars will go into further details later on.
+If we then move to Slide number three, THE accounting principles relating to
+performance-related income and cost or estimate [ph] reach. The cost has to be booked
+quarterly -- quarter-by-quarter, while the corresponding income are to be booked only at
+year-end. This causes us the operating proﬁt in the ﬁrst, second and third quarter to be
+weakened when they have good performance in the portfolio. In the second quarter, we
+have booked cost of NOK44 million in the operating proﬁt in our asset management
+business. The corresponding income of NOK100 million is not booked.
+In this picture I have adjusted the underlying proﬁt for performance related cost of
+NOK44 million, this has been in an equivalent increase in the underlying proﬁt. In
+addition, we are taking measures to reduce FTE's in both Norway and Sweden in order to
+reduce our permanent cost base. Brings together with some transaction cost reserve in
+our one-oﬀ restructuring costs in the quarter of NOK50 million. Adjusted for these the
+underlying operating proﬁt is estimated to NOK568 million.
+If you then move to slide number four, this is the picture of our strategy, our Q4 strategic
+plan, we're focused on actively managing the guaranteed products in our back-book, and
+at the same time, achieving strong growth in our front-book of Occupational Unit Linked,
+private savings and asset management. As mentioned, we are implementing restructuring
+to reduce our cost base. We are committed to delivering ﬂat normina costs through 2020.
+In addition, we are working on measures to further strengthen solvency and secure capital
+release in accordance with our Capital Market Day communication.
+In the following slides, I will further address the growth in our numbers. So let's move to
+slide number ﬁve. Our Unit Linked business showed a growth of 11% and the Norwegian
+Unit Linked assets reached NOK100 billion in the quarter, while our Swedish Unit Linked
+business also surpassed SEK100 billion. The growth is expected to continue and
+
+Page 2 of 14
+
+
+
+Company Name: Storebrand ASA
+Company Ticker: STB NO Equity
+Date: 2019-07-12
+
+FINAL
+
+strengthen by Storebrand's ability to sign important contracts for occupational pension in
+both Norway and Sweden. I will address the growth in our asset management further in
+the following slides. It is also pleasing to see a 2% growth in the insurance business with a
+6% growth in the retail segment of P&C insurance.
+Moving to slide number six, our asset management has reached NOK750 billion in assets
+under management and we've reduced our growth in all segments. On the left side, you
+see the development in internal transfers from occupational pension contracts and private
+savings year-to-date. While on the right side, which is the development of the institutional
+clients and retail savings. So it's internal assets on the left-hand side and more external
+assets on the right-hand side.
+
+Bloomberg Transcript
+
+On right, we show that the share of external assets are in strong growth and the share
+now of external assets are 34.5% of the total assets under management. We're working on
+more speciﬁc invoices of these ﬂows and we will in the following show analysis of ﬂow
+from internal transfers in the ﬁrst half of 2019. So let's move to slide seven.
+On the left, we see that there is a modest ﬂow of premiums from the guaranteed business
+of NOK3.2 billion, primarily from proﬁtable active schemes with low guarantee levels. The
+claims transfers from this mature portfolio are substantially as -- are substantial and
+amounts to NOK6.8 billion year-to-date. Over time, this will reduce the guaranteed
+portfolio. The returns have been solid in the portfolio in the ﬁrst half of 2019, it's well
+above the guaranteed interest rate level, meaning that close to half of the returns has
+been allocated to building buﬀer capital. Within Unit Linked the situation is quite
+diﬀerent. This is a young portfolio where premiums, but are exceeds claims and transfers,
+and well a high equity share results in a solid growth so far this year.
+Moving to Slide number eight. The public sector pension market is large and growing in
+Norway. In terms of premiums, the market is twice the size of the private market of -- for
+occupational pension where we are the market leader. The market is today dominated by
+long actor KLP, chases to the public sector pension products, droves the market closer to
+in -- closer resemblance to the private markets. We will make use our existing platform
+and systems to reenter these markets. We strongly believe we will achieve proﬁtable
+growth in this market and we'll execute within the communicated cost target.
+On Slide nine, we show that we are intensifying digitalization of our business. Both and
+with regard to improving eﬃciency and in our processes and with a goal of improving the
+digital solutions we provide to our customers. We give four concrete examples of this
+journey on this slide.
+With that I give the word to Lars for further details and about the numbers.
+
+Lars Aasulv Loddesol
+
+{BIO 3969188 <GO>}
+
+Thank you, Odd. I'm going to give you some of the key ﬁgures with you, starting on Page
+10. The operating proﬁt of NOK568 million after adjustment for restructuring cost and
+performance related bonuses is somewhat on the weak side. The ﬁgure includes NOK25
+Page 3 of 14
+
+
+
+Company Name: Storebrand ASA
+Company Ticker: STB NO Equity
+Date: 2019-07-12
+
+million in normal stock incentivized cost -- incentives cost for employees that we book in
+the second quarter, but not in the other quarters; including this the result is acceptable.
+
+FINAL
+
+Furthermore, if we were to include these earned, but not booked performances, the result
+would be good. The graph illustrates strong customer Buﬀers in both Norway and
+Sweden, this is further resilience in our risk management.
+Moving over to Page 11, the solvency position has followed to 165% and 167% with
+transitionals. Model and assumption changes given negative contribution of 1 percentage
+points in the quarter. Behind this number, there are some positive elements like increased
+volatility adjustment and some negative eﬀects, like increased equity distrust and moral
+improvements and corrections. Interest rates have signiﬁcantly in both Norway and
+Sweden in the second quarter. In Norway, the new 10-year growth is down 13 basis points,
+and in Sweden, the 10-year growth rate is down 32 basis points in the second quarter. This
+is the solvency rate by approximately 3 percentage points.
+And the business mix and asset allocation, there are three main eﬀects. One, the strong
+growth in Unit Linked by more than NOK8 billion is positive for Storeband, but
+contributes negatively in the solvency as these products have an embedded Solvency of
+approximately 130%, diluting the Group Solvency over 165%.
+
+Bloomberg Transcript
+
+Secondly, some large maturities in the bonds at amortized cost portfolio changed to
+maturity later in the second quarter. These have already been reinvested in the third
+quarter, but we can do Solvency as of the end of the quarter.
+And three, good returns and increased Buﬀers have improved our risk-bearing capacity.
+We have used this increased risk capacity to purchase equities. The equity investments
+weaken the Solvency short-term, an increase expected returns and Solvency creation over
+time.
+On the M&A side, we have ﬁnalized the previously communicated acquisition of Cubera
+and the sale of Nordben. In total, the solvency is weakened by 1 percentage points, but
+the transactions will add proﬁtability and Solvency creation going forward. Operating
+proﬁt adjusted for dividend reservation contributes positive by 1 percentage point. Proﬁt
+after tax and adjusted for amortization strengthen the Solvency by approximately 2
+percentage points, but which have to set aside for expected dividends.
+Despite the interest rates fall in the quarter, we are seeing outside of the transitional rules
+for interest rates and the 2 percentage points are related to equity stress on equity owned
+coming into the Solvency II regime. This eﬀect will be phased out during the year.
+Turning over to Page 12. The Solvency position is weakened by 6 percentage points in the
+quarter. As explained the main drivers are lower interest rates, which is negative, but also
+long-term positive elements like growth in Unit Linked and increased risk in the portfolios.
+Please notice that if rates fall further, we'll once again get Solvency capital from the
+transitional rules and the regulatory and reported Solvency will be strengthened. The
+
+Page 4 of 14
+
+
+
+Company Name: Storebrand ASA
+Company Ticker: STB NO Equity
+Date: 2019-07-12
+
+FINAL
+
+sensitivities show a strong resilience to volatility and ﬁnancial market under diﬀerent
+scenarios shown.
+Storebrand announced on our Capital Markets Day in May 2018 that we expect to reach
+180% in Solvency during 2021, and that we envisage to release around 10 billion tied up in
+the guaranteed back-book between 2022 to 2028. Despite lower interest rates and
+weaker Solvency this quarter, we conﬁrm this ambition. We have numerous tools to secure
+and strengthen our Solvency position.
+Moving over to the next page, heading to Storebrand Group. In short, we put behind us a
+weak quarter in terms of the reported numbers. The growth has slowed and the cost have
+increased. Adjusted for restructuring costs and performance-related bonus charges, and
+including our earned but not booked performances fees, the results are satisfactory. We
+expect increased growth in the coming quarters. The growth will come from several
+sources in asset management especially linked to international sales.
+
+Bloomberg Transcript
+
+In private equity, we have -- we already have record commitments in Cubera and
+Storebrand sales this year. Skagen performance is good and the transfer balance is
+improving. Pension sales are up in Sweden in particular. In Norway, we just won the single
+largest contract in the market. Many exciting digital initiatives are expected to improve
+eﬃciency and the Group operation and increased sales overall.
+Finally, yet importantly, the opening of executive market is promising a few years down
+the road. Restructuring cost and performance related bonuses aﬀect the results in the
+quarter but laid the foundation for continued cost eﬃciency and increased proﬁtability
+going forward. Previously communicated cost ambitions are conﬁrmed. And as I already
+said, on the Solvency, our ambition to return excess capital from 2021 or billing of the
+Solvency to 180% in 2021 and distributing excess capital from the back-book is conﬁrmed.
+Then I think we can go over to Q&A.
+
+Questions And Answers
+Operator
+Thank you. (Operator Instructions) The ﬁrst question comes from Peter Eliot from Kepler
+Cheuvreux. Please go ahead. Your line is now open.
+
+Q - Peter Eliot
+
+{BIO 7556214 <GO>}
+
+Thank you very much. First question, I want to start on earnings. I guess, if you adjust for
+the one-oﬀ items then you get a Norwegian Unit Linked results of 76, and a Swedish Unit
+Linked results of 58. I guess those numbers are still a little bit below the recent run rate.
+I'm just wondering, is that a good view of the current run rate and what we should be
+putting into our models? Or are there still other factors there to consider? And maybe
+speciﬁcally on Unit Linked Sweden, I mean, I know that it's a consistently reported
+
+Page 5 of 14
+
+
+
+Company Name: Storebrand ASA
+Company Ticker: STB NO Equity
+Date: 2019-07-12
+
+FINAL
+
+negative ﬁnancial and risk results. Well, each and -- for the last sort of six quarters or so, I
+just wanted if you could explain what's happening there?
+And then, secondly, on the Solvency, I think, I understand most of the moving parts after
+going through with IR, who are very helpful this morning. Thank you. And -- but I guess if I
+could just focus a little bit on exactly how and when you might get the beneﬁts of the
+transitionals gain. I mean, Lars, you said, when interest rates -- if interest rates were to fall
+then you would get the beneﬁt, but my understanding is, the Unit Linked book is still
+growing and might the bar be raised going forward. So if you could talk us through the
+moving parts a bit, that would be very helpful.
+And the second point, you showed 1 percentage points from ongoing Solvency capital
+generation this quarter. I mean, there's probably some rounding and stuﬀ in that. But I'm
+just wondering if you could update us on our guidance for what you expect in terms of
+ongoing generation and how that depends on the growth rate that you see. Thank you
+very much.
+
+A - Odd Arild Grefstad
+
+{BIO 5483351 <GO>}
+
+Bloomberg Transcript
+
+Okay. If I start with the earnings on Unit Linked. The -- if you look at the ﬁrst quarter for
+Unit Linked Norway and this -- and the second quarter together, there is some volatility
+due to some parallelization and some seasonal eﬀect in those numbers. So I would look at
+the ﬁrst half numbers seen together and divide that in two to get a good or good guiding
+on future proﬁtability. And as you say, you -- we'll have to adjust it for the restructuring
+cost in the quarter, which were NOK9 million in Unit Linked in Norway.
+In Sweden, the one-oﬀ restructuring charge was NOK16 million in Unit Linked SPP, so
+that's the adjustment you will have to make there. And I would also emphasize that there
+is very strong growth in the Swedish Unit Linked business. We have very good premium
+development there and the cost base is ﬁxed. So you should see increased proﬁtability
+from that area as well.
+
+A - Lars Aasulv Loddesol
+
+{BIO 3969188 <GO>}
+
+Hi, Peter. When it comes to -- when we will enter or if a potential -- enter back into the
+transitional measures, that's not a straight forward question to answer, because as you say,
+you've arrived at increased value from Unit Linked business to be able to postponed fall
+in interest rate and then enter back into the traditionals. At the moment, or in this quarter,
+there were technical provisions both approximately NOK200 million away from getting
+back into transitional measures. So -- and that was approximately a half or in Q1 this was
+NOK500 million away from getting back into transitionals. So that's the magnitude that
+we're looking at. So there's only the experience a good growth in the front book which is
+a good thing. Then we shouldn't get back into transitional measures and that you see a
+signiﬁcant drops in the markets.
+
+A - Odd Arild Grefstad
+
+{BIO 5483351 <GO>}
+
+And Solvency capital generation, as we have previously guided, we expect to generate 10
+basis points to 12 basis points -- percentage points per year of which half is allocated to or
+Page 6 of 14
+
+
+
+Company Name: Storebrand ASA
+Company Ticker: STB NO Equity
+Date: 2019-07-12
+
+reserved for dividend on quarterly basis.
+
+FINAL
+
+A - Lars Aasulv Loddesol
+
+{BIO 3969188 <GO>}
+
+And I think also when it comes to the research generation on the 1%, you should bear in
+mind that we take half of the result outﬂow, that the calculation cost ﬁxed goes to expect
+the dividend, so the 2 percentage point increase where one of them increases for
+Solvency directly.
+
+Q - Peter Eliot
+
+{BIO 7556214 <GO>}
+
+Okay, so it sounds like no change to the ongoing guidance then. And sorry can I just
+come back very quickly on the ﬁrst point, the -- in the breakdown, you gave a special
+items, you showed NOK16 of the one-oﬀ costs being attributed to Unit Linked Norway
+and NOK2 million being attributed to Unit Linked Sweden, it sounded like you quoted
+slightly diﬀerent ﬁgures there?
+
+A - Odd Arild Grefstad
+
+{BIO 5483351 <GO>}
+
+Yes, I think Peter, sorry. That's a little mistake on my part. It should be the other way in
+special items, the ﬁgures on the online we will update them after the --
+
+Q - Peter Eliot
+
+{BIO 7556214 <GO>}
+
+Okay, sorry could you repeat the numbers then, sorry, I didn't quite catch that?
+
+Bloomberg Transcript
+
+A - Odd Arild Grefstad
+
+{BIO 5483351 <GO>}
+
+It's NOK16 on the Swedish Unit Linked business. That as Lars said.
+
+Q - Peter Eliot
+
+{BIO 7556214 <GO>}
+
+Okay, that's just invested. Okay, thank you.
+
+Operator
+The next question comes from Matti Ahokas from Danske Bank. Please go ahead. Your
+line is now open.
+
+Q - Matti Ahokas
+
+{BIO 2037723 <GO>}
+
+Yes, good afternoon a question ﬁrstly, on the Solvency capital and the return of capital
+that Lars you mentioned earlier on the ambitions. When I look at the interest rates
+obviously, they've been trending down this year and now recently, we've seen a little bit
+of a pickup in Norway. But how much should the 10-year swap rate or could it fall before it
+would really start to have an impact on this capital release plan? Or is it just so that if the
+interest rate falls enough then the transitionals will kick in, so it really doesn't matter. I'm
+just kind of trying to gauge the timing of the plans of the guaranteed pension back book
+capital release.
+
+Page 7 of 14
+
+
+
+Company Name: Storebrand ASA
+Company Ticker: STB NO Equity
+Date: 2019-07-12
+
+And then second question on the insurance business. Could you just remind us what the
+issue in the health and group life was then, is that now solved or should we expect that,
+that will continue in the coming quarters as well? Thanks.
+
+FINAL
+
+A - Odd Arild Grefstad
+
+{BIO 5483351 <GO>}
+
+So on Solvency and interest rates fall, you are correct that there is a sensitivity there. But I
+also said that we do have a number of diﬀerent tools available to us that we'll have to try
+and manage that, as well as we can, but there is some kind of limitation at some stage in
+terms of how much rates can pull in Norway. But it's very diﬃcult for me to give you a
+ﬁxed answer as there are many tools in the toolbox to conquer that depending on how
+dramatic the changes are.
+And in terms of insurance and group life, we mentioned in the ﬁrst quarter that we had an
+issue with especially one industry contract or our group contract with one particular client
+and we also mentioned that we had announced price changes on that contract. However,
+there is a 12-months today so those price changes will only take place on January 1st,
+2020. So this quarter we also had weak proﬁtability and we strengthened reserves in this
+particular -- on this particular contract by NOK58 million in order to ensure that we can
+expect a -- around zero result for the year. So while group life and health insurance this
+quarter we also had a small negative contribution, we do expect a small positive
+contribution for the remainder of the year and then signiﬁcant improvements as these
+price increases are come through in the ﬁrst quarter next year.
+
+Bloomberg Transcript
+
+Q - Matti Ahokas
+
+{BIO 2037723 <GO>}
+
+Could you -- Lars just give us a bit more ﬂavor on what exactly are the most important tool
+-- tools in this tool box you mentioned to kind of combat the potential decline in interest
+rates?
+
+A - Odd Arild Grefstad
+
+{BIO 5483351 <GO>}
+
+Yes, Matti, I can say -- there is -- you can maintain and divide them into three diﬀerent
+categories; the ﬁrst is, of course, the asset allocation on the ALF asset. This will always
+adjust your risk taking in the portfolios, so that's number one.
+Mention number two is, what you can do on the capital side, either by more subordinated
+loan capital or you cannot do insurance. And the third, it's what goes on what I should say
+internal structures of how we have set up and run the business and how you are making
+the model work. So you have at least three diﬀerent main levers. It's also got some levers
+to date.
+
+Q - Matti Ahokas
+
+{BIO 2037723 <GO>}
+
+Great. Thanks a lot.
+
+Operator
+
+Page 8 of 14
+
+
+
+Company Name: Storebrand ASA
+Company Ticker: STB NO Equity
+Date: 2019-07-12
+
+The next question comes from John Erik from ABG. And please. John, if you can also
+mention your last name. Your line is now open. Thank you.
+
+FINAL
+
+Q - Jan Erik Gjerland
+
+{BIO 5346031 <GO>}
+
+Yeah, its Jan Erik from ABG in Oslo. I just wanted to pick up the -- how much cost there
+other than the Cubera acquisition from 1st of the April. If it was anything at there at all
+because it looks like, does the management cost base went up a little bit on top of
+whether you have thus a restructuring cost.
+And secondly, there is some negative proﬁt sharing this is technically in the asset
+management and then also in the deﬁned beneﬁt for Norway. What is kind of -- what is
+that, is that something recovering or it's something particular which you should aware of.
+Thank you.
+
+A - Lars Aasulv Loddesol
+
+{BIO 3969188 <GO>}
+
+All right. There is two things, Erik. The cost base in Cubera, I believe, is somewhere in the
+area of NOK7 million, NOK8 million or I can get back to you on that, Erik. But somewhere
+in that area for the quarter.
+
+Q - Jan Erik Gjerland
+
+{BIO 5346031 <GO>}
+
+Okay.
+
+Bloomberg Transcript
+
+A - Lars Aasulv Loddesol
+
+{BIO 3969188 <GO>}
+
+When it comes to the negative sum in -- in the deﬁned beneﬁt business, this is basically a
+technical adjustment where we had small deviation into each of our systems and this will
+ﬁxed in the quarter and it led to the charge of NOK21 million.
+
+Q - Jan Erik Gjerland
+
+{BIO 5346031 <GO>}
+
+Okay. In the asset management side, we have also some NOK6.6 million in negative of
+being there. I just couldn't understand what else was --
+
+A - Lars Aasulv Loddesol
+
+{BIO 3969188 <GO>}
+
+These are -- yeah, apologies for (inaudible) that is tied to both the value of the earnout,
+which on the balance sheet after we bought Cubera and it was some other ﬁnancial
+eﬀects that occurred in the asset management business.
+
+Q - Jan Erik Gjerland
+
+{BIO 5346031 <GO>}
+
+Okay. How much was the earnout in Cubera, if you could remind me?
+
+A - Lars Aasulv Loddesol
+
+{BIO 3969188 <GO>}
+
+Roughly half of that should be on that.
+
+Page 9 of 14
+
+
+
+Company Name: Storebrand ASA
+Company Ticker: STB NO Equity
+Date: 2019-07-12
+
+Q - Jan Erik Gjerland
+
+{BIO 5346031 <GO>}
+
+Okay. And the other half is from SKAGEN or?
+
+A - Lars Aasulv Loddesol
+
+{BIO 3969188 <GO>}
+
+FINAL
+
+No, it's just from general ﬁnancial eﬀects in the asset management business, not from
+SKAGEN.
+
+Q - Jan Erik Gjerland
+
+{BIO 5346031 <GO>}
+
+Okay. Would you say that you are in the -- on the SKAGEN earnout story as well? Or is -how is that pursuing?
+
+A - Lars Aasulv Loddesol
+
+{BIO 3969188 <GO>}
+
+Bloomberg Transcript
+
+So the SKAGEN business turnaround is really progressing well according to plan.
+Performance is very well up this year and all the large funds and also the smaller funds.
+The ﬂow in that business has been negative for a while, but that's turning interesting now,
+and the operational platform is very much integrated. I think we've already said previously
+that we run this business basically for a small proﬁt without performances and
+performance-related costs. But at the end of the year, we do expect quite signiﬁcant
+performance-related bonuses, which should then contribute signiﬁcantly to the end
+result. In terms of the earnout, we have due to lower funds under management during last
+year, as well as weak performance last year. The earnout reserve was reduced down and
+from what was set aside initially, but this -- so far this year, it's basically stable.
+
+Q - Jan Erik Gjerland
+
+{BIO 5346031 <GO>}
+
+Okay. So it's a fund that you have provided to. So it's not going to be a sort of a big oneoﬀ cost run if that happened. Is that fair to equate?
+
+A - Lars Aasulv Loddesol
+
+{BIO 3969188 <GO>}
+
+Yeah. It's -- so the earnout itself, it's on the balance sheet based on expected level of
+earnout.
+
+Q - Jan Erik Gjerland
+
+{BIO 5346031 <GO>}
+
+Based on this.
+
+A - Lars Aasulv Loddesol
+
+{BIO 3969188 <GO>}
+
+Yeah.
+
+Q - Jan Erik Gjerland
+
+{BIO 5346031 <GO>}
+
+Based on this. Yeah.
+
+A - Lars Aasulv Loddesol
+
+{BIO 3969188 <GO>}
+
+Page 10 of 14
+
+
+
+Company Name: Storebrand ASA
+Company Ticker: STB NO Equity
+Date: 2019-07-12
+
+Unless there is large deviations from that because we have a large one-oﬀs coming from
+that.
+
+Q - Jan Erik Gjerland
+
+{BIO 5346031 <GO>}
+
+FINAL
+
+Okay. Perfect. Thanks, Lars.
+
+A - Lars Aasulv Loddesol
+
+{BIO 3969188 <GO>}
+
+And the earnout liability is in Storebrand ASA, not in Storebrand Asset Management.
+
+Q - Jan Erik Gjerland
+
+{BIO 5346031 <GO>}
+
+Okay. Thank you.
+
+Operator
+(Operator Instructions) The next person is Jonny Urwin from UBS. Please go ahead. Your
+line is now open.
+
+Bloomberg Transcript
+
+Q - Analyst
+Hi. Good afternoon. Thanks for taking my questions. So, ﬁrstly, just on the business extract
+to Solvency II. I apologize if I missed this early, but is there any recurring impacts there,
+any color there would be great. And then, secondly, just on the cost side of things, so I
+gather, you guys are still committed to ﬂat operating costs, good cost discipline. But just
+I've asked you this before but just strategically, given the level of growth that's sort of
+there for you guys. How wedded are you to that target, if you could say invest more for
+greater growth, particularly given the new products that you're going into. So I guess it's a
+balancing act, but any comments there would be great. Thank you.
+
+A - Lars Aasulv Loddesol
+
+{BIO 3969188 <GO>}
+
+Sorry, Jonny. Well, the ﬁrst question. What that is, there was an recurring elements in the
+movement on the Solvency.
+
+A - Odd Arild Grefstad
+
+{BIO 5483351 <GO>}
+
+Now on the business-mixed asset allocation. So basically I can just do it for a short
+answers and then ﬁll in from it, if you have anything. So basically we had three factors. So
+increased the allocation of equities, that is not anything recurring, that's, of course,
+hoping that we adjust our equity export for every now and again, but it's not a recurring
+feature on that part of the movement.
+The second of all, that we had a little bit shorter duration just on the turn of the quarter.
+That is not a recurring feature, we did have strong growth in Unit Linked, which of course,
+gives some -- also requires some capital that's Lars alluded to. That is, of course, a
+recurring feature, we've then -- much like to see again. So strong growth in Unit Linked is
+very good and at (inaudible) that is ﬁne.
+
+Page 11 of 14
+
+
+
+Company Name: Storebrand ASA
+Company Ticker: STB NO Equity
+Date: 2019-07-12
+
+Q - Jonny Urwin
+
+{BIO 17445508 <GO>}
+
+Thanks.
+
+FINAL
+
+A - Lars Aasulv Loddesol
+
+When it comes to the cost levels, try to answer that. I think, ﬁrst of all, the cost discipline
+we've then on the ﬂat cost that we have been doing since 2012 actually is a very good way
+of running the business and I'm sure that we have a -- well kept this more eﬀective way of
+doing the business. And our platform as we have to sit all in all is very scalable and we
+have seen of course excluding the strong wealth of this years that it's based on
+digitalization and sourcing expenses and et cetera, we have been able to keep their cost
+run also at the right level. There [ph] is of course not -- seeing the same, that if we have
+good opportunities in the market, we see opportunities for growth as we do -- have done
+with acquisition of Skagen and also Cubera, of course, we will go into these type of
+solutions and that we've changed the cost levels as such. But we also see that we have the
+opportunity to scale our platform as we now do and we going into the public sector
+market with the existing systems and people. And believe that we will be able to take all
+this huge opportunity without stretching the cost levels further, but to do that within the
+cost limits, we have already set forward.
+
+A - Odd Arild Grefstad
+
+Bloomberg Transcript
+
+{BIO 3969188 <GO>}
+
+{BIO 5483351 <GO>}
+
+But just to be very clear, Jonny. We are going to be -- it's going to be a very good
+proﬁtability opportunity if we were to reach our cost communicated goals, and we would
+communicate clearly if that was to be the case. So you should not expect that we just ﬂoat
+into higher cost, we will continue to be very, very strict on the cost base, according to
+communicated levels.
+
+Q - Jonny Urwin
+
+{BIO 17445508 <GO>}
+
+Got it. Thanks guys.
+
+Operator
+(Operator Instructions) We do have another question from Peter Eliot from Kepler
+Cheuvreux. Please go ahead. Your line is now open.
+
+Q - Peter Eliot
+
+{BIO 7556214 <GO>}
+
+Thank you very much. Sorry, I just wanted to follow-up actually on -- I guess my earlier
+question, but also Jonny's question. I mean, I know we're talking sort of small numbers
+and rounding and rest of it and other tools in the box. But if we just take the numbers that
+you've reported now of, you know, 1 points of Solvency capital generation post dividend
+and actually when you factor in the business mix change and you hope to get ongoing
+growth then actually the net ongoing capital generation looks to have been below 1 point
+this quarter. And if you extrapolate that out from 165%, then you've got a lot more than
+two years to get to 180%.
+
+Page 12 of 14
+
+
+
+Company Name: Storebrand ASA
+Company Ticker: STB NO Equity
+Date: 2019-07-12
+
+I appreciate you've got other tools in the box, which you might use if interest rates were to
+fall. But am I just rounding too much there, I mean would you expect the normal run rates
+have been higher than this quarter. Sorry, it's a long-winded way of asking a fairly simple
+question, so I guess you understand where I'm coming from? Thank you.
+
+FINAL
+
+A - Lars Aasulv Loddesol
+
+{BIO 3969188 <GO>}
+
+I think we're -- I think we're still conﬁdent that around 10% increase in Solvency annually
+per dividend. That's the level we are at. I can see in the presentation, there is deﬁnitely
+rounding when you look at these diﬀerent factors. So nothing new here really. And also,
+we have factored into our capital generation that we will set some capital aside for capital
+outlook.
+
+A - Odd Arild Grefstad
+
+{BIO 5483351 <GO>}
+
+Bloomberg Transcript
+
+If I can also add on that, I think, because the movement, the oﬃcial one, the capital
+generation we show is compared to the ﬁnancials -- to the result explanation. Of course,
+we are expecting in a normalized, well, a pickup in some risk premiums in the market. So
+there is a -- we are expecting to have markets return above the discount rate until the
+Buﬀer capital, which is still lower than capital requirement as well as the -- then the move
+towards a lower average interest rate guarantee in the portfolio, which you can also reﬂect
+the picture that Odd Arild showed during the presentation, where we see a larger outﬂow
+than inﬂow. So I think that you will see that you will also get capital generation from excess
+return of all the risk free rate and slightly declined in the guaranteed liabilities or the
+capital requirements from the -- guaranteed items ﬁts all the time, as well as to the results
+as such.
+
+Q - Peter Eliot
+
+{BIO 7556214 <GO>}
+
+Okay, thank you very much.
+
+Operator
+Ladies and gentlemen, at the moment there is no one in the queue. (Operator
+Instructions) There is no further questions coming through, I will hand the call back to you.
+Thank you.
+
+A - Odd Arild Grefstad
+
+{BIO 5483351 <GO>}
+
+Thank you all for joining the call today. Before we end, I just like to remind you that we will
+be present in London on Monday, and I hope to see several of you there at the Analyst
+Meeting and meetings during the day. Have a good afternoon.
+
+Operator
+Thank you for joining today's conference. You may now replace your handsets to end this
+call. Thank you.
+
+Page 13 of 14
+
+
+
+This transcript may not be 100 percent accurate and may contain misspellings and other
+inaccuracies. This transcript is provided "as is", without express or implied warranties of
+any kind. Bloomberg retains all rights to this transcript and provides it solely for your
+personal, non-commercial use. Bloomberg, its suppliers and third-party agents shall have
+no liability for errors in this transcript or for lost proﬁts, losses, or direct, indirect,
+incidental, consequential, special or punitive damages in connection with the furnishing,
+performance or use of such transcript. Neither the information nor any opinion expressed
+in this transcript constitutes a solicitation of the purchase or sale of securities or
+commodities. Any opinion expressed in the transcript does not necessarily reﬂect the
+views of Bloomberg LP. © COPYRIGHT 2022, BLOOMBERG LP. All rights reserved. Any
+reproduction, redistribution or retransmission is expressly prohibited.
+
+Bloomberg Transcript
+
+FINAL
+
+Company Name: Storebrand ASA
+Company Ticker: STB NO Equity
+Date: 2019-07-12
+
+Page 14 of 14
+
+

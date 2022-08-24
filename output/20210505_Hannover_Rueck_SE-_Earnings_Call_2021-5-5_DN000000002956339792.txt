@@ -1,0 +1,940 @@
+Company N ame: H annover Rueck SE
+Company Ticker: H N R1 GR Equity
+Date: 2021-05-05
+
+Q1 2021 Earnings Call
+Company Participants
+FINAL
+
+Clemens Jungsthofel, Chief Financial Officer
+Jean-Jacques Henchoz , Chairman of the Executive Board and CEO
+Klaus Miller, Member of the Executive Board - Life & Health
+Sven Althoff , Member of the Executive Board - Property & Casualty
+
+Other Participants
+Andrew Ritchie , Analyst
+Emanuele Musio, Analyst
+Jochen Schmitt, Analyst
+Kamran Hossain, Analyst
+Michael Haid, Analyst
+Vikram Gandhi, Analyst
+Vinit Malhotra, Analyst
+
+Bloomberg Transcript
+
+Presentation
+Operator
+Good morning, ladies and gentlemen. I welcome you to today's Hannover Re Conference
+Call on the Q1 2021 Results. For your information, this conference is being recorded. At
+this time, I would like to hand the call over to your host today, Mr. Jean-Jacques Henchoz,
+Chief Executive Officer. Please go ahead, sir.
+
+Jean-Jacques Henchoz
+
+{BIO 17457677 <GO>}
+
+Well, thank you very much and good morning, everyone. Welcome to our conference call
+presenting our results for the first quarter of 2021. Sorry to those of you particularly who
+are London-based, for the inconvenience due to the unusual early time of this call. The
+reason is as per last year that the Annual Shareholders Meeting is taking place later this
+morning at 11:00 AM CET.
+As usual, I'll start with an overview before our CFO, Clemens Jungsthofel, goes over the
+financial details -- financials in detail. I'll then comment on the outlook. And for the Q&A I'm
+additionally joined by my Board colleagues, Klaus Miller on the Life side and Sven Althoff
+for P&C.
+I'm pleased to report that Hannover Re had a good start into 2021. In the first quarter of
+the year, we continued to successfully grow our business. And Group net income of
+Page 1 of 16
+
+
+
+Company N ame: H annover Rueck SE
+Company Ticker: H N R1 GR Equity
+Date: 2021-05-05
+
+FINAL
+
+EUR306 million is very much in line with our full-year guidance. Additionally, at 11.1% the
+return on equity is well above our minimum target. And gross premium increased by
+16.8% adjusted for currency effects. This is mainly driven by our property and casualty
+business group, where we recorded remarkable topline growth of 20% on the back of
+improving market conditions.
+In the first quarter, technical profitability in P&C returned to a normal level. There was
+some loss activity during the quarter where large losses stayed within the budget. In
+addition, our net estimate for COVID-19 related losses remained unchanged compared to
+year-end 2020 at EUR950 million. Hence, the combined ratio of 96.2% is not only in line
+with our planning, but also a good reflection of the improving underlying profitability in the
+first quarter.
+As expected, the results of our Life and Health Reinsurance business group continues to
+be impacted by the COVID-19 pandemic. In particular, the high number of deaths in
+January and February in the United States also led to losses in our in-force portfolio.
+Overall losses connected to COVID-19 amounted to EUR151 million, slightly higher than
+initially expected.
+
+Bloomberg Transcript
+
+As indicated in March the, restructuring within our US mortality portfolio led to a positive
+one-off effect of EUR129 million, offsetting a large part of the COVID impact in Life and
+Health. To be clear, this restructuring for our ING portfolio does not affect the business
+reinsured by Hannover Re. However, a change in the ownership of the ceding company
+allowed for some other changes, in particular with regards to the collateral structure.
+Finally, we recorded pleasing premium growth of 8.6% adjusted for currency effects. At
+2.5%, the return on investment is fairly well in line with expectations overall, and the
+capitalization according to Solvency II continued to be excellent confirmed by the very
+strong solvency ratio of 252% at the end of the first quarter, well above our threshold of
+200%.
+The operating cash flow in the first quarter was a particularly strong EUR1.7 billion, mainly
+driven by attractive reinsurance growth as well as very solid results on the investment
+side. On top of that, the restructuring within our US mortality portfolio led to a positive
+operating cash flow of around EUR640 million. Driven by this positive cash flow, total
+assets under own management increased to a record high of EUR52.5 billion. This growth
+was additionally supported by ForEx effect and the issuance of the EUR750 million in
+hybrid capital in March.
+This new bond issuance is also visible on the next slide, bringing our total hybrid capital to
+EUR3 billion. We still have flexibility in regards to our total hybrid capacity, and
+shareholders' equity was rather stable in the first quarter of 2021. Market movements
+again had a strong impact in the first quarter and the negative change in unrealized gains
+due to increased interest rates was stronger than the positive impact from currency
+translation. Altogether, the net income was enough to bring the balance back into positive
+territory.
+
+Page 2 of 16
+
+
+
+Company N ame: H annover Rueck SE
+Company Ticker: H N R1 GR Equity
+Date: 2021-05-05
+
+On that note, I'd like to hand over to Clemens who will explain the figures in more detail.
+
+FINAL
+
+Clemens Jungsthof el
+
+{BIO 20496428 <GO>}
+
+Yes. Thank you, Jean-Jacques. Good morning, everyone. Moving on directly to the
+segmental reporting, I will start with the development of our Property and Casualty
+business group. Gross written premium grew by a remarkable 20% adjusted for currency
+effects. Based on the January renewals, the growth in our traditional reinsurance portfolio
+is stemming mainly from Europe although premium volume also increased in the US and in
+Asia. On top of this, we were also able to successfully conclude a number of (inaudible 14:58) in our structured reinsurance. This shouldn't come as a surprise as we had
+mentioned our healthy pipeline in this area several times. Furthermore, the recognition of
+premium from the underwriting year 2020 was material and also supported the growth in
+the first quarter. This effect is generally most pronounced in the first quarter and should
+therefore not repeat itself in the coming quarters. The two latter effects are also the main
+reasons for the more pronounced growth in the first quarter compared to the premium
+growth reported for the 1-1 renewal.
+
+Bloomberg Transcript
+
+Major losses came in at EUR193 million, slightly below our quarterly budget of EUR215
+million. And just as a reminder, in line with our usual practice, as you know we have kept
+the unused part of the budget within our IBNR as a buffer for the remainder of the year.
+Even more importantly, we did not have any reasons to adjust our net loss estimate for
+COVID-19 in the first quarter while the gross loss estimated actually increased slightly. This
+was offset by our retro protection.
+The runoff of our reserves was slightly negative in the first quarter, but this development
+is more a one-off in nature and does not reflect any general negative trend in our
+portfolio. However, as we've not changed our conservative reserving approach, I would
+expect the confidence level of our reserves to be stable compared to year-end 2020.
+Altogether, the 96.2% combined ratio is in line with our expectation.
+Ordinary investment income was stable while realized gains were lower than in previous
+years, explaining the decrease in our net investment income. Nevertheless, the first
+quarter 2021 also benefited from realized gains because we sold some of our listed
+equities. Other income and expenses amounted to minus EUR91 million, mainly driven by
+negative currency effect of EUR82 million. Altogether, the EBIT increased to EUR324
+million, thanks to the improved underwriting results. Finally, the tax ratio was below the
+normal level due to a favorable earnings contribution from lower tax subsidiaries.
+On the next slide, total net large losses accounted for EUR193 million in the first quarter,
+again EUR221 million below the budget. There -- I think there's not a lot more to say on
+this slide, so I will directly move on to our detailed large loss overview.
+As you can see on the next slide, the largest individual event was the Texas freeze with a
+total net loss of EUR75 million, adding to storm in Spain since the Australian flood. The net
+impact from nat cat was EUR105 million, hardly a severely impacted quarter for Hannover
+
+Page 3 of 16
+
+
+
+Company N ame: H annover Rueck SE
+Company Ticker: H N R1 GR Equity
+Date: 2021-05-05
+
+FINAL
+
+Re. On the man-man -- on the man-made side though the quarter was more active with
+one satellite loss and four property claims, leading to a net loss burden of EUR88 million.
+The next slide shows the technical profitability of our P&C portfolio by reporting line. The
+picture for the first quarter is a mixed one. As is usual for an individual quarter, the
+combined ratio is slightly above the target in some line or region, mainly due to large
+losses and slightly better than the target in other areas. I see this as a confirmation of the
+benefit of our highly diversified portfolio.
+One comment just on credit and surety, which looks part -- particularly good. The
+government programs to mitigate the impact of the pandemic are still in place and have
+certainly had a positive impact on the reported numbers. Therefore, the good 83
+combined ratio is the result of the actual loss development in the first quarter and not
+driven by any reserve releases related to COVID-19. Overall, again the 96.2% combined
+ratio was very close to our target.
+
+Bloomberg Transcript
+
+So, let's move on to Life and Health; the pleasing premium growth highlights the fact that
+our strategic initiatives are bearing fruit, given that it's mainly driven by the APAC region
+and by longevity. The technical result is affected by losses in connection with COVID-19. As
+in previous quarters, the main impact is coming from our US portfolio. Apart from the US,
+the bulk of the losses are from South Africa and to a lesser extent from other countries.
+As indicated in March, the restructuring part of the ING portfolio in our US mortality book
+led to a positive one-off effect of EUR129 million. So when you look at this effect of
+EUR129 million, it might sound a bit complicated now, so I will try -- because this one-off
+shows up in three different lines in the P&L. First, the transfer of some assets as part of
+the funds withheld led to a positive valuation gain of EUR86 million. The restructuring of
+the collateral agreements had a positive impact of EUR58 million in the other income and
+expenses, and the valuation effect of the ModCo derivative was minus EUR14 million. So,
+as mentioned by Jean-Jacques, this adds up to the EUR129 million offsetting therefore a
+large part of our COVID-19 losses in the first quarter.
+The ordinary investment income was in line with our expectations while the fair value of
+financial instruments was significantly negative in the first quarter. This is driven by the
+valuation of the derivatives embedded in the Life Reinsurance contract. Unfortunately, this
+derivative creates some volatility because the corresponding positive effect of the
+liabilities is not visible in our IFRS accounts due to IFRS accounting regime. Taking an
+economic view, the negative impact is to some extent offset.
+Other income and expenses are mainly driven by a further increase in the contribution
+from our Financial Solutions business, a large portion of which was recognized according
+to the deposit accounting method. Currency effects this quarter was slightly positive. All in
+all, the EBIT of EUR80 million is affected by a number of larger individual effects. Adjusted
+for COVID losses, the positive one-off from US mortality and the negative derivative
+valuation, the result would have been in line with our expectations. At 37.9%, the tax ratio
+is above normal level driven by the taxation business but I'd caution you not to read too
+much into quarterly tax rate.
+
+Page 4 of 16
+
+
+
+Company N ame: H annover Rueck SE
+Company Ticker: H N R1 GR Equity
+Date: 2021-05-05
+
+FINAL
+
+On the next slide, for Life and Health premium development, it's just one way to measure
+growth. But what is probably even more important is the value of new business. On the
+next slide, you can see that we were quite active in our reporting categories and also the
+pipeline for new business remains very healthy. By region, North America, APAC and the
+UK for longevity are currently the most promising. But European markets like Germany
+and France may also bring some new opportunities.
+Looking at the indicator for the new business value at the bottom, the first quarter was
+particularly strong. As you know, actions in life and health are rather bumpy and the value
+of new business also closely linked to the duration of the business written. In any case, I
+see our Life and Health business group is being well on track in terms of new business
+production.
+
+Bloomberg Transcript
+
+The next slide, development of our investments, in the first quarter I think it was very
+satisfactory. The ordinary investment income is in line with our expectations. On the one
+hand, our portfolio of inflation-linked bond, as you know, is to some extent still affected by
+lower inflation. On the other hand, the return from alternative investment is back to higher
+levels compared to the previous year. Around EUR50 million of the realized gains are
+linked to the partial disposal of listed equities. The remainder is the result of normal
+portfolio maintenance in a low yield environment.
+Listed equities are not really a strategically important asset class for us. Therefore, the
+realization was rather opportunistic following the strong performance of equity markets.
+Additionally, we still have our desired exposure to private equity, as you know.
+Impairments and depreciations are comparable to last year but still on a really moderate
+level.
+As explained in my comments on Life and Health, the derivative valuation was negative
+explaining the majority of the decrease in investment income compared to the previous
+year. The overall return on investment was 2.5%, meaning that we are well on track to
+achieve our full-year target of roughly 2.4%.
+Unrealized gains decreased by almost EUR1 billion due to the increase in interest rate, but
+are still on a very high level at about EUR2 billion. More importantly, the rising interest
+rates are of course positive for the new money yield even if the overall interest rate levels
+are very low.
+On the next slide, the asset allocation, as you can see, remained rather stable in the first
+quarter 2021. The only notable change I'd mention is that we slightly increased the share
+of profit to 32%. Here, we invested according to a broad-based approach with a focus on
+developed market. The mentioned disposal of listed equities is not really visible here in
+this overview and the rounded number is still at 1%. The contribution to ordinary
+investment income is diversified, as usual. It's particularly pleasing to see that the
+contribution from private equity recovered to the strong levels that we had seen before
+the market volatility caused by the pandemic in 2020.
+
+Page 5 of 16
+
+
+
+Company N ame: H annover Rueck SE
+Company Ticker: H N R1 GR Equity
+Date: 2021-05-05
+
+To conclude my remarks, the overall result for the first quarter 2021 does include few
+larger extraordinary effects as you can see, but both the reported net income and the
+underlying business development support our guidance for the full year. And I hereby
+hand back to you, Jean-Jacques, for the target metrics and the outlook.
+
+FINAL
+
+Jean-Jacques Henchoz
+
+{BIO 17457677 <GO>}
+
+Thank you very much, Clemens. On the next slide, you see the target metrics, which
+confirms that we had a good start to 2021. Growth, as mentioned earlier, is significantly
+ahead of the strategic targets and our main profitability target for the Group, the ROE is
+well above the minimum target and the industry average.
+The treaty renewals as at 1st of April, 2021 we're also successful for Hannover Re. Both
+the premium development and the price improvements are very much in line with the
+trends we saw in the January renewals. In the US, we particularly benefited from the
+underlying improvement in primary markets and we're able to generate a double-digit
+growth. In Japan, growth was slightly lower but overall in line with our expectations.
+
+Bloomberg Transcript
+
+And for the cat business, the reinsurance rate improved further on the back of the heavy
+loss burden in 2018 and 2019. Continued positive trends could also be observed in our
+aviation and marine portfolios. Overall, our premium in the April renewals increased by
+7.4%. The risk adjusted price change was about 5% positive. Looking at -- only at the nonproportional business, the price increase was even higher at 9%.
+Based on the favorable renewals in January and April, we see further opportunity to grow
+our highly diversified portfolio in an attractive market environment. And I would expect the
+general pricing trends affecting the reinsurance industry to persist in 2021 and to carry on
+into 2022. Influencing factors will be the amplitude of further COVID-19 impact for the
+industry and also the large loss situation as usual. We still feel comfortable with our P&C
+reserving for COVID-19 related losses and currently, we do not expect a material impact
+in 2021.
+In Life and Health Reinsurance, growth is expected to be well supported by our strategic
+initiatives and most pronounced in longevity and financial solutions. In the latter case, this
+volume indication also includes business which is booked according to the deposit
+accounting method and is therefore not visible in the premium income. In mortality, further
+losses from the COVID-19 pandemic are expected to decrease significantly compared to
+the first quarter, mainly driven by the progress of vaccination programs around the world
+but particularly in the US. The premium is expected to be slightly lower, mainly due to the
+natural decrease in our in-force book and our limited appetite for new business in the
+most competitive, traditional life segments, particularly in the US and the UK markets. In
+morbidity, the overall development is more stable.
+As mentioned by Clemens, the business development in the first quarter of the year
+supports our guidance for the full year. On the premium guidance, it even supports a
+slightly higher growth rate and we have increased our expectation to a high single-digit
+growth rate. We have kept guidance for Group net income unchanged. On the one hand,
+
+Page 6 of 16
+
+
+
+Company N ame: H annover Rueck SE
+Company Ticker: H N R1 GR Equity
+Date: 2021-05-05
+
+of course the slightly higher assumptions for growth will filter through the bottom line. On
+the other hand, the impact from COVID-19 was a little higher than expected in the first
+quarter. Finally, I can reconfirm our positive view of the dividend policy and the potential to
+pay a special dividend if profit targets are reached and the capitalization remains strong.
+
+FINAL
+
+This concludes my remarks and we would be happy to answer your questions. Thank you
+very much.
+
+Questions And Answers
+Operator
+Ladies and gentlemen, we will now begin our question-and-answer session. (Operator
+Instructions) And the first question is from Vinit Malhotra, Mediobanca. Your line is now
+open. Please go ahead.
+
+Q - Vinit Malhotra
+
+{BIO 16184491 <GO>}
+
+Bloomberg Transcript
+
+Good morning. Thank you, and hope everything is okay with everybody. So my two
+questions please, one is the -- Jean-Jacques, you mentioned the pricing effect and you
+mentioned an optimistic outlook for 2022. And you mentioned some factors including
+COVID. Could you just elaborate a bit? Is it because you think COVID discussions haven't
+actually had the opportunity to take place this year and that's why some of these effects
+could roll over into next year's pricing? So, that's my first question. Or any other factors
+you would like to highlight for next year would be helpful as well.
+And second question is the mortality COVID effect, the EUR151 million total, but only
+EUR105 million in the US. But -- so the ex-US, you mentioned South Africa, could you just
+elaborate, is there some other risks because so far at the marketplace we've mostly
+been focused on US mortality, partly UK. And also -- I mean in that context, does
+something like the Indian situation bother you at all in terms of loss risks? So just any
+comment on ex-US COVID mortality which seemed a bit higher than what I would have
+imagined. Thank you.
+
+A - Jean-Jacques Henchoz
+
+{BIO 17457677 <GO>}
+
+Thank you for that. Just on the first question, you have several drivers for pricing of
+course. You have the large loss activity in the past few years. The interest rate
+environment of course puts some additional pressure. On COVID, as mentioned, I think
+we were -- we're of the view that we are well reserved conservatively across the lines of
+business affected, but there are some uncertainty on client-by-client basis. And in some
+instances, this will still be a point on the agenda as we renew some of the businesses in
+January.
+So, I think you still will see the -- some impact and some further price pressure on the
+cadence [ph] given the burden of COVID. As of end of last year of course, we had a much
+better view on the overall exposure. But this is work in progress and this will be very much
+on a client by client basis.
+Page 7 of 16
+
+
+
+Company N ame: H annover Rueck SE
+Company Ticker: H N R1 GR Equity
+Date: 2021-05-05
+
+Maybe on the Life and Health ex-US, UK, Klaus can address that.
+
+FINAL
+
+A - Klaus Miller
+
+{BIO 16886879 <GO>}
+
+Yes. And then, the COVID claims, excluding the US, in our portfolio are mainly from Latin
+America and South Africa. The worst country in Latin America is probably right now Brazil,
+but not in our portfolio. We have hardly any business in Brazil. But Chile, Colombia, even
+Mexico to some extent, have caused losses in our portfolio. It's just in the double digits
+and I don't know how long this will continue. It's nothing what we are really worried about
+in terms of our bottom line result.
+South Africa, the team [ph] -- vaccination has not really started there and we have a lot of
+financing business as well in South Africa, which can absorb a lot of COVID claims. But
+including the mortality covers we provide, this is also I guess single digit, maybe doubledigit loss in the first quarter.
+India is of not much importance for our bottom line against the total premium. Premium is
+in the single-digit millions and that has absolutely no impact on the bottom line for us.
+These are the largest markets outside the US and UK. Europe as such is not really a
+problem so far. Please keep in mind that we have shifted our portfolio to financial
+solutions and longevity in the last 10 years, to a large extent. This definitely helps in this
+situation.
+
+Q - Vinit Malhotra
+
+{BIO 16184491 <GO>}
+
+Bloomberg Transcript
+
+Thanks, Klaus.
+
+A - Klaus Miller
+
+{BIO 16886879 <GO>}
+
+I hope that answers the question.
+
+Q - Vinit Malhotra
+
+{BIO 16184491 <GO>}
+
+Thank you.
+
+Operator
+The next question is from Michael Haid, Commerzbank. Your line is now open. Please go
+ahead.
+
+Q - Michael Haid
+
+{BIO 1971310 <GO>}
+
+Thank you very much and good morning to everyone. Two questions, both on the P&C Re.
+You mentioned the COVID-19 related losses, the estimate is unchanged at EUR950
+million. It appears that new COVID-19 related losses are fully covered by retro, which is
+somewhat counter-intuitive. Can you explain why this is the case and how the mechanics
+works here?
+
+Page 8 of 16
+
+
+
+Company N ame: H annover Rueck SE
+Company Ticker: H N R1 GR Equity
+Date: 2021-05-05
+
+FINAL
+
+Second question, the strong growth in P&C Re 20.1%, you mentioned that some of this
+comes from structured reinsurance. However, I thought that premiums from structured
+reinsurance are generally deposit accounted. So, can you elaborate a little bit how
+structured reinsurance plays into this strong growth and whether this strong growth was
+affected by some large order share transactions or anything like that?
+
+A - Jean-Jacques Henchoz
+
+{BIO 17457677 <GO>}
+
+Thank you. I guess so Sven will address both points.
+
+A - Sven Althoff
+
+{BIO 19104724 <GO>}
+
+Bloomberg Transcript
+
+On the COVID side, as Clemens explained, our gross position has only increased a little
+bit. So, the gross claim grew by approximately 3%. This was coming out of mainly
+property-related, so business interruption related new loss advisors from our ceding
+companies, and we saw a little bit of movement on the contingency side. So, the property
+is covered by our retrocessional protection and the small increase from non-propertyrelated lines. We have eliminated by adjusting other lines very gradually downwards in
+order to keep with the overall EUR950 million, which is an overall conservative number. So,
+we wanted to have stability on that side in the first quarter.
+When it comes to the growth, the ramp up of the 2020 business comes both from the
+traditional business and from the advanced solutions business, which we have written at
+the 1/4 renewals and later last year. The reason why Advanced Solutions is also
+significantly contributing in that aspect is that the amount of business we write on a
+deposit accounted basis in our P&C structured reinsurance practice is very, very small
+indeed. So we -- it would be more the exception than the norm that we have deposit
+accounted business in our structured P&C business. So, they contribute exactly like -- any
+traditional quota share, for example, would contribute. And given that we are talking
+about business that was written up, that 1-1 last year, as Clemens said, this impact will
+phase out over the next couple of quarters.
+But to give you a more detail, when we reported about our growth in Q1 2020, 25% of
+that number at the time came from underwriting years 2019 and prior. And we are now
+reporting about our growth in the first quarter of 2021. A remarkable 50% of that growth
+is coming from the previous underwriting years. So if you put the growth into the
+categories, the underwriting year 2020 and prior, it's more than we expected. When we
+look at underwriting year 2021, the growth we are seeing is very much in line with the
+premium growth we reported in early February when we talked about our January
+renewals.
+
+Q - Michael Haid
+
+{BIO 1971310 <GO>}
+
+Thank you very much. Very helpful.
+
+Operator
+The next question is from Andrew Ritchie, Autonomous. Your line is now open. Please go
+ahead.
+Page 9 of 16
+
+
+
+Company N ame: H annover Rueck SE
+Company Ticker: H N R1 GR Equity
+Date: 2021-05-05
+
+Q - Andrew Ritchie
+
+{BIO 18731996 <GO>}
+
+FINAL
+
+Hi, there. I joined the call a bit late, so apologies if you've addressed these topics. The
+first question was, could you just give us a color as to the FX noise in the other income in
+non-life? Why it is so large? How can I forecast or how can I -- what are the main
+sensitivities and what was driving it? I think the fact that -- EUR82 million inside.
+Second question, so could you just give us a bit more color on your outlook for mid-year
+renewals -- but definitely, a bit more discussion with the weather, there is an accelerating
+softening trend or still decent rate correction, maybe give us a sense how much of your
+mid-year renewal is on sort of loss affected business?
+And the final question, could you just give us a bit color behind your decision to raise
+more debt in the quarter? It doesn't seem like from the outside that you particularly
+needed it given your strong solvency and no imminent refinancing. So what was the
+thinking? Is it purely opportunistic? Do you feel the need to run at a particularly high capital
+coverage in anticipation of growth or some other metric that would be useful, just some
+color on that would be great. Thank you.
+
+A - Jean-Jacques Henchoz
+
+{BIO 17457677 <GO>}
+
+Thank you, Andrew, and I'll give the question on ForEx to Clemens and also probably the
+hybrid capital and then mid-year renewal for Sven.
+
+Bloomberg Transcript
+
+A - Clemens Jungsthof el
+
+{BIO 20496428 <GO>}
+
+Yes, good morning, Andrew. Colleagues are looking [ph] at me with respect to the FX
+effect in P&C because it's actually an accounting question, so that goes to the CFO,
+because again it's an accounting one, it's not an economic effect. The reason is, the
+stronger -- mainly the stronger US dollar in the first quarter development of the US dollar,
+that's the underlying reason for it. And as we re-evaluate our balance sheet, both on the
+liability and asset side or the liability effect flows through the P&L, that's the currency
+effect where it's on the asset side. Only so called liquid assets, monetary assets that are
+classified under IFRS flows through the P&L and the other in fact goes straight into the
+currency OCI for particularly our non-monetary US product assets, for example, our huge
+US sort of private equity portfolio.
+You will have seen an opposite effect last year where we reported a gain on the P&C
+side. So, it add a certain volatility of course to our results. But the movements were quite
+significant to the last year, as you know, in the US dollar and this year as well. So, that sort
+of flows through the P&L. However, again there is a fully offsetting effect in our P&L.
+
+A - Jean-Jacques Henchoz
+
+{BIO 17457677 <GO>}
+
+Would you want to address the debt or shall we go first to the mid-year -- mid-year
+renewals, outlook?
+
+A - Sven Althoff
+
+{BIO 19104724 <GO>}
+
+Page 10 of 16
+
+
+
+Company N ame: H annover Rueck SE
+Company Ticker: H N R1 GR Equity
+Date: 2021-05-05
+
+FINAL
+
+Yes, on what we have seen at 1/4 is that the momentum on the rate side is -- was
+relatively unchanged to what we saw at the 1st of January renewal, both on the insurance
+and on the reinsurance side. When you ask about 1st of June, 1st of July renewals, we
+expect that positive trend to continue. There is some first sign of slowing down in the
+momentum but the direction of travel is still up, I mean we're not talking about an SP4
+[ph] kind of market yet.
+Where we are particularly seeing more pressure is on proportional treaties where ceding
+companies are arguing that in their business they have achieved two, very often three
+round of rate increases. So, they are not really prepared to decrease their Ceding
+Commissions further due to the fact that the underlying profitability of the business
+should be significantly better. So, that's what we are seeing.
+
+Bloomberg Transcript
+
+The bulk of the business we will renew at 1st of June and 1st of July is coming from the US
+and Australia. US was a heavy loss year. As you know, last year was Hurricane Laura and
+various tornadoes, and so from that point of view we see little reason why that business
+should see a lesser rate momentum compared to the one business we have written in
+the US.
+Australia on the other hand had difficult years in 2019. 2020 a lot of that was already taken
+into account when we last renewed that business. The last 12 months were not loss free,
+but didn't experience the same sort of loss good [ph] in Australia. So here, I would expect
+that we still see rate increases but maybe not as high as we could report a year ago. So
+overall, the trend is still very much intact. But maybe the rate increases we will be able to
+report when we talk about Q2 will come a little below what we could now report at 1st of
+April and 1st of January.
+
+A - Clemens Jungsthof el
+
+{BIO 20496428 <GO>}
+
+Yeah, and just briefly on the hybrid, I mean it does give us -- as you've seen in our
+Solvency II rate as well, it does give us some buffer -- provide some buffer both in
+Solvency II, but also in our rating capital models. So there is some headroom for us, not
+necessarily been in the first quarter of course. But we thought the market environment
+was very good, so we took the chance and it was an opportunistic move in March, again
+to provide us with some buffers to take advantage of the good pricing environment and
+the market environment and the opportunities in the market.
+
+A - Jean-Jacques Henchoz
+
+{BIO 17457677 <GO>}
+
+And just to respond to also a part of your question, Andrew, there is no different
+benchmark now when it comes to Solvency II. We're still at the same level and see this is a
+fairly high solvency ratio. But combined with the opportunistic nature of that death rising,
+that gives us a photography of the situation as of end of March. But there is no change in
+our practice yet.
+
+Q - Andrew Ritchie
+
+{BIO 18731996 <GO>}
+
+Okay, thank you.
+
+Page 11 of 16
+
+
+
+Company N ame: H annover Rueck SE
+Company Ticker: H N R1 GR Equity
+Date: 2021-05-05
+
+Operator
+The next question is from Jochen Schmitt, Metzler. Your line is now open. Please go
+ahead.
+
+FINAL
+
+Q - Jochen Schmitt
+
+{BIO 4227302 <GO>}
+
+Thank you. Good morning. I have one question on your ordinary investment income from
+private equity in Q1 2021. Does this include any specialty within or any valuation effect?
+That's my question.
+
+A - Jean-Jacques Henchoz
+
+{BIO 17457677 <GO>}
+
+Thank you. Clemens will address that.
+
+A - Clemens Jungsthof el
+
+{BIO 20496428 <GO>}
+
+Yes -- no, it's really just ordinary distributions from our private equity funds. It's a variety of
+private equity funds. There is no special effect in there, and no evaluation effects. We
+don't evaluate our private equity investments through P&L. It all goes through the OCI.
+There are positive effects in the OCI actually, but I think it's very pleasing what we saw
+compared to last year in terms of ordinary investments, the results from private equity
+(Technical Difficulty) in excess of first part of 2020.
+
+Q - Jochen Schmitt
+
+{BIO 4227302 <GO>}
+
+Bloomberg Transcript
+
+Thank you.
+
+Operator
+And the next question is from Kamran Hossain, RBC. Your line is now open. Please go
+ahead.
+
+Q - Kamran Hossain
+
+{BIO 17666412 <GO>}
+
+Hi, good morning. Just one question from me, and apologies if I missed this detail. I
+understand that you have a parametric cover for your Life and Health business, which kind
+of helps out in situations, kind of pandemic situations. Just wanted to ask, how close are
+you to triggering this and how much cover does it provide? I guess given the situation
+elsewhere in the world, the US, the UK seems to be getting a bit better. Does it also
+include non-US deaths, any color on that would be really helpful. Thank you.
+
+A - Jean-Jacques Henchoz
+
+{BIO 17457677 <GO>}
+
+Yes, Klaus?
+
+A - Klaus Miller
+
+{BIO 16886879 <GO>}
+
+Yes. The cover we have bought is currently at $255 million capacity and the trigger is
+defined as the weighted average of the population mortality of three countries, the US,
+
+Page 12 of 16
+
+
+
+Company N ame: H annover Rueck SE
+Company Ticker: H N R1 GR Equity
+Date: 2021-05-05
+
+FINAL
+
+the UK and Australia. We picked these three because they have the higher sums of risk in
+our portfolio. The weights are about 60% US, about 22% UK and about 18% Australia.
+Currently the trigger starts at 100% of this weighted population mortality and it ends at
+100%, so it's 10 percentage point. And the $255 million mean that each percentage point
+in excess of 110 is worth $25.5 million. Currently, we are pretty close at -- or to the trigger
+point of $110 million. Not much is expected from Australia in the rest of the year, just
+normal mortality. So, it will not increase the cost of Australia. It will probably also not
+increase further due to UK because COVID claims are significantly reduced. And the US,
+we have to wait what happens there. Currently, there are still about 500 claims a day. I
+don't expect a large payout from that. And hopefully, this is not the case because that
+would mean that we have the COVID pandemic under control. So, this is only linked to
+population mortality in these three countries.
+
+Q - Kamran Hossain
+
+{BIO 17666412 <GO>}
+
+Okay, that's clear. Thanks very much.
+
+Operator
+And the next question is from Vikram Gandhi, Societe Generale. Your line is now open.
+Please go ahead.
+
+Bloomberg Transcript
+
+Q - Vikram Gandhi
+
+{BIO 18019785 <GO>}
+
+Hi, good morning everybody. It's Vikram, Soc Gen. I've got a couple of questions. First is
+on the deposit accounted treaties contribution which ended EUR90 million for this quarter
+versus EUR85 million Q1 2020. Can you give us a bit more color if there is a slowdown in
+the growth that we have been used to in the past or is it more of -- because it's a lumpy
+business Q1 was a slightly lower growth quarter and you might expect the growth to pick
+up in the coming quarters? So any comments there would be really useful.
+And second was on the cyber insurance, can you just explain how the book is shaping up?
+What were the premiums for the full-year 2020 and how the things are looking for the
+current year? Thank you.
+
+A - Jean-Jacques Henchoz
+
+{BIO 17457677 <GO>}
+
+Sven, Financial Solutions business?
+
+A - Sven Althoff
+
+{BIO 19104724 <GO>}
+
+The Financial Solutions business is pretty stable, not impacted by the COVID pandemic
+right now. And in -- we have two countries where most of the Financial Solutions business
+is coming from, one is the US, the other is China. The US is up to 20 years, so this is more
+long-term. China is significantly small-term but at least for the next 2 years or 3 years we
+don't expect significant shift here. And we hope that we can write more business in the
+near future. So, this is something what we see as a stable contributor to our bottom line
+result.
+
+Page 13 of 16
+
+
+
+Company N ame: H annover Rueck SE
+Company Ticker: H N R1 GR Equity
+Date: 2021-05-05
+
+A - Jean-Jacques Henchoz
+
+{BIO 17457677 <GO>}
+
+(inaudible - 54:48) and on the other question?
+
+FINAL
+
+A - Sven Althoff
+
+{BIO 19104724 <GO>}
+
+On the cyber portfolio, this continues to be a growing class for Hannover Re. So in 2020,
+we wrote approximately EUR300 million of cyber reinsurance premium. As you know, we
+were able at 1st of July renewals onwards from last year to reduce the silent cyber
+exposure on non-affirmative cyber business, which created some further headroom for us
+in order to keep growing our affirmative cyber portfolio. And for 2021, we had a successful
+start to the year where we could either increase shares on existing contracts or even write
+a few more. So, we are going to approach a premium volume here EUR400 million for the
+full underwriting year 2021.
+Our loss experience continues to be favorable in this class. We have seen an uptick in the
+loss frequency in the last 18 months. But the business we write is still well within the
+ultimate loss ratio picks that we had chosen for that business at the beginning when we
+were writing it. So from that point of view, we see this as a good contribution to further
+increase the earnings capability of our P&C practice.
+
+Q - Vikram Gandhi
+
+{BIO 18019785 <GO>}
+
+Okay, thank you very much.
+
+Bloomberg Transcript
+
+Operator
+And there are currently no further questions. (Operator Instructions) And the next
+question is from Emanuele Musio, Morgan Stanley. Your line is now open. Please go
+ahead. Emanuele Musio, your line is now open. Please go ahead. We can't hear you at the
+moment.
+
+Q - Emanuele Musio
+
+{BIO 19781440 <GO>}
+
+Hello, hi, sorry, I was on mute. Thanks for taking my question. A quick question on the
+combined ratio. Can you please give us an indication of where the line profitability stands
+compared to last year, or maybe you can otherwise give me an indication of what the
+contribution from prior-year development was this year? Is it comparable to 2020? Is it
+more -- just some color about that, please.
+
+A - Jean-Jacques Henchoz
+
+{BIO 17457677 <GO>}
+
+Thank you, Emanuele. Sven?
+
+A - Sven Althoff
+
+{BIO 19104724 <GO>}
+
+Yes, to the prior year development, as Clemens has said, that came in a little less good
+compared to where we were a year ago due to some impact on our short-take classes
+[ph]. For example, the winter storm in Texas was mostly resulting from business which we
+wrote in underwriting year 2020. So, this showed some negative run off therefore for our
+
+Page 14 of 16
+
+
+
+Company N ame: H annover Rueck SE
+Company Ticker: H N R1 GR Equity
+Date: 2021-05-05
+
+FINAL
+
+2020 property business. The run-off result for our long-take classes, casualty in particular,
+was good, was positive, so no concerns from that side.
+And as to your first question, I mean of course we are satisfied with the start to the year
+with our 96.2% combined ratio. So, this makes us more confident that we will achieve our
+target of 96% or better at the end of the year. But of course the, year has only just
+started. So, there is a lot of exposure on the wind side waiting for us in the next couple of
+quarters. So at this stage, I would say it's a good start. It seems to reconfirm our guidance
+on that side. But we would not be more bullish than that at this stage.
+
+Q - Emanuele Musio
+
+{BIO 19781440 <GO>}
+
+Thank you.
+
+Operator
+(Operator Instructions) And we haven't received any further questions at this point. So, I
+hand back to the speakers for closing remarks.
+
+A - Jean-Jacques Henchoz
+
+{BIO 17457677 <GO>}
+
+Bloomberg Transcript
+
+Thank you very much for joining this early call. So, I think we handled the key topics. We
+wanted to show that we had a solid starting to the year with these quarterly results on the
+back of successful P&C renewals and good momentum in pricing and conditions with
+strong growth that you've seen and the net Corona loss estimate, which is unchanged.
+In Life and Health of course some uncertainties remain, but we believe that with the
+vaccination programs, particularly in the US, things will improve in the coming quarters, but
+of course still some uncertainties. Strong capitalization, we addressed that at the
+beginning of the year. And this is reflecting of course the hybrid bond and the outlook is
+positive.
+We're quite confident about the guidance. We changed of course the topline guidance
+reflecting the P&C business. But as Sven mentioned, it's a bit early in the year to look at it
+in more detail. There is still some uncertainty. There is still some nat cat activity which
+might be coming later in the next few quarters. But all in all, we're very positive about the
+outlook for 2021 and feel very comfortable with the guidance.
+With that, I'll close this session. Thank you again for joining today and see you next time.
+
+Operator
+Ladies and gentlemen, thank you for your attendance. This call has been concluded. So,
+you may disconnect now.
+
+Page 15 of 16
+
+
+
+This transcript may not be 100 percent accurate and may contain misspellings and other
+inaccuracies. This transcript is provided "as is", without express or implied warranties of
+any kind. Bloomberg retains all rights to this transcript and provides it solely for your
+personal, non-commercial use. Bloomberg, its suppliers and third-party agents shall
+have no liability for errors in this transcript or for lost profits, losses, or direct, indirect,
+incidental, consequential, special or punitive damages in connection with the
+furnishing, performance or use of such transcript. Neither the information nor any
+opinion expressed in this transcript constitutes a solicitation of the purchase or sale of
+securities or commodities. Any opinion expressed in the transcript does not necessarily
+reflect the views of Bloomberg LP. © COPYRIGHT 2022, BLOOMBERG LP. All rights
+reserved. Any reproduction, redistribution or retransmission is expressly prohibited.
+
+Bloomberg Transcript
+
+FINAL
+
+Company N ame: H annover Rueck SE
+Company Ticker: H N R1 GR Equity
+Date: 2021-05-05
+
+Page 16 of 16
+
+

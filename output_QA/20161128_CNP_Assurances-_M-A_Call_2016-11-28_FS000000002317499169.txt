@@ -1,0 +1,909 @@
+Solvency II Methodology as applied by CNP Assurances Call
+Company Participants
+FINAL
+
+Antoine Lissowski, Chief Financial Officer & Deputy CEO
+Marie Grison, Group Chief Risk Officer
+Mikaël Cohen, Group Chief Investment Officer
+Stéphane Le Mer, Group Risk Officer
+Séverine Laine, Group Reporting Officer
+Thomas Béhar, Group Chief Actuary
+
+Other Participants
+Vincent Damas , Head-Investor Relations & Analysts
+
+MANAGEMENT DISCUSSION SECTION
+
+Bloomberg Transcript
+
+Vincent Damas
+
+{BIO 18954595 <GO>}
+
+Good afternoon, everyone, and thank you for joining this event. I'm Vincent Damas, Head of
+Investor Relations. I would like to welcome you to our conference on the Solvency II Methodology
+applied by CNP. This event is being recorded and all participants will be on mute during the
+presentation. This presentation will be followed by a Q&A session and there will be a replay of this
+webcast available afterwards. With us today are Mr. Antoine Lissowski, Deputy Chief Executive
+Officer and Group CFO of CNP Assurances; Mrs. Marie Grison, Group Chief Risk Officer; Mr.
+Stéphane Le Mer, Group Risk Department Officer; Mr. Thomas Béhar, Group Chief Actuary; Mr.
+Mikaël Cohen, Group Chief Investment Officer; Mrs. Séverine Laine, Group Reporting Officer and
+myself.
+So, let's begin on page four with the agenda of the presentation. So the goal of today's
+presentation is to provide investors and analysts with answers to frequently asked questions and
+also to disclose new information that we think could be of interest to you in your monitoring of CNP
+business. When we prepared this presentation, we've tried to be as clear and didactic as possible
+and we hope it will be the case. So, we'll start with an executive summaries that we kept them in
+topics over the presentation. Afterwards, we'll have a deep dive in Solvency II balance sheet and
+own funds and the way it can be reconciled with IFRS' consolidated accounts. We'll explain you the
+CNP Solvency capital requirements and the way we analyze the dynamics of its and also of the
+MCR. And finally, before concluding and opening up the floor for the Q&A session, we will keep
+you informed about public disclosures for next year. Thank you again for your attention and I will
+now leave the floor to Antoine.
+
+Antoine Lissowski
+
+{BIO 4384399 <GO>}
+
+Hello, everybody. To start with this presentation, I will just point out a few, a very basic elements
+first. But, the regime which we are speaking about has been in force since the beginning of this
+year. And as you know CNP has deliberately chosen to use standard formula without any
+transitional measures, except for grandfathering on subordinated debt. Doing that we were
+convinced to give a transparent and conservative view of solvency of the company to all the
+stakeholders.
+Second, let's know about solvency, CNP Assurances applies Solvency II to all subsidiaries within the
+group, even in Brazil, which is not in the solvency zone. So we have a consistent risk metrics
+worldwide. The Group SCR coverage ratio was as you know 192% at the end of 2015 and 165% at
+
+
+
+the end of June, and it was negatively impacted by lower interest rates, in Europe and lower equity
+markets.
+
+FINAL
+
+This volatility, which I remind you that we pointed to being major characteristics of solvency, it
+reflects the market consistency of Solvency II metrics in such a turbulent year. You remember that
+when we started speaking about Solvency II, we pointed out that the volatility of the tool was as –
+almost as important as the level of the solvency in itself.
+The risk management of the group takes into account all Solvency II impacts under management
+actions every day. We use Solvency II metrics to determine our underwriting policy to develop our
+reinsurance program to decide our asset allocation, hedging programs and so on so. And all that is
+under close monitoring by the board of director, who looks very cautiously about Solvency II
+coverage ratio at all the levels, at group level and at each legal entity level.
+And to finish with these first elements, I remember you that we have chosen not to give any target
+of range to Solvency II coverage ratio of the company, in order not to link our strategic decisions to
+volatile metrics automatically. We evaluate in a very quick changing environment. We are focusing
+on our long-term strategy, and we consider that this metric is one of several elements we take into
+account, but we do not want this metric being the sole of a major element of our policy.
+Now, I give the floor to Marie for starting of the explanation of the metrics.
+
+Bloomberg Transcript
+
+Marie Grison
+
+{BIO 15895562 <GO>}
+
+Okay. So as an introduction I will explain some of the things that we use for the calculation of our
+SCR coverage ratio. The first one is that we use static volatility adjustment which is positive, it can
+be negative, but it's positive spread added on the interest rate curve. You have the label of the
+volatility adjustment which is explained in page 38 of the appendix. We also use the credit risk
+adjustment as we – as it's a lot in the regulatory formula and this credit risk adjustment is negative
+spread between minus 35 bps and minus 10 bps deducted from the swap curve to take into
+account the banking counterparty risk.
+We also use – the third point is we use an equity dampener, which is a counter-cyclical adjustment
+to the equity capital charge. This counter-cyclical adjustment is between minus 10% and plus 10%
+and you also have the level of the equity dampener explained in page 38. Another point is that
+that you should bear in mind that we take into account 100% of all our insurance subsidiaries' SCR,
+even if we own less than 100% and within CNP Group, it's a case of our subsidiary in Brazil, Caixa
+Seguradora, of our subsidiary in Italy, UniCredit Vita, and of our subsidiary based in Ireland, CNP
+Santander Insurance. When we – tax is 100% of SCR, we don't take into account local excess of
+capital, that means that around €2.1 billion of growth of minorities which is 17% of Group SCR is not
+recognized in our calculation, and we take that in our calculation as regulatory invites us to do.
+However, from an economic point of view, we get dividends from those subsidiaries and those
+dividends represented €233 billion (sic) [€233 million] (8:43) in 2015.
+And the last point before getting in more details is that the calculation is net of current year's
+dividend, calculated pro-rata temporis, it's foreseeable dividends and it's mainly based on
+previous year and we just put the same. And it's including not only the dividends that CNP
+Assurances is paying to its shareholders, but also dividends that are paid by our subsidiaries to the
+non-controlling interests.
+So, now I think we'll go more in detail to our presentation on page 9, and I'll let Séverine explain
+this page.
+
+
+
+Séverine Laine
+
+FINAL
+
+Thank you, Marie. So on page 9, you see the Solvency II balance sheet. As you know the Solvency II
+framework requires us to produce a balance sheet the same way the IFRS and we have to do one
+under IFRS. First thing to have in mind is the fact that while asset and liability valuation is a real
+critical step in the determination of eligible own funds, so the own fund that will cover the Solvency
+Capital that we calculate.
+Under Solvency II, all assets and liabilities are valued at their economic value. And I think, last point I
+would like to mention on this page is the fact that, but you will see on page 15 the comparison
+between the Solvency II balance sheet and the IFRS balance sheet and we will go into more detail
+when we will reach this page.
+Now, we'll turn to Mikaël to discuss the investment and derivative instruments under Solvency II.
+
+Bloomberg Transcript
+
+Mikaël Cohen
+Yes. Just a few words about this slide, because it's not very versed (11:03) taking too much time
+about it. First of all, given the figures about difference between IFRS value and Solvency II value.
+First remark is that there is no – not much differences because simply because the idea and as
+Solvency II value is to as evaluate at market value, all the items and as financial assets are generally
+valued with their market values under IFRS SII. There are very few exception to it on the – for
+instance, some assets are evaluated based on historic values when classified and in held to
+maturity under IFRS, that's one of the reason you had differences in the figures. And the other
+possible source of discrepancy comes from the classification issues, some are assets are classified
+under cash or equivalent, and those (12:25) are not in the same scope as you have in Solvency II
+figures.
+
+Thomas Béhar
+Going now to the liability side with best estimate and risk margin. We have a total of technical
+provision of €347.3 million of share goals of French events (12:57) technical provisions include best
+estimate and risk margin. So best estimates correspond to the probability weighted average of
+the expected value of future cash flows using EIOPA risk-free interest rate and curves, and which
+enables to settle all our insurance obligation to policyholders. This EIOPA curves use also the
+volatility adjustment and credit risk adjustment, that Marie explained just before as all undertakings
+there.
+So calculation of best estimate is based upon our knowledge of the information. We don't use
+future premium except for our protection activities, and France represents 94% of the best
+estimate, mainly for savings and pension activities.
+Reinsurance of set 7% as a technical provisions and so main (13:52) reinsurance covers of our
+pension product platform and for euro savings that we are doing with BPCE, we've said it, quotashare of 10%. The best estimate evolves yearly – for the yearly revaluation of the contract with
+discretionary participation, but also for the impact of the decrease of the interest rates due to this
+symmetry best estimate are increasing more strongly than assets when interest rates are
+decreasing.
+And for instance, we have now for PPE, marginal increase of the PPE has now limited positive
+impact on the Solvency II ratio due to the regulation as we are sharing with policyholder. So
+participation we have minimum, more interest rates are going down as lowest as the impact of
+increasing the PPE and nowadays we are more increasing PPE without consideration for the
+Solvency II ratio.
+
+
+
+FINAL
+
+We historically have used an Economic Scenario Generator that doesn't allow for negative nominal
+interest rates. Given the current context, we are in process of testing several alternative Economic
+Scenario Generator that allows for negative interest rate, with a goal of implementing them at the
+end of this year.
+In addition to best estimate, we have risk measure – risk margin ensures (15:44) that the value of
+the technical provision is equivalent to the amount that insurance undertakings would be expected
+to require in order to take over the insurance obligations, they are calculated using 6% cost of
+capital as set into (15:57) regulation, the risk margin is set in each undertaking and is based on
+some solvency capital requirement, it doesn't benefit from the diversification between entities.
+
+Séverine Laine
+
+Bloomberg Transcript
+
+Okay. On page 12, now that we've discussed all of assets and best estimates and risk managing,
+just this scheme is showing the concept of reconciliation reserve which is in the regulation and what
+this page is expressing is the fact that we have the share capital, but then we have the
+reconciliation reserve that is the difference between assets and liabilities. But if we deduct nonfungible own funds and I will come back to that it's what I explained before about the excess of
+capital of our subsidiaries. And we deduct the foreseeable dividends, I just explained that before,
+and then we have the subordinated debt. Well, what is shown in this graph is that we have a quite
+simple calculation of eligible own funds and we don't have at this stage any ancillary own funds or
+net deferred tax of assets.
+So on page 13 I will just come back to the way that we consolidated our subsidiaries. So in dark
+blue, you have CNP Assurances SA. You have the SCR, the contributive SCR given the fact that we
+add other SCR from other subsidiaries and our own funds. Then in green color, you have what we
+take from the fully owned subsidiaries. Well, again they have the SCR. We have a contributive SCR
+which corresponds to the diversification effect of these (18:18) SCR in the group and the own fund
+of the full own subsidiary.
+But then you see in light blue that when we don't fully own the subsidiary like in Brazil, or Italy, or
+Ireland. We take the – we have the SCR, then the contributive SCR, but then the own fund that we
+take into account to do the consolidation is kept to the contributive SCR level. So that means that
+we don't take the excess capital. And so the excess capital that we don't take into account is €2.1
+billion out of which the main part is coming from Brazil.
+And then we will go back to the comparison between Solvency II and IFRS balance sheet. So on
+page 15, you have face-to-face the Solvency II balance sheet and the IFRS balance sheet. As you
+should have noticed, these balance sheets are different and some information have already been
+provided to you first on investment on page 10, then Thomas explained you a little bit how the
+technical provisions are determined to do under Solvency II and in addition to what he said and
+how – and what is indicated below the table is the fact that the vision to be considered under
+Solvency II and under IFRS is not the same. So for IFRS, we have a retrospective vision, so we need
+to consider everything that already happened at the date at which we prepare the balance sheet
+whereas for Solvency II, we need to adapt a prospective vision.
+So this explain – this gives the reason why, for technical provision, we are – we considered the 10%
+quota-share reinsurance agreement that was signed with BPCE, having effect at the beginning of
+January 2016 whereas under IFRS, we do not consider this treaty.
+So, investment, we've already covered. One thing was being noted is the fact that we are – we
+determine deferred tax assets and liability the same we do for IFRS. So, in accordance with IAS12,
+calculating the tax impact on the differences between the Solvency II balance sheet announced
+and the value of its assets and liability for tax purposes. So that's it for page 15.
+
+
+
+FINAL
+
+If we now go to page 16, this page shows the reconciliation between IFRS equity and Solvency II
+own fund. So starting point is the equity group share then we add the non-controlling interest to
+reach the IFRS 100% equity. We give you here the different items of reconciliation. We've already
+covered quite a few of them. Differences in the scope of consolidation, we do not have the same
+scope of consolidation under IFRS and under Solvency II. So we add just here the equity for the
+difference between the two scopes.
+Reclassification of subordinated debt accounted as equity, as you know we have some
+subordinated debt that are classified as equity under IFRS and which are reclassified as debts for
+Solvency II. Then we eliminate the – all intangible assets and deferred acquisition costs. As
+indicated on this page, CNP adopted prudent approach not to recognize any intangible asset for
+Solvency II balance sheet.
+Then full market value of assets, Mikaël already discussed the way the investments are valued. So
+the difference between the valuation deducted for IFRS and for Solvency II. Then you have
+technical provision reevaluation, also already discussed by Thomas. Then subordinated debt
+reevaluation. So debts are now all classified in as liability and we value them at their economic
+value. So considering the value of future cash flow and considering also the evolution of exchange
+rate for subordinated debt that are issued in the foreign currency.
+
+Bloomberg Transcript
+
+So you see here the excess of assets over liability, which is €19 billion, then you have subordinated
+debt amount foreseeable dividends that Marie already mentioned and non-fungible own funds
+that Marie commented also to which the amount of eligible own fund, which is €23.4 billion.
+So a note on page 18, we'll come to the breakdown of the Group SCR. The first chart shows
+breakdown by region and you can see the France is accounting for 90% of the SCR, meaning that
+Latin America and especially Brazil represents only 6% and given what we explained before of the
+non-fungibility rule and small part of the SCR of Brazil over the global SCR, the sensitivity to the
+exchange rate, the Brazilian euro exchange rate is very limited.
+The second chart explains the – what shows is breakdown of SCR by risk and there you can see
+that more than half of the SCR is coming from the market SCR. So that's why the asset allocation
+has direct effect of the consolidated SCR, and for example, if we decrease by 1% the allocation we
+have on equity, the equity is the biggest shock in the regretory (25:20) formula. We have an
+increase of 5 points of the coverage ratio at the end of June, for example.
+Then we just reminded that our sensitivity to the ultimate forward rate is limited with 4 points for
+50 bps decrease of the ultimate forward rate, which is the fixed by the regulator.
+On page 19, you have an explanation of the diversification effect between risks. In CNP Assurances
+diversification is directly coming from the standard formula. But you can see that in fact due to the
+fact that the main SCR for CNP Assurances is the market SCR. An increase of the market SCR leads
+to an increase of the basic SCR, the diversification effect is 7%. But, when we speak about
+underwriting SCR especially life underwriting, health underwriting, and non-life underwriting, you
+have different percentages then you have a quite big diversification effect due to the fact that our
+main SCR is the market SCR. The fact that operational risk is not diversified is due to the standard
+formula.
+So, I would like to Stéphane explain the next slide.
+
+Stéphane Le Mer
+Okay. So on page 21, you see the group coverage ratio at the end of 2015 and at the mid-year of
+2016. So, I won't go more into detail on this slide and we will see however on the next slide why we
+
+
+
+FINAL
+
+have a decrease of our own funds. So, we see that our own funds are decreasing by €1.8 billion in
+the first half year of 2016, and we have an increase of the SCR of €0.9 million on this first half year.
+So on page 22, you have a split of the variation of group eligible own funds between the end of
+2015 and June of 2016. So, there are three components that are presented. So, the first one is
+share capital and share premium account. So, there wasn't any variation of this component during
+the first semester and the second component is the reconciliation reserve that was commented
+previously by the balance sheet presentation.
+So, in this reconciliation reserve, we have in particularly, the future profits that are booked in this
+reserve but, it's only a part of this component. And we have during this first semester – have a
+decrease in interest rates, which leads to lower future profits because of higher cost of option and
+guarantees on this contract. And we did (29:25) more or less than €2.3 billion decrease of this
+reserve during this first semester. And the third component is subordinated debt that was issued in
+January. So, this subordinated debt was included in the own funds of end of June. And so, at the
+end, we have a total of eligible own funds of €21.6 billion at the end of June.
+
+Bloomberg Transcript
+
+On page 23, you have a split of the variation of the Group SCR between the end of 2015 and June
+2016. So, the variation is split by the different component of the SCR at group level. So, I will focus
+on the two main variation, that are the variation of the market SCR and the variation of the lossabsorbing capacity of deferred taxes. So, the sales variation is the decrease of the market SCR at
+group level of €0.4 billion. So, this decrease of market SCR is mainly due to three reasons. So, the
+first reason is decrease of the equity SCR by €1 billion. So, this decrease is explained due to the
+countercyclical equity dampener that was explained by Marie at the beginning of the presentation.
+So, the listed equity capital charge goes down from 37% to 32%. So, it's regulatory, as you know
+that is given by EIOPA each month and that we use in our calculation. So, this first figure is for listed
+equity, which is also called Equity Type 1, and the second equity capital charge is the capital charge
+for non-listed equity called also Equity Type 2, where (32:20) between the end of year of 2015 and
+the mid-year 2016.
+We have also because of the decrease of interest rate, higher SCR for interest rate risk due to the
+falling of interest rate due to (32:55) at medium. So, the interest rate SCR increased by €0.2 billion.
+And at the end, we have an increase of other market risks globally spread, property and currency
+SCR, because of different economic conditions. So, we have lower interest rates, fall in equity and
+globally this lead to lower loss-absorbing capacity of technical provision. So, lower capacity to
+transfer the risk to the policyholder. So, you have quite data definition (33:45) of this lossabsorbing capacity of technical provision in the appendix, on the page 40 and page 41.
+And the second point, on which I would like to focus is loss-absorbing capacity of deferred taxes.
+So, we see in this page that, the increased SCR of €1.4 billion. So, it directly lead to what we have
+previously seen in the page before because, as we have lower profits on pension and euro
+contracts and saving contracts. This lead to lower deferred taxes that are booking the balance
+sheet and these taxes are used to reduce the SCR according to the standard formula.
+CNP use a very prudent approach for this particular calculation of loss-absorbing capacity of
+deferred taxes and there are very limited profits that are used outside of balance sheet according
+also to the regulatory framework and this is explained also in the appendix, page 41.
+So, now on page 25. We will see the difference – the main differences between the SCR and the
+MCR. So, the SCR is the capital required to limit the probability of ruin to 0.5% per year and there
+are some recovery plans that have to be submitted to the supervisor, if the SCR is breached. The
+MCR is an absolute flow that don't have to be breached because it would lead to the withdrawal of
+the insurance license.
+
+
+
+FINAL
+
+And how is MCR calculated? So, the MCR calculation is based may be on volume and with a very
+simple formula depending on the volume of technical reserves and the capital at risk or the
+premium income. So, that is the first calculation and this calculation is performed at the entity level
+for each entity within the group is capped (37:10). At the entity level, the MCR is then floored
+between 25% of the SCR, and the amount of MCR is capped at 45% of the SCR.
+At group level, the Group SCR is consolidated and the total Group MCR is calculated by making a
+simple sum of the SCR of the different entities. So, there is no diversification benefit contrary to
+the SCR calculations.
+So on page 26, you see the difference between the own funds that are used for covering the SCR
+and covering the MCR. So, we have already spoken about the own funds covering the MCR. So,
+let's focus on the main differences between the own funds covering the SCR and the own funds
+covering the MCR.
+So, on the graphic page 26, you have the detailed division (38:50) of the eligible own funds
+covering the Group MCR. So for the Tier 1 unrestricted, it's exactly the same that for the own funds
+covering the Group SCR. So, we have share capital and share premium account, and also the
+reconciliation reserve net of non-fungible own funds.
+
+Bloomberg Transcript
+
+The differences are mainly on the subordinated debts and on the Tier 3. On subordinated debt,
+the limits are different so, Tier 1 and Tier 2 are allowed to cover the Group MCR, but the limit that
+is used for Tier 2 is lower than the one that is used for covering the Group SCR. Because, we have
+a limit of 20% of MCR covering for Tier-2 and limit of 16% of SCR for the limit of eligible own funds
+for SCR.
+And for Tier 3, the Tier 3 is not allowed to cover the Group MCR, but is allowed to cover the Group
+MCR (sic) [SCR] (40:15). And that's why you see that at the end, for Tier 2, we have limit, we have
+to escalate the path of our Tier 2 because €2.3 billion are deducted from eligible own funds
+covering Group MCR.
+On page 27, you have the dynamics of consolidated MCR coverage ratio. So, the consolidated
+MCR coverage ratio, decrease of more than 20 points between the end of 2015 and first half of
+(41:18) 2016. So, this decrease is explained with the same reasons, as decrease of the Group SCR
+coverage ratio. So, we have a decrease of group eligible own funds of €2.4 billion. So, slightly more
+that (41:29) the decrease of the group eligible own funds covering the SCR is a difference of nearly
+€0.5 billion come from the debt issued in January, which is Tier 2 and is also deducted because of
+the limit is breached (41:58).
+And we have an increase of the Group MCR, the increase of Group MCR of €0.3 billion during this
+first semester. This increase is due to the increase of the SCR. And mainly just one thing to be
+agreed (42:20) is that you have seen that there is no diversification affects between the MCR
+covering – the SCR of the current entities. So, that's why the MCR as a proxy (42:39) to the Group
+MCR is slightly higher than 45% and year-on-year 60%.
+
+Thomas Béhar
+Thank you, Stéphane. So, moving to page 29. We show you the financial calendar for the beginning
+of next year. So, as you know the next year will be a remarkable year for the insurance industry with
+the introduction of the pillar 3 requirements in terms of Solvency II public disclosures. So, as usual,
+we will update you in February regarding the SCR coverage ratio and sensitivities at the end of
+2016. And we will update you in May regarding the SCR coverage ratio at the end of Q1. The
+originality of next year will be the public disclosure of two items. So, one is the narrative reports
+called Solvency and Financial Conditions Report and the other being Quantitative Reporting
+Template that would be embedded in the report. So, we will disclose them as foreseen by the
+
+
+
+directive before the May 19 for all European legal entities within our group and before the end of
+June for CNP Group.
+I will now leave the floor to Antoine for the conclusion.
+
+FINAL
+
+Antoine Lissowski
+
+{BIO 4384399 <GO>}
+
+Thank you. As we may have shown you, very clearly, very specific elements when you look at
+Solvency II, which make this measure very peculiar and we insist on the fact that in fact different
+ways of assessing CNP Assurances Solvency as overall company's solvency and everybody has to
+keep in mind that the different views are to be combined.
+If you look solely on Solvency II consolidated SCR coverage ratio of the company over last years as
+calculated at that time, they are between 150% and 192% over the time and then (44:56) we are
+currently within the range of what we experimented over the last six years or seven years.
+
+Bloomberg Transcript
+
+Second view, the non-risk weighted leverage ratio is also to be kept in mind. Doing that we try to
+anticipate the way the interim supervisor could work if they imitate the banking supervisors, which
+after years and years of entering into internal models, I've decided in the end to give some credit
+to non-weighted leverage ratios. When you look at that, you see that in 2010 the non-risk weighted
+leverage ratio of the company was 5.12% combined between the 3.66% in equity and 1.45% in sub
+debt and at the end of 2015 where figures were 4.35% in equity and 1.81% in subordinated debt
+leading to coverage, not-risk weighted of 6.16%, that means that we have been strengthening the
+balance sheet over time and it is also consideration you must have when you are wondering about
+the dividend policy of the company.
+The third vision is the rating agency risk-weighted metrics, the Standard & Poor's total adjusted
+capital, which is calculated and published by this agency of CNP shows very dramatic increase since
+2010 from €21.6 billion to €36.8 billion over a period. That is also a sign of a very important
+strengthening of the intrinsic solvency of the company.
+To finish with, just to remind you that, first, as we have always said and it's last time I repeat it
+today, volatility of a ratio is simply a reflex of sensitivity of our balance sheet to financial markets,
+which is normal with life insurance company, having very much savings – additional savings business
+in its liabilities.
+Second that as previously pointed, we have reinforced our balance sheet and I have just given you
+the figures of this strengthening. For the Standard & Poor's total adjusted capital is close to, A,
+capital requirement since 2014, then since the solidity of the company was concerned over the
+time. And the fourth remark is simply that we are using internal management ORSA measures,
+which is a 5-year prospective and stressed view of Solvency II ratio with different more
+conservative assumptions. This measure is not disclosed, but it is clearly very conservative, much
+more conservative of the official ratio and it is of course very closely monitored by the
+management of the company and board of directors and by the supervisor. That means that the
+improvement of our solvency over the last years was very obvious and the management of the
+solvency is now very strict in order to remain permanently at a very comfortable level.
+Now, I give floor to Vincent who receives your different questions.
+
+Vincent Damas
+
+{BIO 18954595 <GO>}
+
+Thank you. So, at the time we welcome any questions investors and analysts would have regarding
+this Solvency II presentation. If you have any question, please write it down and send it through the
+webcast form and our management team will be happy to give you an answer as clear as possible
+on this complex Solvency II issues.
+
+
+
+Q&A
+
+FINAL
+
+A - Vincent Damas
+
+{BIO 18954595 <GO>}
+
+So, our first question comes from David Barma from Exane BNP. So, I read the question and I will
+lead the floor. Could you explain if the latest regulatory developments have or will have in the
+future any impact on the Solvency II calculation, particularly thinking about the (50:16) which is a
+French – recent French law, Article 21b and the potential new provision for future returns PRF
+(50:27)? Thank you.
+
+A - Antoine Lissowski
+
+{BIO 4384399 <GO>}
+
+Thomas, first reaction to that question.
+
+A - Thomas Béhar
+Okay. Thank you for the question. The provision for future returns play a similar role as the PPE but
+is made this depending on the final form of the provision for future returns, might be placed
+before the minimum requirements that we have in the regulation for sharing the participation with
+the policyholder, and the difference from the PPE where we expect that when rates are decreasing
+it has now very low impact on the Solvency Capital Ratio. We are expecting the new provision for
+future returns to play a high role (51:33) in the Solvency capital ratio, 100% in fact, and it will be a
+full tool that will enable us towards a countercyclical tool for our solvency. That's it, Antoine for the
+(51:56).
+
+Bloomberg Transcript
+
+A - Vincent Damas
+
+{BIO 18954595 <GO>}
+
+Thank you, Thomas. So, next question comes from Benoît Valleaux from Natixis. Looking at slide 37,
+do you plan to replace in the future Tier 1 sub debt by Tier 2 sub debt?
+
+A - Antoine Lissowski
+
+{BIO 4384399 <GO>}
+
+(52:12).
+
+A - Thomas Béhar
+Sorry, then regarding this question by Benoît. Thank you. Well, just a precision when you say you
+forecast to do that, no, the assumption taken into the calculation of the future coverage of the
+ratio is that – the assumption is that we replace Tier 1 by Tier 2, but it is not a forecast, it is just the
+way we make the calculation.
+
+A - Mikaël Cohen
+Yes, about the intent to substitute Tier 1 by Tier 2, it will heavily depend on market for sure as you
+have noticed we have spare capacity of €2.3 billion of Tier 2 issuance. We have in the near future
+as stated on the previous slide 36, two issuances of $500 million coming to possible redemption
+in 2018 and 2019. Obviously, these are quite costly debt and that they could be replaced by other
+less costly debt, and why not Tier 2, but it will depend on the current situation. So, there is no
+explicit plan as of today, but it's a clear possibility.
+
+A - Vincent Damas
+
+{BIO 18954595 <GO>}
+
+Thank you. So, the next question comes from David Barma from Exane BNP. You mentioned on the
+slide 11 that you intend to use an economic scenario generator that includes negative interest rate.
+Is it fair to assume the impact will be negative, and if so, could you provide us with the range of
+expectations, so as not to be surprised on the day of duplications, any guidance such as 10 points
+or 20 points or 30 points, I'm not sure whether negative impact would be useful? Thank you.
+
+A - Antoine Lissowski
+
+{BIO 4384399 <GO>}
+
+
+
+FINAL
+
+First reaction to this question. Well, it is clearly fair to think that negative interest rates have a
+negative impact. Yes, it is fair. Second, the management of the company at its top level and the
+board hasn't taken yet the decision to take sets of such root (55:05) and decided how to take it
+into account. Then, just what I can say is that we have considered the possibility to put a floor on
+negative interest rates, but at present we do not intend to do to make a floor to those interest
+rates.
+Second, the impact of that should be of certain magnitude, but I really do not know now and clearly
+we'll not disclose any extension of this impact, just save up to (55:48), so far it doesn't look as big
+as dramatic as people were expecting few months ago.
+
+A - Vincent Damas
+
+{BIO 18954595 <GO>}
+
+Thank you. So our next question comes from Thomas Fossard from HSBC. What would be the
+equivalent minimum Solvency II ratio required in order to maintain an S&P single A rating?
+
+A - Marie Grison
+
+{BIO 15895562 <GO>}
+
+Okay. I think there is no good answer to this question, because as you know S&P has a
+methodology to rate companies and it's not a simple quantitative equivalent to Solvency II ratio.
+So, there is no real minimum, because it depends off a lot of criteria of precision by S&P of the
+financial and operational profile of the company.
+
+Bloomberg Transcript
+
+A - Antoine Lissowski
+
+{BIO 4384399 <GO>}
+
+And if I may add that the S&P rating agency has publicly stated that they – of course they are
+looking at Solvency II ratio, but they want to keep their own capital model, because it's the same
+one for all over the world; however, Solvency II is only for European insurance company. And I'll
+again advise you to go to page 35 and see appendices where we have given legal fair view
+(57:20) of the difference between what is a Solvency II, Solvency evaluation in terms of capital and
+required capital and what is the S&P rating agency model and you see that on – several items there
+are quite important differences, so it's the reason why it's not – there was no direct link between
+the two.
+
+A - Vincent Damas
+
+{BIO 18954595 <GO>}
+
+Next question is also from Thomas Fossard from HSBC. What is the frequency of revision of the
+countercyclical equity dampener?
+
+A - Marie Grison
+
+{BIO 15895562 <GO>}
+
+Okay. EIOPA is recalculating the equity dampener every month.
+
+A - Vincent Damas
+
+{BIO 18954595 <GO>}
+
+And it's public on the EIOPA website, you can look at it. So, next question is from Sean Kelly (58:11)
+from JPMorgan. Thank you for the presentation. Will you be disclosing the MCR together with the
+SCR, as part of your normal reporting in February and in May?
+
+A - Marie Grison
+
+{BIO 15895562 <GO>}
+
+The answer is, yes. And I assume by May, you're meaning SFCR report and QRT, it's in the public
+disclosure.
+
+A - Vincent Damas
+
+{BIO 18954595 <GO>}
+
+Thank you. So, the next question comes from Benoît Valleaux from Natixis. What is the contribution
+of the PPE to the Solvency II margin at the end of 2015 and at the end of June 2016? What would
+be the impact of an increase in the PPE of €1 billion for example?
+
+
+
+A - Thomas Béhar
+We are not disclosing the exact numbers. When the rates are very low, you can assume that the
+impact is very low as it was in June and September, but we are not disclosing its impact. It depends
+on the level of the interest rate.
+
+FINAL
+
+A - Vincent Damas
+
+{BIO 18954595 <GO>}
+
+Thank you. Next question comes from Thomas Fossard from HSBC. How do you expect your
+Group Solvency II ratio to perform against the values ACPR, EIOPA stress test scenario simulation
+at the end of 2016?
+
+A - Marie Grison
+
+{BIO 15895562 <GO>}
+
+Okay. To my knowledge, there is no specific request on performing a stress test by ACPR at the
+end of 2016.
+
+A - Vincent Damas
+
+{BIO 18954595 <GO>}
+
+So, next question comes from Thomas Fossard from HSBC. Could you please come back on why
+you are not taking the €2.1 billion excess capital from following subsidiaries? Is this because of the
+standard formula requirements, CNP management prudence or specific constraints preventing to
+take into account the fungibility of risk capital?
+
+Bloomberg Transcript
+
+Okay. We can say that it's a prudent interpretation of the standard formula requirements.
+Thank you. A follow-up on the PPE from Thomas Fossard from HSBC. Could you clarify on the PPE
+recognized under Solvency II, any cap or recognized at its face value in full?
+
+A - Thomas Béhar
+Yes. PPE plays the role of a buffer and enables us towards a longer duration of our liabilities, and
+we have longer liabilities, we can take our loadings on the contract on longer terms, and it give us
+back, so value of infos (01:01:14) that goes to our reserve of reconciliation.
+
+A - Vincent Damas
+
+{BIO 18954595 <GO>}
+
+Thank you. So, next question is from Thomas Fossard, HSBC. Could you say a word on your
+Solvency II yearly capital generation?
+Maybe I can take this one. So, we are skeptical about using Solvency II capital generation, as a
+guide for dividend paying capability, because of the non-fungibility rule that Marie and Antoine
+have explained before. The reason is that earnings that are – capital that is generated in Brazil or
+Italy is by definition not recognized in this Solvency II ratio. So, it's not the good way to look at it,
+and at CNP, the way we measure our capital generation is based on free surplus generation under
+MCV that we disclose each six months (01:02:16), and we think that it is the good way to look at the
+dividend paying capability of CNP.
+Next question comes from Thomas Fossard, HSBC. Last updated sensitivities have been provided
+with your 2015 results, should we expect deviation next year?
+
+A - Marie Grison
+
+{BIO 15895562 <GO>}
+
+So the correct answer is, yes, but depending on the point, the market will be at the end of
+December. I think we've always said, and we said when we published also June 2016 that the
+sensitivities depends on the point, while you calculate them. And obviously if, end of December it
+is not at the same level as end of December last year, there will be change in sensitivities plus the
+fact that we will modelize negative rates.
+
+
+
+A - Vincent Damas
+
+{BIO 18954595 <GO>}
+
+Thank you, Marie. Next question is from Michael Huttner, JPMorgan. Can you say, what is the total
+positive of the UFR on Solvency II? What will be the upside? Is the PPE were fully in Solvency II?
+What levels of interest rates do we need for this? And what is the Solvency II now?
+
+FINAL
+
+A - Marie Grison
+
+{BIO 15895562 <GO>}
+
+I think on the UFR, we have nothing more to say than the sensitivity we based on the last year
+calculation that we've published. On the ways, Solvency II now, we in fact don't calculate in real
+time everything. And what is upside of the PPE, we have – perhaps we are not (1:04:14) completely
+on that, but it's not the level of PPE, it's the level of a marginal increase of the PPE, depending on
+the level of rates where we are a marginal increase is as not the same impact, but if there was no
+PPE at all, a marginal increase would have an impact.
+
+A - Thomas Béhar
+Just to add a question that we have (1:04:42) said about Article 21 (1:04:46) we'll not modelize the
+impact of an action of the national authority to stop the lapses so it's not something that we have
+in our model and we will not modelize that.
+
+A - Vincent Damas
+
+{BIO 18954595 <GO>}
+
+Bloomberg Transcript
+
+Thank you. Next question is from Thomas Fossard, HSBC. Could you please comment slide 37 and
+indicate where you are currently regarding additional sub debt issuance in terms of fundings of
+your requirements? Can you remind us what is the group maximum leverage ratio?
+So Mikaël had commented before, but it's in the footnote of slide 37, so in the graphic (1:05:31) at
+the end of June, in the footnote not if all else being equal at the end of this year, taking into
+accounts, the Tier 3 notes we have issued and the Tier 1 note that will be redeemed in December.
+And you see that, we'll get €0.8 billion of Tier 1 capacity and €1.3 billion of Tier 2 or Tier 3 issuance
+capacity. And in terms of maximum leverage ratio, we have not committed to a maximum or
+minimum leverage ratio, so there is no specific thing to say about it.
+Next question is from Thomas Fossard from HSBC. Could you please highlight, what kind of
+additional information you will be requested to disclose with the QRT in May of 2017?
+
+A - Stéphane Le Mer
+The main information that will be disclosed in the QRT as I already disclosed in our regular
+presentation, so there will be additional information for example in the balance sheet which is in
+more detail or in the – as the premiums or as the reserves, but the main information has already
+disclosed in rough (1:07:03) slides.
+
+A - Vincent Damas
+
+{BIO 18954595 <GO>}
+
+Thank you. Next question is from Ralph Hebgen, KBW. Slide 23, how do you – how do the
+sensitivities in the work reconcile with those published on slide 21 of the financial year 2015
+presentation. And as an example, Ralph, "French government yields (1:07:29)" that came down
+over the period, and the Solvency II ratios had (1:07:32) decrease, and it has – the reconciliation
+with the sensitivities?
+
+A - Marie Grison
+
+{BIO 15895562 <GO>}
+
+Okay. In fact, the sensitivities that have been published in December 2015, work more or less,
+when I say more or less, it's what we expressed is, the global movement is well captured. But you
+have a kind of convexity plus cross correlation
+
+
+
+between sensitivities that one could never explain in a five or six sensitivities. But for example,
+when we take the movement of rates between December 2015 and June 2016, while the interest
+rates decreased by 70%, which is a 20 basis point of coverage ratio, and we can do that sensitivity
+by sensitivity. The global effect is not exactly the effect, due to this impact of convexity.
+
+FINAL
+
+A - Vincent Damas
+
+{BIO 18954595 <GO>}
+
+The next question is also from Ralph Hebgen, KBW, and is a follow-up on the negative interest
+rates question. You said in Q2 conference call that with a (1:09:08) low negative interest rates in
+model (1:09:11) at the end of 2016 where – are you on that and how will this change the
+sensitivities?
+
+A - Thomas Béhar
+You will know all that in next February when we will publish our results as a number itself and the
+sensitivities will be changed due to negative rates. We are working on that, but we don't have
+results to produce to you today.
+
+A - Vincent Damas
+
+{BIO 18954595 <GO>}
+
+Thank you. Next question also from Ralph Hebgen, KBW. Inclusion of 100% SCR of subsidiaries
+whether the minority shares, is that a conservative choice of CNP rule What will Solvency II issue
+would be if you only included your ownership share?
+
+A - Marie Grison
+
+{BIO 15895562 <GO>}
+
+Bloomberg Transcript
+
+In fact it's a rule. So we don't see even though it's – if we were not applying the rule.
+
+A - Vincent Damas
+
+{BIO 18954595 <GO>}
+
+Next question is from Adam Robinson, Securis Investments (1:10:18) Within the life underwriting risk
+module, what are the most significant components making up this risk and what are the relative
+magnitudes exemplar e.g. lapse risk, mass lapse makes up 50% of the module (1:10:30) et cetera.
+Thank you.
+
+A - Marie Grison
+
+{BIO 15895562 <GO>}
+
+Okay. The main component is lapse risk, but as of now, we don't publish the exact amounts by
+component.
+
+A - Vincent Damas
+
+{BIO 18954595 <GO>}
+
+Thank you. Next question from David Damar Exane BNP (1:10:57) regarding Brazil, could you give us
+some details on all the process works in terms of choosing between the Solvency II application or
+equivalence regulatory measure application. Could you also give us some color on the latest local
+developments, are they moving towards Solvency II frameworks in terms of regulation?
+
+A - Marie Grison
+
+{BIO 15895562 <GO>}
+
+In fact, regarding Brazil, while they've been included in our Solvency II project three years ago, so it
+was something while that was already functioning when Solvency II (1:11:32) project and the teams
+they're trained to the Solvency II calculation. As of now, as a local regulator, which is called (1:11:46)
+is changing from year-to-year, the way they calculate the local solvency ratio and they might
+(1:12:03) from Solvency II then down now (1:12:05) especially by perhaps it's a project including the
+market risk.
+
+A - Vincent Damas
+
+{BIO 18954595 <GO>}
+
+Next question is from Niccolò Dalla Palma, Exane BNP. How will your asset allocation evolve in a
+context of Solvency II and IFRS 9, should we expect any significant change?
+
+
+
+A - Mikaël Cohen
+
+FINAL
+
+Our asset allocation in the context of in Solvency II has already been quite adapted, but it will – we
+will go forward leaving – having equity exposure limited to the level it is roughly it is today and
+improving our hedging techniques and hedging instruments on the equity risk. Regarding IFRS 9,
+the work is still in progress, the main consequences will be the mark-to-market sensitivity,
+especially on the funds under IFRS 9. So we cannot – that there could change in this allocation to
+cope with a sensitivity, but we cannot be very specific about it today.
+
+A - Vincent Damas
+
+{BIO 18954595 <GO>}
+
+Thank you, Mikaël. And as a remainder, IFRS 9 will be enforcing 2021, so it's not a short time term
+consume (1:13:45)
+Next question is from Benoit Valleaux, Natixis. What is the amount of future profits included in your
+Tier 1 unrestricted capital?
+
+A - Thomas Béhar
+We are not disclosing that number.
+
+A - Vincent Damas
+
+{BIO 18954595 <GO>}
+
+Bloomberg Transcript
+
+And we made the choice when preparing the presentation to stick with the QRT presentation of
+conference where the value of in force is not a concept in this framework, but it is included in the
+reconciliation reserve in fact.
+Next question is from Niccolò Dalla Palma, Exane BNP. What is the investment of the full strategic
+participation treated under Solvency II?
+
+A - Marie Grison
+
+{BIO 15895562 <GO>}
+
+Okay. For the time being, it's treated as an equity and I assume the question was, do you
+recognize that with a lower shock like a strategic participation first time being no, but you have – so
+we are kind of a using a present shock that can evolve. But it's not very material on the global
+coverage ratio as a group.
+
+A - Vincent Damas
+
+{BIO 18954595 <GO>}
+
+Next question is from Ralph Hebgen, KBW. As a follow-up where will the effect of interest spread
+show up on slide 23, the impact must be in different components of the work market SCR
+diversification et cetera?
+
+A - Marie Grison
+
+{BIO 15895562 <GO>}
+
+Okay. The main – because the market SCR, it's quite complicated because we show a global figure
+and you have a diversification effect within this market SCR, but the main impact of interest rate
+shows in the €1.4 billion decrease of loss absorbing capacity of deferred tax, because interest
+rates were lower, it means that in the projection the future profit are lower, so there is less loss
+absorbing capacity. So, in fact this decrease of interest rates are – have a double effect, the first
+effect is on own fund and the second effect is on the SCR and especially on loss absorbing
+capacity of deferred tax within SCR.
+
+Q - Vincent Damas
+
+{BIO 18954595 <GO>}
+
+So, we come to the end of the Q&A. So, this concludes today's presentation. We would like to
+thank you all for participating in our webcast. As a reminder, the presentation we used today and a
+replay of this webcast will be available on CNP website. Thank you for your participation and have a
+nice day. You may now disconnect. Bye-bye.
+
+
+
+FINAL
+
+Bloomberg Transcript
+
+This transcript may not be 100 percent accurate and may contain misspellings and other
+inaccuracies. This transcript is provided "as is", without express or implied warranties of any kind.
+Bloomberg retains all rights to this transcript and provides it solely for your personal, noncommercial use. Bloomberg, its suppliers and third-party agents shall have no liability for errors
+in this transcript or for lost profits, losses, or direct, indirect, incidental, consequential, special or
+punitive damages in connection with the furnishing, performance or use of such transcript.
+Neither the information nor any opinion expressed in this transcript constitutes a solicitation of
+the purchase or sale of securities or commodities. Any opinion expressed in the transcript does
+not necessarily reflect the views of Bloomberg LP. © COPYRIGHT 2022, BLOOMBERG LP. All rights
+reserved. Any reproduction, redistribution or retransmission is expressly prohibited.
+
+

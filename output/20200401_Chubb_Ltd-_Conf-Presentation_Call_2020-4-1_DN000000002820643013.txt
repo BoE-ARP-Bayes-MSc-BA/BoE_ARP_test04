@@ -1,0 +1,939 @@
+Company N ame: Chubb L td
+Company Ticker: CB US Equity
+Date: 2020-04-01
+
+Company Participants
+Finley T. Harckham, Senior Litigation Shareholder
+Lauren E. Lonergan, Shareholder
+
+FINAL
+
+Matthew Palazola, Senior P&C Insurance Analyst
+William C. Wagner, Shareholder
+
+Presentation
+Matthew Palazola
+
+{BIO 20969450 <GO>}
+
+Good morning, everyone. Welcome to our Bloomberg Intelligence briefing explaining
+business interruption insurance in a COVID-19 world. This call is being recorded. There will
+be a replay available on the Bloomberg Terminal.
+Just briefly what is Bloomberg Intelligence. We provide in-depth research and data on
+industries and companies. We cover over 135 industries and over 1,900 companies. The
+disclaimer, there is no actual slides for this call.
+
+Bloomberg Transcript
+
+These are the speakers today. You can access our research on BI INSUR that's property
+casualty insurance research, BI COVID is all of the COVID related research and VRUS GO
+is the hub on Bloomberg for kind of all COVID information.
+So clearly, we are in unprecedented times. Businesses around the world, big and small are
+being disrupted by the coronavirus. These businesses have insurance. But how and in
+some cases, if that insurance will respond is a huge question? Since the virus started to
+spread in US, our initial read has been that insurers may be able to avoid large scale
+claims based on communicable disease exclusions and property damage requirements,
+but risk seems to be growing. Lot will depend on court interpretations, secondary effects
+and other insurance lines and even actions by the state and federal government.
+Also in the financial analysis side of things, we are often not experts in the legal
+interpretation of insurance contracts, so we've asked some experts in the legal
+interpretation of the contracts to join us. We have Finley Harckham from Anderson Kill and
+William Wagner and Lauren Lonergan from Taft. They are, I believe all attorneys on the
+side of recovering insurance from insurance companies on behalf of insureds.
+So I am just going to dive in with first question on business interruption insurance in
+property policy. So Finley, can you just talk about some ways business interruption is
+triggered in property policies.
+
+Finley T. Harckham
+
+{BIO 3046626 <GO>}
+
+Page 1 of 15
+
+
+
+FINAL
+
+Company N ame: Chubb L td
+Company Ticker: CB US Equity
+Date: 2020-04-01
+
+Sure. The -- in fact business interruption coverage is the spot to look forward is in
+commercial property policies, and the trigger or the business interruption coverage in
+their various kinds, which we're all going to talk about is property damage. So you got to
+have property damage somewhere to trigger one of these coverages. The typical
+situation is you have damage to your own property, a fire, a flood, whatever it may be
+here in this case, the question is, if there was a presence of coronavirus would that be
+property damage to your premises. And then if there is property damage, you get
+essentially lost profits coverage, business interruption coverage or the time period that it
+would take to restore or repair the damage property. So that -- excuse me -- that's the
+basic property damage and business interruption coverage.
+Then there are -- but there are various extensions to the business interruption coverage.
+I'm going to touch on one, and then pass it over to Bill and that is contingent business
+interruption. And contingent business interruption provides coverage for your loss, if
+you're the policyholder that results from property damage to property of a supplier or a
+customer.
+
+Bloomberg Transcript
+
+And so this is a -- this is a supply chain related loss. Let's say you -- your business is
+dependent upon suppliers in China, and they suffered property damage there or even
+through the means of transportation that gets the goods or supplies to you from a place
+like China, they can be considered a supplier as well, like a port or in airport or a shipping
+company. So if they suffer property damage and that results in the loss [ph] you -- that can
+be covered.
+And then another category of contingent business interruption coverage is called leader
+property coverage is loss that you suffer because of damage to a property that attracts
+business to your business. And a classic example is, if Disney World -- when Disney World
+was shutdown in Florida, if you have a hotel nearby that's a leader property, an attraction
+property you get business because Disney World is there. And if Disney world is closed
+because of property damage that would trigger and you suffer a loss that would trigger
+your contingent business interruption coverage.
+
+Matthew Palazola
+
+{BIO 20969450 <GO>}
+
+Okay. So Finley before I jump to Lauren and Bill on that, is contingent coverage is that an
+add-on or is that -- would an insured pay more for that or is just that -- that standard.
+
+Finley T. Harckham
+
+{BIO 3046626 <GO>}
+
+It's a fairly standard coverage, but there are different versions of the coverage that can
+be found in various policies. But most commercial property policies will have some form of
+contingent business interruption coverage. If you look at the policy carefully to see how
+broad that coverage is.
+
+Matthew Palazola
+
+{BIO 20969450 <GO>}
+
+Page 2 of 15
+
+
+
+Company N ame: Chubb L td
+Company Ticker: CB US Equity
+Date: 2020-04-01
+
+Okay. That makes sense. So for Bill and/or Lauren, maybe can you talk about obviously
+we're having federal governments mandating shutdowns and stay in home orders, how
+does a civil authority trigger a play into that?
+
+FINAL
+
+Lauren E. Lonergan
+
+{BIO 20184195 <GO>}
+
+(Multiple Speakers). Yeah. The civil authority coverage is triggered when you have a
+governmental order prohibiting access to property typically the insureds property and it is
+due to the property damage or physical injury to either the insureds premises or some
+third parties premises. And the key issues really are the -- whether there is the type of
+property damage the physical injury that I think we're going to talk about in a minute, but
+also there has to be -- there has to be a nexus between the governmental order and
+prohibition and access and the property damage. And it's -- we've been looking at the
+orders, some of them are helpful. We have some ideas about how government could
+potentially expand on those and help insureds, but that's the basics of how the coverage
+works. And what you get for that coverage is the same thing as you get typically for
+ordinary business interruption coverage lost profit extra expense [ph].
+
+Matthew Palazola
+
+{BIO 20969450 <GO>}
+
+Okay. Great. So how about Bill you could tackle this one. So it seems like obviously the
+multi-billion dollar question in all of this is going to be can the virus or the presence of the
+virus or in some way the virus just be construed as property damage?
+
+Bloomberg Transcript
+
+William C. Wagner
+
+{BIO 20253176 <GO>}
+
+Well, so that is a million dollar question, and it really depends on the case law state-bystate basis, when you start looking at it at a high level. There is unfortunately a case in
+Ohio that had started out with someone, who had mold or mildew on the side of their
+building and brought a property damage claim under their insurance policy. And the ruling
+essentially said that it's something that could be washed off a bleach, it was a temporary
+condition, it didn't affect the structure or integrity of the house, it wasn't destroying the
+wood, therefore, there is no property damage. And that sort of predicated in the line of
+cases, including in Michigan.
+And there is one key line in that case, though, it says that the only time that it would be
+necessary to replace the signing would be on recommendation of a certified hygienists or
+a physician for health concerns. I think that's where a lot of the case law turned, a lot of
+the cases that have taken the opposite approach has focused on -- does the presence of
+contaminant render the property contaminated, uninhabitable or unfit for its intended use.
+And then a string of cases that have looked at asbestos dust, fumes from spilled
+ammonia, fumes from gasoline, spills inside of a premises, mold, off-gas and from
+Chinese drywall, all these instances could result in damage to property -- physical damage
+to property, and it's really turns on again case by case basis. And when you look at that,
+these policies are going to be interpreted from the point of what would an average
+insured understand the policy to cover.
+
+Page 3 of 15
+
+
+
+Company N ame: Chubb L td
+Company Ticker: CB US Equity
+Date: 2020-04-01
+
+FINAL
+
+And I think that will be some arguments that could be made to say that yes this is
+property damage. The -- one of the questions that comes in is, how are you going to
+prove that you have property damage. We are talking to certified industrial hygienists that
+are now able to take swab samples of surfaces to determine whether or not the COVID
+virus is present.
+And there are some studies that have shown in fact go into the original SAARs, the
+original virus began this in 2003. There is a study that shows that particular virus was able
+to stay viable on a stainless steel surface at a low temperature for up to 28 days. And I
+think there is a recent study by the CDC that looked at some of the cruise lines that also
+concluded that a virus was able to be found 17 days after passengers debarked from one
+of the cruise lines.
+So as a result of the present of the virus, you're going to have health department,
+medical experts, certified industrial hygienists, others testify that the premier -- presence
+of the virus renders the property either uninhabitable, unfit for its intended use or
+contaminated, so that it requires a robust disinfection. So that's how we get over the
+hurdle of proving that, yes, it is physical damage to property.
+
+Matthew Palazola
+
+{BIO 20969450 <GO>}
+
+Bloomberg Transcript
+
+Okay. So two follow-ups on that. First one is, so you mentioned, I guess, there is some
+previous case law is, how does that compare to perhaps coverage issues or other things
+in the past, meaning, is there a lot of precedent to go back on this and is there much
+related to viruses and do they differ from other contaminants?
+
+William C. Wagner
+
+{BIO 20253176 <GO>}
+
+So the case law that deals with bacteria and other pathogens goes back, I want to say to
+the 2000 time frame at least some of the case law that I'm aware of. And I think that case
+law looks at whether or not it requires some sort of a remedy, some sort of a direct action
+to make the property habitable. One of the things that I'm hearing from certified industrial
+hygienists is that this bacteria if you left it alone, it would essentially die on its own within a
+month. But that's just not practical in a business setting, right. We have to get in there and
+clean the surfaces to make sure that the containment won't spread. So I think that is going
+to sort of make this case different than some of the others.
+In the asbestos setting, asbestos is a contaminant that is going to be present until it's
+cleaned up. There are some cases that have looked at mold and mildew and other
+bacteria, Legionella, Legionnaires' disease, et cetera, and they have focused on, is there
+a standard that requires a clean up versus just having a presence. There is some cases,
+where mold was present. And the court held if it's not required to be cleaned up because
+it's not at that level, then it doesn't amount to property damage. But I think all these cases
+are going to sort of be markers on how a court will eventually interpret this decision on a
+state-by-state basis.
+
+Matthew Palazola
+
+{BIO 20969450 <GO>}
+Page 4 of 15
+
+
+
+Company N ame: Chubb L td
+Company Ticker: CB US Equity
+Date: 2020-04-01
+
+Okay. Are there any states that you would view as more policyholder friendly on this -- on
+these issues?
+
+FINAL
+
+William C. Wagner
+
+{BIO 20253176 <GO>}
+
+Well, I think, Illinois, Colorado, New Jersey, Oregon, New Hampshire. New Hampshire just
+had a Supreme Court case, where they deferred the issue of whether cat urine odor
+resulted in permanent property damage. So again, it's going to be on a case-by-case
+basis. Some of the cases that would be more in favor of the policyholder, would be
+possibly Ohio, likely Michigan. But I think some of these other cases or other states would
+be more favorable to a policyholder.
+
+Matthew Palazola
+
+{BIO 20969450 <GO>}
+
+Okay. So we move back to Finley. So really how do -- we're hearing is that, that viruses
+maybe excluded or they are not a covered peril. How does that square with let's say it is
+property damage, how do those two things interact?
+
+Finley T. Harckham
+
+{BIO 3046626 <GO>}
+
+Bloomberg Transcript
+
+Okay. So first let me just start by pointing out that some -- there are -- there are buyers
+exclusions in many policies, but there are some policies that expressly cover
+communicable diseases, whether it would be disinfecting cause or prohibition of access
+are as a result of communicable disease. So the mere fact that, if there are exclusion in
+some policies doesn't mean they exist everywhere.
+You got to check your policy to see you may actually have coverage, it's not -- it's not
+standard, but especially some of the bigger programs may have some specific coverage.
+But with respect to the exclusions, you really got to look carefully at what the exclusion
+covers. Now, many policies do have exclusions that are -- that are covered viruses and
+that covers viruses with respect to all of the different coverages in the policy, and -- and
+those policyholders may just be out of luck.
+But that is not the case in many policies, some policies have a communicable disease
+exclusion or a virus exclusion that may apply to some or not all coverages that may be
+found in a pollution or contamination exclusion. The word virus may appear in there. And
+again, sometimes those will apply to some, but not all coverages. I was looking at a -- at a
+client's policy, the other day that had a definition of pollution and contamination for an
+exclusion, it included the word virus, but it was prefaced with the language that said this
+exclusion is limited to land, air and water.
+So what's not included in land, air and water, well indoor contamination may not be
+included in land, air and water. In fact, in New York, there is a line of cases or at least a few
+cases, including a case by the highest court in New York, some years back, which said that
+asbestos particle inside a building did not constitute contamination of the atmosphere
+and we're not -- did not fall within a pollution exclusion. And there is a more recent case,
+federal court case in New York that has also held that more recent pollution exclusions do
+
+Page 5 of 15
+
+
+
+Company N ame: Chubb L td
+Company Ticker: CB US Equity
+Date: 2020-04-01
+
+FINAL
+
+not apply to indoor contamination. So if you can build an argument for your direct bottle of
+property damage and business interruption to your own premises, based upon indoor
+contamination, if that's where your virus exclusion exist, you may very well have coverage.
+As Bill said, this is going to be a state-by-state analysis because that's the way insurance
+policies are interpreted. Every state comes up with its own law on interpreting these
+policies even though many of the policies are the same. But the takeaway on these
+exclusions is, you have to look carefully to see how broadly applied they are, and where
+they appear in the policy because if they're in a pollution and contamination exclusion, it
+might not apply across the board, it might not apply to indoor contamination that may
+trigger your own property damage coverage and may trigger contingent business
+interruption coverage and it may trigger civil authority coverage.
+
+Matthew Palazola
+
+{BIO 20969450 <GO>}
+
+Okay. Fin, let me just stay with you. I think you had brought up China suppliers and
+potentially falling under contingent, how does that work internationally. So if a Chinese
+company was shutdown due to the virus, and that was your supplier, how does that work
+with a New York State company or interpreting that policy?
+
+Bloomberg Transcript
+
+William C. Wagner
+
+{BIO 20253176 <GO>}
+
+Yeah. It can get complicated because the contingent business interruption coverage can
+be extended to include orders of civil authority, so let's say, you've got -- you're getting
+your supply of widgets from China. If their plant is shut down either because of the
+presence of coronavirus at the plant or in some cases, if there is an order of civil authority
+in China because coronavirus is present assuming it's considered property damage, it's
+present near that factory and that shuts down your supply, under most policies that would
+trigger your own contingent business interruption loss. You would be entitled, if you have
+to go find another supplier at a higher cost, you loose sales that would be covered
+contingent business interruption loss.
+And also, many of these policies provide coverage for different tiers of suppliers, so it
+could be a supplier of a supplier, who suffers the loss. So if one of your suppliers is getting
+component parts, whether it's from China or whether it's from Ohio and they are
+shutdown and therefore your supplier, because the sub supplier is shutdown, your
+supplier can't deliver, you might get contingent business interruption coverage for that
+loss.
+And then finally, as I mentioned before and there is a case on this about shippers or
+entities that facilitate transportation and if they suffer damage that can be contingent
+business interruption loss as well. There was a flooding in the Mississippi River some years
+back and the Army Corps of Engineers ran a number of facilities that directly traffic and
+govern traffic on the Mississippi River.
+And when Archer Daniels Midland's couldn't get it -- its crops that it was purchasing from
+farmers to its processing facilities down the river because of damage to those Army
+
+Page 6 of 15
+
+
+
+Company N ame: Chubb L td
+Company Ticker: CB US Equity
+Date: 2020-04-01
+
+Corps of Engineer facilities that was considered contingent business interruption and it
+triggered coverage for ADM. So there are various scenarios and some are going to be
+covered and some are not. But again, you want to look very closely at your contingent
+business interruption coverage to see -- to see how far it goes.
+
+FINAL
+
+Matthew Palazola
+
+{BIO 20969450 <GO>}
+
+Okay. So this is -- for anyone, who wants to answer. We wouldn't mention specific
+companies, but if anyone was comfortable, I know that you're focused on kind of mid to
+smaller companies, but I think a lot of the pain maybe experienced by mid -- can you just
+focus on mid to large companies, I think a lot of the pain might be focused on smaller
+companies. Is there any -- from what we hear from public insurers that on these smaller
+companies, the limits are somewhat low, would you have any comment on limit size,
+maybe in smaller companies.
+And secondary to that I've read some insurers were saying maybe they could limit
+coverage to the amount of time that it might have taken a premises to clean or
+remediate, which in their view would have been a short period of time. So could anyone
+speak on any of those?
+
+Bloomberg Transcript
+
+Finley T. Harckham
+
+{BIO 3046626 <GO>}
+
+This is Finely. Maybe I'll just take the first point. The -- that oftentimes the coverage is
+limited depending on the coverage by dollar amount or by a time period. And yes, you
+would think you could disinfect rather quickly. But there is an additional coverage that's
+found in many policies call extended period of interruption coverage, which often
+provides up to a year, maybe less, a business interruption coverage for the time it takes
+your business to restore its volume of business and restore its profit level after the
+business interruption and the property damage have been remedied.
+So again, a client for example, that's a museum in New York and they had property
+damage when these orders are lifted, the question will be whether they get this
+extended period of interruption coverage because we can well imagine that people are
+not going to be flocking back to crowded spaces like museums right after these orders
+are lifted. And so that extended period of business interruption coverage may be very
+important to little companies as well as large companies because it extends that business
+interruption coverage out even after the property has been repaired.
+
+Matthew Palazola
+
+{BIO 20969450 <GO>}
+
+Okay. (Multiple Speakers).
+
+William C. Wagner
+
+{BIO 20253176 <GO>}
+
+Yeah. This is Bill. I just had a couple of thoughts based on what Finley said. There are also
+a certain buckets of coverage that many people would gloss over, for example, there's
+maybe crisis management response. So after you had your contingent business
+interruption that extends out past the time you're backup and doors are open and
+Page 7 of 15
+
+
+
+Company N ame: Chubb L td
+Company Ticker: CB US Equity
+Date: 2020-04-01
+
+FINAL
+
+customers coming in, but your -- your number of -- your amount of income is less than
+what you -- it was previously. There might be coverage to pay for additional advertising
+and other marketing efforts to help get your business backup and running.
+There is also loss assessment coverage. For example, there maybe a bucket of -- for
+small policies, I think $10,000, $25,000 to hire either a council and/or forensic accounts to
+come in and do a loss assessment to help a company determine how much income its
+lost.
+And I think one of the challenges, one of the things that we're telling our clients is, even if
+you aren't sure whether your policy has this coverage, and you don't want to spend any -the money to have an attorney to look at it. There is no harm in submitting a notice of
+loss. If you don't submit a notice of loss promptly, you could end up leaving your client. So
+absolutely submit a notice of loss and have that processed timely by the insurance
+company, it will preserve the statute [ph] limitation, should you have to file a lawsuit later
+and that's it.
+
+Matthew Palazola
+
+{BIO 20969450 <GO>}
+
+Bloomberg Transcript
+
+Okay. So let me, you mentioned the civil authority, let me jump back to that. You had
+mentioned it requiring property damage as well, and we've kind of been over whether or
+not the virus could be construed. Is that -- I guess, one question coming in is, are the civil
+authority issues they are being raised to reduce the spread of the virus, not necessarily
+because of property damages spurned on by the virus. Does that weakened the case for
+civil authority claim? Maybe Finley, if you want to answer that one.
+
+Finley T. Harckham
+
+{BIO 3046626 <GO>}
+
+Sure. Yeah, that -- that is a -- an issue that is hotly debated now and it really depends on -could depend on the geographic location and the timing. So in other words, when they
+enter these orders in New York City, I think we would all argue the presence of the
+coronavirus there was the motivating factor. It was -- it's -- sure a fear of spread was also
+a consideration, but it was there. And there is no doubt that it was there, and it's going to
+be pretty easy in some areas to establish that when these orders were entered, the virus
+was present within the distance. It's usually one mile or five miles of the insured premises
+that where you need to find the property damage to trigger that coverage.
+In other areas, it was a prophylactic measure initially to say we don't want this to spread to
+your areas, so we're going to shut you down as well. But as we're finding now the virus is
+pervasive, it's everywhere or it seems like soon it's going to be everywhere certainly a lot
+more places, and I think policyholders will have a good argument again, assuming they
+can overcome this hurdle, the property damage to say, well there may have been a time
+when this was a purely prophylactic measure, but it transformed into a concern about
+actual property damage because the property damage actually arrived.
+We had this with Hurricane Katrina claims when they abandoned the City of New Orleans,
+evacuated the City before the hurricane hit and insurance companies argued well, that
+
+Page 8 of 15
+
+
+
+Company N ame: Chubb L td
+Company Ticker: CB US Equity
+Date: 2020-04-01
+
+FINAL
+
+was a prophylactic measure. There was no damage in New Orleans or right nearby at the
+time that -- that those orders were entered, the evacuation order was entered. But
+shortly thereafter, of course, the City got cleaned and I think policyholders will have a
+good argument as long as the virus ends up being physically present at some point in
+their area that the civil authority will be triggered at some point, even if it started out as a
+purely preventative measure, which would not be covered.
+
+Matthew Palazola
+
+{BIO 20969450 <GO>}
+
+Okay. Go ahead.
+
+William C. Wagner
+
+{BIO 20253176 <GO>}
+
+And I think just -- just to -- and just to piggyback on that comment. I think there are a lot of
+state and local health departments that are now reporting the present -- the local present
+of people, who are diagnosed with coronavirus. And you also have a complicating factor is
+that of the people, who are diagnosed with coronavirus, half of them, I believe are
+showing no symptoms. They are completely asymptomatic.
+
+Bloomberg Transcript
+
+So you could have people coming into your place of business, employees, customers,
+suppliers, who look fine, feel fine, but yet are spreading the virus. And I think on the basis
+of that, if you know you're going to have a client, you may want to have some testing
+done, so that you could prove that the coronavirus was present in your place of business
+down the road, when you make your loss claim.
+
+Matthew Palazola
+
+{BIO 20969450 <GO>}
+
+So you're saying businesses now should act -- if they plan to file a claim should act now to
+have that tested because I guess, as we were saying earlier, the virus lives a finite amount
+of time on surfaces. So is that something you're advising clients to do now is to actually
+have people coming in testing the premises?
+
+William C. Wagner
+
+{BIO 20253176 <GO>}
+
+No, testing the premises and also keeping records. For example, if you're a hotel, are you
+getting any phone calls from guests, who were saying, yeah, I just got diagnosed with
+coronavirus. I was in your hotel last week on my way down to wherever the destination is
+or if you're a restaurant, do you have a customer, who calls and he suggests I was at your
+restaurant yesterday, I just got diagnosed with coronavirus. I want to let you know.
+I mean those are the type of things that business owners have to keep diligent records
+now because if you're not making -- keeping a journal for example, on a daily basis, you're
+going to forget about these type of events years from now, should your case end up
+going into litigation, right. So if you can -- if there is grounds to have your property tested,
+I think you should. If you have secondary evidence of customers, employees, anyone who
+has been into property, who has been diagnosed with coronavirus, I think you should keep
+that information.
+
+Page 9 of 15
+
+
+
+Company N ame: Chubb L td
+Company Ticker: CB US Equity
+Date: 2020-04-01
+
+FINAL
+
+I think we're getting estimates now that just to have the swabs tested, I think is about
+$200 per sample, not including the collection costs in the five to seven day turnaround
+period. So given those circumstances and given that do we know that this loss is going to
+be for 30 days, 60 days, 90 days, do you want to take some samples on a regular basis
+to see you can prove your claim, the later point in time. These are all questions that are
+brand new that we're all sort of feeling our way through the dark, as we go forward, so.
+
+Matthew Palazola
+
+{BIO 20969450 <GO>}
+
+Okay. So -- go ahead.
+
+Lauren E. Lonergan
+
+{BIO 20184195 <GO>}
+
+Bloomberg Transcript
+
+Yeah. Just -- I just want to piggyback one thing that Finley said. So on the civil authority,
+one of the questions I think that's out there is whether the insured has to prove the
+presence of the virus in the adjacent property, the property within five miles. My own view
+would be that if the governmental agency in its order says it's present in property in the
+vicinity needed to trigger the coverage that -- that alone might be enough, so that
+especially when we're talking about smaller insureds like restaurants and things like that.
+That might be a way to make it a bit easier for them.
+And so, for instance, one of the things, it would be helpful here is that the governmental
+orders actually said that. Some of them come very close, but or if they were to make
+findings, I'm sure that in some cases we know that health authorities are in fact out there
+testing. For instance, Dr. Birx has been talking about the presence of the virus on the
+surfaces in the New York subway things like that could be very helpful to especially smaller
+insureds. So it's something for all of us to think about and consider asking our local
+authorities to do.
+
+Matthew Palazola
+
+{BIO 20969450 <GO>}
+
+Okay. So you're saying right now, the local authority orders are, I guess, somewhat light on
+cause for trigger of claims?
+
+Lauren E. Lonergan
+
+{BIO 20184195 <GO>}
+
+I think it's going to be. So if they say nothing, then I think the insured will be in a position to
+present evidence that the reason that they did it was -- was the presence of the virus. If
+they say was issuing the order because people in our community have COVID-19 that
+maybe -- maybe more challenging. It might have to be -- it might be necessary to show
+that there was -- that the presence of people were the contaminants, and also means
+there's contaminants on the surfaces of the property that is needed to trigger the
+coverage, but they can make those findings.
+And I think we've been looking at the orders, many of them are -- they are very helpful
+especially for smaller insureds, but they could go a bit further. And I think make those
+findings in the actual orders, which would and they could do it now. I mean even if -- as
+Finley certainly suggested, it was initially intended to be preventative because they didn't
+Page 10 of 15
+
+
+
+Company N ame: Chubb L td
+Company Ticker: CB US Equity
+Date: 2020-04-01
+
+know. I think they probably know better now, whether it's present on surfaces within the
+community, and I think that if they were to reissue orders now with specific findings that
+would be extremely helpful.
+
+FINAL
+
+Matthew Palazola
+
+{BIO 20969450 <GO>}
+
+Okay. So let me just jump to some questions from the webinar. For anyone, is there a
+comment on the jurisdiction over BI claims. Is it the location of the insured premises or the
+state of the insurer?
+
+Finley T. Harckham
+
+{BIO 3046626 <GO>}
+
+This is Finley. That's an excellent question. Because as I think we've all alluded to, these
+issues are going to be decided in each state, and it's not uncommon that you get
+different results from courts in different states on interpreting the exact same policy
+language. It's happened on lots of important issues in insurance coverage. So you have
+that you have -- what you have that you call a choice of law issue.
+
+Bloomberg Transcript
+
+If you're a small business, and you've got one location in one state, it's probably pretty
+clear that unless there is a choice of law provision in the policy, which says the different
+state law applies, it's probably going to be the law or [ph] the state, where your business
+is. But if you're a company with operations throughout the country, maybe throughout the
+world, there maybe a choice of law provision in the policy, often times a default is to
+either the place of your headquarters or to a place, where the damage was sound, but
+there are various legal tests for that and different courts use different tests for that.
+So if the courts end up all over the math in terms of whether there is coverage for this
+type of situation, we lawyers are going to engage in a lot of analysis of figuring out where
+we want to file for our clients, where they've got the best chance of getting a favorable
+law applied and sometimes that's a complicated question. But if you're a little business,
+you're located in one state chances are that state law is going to be applied unless there
+is a choice of law provision specifically in the policy.
+
+Matthew Palazola
+
+{BIO 20969450 <GO>}
+
+Okay. Great. One more from the webinar maybe Bill or Lauren can take this. Do most
+policies include an aggregate limit that may come into play.
+
+William C. Wagner
+
+{BIO 20253176 <GO>}
+
+Yeah. (Multiple Speakers). Yeah, most policies have a policy limit that they will pay out
+either on the business interruption, contingent business interruption or if that a
+subcategory it's limited by time, as Finley said earlier, 60 days one year on the contingent
+business interruption up to the policy limit. So I don't think I'll ever pay out more than the
+policy limit.
+
+Matthew Palazola
+
+{BIO 20969450 <GO>}
+Page 11 of 15
+
+
+
+Company N ame: Chubb L td
+Company Ticker: CB US Equity
+Date: 2020-04-01
+
+Okay. And but there are -- a total aggregate limit, so if one piece of the BI perhaps could
+that chew up the entire aggregate limit on the policy or would a sub-limit (Multiple
+Speakers).
+
+FINAL
+
+William C. Wagner
+
+{BIO 20253176 <GO>}
+
+It depends. It depends, if there is a sub-limit or if it just applies against the actual limit for
+the policy. That's going to be again, on a policy-by-policy basis well, you would just have to
+look at policy.
+
+Matthew Palazola
+
+{BIO 20969450 <GO>}
+
+Okay. How about this one. So we've talked about property lines of business in BI pretty
+exclusively here. What do you think exposure is in casualty lines, so general liability,
+directors and officers, and even you probably don't get into workers comp, but do you
+think -- how do you think the size -- the magnitude of that. I guess, I'd call it risk to insurers
+measures up against this property side? How about Finley?
+
+Bloomberg Transcript
+
+Finley T. Harckham
+
+{BIO 3046626 <GO>}
+
+I think that's the next wave and so we're going to have to see what happens. There is no
+doubt it seems that there are going to be suits against companies for allegedly
+mishandling this coronavirus situation either with their employees, and there are actually
+well, maybe some interesting issues in terms of workers comp or their workers comp
+applies or not, where you're sending your workers to work at home and they can attract
+the disease.
+So there could be some workers comp related issues, general liability related issues of
+people saying, I was injured because you mishandled the response to this situation. And
+then directors and officers, the policies maybe implicated if shareholders may well bring
+suits down the road to say company's Board mishandled the situation or was unprepared
+for the situation. But I think -- I think that's kind of the next wave that we -- at least I haven't
+seen much of that type of allegation thus far. But I think lots of policyholders are
+concerned that -- that maybe coming down the road.
+
+Matthew Palazola
+
+{BIO 20969450 <GO>}
+
+Okay. So Bill as a follow-up --
+
+William C. Wagner
+
+{BIO 20253176 <GO>}
+
+This is Bill. Just to -- yeah, just -- just to piggyback off what Finley just said. So there are
+some lawsuits that are being filed and the ones to watch the cruise line industry. So there,
+the CDC has actually done studies of the crew members and the passengers and found
+that, for example, there was a CDC study and it's morbidity and mortality weekly report
+of March 23 that said that on the Diamond Princess, for example, there were crew
+members that were asymptomatic and during cruise A and then by the time of cruise B,
+they became symptomatic and then passed on the virus to passengers.
+Page 12 of 15
+
+
+
+FINAL
+
+Company N ame: Chubb L td
+Company Ticker: CB US Equity
+Date: 2020-04-01
+
+So there is a lawsuit that's already been found, I believe, in relation to that where it's
+pretty easy to prove that, yes, my virus occurred while I was at cruise -- a passenger on a
+cruise line in the middle of the ocean. Now the more difficult problem is going to be, if you
+claim that you contracted coronavirus from going to a restaurant or going to a hotel that is
+going to be a much higher difficult, much more difficult burden to prove because then
+you're going to have to prove that you actually did contracted that the virus was present
+at the restaurant, for example, at the time that you were there that there was a greater
+chance that they almost occurred from that location and your damage is related to that as
+opposed to catching up from somewhere else.
+Another issue on the directors and officers cases that we've seen, there have been some
+lawsuits had been filed, where investors have sued corporations and management on the
+basis of shareholder lawsuit saying that the management downplayed the threat of the
+coronavirus, they downplayed the risk. And as a result of that investors continued to invest
+good money after bad [ph] into these companies. And so there are shareholder lawsuit
+saying that as a result of that fraudulent statement or misrepresentation that they have
+been harmed. And I think with the market bottoming out, I think you're going to find those
+suits much more prevalent as time goes on.
+
+Matthew Palazola
+
+{BIO 20969450 <GO>}
+
+Bloomberg Transcript
+
+Okay. That makes a lot of sense. So follow-up question from the webinar. What do you
+think about companies, who may not have coverage turning around and perhaps suing
+their Insurance agents and brokers for not properly covering them? How about Finley take
+that one?
+
+Finley T. Harckham
+
+{BIO 3046626 <GO>}
+
+It's -- again may depend upon the jurisdiction that they're in, in New York, where [ph] I
+practice. The insurance broker generally has no duty to tell or advise the policyholder
+about what types of coverage, they need or should get. They are really an order taker.
+But if you sign a client services contract in which you agree to provide advice as to what
+type of coverage to get then that could open the door to sue against the broker for
+failing to properly advise the client.
+So if you have a -- at least in New York, you need that type of client services relationship,
+in some other states, you don't need to have that if you're the broker of record then that
+can impose duties upon you without even having a broad and specific agreement to
+advise the client. But it really varies from -- from jurisdiction to jurisdiction and depending
+on whether or not, you have an actual client services agreement with your broker or it's
+been there is -- the other issue of whether or not it's -- this was something that the broker
+should have anticipated and whether there was any negligence in any event. But the
+threshold issue of whether or not you can go after them may depend on state law and
+the nature of your contract with the broker.
+
+Matthew Palazola
+
+{BIO 20969450 <GO>}
+
+Okay. So Bill, go ahead.
+Page 13 of 15
+
+
+
+Company N ame: Chubb L td
+Company Ticker: CB US Equity
+Date: 2020-04-01
+
+FINAL
+
+William C. Wagner
+
+{BIO 20253176 <GO>}
+
+Yeah. One more point. I've seen some lawsuits, where restaurants are filing lawsuits
+against their broker saying, for example, a virus or bacterial or micro organism
+contaminant that is the highest risk that I have as a restaurant owner next to a slip and fall,
+right, is that something is going to be passed on from my restaurant and injure the patron
+and is that something I expected my broker to look at and procure insurance for at least
+make the recommendation. So I could make a conscious decision on whether or not to
+buy that insurance. That's one thing.
+I also encourage people don't -- right now be discouraged that there is no insurance
+coverage because we talked about this in the pre-call, but there are some states that are
+advancing legislation to try to read these type of virus exclusions out of the policy. Ohio,
+Massachusetts have a new law. New Jersey proposed a law, it was tabled. But there were
+some states that are considering whether for small businesses, I think Ohio is 150
+employees or less.
+
+Bloomberg Transcript
+
+I think, Massachusetts, maybe 100 employees or less. If you bought a commercial
+property policy that had business interruption coverage that there is some legislation to
+propose that you won't have to worry about, was there a direct physical property
+damage, that is what is it, there is business interruption coverage. They will treat the virus
+as resulting in property damage and also that they will read some of these exclusions,
+some of these virus exclusions out of the policies. So I would again, make a claim whole
+tight [ph] and it may be a long -- a long road ahead. But I wouldn't abandon any claims at
+this point.
+
+Matthew Palazola
+
+{BIO 20969450 <GO>}
+
+Okay. That was going to be my last topic. So maybe Finley, if you don't mind weighing in
+on that proposed legislation. I think I would assume insurers would fight pretty hard again
+something like that. What do you think the -- if you could handicap at the odds of
+something like that happening actually even or?
+
+Finley T. Harckham
+
+{BIO 3046626 <GO>}
+
+Well, there were a couple of different ways it can be done. One is to try and legislate a
+change in the terms of the policies. And I think, of course, the insurance companies are
+going to fight that. There are constitutional problems with that because you have the right
+to contract, people have the right to contract. And it seems to me the insurance industry
+will have a pretty good argument that the states cannot pass laws to change existing
+contracts.
+Having said that there is another way that some of these states that Bill mentioned are
+going about it which, for example, the New Jersey bill, which says, we're going to read
+the -- the virus exclusion out of these policies or any problem of property damage, we're
+going to have the Insurance company adjust the claim and then we're going and pay the
+claim and then they'll be reimbursed by the state, where they will adjust the claim and the
+state will pay the claim.
+Page 14 of 15
+
+
+
+Company N ame: Chubb L td
+Company Ticker: CB US Equity
+Date: 2020-04-01
+
+FINAL
+
+I think if states are really willing to incur that kind of a cost, that's a much more realistic way
+of trying to do it. If -- the insurance companies, I think it's probably still opposed because
+they don't want to be spending a lot of time adjusting claims and incurring expense. But at
+least that's a plausible way of getting around the legal challenges, if the state -- if the
+state is willing to ultimately foot the bill for the damage and maybe reimburse the
+insurance companies, who are having to adjust the losses, then you get around this
+problem of we've got a contract and we're entitled to enforce it.
+
+Matthew Palazola
+
+{BIO 20969450 <GO>}
+
+Okay. So we're kind of coming on time. We got a couple of questions left in the queue,
+but I think we'll try to follow-up with them offline. I really want to thank everyone that this is
+really an informative call. I think this is going to be an issue. It's going to be with us for a
+long time. So you can stay tuned on BI INSUR GO on the Bloomberg Terminal, and really
+thanks a lot to all of our call participants. Thank you.
+
+Finley T. Harckham
+
+{BIO 3046626 <GO>}
+
+Thank you.
+
+William C. Wagner
+
+{BIO 20253176 <GO>}
+
+Bloomberg Transcript
+
+Thank you.
+
+This transcript may not be 100 percent accurate and may contain misspellings and other
+inaccuracies. This transcript is provided "as is", without express or implied warranties of
+any kind. Bloomberg retains all rights to this transcript and provides it solely for your
+personal, non-commercial use. Bloomberg, its suppliers and third-party agents shall
+have no liability for errors in this transcript or for lost profits, losses, or direct, indirect,
+incidental, consequential, special or punitive damages in connection with the
+furnishing, performance or use of such transcript. Neither the information nor any
+opinion expressed in this transcript constitutes a solicitation of the purchase or sale of
+securities or commodities. Any opinion expressed in the transcript does not necessarily
+reflect the views of Bloomberg LP. © COPYRIGHT 2022, BLOOMBERG LP. All rights
+reserved. Any reproduction, redistribution or retransmission is expressly prohibited.
+
+Page 15 of 15
+
+

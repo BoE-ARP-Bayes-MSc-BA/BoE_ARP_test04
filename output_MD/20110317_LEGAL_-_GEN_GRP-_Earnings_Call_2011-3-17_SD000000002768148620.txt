@@ -1,0 +1,746 @@
+Company N ame: L egal & General Group PL C
+Company Ticker: L GEN L N Equity
+Date: 2011-03-17
+
+Q4 2010 Earnings Call
+Company Participants
+FINAL
+
+John Whorwood, Group Treasurer
+Justin Brown, Annuities
+Matt Hotson, IR and Strategy Director
+Paul Stanwick
+Simon Burke , Group Tax Director
+Tim Stedman, Actuarial Function Holder
+Unidentified Speaker, Company Representative
+Wadham Downing, Finance Director
+
+Other Participants
+Andy Hughes , Analyst
+Blair Stewart, Merrill Lynch
+Greig Paterson, Analyst
+
+Bloomberg Transcript
+
+Oliver Steel, Analyst
+
+Presentation
+Operator
+Hello and welcome to today's Legal & General preliminary results 2010 technical
+conference call. During this call all participants will be in listen-only mode. After the
+presentation there will be an opportunity for questions.
+I will now hand you over to your first speaker, Matt Hotson, Director of Investor Relations.
+Matt, over to you.
+
+Matt Hotson
+
+{BIO 15471425 <GO>}
+
+Thank you. Good afternoon, everybody. Good to see a number of you on the line. We
+thought this morning's results were reasonably straightforward. And I guess, the calls that
+we got this morning didn't throw a huge amount of difficult problems that we have taken
+into this afternoon's session. Although we have had one or two queries that we are going
+to walk through first.
+The same format as we have done before. We will sort of do a listen-only Q&A session
+where I will read the question, and some of the technical experts who I've got in the room
+with me here will answer. Then we will open up the call to any other questions that people
+have got after that.
+Page 1 of 12
+
+
+
+Company N ame: L egal & General Group PL C
+Company Ticker: L GEN L N Equity
+Date: 2011-03-17
+
+So with no further ado, we will kick off. The first two or three questions are regarding
+some of the actuarial reserving and modeling, which Tim Stedman is going to answer. First
+of all, on BPA data loading. What is it and how is the GBP59 million positive effect from
+BPA data loading, how should we think about that going forward?
+
+FINAL
+
+Tim Stedman
+
+{BIO 19448392 <GO>}
+
+So what is it? I think most of you are fairly familiar, but when we write a BPA contact it does
+take us a period of time before we can finalize the scheme data with the trustees, and
+finally load that data onto our admin systems.
+We don't take any material risk against that data, but until we've got certainty over it, we
+hold some prudence within the reserves for just the uncertainty around the data. Once
+the scheme is loaded we can release that prudence.
+So toward the end of 2008 and early 2009 we wrote a fairly significant number of
+schemes which we couldn't load onto the admin systems in the short term. Those
+schemes during 2010 went through the loading and verification process. And so we were
+able to release the prudence in the reserves and that is what you can see coming through
+today.
+
+Bloomberg Transcript
+
+Matt Hotson
+
+{BIO 15471425 <GO>}
+
+Okay, next question is on inflation modeling benefit. Where there are some numbers in
+the accounts specifically what have we changed in order to produce that benefit. Tim
+again.
+
+Tim Stedman
+
+{BIO 19448392 <GO>}
+
+This was something that came through at the half-year. As we said then, we prefer[ph] a
+rolling program of reviewing our models. In the first half of 2010 we looked at the inflation
+modeling around deferred annuities, and there were two elements where we were able
+to improve the modeling.
+First of that relates to the inflation of benefits just in the year prior to retirement, where
+actually -- the benefits stop inflating sort of six to nine months before the contract vests,
+but the models were assuming that the benefits continued to inflate. So we basically
+improved the modeling around that, which released some liability.
+And the second thing that we did was improve the modeling around our cap and collar
+benefits. These are ones where increases are capped at a certain rate of increase, and if
+inflation goes above that then the cap kicks in. And in some of those we found in some
+instances we are adding a bit too much inflation, sort of exceeding the cap. So we were
+prudent -- and again, we have improved the modeling there. And the net effect of both of
+those added up to GBP84 million.
+
+Page 2 of 12
+
+
+
+Company N ame: L egal & General Group PL C
+Company Ticker: L GEN L N Equity
+Date: 2011-03-17
+
+Matt Hotson
+
+{BIO 15471425 <GO>}
+
+Then the final one in this area is the GBP43 million reserve release in protection.
+
+FINAL
+
+Tim Stedman
+
+{BIO 19448392 <GO>}
+
+The vast bulk of this relates to a release of margin, again, at the half-year around
+improving our modeling of waiver of premium. Then towards the end of year when we
+reviewed the basis for the sort of standard sort of annual review there were a few other
+small items plus and minus.
+
+Matt Hotson
+
+{BIO 15471425 <GO>}
+
+Okay, moving on to a question, which I think got raised briefly this morning, but a bit of
+follow-up questions on it in terms of the interplay between the increase in the Euro CP
+paper and the reduction in the Triple X reserves, which John Whorwood, Group Treasurer,
+is going to respond to.
+
+Bloomberg Transcript
+
+John Whorwood
+
+{BIO 15470378 <GO>}
+
+The question related to actually the full effect last year of the Triple X -- the first
+securitization in terms of the Triple X Group of the Potomac Dutch Auction securities. And
+we financed that while producing commercial paper. So we spent a total of $360 million
+on buying back notes, and that represented the $440 million par value of the total $550
+million securitization. And that was financed by using CP. So the principal reason for the
+increase in our CP at the year-end relates to that.
+At the same time you will have seen that the nonrecourse Triple X debt on the balance
+sheet relates to the Fairmac[ph] issue, also reduced by the (inaudible) we actually
+purchased.
+There was a gain on the buyback circa[ph] 80 million, and that was reflected in the
+international investment payers[ph] which reported a figure of 28 million of the 35 million
+reported in 2010 that was vested[ph] in 2009 as well.
+So we did talk about in the call earlier this year about the US capital restructuring that we
+are able to replace the Potomac Triple-X financing with an internal Triple-X reinsurance
+solution. And that allowed us to repay the Potomac notes.
+
+Matt Hotson
+
+{BIO 15471425 <GO>}
+
+Okay. Thanks, John. A couple of questions on the assets backing the annuity portfolio.
+One on the increase in sovereigns, or relative increase in sovereigns. Was that a Solvency
+II preplanning issue which Paul Stanwick[ph] is going to pick up.
+
+Paul Stanwick
+Page 3 of 12
+
+
+
+Company N ame: L egal & General Group PL C
+Company Ticker: L GEN L N Equity
+Date: 2011-03-17
+
+FINAL
+
+Thanks, Matt. The answer to that question is that we actually did the trade because we
+felt it was an economically sensible trade to do, not because of a Solvency II requirement.
+The basis of the trade was the disconnection in the markets between the level of swaps,
+the level of gilts, and the level of credit between short-dated and long-dated assets. We
+felt that long dated gilts reflected a better return over swaps than the short-dated credit
+that we had.
+We executed the transaction, and the reason it came out neutral on earnings is just the
+way that the risk premium is reflected back in through the results.
+
+Matt Hotson
+
+{BIO 15471425 <GO>}
+
+Okay, moving on to the disclosures on PIIGS Bank Tier 1 debt, and we have had a followup question on how that -- does that include the exposures within the CDO, which Justin
+Brown is going to pick up.
+
+Justin Brown
+
+{BIO 19943344 <GO>}
+
+First of all on the PIIGS' and the Group's coordinated bank exposures it is for debt
+securities only, i.e., we do not look to the reference entities in the CDOs.
+
+Bloomberg Transcript
+
+We think this is a reasonable approach is the subordination in the CDO structures. I mean,
+that losses on the reference entities are diluted from a shareholder perspective, and
+hence are not a natural fit for the debt securities table.
+For the CDOs, the (inaudible) CDOs reflect the underlying risks in the reference entities.
+On this basis it is fair to conclude that the proportion of subordinated holdings in the
+CDOs is not material. Therefore, the majority of the CDO portfolio will have no exposure
+to Tier 1.
+
+Matt Hotson
+
+{BIO 15471425 <GO>}
+
+Okay, moving on to cash flow and our cash flow disclosure, I think this is a question from
+Oliver at Deutsche about the difference between the disclosure we gave last year and
+the disclosure we gave this year in terms of the 2011 and 2012 VIF utilization profiles and
+just trying to explain the difference. Wadham Downing is going to attempt an explanation
+to that.
+
+Wadham Downing
+
+{BIO 17627522 <GO>}
+
+Thanks, Matt. The difference between the numbers is almost entirely due to the change in
+the profile of the models, one-off short-term capital releases, which are not included in
+the operational cash generation numbers.
+These items are expected to manifest in experience and/or investment variances and
+augment the IGD surplus. They primarily relate to the model benefit that brought forward
+tax losses in LGAS and over time should reduce to zero. The expected operational cash
+Page 4 of 12
+
+
+
+Company N ame: L egal & General Group PL C
+Company Ticker: L GEN L N Equity
+Date: 2011-03-17
+
+flows remain broadly in line with what was disclosed in the half-year 2010 and the full-year
+2009 numbers.
+
+FINAL
+
+Matt Hotson
+
+{BIO 15471425 <GO>}
+
+Okey. Another quick one for Wadham, which was a follow-on from Andy Hughes' question
+at Exane this morning on how much of the EV is annuity rated. Nigel said 2 billion. We
+thought we would just check that.
+
+Wadham Downing
+
+{BIO 17627522 <GO>}
+
+Yes. The disclosure you gave is for GBP4.2 billion and use of[ph] this element before cost
+of capital is, in fact, GBP2 billion. After cost of capital the numbers are GBP3.9 billion and
+GBP1.7 billion, respectively.
+
+Matt Hotson
+
+{BIO 15471425 <GO>}
+
+Okay, on to tax. A couple questions on tax for Simon Burke. So does having the use of
+losses have an impact on the EEV effective tax rate? And what ratio would be applied to
+the EV results in 2011?
+
+Bloomberg Transcript
+
+Simon Burke
+
+{BIO 19146780 <GO>}
+
+Thanks, Matt. There is no impact on the tax rate and EV profit from the losses in 2010.
+That is very similar to the first[ph] impact. In terms of modeling the EV results, I would use
+the statutory tax rate going forward.
+
+Matt Hotson
+
+{BIO 15471425 <GO>}
+
+The second one on tax -- on deferred taxes. This is one from Raghu at Citi. Reconciliation
+of the GBP300 million fall in the deferred tax asset on the asset side with the changes in
+the P&L, which were GBP125 million in Risk, and GBP39 million in Savings, and how does
+that all stack up again? Simon Burke.
+
+Simon Burke
+
+{BIO 19146780 <GO>}
+
+So those numbers refer to the movement in deferred tax in operating profit, the GBP125
+million and the GBP39 million, whereas the GBP300 million or GBP301 million, actually,
+movement on the IFRS balance sheet is the total. So the difference between what has
+gone through operating profit and the total balance sheet movement is investment
+variance.
+
+Matt Hotson
+
+{BIO 15471425 <GO>}
+
+Okay. Thank you. So moving back now to the final -- prepared question we've got was on
+the change to the new CMIB tables. What was it, and have we adjusted other margins on
+that basis? That is one back to Tim Stedman.
+Page 5 of 12
+
+
+
+Company N ame: L egal & General Group PL C
+Company Ticker: L GEN L N Equity
+Date: 2011-03-17
+
+Tim Stedman
+
+{BIO 19448392 <GO>}
+
+FINAL
+
+Yes, so the GBP59 million charge includes the cost of both updating the tables, together
+with changes to the base used to reflect 2010 experience. I think I would remind you that
+we took about a GBP90 million positive for experience last year. And we don't really think
+that the GBP59 million charge is massively material in the context of a book of GBP25
+billion.
+Generally, we are happy -- or we were happy with the level of prudence in our annuitant
+mortality basis. So the changes in the base tables and the parametization of the CMI
+model have given a broadly neutral cost. But we think that the new tables have got a
+much better shape.
+
+Matt Hotson
+
+{BIO 15471425 <GO>}
+
+Okay, that's the end of the sort of pre-sent in questions we have. We've got a couple of
+other ones that I got from Raghu, which we need a little bit of time to think about on
+contingent loans and impact of annuitant rates on one or two things, which we will come
+back to separately.
+But we will now open the call up to questions if anybody else has got anything else they
+want us to give a view on. Back over to you, Hugh.
+
+Bloomberg Transcript
+
+Questions And Answers
+Operator
+(Operator Instructions) Oliver Steel, Deutsche Bank.
+
+Q - Oliver Steel
+
+{BIO 6068696 <GO>}
+
+A very simple question, which is, do you have a figure for total assets under management
+or assets under administration? I've got the GBP353 billion that you described for LGIM.
+You've got another GBP11 billion of retail and other. Does that include all of the annuity
+business, all of the Savings business for which you give separate inflows disclosure?
+
+A - Matt Hotson
+
+{BIO 15471425 <GO>}
+
+I can probably answer that, which is rare on a technical call, so I'll make the most of it. The
+GBP354 billion in LGIM is the assets that LGIM manages. That includes all of LGIM's client
+money, which is in total, I think from memory, is the pack of about GBP260 billion. That is
+75% of that number.
+It also includes all of the annuity assets. It includes the vast majority of the Savings assets,
+although there are some Savings contracts where they have been sold with an open
+market option, so there are some funds that go to other asset managers. And it includes
+all of the shareholder funds as well.
+
+Page 6 of 12
+
+
+
+Company N ame: L egal & General Group PL C
+Company Ticker: L GEN L N Equity
+Date: 2011-03-17
+
+If you reconcile all those numbers together you should get to something around the
+GBP354 billion. So I think the total number is the quoted number four LGIM.
+
+Q - Oliver Steel
+
+{BIO 6068696 <GO>}
+
+FINAL
+
+Okay. Thanks.
+
+Operator
+Blair Stewart, Banc of America; Merrill Lynch.
+
+Q - Blair Stewart
+
+{BIO 4191309 <GO>}
+
+Just one question. Just on the movement in non-cash items for Risk. It is mainly the
+deferred tax movement, it went from (221) negative to (125) negative. What is the best
+guidance you can give on how that number is going to move over the next couple of
+years. Thanks.
+
+A - Matt Hotson
+
+{BIO 15471425 <GO>}
+
+Okay, I will pass that one over to Simon Burke, Head of Group Tax.
+
+A - Simon Burke
+
+{BIO 19146780 <GO>}
+
+Bloomberg Transcript
+
+Well are you asking about the impact on operational cash generation or just literally on
+(inaudible)?
+
+Q - Blair Stewart
+
+{BIO 4191309 <GO>}
+
+No. The operational cash generation, I think you have been clear about the GBP60 million
+benefit that will drop away in 2013, if I'm not wrong. It is just really on that line item, is that
+just going to gradually go down to zero or how should we model that?
+
+A - Simon Burke
+
+{BIO 19146780 <GO>}
+
+I would have thought it would run at about that level for a couple more years.
+
+A - Unidentified Speaker
+I would say the core part of it will probably run down probably by 2013, (inaudible).
+
+A - Matt Hotson
+
+{BIO 15471425 <GO>}
+
+So the deferred tax asset is really made up of a short-term element and a long-term
+element. The short-term relates to the losses on the LGPL set-up and taking of the
+increased default rates. They will run off until about 2013. The longer-term element is a
+whole lot of other things, which runs on into 2020, from memory. I think we did answer
+that question about this time last year.
+
+Page 7 of 12
+
+
+
+Company N ame: L egal & General Group PL C
+Company Ticker: L GEN L N Equity
+Date: 2011-03-17
+
+So I guess there is a reasonable amount of short-term of element in that -- in the Risk
+part, which will fall off in 2013, and then it will be reasonably flat for a few years to come.
+
+FINAL
+
+Q - Blair Stewart
+
+{BIO 4191309 <GO>}
+
+Okay, so it stays at around current levels for a couple of years than maybe drops down a
+step, and then stays at a lower level after that. Is that -- would that be a fair approach,
+probably correct?
+
+A - Unidentified Speaker
+Yes.
+
+Q - Blair Stewart
+
+{BIO 4191309 <GO>}
+
+Super, thanks.
+
+Operator
+Greig Paterson, KBW.
+
+Q - Greig Paterson
+
+Bloomberg Transcript
+
+Just two questions. One is the annuity margin was reasonably flat year-on-year, but you
+put through a mortality strengthening. So I was wondering just what the other items were
+that there must have been a big positive there?
+The other point is, just so I can get a feel for what the change in the mortality was, I
+wonder if you could say, if it was a standard 65-year-old male what is the expectation of
+life now in the reserves and what was it before then on the EV as well?
+
+A - Matt Hotson
+
+{BIO 15471425 <GO>}
+
+I've got a few people just scrambling through packs, just to try and find the answers. I
+think the 65-year-old male numbers are in the pack, which somebody -- Tim is --.
+
+A - Tim Stedman
+
+{BIO 19448392 <GO>}
+
+Page 91, I think.
+
+A - Matt Hotson
+
+{BIO 15471425 <GO>}
+
+Page 91 of the pack. But Tim can just give you the quick headlines.
+
+A - Tim Stedman
+
+{BIO 19448392 <GO>}
+
+Best estimate 24 years, last year 24.5. And on the reserving basis this year 25.6, and last
+year 25.7. (multiple speakers).
+
+Q - Greig Paterson
+Page 8 of 12
+
+
+
+Company N ame: L egal & General Group PL C
+Company Ticker: L GEN L N Equity
+Date: 2011-03-17
+
+Sorry, say that again. So on the EV there was a significant change. There was not much
+change on the statutory (inaudible) side.
+
+A - Tim Stedman
+
+{BIO 19448392 <GO>}
+
+FINAL
+
+Yes, broadly. If you call half a year significant.
+
+Q - Greig Paterson
+Then so why did the annuity margin not go down?
+
+A - Tim Stedman
+
+{BIO 19448392 <GO>}
+
+I think the margin is made up of a number of things. Obviously, it is business mix, the price
+you charge in the market. To some extent, I think we knew some of these changes were
+going to be coming, so they got reflected in prices during the course of the year.
+
+A - Unidentified Speaker
+The GBP59 million is spread across the whole book, so, therefore the impact on new
+business is relatively trivial. And I believe we have been probably pricing recent new
+business closer to the CMIB tables, and therefore the impact is diluted even more.
+
+Q - Greig Paterson
+
+Bloomberg Transcript
+
+So you pulled back your pricing (type) thing?
+
+A - Unidentified Speaker
+Yes, so the pricing effect of the new mortality tables was already in there before the
+charge at the year-end.
+
+Q - Greig Paterson
+Should that not have hurt volumes quite materially or did everyone follow you type thing?
+
+A - Unidentified Speaker
+Well it clearly hasn't hurt margins.
+
+Q - Greig Paterson
+Volumes, volumes. I'm just trying to understand.
+
+A - Unidentified Speaker
+I think the militarily change in isolation would have a pretty small impact on the price.
+
+Q - Greig Paterson
+All right. Thank you.
+
+Page 9 of 12
+
+
+
+Company N ame: L egal & General Group PL C
+Company Ticker: L GEN L N Equity
+Date: 2011-03-17
+
+Operator
+Before we go into onto Andy Hughes from Exane BNP Paribas, (Operator Instructions) And
+Andy, over to you.
+
+FINAL
+
+Q - Andy Hughes
+
+{BIO 15036395 <GO>}
+
+(inaudible) talking about shares; that was quite funny. Just a couple of questions. Just a
+clarification on the EV number. So I take the GBP1.7 million net of tax, presumably I need to
+add GBP1 billion required capital. So the annuity EV and total is GBP2.7 billion. Is that
+correct -- out of 6.2 or 6.3?
+
+A - Unidentified Speaker
+We had a figure of GBP300 million for capital.
+
+Q - Andy Hughes
+
+{BIO 15036395 <GO>}
+
+Just taking 4% of GBP25 billion of reserves, is that --?
+
+A - Unidentified Speaker
+It is cost of capital, not total capital.
+
+Bloomberg Transcript
+
+Q - Andy Hughes
+
+{BIO 15036395 <GO>}
+
+But I need to add -- the GBP1.7 billion is the VIF, net of cost of capital, and I would need to
+add it on the required capital to get to the EV for the annuity portfolio, which presumably
+is (multiple speakers).
+
+A - Unidentified Speaker
+We will clarify that for you (multiple speakers).
+The numbers that Wadham quoted are the VIF, the annuity element of the VIF. If you want
+a number back on the total EV, we can come back with a (inaudible) number. Your
+methodology sound sensible. Let's just take it that way and just come back to you.
+
+Q - Andy Hughes
+
+{BIO 15036395 <GO>}
+
+The other question is following on from Greg's question, I guess, on the change in
+longevity tables. You have obviously reduced prudence and the best estimate
+assumptions and also in the reserving assumptions at older ages, (now) age 65.
+I'm assuming that it is a net thing, so your GBP58 million is a big strengthening at younger
+ages for the deferred annuities and the kind of relaxation at older ages. Could you break
+down the GBP58 million and break down what is going on?
+Because, obviously, it is a bit surprising that your numbers you show on page 91 actually
+shows things being released. Because, obviously, you'd expect these numbers to go up
+Page 10 of 12
+
+
+
+Company N ame: L egal & General Group PL C
+Company Ticker: L GEN L N Equity
+Date: 2011-03-17
+
+over time as mortality improvements come in. And you've gone from 24.5 for best
+estimate 65 down to 24, and from 25.7 to 25.6 on the reserving, which sort of suggests
+you have released reserves, rather than added to reserves for these lines of business.
+Thank you.
+
+FINAL
+
+A - Unidentified Speaker
+As we said, the new tables changed the shape, and in our view to a better shape. We
+give that 65-year-old number to try and help people out, but clearly it is not particularly
+indicative of the whole range of annuitant mortality that we are assessing.
+Your theories sound sensible, but we're probably not going to give a huge amount of
+data in terms of breakdown in numbers below the GBP59 million.
+
+Q - Andy Hughes
+
+{BIO 15036395 <GO>}
+
+Do you know what has happened at younger ages? Has there been a more significant
+shift in the younger age. I mean, so if you're thinking about 40-year-old effectively, I mean,
+has that life expectancy gone up a lot on both the EV and the reserving?
+I guess the problem is, I don't -- I can probably guess what has happened to reserving,
+but I don't know what has happened to the best estimate assumptions. Have they moved
+to a minimum rate of 2% as well?
+
+Bloomberg Transcript
+
+A - Unidentified Speaker
+I haven't got any numbers for other ages in front of me, sorry. I think generally what we
+saw when we moved from the MC table to the new CMI table was that MC seems to be
+particularly penal for verily very old ages, sort of 80 and above. So that has resulted in a
+shift to different ages. But Matt is right, we picked a point age. There other ages and the
+effects are different across the age range.
+
+A - Matt Hotson
+
+{BIO 15471425 <GO>}
+
+Well we will have to talk some more about it, Andy, if you're still concerned.
+
+Q - Andy Hughes
+
+{BIO 15036395 <GO>}
+
+No. It is just a bit odd, basically, because the data you have given gives the opposite
+effect to the one you have actually put in terms of changing the tables.
+
+A - Matt Hotson
+
+{BIO 15471425 <GO>}
+
+It is just a function of the shape of the disclosure. It is a fair point. We can think about a
+better disclosure statement, which gives us more sense of the shape.
+
+Q - Andy Hughes
+
+{BIO 15036395 <GO>}
+
+Thank you.
+
+Page 11 of 12
+
+
+
+Company N ame: L egal & General Group PL C
+Company Ticker: L GEN L N Equity
+Date: 2011-03-17
+
+A - Matt Hotson
+
+{BIO 15471425 <GO>}
+
+FINAL
+
+Okay, I don't think we've got any more questions prepared. Hopefully that has been
+useful. We will continue to do these calls for as long as you guys say there is demand for
+them. But if there are any more questions that occur to people, you know where we are.
+And I am sure you will give me a call. Thanks very much.
+
+Operator
+This now concludes today's call. Thank you, all very much for attending. You may now
+disconnect your lines.
+
+Bloomberg Transcript
+
+This transcript may not be 100 percent accurate and may contain misspellings and other
+inaccuracies. This transcript is provided "as is", without express or implied warranties of
+any kind. Bloomberg retains all rights to this transcript and provides it solely for your
+personal, non-commercial use. Bloomberg, its suppliers and third-party agents shall
+have no liability for errors in this transcript or for lost profits, losses, or direct, indirect,
+incidental, consequential, special or punitive damages in connection with the
+furnishing, performance or use of such transcript. Neither the information nor any
+opinion expressed in this transcript constitutes a solicitation of the purchase or sale of
+securities or commodities. Any opinion expressed in the transcript does not necessarily
+reflect the views of Bloomberg LP. © COPYRIGHT 2022, BLOOMBERG LP. All rights
+reserved. Any reproduction, redistribution or retransmission is expressly prohibited.
+
+Page 12 of 12
+
+

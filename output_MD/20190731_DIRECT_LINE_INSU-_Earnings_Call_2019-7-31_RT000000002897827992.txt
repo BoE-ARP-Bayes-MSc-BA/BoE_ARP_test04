@@ -1,0 +1,1596 @@
+Company Name: Direct Line Insurance Group PLC
+Company Ticker: DLG LN Equity
+Date: 2019-07-31
+
+S1 2019 Earnings Call
+Company Participants
+FINAL
+
+Neil Manser, Interim Chief Financial Oﬃcer
+Penny James, Chief Executive Oﬃcer
+Unidentiﬁed Speaker
+
+Other Participants
+Analyst
+Andrew Broadﬁeld
+Andrew Sinclair
+Edward Morris
+Greg Patterson
+Joanna Parsons
+Kamran Hossain
+Lain Pearce
+
+Bloomberg Transcript
+
+Sami Taipalus
+
+Presentation
+Penny James
+
+{BIO 15157212 <GO>}
+
+Good morning everyone, and welcome to our ﬁrst half 2019 ﬁnancial results. I think we're
+few down so if we don't all on the way through than apologies and apologies for those
+who've had to dial instead of be here in person.
+I'll just take a pause and say, thank you to Morgan stanley for hosting us And to simplify
+your lives we've also -- we're going to put the speech online straigh after this, on the
+website I just want to say, I am so proud and excited to be presenting today. Just the next
+stage of our journey, this is a great business with real potential, and I'm pleased with the
+progress that we've made in the ﬁrst half.
+So why don't I start by summarizing the ﬁrst half on slide 4. With a backdrop of a highly
+competitive motor market, we have delivered a good ﬁnancial results. We're on track to
+meet our ﬁnancial target helped by the diverse business model, and the cost and
+underwriting discipline. Operationally, we've hit some of our key milestones on our path
+to transforming our competitiveness and strengthening our ability to grow sustainably.
+Now Neil will go through the ﬁnancial details a bit later and give a little bit more context
+on the market environment.
+
+Page 1 of 27
+
+
+
+FINAL
+
+Company Name: Direct Line Insurance Group PLC
+Company Ticker: DLG LN Equity
+Date: 2019-07-31
+
+But just to summarize the performance, we continue to grow our direct own brand
+policies, while maintaining underwriting discipline. And we've delivered a combined ratio
+of $92.5% as you know, reducing cost is a major lever for us to be more competitive. So
+I'm pleased to say that we're on track to achieve our operating expenses of less than
+GBP700 million for the full year. This discipline has meant we could deliver a good
+operating proﬁt of GBP274 million, resulting in an annualized return on tangible equity of
+21%. We've grown our interim dividend 2.9% to 7.2 pence, leaving us with a strong
+solvency position at the top end of the risk appetite range. We've also made great strides
+in our operational and strategic journey.
+On the operational side, we've launched three new IT platform in the ﬁrst-half key
+milestone on our multi-year journey, and I'll talk more about those shortly. And
+strategically, I've used the ﬁrst few months as CEO to challenge ourselves and to look
+beyond the next couple of years. And ask are we focusing on right areas so that we will
+thrive onto the future. So what I've concluded? Well, I believe we're investing in the right
+areas and our business model is the right one. And in fact, an advantaged one, to capture
+the opportunities that lie ahead.
+
+Bloomberg Transcript
+
+And our IT transformation aims to enable eﬃciency, pace of deployment and ﬂexibility, all
+of which will be required to capture those opportunities. So we must operate and
+organize ourselves in a way that takes full advantage of that, and this is a priority for me.
+On slide 5 I'd like to take a moment to paint the high level strategic picture. Our aim is to
+give peace of mind to as many customers as we can through our multi-brand, multichannel, and multi-product approach, we achieve this through distinctive strengths, that
+mean we can react, we can reach more consumers and oﬀer them more choice.
+We have trusted brands built over many years an innovative propositions that give us
+valuable relationship with our customers our data and insight. Gives us the opportunity to
+create value for our customers and our shareholders.
+Our vertically integrated claims model gives us advantages on claims cost, enables
+industry-leading propositions, and gives us good insight on claims and Car Technology
+trends. And we have talented and passionate people, you can see this with the three new
+executive appointments I made last month, homegrown talents who between them have
+nearly 35 years with the organization. And this talent runs all the way through the
+business. For any of you that have visited our sites or have used our customer services,
+you will note ﬁrsthand the quality of our people.
+Looking to the future though, I expect consumers to demand easier journeys and
+personalized product. And with this in mind, I believe that our comprehensive channel -channel strategy equips us well having a direct channel gives us a relationship with our
+customers, which allows us to better understand in a unique way their needs and meet
+those requirements. As a result, direct is a real driver of value for both our customers and
+our shareholders and is a channel that will continue to be very important to us. The
+intermediated channels such as price comparison and partnerships, are both signiﬁcant
+and evolving as well.
+
+Page 2 of 27
+
+
+
+Company Name: Direct Line Insurance Group PLC
+Company Ticker: DLG LN Equity
+Date: 2019-07-31
+
+FINAL
+
+On price comparison site, we're good, but we want to be great, and we expect the nature
+of partnerships to evolve. Combining our partnership skills with the strength of our
+brands, means that we can create real competitive advantage here. Now there are two
+critical enablers, which when combined with our strength aim to underpin sustainable
+improvements in our competitiveness. And they'll help us respond to customer's evolving
+needs.
+The ﬁrst is technology transformation. I have said to many of you before, that with our
+legacy systems it would be diﬃcult to compete proﬁtably in commoditized channels, like
+price comparison. Here, the cost, speed, data and ﬂexibility really matters. So I'm excited
+by the technology capabilities that we're developing to improve our competitiveness.
+The second is business transformation. To realize the full beneﬁts of our new technology
+and grow the business, we need to work in a diﬀerent more agile way to deliver a faster
+deployment of change.
+
+Bloomberg Transcript
+
+Over the coming slides, I'm going to focus on the IT platform we've launched this half.
+The beneﬁts we expect to get from them, and give a glimpse as to how the transformation
+of IT is fueling the transformation of our business.
+Turn to slide 6, here we're trying to show the overall IT platform picture. You can see, I'm
+not exaggerating, when I say, that we are transforming virtually every IT platform in this
+business. 2019 has seen us achieve some signiﬁcant milestones, but actually we've been
+steadily building and delivering for some time now. As you can see on the slide, each
+program is at a diﬀerent stage in its delivery and with beneﬁts likely to emerge at diﬀerent
+time scales.
+Our investments aim to materially improve our competitiveness for the market as it is
+today and to set us up for the future. Of these, the most signiﬁcant program is on Motor
+and Home portfolios. We expect the beneﬁts from this to start to emerge from next year.
+And in a similar way, our commercial broker business NIG is already starting to beneﬁt
+from a string of platform improvements to strengthen its pricing and underwriting
+capabilities. Some of our other investments have the longer-term more in mind to enable
+us to access and serve our customers in new ways with new products.
+Direct Lines of business for instance is now well established and has the potential to grow
+proﬁts meaningfully over the medium-term. Travel, which focuses on partnerships today,
+oﬀers promising opportunities in the future, particularly in providing another touch points
+with our customers.
+And Darwin, our new approach for price comparison customers is already giving us
+insights that could oﬀer another growth opportunity. Within the next couple of years, we
+expect to have implemented changes on nearly all our major insurance platforms, to have
+reshaped the way we work as an organization and to be well on the way with our IT
+infrastructure. And all of this is designed to deliver beneﬁts through reduced costs faster
+and more accurate pricing, greater product ﬂexibility, and greater pace of change.
+
+Page 3 of 27
+
+
+
+FINAL
+
+Company Name: Direct Line Insurance Group PLC
+Company Ticker: DLG LN Equity
+Date: 2019-07-31
+
+So let's take a look, at some of the individual platforms. On slide 7, we show the very highlevel delivery program for our major, motor and home platform. Through this program,
+we're upgrading nearly all of the applications that are used in the customer journey,
+including policy administration, billing, pricing deployment, we're upgrading the claims
+system and we're shifting most of the data onto the clouds to provide a more ﬂexible and
+resilient data storage, so in short we're doing a lot. As a result of this, the customer will
+beneﬁt from things such as online documentation and seamless quote journeys. More
+product choice and ﬂexibility, more accurate pricing, more targeted marketing through
+faster pricing capabilities and new more granular data. And we're progressing well on this
+having launched privilege motor this half to both direct and on our ﬁrst price comparison
+sites with the others following shortly.
+A phased roll out is designed to enable us to do this in a fast, safe and controlled way
+whilst minimizing the disruptions to the rest of the business. Once we have delivered the
+key functionality across motor and home, we'll then have the ﬂexibility to expand the
+product range. We'll have the ability to start to break products down into smaller
+components and to build more personalized products, delivering them more quickly and
+more cheaply. Overall, the new platform is giving us all a real sense of excitement and
+optimism for the future.
+
+Bloomberg Transcript
+
+Now onto Darwin on slide 8. From the outset here, our ambition was to combine the
+beneﬁts of our scales and data with a new approach to pricing, designed speciﬁcally for
+price comparisons and to increase our pace of learning. We wanted to use the latest
+digital and data techniques to create a pricing model that doesn't overlap with the
+group's existing model and we wanted to do it with a cost base that would give it a
+competitive advantage.
+So we pulled together a team of data scientists and data engineers, gave them the group
+date and provided them with the support and scale of our claims team. Now we're
+managing the roll out very carefully by placing limits on numbers. So that we can test and
+learn, and I'm pleased with the progress.
+The roll out will take some time and as it progresses, we'll see the degree of overlap with
+the main book and this will give us a better sense of the scale of the growth opportunity.
+But the group is already beneﬁting as it learns from the Darwin's team working methods.
+And the main book is beneﬁting from Darwin's detailed information in areas such as
+application fraud and risk modeling for customers with claims and convictions.
+Now on slide 9. I'd like to tell you about travel and our new partnership with Starling Bank,
+starting on the left with travel we have totally transformed our travel platform. Building a
+system that is fully optimized for tablets and mobile, provides online medical screening
+and self-service upgrades and is fully automated for certain claims. Delivering this has
+helped secure the renewal of both our RBS and Nationwide contracts. But it also provides
+interesting options in the future. It provides potential another touch point with customers
+and lends itself well to emerging distribution platforms.
+
+Page 4 of 27
+
+
+
+FINAL
+
+Company Name: Direct Line Insurance Group PLC
+Company Ticker: DLG LN Equity
+Date: 2019-07-31
+
+Moving to the right hand side of the page and our partnership with Starling Bank. We've
+mentioned our API capabilities in the past, when we discussed our home proposition with
+RBS. I'm delighted that we have enabled --we've been--I'm delighted that our strength
+here have enabled us to combine our Churchill brand and our partnership strengths to be
+the ﬁrst major insurer on Starling's marketplace. It's small volume today, but we're already
+learning what we can do in this environment and there is potential to access valuable data
+that will improve the customer experience here. So as you saw earlier, we are
+transforming our largest business line with the aim of -- to grow our proﬁtability over the
+near and medium-term. But also you can see, that we're investing in the long-term, and
+we can meet the evolving needs of customers.
+On slide 10, we show you the evidence that we can successfully grow businesses. Some 12
+years ago, we launched direct line for business and today, we have half a million
+customers and over GBP 100 million of premium at good and steady margins. But you
+know, over the past few years, we've invested in building the next generation systems to
+give small business owners the conﬁdence to buy their insurance direct. Those of you
+who came to the Bristol oﬃce last year, heard a little about the way we work in DL4B
+which is a really agile working approach and gives the team pace and real customer
+focus.
+
+Bloomberg Transcript
+
+So they continue to seek to optimize the current product suite and customer journeys.
+And I am always excited by that innovation and their energy. They have just made good
+progress to-date and have further product launches planned in the second half. And
+Rescue is also undertaking a lot of activity under the surface.
+Reengineering the way people work, building a center of Excellence with multi-skilled
+team, successfully relaunching the Rescue Me' app. Renegotiating supplier contracts and
+so on, the list is long. And we continue to see great potential in rescue and in the second
+year of its ﬁve-year plan we're conﬁdents with it's progress Look, I hope that I have
+conveyed there is a real buzz and sense of ambition within this organization. We've made
+excellent progress, but as you can see, there's a lot of change going on, which I just can't
+do justice to it here today.
+So we'd like to share more with you at our Capital Markets Day on 21st of November. Now
+we'll be holding this at our largest contact center, which you can see behind us in
+Doncaster to bring to life for you some of the things that are so special about DLG. As an
+ExCo we love to go to our contact centers so the extraordinary energy of our people
+there and to see team in action their commitments for our customers.
+But we'll also provide you with some insights on the capabilities our new technologies
+bring and how we're using them to transform our business and bring competitive
+advantages. I'm really proud that we've been able to deliver so much change while
+delivering good ﬁnancial results this half.
+And with that, over to Neil to do the ﬁnancials.
+
+Neil Manser
+
+{BIO 5571223 <GO>}
+Page 5 of 27
+
+
+
+Company Name: Direct Line Insurance Group PLC
+Company Ticker: DLG LN Equity
+Date: 2019-07-31
+
+FINAL
+
+Thanks, Penny, and good morning, everyone. Now I was talking with andy there other day,
+and I realized that I've been in the last 15 years, I've been to over 300 results
+presentations. I know many of you in the room, have maybe done a few more than that I
+know. that the presenters always look forward to my constructive feedback. And I very
+much look forward to yours.
+So let's start on slide 13 in the pack. For me the summary today is good results on track to
+meet both our 2019 targets and our medium-term combined ratio targets. Before I go
+through the results in detail, I'd like to talk to two key themes that these results highlight
+about our model.
+Our discipline and our diversiﬁcation. Discipline shows through in both the trading results
+and our cost story. In motor and home we priced for claims inﬂation in what were highly
+competitive markets. And our operating expenses are at the lowest level since the ﬁrst
+half of 2015.
+
+Bloomberg Transcript
+
+The value of our diversiﬁcation is also showing through with over GBP100 million of
+proﬁts from outside of the motor business. As well as continued strong premium growth
+in Green Flag and Direct Line of business. These factors have enabled us to report
+another good operating proﬁt, which in turn has helped us grow the dividend again, all
+supported by a very strong capital base. So all in all, a good ﬁrst half ﬁnancial
+performance.
+Now for the details starting on slide 14. Operating proﬁt was GBP 274 million in the ﬁrst
+half lower than last year due to few signiﬁcant items most of which we highlight on the
+table at the bottom right of the page. On the positive side, weather has been very benign
+compared to last year, when we suﬀered the Beast from the East. But there are a few items
+going the other way.
+Most important, is that you'll recall we had exceptional motor performance in the ﬁrst half
+of 2018, which beneﬁted from price increases as a result of moving to an Ogden discount
+rate of minus 0.75% whilst still beneﬁting from the pre-Ogden reinsurance cost. Last year,
+we also had a gain on the sale of our Bristol oﬃce and high investment gains. This year,
+we've had more -- we've had lower gains a more normal motor market and the
+conﬁrmation of the new Ogden discount rate, which has cost us GBP17 million.
+Now whilst proﬁt is down in the ﬁrst half 2019, a combined ratio of 92.5% is a good result.
+If we normalize out good weather, we get to 94.6% of which about 1 point is ogden
+related so underlying 93% to 95% is well within our range of 93% to 95%. As Penny
+mentioned, return on tangible equity is close to 21% despite a more conservative solvency
+position than usual and well ahead of our target of 15%.
+Moving on to in-force policies on slide 15. Overall, we saw ﬂat in-force policies in the ﬁrst
+half and premiums down 2.2% as our diversiﬁed business model helped oﬀset some of
+the pressure we saw in motor. Starting with our direct own brands in-force policies. Motor,
+which represents just over half of our direct own brand portfolio was down 1% since the
+start of the year, with most of this reduction coming through in the second quarter.
+Page 6 of 27
+
+
+
+Company Name: Direct Line Insurance Group PLC
+Company Ticker: DLG LN Equity
+Date: 2019-07-31
+
+This reﬂects our discipline and I'll talk more about pricing later on.
+
+FINAL
+
+Home policies, were broadly ﬂat in a highly competitive new business market. In terms of
+channel performance for motor and home, we had some good growth in PCW
+particularly through Churchill, but with market shopping levels generally down, we saw
+fewer opportunities in direct.
+Green Flag continue to grow, with policy count up 5.9% year-to-date again achieving
+double-digit growth year-on-year. The team here has built great momentum, and is
+looking to pass one million customers by the end of the year. lower due to package
+
+Bloomberg Transcript
+
+Moving to commercial, Direct Line for business grew to over half a million policies with
+volumes on the SME platform doubling in the period. The table on the right shows what
+happens outside of direct own brands. Policy count fell in motor and home partners,
+which is due to partner exits we've talked about before. Rescue partners and other
+personal lines were primarily lower due to package bank account volumes a trend we've
+seen over a number of years. And in NIG and other, the team is focused on improving
+margins, particularly motor lines and this has led to lower volumes.
+Now, before I move on, I'd like to focus a minute on the long-term trends of our direct
+own brands. Because it's evidence of our ability to grow in the most valuable part of our
+portfolio. We've grown in motor when the time was right, and our diversiﬁcations has
+balanced that when we have needed to hold discipline. You can see, that since 2015,
+we've grown our motor own brand policies by 13% and delivered 16% growth across the
+rest of our own brand portfolio. This gives me the conﬁdence in our ability to grow over
+time.
+Now to the segmental results starting with motor on slide 16. Motor delivered a good
+result and continued to trade to target loss ratios in a highly competitive market. Overall,
+operating proﬁt of GBP154 million with GBP86 million lower than prior year primarily due
+to the reversal of last year's exceptional underwriting performance. You can see this in the
+current year loss ratio, which increased by 4.9 percentage points to 83.4% and returned to
+a more normal level. Prior year releases have reduced consistent with our purchase of
+more reinsurance in recent years.
+This reduction also reﬂects the increasing reserves from the move to minus 0.25% Ogden
+discount rates. You will recall, we are reserving at 0% at year-end. Turning to top-line,
+headline GWP is down 4.7%, with only a modest reduction in IFP. Underlying this is a
+reduction in risk mix due to several pricing updates at the end of last year and
+improvements in addressing application fraud. On top of that, our free legal expenses
+proposition on Churchill is performing well in the PCW channel. Collectively, these actions
+reduced average premium, but have enabled us to ﬁnd pockets of value, where we were
+able to maintain our margins.
+In terms of claims trends, underlying inﬂation is still at the top end of our 3% to 5% longterm range. Within that, third party property damage remains high, but has stabilized after
+a poor ﬁrst quarter. Inﬂation here was in part due to pressure in the motor repair industry
+Page 7 of 27
+
+
+
+Company Name: Direct Line Insurance Group PLC
+Company Ticker: DLG LN Equity
+Date: 2019-07-31
+
+FINAL
+
+from high accident frequency in 2018, but the start of 2019 has seen that pressure ease.
+And to remind you, we believe our auto repair centers continue to give us competitive
+advantage on damage claims.
+On slide 17 we show the latest ABI premium data. We said, at the full year results in March
+that we have priced-- that while pricing had stabilized in the second half of 2018, we were
+disappointed that the market as a whole was not pricing for claims inﬂation. Since then,
+we've seen one or two positive data points, but to-date this has not turned in to sustained
+market pricing improvements. As we stand here today, there are two market trends that
+insurers will need to make judgments on. First, the upcoming whuplash reforms and
+second, the new Ogden rate, which was worse than the 0% to 1% range most in the
+market we're expecting.
+
+Bloomberg Transcript
+
+While we can't predict how the market will go from here, our approach is unchanged. We
+remain focused on maintaining our pricing discipline and we will continue to prioritize
+target loss ratios over volume. And while we can't be immune from market pricing
+pressures, we remain committed to investing in the business with the aim of delivering
+beneﬁts on cost and underwriting that mean we can to some extent carve our path.
+Let's look at home on page 18. The ﬁrst thing, I'm sure you'll notice is the big jump in
+proﬁt year-on-year, whilst benign weather is the main cause of this, the team has also
+done a great job improving the normalized combined ratio by around two points
+compared to last year. This has been achieved by determined focus on pricing,
+underwriting and claims actions particularly in relation to escape of water. Whilst we still
+expect long-term claims inﬂation around the 3% to 5% range, our latest experience has
+been better than this.
+Moving to the market, we believe that most are broadly rating for claims inﬂation, but
+there remains a small number of players that we see come in and out the market with
+more aggressive pricing tactics.
+Against this backdrop, we've traded in a disciplined way around PCW's with targeted
+growth where we see value and pulling back where we don't. And overall, we've achieved
+rate increases of 1.5% and a continued reduction in the risk mix. It's also worth noting, the
+commission ratio which continue to fall and is starting to ﬁnd the appropriate level
+following the exit of two partnerships in 2017. So in summary, GBP71 million of proﬁt
+supported by strong underlying performance.
+Now slide 19. As you can see, Commercial and Rescue and other personal lines between
+them contributed GBP49 million around 20% of group proﬁts. Beginning with
+commercial. The segment continues to see growth in top line with Direct Line for business
+up 8% partially oﬀset by a ﬂatter picture NIG as it continued to focus on margin
+improvement. Rate carry in the ﬁrst six months for renewed business was around 6% with
+the strongest improvement in motor lines.
+Importantly, the current year attritional loss ratio improved by one points due to the
+margin focus and price initiatives at NIG and a greater weighting towards direct line for
+Page 8 of 27
+
+
+
+Company Name: Direct Line Insurance Group PLC
+Company Ticker: DLG LN Equity
+Date: 2019-07-31
+
+FINAL
+
+business where loss ratios are lower. Overall, it delivered a GBP32 million operating proﬁt.
+Rescue and other personal lines, proﬁt increased by a little over GBP2 million to GBP18
+million. This result was largely driven by Rescue, which saw a 10% improvement in
+operating proﬁt to GBP21 million. There were two key drivers of this growth. First, the earn
+through of higher Green Flag direct premiums from the previous year, which improved
+the risk mix away from partners. And second, better claims frequency following last year's
+adverse weather.
+As I said earlier, Green Flag is beginning to show some real momentum and is well
+positioned to win in the rescue market.
+So turning our attention to costs on slide 20. As you are aware and as Penny mentioned,
+we are not satisﬁed with our current cost proﬁle. And Over time, we're looking to
+sustainably reduce this and have over 90 initiatives in train at the moment. These cut
+across the whole expense base and include investments we're making in the
+transformation program, many of which Penny has already talked through.
+
+Bloomberg Transcript
+
+The current core areas of focus, include self-service and digitization, process
+improvement and automation, as well as more traditional forms of cost-cutting in terms of
+procurement activity and managing cost leakage. And you can see the results of some of
+these actions coming through in the ﬁrst half with operating expenses down GBP16
+million to the lowest level since the ﬁrst half of 2015.
+Of particular note is the reduction in marketing where we have again improved
+eﬀectiveness. The expense ratio was fairly stable as these lower costs were oﬀset by lower
+earned premium. Given the phasing of levies including ﬂood Re in the ﬁrst half, we are
+conﬁdent of delivering operating expenses below GBP700 million in 2019.
+The next slide 21, pulls together the underwriting ratios in one place. So I've already
+talked to the headline combined ratio of 92.5% and the 93.5% to underlying for Ogden
+and weather, is well within our target of 93% to 95%. So I'll move on to the main purpose
+of this chart. This is to show that we've delivered consistently strong combined ratios over
+time. And again, demonstrates the DLG model and the beneﬁts of a disciplined approach
+to underwriting and a diversiﬁed portfolio.
+Moving on to the investment result on slide 22. Lower assets under management and
+lower gains led to a GBP20 million reduction in the headline results. The net investment
+income yield was up a little, at 2.1% due to lower hedging costs and was slightly ahead of
+the 2% expectation. We're still conﬁdent of achieving this expectation for the full year.
+With reinvestment yields down year-to-date it's diﬃcult to improve to 2% from here in the
+current environment.
+As expected, gains were much lower in the ﬁrst half compared to the ﬁrst half last year.
+We recognized net gains of GBP12 million as we consolidated mandates with a view to
+reducing investment fees. As you can see, on the table on the right, last year's gains were
+supported by fair value adjustments on our property portfolio, which did not repeat this
+
+Page 9 of 27
+
+
+
+Company Name: Direct Line Insurance Group PLC
+Company Ticker: DLG LN Equity
+Date: 2019-07-31
+
+Bloomberg Transcript
+
+FINAL
+
+year. This is expected, given conditions in part of the U.K.'s commercial property market.
+To remind you, our portfolio is prime and has a relatively low exposure to retail.
+On a more positive note, the available for sale reserve has improved from an unrealized
+loss of GBP 37 million at the year-end to a gain of GBP 27 million at the end of the half
+year as credit spreads narrows and interest rates fell. Our guidance for signiﬁcantly lower
+gains in 2019 is unchanged and I'm not expecting any further gains for the rest of this
+year.
+Now to the group's capital generation on slide 23. In the ﬁrst half, we saw a small
+reduction in SCR which reﬂects our reduced risk exposure. As we said before, we expect
+this to continue given the greater use of reinsurance than in the past. Our capital has also
+been supplemented with positive mark-to-market from narrowing credit spreads since
+year end. Moving across, capital generation is broadly consistent with IFRS proﬁt, so no
+surprises there. And penultimately, capital expenditure, which supports the group's
+transformation program was GBP90 million around half of the full year guidance of
+GBP175 million. Finally, we grew the interim dividend by 2.9% to 7.2 pence per share. And
+we end the half with strong capital surplus of around GBP1 billion up around GBP120
+million in the full year.
+Onto solvency ratio on slide 24. After the interim dividend it's a very strong 180% and is at
+the top end of our risk appetite range. You'll recall at the year-end, we held back some
+capital to form a buﬀer against heightened political and economic uncertainty. This buﬀer
+has increased in the ﬁrst half helped in part by the tightening of credit spreads. We said at
+the full year, we keep this position under review and since then environmental factors
+haven't improved. Therefore, we are not returning any additional capital today, and this
+leaves us at the prudent end of our risk appetite range.
+Under normal conditions, as you know we still expect to operate at a ratio around the
+middle of the risk appetite range. In the future, we will also consider the most appropriate
+mechanism for returning any surplus capital and may utilize share buyback if conditions
+are appropriate.
+Before I hand back to Penny, I'd like to close with the outlook and targets on slide 25.
+We're conﬁdent that we can again deliver a combined ratio within the 93% to 95% target
+normalized for weather. We've made good progress on costs and are on track to reduce
+operating expenses to below GBP 700 million this year. Investments are also on track to
+generate 2% net investment yield with no further expectation of gains in the second half.
+And as you've heard from penny we're making great progress with our transformation
+agenda, which is underpinned by the GBP 175 million of capital expenditure in 2019.
+Thank you, and back to Penny to wrap up.
+
+Penny James
+
+{BIO 15157212 <GO>}
+
+Thank you. Neil. So what are the Key messages I'd like you to take away today? well ﬁrst,
+whatever the market conditions, we will remain disciplined and long-term focused. This is
+Page 10 of 27
+
+
+
+Company Name: Direct Line Insurance Group PLC
+Company Ticker: DLG LN Equity
+Date: 2019-07-31
+
+a key ingredient in our objectives of sustainable attractive returns and the results today in
+highly competitive market are a testament to that.
+
+FINAL
+
+Second, we're a business with diﬀerent sources of earnings through diﬀerent products,
+diﬀerent distribution channels, via diﬀerent brands and propositions and this positions us
+well to steady earnings and dividends for our shareholders and to meet customers
+evolving needs.
+Third, we're on track with our operational change agenda and are well down the IT
+transformation part albeit with plenty still to do. Across the group we're moving towards
+newer faster ways and more ﬂexible ways of working to realize the beneﬁts from the new
+technology. And then to unlock the potential of our people and leverage the group's
+existing strengths.
+Also fourth, this management team is excited by our plans to deliver a material change in
+the capability and eﬃciency of this group. And we look forward to telling you more about
+that on the 21st of November in Doncaster.
+And with that, I'll hand over to you.
+
+Operator
+
+Bloomberg Transcript
+
+Thank you, Penny. Thank you, Neil. We'll go to questions in the room ﬁrst and I'll start on
+the right hand side.
+
+Questions And Answers
+Operator
+(Question And Answer)
+Thank you, Penny. Thank you, Neil. With questions in the room ﬁrst and I'll start on the
+right hand side is (Multiple Speakers) Ask your question.
+So, with Andrew.
+
+Q - Analyst
+Good morning, all. (Inaudible) Just a three questions. (Inaudible)
+If interest rates remain here can you sustain a 2% investment income yield into 2020 and
+2021. Secondly, with your pricing up 2% and claims, avarage claims 5% long if it stays like
+this? And can you maintain your conﬁdence in the 93% to 95% combined ratio?
+And ﬁnally, on the special dividend, I understand political uncertainty, but in and of itself it
+has no impact on you. The impact is if credit spreads blow-out. Credit spreads have
+Page 11 of 27
+
+
+
+Company Name: Direct Line Insurance Group PLC
+Company Ticker: DLG LN Equity
+Date: 2019-07-31
+
+tightened, so why hadn't special dividend been paid which is owed to the market? Last
+and the ﬁnal. And under what conditions given Brexit is deeply uncertain, will you ever
+start to move on that.
+
+A - Penny James
+
+{BIO 15157212 <GO>}
+
+FINAL
+
+(Inaudible) investment income.
+
+Q - Analyst
+So the ﬁrst investment income The investment yields are down year-to-date, I agree.
+
+A - Unidentiﬁed Speaker
+Maturity.
+
+Q - Analyst
+If we look at our maturity proﬁle performance through the next 18 months. We should be
+able to maintain the 2% based on current yields, obviously, if yield move from here that
+will change.
+
+Bloomberg Transcript
+
+A - Penny James
+
+{BIO 15157212 <GO>}
+
+Look --I mean we --our approach is to price to a target loss ratio. So, we will price into the
+93% to 95%, and the thing that gives as it has to give is the top line, rather than that. So,
+we will keep focus and keep pushing towards that 93% to 95% and are conﬁdent of doing
+that, it's why were reiterate those targets.
+On dividends, so do you want to.
+
+Q - Analyst
+(Inaudible)
+
+A - Penny James
+
+{BIO 15157212 <GO>}
+
+(Inaudible)
+
+Q - Analyst
+Changed from, the policy. The policy is still the same normal conditions operating in the
+middle of the range. You know that we tend to hold more capital in the middle of the
+year, because the just generally look at capital, at the year-end, only. This year we did say,
+we'd look at the half year. But as I said, I said a minute ago, we don't see the factors
+changing and we're still within the range, I think it's not a bad thing to be conservative at
+the moment.
+Inherently, we are a fairly conservative company. But don't read too much into the in that
+conservative, but we also have a very strong track record of returning capital when it's
+
+Page 12 of 27
+
+
+
+Company Name: Direct Line Insurance Group PLC
+Company Ticker: DLG LN Equity
+Date: 2019-07-31
+
+appropriate. So, I mean, I'd deﬁnitely say that we've returned I think since IPO. So, the
+credentials of the company is the same and the track record.
+I think you should be comfortable with it when it's appropriate we'll return the capital.
+
+FINAL
+
+A - Penny James
+
+{BIO 15157212 <GO>}
+
+Yeah, look I this board all committed on returning capital to shareholders. I think, that
+what gives us pause around this -- into this we all do a sheet amount of work around
+capital models creating 100 and 200 scenarios building them out, X variables. When
+you're faced into binary dislocation events. You just need to be prepared for that. And
+none of us know what credit spreads will do in those environments and we do know that
+we're sensitive to them, and that's it. --So that means that we are really protecting. But we
+will absolutely keep this under review. We don't see it as a permanent state of aﬀairs.
+We do believe that the middle of the range is the right place to be. And our shareholders
+will beneﬁt from that.
+
+Q - Analyst
+
+Bloomberg Transcript
+
+Thank you. (Inaudible)
+Thanks. (Inaudible) Two questions as well from me. So, ﬁrst just on Motor claims inﬂation.
+You speciﬁcally highlighted third-party repair cost inﬂation and your connectors have also
+actually gone third-party. Why is it third-party total repair costs? Could there really be
+issue here? You mentioned obviously, this year about --oh sorry the advantage you have
+in own repair work, but I'm wondering if it's more than that, because there's actually some
+sort of structural driver of a diﬀerent third-party and sort of -- and honestly, all the accident
+plans.
+The second is on capital generation, So neil you speciﬁcally said capital generation is
+roughly in line with our gross proﬁt. you might have seeing that number that it might be
+lower because PYD is an important contributor. And PYD under IFRS is not necessarily the
+same as PYD under capital. Does this imply that actually capital. generation should
+improve versus IFRS. As your mix moves away from PYD to their expense ratio.
+And then the ﬁnal question is a bit more broad about the motor environment. We're also
+looking out for the green shoots as it were I think from an investor perspective one of the
+challenges is it's diﬃcult to know, or to judge, what could cause that without having some
+good explanation for what if I don't sort of a deterioration or sort of an intensiﬁcation
+conclusion? What's your best explanation for why the market has been in terms of rates?
+Thank you.
+
+A - Penny James
+
+{BIO 15157212 <GO>}
+
+Okay. Thanks. TPPD, it's been up and down a little, I think we have good evidence to
+suggest that our internal --the repair to give us a cost advantage. I think, you partly saw
+that in the back end of last year, where we kind of did damage eﬀect to the market.
+Page 13 of 27
+
+
+
+Company Name: Direct Line Insurance Group PLC
+Company Ticker: DLG LN Equity
+Date: 2019-07-31
+
+FINAL
+
+We called out earlier this year in Q1 that we were seeing the third party damage costs
+going up signiﬁcantly. And they have deﬁnitely stabilized in the second quarter, what we
+we're sure of at Q1, because it takes a little bit of time what the shape is when severity
+goes up it, can be because of an underlying ﬂuctuation or it can be because frequency is
+putting pressure on credit high cost supply. Or whatever so severity can go up as a result
+of frequency moving.
+And I think, there clearly is underlying high damage cost inﬂation across the board the
+construction eﬀects. But I think what we've seen in Q1, was a frequency driven increase in
+severity costs, if that makes sense. And that's what we think is going on that's why we
+think it's level stabilized in Q2. And it remains the case that we believe we get better value
+out of our than we get out of third parties, for whatever reason.
+So, I think that's the most you want to be capitalized.
+
+Q - Analyst
+So, I don't think there's need anything particularly in there of note. Obviously, the other
+one. Adjusted for I think, was in reserving I mean obviously, one discounts that not back
+and create some slight diﬀerent, but I don't think there's.
+
+Bloomberg Transcript
+
+Anything in the ﬁrst half, we may have classiﬁed but anything in there to call out, [ph.]
+looking forward. There's no reason, why as PYD reduces you'd expect disconnect. It's all
+coming out of the actual best estimates, which underpins both the numbers.
+
+A - Penny James
+
+{BIO 15157212 <GO>}
+
+And why is the look I don't speculate on why other people do? What they do clearly, we
+are pricing and we're getting some clawback in the risk mix, but the one thing I will say is
+that and I called this before there's been so many external stimulative to the market
+through but on its way. But actually, even two people rationally looking at the situation
+together might make a massive diﬀerent course through that.
+So, I still don't necessarily; see it as a long-term structural problem. I think, we'll know
+better once comes in and how in of that response. But you have to ask my competitors
+why they do what they do.
+
+Q - Kamran Hossain
+
+{BIO 17666412 <GO>}
+
+Questions. The ﬁrst one is on, you talked about the transformation technology growth
+from the PCW in the longer-term I guess, do you expect your market share to change
+markedly from here?
+The second question is on Ogden would set up minus 0.75%. No one actually was paid at
+minus 0.75. So the implied impact is not as bad as the --I guess the -- just putting the map
+through in it do you expect that to be the case this time or any thoughts about those very,
+very, very early?
+
+Page 14 of 27
+
+
+
+Company Name: Direct Line Insurance Group PLC
+Company Ticker: DLG LN Equity
+Date: 2019-07-31
+
+And the third question just coming back to Andrews's comments around solvency ratio
+under Brexit is 180% the new 160%.
+
+FINAL
+
+A - Penny James
+
+{BIO 15157212 <GO>}
+
+Sure. The last one is no. So no transformation -- look what we are trying to do is create
+competitive advantage. We've certainly been at a disadvantage due to. And in particular
+in particular price comparison because of some of the features I drew out earlier. So, our
+job here is to give us the competitive advantage. Whether that gets deployed as growth
+or loss ratio beneﬁts. Some of it will come through expenses probably anyway.
+But will determine a little bit as we go depending on what the market conditions are at
+the time, but let's get ourselves in a position where we're on the front but we've got
+advantage these others haven't got and so that will be --then we can make that choice.
+
+Bloomberg Transcript
+
+Ogden, so I think the market -- well we the know market is expecting somewhere between
+north of 1%. It would likely be between north of 1%. And most equal I think move their
+reserving into that range last year, we certainly did in that. And I think, that's good
+evidence in the way pricing has moved over the last few years to show that most people
+were pricing for somewhere in that north of 1% exactly.
+So, minus 0.25% was the fundamental -- most important thing is we all have certainty. So,
+it's good for consumers that we have certainty and it's good for businesses that we have
+certainty. So, that's the main thing we don't ditch the price. We're outside the original
+range, we've taken a small hit here today. And I suspect, pricing will adjust through the
+market I think anything I said they've left the prospect of the compensation on a dual rate
+out there.
+I actually think dual a June rate is a pretty sensible approach given the nature of the claim
+proﬁles and maybe the best in the long run. So we'll be supportive of that happening, but
+it's more about the fact that the right answer than it's about a particular ﬁnancial eﬀect on
+us I think.
+So Ogden -- and then we touch on solvency. Look there is no change in the Philosophy
+the risk appetite. We remain as absolutely committed to shareholders, that we have been.
+We simply try to make sure we navigate with potential implication.
+
+Q - Analyst
+Thank you. Go to (Inaudible)
+Thanks. (Inaudible) This is in three questions. I just asked about the dual pricing the
+regulation from FCA. One do you have data? And is there anything new which you are
+having ? And secondly, what's the diﬀerence in proﬁtability for you guys onto new
+business versus renewal? On the Motor and home business number one.
+
+Page 15 of 27
+
+
+
+Company Name: Direct Line Insurance Group PLC
+Company Ticker: DLG LN Equity
+Date: 2019-07-31
+
+Second, just staying with regulation whiplash reform expected next year. Numbers around
+beneﬁts have changed bigger number now we're down on those and what is your view as
+in what could be the potential beneﬁt for you?
+
+FINAL
+
+And lastly in terms of results our core target remains at 93%-95%. It has been beneﬁting
+from prior releases which remains as decent sized number. How should we think of last
+year in absolute numbers?
+
+A - Penny James
+
+{BIO 15157212 <GO>}
+
+I think there's nothing fundamental that has changed since last clearly there has been a lot
+of attention may have come out with new statements. The FDA has come out with a --sort
+of an update on the consultation. But I think none of that is a sort of fundamental shift a
+couple of. And what do we do? Let's start with what we do and then on how we view the
+kind of industry position?
+
+Bloomberg Transcript
+
+I think what do we do? We do a number of things across our book, business customers
+and for renewal customers. Because -- probably because we think insurance isn't just
+about price, it's about value as well. So whenever we give one of our propositions that we
+always talk to you about whether it's a seven day turnaround or we do that to everybody
+in the book, because we think it's the right thing to do customers for that.
+The second thing we do is we review we have our own internal pricing practices and
+standards and within that we review every policyholder renewal at ﬁve year point to make
+sure we're comfortable that appropriate place. And that we results in some cases in
+discounts in some cases in some cases there's no action required. So, --but there is a clear
+review point. And we were half to last year premium disclosure because some of this is
+about transparency for customers as well as the absolute pricing.
+And in our technology developments we're doing a lot again to make policy journeys
+easier to get more options on the way. And to make documentation much, much clearer
+and simpler and there are lots and lots of things we are doing internally to try and do our
+bit to try and resolve the situation. But the reality is we can't tackle this issue on our own
+we have to do it as an industry, because of the way the competition works and the way
+that new business pricing is heavily discounted and mostly this is pricing isn't
+economically viable as permanent price.
+So, there is a structural point in this market. And so that's why we support the FDA doing
+what they do, we work extensively with the APB and in the development of their pricing
+principle, we're just trying to create the same work to make it move insurers down the
+path to make this even --to make this a better situation and improve previous issue.
+So, how do we feel about it? We think, yes, I'm sure the FDA will make changes, it's not an
+easy issue for them because it's the competition in the market that is creating the
+particular issue that is of concern here. And so, anything that they do is a correct level
+playing ﬁeld we're supportive of. And actually, when I look at us, with a multi-brand, multichannel distribution a long history of writing successfully in the home market.
+
+Page 16 of 27
+
+
+
+Company Name: Direct Line Insurance Group PLC
+Company Ticker: DLG LN Equity
+Date: 2019-07-31
+
+I feel conﬁdent, that we'll be able to adjust and whatever that marketplace (Inaudible)
+
+Q - Analyst
+(Inaudible)
+
+FINAL
+
+A - Penny James
+
+{BIO 15157212 <GO>}
+
+So, the ﬁrstly, whiplash beneﬁts the original business case I think was GBP 35. I think,
+generally we think that we suspect that a that was done some time ago the markets
+moved on a real skeptical, that actually the beneﬁts will be that high. Whatever the
+beneﬁts are customers who've made that promise on the path. I think in timing terms it
+feels as though the industry is pretty ready The MIB sounds as though they're pretty ready.
+There are still some bits that needs to be sorted out about how the legalities at some are
+operationalized in some areas and that required MoJ time to get that done.
+So, depending on the level of focus or distraction in the MoJ, I suspect is what will drive
+whether or not. We haven't given a speciﬁc number; we don't of competition give out
+speciﬁc components but original estimate, I suspect. Thanks.
+
+A - Neil Manser
+
+{BIO 5571223 <GO>}
+
+Bloomberg Transcript
+
+Reserving. So after shape of reserving for the ﬁrst half. So, if you look at where reserves
+came. about third, of them were from 2018. The third from the three years prior to that
+seeing most press release from the more recent years important. Within that have now
+gained maturity.
+How do we oﬀset what we said, we'll be reducing probably reserve amount book smaller
+which is expenses underwriting improvements and ultimately some growth input. Those
+are the three key drivers to oﬀset it.
+
+A - Unidentiﬁed Speaker
+(Inaudible)
+
+A - Neil Manser
+
+{BIO 5571223 <GO>}
+
+So, reserves, the reserving philosophy is pretty similar. Clearly the book is smaller than it
+was so there's a quantum eﬀect. So diﬀerent positive impacted.
+
+Q - Sami Taipalus
+
+{BIO 17452234 <GO>}
+
+Santos from Goldman Sachs. We're all obviously, looking forward to the trip to in
+November.
+
+A - Penny James
+
+{BIO 15157212 <GO>}
+
+As you should, yes.
+
+Q - Sami Taipalus
+
+{BIO 17452234 <GO>}
+Page 17 of 27
+
+
+
+Company Name: Direct Line Insurance Group PLC
+Company Ticker: DLG LN Equity
+Date: 2019-07-31
+
+Is it possible to say, anything about your strategy to relating to partnerships already at this
+point maybe. It's, where you've been losing a bit of volume recently. What's the level of
+commitment here? What kind of things are you looking for?
+
+FINAL
+
+And then the second question is, you gave a roadmap for implementation or introduction
+of it systems. Can you talk a little bit about switching oﬀ legacy IT systems as well? They're
+getting quite important to cost saving.
+And then ﬁnally, just on the buying back. You mentioned that there's a potential,
+conditions for buying back. It's Just a question of share.
+
+A - Penny James
+
+{BIO 15157212 <GO>}
+
+Bloomberg Transcript
+
+The prospects on some cost, very diﬀerent king's cross direct trains and it'll be well worth
+the visit. Because we all love it. Partnership, is I think what you really want to know. The -we gain partnerships when the economics arise. So, we put some kind of partners' value
+from the service quality and the skills that we bring when it's pure commoditized
+traditionally we're probably less likely to be your plan. So, we remain interested in the
+right kind of partnerships the point I was trying to make in the presentation is really that as
+time moves on, I think the nature of partnership arrangements is shifting. So it becomes
+more about making it easier for customers using their customer their data with to make
+oﬀers more payment for them.
+And we think it's particularly interesting to me about is one of the ﬁrst using our brand in
+someone else's marketplace, which you can see as being a development area for the
+future. And that's really interesting, so I think, we are still in partnership we build up for
+the right kinds of partnerships, we've just renewed two travel partnerships it has to be on
+the right economics. And we think that whole world will evolve and we'd like to be a part
+of it.
+In terms of IT and legacy. So, we have -- I think I mentioned IT infrastructure. So, we've
+outsourced the running of a lot of our IT infrastructure to a partner, who's also the partner
+who's leading with development. So that we run those two things in tandem. And in
+doing that we've contracted on a basis that gives us more the underlying costs. So, you're
+right there is a process, but that process is matched -- it runs over the course of seven
+years depending what it is, but it seeks to move from the beneﬁts and see get a at the
+end.
+
+A - Neil Manser
+
+{BIO 5571223 <GO>}
+
+Share buyback. So this is response to customer shareholders thinking about how we
+return capital? We're not going to set up a real explicit framework, but to give you some
+idea I think the biggest indicator of whether a buyback is more preferable to point of yield
+we're trading out on a regular yield. So, if the regular yield is very high it adding to the
+special dividend it might be more appropriate to buy back shares. But it is an open item
+on the agenda.
+
+Q - Lain Pearce
+Page 18 of 27
+
+
+
+Company Name: Direct Line Insurance Group PLC
+Company Ticker: DLG LN Equity
+Date: 2019-07-31
+
+FINAL
+
+We've had some comments around. What are you seeing there And what proportion of
+your claims are in Motor? And something on CapEx over the medium-term? What was the
+split between diﬀerent businesses? You build and take new system there with of rewiring
+etc. And then just going back to the point on capital, 180%, 160%. Still the uncertainty of
+full year. Should we think that you're paying down to 180% instead of the 10-point, the 170
+last year?
+
+A - Penny James
+
+{BIO 15157212 <GO>}
+
+That is a pretty small part of the overall claims the big claims components are probably
+injury and damage. So, it is running hot at the moment. So, it is high, but not a dramatic
+eﬀect. I think in terms of the overall outweighed by movement on damage. Overall CapEx
+I'll leave to Neil, and so far on capital there's been no resetting in this process. We haven't
+reset our expectations as an endpoint. We haven't also talked to assess what those will be
+like at year end. So, we'll do that at once.
+
+A - Neil Manser
+
+{BIO 5571223 <GO>}
+
+Bloomberg Transcript
+
+So, just have a debt is about 5% of cost. So It's not a material amounts for us. In terms of
+capital it's been said that 180% is not the new 160%. I think that it's hard to speculate what
+conditions we might be in at year end as I sit here today. I think, you know what normally
+looks like in that every point in until the last, but last year end clear.
+I can't say whether actively messaging here in February or March time the condition will
+be 160% condition or 130% condition or a diﬀerent number. I think, we'll assess the
+conditions when we're at the point in time when we need to make a decision. But I think,
+all we want to reiterate is the policy is very much fun changed.
+
+A - Penny James
+
+{BIO 15157212 <GO>}
+
+CapEx. A lot of the CapEx is across the portfolio, so the big home and Motor platform will
+be used ultimately for rescue as well. So there are some going on in rescue, but not that
+dramatic in the scale of things. So it will be the home and motor portfolios that take -- the
+vast weight is unsupported behind that so tech transformations and moving all of the
+infrastructures everything.
+
+Q - Lain Pearce
+Right, but what we're hearing from others is.
+
+A - Neil Manser
+
+{BIO 5571223 <GO>}
+
+20%,25% so I think it's about inﬂation.
+
+Q - Analyst
+It's okay. I guess the ABI I think they said that's about 23% or something maybe they're
+saying 25%. Is it fair just
+
+A - Penny James
+
+{BIO 15157212 <GO>}
+Page 19 of 27
+
+
+
+Company Name: Direct Line Insurance Group PLC
+Company Ticker: DLG LN Equity
+Date: 2019-07-31
+
+I wouldn't overread it, because I think you're seeing movement in other parts of the book.
+So, one small part of can I say factors in the claims and they seems to move in diﬀerent
+ways all the time.
+
+A - Unidentiﬁed Speaker
+
+FINAL
+
+(Inaudible)
+
+Q - Edward Morris
+
+{BIO 16274236 <GO>}
+
+Thanks. question just trying to understand the expected ultimate proﬁtability in the
+business that you brought to date. Obviously, you've had changes in pricing. In term of
+Inﬂation that seems to be quite large, I would say currently. Can you just give us an
+indication of whether the expected is outcome is within the 93% to 95% and how that's
+evolved over the last few years. That would be really helpful.
+The second is on; you mentioned if conditions remain competitive that volume is likely to
+be the thing that starts to gain from here. Do you see any risk that premiums might make
+it more diﬃcult to reduce the expense ratio in ratio terms?
+And then thirdly, assets under management, obviously, have been declining as results
+come down. How far away are we from the point? Where you're actually stable?
+
+Bloomberg Transcript
+
+A - Penny James
+
+{BIO 15157212 <GO>}
+
+We target loss ratio to price into the 93% to 95% on an ultimate basis. Because that's how
+we kind of set it up. So that -- I think to give you the sense for that one. Expense ratio, so
+look, if we work hard to alleviate by aﬀecting on diﬀerent components propositions those
+sorts of things to alleviate the volume impact. But you're right ultimately if we take volume
+impact we will expenses. So, it creates an expense pressure into the extent that we take
+outcome. So -- so we are super focused on expenses would have a similar to be had on
+that asset.
+
+A - Neil Manser
+
+{BIO 5571223 <GO>}
+
+But also the reinsurance program as well. Means lower AUM at a time. And I think, we're
+pretty much there. I think on the AUM at the time, and maybe there's more to go and then
+I think it's much more in the top line so the growth potentially the future growth in the
+business will drive much more with the AUMs.
+
+Q - Lain Pearce
+Questions from me, please. Firstly, it's about your auto repair network because it's in
+competitive advantage on insulating you from some of the claims inﬂation on the market.
+Can you just remind us, the number of auto repairs you have and what sort of proportion
+of your own damage claims actually go through your own network.
+And then on the IT spend, it sounds like quite a lot of the initiatives focus on new business
+competitiveness. So do you see the main beneﬁt of this IT spend coming through in
+
+Page 20 of 27
+
+
+
+Company Name: Direct Line Insurance Group PLC
+Company Ticker: DLG LN Equity
+Date: 2019-07-31
+
+increasing growth? Or is it more ineﬃciency sort of element and the cost savings that
+these programs could generate and main beneﬁt coming through.
+
+A - Neil Manser
+
+{BIO 5571223 <GO>}
+
+FINAL
+
+So, we've got 20 sites at the moment and I think it's just over half of our repairs go
+through those they are in repairs they are in repairs there?
+
+A - Penny James
+
+{BIO 15157212 <GO>}
+
+100,000 a year. And look IT spend should beneﬁt renewals and new business, so it's not
+designed to -- I mean one way or the other. So, everyone, all customers should beneﬁt
+from that and the business reﬂect more of that should beneﬁt. It's a combination, so there
+are clearly eﬃciencies we do lots of manual work around today that we don't have to do
+in the new world. You've had examples of automated claims that increases eﬃciency,
+There are lots and lots of eﬃciency. Examples, The biggest beneﬁts I will come in terms of
+-- what I call competitive advantage in the market place. Whether we take those in terms
+of the kind of loss ratio bottom line all use those I think just depends on the dynamics at
+the time, when they're.
+
+Q - Andrew Broadﬁeld
+
+{BIO 7273415 <GO>}
+
+On the impact. I was wondering, if you have any early estimates of how that may aﬀect
+your reinsurance spend?
+
+Bloomberg Transcript
+
+A - Penny James
+
+{BIO 15157212 <GO>}
+
+Short answer is, no I mean, there are lots of things that go into the reinsurance assessment
+part, so we don't know exactly what people are modeling in their reinsurance model. So
+it's too early to tell, I think.
+
+Q - Andrew Broadﬁeld
+
+{BIO 7273415 <GO>}
+
+Let's come back to go to the phones after Ed and see if there are any other questions in
+the room.
+
+Q - Edward Morris
+
+{BIO 16274236 <GO>}
+
+And thank you, everyone, for your questions. We've seen some others in the market
+introduced new product structures, so you have ﬁxed, for year example, with new price
+guarantee. Is it something that you've done a lot of work on and do you think ultimately
+the market will go in that direction?
+
+A - Penny James
+
+{BIO 15157212 <GO>}
+
+We -- when we think about whether they've done that because of the royalty pricing
+questions or whether they've done that we don't know But in terms of the pricing
+questions, we look at costs, and we've done a lot of work across the work. We haven't
+focused yet, on new propositions partly because we think the big issues about renewal
+customers or our new business customers. And also because we do have three-year sort
+of ﬁxed rate products with one of our partners with RBS and that's proved to work very
+Page 21 of 27
+
+
+
+Company Name: Direct Line Insurance Group PLC
+Company Ticker: DLG LN Equity
+Date: 2019-07-31
+
+FINAL
+
+eﬀectively through where you're talking to people in a customer journey. It works on the
+price compared to context. And then it inﬂuences the commoditized end of the market,
+because to be economic the new business prices have to be higher eﬀectively.
+So, we're comfortable with the approach and we kind of -- we just wait and see how
+successful some of those others at the moment, our assets are focusing elsewhere on the
+issue. But it's not something we rule out, we go elsewhere if the market wants to support
+those kinds of products we'll have to like.
+
+A - Unidentiﬁed Speaker
+Quick question from (Inaudible) phone's.
+
+Q - Analyst
+Does that mean you're also pretty much now on the SCR decline?
+
+A - Neil Manser
+
+{BIO 5571223 <GO>}
+
+I think we said that is in reinsurance side of the business. So I think in terms of, that's
+probably a bit more, but I mean if the material change I think is --we'd say, has changed in
+relation to that to the risk proﬁle part of the business.
+
+Operator
+
+Bloomberg Transcript
+
+We go to the line for any questions on the telephone line.
+Okay. So, we have our ﬁrst question from Greg Patterson from KBW. Greg, your line is
+now open.
+
+Q - Greg Patterson
+
+{BIO 17872394 <GO>}
+
+Good morning, everybody. (Inaudible) four questions. First one is, could you give us the
+new money yield on investment? That's question one. Question two is, the mix impacts,
+which have been hurting your top-line. I was wondering, when you think those are going
+to turn or be stabilized. And the third thing that's on U.K. Motor. I was just wondering if
+you could sort of characterize the diﬀerence in year-on-year premium rates at the
+beginning of the second quarter. And at, the third at the end of the second quarter. So,
+I'm trying to understand how the year-on-year rate has changed over.
+And then ﬁnally, in terms of general pricing in the motor markets is it everybody -- only
+moving slowly in terms of the green shoots? 1 or 2 players you're hoping disruptive in
+going for share and then are clearly identiﬁable?
+
+A - Penny James
+
+{BIO 15157212 <GO>}
+
+Welcome, Greg. We're missing you. So, I'm going to take the last two I might attempt on
+the second one and also quite for also quite for the ﬁrst one -- you? Okay, I'll just give it to
+Neil. So pricing in the market and Now we're seeing I think the home and the motor
+Page 22 of 27
+
+
+
+Company Name: Direct Line Insurance Group PLC
+Company Ticker: DLG LN Equity
+Date: 2019-07-31
+
+FINAL
+
+markets are slightly diﬀerent. I think, the most market is sort of seems to be new base. I
+don't know if any one or two players are standing out particularly the. And we keep
+seeing kind of little positives and what does that feel like it feels like you've put a chain
+there or something and it's ﬁxed if it sticks as opposed to you losing. So, we see even now
+little green shoot and then we're not sure that's the same. So -- and perhaps your point 3,
+what's that felt like year-on -year it's diﬃcult, because rate was coming oﬀ quite fast at this
+point last year, or it was because of the shape of last year's rates.
+But if I -- I think that we were falling in the ﬁrst quarter and I'd characterize it as ﬂatter in
+the second quarter. Which I think, the API graph actually probably sort of supports as well.
+But that would be our sentiment on the shape I think. In the home, I think there are always
+a couple of players doing sort of coming out the not with we're same players. So the
+market is pricing sensibly we are pricing sensibly and then you've always got a couple of
+outliers that are going --but usually small ones that are going for growth. And they're
+chop and change over time. Fixed for the last year or so.
+
+Bloomberg Transcript
+
+Mix impact is stabilized I mean the mix impact that we see come through and kind of
+oﬀset the IPT for because we take the initiative. Be they so we --and to give you an
+example, we've switched propositions from free rescue to free legal cover on Churchill.
+That changes the mix, we did it for proﬁtability reasons but it does change the IPT mix.
+And the risk mix and equally, we've upgraded as we've told you before some of the
+forward models and sort of application forward models earlier in the year again, it's not
+harvesting a particular mix. But it has an eﬀect on mix. So, I don't think -- I wouldn't give
+you a particular direction on mix travel from here equally, I wouldn't say it's going to stay
+the same because it depends on what are the steps and propositions we put in place in
+the market at any point in time. I think you had about.
+
+A - Neil Manser
+
+{BIO 5571223 <GO>}
+
+I think, Greig, you want the new business, new money yields. So, I've gotten by half the
+portfolio, they're very diﬀerent depending on where we're investing. So, weighted
+average one doesn't really help you. It depends what's insuring, what you're reinvesting
+into. So I said -- repeat -- reiterated the answer again earlier, which is as we look into
+2020, when we reinvest what's coming up for maturity. We think we can still keep.
+
+Q - Greg Patterson
+
+{BIO 17872394 <GO>}
+
+I'm saying in the ﬁrst half, what did you achieve on new money? I appreciate there is a mix
+eﬀect as we go forward, but what did you achieve on new money in the ﬁrst half.
+
+A - Neil Manser
+
+{BIO 5571223 <GO>}
+
+I don't have it on me, but it's, in eﬀect, moving the numbers.
+
+Q - Greg Patterson
+
+{BIO 17872394 <GO>}
+
+And just on the mix point. Are you saying, any can't give you guidance? Could go up or
+could go down it's a pretty random sector, in the second half?
+
+Page 23 of 27
+
+
+
+Company Name: Direct Line Insurance Group PLC
+Company Ticker: DLG LN Equity
+Date: 2019-07-31
+
+A - Penny James
+
+{BIO 15157212 <GO>}
+
+FINAL
+
+Yeah, so quite random, but it reﬂects the propositions and the targeting we do at that
+point in time. And it will also reﬂect what we view the competition in the market is today.
+So if particular --if people are -- if other people are checking particular parts of the market,
+we may do something diﬀerent. So, it wouldn't be appropriate for me to tell you that it's
+going in one particular direction.
+
+Q - Greg Patterson
+
+{BIO 17872394 <GO>}
+
+But is it true to say that you have a number of initiatives underway to try and address the
+mix -- the negative mix impact that we've seen.
+
+A - Penny James
+
+{BIO 15157212 <GO>}
+
+Yes, well we have a number of initiatives underway, we don't target mix. Through. We
+target proﬁtability outcome. We have a number of issues and issues that are underway
+and they may well aﬀect mix and average premium in doing that.
+
+Q - Greg Patterson
+
+{BIO 17872394 <GO>}
+
+Thank you.
+
+A - Unidentiﬁed Speaker
+
+Bloomberg Transcript
+
+(Inaudible)
+
+Operator
+Our next question is from Andrew Sinclair from Bank of America. Andrew, your line is now
+open.
+
+Q - Andrew Sinclair
+
+{BIO 3232978 <GO>}
+
+Good morning, everyone. Just a couple on expenses from me. If that's okay. So ﬁrstly just
+on expenses. How much of this year's operating expenses were one-oﬀ for IT and other
+developments? And secondly, just looking at what the run rate must be in H2 to get you
+under your GBP700 million target for the full year. And particularly how that rolls into
+2020? Can you comment to that expense base being lower in absolute terms again in
+2020 than it was -- and than it will be in 2019? Thanks.
+
+A - Neil Manser
+
+{BIO 5571223 <GO>}
+
+Right. So, the second one. So, yeah, the run rate in the second half will be lower it
+naturally is because it's phasing. As I think you said, it's probably in the ﬁrst half, it's about
+GBP20 million. So, if you look at the ﬁrst half second half split historically in 2013 there's
+obviously even bigger gap between ﬁrst half and second half. But, I think the -- there's
+nothing in there that should be standing run rate, we -- as we look forward into 2020. I
+think, we will be targeting lower cost in 2020 than in 2019.
+
+Page 24 of 27
+
+
+
+Company Name: Direct Line Insurance Group PLC
+Company Ticker: DLG LN Equity
+Date: 2019-07-31
+
+FINAL
+
+So, yes, in terms of one-oﬀs in there I don't think I'd call anything one-oﬀ in there a lot of
+the transformation costs are capitalized, as you've seen so yes, there's always these
+additional costs when you're running a lot of transformation programs, but I wouldn't
+necessarily say it's one oﬀ at the moment. So I think we're going to revise some
+transformations in the next couple of years.
+
+Q - Andrew Sinclair
+
+{BIO 3232978 <GO>}
+
+Thanks.
+
+Operator
+Any other questions may line [ph]
+Our next question is from Johnny from GBI. Johnny just come oﬀ of the line. So I'll move
+on to the next question.
+
+Q - Joanna Parsons
+
+{BIO 1558226 <GO>}
+
+Bloomberg Transcript
+
+Thank you so much. Three question from me. Just in terms of your comment on dual
+pricing that you've been reviewing the way you've been treating renewal and new
+customers at the year. End when did you start doing that review has that been a long-term
+process or was it post the ABI, calling for that to be done? And then the second question
+is FX? is that going to have much of a negative impact for you do you think on claims cost
+in terms of repair costs for parts?
+I think, so we've had a pricing framework in place for some years including a renewal
+point of review at ﬁve years. So in that sense it's been a long-time thing, we continue to
+review the lines and the positioning sort of and approaches last we take within that
+framework. Because what you're trying to do over time is kind of improve the situation
+and even the situation. So, we've tightened as we go if that makes sense.
+But it's not a new process, there are -- but we are we do work with the ABI continuously
+and keep making improvements at all the industry including ourselves on improving both
+transparency. And any tail risk over time. So that I think is the dual pricing FX, do you
+want?
+
+A - Neil Manser
+
+{BIO 5571223 <GO>}
+
+I think, Jawana, clearly certain devaluation or reduction in investment and it does increase
+inﬂation sometimes, it's cost so I wouldn't overcall the impact of it.
+
+Q - Analyst
+Okay. Thank you.
+
+Operator
+Next up, we have (Inaudible) from CBS. Johnny, your line is now open.
+Page 25 of 27
+
+
+
+Company Name: Direct Line Insurance Group PLC
+Company Ticker: DLG LN Equity
+Date: 2019-07-31
+
+Q - Analyst
+Hi, guys. Can you hear me?
+
+A - Penny James
+
+{BIO 15157212 <GO>}
+
+FINAL
+
+Yeah. Welcome, Johnny.
+
+Q - Analyst
+Wonderful. Thank you so much better. Just to go back to the FCA pricing investigation. I
+mean, how do you have you changed any of your renewal pricing practices? Speciﬁcally
+this year ahead of the interim and full year ﬁndings that we're going to get. It's hard to
+gauge like at the market level is some element for pricing weakness that we're seeing
+from the ABI is some of that because renewal pricing is coming down a bit, just as people
+clean things up ahead of the FCA? Any color there would be great. Thank you.
+
+A - Penny James
+
+{BIO 15157212 <GO>}
+
+Bloomberg Transcript
+
+Let me continue to make changes within our pricing not directly a response to any
+particular communication from the FCA or anyone else. But because we have pricing
+practices that have been --and principles that we can review, unlike the rest of the ABI
+members we've introduced the -- and reﬂected the pricing principles that we have there,
+and those keep moving through. So, we are constantly making improvements in the book
+and our numbers will reﬂect those improvements already. So, I think that's maybe -- I can't
+comment on, what other people are doing, it still feels competitive out there. So it's not
+obvious that anything dramatic is happening. But I can't comment on what other people
+are doing on pricing.
+
+Q - Analyst
+Penny, thanks.
+
+Operator
+Next up, we have phill Ross from (Inaudible) your line is now open.
+
+Q - Analyst
+Good morning, (Inaudible) from media banker. Just one question left from me, please.
+Which is a bit of a follow up on top line so apologies for that? You talked at the start of the
+presentation about your future ability to grow sustainably I think they were the words you
+used. What's your view on when we might start to see sustainable growth in the top line?
+And what kind of role might partnerships play in that growth. Thank you.
+
+A - Penny James
+
+{BIO 15157212 <GO>}
+
+Thanks. I mean, I think we are -- I think I said at home, what we're trying to build is
+competitive advantage, that then gives us choices and bottom line in growth depending
+at any point in time on what the market is doing.
+
+Page 26 of 27
+
+
+
+FINAL
+
+Company Name: Direct Line Insurance Group PLC
+Company Ticker: DLG LN Equity
+Date: 2019-07-31
+
+So, we believe, that when you combine those with some of the newer initiatives and so on
+that there is growth potential we absolutely do. As we sit in the market today in the short
+term, our priority will always be discipline. And so we can see -- watch that dynamic at the
+moment. So -- and will point to what that growth path will be in the short term. In term of
+partnerships? are more? Binary. That's the that's sort of -- it's sort of an on-oﬀ switch. So,
+yes, we would be in the partnership arena, yes we think partnerships will be holding their
+shape over time but I think its early day for evolution. We just renewed two partnerships
+on travel so, which proves that we're still actively participating in that marketplace.
+
+Q - Analyst
+Okay. Thank you.
+
+Operator
+We have no further questions on the line?
+
+A - Neil Manser
+
+{BIO 5571223 <GO>}
+
+Thank you very much. I think unless there's any urgent question as you can probably
+running out of time. So, thank you very much.
+
+A - Penny James
+
+{BIO 15157212 <GO>}
+
+Bloomberg Transcript
+
+Just say thank you to everyone for ﬁghting through the tube lines as you and yes the
+presentation the scripts will be online if anyone have missed the beginning. So, thank you.
+
+Operator
+Ladies and gentlemen, this concludes today's call. Thank you for joining. You may now
+disconnect your lines.
+
+This transcript may not be 100 percent accurate and may contain misspellings and other
+inaccuracies. This transcript is provided "as is", without express or implied warranties of
+any kind. Bloomberg retains all rights to this transcript and provides it solely for your
+personal, non-commercial use. Bloomberg, its suppliers and third-party agents shall have
+no liability for errors in this transcript or for lost proﬁts, losses, or direct, indirect,
+incidental, consequential, special or punitive damages in connection with the furnishing,
+performance or use of such transcript. Neither the information nor any opinion expressed
+in this transcript constitutes a solicitation of the purchase or sale of securities or
+commodities. Any opinion expressed in the transcript does not necessarily reﬂect the
+views of Bloomberg LP. © COPYRIGHT 2022, BLOOMBERG LP. All rights reserved. Any
+reproduction, redistribution or retransmission is expressly prohibited.
+
+Page 27 of 27
+
+

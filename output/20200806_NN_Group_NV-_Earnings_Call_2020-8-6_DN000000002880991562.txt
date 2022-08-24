@@ -1,0 +1,1072 @@
+Company Name: NN Group NV
+Company Ticker: NN NA Equity
+Date: 2020-08-06
+
+S1 2020 Earnings Call
+Company Participants
+FINAL
+
+Bernhard Kaufmann, Chief Risk Oﬃcer
+David Knibbe, Chief Executive Oﬃcer
+Delﬁn Rueda, Chief Financial Oﬃcer
+
+Other Participants
+Andrew Baker, Analyst
+Cor Kluis, Analyst
+David Barma, Analyst
+Fulin Liang, Analyst
+Gordon Aitken, Analyst
+Jason Kalamboussis, Analyst
+Michele Ballatore, Analyst
+Unidentiﬁed Participant
+
+Bloomberg Transcript
+
+Presentation
+Operator
+Good morning, ladies and gentlemen. This is the operator speaking. Welcome to NN
+Group's Analyst Conference Call on its Half Year 2020 Result. The telephone lines will be
+in listen-only mode during the company's presentation. The lines will then be opened for
+a question-and-answer session.
+Before handing this conference call over to Mr. David Knibbe, Chief Executive Oﬃcer of
+NN Group, let me ﬁrst give the following statement on behalf of the company. Today's
+comments may include forward-looking statements. Such statements regarding future
+developments in NN Group's business, expectations for its future ﬁnancial performance
+and any statement not involving a historical fact. Actual results may diﬀer materially from
+those projected in any forward-looking statement. Any forward-looking statements speak
+only as of the date they are made, and NN Group assumes no obligation to publicly
+update or revise any forward-looking statements, whether as a result of new information
+or for any other reason. Furthermore, nothing in today's comments constitutes an oﬀer to
+sell or solicitation of an oﬀer to buy any securities.
+Good morning, Mr. Knibbe. Over to you.
+
+David Knibbe
+
+{BIO 17996037 <GO>}
+
+Page 1 of 18
+
+
+
+Company Name: NN Group NV
+Company Ticker: NN NA Equity
+Date: 2020-08-06
+
+FINAL
+
+Yes, good morning, everyone and welcome to our conference call to discuss NN Group's
+results for the ﬁrst half of 2020. I'm joined today by Delﬁn Rueda, our Chief Financial
+Oﬃcer, and Bernhard Kaufmann, our Chief Risk Oﬃcer. As usual, I will ﬁrst take you
+through the highlights of the ﬁrst half-year results. Delﬁn will then talk in more detail
+about the solvency position, operating capital generation as well as the ﬁnancial results of
+the group. After wrapping up the presentation, I will open up the call for Q&A.
+Let me start with the highlights shown on slide three. It's been an extraordinary ﬁrst half of
+the year in many ways, ﬁrst and foremost, because of the COVID-19 pandemic. Our ﬁrst
+priority has been the well-being of our employees and an uninterrupted service to our
+customers. Thanks to robust systems and new ways of working, we have been able to
+continue supporting our customers through these turbulent times. Of course, COVID-19
+did impact our business. For example, the lockdown restrictions meant having to ﬁnd new
+digital tools for brokers and agents to reach customers to remotely. And we provided
+payment and premium holidays for customers experiencing ﬁnancial diﬃculties.
+
+Bloomberg Transcript
+
+On the other hand, we saw a lower frequency of P&C claims reﬂecting less traﬃc on the
+roads and more people staying at home, which largely oﬀset the higher D&A claims,
+resulting in a combined ratio of 94.9% for the ﬁrst half of the year. All in all, the impact on
+the operating result of around EUR30 million has been limited so far, while sales and new
+business were clearly much lower than in the same period last year. Similarly, operating
+capital generation held up well amounting to EUR543 million in the ﬁrst half of the year.
+Another important event in the ﬁrst half of 2020 was the completion of the acquisition of
+VIVAT Non-life on 1st of April. We have welcomed the VIVAT employees and customers
+and started the process of integrating the business. It also contributed to results in the
+ﬁrst half of the year.
+Despite the volatile environment, our balance sheet remains resilient. NN Group Solvency
+II ratio is 221%, which is after deduction of the interim dividend announced today. And the
+cash capital position is EUR1.3 billion, reﬂecting cash outﬂows, such as the consideration
+paid for VIVAT Non-life and a redemption of the EUR300 million senior debt in June.
+Our decision to suspend the 2019 ﬁnal dividend and share buyback program in April was
+in response to the recommendations of the European and Dutch regulators, given the
+uncertainty around how COVID-19 would develop. However, it has always been our
+intention to make those distribution to shareholders in the second half of the year, if and
+when appropriate. And therefore, we have today announced that we are resuming the
+share buyback and will pay an interim dividend of EUR2.26 per ordinary share, which
+comprises the amount of the suspended ﬁnal dividend, plus the regular interim dividend.
+Turning to slide four. At our Capital Markets Day in June, we set out the strategic
+initiatives that underpin our commitment to creating sustainable value for our
+stakeholders, by increasing cash ﬂow generation and driving growth in attractive markets.
+In May, NN Life completed a sizable longevity deal, which reduces our exposure to
+longevity risk and consequently further strengthens our capital position. The resulting
+
+Page 2 of 18
+
+
+
+Company Name: NN Group NV
+Company Ticker: NN NA Equity
+Date: 2020-08-06
+
+FINAL
+
+capital beneﬁt has allowed NN Life to further shift to higher-yielding assets and increase
+its quarterly dividends to the holding company.
+In the ﬁrst half of the year, we accelerated the shift to higher-yielding assets. We invested
+more than EUR4 billion in investment grade bonds, high-yield bonds, equities and
+emerging market debt, also taking advantage of the market opportunities especially in
+March and April. Even with the COVID restrictions and the challenges of developing new
+online sales process, we continue to launch new products to meet customer needs. For
+example, a unique product in Poland, allowing people already suﬀering from diabetes to
+take out this protection insurance. And in Japan, we introduced the Emergency Plus COLI
+product in early March, which provides attractive beneﬁts also under the new rules.
+Our asset manager, NN Investment Partners, collaborated with a strategic partner China
+Asset Management to launch its inaugural ESG-integrated China A-Share Equities
+strategy, responding to the growing demand for investment strategies that integrate
+Environmental, Social and Governance factors.
+
+Bloomberg Transcript
+
+Moving to slide ﬁve. As I already mentioned, new sales were impacted by the COVID
+restrictions from March onwards. In turn, the value of new business was down versus the
+same period, also reﬂecting decreased interest rates as well as strong sales in the ﬁrst
+quarter of 2019 ahead of the implementation of the revised tax regulations for COLI
+products in Japan.
+On the other hand, the mortgage market remains strong. NN Bank originated EUR4.4
+billion of new mortgages in the ﬁrst half of 2020, of which EUR2.9 billion was transferred
+to the Group's insurance companies for their investment portfolios, as well as to NN IP's
+third-party Dutch Mortgage Fund.
+Total assets under management at NN IP increased EUR285 billion at the end of June,
+reﬂecting positive market performance as well as inﬂow of assets. Even though there were
+outﬂows of assets mainly in March, this was more than oﬀset by strong inﬂows at the
+beginning of the year and the second quarter. On balance, we saw a net inﬂow of EUR3.5
+billion in third-party assets.
+On slide six, we show our progress on cost reductions. We continue to work towards
+achieving our target to reduce the expense base of the business units in the scope of
+integration by EUR400 million by the end of this year. In the ﬁrst half of 2020, we realize
+additional cost savings of EUR21 million, bringing the total cost reductions to date to
+EUR381 million compared with the 2016 full-year expense base. Even after we complete
+this program, we will continue to focus on increasing eﬃciency throughout the
+organization and this is reﬂected in the segment cost guidance that we gave at the Capital
+Markets Day in June.
+The following slide shows the capital returns announced today. We have a clear capital
+return policy, consisting of a progressive dividend per share and an annual share buyback
+of at least EUR250 million. Following the suspension of dividend payments and the share
+buyback earlier this year, we are pleased to announce that we are now resuming capital
+Page 3 of 18
+
+
+
+Company Name: NN Group NV
+Company Ticker: NN NA Equity
+Date: 2020-08-06
+
+FINAL
+
+returns to our shareholders. The interim dividend of EUR2.26 per share announced today
+is essentially made up of two components, EUR1.40, which is the amount of the proposed
+2019 ﬁnal dividend that was suspended, plus EUR0.86, which is the amount of the regular
+2020 interim dividend calculated in accordance with our dividend policy.
+In addition, we are resuming the share buyback program that was started in March and
+then suspended in April. We had already completed EUR183 million of the EUR250
+million program, so we will now execute the remaining EUR67 million. This announcement
+today means that we will deliver on our intended capital distribution to shareholders.
+And with that, I will pass it over to Delﬁn.
+
+Delﬁn Rueda
+
+{BIO 7032761 <GO>}
+
+Thank you, David. And good morning, everyone. You will notice a change in the order of
+my slides compared with previous presentations. This is because of our shift in focus
+towards operating capital generation as announced at the Capital Markets Day. So let me
+begin with the movements in NN Group's solvency position.
+
+Bloomberg Transcript
+
+I'm pleased that, despite the turbulent ﬁnancial markets in the past six months, we are
+reporting a strong Solvency II ratio of 221% at the end of the ﬁrst half of 2020 versus 224%
+at the end of 2019. Operating capital generation added 7 percentage points to the ratio. I
+will talk more about the drivers of operating capital generation on the next slide.
+We experienced extreme volatility in the markets in the ﬁrst six months of the year, but as
+you -- as we have seen before, the longer-term market impact is relatively small. Market
+variances reduced the ratio by 3 percentage points in the ﬁrst half of 2020, mainly due to
+unfavorable credit spread movements as well as equity revaluations.
+The category Other includes various items, with a positive contribution from the longevity
+transactions, which more than compensated the negative impact of the reduction of the
+UFR by 15 basis points at the start of the year and the acquisition of VIVAT Non-life.
+Finally, the ratio reﬂects our deduction of capital ﬂows to shareholders of 11 percentage
+points. This represents the announced interim dividend of EUR2.26 per share or
+approximately EUR705 million in total, as well as the EUR183 million paid to repurchase
+shares under the share buyback program, which began in March and was suspended in
+April.
+As you are aware, the Bank will be included in the calculation of the Solvency II ratio as
+from at the end of the year. Based on current estimates, this will have a negative impact to
+the Solvency Ratio of around 10 percentage points.
+Let's turn to slide 10. Total operating capital generation in the ﬁrst half of 2020 amounted
+to EUR543 million compared with EUR697 million in the same period last year. In the table
+on this slide, you can see the split by segment. This is in line with the guidance we gave at
+Page 4 of 18
+
+
+
+Company Name: NN Group NV
+Company Ticker: NN NA Equity
+Date: 2020-08-06
+
+the Capital Markets Day and reﬂects the exceptional circumstances we are facing this year,
+given COVID-19.
+
+FINAL
+
+The decrease of operating capital generation reﬂects the negative impact of the UFR drag
+and risk margin release as a result of the lower interest rates, mainly in Netherlands Life,
+As well as the negative impact of the longevity reinsurance transactions. Another factor
+was the fact that there was no contribution from the Bank in the ﬁrst half of this year
+following the suspension of dividend payments on the recommendation of the regulator.
+In addition, we saw a lower net business contribution in Insurance Europe as a result of
+the COVID-19 restrictions, as well as lower margins due to a decrease in interest rates. On
+the other hand, the shift to higher-yielding assets resulted in a higher investment return
+mainly in Netherlands Life, and operating capital generation of the non-life business
+includes the results of VIVAT Non-life as from April.
+
+Bloomberg Transcript
+
+As I already mentioned, the method for including the Bank in the Solvency II ratio and
+therefore in operating capital generation will change as from the end of the year. If we
+were to apply the new method already, operating capital generation for the bank for the
+ﬁrst half of this year would have been approximately EUR50 million on a pro forma basis.
+On the next slide, you can see that the cash capital position at the holding was EUR1.3
+billion at the end of June 2020, compared with just under EUR2 billion at the end of 2019.
+Total remittances received from subsidiaries amounted to EUR718 million. As usual, details
+of all the remittances upstream by each segment can be found in the appendix of this
+presentation.
+During the period, we also had cash outﬂows, including the consideration paid for the
+acquisition of VIVAT Non-life, the redemption of EUR300 million of senior debt and the
+repurchase of own shares under the buyback programs executed in the ﬁrst half year.
+Looking ahead, we expect cash capital to remain comfortably within our target range.
+Besides outﬂows, such as the planned dividend payment, we will also continue to receive
+dividends from our subsidiaries, including a dividend from NN Life of EUR225 million
+each quarter.
+Moving on to the next slide, I will take you through the IFRS ﬁnancial results of the group.
+Starting on the left, NN Group's operating result increased to EUR926 million from EUR914
+million in the same period last year. Let me remind you that the 2019 ﬁrst half-year result
+included EUR67 million of private equity and special dividends, while the result for the
+ﬁrst half of 2020 includes a much smaller amount of EUR16 million of private equity
+dividends and non-recurrent beneﬁts, and also reﬂects the negative impact of COVID-19,
+which, as David already mentioned, was around EUR30 million in the ﬁrst half of the year.
+We will take you through the operating performance of the individual segments on the
+next slide. On the right hand side, you can see that the net result for the ﬁrst half of 2020
+Page 5 of 18
+
+
+
+Company Name: NN Group NV
+Company Ticker: NN NA Equity
+Date: 2020-08-06
+
+FINAL
+
+was EUR587 million. The decrease compared with the ﬁrst half of 2019 is mainly due to
+lower non-operating items, in particular lower revaluations and market and other impacts,
+reﬂecting the volatile markets as a result of COVID-19.
+On the slide 13, let me run through the performance of each segment starting as usual
+with Netherlands Life. The operating result of EUR494 million reﬂects a lower investment
+margin as the ﬁrst half of 2019 beneﬁted from EUR67 million of private equity and special
+dividends. While these dividends were just EUR9 million in the ﬁrst half of this year. At the
+same time, we saw higher longevity and morbidity results in the ﬁrst half of 2020, as well
+as lower administrative expenses.
+The result of Netherlands Non-life increased to EUR111 million. We included the results of
+VIVAT Non-Life as from 1st of April, which was a contribution of EUR20 million.
+
+Bloomberg Transcript
+
+Our Property & Casualty business reported higher underwriting results, including
+favorable run-oﬀ results and a positive impact from COVID-19. On the other hand, we saw
+lower underwriting results in Disability & Accident, including higher claims experience
+due to COVID-19, the reduction of the reserve in discount rate and continued unfavorable
+claims experience in Individual Disability, which was partly covered by internal
+reinsurance. The combined ratio was 94.9%.
+Insurance Europe's operating result decreased to EUR133 million from EUR140 million in
+the ﬁrst half of 2019, which included a EUR6 million non-recurring beneﬁt. The operating
+result of Japan Life was EUR138 million, up 12% excluding currency eﬀects. This reﬂects an
+improved persistency of the in-force portfolio. Asset Management's result was stable at
+EUR74 million.
+The operating result of Banking increased to EUR80 million, which includes a EUR7 million
+non-recurring beneﬁt relating to premiums on mortgages, sales to the NN IP Dutch
+Residential Mortgage Fund. The interest result was also higher, reﬂecting lower funding
+cost and higher penalty interest as customers took advantage of lower mortgage rates to
+reﬁnance their loans.
+Finally, the segment Other reﬂects a lower result at the reinsurance business partly oﬀset
+by a higher holding result. In particular, the reinsurance result reﬂects EUR39 million of
+claims related to Non-life's Disability portfolio, while at the same period in 2019 included
+EUR13 million of such claims as well as a large claim from our legacy reinsurance portfolio.
+With that, I will now pass you back to David for the wrap-up.
+
+David Knibbe
+
+{BIO 17996037 <GO>}
+
+Thank you, Delﬁn. NN Group has today reported a strong set of results showing resilience
+in a time of market turbulence and weathering the impact of the COVID-19 pandemic. Our
+capital position is robust with a Solvency II ratio of 221%, which already reﬂects the
+deduction of the interim dividend of EUR2.26 per share that we announced today.
+
+Page 6 of 18
+
+
+
+Company Name: NN Group NV
+Company Ticker: NN NA Equity
+Date: 2020-08-06
+
+FINAL
+
+Operating capital generation for the ﬁrst half of 2020 was EUR543 million, adding 7
+percentage points to the ratio. During our Capital Markets Day in June, we presented our
+strategy for NN Group and our aim to create sustainable value for our stakeholders. With
+our priority to maintain a strong balance sheet and the strategic actions we are taking to
+achieve resilient and growing long-term capital generation, we are well positioned to
+navigate through volatile markets, drive proﬁtable growth, and deliver attractive capital
+returns going forward.
+I will now hand you back to the operator to open up the call for your questions.
+
+Questions And Answers
+Operator
+Thank you, Mr. Knibbe. (Operator Instructions) And the ﬁrst question is from Mr. Cor Kluis,
+ABN AMRO. Go ahead, please.
+
+Bloomberg Transcript
+
+Q - Cor Kluis
+
+{BIO 3515446 <GO>}
+
+Good morning, and congratulations with the results. Question on slide 18, where you have
+to give the split-up of the OCG. We see that the line Life Experience variance, that's
+EUR37 million, quite a big plus. Is that COVID-19 related or could you elaborate on that?
+And on the same slide, we also see that there is a change of the SCR, which is a beneﬁt of
+EUR35 million in the quarter -- in the half-year, you re-risk of course in the portfolio. So
+question is what is the re-risking eﬀect because with re-risking, you would have expected
+negative eﬀects from that line, so how much did the SCR increase as a result of the rerisking? That's on that slide.
+And second question is on capital returns. It's good that you're ﬁnalizing the remaining
+part of the share buyback, given the capital position and operational results. What would
+be a logical moment to announce a new share buyback, is it really Q4 to review that or
+could it also have been little a bit earlier in the year at a certain event or something?
+And my last question is on Japan, persistency quite good beneﬁt for the results, of
+course. Could you elaborate a little bit more on that? How much of that is structural? It
+seems that clients there remain quite persistent in deed and would it mean that the next
+couple of quarters these results on an IFRS basis at least would also be so beneﬁcial?
+Those were my questions.
+
+A - David Knibbe
+
+{BIO 17996037 <GO>}
+
+Yes, thank you, Cor. Let me start by answering your questions on the capital return and
+Japan, and then I'll give the question on slide 18 of Delﬁn's presentation naturally to
+Delﬁn.
+So on capital return, what will be a logical moment? Well, I wouldn't expect a share
+buyback announcement this year on top of what we have already announced today. I
+mean, if we look at our capital return policy, we obviously look at three factors there, the
+Page 7 of 18
+
+
+
+Company Name: NN Group NV
+Company Ticker: NN NA Equity
+Date: 2020-08-06
+
+Solvency II position, which is strong, our leverage position and our cash on the holding.
+And then, of course, we take into account what our outlook is for operating capital
+generation, and free cash ﬂow also given the economic circumstances.
+
+FINAL
+
+Earlier, we announced that our capital policy means a minimum of EUR250 million of
+share buyback annually. So that one will run oﬀ in the ﬁrst quarter of next year. So the Q4
+reporting for 2020 in February of next year would be a logical moment to talk about this.
+
+Q - Cor Kluis
+
+{BIO 3515446 <GO>}
+
+Okay.
+
+A - David Knibbe
+
+{BIO 17996037 <GO>}
+
+That's on capital return. Then on Japan, indeed, we're putting in a lot of eﬀort to keep the
+persistency at where it is, so we're issuing at times policy loans. We're doing a lot to
+support the portfolio. We're also beneﬁting from the last four, ﬁve years, where we had a
+substantial sales and, therefore, we're also able to build a substantial in-force book. I
+don't have now any indication that I would expect a major change in the persistency.
+With regard to the development of the portfolio, in May, June, July we've seen a more
+positive trend on sales and assuming that the economy continues to open up in Japan,
+we're optimistic that we can increase the -- also the sales pattern for Japan.
+
+Bloomberg Transcript
+
+And then let me give the question on slide 18 to Delﬁn.
+
+A - Delﬁn Rueda
+
+{BIO 7032761 <GO>}
+
+Yes, thank you, Cor, for your questions. On the Experience variance, there are several
+items but it is mainly the lower claims related to COVID in the Property & Casualty
+business, and also some positive deviations due to better longevity results, also related to
+COVID. So, most of it is COVID-related. In terms of the change in SCR, please keep in
+mind that the change in the -- for the re-risking, which increase our SCR by approximately
+EUR175 million. This eﬀect is reﬂected in the bucket Other. So it does not appear as part of
+the operating capital generation. Therefore, the EUR35 million relates to the normal runoﬀ of the portfolio mainly in the Netherlands.
+
+Q - Cor Kluis
+
+{BIO 3515446 <GO>}
+
+Okay. Very clear. Thank you.
+
+Operator
+The next question is from Mr. Andrew Baker, Citi. Go ahead, please.
+
+Q - Andrew Baker
+
+{BIO 20402705 <GO>}
+
+Hi. Thank you for taking my questions. So just two from me. On the COVID impact, so you
+said in June you expected the full-year impact to be EUR100 million on operating proﬁt. It
+Page 8 of 18
+
+
+
+Company Name: NN Group NV
+Company Ticker: NN NA Equity
+Date: 2020-08-06
+
+looks like it was EUR30 million in the ﬁrst half. Does that mean we should expect EUR70
+million in the second half or is it lower than you expected at the time in June?
+
+Bloomberg Transcript
+
+FINAL
+
+And then is the impact on OCG just EUR37 million that you just talked about, Delﬁn? And
+then secondly just on VIVAT, so it contributed EUR20 million to Non-life results. Are there
+any one-oﬀs in this amount? And if not, has your expectations on the beneﬁt of this
+transaction changed? Thank you.
+
+A - David Knibbe
+
+{BIO 17996037 <GO>}
+
+Yes, thank you, Andrew. Let me just say a few things about the COVID impact and VIVAT.
+And I'm sure Delﬁn can elaborate if needed. So on the guidance, we don't have a reason
+to change our guidance on COVID-19. I think we continue to see a relatively limited
+business impact there, also due to the way the business is set up. In the EUR30 million for
+the ﬁrst half year, we do see a deteriorating trend for a while already in D&A, but so far, it
+has been oﬀset by more favorable P&C results. Most of the impact is on lower sales. Keep
+in mind that the -- so when we're talking about EUR30 million obviously, the most of the
+corona impact was only a quarter. So even though we report here for six months, the most
+of the corona impact was mainly in the second quarter and, therefore, we're also not
+changing our guidance that we've given at the Capital Markets Day of a EUR100 million
+impact.
+On VIVAT, indeed, there was a EUR20 million impact in the ﬁrst six months. I think it's fair
+to say that the experience so far in its early days is somewhat better than expected. Please
+keep in mind that the EUR20 million contribution was also positively impacted by COVID19. The Non-life business of VIVAT has a -- is, to a large extent, a P&C business and the
+lockdown have a favorable impact on the claims ratios, mostly in ﬁre and in motor due to
+less economic activity. So I wouldn't assume the EUR20 million contribution now as a run
+rate going forward. Maybe, Delﬁn, you can add on OCG.
+
+A - Delﬁn Rueda
+
+{BIO 7032761 <GO>}
+
+Yes, Andrew, on the OCG, you're right that in terms of Experience variance and other
+eﬀects like, for example, in OCG indirectly COVID impact of a possibility to pay dividends
+out of the Bank. That, as you know, is included when we receive the dividends. The
+biggest impact in OCG comes actually through the impact in markets. So the low interest
+rates, as you can see also in the same slide 18, increased very substantially the UFR drag.
+And on that respect, that is the biggest impact. But otherwise you leave markets impact
+aside, the impact on OCG is also relatively similar, slightly higher than the EUR30 million
+for the operating result.
+
+Q - Andrew Baker
+
+{BIO 20402705 <GO>}
+
+Great. Thank you very much, guys.
+
+Operator
+Your next question is from Mr. Michael Huttner, BMR [ph]. Go ahead please.
+
+Page 9 of 18
+
+
+
+Company Name: NN Group NV
+Company Ticker: NN NA Equity
+Date: 2020-08-06
+
+FINAL
+
+Q - Unidentiﬁed Participant
+Sorry about that I was on mute. Good morning. Thank you very much for taking my
+question. I only had one, which is at the Capital Markets Day, I had the impression -- the
+feeling that -- the guidance is a wrong word, but indications for operating capital
+generation for 2020 would be around the EUR1 billion. But at the half year, you're already
+around EUR543 million, so you're ahead of that. And I'm just wondering if there are any
+seasonality to make me think that the second half would be lower? That's my question.
+Thank you.
+
+A - David Knibbe
+
+{BIO 17996037 <GO>}
+
+Yes, thank you, Michael. Delﬁn?
+
+A - Delﬁn Rueda
+
+{BIO 7032761 <GO>}
+
+Yes. Thanks, Michael. No reason to provide any diﬀerent guidance of what we said in the
+Capital Markets Day. Of course, the OCG in any particular period has a dependency on
+the level of interest rates and spreads over the -- we calculate it based on monthly levels
+of the value of our ﬁxed income securities. So it is not just the start of 1st of July that the
+term is the investment return, but what are these investment returns every month. So it is
+diﬃcult to provide a precise guidance of how this would evolve. But the guidance
+provided take at Capital Markets Day is still maintained.
+
+Q - Unidentiﬁed Participant
+
+Bloomberg Transcript
+
+Brilliant. Thank you very much. Thank you.
+
+Operator
+The next question is from Mr. David Barma, Exane. Go ahead, please.
+
+Q - David Barma
+
+{BIO 19957338 <GO>}
+
+Yes, good morning. Thank you for taking my questions. The ﬁrst one is on the Dutch Life
+earnings and the technical result is pretty strong. You mentioned some mortality beneﬁts
+there. I assume that you relating them to COVID speciﬁcally can be tricky, but perhaps can
+you give us an idea of what you're seeing in terms of excess mortality on your book
+compared to last year or on average?
+Then the second question I had was on the investment margin in the operating capital
+generation. From what you've shown this morning, the CMD targets of EUR200 million
+extra seems relatively close to get to. Is there anything speciﬁc to call out on that
+investment margin you disclosed this morning or is that only the impact from the
+rebalancing of the asset allocation you've done during the semester or is there maybe
+background changes in the risk free curve since the CMD or something like that?
+And my last question is on Non-life in the Netherlands. I understand the D&A result is
+impacted by COVID-related claims, by the mechanical impact of rates on Disability, and
+by the longer time claims inﬂation you're seeing in the Individual Disability. Would it be
+Page 10 of 18
+
+
+
+Company Name: NN Group NV
+Company Ticker: NN NA Equity
+Date: 2020-08-06
+
+possible to split that out for the ﬁrst semester or -- just to get an idea of what's recurring in
+there and what's not? Thank you.
+
+A - David Knibbe
+
+{BIO 17996037 <GO>}
+
+FINAL
+
+Okay, thank you, David. Delﬁn, why don't you take the question on Non-life and
+investment margin?
+
+A - Delﬁn Rueda
+
+{BIO 7032761 <GO>}
+
+Yes. So, the ﬁrst question. Hi, good morning, David. The ﬁrst question on the technical
+result in Netherlands Life, this is driven by better longevity results, as well as some the
+better morbidity results as well in the ﬁrst half of the year. Of course, the beneﬁts on the
+higher mortality or better longevity, we don't expect that, that will continue. As a matter of
+fact that we have also seen fortunately that the number of deaths has come into closer to
+normal levels within the Netherlands.
+
+Bloomberg Transcript
+
+In terms of the investment margin, the EUR200 million mentioned on the Capital Markets
+Day, it is still a good guidance. And of course, this will be changing depending on the
+level of the interest rates of the spreads. So in the one hand, we have seen that the
+increase of spreads provide some additional investment margin going forward as well as
+the re-risking that we have performed so far.
+So overall, I don't think there is better guidance that this EUR200 million increase for
+2023. In terms of the impact of the investment in higher-yielding assets, that's, of course,
+base and we need to take into account this a bit careful based on the spreads and the
+level of interest rates at the end of June. This good half already on annualized basis
+provide an OCG uplift of more than EUR100 million, approximately EUR120 million. But, of
+course, changes in these spreads will come over time as well.
+
+A - David Knibbe
+
+{BIO 17996037 <GO>}
+
+Okay. Thank you, Delﬁn. Then on the D&A result. Indeed, the overall result of the Non-life
+company was strong, but if you look then deeper, there are some oﬀsetting eﬀects. We've
+seen a continued deterioration of the individual D&A book. This is around 10% of the
+premium. We already saw some pressure, mostly in the medical profession on that book,
+and now even more in the current situation. We are taking measures on repricing, claim
+handling, and making sure that we manage this very eﬃciently also from an expense
+perspective. But these measures will take some time to implement.
+Now, on the speciﬁc question on a breakdown, I can tell you that the impact of the
+discount rate for the D&A, the full D&A company for the ﬁrst half year is around EUR20
+million and you would expect a similar amount likely for the second half of the year.
+Overall, good to know that despite the upward pressure that we see, because of the
+discount rate and COVID and also the individual D&A book that our guidance of 94 to 96
+hasn't changed.
+
+Q - David Barma
+
+{BIO 19957338 <GO>}
+
+Page 11 of 18
+
+
+
+Company Name: NN Group NV
+Company Ticker: NN NA Equity
+Date: 2020-08-06
+
+Thank you. And if I may just one follow-up on the OCG and the answer you were giving
+already, Delﬁn. Could you just remind us the -- on what basis you -- at what points you use
+the curve to calculate the UFR drag in the risk margin release, now that you have moved
+to half-yearly reporting, is it still the sum of starting period of each quarter?
+
+FINAL
+
+A - Delﬁn Rueda
+
+{BIO 7032761 <GO>}
+
+So, the calculation of the UFR, the risk margin release, the investment spreads, is all based
+on the balances at the end of each month. So in the past, we calculated it based on
+quarter per quarter basis, but now as we are reporting for six months on a semester basis,
+things changed so much during this period of time. And this year, it has been the clear
+example of that. The evolution of markets and interest rates, and the VOLA up to March
+changed from ﬁrst quarter to second quarter quite signiﬁcantly. So we do calculate the
+operating result, I would say, on a monthly basis on balances on the beginning of the
+month.
+
+Q - David Barma
+
+{BIO 19957338 <GO>}
+
+Thank you.
+
+Operator
+The next question is from Mr. Jason Kalamboussis, KBC. Go ahead please, sir.
+
+Bloomberg Transcript
+
+Q - Jason Kalamboussis
+
+{BIO 4811408 <GO>}
+
+Yes, hi, good morning. Sorry about that. The ﬁrst thing that I want to ask is just on the -come back a bit on the combined ratio details. So in D&A, you say EUR20 million was
+included to get -- that was -- that got your D&A combined ratio to 103%. But could you
+give us a sense in percentage points of what is therefore only the deterioration you saw?
+And by when do you expect to be back to normally a combined ratio below 95%? And
+also if you could give us an idea, I mean, the P&C was very good at 90.8%. Was that
+purely driven by COVID or did you had any reserve releases in there? Because also if we
+account on the negative eﬀect of CRA, basically that's the third element if you want the
+discount that distorts a bit delivery of the 95% combined ratio.
+The second thing is just come back on Michael's question on OCG. I mean, if I recall well,
+Delﬁn, your words in the Capital Markets Day, you did say that the OCG was going to be
+closer to EUR1 billion rather than EUR1 billion. So I would presume that the closer is
+coming from EUR1.3 billion, so it can be anything between that and EUR1 billion. So I
+would consider that the EUR543 million comes pretty much within your -- that guidance. If
+you can conﬁrm that, that would be great. Thank you very much.
+
+A - David Knibbe
+
+{BIO 17996037 <GO>}
+
+Okay. Delﬁn?
+
+A - Delﬁn Rueda
+
+{BIO 7032761 <GO>}
+
+Page 12 of 18
+
+
+
+Company Name: NN Group NV
+Company Ticker: NN NA Equity
+Date: 2020-08-06
+
+FINAL
+
+Yes. So maybe starting with the second question. Indeed, at the Capital Markets Day, we
+highlighted the fact that COVID was having a negative impact and also the markets were
+dragging down. So overall, I remember saying that it will be closer to the EUR1 billion than
+the EUR1.3 billion. And therefore, I can conﬁrm that the EUR543 million is certainly within
+that guidance.
+On the combined ratio, you're right, Jason. There is a lot of things happening here, and as
+a consequence, one has to be interpret it with a bit of care. So indeed, the Property &
+Casualty combined ratio of less than 91% is driven in the one hand by a positive
+contribution of P&C coming from VIVAT because of the COVID. Also, the rest of the Nonlife business beneﬁting from that. But there was also some releases from reserves in the
+Property & Casualty business related to the SME portfolio. So as we said in the press
+release, there are several impacts that, at the end, sort of net themselves out. But the
+discount rate of the D&A, there is the storm that you mentioned in the ﬁrst quarter and
+some of the releases coming from the reserves in the Non-life.
+So another aspect to take into account in the Disability & Accident, of course, is that part
+of the negative results of Individual Disability are reﬂected in the segment Other through
+the reinsurance arrangement with NN Re. If you were to add, let's say, the claims in the
+included in the segment Other, the combined ratio would move to approximately 97%, so
+approximately 2 percentage points more for the VIVAT -- for the Non-life total combined
+ratio.
+
+Bloomberg Transcript
+
+Q - Jason Kalamboussis
+
+{BIO 4811408 <GO>}
+
+That is very, very helpful. Sorry to just put another little quick question. On the Bank not
+paying dividend, do you kind of accrue, that means should we be expecting, for example,
+when the banks are able to pay again dividends that we will be receiving, for example,
+2020 also the '19 dividend, is that correct assumption? And also did you mention EUR50
+million, I think I got 50, but I'm not sure as being the OCG for the ﬁrst half?
+
+A - David Knibbe
+
+{BIO 17996037 <GO>}
+
+Yes, thank you. Yes, indeed 50. Yeah, on the bank, so we are following the guidance here
+of the ECB and the DNB. So we don't expect any remittances for this year. We do expect a
+catch-up eﬀect over time if and when possible.
+
+Q - Jason Kalamboussis
+
+{BIO 4811408 <GO>}
+
+Fantastic. Thank you very much.
+
+Operator
+(Operator Instructions) And the next question is from Ms. Fulin Liang, Morgan Stanley. Go
+ahead, please.
+
+Q - Fulin Liang
+
+{BIO 21126177 <GO>}
+
+Page 13 of 18
+
+
+
+FINAL
+
+Company Name: NN Group NV
+Company Ticker: NN NA Equity
+Date: 2020-08-06
+
+Hi. Thank you for the presentation. I have three questions. The ﬁrst one is on the sensitivity
+of credit spreads. I actually have a little bit diﬃculty understand that. So you invested a bit
+more into the credit, the corporate bonds. However, the sensitivity you disclosed in terms
+of the percentage in Solvency II ratio movement is actually becoming more positive in the
+credit spreads widening, narrower than fourth quarter last year. But I think the credit
+spreads widening should economically be negative to the Solvency Ratio. But previously
+you were positive, because I think you underweighed in the corporate bond, but then you
+actually invested most. I'm just surprised that the sensitivity is actually getting more
+positive. So that's the ﬁrst question.
+And the second question is could you just give us a bit of update on the -- what the credit
+default downgrade experience you've seen so far and as well as the Dutch Mortgage kind
+of default or anything like that? So that's the second question.
+And the third one is just so I'm clear, on the OCG of Japan, obviously despite your
+decrease in new business, your Japan OCG is relatively stable, presumably because that's
+based on the Japan statutory basis. Is it fair to think that as long as the overall book of
+Japan remained stable or slightly increased because you're still writing new business, the
+OCG should actually increase from here? Thank you.
+
+A - David Knibbe
+
+{BIO 17996037 <GO>}
+
+Bloomberg Transcript
+
+Okay. Thank you, Fulin. I'll give the ﬁrst two questions to Bernhard and then Delﬁn will
+cover the OCG of Japan.
+
+A - Bernhard Kaufmann
+
+{BIO 18347993 <GO>}
+
+Yeah, Fulin. Thank you for your questions. First one, sensitivity of credit spreads. This has
+not changed and you're right, this is depending still on our positioning against the
+reference portfolio of our EIOPA, where we have underweight in corporate bonds and
+overweight in government bonds. And as the sensitivity takes into account, the impact
+also of the resulting volatility adjustment of the reference portfolio, you see these two
+diﬀerent directions in corporate spreads versus government bond spreads. And that has
+not changed compared to the last quarters. And on Dutch mortgages and other credit
+default experience in our investment portfolio, we have seen no default events yet. We
+saw some rating migrations and also some percentage of our portfolio is impacted by
+rating migrations. But that is mainly by one notch and this relates to the large names and
+countries. And so we are monitoring this, but that is not a concern until now and Dutch
+mortgages in speciﬁcs there we also see a ﬂat trend, so no additional pickup in activity
+there.
+
+Q - Fulin Liang
+
+{BIO 21126177 <GO>}
+
+Thank you.
+
+A - Delﬁn Rueda
+
+{BIO 7032761 <GO>}
+
+And Fulin, on the third question, on the OCG of Japan, which has been relatively stable
+compared to the ﬁrst half of '19. This is, as you know, in Japan because of OCG reﬂecting
+the increased in solvency under Japanese rules, the more we sell as we have explained in
+Page 14 of 18
+
+
+
+Company Name: NN Group NV
+Company Ticker: NN NA Equity
+Date: 2020-08-06
+
+the past, the lower their operating capital generation because of the new business strain.
+So as we expect sales to increase, also now impacted by COVID-19, we would expect that
+the sales that will increase over time, and, as a consequence, puts pressure on the current
+levels of OCG.
+
+FINAL
+
+Q - Fulin Liang
+
+{BIO 21126177 <GO>}
+
+Okay. Thank you very much.
+
+Operator
+The next question is from Mr. Michele Ballatore, KBW. Go ahead, please.
+
+Q - Michele Ballatore
+
+{BIO 17318680 <GO>}
+
+Yes, good morning. Just on cash (inaudible) what is the outlook for 2020, the rest of the
+year? I mean is it just the Bank not paying the dividend or in general, you will have a more
+prudent approach on this? Thank you.
+
+A - David Knibbe
+
+{BIO 17996037 <GO>}
+
+Delﬁn?
+
+Bloomberg Transcript
+
+A - Delﬁn Rueda
+
+{BIO 7032761 <GO>}
+
+Yeah. Thanks, Michele. It's not only the Bank that has been aﬀected by the prudent
+approach to paying dividends due to the recommendations or the provision from
+regulators. So we have also seen this year that aﬀecting, for example, Poland but also
+other places like Spain, to some extent Belgium, some of our pension funds. So 2020 will
+be somewhat lower in terms of the dividends coming from the business units in Europe
+due to the impacts of COVID-19 and the restrictions. Of course, we do expect that things
+will normalize over time, also in this part of the free cash ﬂow to the holding company.
+For the remainder part of the year, which was also within your question, Netherlands Life
+is quite predictable, expect the EUR225 million per quarter. So that is EUR450 million and
+then additional EUR30 million coming from the coupon of the hybrids. And then as I said,
+in Europe it's more limited. We do not expect that this year we will receive dividend from
+the Bank. And Japan has already paid their annual dividend. So that should give you a bit
+of a guidance of what to expect in the second half.
+
+Q - Michele Ballatore
+
+{BIO 17318680 <GO>}
+
+Thanks.
+
+Operator
+The next question is from Mr. Jason Kalamboussis, KBC. Go ahead please.
+
+Q - Jason Kalamboussis
+
+{BIO 4811408 <GO>}
+Page 15 of 18
+
+
+
+FINAL
+
+Company Name: NN Group NV
+Company Ticker: NN NA Equity
+Date: 2020-08-06
+
+Yes. Hi. Just a very quick one. Looking at the value of new business and the full that was
+relatively large as expected because of COVID, and because of change in Japan, I mean,
+if we were to think three years down the road, let's say, so that we don't -- I don't ask the
+question, if you're going to dispose of Japan. But is it correct to say that at the end of the
+day, if you were, let's say, sales recover, everything is better -- if you were to think about
+any disposal of Japan, you would want actually to replace it with M&A that would add to
+you -- that would give you new business of an equivalent nature? And in the second kind
+of similar question or would you actually be agnostic and it could be like Life or Non-life
+i.e. versus other groups like (inaudible) have speciﬁed that their interest in M&A is Nonlife. Do you have that bias or are you agnostic? So...
+
+A - David Knibbe
+
+{BIO 17996037 <GO>}
+
+Yes. Thank you, Jason. I'm not sure I'm going to be very helpful on this answer, but the -- I
+don't think it makes a lot of sense to speculate about divesting units and which ones then
+we would buy. Our base case we made very clear at the Capital Markets Day is that we
+believe in organic growth that we can, not only deliver a operating capital generation of
+EUR1.5 billion, but also believe that in the run-up to 2030 that we can grow our operating
+capital generation at mid single-digit percentage. So that is our base case. If you would
+look at Life, Non-Life, it's fair to say that outside of the Netherlands, our focus has
+primarily has been on life and life protection. The Non-life business is -- the big Non-life
+business is all in the Netherlands. So that's the situation today.
+
+Q - Jason Kalamboussis
+
+{BIO 4811408 <GO>}
+
+Bloomberg Transcript
+
+Fantastic. Thank you very much.
+
+Operator
+Your next question is from Mr. Gordon Aitken, RBC. Go ahead, please.
+
+Q - Gordon Aitken
+
+{BIO 3846728 <GO>}
+
+Yeah, thanks very much. So a couple of questions. First, on the three longevity reinsurance
+transactions that completed in May 2020, really why now? And given -- I mean, the base
+table eﬀect on mortality from COVID is, of course, you know is pretty clear. There is lots of
+uncertainty around the future projection. And so why now? And what did the reinsurer
+assume in terms of future life expectancy? You don't need to give me any real detail and
+it's just but did the reinsurers have no change in life expectancy, life expectancy up or life
+expectancy down?
+And the second question is if you can just remind us what proportion of your Dutch
+pension liabilities are now reinsured for longevity risk? Thank you.
+
+A - David Knibbe
+
+{BIO 17996037 <GO>}
+
+Yes, thank you, Gordon. Bernhard?
+
+A - Bernhard Kaufmann
+
+{BIO 18347993 <GO>}
+Page 16 of 18
+
+
+
+FINAL
+
+Company Name: NN Group NV
+Company Ticker: NN NA Equity
+Date: 2020-08-06
+
+Yeah, Gordon, on ﬁrst the transaction or timing of the transaction, which, of course, is
+completely unrelated to COVID-19 and the ongoing pandemic. This mainly goes back to
+the longevity risk is our big concentration risk in our portfolio. So from mid-term strategic
+perspective, we want to reduce this exposure. We want to have a better diversiﬁed
+portfolio also with respect to our insurance risk categories. And that is the main rationale
+behind this. So to free up capital that we blocked for this concentration risk and to actively
+-- more actively manage this capital position, that's a main motivation for us. And yes, of
+course, there are diﬀerent views in the market on how exactly the trend and the
+improvement of mortality will develop over time. But the base assumption in the
+insurance industry and also in the reinsurance industry is that there will be additional
+mortality improvements. There are some, of course, deviating opinions on how exactly
+this will look like. But the main point and the main also capital intensity also for this risk
+category comes from simply possible adverse developments. And these adverse
+developments is what you have to capitalize for and that is where also our current
+concentration risk is coming from and that is what the reinsurers are taking over.
+And the proportions of the Life liabilities, so it's around 15% of the technical provisions
+that we now have reinsured under this ﬁrst transaction sort of give you the magnitude of
+the current deal.
+
+Bloomberg Transcript
+
+Q - Gordon Aitken
+
+{BIO 3846728 <GO>}
+
+Just follow up on what you just said. I mean, I know you said your decision to reinsure
+longev risk is unrelated to COVID, but presumably you changed the terms of the
+transaction, given COVID has had a massive impact on deaths, and of course, future life
+expectancy. And then also even you mentioned obviously the risks with the additional
+mortality improvements, and that is the risk, but it certainly hasn't been going that way for
+the last 10 years. So what particularly are you concerned about?
+
+A - Bernhard Kaufmann
+
+{BIO 18347993 <GO>}
+
+So no, the negotiations and the preparations for these transactions have been months
+with -- started months before the COVID outbreak. And also if you look at the impact of
+COVID into the typical insured blocks of businesses, in the Life Insurance books, it's -- yes,
+it's an annual impact. It may be two or three years that this has impacted, but this is part of
+a typical ﬂuctuation volatility you have to take into account looking into such a long-term
+liability and long-term business. And that a pandemic can occur, that's part of the pricing
+and also the assessment of a longevity transaction. And so that it's happening now or
+happening in 10 or 20 years, well, that's just the timing that we are currently confronted
+with, but that's not changing the fundamental view and also the pricing assumptions for
+these transactions.
+
+Q - Gordon Aitken
+
+{BIO 3846728 <GO>}
+
+Thanks very much.
+
+Operator
+There are no further questions. Mr. Knibbe, back to you, please.
+
+Page 17 of 18
+
+
+
+Company Name: NN Group NV
+Company Ticker: NN NA Equity
+Date: 2020-08-06
+
+A - David Knibbe
+
+{BIO 17996037 <GO>}
+
+This transcript may not be 100 percent accurate and may contain misspellings and other
+inaccuracies. This transcript is provided "as is", without express or implied warranties of
+any kind. Bloomberg retains all rights to this transcript and provides it solely for your
+personal, non-commercial use. Bloomberg, its suppliers and third-party agents shall have
+no liability for errors in this transcript or for lost proﬁts, losses, or direct, indirect,
+incidental, consequential, special or punitive damages in connection with the furnishing,
+performance or use of such transcript. Neither the information nor any opinion expressed
+in this transcript constitutes a solicitation of the purchase or sale of securities or
+commodities. Any opinion expressed in the transcript does not necessarily reﬂect the
+views of Bloomberg LP. © COPYRIGHT 2022, BLOOMBERG LP. All rights reserved. Any
+reproduction, redistribution or retransmission is expressly prohibited.
+
+Bloomberg Transcript
+
+FINAL
+
+Okay. Thank you very much all for your questions. Before we close the call, let me just
+wrap up by saying that NN Group has today reported a strong set of results, showing
+resilience in a time of market turbulence and weathering the impact of the COVID-19
+pandemic. Have a good day.
+
+Page 18 of 18
+
+

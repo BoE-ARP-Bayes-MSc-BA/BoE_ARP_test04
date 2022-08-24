@@ -1,0 +1,854 @@
+Company N ame: American I nternational Group I nc
+Company Ticker: AI G US Equity
+Date: 2021-02-26
+
+Credit Suisse 22nd Annual Virtual Financial Services Forum
+Company Participants
+FINAL
+
+Mark Lyons , Executive Vice President Chief Financial Officer
+Sabra Purtill, Deputy CFO and Treasurer
+
+Other Participants
+Andrew Kligerman
+
+Presentation
+Operator
+We are live and you may begin.
+
+Bloomberg Transcript
+
+Andrew Kligerman
+
+{BIO 1551668 <GO>}
+
+Excellent. Well, it's a pleasure to have senior AIG management with us today. We've got
+Mark Lyons, Executive Vice President and CFO of the company, and Sabra Purtill, Deputy
+CFO and Treasurer. The way I'm going to approach it today is I'm going to ask a series of
+questions and then toward the end, I'm going to take a number of questions, whatever
+you may have via email. So my email is andrew.kligerman@credit-suisse.com. And the last
+name is Kligerman. So happy to take those email questions if you have them.
+So, Mark, and, Sabra, I'll kick off with some general questions that I think people want to
+get a good feel for. Little tricky, but thinking about AIG's intermediate term adjusted
+return on equity, how should we think about that with the potential divestiture a year or
+two out of the life business, general insurance recorded in ROE of 3.8% in 2020, of
+course that was impacted by elevated CATs and COVID and then 8.8% in 2019. So is
+there any kind of snapshot or thinking around an intermediate term adjusted ROE?
+
+Mark Lyons
+
+{BIO 21746221 <GO>}
+
+A great question, Andrew. I would say that at this point we're more comfortable with
+some of the guidance we've given to date which I would say is more around the steps for
+GI to get to the Accident Year Combined Ratio that we've targeted subs 90, which I'm
+sure we'll get into. The fact that there's premium growth that we plan associated with that
+and so forth. It's really difficult on the capital markets and the NII side of the house, both in
+AIG in totality as well as L&R which shows in a strictly[ph] linked inside of that.
+So -- and the reason there's more feeling on GI is because that's really principal as
+opposed to principal of interest if you think of it in terms of what Garner's said down to
+
+Page 1 of 13
+
+
+
+Company N ame: American I nternational Group I nc
+Company Ticker: AI G US Equity
+Date: 2021-02-26
+
+Bloomberg Transcript
+
+FINAL
+
+the bottom line. So we have that. But interestingly, could just spark something when you
+said the intermediate because and you made the L&R reference that -- and the L&R -with separation down the line and the ongoing discussions with key constituents and
+rating agencies and so forth, it's a little hard until you anchor and really finalize on
+structures as to what's on that might be. But back to the intermediate point that you
+made is, everybody's looking at what's the change in accounting principles, right? What's
+LDTI going to do, for example, because that's kind of intermediate.
+And we've done some preliminary work, of course, there's more work to go, but given
+that that affects FAS60 more than anything else which is likely a term insurance and whole
+life and some UL on that, our initial view on that is I can get into why, but close to neutral if
+not minor favorable. Remember, we are -- retirement dominates life on a relative
+proportional basis for us. But it -- when you get into term and whole life where we kind of
+view that really as the net positive and it comes down to where you think your lost
+margins are and everything else on that, it's the UL side that, although, that's kind of
+unlocked as you go anyway, it's the change in the amortization that becoming more
+straight line that'll be more front and center and be the offset to some of the gains we
+might get out of the term and whole life and I know there's been conversations about the
+difference in the scope, right, where under FAS60 you had a lot of aggregation, a lot of
+freedom as to how you could put things together unlike a PBR on the property/casualty
+side, right?
+So -- but in the case of this, you got to really look at every issue here and everything else,
+but the interesting aspects is that you don't any longer have the provision for adverse
+deviation. So you have that the drop because it needs to be expected value of your best
+estimate on a go-forward basis. So between the net of the two, much more favorable
+associated with a term and whole life with an offset on UL, mostly because of the back
+amortization, but we still view that as a net neutral or minor net positive. Anyway, you said
+intermediate. So, keep in mind.
+
+Questions And Answers
+Operator
+(Question And Answer)
+
+Q - Andrew Kligerman
+
+{BIO 1551668 <GO>}
+
+Got it. Let's -- this is some very good data points, Mark, and maybe one area that's just
+kind of a top of mind issue around AIG in the general insurance business is that targeted
+90% Accident Year Combined Ratio. You had about 94. -- and then that would be by the
+end of 2022 I assume and you had 94.1% in 2020. That was a nice improvement over 96%
+in 2019. Mark, maybe you could give us the construct, what are going to be the key drivers
+of pushing that down another 4 percentage points over the next two years?
+
+A - Mark Lyons
+
+{BIO 21746221 <GO>}
+
+Yeah. Happy to. I think Peter Zaffino touched on it a little bit, but we can certainly get into
+that as well. So you do have componentry on the expense side through AIG 200 and
+Page 2 of 13
+
+
+
+Company N ame: American I nternational Group I nc
+Company Ticker: AI G US Equity
+Date: 2021-02-26
+
+FINAL
+
+probably for the course of this discussion I'll be reaffirming a few things in that regard, as
+well as the favorable environment and AIG's approached that favorable environment. But
+-- so on the expense ratio side first, let's just talk about AIG 200. AIG 200 and we stick by
+the numbers, it was a $1.3 billion investment over the three-year period to have an ending
+$1 billion exit run rate on that and we talked about to where we would had achieved in this
+year, which is better than we originally planned.
+But if you go back to what we originally said that we adhere to, so at the end of your two
+650 (inaudible) run rate, exit run rate and then at $1 billion at the end of year three. So if
+you think about 2022, which is your question, you're going to have the 650 coming
+forward and effectively you're going to have half of the balance, right? So let's call that
+825 in a calendar year perspective, right? So -- and we still feel that over the long haul,
+roughly three-quarters of that will accrue to GI, the general insurance. So you can kind of
+do that arithmetic in math, right? And then you can pick where you think net premium
+might be, but you're probably in the 2.5 points range of that. We've got make some
+assumptions, right, along the way.
+
+Bloomberg Transcript
+
+And then the balance and the interesting thing I think we all need to keep in mind is AIG is
+not a monolithic entity and the way we report externally with the segments in North
+American commercial and that's subdivided in personalized commercial lines, we tend to
+focus where the excitement is, right, and which is in commercial lines and it's mostly in
+North American commercial line, secondarily in international commercial lines. But
+personal lines is because of the regulatory nature of it and so forth and so on, you're not
+going to get this kind of massive uptick or massive downtick depending where you are in
+the cycle. So the personalized acts as kind of a ballast on that overall portfolio.
+So I think it's good to keep that in mind. But I think the loss ratio improvement is going to
+come out of North American commercial, first, international commercial, second, in a kind
+of a rank order and personal line side is I think I've kind of addressed that, right? That's -you're going to get some improvement. But you might see more expense ratio
+improvement than loss ratio improvement on that side where we would expect more loss
+ratio improvement on the commercial side of the house. So, I think the combination of the
+AIG 200 efforts the ongoing, I'll try to give you that mix answer on the geography and
+kind of business, is going to drive it. So we're confident that we're going to achieve that.
+
+Q - Andrew Kligerman
+
+{BIO 1551668 <GO>}
+
+And that math makes a lot of sense, especially with all the strength in pricing we're seeing
+these days. So one quick sidebar though on AIG 200, Mark, you mentioned that three
+quarters of it will be general insurance related and a quarter to life and retirement. With
+that separation, is there any disruption, you have any concerns about the ability to kind of
+smoothly transition?
+
+A - Mark Lyons
+
+{BIO 21746221 <GO>}
+
+We will look at couple of things. First off, I view that three quarters as an endgame. In a
+quarter or a year it's going to fluctuate a little bit, but at the end of that period we would
+expect that to be the case firstly. Secondly, I really didn't mean to imply that the remaining
+25% is L&R. There's going to be what we view as corporate today, right, that in a post
+Page 3 of 13
+
+
+
+Company N ame: American I nternational Group I nc
+Company Ticker: AI G US Equity
+Date: 2021-02-26
+
+separation it would be combined with GI, right? So there's going to be savings accruing to
+corporate on that as well. And now with the separation lens, there's further elbow grease
+associated with our further consolidation of costs and functions, both at corporate and
+then what does L&R need on their side of the house as a standalone public entity.
+
+FINAL
+
+Q - Andrew Kligerman
+
+{BIO 1551668 <GO>}
+
+I see. So, no disruptions maybe even a little bit better, a little smoother. Is that the right
+way to interpret what you said?
+
+A - Mark Lyons
+
+{BIO 21746221 <GO>}
+
+Yes. On a composite basis we would expect them to close to offset each other. I think
+Peter's kind of mentioned that in the past as well and that's where we are.
+
+Q - Andrew Kligerman
+
+{BIO 1551668 <GO>}
+
+Bloomberg Transcript
+
+That's great. Now another item that's come up quite a bit. And I know you can't apply
+specific numbers to evaluation and IPO or private investor that has an app and but some
+people have brought up similar or companies with comparable businesses such as
+Equitable, (inaudible), we think is an extremely low multiple of five times estimated '22
+earnings. We think this sector is really undervalued. So if we look at AIG's life and
+retirement business, what might be -- what might give you some confidence that you
+could do better than the life sectors a whole or would you be willing Mark to accept a
+multiple that's comparable to some of these other companies like Equitable or Lincoln?
+
+A - Mark Lyons
+
+{BIO 21746221 <GO>}
+
+Yeah, there is a couple of thoughts that come to mind on that Andrew. First off is really
+are in a different position I think, the many of those, let me kind of enumerate a few of
+those and feel free with the dialogue with it, but we're not a one or two. We have a lot of
+products that that's a large part of distribution, also that is diversified that is very, very
+helpful. We don't have the back book issues anymore. I mean, whether it's old business
+that we've different comments on -- what we see and anything else I mean that's been
+solved to the (inaudible) transaction.
+So we think that diversification provides a lot of good ways to manage of their cycle and
+the macro cycle without the fear of back book really coming back and hitting. So I think
+that's a point of differentiation. And to the extent on whether it's public or private, again,
+that's idiosyncratic, right? You got to say, what's the terms or conditions that someone
+might come forward with and doesn't make sense. We'd only want to value that if it was in
+the best interest of shareholder and we could really see increased value or creation. And
+it either enables or doesn't hurt the ability to deal with the balance of what we would
+need this to sell post that. So, that's probably the best answer I can give you now.
+
+Q - Andrew Kligerman
+
+{BIO 1551668 <GO>}
+
+And Mark, just again I know you can't speak very, very specifically to it. But a lot of
+questions out there about rationale for maybe on the one hand keeping the whole life
+and retirement business together versus potentially selling blocks of business, notably the
+Page 4 of 13
+
+
+
+Company N ame: American I nternational Group I nc
+Company Ticker: AI G US Equity
+Date: 2021-02-26
+
+annuity blocks or just altogether different sub segments within life and retirement. You
+know, what's that rationale for keeping it together or would you indeed consider some -breaking off some portion of the business? And if so how, that was a long question, I'm
+sorry, but --
+
+FINAL
+
+A - Mark Lyons
+
+{BIO 21746221 <GO>}
+
+No issue with that. Well, I would say that to some extent I can rely on some of the answer I
+gave you on the prior one with the diversification because you do leverage one to the
+other, as well as a common view of longevity, a common view of mortality, the hedging
+program quite frankly is across the board. It's not a legal entity one, it's an aggregate view
+of hedging program. But when you get to blocks, when I look at the history of those things
+within the industry, sometimes you could be left with something much less attractive or at
+least in the eyes of the outside world, that's all point of view. So if the most attractive
+blocks or subsets go off first by definition, they don't have to be core books but they're
+(inaudible) books by not having the cream left in there and that's always an issue we got
+to -- you have to really push the pencil on.
+
+Q - Andrew Kligerman
+
+{BIO 1551668 <GO>}
+
+So Mark, it feels like AIG is leaning in the direction of kind of keeping this business as a
+whole as opposed to separate pieces. Is that a fair statement?
+
+A - Mark Lyons
+
+{BIO 21746221 <GO>}
+
+Bloomberg Transcript
+
+That would be our preference. Yes, that would be our preference.
+
+Q - Andrew Kligerman
+
+{BIO 1551668 <GO>}
+
+Preference. Okay. That's a good word to use there. In terms of the separation, could you
+talk to us about the capital implications? Would AIG be able to free up capital? Will there
+be more capital constraint? How do you kind of view AIG from a capital standpoint post
+19.9% divestiture whether that be private or IPO?
+
+A - Mark Lyons
+
+{BIO 21746221 <GO>}
+
+Well, a couple of points of rationale maybe just to recenter everyone, is the 19.9% is the
+level which, it's a consolidation line in the stand, right? It's whether you consolidate or not
+consolidate. And because of AIG's long history of the DTA, a piece of that being foreign
+tax credits, the FTC's, there is a material amount of that expected to be utilized over the
+next two years. There could be some overhanging into year three, but dominantly in the
+first two, so that's one consideration for the percentage and the timeline associated with
+that.
+And a lot more of the work as Peter I think alluded to on the call, that's been done is that
+we are increasingly comfortable that no equity capital would need to be invested into the
+operation. But we still anticipate in order to come out of this with two strong entities, with
+two strong platforms, the debt leverage and the -- of the capital structure makes sense.
+And it makes sense within a reasonable period of time so that's comparable and not
+disadvantaged and still comfortable with rating agencies' time frame asks that we would
+Page 5 of 13
+
+
+
+Company N ame: American I nternational Group I nc
+Company Ticker: AI G US Equity
+Date: 2021-02-26
+
+go to. So on the equity side we don't see it, on the debt side of it I think we've already
+alluded to it in the past and I'll ask Sabra if you have anything else you might want to kick
+in on that?
+
+FINAL
+
+A - Sabra Purtill
+
+{BIO 1764408 <GO>}
+
+I think you hit on all the key points. I know back I guess it was five or six years ago with a
+different management team, they talked a lot about the diversification credit that AIG
+received having both the GI and the life and retirement businesses. And while some of
+that diversification credit does go away, both GI, and life and retirement on their own are
+very diversified as Mark has commented relative to the risk profile of life and retirement.
+So, with the strength of the balance sheets, GI -- the GI pool's risk-based capital levels are
+like the highest they've been in about a decade and improving profitability. We were
+happy to be able to confirm that the capitalization structure that we're talking about is
+achievable without having to downstream any capital into subsidiaries.
+
+Q - Andrew Kligerman
+
+{BIO 1551668 <GO>}
+
+Nice. And I guess just in general talking about capital and I don't know if you answered
+that, we kind of estimate about $4.8 billion of excess capital in AIG and are we in the
+ballpark and if so, what are your priorities? I know you've announced plans for $500 million
+in buybacks in the first half of this year. I think you've got a leverage ratio of 31.4% exAOCI. So where would you like to take your kind of proceeds, is it de-levering, is it
+repurchase, do you have any growth investments? What are the priorities there?
+
+Bloomberg Transcript
+
+A - Mark Lyons
+
+{BIO 21746221 <GO>}
+
+That's actually a mouthful, that question. So I think Sabra and I will frick and frack it as we
+go through, but I guess starting with your discussion of the AIG level leverage which on
+the GAAP basis is 28.4% and I think you were kind of looking at it with or without AOCI and
+so forth, but as we said on the call, we've already dealt with a maturity in the first quarter,
+right, that we had kind of pre-funded for anyway when we did the $4.1 billion debt raise.
+So that's already taking us down towards glide path, towards where we wanted to be,
+pre-separation of 25% on a GAAP basis, 25% on a GAAP basis, so that improvement
+continues, so I think that's the first thing.
+The second thing on your $4.8 billion, I'm not totally sure where that may come from, but I
+think it's easy to because we talked about liquidity a fair amount. So it's easy to kind of
+transpose the two, I mean, on our invested assets, I can have them all in cash and have
+inadequate capital but be massively liquid, right? So I think that's might be more of a
+liquidity view, Andrew, I'm not completely sure, but on -- but back is the rest of your
+question, the debt reduction still is paramount. I think one message we are trying to leave
+is although that is continues to be a high priority, we see a lot more flexibility now only in
+the $500 million that you noted on share repurchases, but that on the minority sale, we
+see a portion of that being also additionally added I believe as share repurchase potential
+in that. Other uses, we have the investment as we've highlighted the $1.3 billion into AIG
+200 and share repurchases as we mentioned, but it's always holding company expenses,
+so forth and so on. So -- but into absolute excess capital whether I'm at AIG or Arch, as
+you know, Andrew, I never go there. But Sabra, anything else on liquidity side you wanted
+to bring out?
+Page 6 of 13
+
+
+
+Company N ame: American I nternational Group I nc
+Company Ticker: AI G US Equity
+Date: 2021-02-26
+
+FINAL
+
+A - Sabra Purtill
+
+{BIO 1764408 <GO>}
+
+I would just mention it, Peter talked about it in terms of capital management priorities on
+the call and, just a reminder that March 1st is when he is appointed as CEO and I think that
+we will probably try to be a little bit more systematic in how we talk about our capital
+management priorities. But as Mark reviewed we are managing the debt situation and
+have been for the last couple of years, with the beginning of COVID, we kind of took a
+side step for a little bit because we raised the money in May of last year to basically pay
+off all the maturities that we had coming up over the course of the next effectively year.
+And we've actually done that.
+So, the $4.1 billion that we raised has been used to pay off maturing debt and to repay the
+revolving credit draw. So from where we sit today, we're frankly relieved that COVID did
+not have as bad of an impact on our balance sheet as I think we all feared back in March
+and April, but with the debt maturities that we've had we will continue to look for
+opportunities to get our leverage down, but the really -- the big event for capital as Mark
+has referred to will be with the separation and the setting up life and retirement
+capitalization, paying off debt at AIG, getting the proceeds from the 19.9% and that'll be
+kind of the next big frame -- a time frame for when we'll be able to do significant capital
+management activities.
+
+Bloomberg Transcript
+
+A - Mark Lyons
+
+{BIO 21746221 <GO>}
+
+And one other thing, Andrew, if I could just append one thing. Sabra and I kind of go back
+and forth on this anyway, the $4.1 billion clearly was pre-funding. It was economically
+advantageous. We had a weighted average coupon effectively of 3.3% with three tenors
+on it, weights for that. So that part was attractive for us. But given the uncertainties back
+then we didn't know what the impact would be on the global economy because we're a
+global organization not just a national organization.
+And how the US government and other governments around the world would react to
+help sustain those economies. And so you wanted to get in and be liquid for all the
+contingencies we knew about, the known and the unknown that could have happened. So
+with that maturing debt schedule, we knew how much time we had with excess cash on
+our hands in case something went south of no one could predict. So, it was just as much a
+risk management move as it was an economical one.
+
+Q - Andrew Kligerman
+
+{BIO 1551668 <GO>}
+
+Makes sense. And just so you know how we had calculated that $4.8 billion of excess. So
+we estimated roughly $10.5 billion of holdco liquidity, I guess you've got a $1.2 billion tax
+settlement due in the second quarter of this year, $1.5 billion of debt due in February and
+another $3 billion of holdco cash needs. So that's kind of how we did it. I don't know if you
+want to say anything or address that because you don't always address excess capital but
+--
+
+A - Mark Lyons
+
+{BIO 21746221 <GO>}
+
+Yes, that's a liquidity approach. And I would answer that doing share repurchase. I would
+answer that the AIG 200 expenditures and so forth, which kind of narrows that gap.
+Page 7 of 13
+
+
+
+Company N ame: American I nternational Group I nc
+Company Ticker: AI G US Equity
+Date: 2021-02-26
+
+Q - Andrew Kligerman
+
+{BIO 1551668 <GO>}
+
+Makes sense.
+
+FINAL
+
+A - Sabra Purtill
+
+{BIO 1764408 <GO>}
+
+Yes. And I would just say I know every company has a different approach in framework,
+but in general in our industry, which relies on capital to write business and support risk, we
+look at like base case and stress scenarios as well. And so excess capital is really
+measured through the lens of a stress scenario not the current balance sheet, which is
+why as Mark was saying, you're looking at a liquidity framework and what are like near
+term cash needs, we actually manage and evaluate capital on a stress scenario.
+But having said that, like I said the subsidiaries are very well capitalized right now, the
+credit losses and downgrades that we had through the COVID situation thus far, it may be
+a third of what we thought they might have been at the worst of late March when we
+were -- before all the Fed reserve programs kicked in. So the subsidiaries are very well
+capitalized. We have very strong liquidity at the holding company. So obviously we
+wouldn't be saying they're going to repurchase $500 million of stock, if we didn't think we
+had excess capital, but similar to many of our peers, we don't put point estimates out
+there because stress scenarios, you can run 10 different stress scenarios and come up
+with 10 different numbers.
+
+Bloomberg Transcript
+
+Q - Andrew Kligerman
+
+{BIO 1551668 <GO>}
+
+Got it. Shifting a little more to general insurance on the topic of premium growth, net
+written premiums off about 9% in 2020, 5% in 2019. Now you were alluding to some of
+the benefits in commercial, you've got also -- there were some announcements I guess
+that you would decided to retain a bigger piece of some important casualty quota share
+treaties. I think you're retaining more with respect to catastrophe reinsurance. And it
+sounds like even on the quota share, you are getting a better ceding commission. So
+between the rate increases that you're seeing in commercial particularly in North America
+and the changes that you've made in 2021 to reinsurance, how might you see premium
+growth playing out in the next year and maybe two or three years after that?
+
+A - Mark Lyons
+
+{BIO 21746221 <GO>}
+
+I would actually look more towards 4Q over 4Q as a better indicator than a full year as you
+commented on. As you know, we had a lot of noise in personal lives, especially in North
+America for the trouble book they got hit hard roughly in the 80% reduction area and with
+PCG or high network structure we do with syndicate 2019 and some outside reinsurers
+and kind of spread that creative approach. It created calendar year accounting havoc.
+There was also under premium reserves they came in not just new and renewal and that
+had a different structure to it. Anyway, it created noise and that was dampening noise that
+it's contributory to the reduction that you quoted in net written premium.
+I think as Peter as (inaudible) jumped on the one of the comments on the call was second
+quarter of last year we had negative net written premium at that. He thinks we should be
+able to exceed that, jokingly so. So I think the quarter-over-quarter growth of fourth
+quarter, I think is a better reference point than the year to begin with. And there's clearly
+Page 8 of 13
+
+
+
+FINAL
+
+Company N ame: American I nternational Group I nc
+Company Ticker: AI G US Equity
+Date: 2021-02-26
+
+going to be different growth in different pockets. But to the point of the reinsurance fees,
+yes, you're right. When the quota share is less on the casualty side, one thing I just want
+to correct because you mentioned on the property CAT that there's a lesser reinsurance
+and there's lesser spend. I don't want the listeners to think there's a different exposure.
+Actually there's lower attachment points associated with certain elements of the CAT
+program including the risks as well as (inaudible) and we're not really sacrificing anything
+and that's a testament to the continued improvement and characteristics of the gross
+book that enables that as well and the exhaust period, the exits are very comparable with
+any other carrier as to the return period of exhaustion. So all of those feed in. Yes, there's
+going to be some growth areas and that can be accelerated a bit by a reduction in
+ceding.
+
+Q - Andrew Kligerman
+
+{BIO 1551668 <GO>}
+
+Okay. Maybe before, again, if anybody has questions, please do email, I see two emails
+now that have come in, but maybe just on the life and retirement segment, Mark, we
+asked about intermediate term growth in pre-tax income, again a lot of noise in that
+segment or that business as well. I think it was a 3% drop off in 2020 ex notables, but you
+had a 9% increase in 2019 and mid-single digit declines in '17 and '18. So what kind of
+growth is this business, this diversified mix of business capable of generating over time?
+What should investors be thinking about?
+
+Bloomberg Transcript
+
+A - Mark Lyons
+
+{BIO 21746221 <GO>}
+
+If I look backwards to inform the future and I look at calendar '20, and yes, the fourth
+quarter, the annualized fourth quarter was buffeted nicely, right, by alternatives. That
+came through and you got to kind of flatten that out, right, normalize that out. But it's -when we tend to look at that and say, okay, that's uncharacteristically high, we also have
+to remember that the first quarter had an annualized 9.1% because of the reverse of what
+was happening back then and over the course of the year it was just shy of 14%, 13-9-ish,
+13-8-ish. So that's even with those kind of offsetting each other. That's a good indicator
+coming forward. I would probably carve a little bit out of that because the averaging I'll say
+of that high annualized fourth quarter with the low annualized first quarter goes part way
+there, but perhaps not all the way there. So I think there's a lot of good momentum still
+coming in and as your saw and I think it's under the net flows that we have we saw some
+sequential rebounds, not the certainly year-over-year rebounds, right, but sequential
+rebounds, but given the economy I think sequential is a better the look at premiums in the
+positive and the net flow.
+So the index annuities really seemed to have regained their legs. I think with a lot of that
+in, I mean it makes sense I think once you hear it, is that distribution have to just get used
+to the new world. And a lot of that stuff is still sold in a face-to-face contacts and that just - they just had to get over that hump I think and I think that's where you're seeing the
+growth of that occurring more. So, in the fourth quarter there's always going to be in the
+institutional markets, there's going to be reverse transfer opportunities here and there,
+on clothes and other sorts of mechanisms, but fixed annuities with the current interest
+rates environment are going to be tough for a while, but we think the growth area is really
+an index and it's somewhat variable.
+
+Page 9 of 13
+
+
+
+Company N ame: American I nternational Group I nc
+Company Ticker: AI G US Equity
+Date: 2021-02-26
+
+A - Sabra Purtill
+
+{BIO 1764408 <GO>}
+
+FINAL
+
+And I would just add, on the group retirement side, which is our VALIC business, early part
+of the year was really impacted by the lack of new business contracts in the environment
+that we were in. The school systems and the hospitals that we sell those plans into
+weren't out shopping for new providers, but that turned around later in the year and
+actually in the fourth quarter we signed two large contracts about $500 million of assets
+under management and we feel good about the momentum we have there.
+I would just -- just one quick observation though to make in terms of profit forecast for life
+and retirement, the last two years have been really, really strong on alternative,
+particularly on private equity. Our annualized yield on the life and retirement portfolio was
+almost 19% this year and it was like 16% last year. When we build our forecast for that
+business like many others in the industry and we have a placeholder of around 6% or 8%.
+So, when we think of 2021 we wouldn't project those kind of alternative return, so there is
+obviously headwind on APTI coming from our base assumptions for private equity.
+
+A - Mark Lyons
+
+{BIO 21746221 <GO>}
+
+Bloomberg Transcript
+
+One thing I think, Andrew, also to help that is when you think about, you know, there's so
+much more that goes into it, but of course we kind of tag the 10-year as an industry on
+the yield and we've given some sensitivities and we've said $10 million to $15 million on
+the 10 basis points change. So let's put -- go in the middle of that, right, $15 million APTI
+pre-tax income and at year-end that was roughly 90, right, and now we're in 150 lands,
+right? So that's 6 times 15 is 90 and tax effect if it's $70 million to $75 million, I mean just
+to kind of put numbers to your question as a function of that alone gives you some scale.
+
+Q - Andrew Kligerman
+
+{BIO 1551668 <GO>}
+
+Got it. Really helpful. I see one question. Has AIG issued $400 billion of term insurance in
+the 1998 through 2004 timeframe? As much of this is coming up on its level term period,
+how is the business developing and could there be risk of adverse selection. And my take
+I guess earlier you were just talking about the term insurance being a good guy, but that's
+an interesting question. What do you think on that, Mark?
+
+A - Mark Lyons
+
+{BIO 21746221 <GO>}
+
+Well, a couple thoughts on that. First off, AIG was a bigger term writer back in the up
+throughout I'd say the early part of the 2000s and most of it was 20 year term. So you
+can kind of see that that's going to roll off I think pretty dramatically on that. So I guess the
+additional questions associated with that is what happens then because you made an
+adverse selection comment. So on post-term, right, what happens? And everybody knows
+they get jacked up beyond belief, right?
+It becomes one year at a time and it generally goes to standard life, right, as far as the
+preferred life or something like that. So you can get 10x, 20x movements and there's two
+views, right? You got the policyholder view and then the portfolio view. A policyholder
+view, their IRR is great. At any time they I mean it's the best. So, bear with me, I think
+(inaudible) going to hate when I say great. I mean the return on IRR standpoint if you die
+within the term of a term policy, it is attractive. It's -- but that attractiveness, if there was
+Page 10 of 13
+
+
+
+Company N ame: American I nternational Group I nc
+Company Ticker: AI G US Equity
+Date: 2021-02-26
+
+FINAL
+
+sane rational decision-making, probably no more than two years after that term expires, if
+you pay those premiums, it's a horrible financial decision to make.
+But on a portfolio basis, yeah, I think there is that potential. I think the industry and AIG has
+undergone programs to try to soften that and perhaps make it not as steep an increase
+that encourages more people to buy it and therefore a different profile of remainders
+who continue to pay those premiums. So I think we and others have done something like
+that in that regard. But I think the biggest takeaway is that a lot of that was written in that
+time period and it was mostly 20 year. So it's end date is right in front of us.
+
+Q - Andrew Kligerman
+
+{BIO 1551668 <GO>}
+
+I see. I have another question that reads, can you ask about loss exposure to the Texas
+pleas and maybe give us a little color around that?
+
+A - Mark Lyons
+
+{BIO 21746221 <GO>}
+
+Bloomberg Transcript
+
+The very little color, actually be very, very, very pale. It's very early, as you know. I think it
+was just the day before yesterday we're beginning to even have the ability to inspect. So
+reported claim experience at this point is light. There's not a lot I can tell you from an
+actual basis on it. But they'll be personal and commercial exposure and I think the
+interesting thing would be that from a personal side, we -- the way the vertical works let's
+say on the personalized structure on the reinsurance, it's a $150 million attachment on
+that, so -- which is nice because it's a nice low attachment on that.
+And if I think on the commercial side and we touched on this in the 10-K is the reduction
+from $500 million to $200 million on the attachment points of the commercial, North
+American Commercial CAT program except for South Eastern Gulf. However, that deals
+with windstorm and earthquake and so forth. This is a winter storm event and therefore it
+qualifies as a $200 million attachment. So I think that are good data points I think for you
+and your group.
+
+Q - Andrew Kligerman
+
+{BIO 1551668 <GO>}
+
+Got it. Very helpful. And I guess it's because --
+
+A - Sabra Purtill
+
+{BIO 1764408 <GO>}
+
+I would just note in general though, obviously first quarter is normally one of the lighter
+CAT quarters particularly in North America. And we also have a large book in Japan where
+there was an earthquake about 10 days ago. So in general I would say that the, I guess it
+was storm Yuri is probably going to make it a higher CAT quarter for the industry and AIG
+than you would normally expect for a first quarter.
+
+A - Mark Lyons
+
+{BIO 21746221 <GO>}
+
+Yes. That's a great point, Sabra. And also when you think about the volatility of that, if you
+look at the modeling firms, right, you had Karen Clark go from $10 billion to $18 billion I
+think in a span of a couple of days. AIR just came out with $10 billion I think yesterday. So
+it's too early, I mean, even the modeling is parameter risk is all over the place.
+Page 11 of 13
+
+
+
+Company N ame: American I nternational Group I nc
+Company Ticker: AI G US Equity
+Date: 2021-02-26
+
+FINAL
+
+Q - Andrew Kligerman
+
+{BIO 1551668 <GO>}
+
+Got it. One last one is we kind of come up on the hour. I had wanted to ask. I don't see
+any more questions via email at this stage. But I'm curious as to your confidence in
+reserves on years written outside of the Berkshire treaty which stops after 2010. The 2016
+to '18 accident years generated $351 million of negative prior-year developments in the
+fourth quarter, a $171 million in the third quarter of '20. So, Mark, I think you were even
+touching on it a bit in the fourth quarter call. But could you give us a little color on why you
+maybe confident or concerned in the 2016, '18 block?
+
+A - Mark Lyons
+
+{BIO 21746221 <GO>}
+
+Bloomberg Transcript
+
+Yes. Sure. So I look at it like this. When you look all in because after all it's every company
+has some pockets of plus and minuses you go through in any quarter. But if we look at the
+original accident year picks, right, 12 months into an accident year and where is it today,
+right, so at 2019 it is the greenest right? It moved 1/10 of a loss ratio probably at this point
+all in with all recoverables and everything else. And then if you flipp to 2017, that moved
+half a point, half a loss ratio point from the original to where we are now. And when I look
+back as to when that happened, I mean when I came in the second half of 2018, I jacked
+up reserves in both the third and the fourth quarter. So half of that half a point, if you will,
+in the 2017 year, I did when I first got here. So '20 -- so a quarter point and then there's
+been another quarter point since then, which is still in (inaudible) recovery, right?
+When you get to 2016, which I think is probably most of the question on that, the original
+to where we are now actually deteriorated 4.5 loss ratio points, but we should dissect
+where that came from and more importantly when that came from. So the 2016 year had
+about two-thirds, so 2.7 loss ratio points of that 4 and I have loss ratio points was in 2017
+on the 2016 accident year versus there was some recognition of that. And then similar to
+what I said on the prior accident year, I came in, I did some jack up and that affected the
+2016 year as well, and that pushed it up another close to a point I think. So between the
+'16 year having an increase in 2017 and me moving it up, that was like 85% of the
+difference there. So, that's one of the reasons because there's been enough of a look,
+there was a correction made almost within the second 12 months of the 2016 year in 2017.
+Then 2018, we're a little out of order here, but 2018 it moved a point the half from its
+original and that you have to put mostly on me, because in 2018 I didn't really affect the
+2018 accident year as of 12 months. So that movement has been, point and a half and it's
+moved some in 2019 calendar year and 2020 calendar year for little different reasons. But
+so what I think back of it '19 didn't really move much, '20 -- let me go in order, 2016
+moved the most, but for the reasons I just itemized and therefore that's why I have
+comfort on that. 2017 really didn't move much at all. 2018 moved a point and a half and it's
+I think more a function of some of the things we talked about along the way inclusive of
+some of the financialized I think, I mentioned on the call and 2019 hasn't moved at all,
+really, that's what points noise to me. So that's how I'm looking at it, that's why when I look
+at it in broader terms I get increased comfort.
+
+Q - Andrew Kligerman
+
+{BIO 1551668 <GO>}
+
+I see, Mark. So just kind of like, just looking -- taking what you said, it sounds like when you
+came on board in 2017, you scrutinized it, you took some hits, you kind of sized it and you
+Page 12 of 13
+
+
+
+Company N ame: American I nternational Group I nc
+Company Ticker: AI G US Equity
+Date: 2021-02-26
+
+were taking into account all of these issues like social inflation, severity increases et
+cetera. So it sounds like you feel like you've gotten your arms around it at this stage in the
+game, so is that the right way to think about?
+
+FINAL
+
+A - Mark Lyons
+
+{BIO 21746221 <GO>}
+
+(inaudible) I would just correct one thing, it was 2018, the latter half of 2018 when I joined
+AIG.
+
+Q - Andrew Kligerman
+
+{BIO 1551668 <GO>}
+
+I'm sorry, I'm sorry. I'm right, right. But what so when you did get there in the latter half of
+2018, that's when you kind of attacked it though, is that right?
+
+A - Mark Lyons
+
+{BIO 21746221 <GO>}
+
+Yes. Well you if you try to get your arms around it much as you can given the sprawling
+nature of this organization six months, and then after that I got yanked up the corporate.
+
+Operator
+Sorry for the interruption, we are out of our alloted time for the broadcast.
+
+Q - Andrew Kligerman
+
+{BIO 1551668 <GO>}
+
+Bloomberg Transcript
+
+Mark and Sabra, thank you so much for your great insights. Really appreciate it.
+
+A - Mark Lyons
+
+{BIO 21746221 <GO>}
+
+Appreciate the invite and the time. Thank you, Andrew.
+
+A - Sabra Purtill
+
+{BIO 1764408 <GO>}
+
+Thanks.
+
+This transcript may not be 100 percent accurate and may contain misspellings and other
+inaccuracies. This transcript is provided "as is", without express or implied warranties of
+any kind. Bloomberg retains all rights to this transcript and provides it solely for your
+personal, non-commercial use. Bloomberg, its suppliers and third-party agents shall
+have no liability for errors in this transcript or for lost profits, losses, or direct, indirect,
+incidental, consequential, special or punitive damages in connection with the
+furnishing, performance or use of such transcript. Neither the information nor any
+opinion expressed in this transcript constitutes a solicitation of the purchase or sale of
+securities or commodities. Any opinion expressed in the transcript does not necessarily
+reflect the views of Bloomberg LP. © COPYRIGHT 2022, BLOOMBERG LP. All rights
+reserved. Any reproduction, redistribution or retransmission is expressly prohibited.
+
+Page 13 of 13
+
+

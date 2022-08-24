@@ -1,0 +1,1394 @@
+Company N ame: H annover Rueck SE
+Company Ticker: H N R1 GR Equity
+Date: 2017-08-10
+
+Q2 2017 Earnings Call
+Company Participants
+FINAL
+
+Roland Vogel, Chief Financial Officer & Member of the Executive Board
+Ulrich Wallin, Chief Executive Officer & Chairman of the Executive Board
+
+Other Participants
+Andreas Schäfer, Analyst
+Andrew J. Ritchie , Analyst
+Guilhem Horvath, Analyst
+Ivan Bokhmat, Analyst
+Jonny Urwin, Analyst
+Kamran Hossain, Analyst
+Michael Haid, Analyst
+Nadine van der Meulen, Analyst
+Olivia Brindle , Analyst
+Vinit Malhotra, Analyst
+
+Bloomberg Transcript
+
+William Hawkins , Analyst
+
+MANAGEMENT DISCUSSION SECTION
+Operator
+Good morning, ladies and gentlemen. Welcome to today's Hannover Re International
+Conference Call on Interim Results to 2017. For your information, this conference call is
+being recorded.
+At this time, I would like to hand the call over to your host today, Mr. Ulrich Wallin, Chief
+Executive Officer. Please go ahead, sir.
+
+Ulrich Wallin
+
+{BIO 4863401 <GO>}
+
+Thank you. Good morning, ladies and gentlemen. I'd like to welcome you to our
+conference call, presenting the results for the first half-year of 2017. As always, I'm joined
+by our CFO, Roland Vogel.
+With group net income of €535 million, our set of numbers for the first half-year 2017 fully
+supports our whole year profit guidance of a net income of more than €1 billion. The net
+income shows growth compared to last year of 9.6%, which however also has to do with
+the fact that last year's second quarter was a bit difficult.
+
+Page 1 of 24
+
+
+
+Company N ame: H annover Rueck SE
+Company Ticker: H N R1 GR Equity
+Date: 2017-08-10
+
+FINAL
+
+With a foreign exchange rate adjusted growth of 8.7%, the development of our gross
+written premiums is quite positive. This growth entirely stems from our P&C business, and
+there in particular from significant new business growth of our structured reinsurance
+business. This transaction are often surplus relief transactions, with reduced risk transfer
+around the expected loss values. Some of the new transactions produced quite sizable
+new premium volumes.
+Our income from assets under own management increased by 15.3%. This change was
+the main contributor for the EBIT growth, which at the half year stands at just under €800
+million. The book value per share decreased by 4.8% to €71 due to the dividend payment
+including the special dividend in the second quarter, which is in line with our capital
+management effort.
+
+Bloomberg Transcript
+
+In addition, the strengthening of the euro against the U.S. dollar meant that there are
+other significant parts of our capital which, for risk management reasons, we hold in U.S.
+dollar, saw reduction in value when measured in euro. The return on equity, on the other
+hand, grew compared to the first half-year 2016 to 12.2% and remains well above our
+minimum target.
+Regarding our property/casualty reinsurance business, we saw diverging dynamics
+influencing our underwriting income. On the one hand, the decision of the UK government
+to reduce the discount rates for compensation payments associated with personal injury
+claims, the so-called Ogden rate, from 2.5% to minus 2.75% (sic) [0.75%] resulted in
+booked additional loss reserves of €291 million. On the other hand, the major losses of
+the first half-year 2017 only came to a number of €123 million, which is well below the
+expected levels.
+However, both effects only had a marginal impact on the results. If in line with our
+common practice, we largely left the unused major loss budget within our IBNR reserves
+and, on the other hand, compensated for the additional reserves in relation to the Ogden
+tables from the redundancy buffers within our P&C loss reserves.
+As a result and aided by a very positive contribution from the investment income, the EBIT
+of our property/casualty business grew by 12.7% to €634 million. As this was in line with
+the growth of the net earned premium, the EBIT margin remained constant at 14.7%, well
+above our minimum target of 10%.
+On the life & health side, as expected, we saw a very positive development of the
+earnings of our financial solutions business which reached an EBIT margin of close to 30%.
+This positive development also compared to last year, however, was more than offset by
+continued higher-than-expected claims from our U.S. mortality business. This negative
+development relates to a large block of business that we assumed at the beginning of
+2009 and which continues to produce a gross premium volume in the region of $1 billion.
+As we have the opportunity on this business to adjust the reinsurance rate where
+appropriate, we have initiated a project for a very detailed analysis of the various aspects
+that have led to the significantly higher claims than we had expected. This project should
+Page 2 of 24
+
+
+
+Company N ame: H annover Rueck SE
+Company Ticker: H N R1 GR Equity
+Date: 2017-08-10
+
+FINAL
+
+allow us to more precisely tailor our in-force management activity to individual treaties of
+the block of business. As a result of this development, and in particular the higher-thanexpected claims of the large assumed block of business, the EBIT reduced to €165 million,
+which is clearly below our expectations.
+The gross premium development was rather flat with a slight reduction as a result of the
+discontinuation of some single-premium treaties and some financing treaties from the UK
+and China, which could not be fully offset by a positive new business development.
+The return on investment from assets under own management came in at 3.2%, which is
+well above the full-year target of around 2.7%. This is mainly the result of very strong
+contributions of private equity and real estate portfolios.
+On this note, I'd like to hand over to Roland, our CFO, who will explain these figures in
+more detail.
+
+Roland Vogel
+
+{BIO 16342285 <GO>}
+
+Bloomberg Transcript
+
+Thank you, Uli, and good morning from my side. The first half-year results of 2017 include
+a few material, one-off effects only, so I will try to concentrate my comment on them.
+Maybe one short remark before I start. For those interested in analyzing our reserve
+situation in more detail, we have published the P&C loss reserve triangles as of
+December 2016 on our website today as well.
+We will see later that the favorable top line development in the first quarter of 2017 is
+entirely driven by our P&C business group whereas our life & health business showed a
+small decline in gross premium. Overall, the premium development is slightly ahead of
+the range where we initially expected for the full year. Net premium increased by only
+4.9% adjusted for currency exchange effects. With the difference to the gross premium
+development driven by additions through unearned premium as the retention was fairly
+stable.
+We are very satisfied with the investment income. Uli mentioned that already especially
+because the increase compared to last year is driven by strong ordinary income and lower
+write-downs. Other income expenses increased mainly due to the strong profit
+contribution from our life & health financial solutions business as a significant part of these
+treaties is booked according to the deposit accounting method and the profits from such
+contracts, therefore, show up in the other income lines of the P&L. Just for the sake of
+completeness, the tax rate is slightly down but still within the expected range.
+Next page, operating cash flows continues to be very positive, very much in line also with
+the previous years. Nevertheless, assets under own management decreased to roughly
+€40 billion. This is entirely driven by negative currency exchange rate effects of overall
+€1.8 billion due to the strengthening of the euro against most of the relevant currencies.
+On top of this development, we had the payout of last year's dividend, which overall
+could only be partially compensated by the positive operating cash flow of a good €900
+million.
+Page 3 of 24
+
+
+
+Company N ame: H annover Rueck SE
+Company Ticker: H N R1 GR Equity
+Date: 2017-08-10
+
+FINAL
+
+On the next slide, to understand the development of the IFRS capital position, one should
+start reading that slide on the right-hand side. Shareholders' equity decreased by 4.8%,
+driven mainly by factors we have already mentioned. There was a payment of record
+dividend of €603 million in Q2. Additionally, the exchange rate movements as a part of
+the I had a negative impact of some €480 million.
+This especially reflects the currency translation of the capital positions of our subsidiaries,
+the U.S. life, the Irish, as well as the Bermuda (11:11) company, balance sheets are
+denominated in U.S. dollars, which is the reason that the consolidation of their capital into
+the group leads to some volatility in the other comprehensive income on the group's
+balance sheet. We, unfortunately, have no influence on the U.S. dollar exchange rate. But
+together with our capital management via increased dividend payments, this
+development also supports the ROE of more than 12%.
+
+Bloomberg Transcript
+
+P&C gross premiums increased by a remarkable 16.9% on an FX adjusted basis. This is
+mainly based on the successful new business written by our structured reinsurance team,
+and it is also fully in line with our reporting on this year's January renewals. Additionally, as
+a result of our strong position in the market, we also enjoyed healthy demand in a few
+other areas like, for instance, the U.S. or credit and surety leading to further diversified
+growth. Also, here, the difference between the gross and the net premium development
+was caused by the unearned premium reserve.
+At 2.8% of net premium income, major losses were significantly below budget in the first
+half-year, mainly owing to the absence of large losses or large loss events in the second
+quarter. The combined ratio of 96.5% is admittedly slightly above the full-year maximum
+target of 96%. But we should be aware, as in previous years, we stuck to our standard
+practice and have kept our large loss expectations in the reserves.
+As we have increased our Advanced Solutions book so remarkably and we do write these
+contracts with an initial combined ratio of around 99%, still making the margin. The
+combined ratio suffers somewhat from that increase in the Advanced Solutions book as
+well. As compared to the previous years, that effect accounts for approximately 30 basis
+points.
+Uli had already mentioned and commented on the Ogden effect. So there is no need to
+repeat that here. Overall, based on the fact that we absorbed the negative effect within
+our existing IBNRs, the confidence level of our loss reserves should have decreased
+compared to the end of 2016, but it's definitely still on a very comfortable level. Apart
+from the Ogden rate, the run-off of loss reserves was slightly positive within the expected
+range, and did not include any other material effects.
+Ordinary investment income was slightly ahead of expectations, mainly driven by the
+already mentioned strong contribution from private equity and real estate. Other income
+expenses improved by around €30 million. In the P&C segment, this was supported by
+positive currency exchange effects. Altogether, the net income for our P&C business
+stands at €444 million, up 17% compared to the previous year.
+
+Page 4 of 24
+
+
+
+Company N ame: H annover Rueck SE
+Company Ticker: H N R1 GR Equity
+Date: 2017-08-10
+
+FINAL
+
+Major losses, significant, below the expected level. We've mentioned that. Most notably,
+we did not record any large loss in the second quarter of this year. I think this is premier
+for me. By contrast, the second quarter of 2016 was heavily impacted by a number of
+large losses. You may remember the Canada loss. The leaves us with a comfortable
+cushion number, around €700 million, to absorb large losses for the remainder of the
+year, including the unused approximately €220 million of carried forward from the first
+half-year.
+The large loss list here on the next slide. It should look very familiar to you, as it is almost
+unchanged compared to the slide we showed for the first quarter. In total, the loss
+estimates for the large losses occurring in the first quarter were adjusted slightly
+downwards.
+Next slide, you can see that most lines of business showed a healthy underwriting
+profitability. The 100% combined ratio for the UK London market and direct business
+stands out. And it is the result of the reserve strengthening for the change in the Ogden
+table. This also shows and demonstrates that the mitigating IBNR releases came from
+across the board rather than the UK motor business only or the motor reserves only.
+
+Bloomberg Transcript
+
+Overall, the main contributor to the underwriting result in the first half-year was
+Continental Europe where we did not record any sizable large losses. Additionally, the
+combined ratios for our global cat business, as well as the specialty lines in our facultative
+business were favorably below the MtCR and did reach a good profitability.
+In life & health, gross written premium decreased slightly by 1.5% adjusted for FX effects,
+which is still in the ballpark of our expectations. Also, for the full year, we have seen
+growth in a number of regions like China, Australia, and the U.S. This was, however, offset
+by reduced premium income due to the discontinuation of large volume treaties,
+especially also in our UK annuities segment.
+As Uli already mentioned, the result of our U.S. legacy mortality business, again, fell short
+of our expectations in the second quarter, which led to an underperformance
+expectations of around €50 million in the first half year. On the other hand, the profitability
+of our financial solution business continued to be excellent, mitigating a good portion of
+this negative effect. Such developments are also reflected in their respective EBIT
+margins, as you can see. Finally, our longevity business showed a satisfactory EBIT margin
+of 2.3%, which is slightly above the target.
+Income from funds withheld declined by €42 million due to the discontinuation of two
+large financing treaties. As explained earlier, the significant improvement in the other
+income and expenses can almost entirely be explained by the increased result from
+treaties recognized according to the deposit accounted method, with a total contribution
+of around €93 million in the first half of 2017, an increase of €60 million compared to the
+previous year. Currency effects, on the other hand, were slightly negative here.
+Other investment income was in line with our expectation. Realized gains were a bit
+higher than in the previous years. And just for the sake of completeness, the effect from
+Page 5 of 24
+
+
+
+Company N ame: H annover Rueck SE
+Company Ticker: H N R1 GR Equity
+Date: 2017-08-10
+
+FINAL
+
+our ModCo derivatives was a plus €3.3 million in the first half year.
+Looking at the investments, the development in the first six months of 2017 was very
+satisfactory, with investment income above our return expectations for the full year. In light
+of the strong contribution from private equity and real estate, the ordinary investment
+income increased by a remarkable 12.5%. The income from private equity, that, however,
+includes some extraordinary elements, which cannot be expected to reoccur in the
+second half. Still, the run rate will most likely stay above expectations.
+Realized gains were on a similar low level as in the last year, as we continue our policy of
+maintaining the bulk of unrealized gains, instead of actively harvesting them.
+Depreciations returned to the expected level, mainly consisting of regular depreciation
+for real estate. That is because the write-downs on listed and private equity that we had
+in the previous year did also not recur.
+
+Bloomberg Transcript
+
+The overall return on investment was strong at 3.2% which is why we now expect to
+achieve more than the previously targeted 2.7% in 2017. For the full year, variation reserves
+were stable at a high level compared to the year end of 2016, as the effect from spreads
+on the one hand and the interest rate movements on the other hand offset each other
+nearly completely.
+The next slide shows the usual overview of how the different asset classes contributed to
+the ordinary investment income compared to where we are invested. On the right-hand
+side, you can see that we kept our asset allocation more or less stable in the first quarter
+to slight increase in higher yielding corporate bonds from 4% to 5% is in line with our
+barbell strategy, which we have explained before. And this is how we still invest the new
+investments – or invest maturities and free cash flow. And the overall risk appetite stays
+unchanged.
+The left-hand side illustrates a very strong performance of the private equity portfolio and
+the continued positive contribution from the real estate portfolio. As indicated, the 12%
+from private equity is expected to trend towards a more normal level over the course of
+the year, still being very attractive.
+I think that concludes my remarks. And, as usual, I leave the target matrix and the outlook
+to you, Uli.
+
+Ulrich Wallin
+
+{BIO 4863401 <GO>}
+
+Thank you, Roland. And, yeah, talking about the target matrix, as you can see, we have
+achieved all our group targets in the first half year 2017. The business group target's a
+little bit more mixed picture. There's some misses notably on the life & health side.
+The treaty renewals in the second quarter which, of course, is the (22:42) renewals in
+Florida, through ILS 2017 renewals in the U.S., Australia, some Asia, and some credit and
+surety continued to depict a rather competitive market. This is, in particular, true for the
+Florida renewal at 2016 where, actually, the rate decreases were a little bit larger than last
+Page 6 of 24
+
+
+
+Company N ame: H annover Rueck SE
+Company Ticker: H N R1 GR Equity
+Date: 2017-08-10
+
+FINAL
+
+year, which was kind of a negative surprise. The other renewals, on the contrary, the 2017s
+and the other one, second quarter renewals were more positive and much more in line
+with the renewals at 1st of July and 1st of April, which show a slowing trend of the
+decreases.
+From this background, we achieved good growth of our business by 10%, which was in
+particularly aided by our North American business, which actually grew by 15%. The main
+driver here was increased share from existing core clients, and here, mostly from the
+short-tail lines. We also saw some growth on our U.S. casualty business. However, no new
+launched additional transactions here. And we found that the casualty business actually
+remained quite competitive.
+For treaties that has been loss-free, we saw further rate decreases, mostly in the range of
+3%. However, treaties with losses, which we have seen in particular in the property per risk
+business, rate improvements could be achieved between 10% and 20%, in particular, as
+far as of course the U.S. business is concerned on the property side.
+
+Bloomberg Transcript
+
+Australia and New Zealand, the development overall was quite positive, even though
+we've continued to see some premium erosion on loss-free business. However, we saw
+significant price increases on the Australian business due to the losses from the cyclone
+Debbie as well as the New Zealand earthquake at the end of last year. Our market
+position in Australia allowed us to increase the volume, to some extent, at a good overall
+rate, which meet our margin requirements.
+And finally, on credit and surety. We have some new business. We also increased some of
+our lines, and that resulted here in a growth of the premiums of around 10%. I should add
+that this slide only includes the traditional P&C reinsurance treaty business and does not
+include the structured reinsurance business that, again, at 2017, we saw some significant
+growth, which was even more pronounced than the traditional business.
+If I come to the next slide, which is our guidance. You can see that we have made some
+minor changes here based on the outcome of the first half-year and the midterm
+renewals. We increased our growth premium target to more than 5%, which is almost
+certain at this point in time, because most of the business has already been written, a
+very positive development of our investment income in the first half-year. We are now
+confident that we will be achieving a return on investment that is in excess of 2.7%. The
+group net income and the dividend payout ratio remains entirely unchanged. I would like
+to point out once again that we will continue, as our practice, to consider a special
+dividend in case that the results come in as expected.
+Looking at the overall development of our property & casualty business by sub-segment,
+you can see that on the premium side, we see particular growth in the structured
+reinsurance business and also the ILS business. Credit and surety, and UK and Ireland are
+also growing. UK and Ireland also due to the significant increases that we are getting on
+the UK motor business, particular also excess of loss business.
+
+Page 7 of 24
+
+
+
+Bloomberg Transcript
+
+FINAL
+
+Company N ame: H annover Rueck SE
+Company Ticker: H N R1 GR Equity
+Date: 2017-08-10
+
+On the other hand, Continental Europe looks more flattish to slightly down. And we also
+continue to see some decreases in marine and aviation, where in order to safeguard the
+continued positive results, we have to shed some premium. The reduction of income on
+the facultative side is mainly the result of some reclassification of facultative business to
+the direct business written by our subsidiary into Hannover. And that also contributed to
+the increase of the UK, London market, and direct business. Worldwide treaty and
+catastrophe excess of loss is rather stable. This continued lower market share on the
+catastrophe business than we have overall.
+When it comes to the profitability, we continue to expect the margin requirements to be
+fulfilled. And we continue results of profitability, in excess of the cost of capital. Particular
+positive from the first half-year was Continental Europe. So, we expect to earn above the
+cost of capital, and the same is true for the marine business, as well as our facultative
+business. With aviation, UK and Ireland due to the Ogden rate table changes and natural
+catastrophe business, below the cost of capital, however, this would only come true,
+other than UK and Ireland, if we actually hit the expected losses. I suppose aviation and
+the catastrophe excess of loss business are, of course, non-proportional business. It
+needs exceptional losses in order to achieve the expected loss levels. So, overall, at this
+point, it's a soft market, still quite a good picture on our P&C business.
+When it comes to our life & health business, we continue to see very profitable business
+at stable premium volume of our financial solutions business. Here, I have to say that the
+premium volume is less important, because the majority of, particularly the large
+transactions, are deposit accounted due to the low or not sufficient risk transfer for
+regions accounting, and therefore, the profitability largely shows up in the other income
+and expense line.
+Longevity business, we expect a slight reduction in the premium, mainly from our
+enhanced annuity business, which due to the changing in the environment regarding tax
+deductable is actually decreasing. Mortality and morbidity, quite stable to slightly up. And
+from a result point of view, we expect that the mortality business will not achieve the cost
+of capital and that have to do with the U.S. mortality business. The remainder of the
+mortality business has actually quite attractive margins.
+This slide should look rather familiar to you as we used it in previous conference calls as
+well. On the P&C was is our conservative loss reserve, strong market position, better
+terms and conditions on our (32:47). We are quite confident that for the full year, the
+combined ratio should stay below 96%, provided that the large losses remained within
+budget, so that the overall underwriting result should remain fairly stable.
+On the life & health business, we continue to expect negative effects from our U.S.
+mortality business. This also includes negative impact, which we already expect for the
+third quarter of around $50 million. This relates to an expected recapture of a block of
+treaties from our U.S. mortality business, which have had performed very negatively. And
+the recapture by the client in this case would result in a one-time negative effect on 2017.
+But, of course, in the future years, it will actually improve the results, because the
+expected future year losses will, of course, not materialize as the business has then been
+recaptured by the client.
+Page 8 of 24
+
+
+
+FINAL
+
+Company N ame: H annover Rueck SE
+Company Ticker: H N R1 GR Equity
+Date: 2017-08-10
+
+I have to say that in line with our in-force management activities, such occurrences could
+also happen in future, even though for the remainder of the year, none of those are
+actually in sight. As a result of this development, we have reduced our EBIT expectation
+for the life & health business from more than €350 million to around €300 million. There
+is no reduction beyond or below the €300 million. It's, again, the effect of the significantly
+increased profitability that we see from our financial solutions business. Net investment
+income, we expect fairly stable also due to the positive development that we already
+have seen at the first half year of this year.
+On this note, ladies and gentlemen, I'd like to end our presentation here. And we would
+be more than happy to answer your questions.
+
+Q&A
+Operator
+Our first question comes from Nadine van der Meulen of Morgan Stanley. Please go
+ahead. Your line is open.
+
+Q - Nadine van der Meulen
+
+{BIO 15200446 <GO>}
+
+Bloomberg Transcript
+
+Yes. Good morning, gentlemen. Thank you very much for taking my questions. First one is
+on the performance in life re, the negative impact from recaptures of around €50 million
+expected in the third quarter. Do you expect recaptures to continue to impact the
+performance beyond the third quarter?
+And on the Europe redundancies, on PYD, if you will. Those have been pretty high in the
+last years, ranging from anything between 4% and 10% in the last eight years or so. And
+this quarter, the €50 million is, I believe, in line. What can we expect for the full year and in
+coming years?
+And then, perhaps the last question on Solvency II. So, the ratio at 243%, I suppose the
+internal model approval of operational risk is not included, and that should perhaps
+(37:08) around 20%. Do you still expect that over the next six months or perhaps part of it
+is included? And in that light, you're getting in towards territory of over 260%. I believe
+you have a self-defined sources threshold of around 200%, so then that means towards
+€30 billion of access over that which was about a quarter of your market cap. Could you
+comment on what level you are happy with on a lower term view on the capital position?
+Thank you very much.
+
+A - Ulrich Wallin
+
+{BIO 4863401 <GO>}
+
+Yes. Thank you very much for your questions. On the recaptures on the life & health side,
+this has to do with – I mean, in-force management actions, in particular, adjusting rates on
+negative performing business efforts.
+On some of the treaties, I mean, this received a unilateral right that we have on many of
+the treaties. However, of course, we have to take into account the overall relationships
+Page 9 of 24
+
+
+
+Company N ame: H annover Rueck SE
+Company Ticker: H N R1 GR Equity
+Date: 2017-08-10
+
+FINAL
+
+that we have with our clients. And therefore, so far, in all of the cases, we try to come to
+neutral solution on this underperforming business. And this often is like sharing of the
+burden, which then means that it has a negative effect on our IFRS accounting, but it
+would have a positive effect on the technical provisions under Solvency II.
+And while there is possibility is that more of that happens, even though as I said, we are
+not foreseeing it beyond the €50 million for this year, but certainly, the possibility that we
+see more of this next year. So, from that point of view, it has to be expected that the
+large block of business of U.S. mortality businesses that we assumed in 2009, potentially,
+will continue to be a drag on our result. Of course, increasingly offset by a very positive
+financial solutions business, which continues to grow and where we continue to see profit
+growth also in the coming years.
+
+Bloomberg Transcript
+
+And, also, the new business that we write on the mortality solutions, of course, we write
+with a wealth of experience that we have from the underperforming block, and therefore,
+try to avoid the same pitfalls that we had then. And that of course, is very positive, and we
+see pretty good results on those. And as that business grows, I would say, by around 20%
+every year, that starts to offset the negative development of that big block. However, I
+have to caution that the development on the big block has actually continued to surprise
+us negatively with also the first half year in 2017 has been worse than the first half year
+2016. And I have to say that we had expected more in line with the first half year 2016.
+When it comes to our loss reserves, the redundancies on the loss reserves, on the P&C
+side, of course, we had pretty positive developments there. And with the soft market, we
+have expected at least for the last three years that the level of redundancies would
+gradually decrease due to the effects of the continued soft market.
+Actually, until the end of 2016, that is not happening, as the underlying performance of the
+business has been a little bit better than one should have expected, considering the
+effects of the soft market. Well, of course, the development of the redundancies in the
+current year probably show reduction in the level of redundancies, but remaining at a very
+comfortable level. But this has two providers: one is, of course, the large losses hit the
+budget; and second, that the Ogden rates stay where they are. So, if those both
+providers are so true, we expect to see some reduced redundancies.
+Solvency II ratio, still rather new to us. It is, of course, a little bit volatile. Yes, we have got
+the approval of our operational risk model for the Hannover Re group, which improved
+the solvency ratio. But, of course, you have capital markets developments, which can have
+also negative impact on this. Of course, if there's a change in the technical provisions on
+the life, which is of course projected for the next 80 years, also that can have a positive,
+or indeed, negative effect. So, we are quite comfortable to see this ratio higher rather
+than lower, I would say, for even this 260%, we would be relatively comfortable.
+This also has to do with the fact that we also have to observe the rating agency
+development there. And if you, probably, have read S&P – I mean, confirmed our AArating, this is stable outlook. At the same time, S&P has made a number of changes to
+their model, of which we're always pointing in the direction of more rather than less
+
+Page 10 of 24
+
+
+
+Company N ame: H annover Rueck SE
+Company Ticker: H N R1 GR Equity
+Date: 2017-08-10
+
+capital needed. Hopefully, this rather long-winded answers gives you some answers to
+your questions.
+
+Q - Nadine van der Meulen
+
+{BIO 15200446 <GO>}
+
+FINAL
+
+Very clear, and very much appreciated. Thank you.
+
+Operator
+Thank you. And our next question comes from Jonny Urwin of UBS. Please go ahead. Your
+line is open.
+
+Q - Jonny Urwin
+
+{BIO 17445508 <GO>}
+
+Bloomberg Transcript
+
+Good morning. Thanks for taking my questions, just two for me. So, firstly on the second
+quarter combined ratio. I mean, it's the highest it's been for some time. And you've
+obviously flagged some mixed shift going on in there, driven by the growth in structures in
+reinsurance. I just wondered if you could provide some more detail. I mean, is it higher
+attritional? Is it higher commissions? It looks like it might be higher commissions. And I
+guess this a recurring change given the sort of continued growth plans (45:13) reinsurance
+there. How should we would be thinking about that combined ratio going forward?
+I mean, secondly, just thinking a bit about this growth, so obviously, it's coming through
+very strongly, especially on the structured reinsurance side, but also in North America in
+the July renewals. I mean, how would you reassure investors about such high levels of
+growth in P&C at such a late stage in the pricing cycle? Do you think this changes the risk
+profile of the group? Thank you.
+
+A - Ulrich Wallin
+
+{BIO 4863401 <GO>}
+
+Well, firstly, on the combined ratio, yes, the structured reinsurance, which has rather safe
+margins but not very high margins, had, I mean, 0.3% effect on the combined ratio of the
+first half year, as Roland mentioned.
+In addition, of course, I mean, we have the change in the Ogden rate table, which we
+used our buffers to absorb. But, of course, we only did that to – I mean, at the least, I
+wouldn't say, but a low possible extent. And as the P&C income – I mean, the EBIT was
+already driving double digit. We thought we keep as much in the redundancy buffer as we
+probably can, and therefore, we tolerated a higher combined ratio than we would
+normally want to see.
+Actually, the underlying attritional losses have been reasonably favorable, I would say. I
+mean, particular on the specialty lines, I mean we saw improved underlying losses on
+credit and surety. Same is true on our marine business and also our European business, as
+well as our facultative business. So, we are not concerned to see underlying quality of our
+business and the underlying development.
+
+Page 11 of 24
+
+
+
+Company N ame: H annover Rueck SE
+Company Ticker: H N R1 GR Equity
+Date: 2017-08-10
+
+FINAL
+
+I mean we seem to be increasing – to your second question, increasingly successful in
+further improving our positions as a preferred reinsurer with our clients. And that resulted
+in quite good growth, underlying growth also outside the structured reinsurance in
+pockets (47:52). And this is not by writing significant new large treaties, but it's more by
+increasing lines on existing treaties. So, from that point of view, I would argue that it is
+actually healthy growth and that the underlying risk profile is not changed actually. It's
+probably continuing.
+And also, I mean, yes, we are on the fifth year of the soft market. But it's still a little bit
+heterogeneous. Yes, on Florida, cat, I mean, we probably already lost 60% of the rating
+quality. But that's not an area where we are particularly heavily involved. And other areas
+has a more mixed picture. I mean, if you look at Continental Europe, there's some areas
+like German motor where we see increases. We also see some other small segments or
+larger segments with better development. So, we feel rather comfortable, as I said,
+growth even though I appreciate your concerns that you say, well, how can you grow when
+the market is actually soft.
+
+Q - Jonny Urwin
+
+{BIO 17445508 <GO>}
+
+That's great. Thank you.
+
+Operator
+
+Bloomberg Transcript
+
+Thank you. Our next question comes from of Vinit Malhotra of Mediobanca. Please go
+ahead. Your line is open.
+
+Q - Vinit Malhotra
+
+{BIO 16184491 <GO>}
+
+Yes. Good morning. Thank you very much. I just wanted to quickly check on some topic
+which have been addressed, but just let me – in the renewals, the change in the share
+that we track I think is the highest positive change in a long time. Just a comment, is it just
+same thing that we just discussed because you did say that property was something you
+have grown in the U.S. So, if you could just comment once again that this is presumably
+not Florida but just somewhere else in the U.S. That is one question.
+The other question is – for Roland on the – there's a comment on the P&C other income
+which is quite confusing to me that the positive FX in 1H caused this. Now, I mean the
+dollar literally crashed in 2Q. So, I mean how could this be such a positive number for you?
+And just lastly on the Ogden, I think there's a comment somewhere that there's a bit
+more – I mean, what should we think – I mean, this was a very large move. If there's more
+to come, is it – are you happy assuming Ogden doesn't change? Thank you.
+
+A - Ulrich Wallin
+
+{BIO 4863401 <GO>}
+
+Well, firstly, on the change in shares, well, that's in particular the kind of growth that we'd
+like to see because, I mean this is business we know. And of course, we screen our
+business that we have. And of course, there's always some treaties where we'd like to
+have a larger share. And naturally, I mean if we do achieve that, that is less risky than
+Page 12 of 24
+
+
+
+Company N ame: H annover Rueck SE
+Company Ticker: H N R1 GR Equity
+Date: 2017-08-10
+
+FINAL
+
+writing new business. I mean it's not much on the cat side because we haven't increased
+our risk appetite on cat. It's more on the per risk business which where we have leading
+position in the U.S., and some of those is a long-tail line. (51:37) I mean it starts to aid us a
+little bit that we are not aggressively competing with our insurance clients, and that helps
+us at times to increase our shares.
+
+Q - Vinit Malhotra
+
+{BIO 16184491 <GO>}
+
+Can I just follow up the share you're winning is from very, very small players, do you think,
+or from other mix life there? Could you comment a bit – or larger players?
+
+A - Ulrich Wallin
+
+{BIO 4863401 <GO>}
+
+Well, I guess, on the long-tail business, of course, if you've gained shares, it would be
+from the larger players because, I mean, they are mostly involved in the long-tail business.
+In general, I would say it's probably more from the larger than the smaller players in this
+case.
+
+Bloomberg Transcript
+
+I mean on Ogden, what we have done on Ogden – I mean we haven't, I mean, taken the
+Ogden losses and run it against our UK model, IBNR reserves, which we could have done
+but we've chosen to reserve them in addition. So, I mean outside – in addition to what we
+have put up on Ogden in the second quarter, which is the €290 million of which around
+€230 million is UK motor excess of loss.
+We're still holding €250 million IBNRs on our UK motor business which, of course, we
+could have used to bolster the Ogden. But we just wanted to highlight the effect of the
+Ogden table rates. I mean, there might be further development in the Ogden losses,
+primarily because – I mean if we have new claims now, of course, they will also be
+reserved in accordance to the Ogden rate, which would mean that that reserve would be
+higher.
+And, of course, some of the claims that have already occurred are still in the phase of the
+assessment of the injuries and the assessment of the quantum of loss, therefore, and of
+course, both of them higher expected losses are being used. And that will, of course,
+then be offset against the actual UK motor IBNR reserves. So, I would say, with the
+addition of the Ogden rate reserves, our – I mean sufficiency of our UK motor reserving
+has actually slightly improved.
+And I think the other question is for you, Roland.
+
+A - Roland Vogel
+
+{BIO 16342285 <GO>}
+
+I think that was – the question's around the effect of the currency exchange rates. So,
+Vinit, you mentioned that the U.S. dollar had weakened and this should have a negative
+rather than a positive effect. I would not agree to that. Well, you know that we usually try
+to be as matched as possible currency-wise. I have to compromise my matching exercises
+as I have so many balance sheets to match. It's a German GAAP balance sheet. It's the
+IFRS balance sheet. It's also an economic balance sheet. They deviate from each other, so
+I have to compromise here or there. So, I can never be 100% matched on an IFRS basis.
+Page 13 of 24
+
+
+
+Company N ame: H annover Rueck SE
+Company Ticker: H N R1 GR Equity
+Date: 2017-08-10
+
+FINAL
+
+So, it happens that I'm long in dollars or short in dollars. So, for instance, I have to
+determine how much U.S. dollar assets I have by the end of the quarter, so exactly the
+30th of June. Still, the reserving exercise happens a little bit later so actuaries (56:00), so
+just to demonstrate that it is not an easy task. So, I can be long; I can be short. The
+difference driven from the currency exchange rate for P&C was, I think, some €19 million
+(56:12), an effect which we have. So, this compares to the matching exercise of more than
+€20 billion in reserves.
+So, you can foresee that it can be a little bit volatile. So, in that respect, any movement in
+volatility is a demonstration that the CFO didn't do a good job in matching his balance
+sheets. So, it's not this direction is always positive or this direction is always negative.
+Again, I can be short; I can be long in my matching exercise. So, it's a little bit coincidence.
+Moreover, there is one other aspect which is included here. We did write off all our
+receivables in Venezuela last year, some of which could then still come in, so there is
+another positive effect, which is where we benefited, where we had a little bit of loss last
+year and a little bit of profit this year. So, it is unfortunate that we cannot avoid the
+volatility of that line entirely.
+
+Q - Vinit Malhotra
+
+{BIO 16184491 <GO>}
+
+Okay. Thank you.
+
+Bloomberg Transcript
+
+Operator
+Thank you. Our next question comes from Kamran Hossain of RBC. Please go ahead. Your
+line is open.
+
+Q - Kamran Hossain
+
+{BIO 17666412 <GO>}
+
+Hi. Morning, everyone. Just coming back to life reinsurance, and apologies for that. Just
+thinking about 2018 and the outlook for that business and the EBIT. So, I guess we started
+this year with €350 million. We're now down to €300 million. I guess when you take the
+charge in the third quarter next year, you'd expect 2018 to improve as a result. I just want
+to understand whether that's starting from the €300 million base or the €350 million base
+as a kind of starting point.
+And then, I guess, on top of that, do we need to think about a greater contribution from
+financial solutions next year? So, that – kind of where do we start, is it €300 million or
+€350 million, and then do we need to factor in greater financial solutions contribution?
+Thank you.
+
+A - Ulrich Wallin
+
+{BIO 4863401 <GO>}
+
+Well, I mean there's no apology for this question because it's very high on our minds. I
+mean, if you look at the results here, I mean good is becoming better and the bad is
+becoming worse, is probably fair to say. I mean, as I've already pointed out, I mean the
+development in the first half-year of the actual versus expected was a negative surprise
+to us.
+Page 14 of 24
+
+
+
+Company N ame: H annover Rueck SE
+Company Ticker: H N R1 GR Equity
+Date: 2017-08-10
+
+FINAL
+
+And I mean, this re-occurring surprise, we would be optimistic still to assume that the
+second half-year on the actual to expected would revert to our expectation level for the
+entire year. So, we are not expecting that. Gradually, we believe that we should see an
+improvement here from the fact that we are actually increasing rates or seeing recaptures
+initiated by our clients, which means that future losses are actually reducing.
+On the financial solutions side, we continue to have a pretty full pipeline of new business.
+Therefore – I mean there is a quite big increase of the results this year. As these treaties
+are not single year treaties but multi-year treaties, I mean certainly we start the next year
+at the same level than we end this year. And then the new treaties, which we're expecting
+in addition would come on top of that. So, I mean, also for next year, you will – we can
+pretty certainly expect the increased profitability on our, particularly U.S. financial solutions
+business. But I mean we have become extremely cautious on our – a large block that we
+assumed on the UK (sic) [U.S.] mortality business.
+So, at this where I stand (01:00:51) now, I would say, for 2018, I mean I would probably be
+cautioned and say maybe the EBIT should stay at around the €300 million mark, and we
+should not budget for an increase.
+
+Q - Kamran Hossain
+
+{BIO 17666412 <GO>}
+
+Okay. It's very clear. Thank you very much.
+
+Bloomberg Transcript
+
+Operator
+Thank you. And our next question comes from Guilhem Horvath of Exane BNP Paribas.
+Please go ahead. Your line is open.
+
+Q - Guilhem Horvath
+
+{BIO 18460437 <GO>}
+
+Yes. Thank you. I'll come back a little bit on life insurance. Once again, I appreciate that
+you're remaining cautious and that it's probably too soon to tell. But just going back on
+the project you mentioned earlier, I'd like to know when do you think you'll be able to
+have a better view on how much recaptures on EBIT or how much rate increases?
+Because you mentioned 2018 to Nadine's question, do you think this is the kind of
+timeframe needed in order to re-price the business and to get rid of the bad bits of the
+business or do you think it's a much longer process? That's my first question.
+And the second is on return on investments, private equity, real estate and parts of it,
+which is not sustainable. Can you discuss a little bit what you think is sustainable, and also,
+when you think the ordinary income on fixed income assets will stabilize because you
+mentioned once again the decrease this half year. And I'd like to know if you see some
+stabilization at some points on the fixed income part? Thank you.
+
+A - Ulrich Wallin
+
+{BIO 4863401 <GO>}
+
+Well, we expect that on the U.S. mortality that, at the latest, by the end of the year, we
+should have the result from the project as regards the expected future losses and the
+change in those expectations. And well, of course, the in-force management actions will
+Page 15 of 24
+
+
+
+Company N ame: H annover Rueck SE
+Company Ticker: H N R1 GR Equity
+Date: 2017-08-10
+
+start or have already started, but we'll accelerate them. And we expect quite a lot of that
+happening this year and the remainder next year. Conclusion of the whole exercise will
+probably take, I mean the best part of two years, I would say.
+
+FINAL
+
+A - Roland Vogel
+
+{BIO 16342285 <GO>}
+
+Yes. And to the investments, the private equity, so the extraordinary portion within the
+first half-year was a little bit short of €30 million according to our internal calculation. If we
+expect a little bit but less in the quarters to come and annualize that, you could argue
+that, for instance,10 basis points did come from that. And so, this would be the
+extraordinary portion, which is included here.
+So, longer term, we see that it's still positive and it is remarkably above the 2.7%. We do
+calculate the 2.7% nearly without realized gains and losses. We had realized gains and
+losses or realized gains on the same level than last year. So, if we take these things out
+and look at the 2.7%, I think we mentioned that also for 2018, our fixed income book has
+an expectation of around 2.7%.
+That is also true for 2019. We are in the middle of the planning phase. I will be a little bit
+more concrete at the occasion of the Investors' Day. But I think for the years to come, we
+see a stabilization on the 2.7% level. Now, we have to see what the outperformance
+components of this year will do in the years to come. But it is slightly more positive than
+we had anticipated before.
+
+Bloomberg Transcript
+
+Q - Guilhem Horvath
+
+{BIO 18460437 <GO>}
+
+Okay. Great. Thank you.
+
+Operator
+Thank you. Our next question comes from Ivan Bokhmat of Barclays. Please go ahead.
+Your line is open.
+
+Q - Ivan Bokhmat
+
+{BIO 15378004 <GO>}
+
+Hi. Good morning. I have two questions. The first one is on reserve redundancy. I just
+wanted to try to make sure I understand the message. So, the Ogden reserve of €291
+million, I understand it wasn't fully offset with the reserve releases, which, as normal,
+you've been mentioning in the past around that €50 million per quarter.
+Does it mean that in reality, the reserve redundancy that you've put through in the first
+half of the year was a little bit over €150 million? Is that the right way to think about it? Or
+maybe you can give a better indication. And secondly, whether you have any further
+releases planned related maybe to Ogden rate in second half of the year?
+And then, the second question, more broad. You've mentioned that in the loss affected
+buckets of the market and renewals, you did see then 20% rate increases. At this stage of
+the soft market, how does it compare with what you've seen in the past? Let's say in Fort
+
+Page 16 of 24
+
+
+
+Company N ame: H annover Rueck SE
+Company Ticker: H N R1 GR Equity
+Date: 2017-08-10
+
+McMurray losses, how did the market perform or in the earlier occasions? Are we seeing a
+more muted increase in rates after loss occurrence? Thanks.
+
+FINAL
+
+A - Ulrich Wallin
+
+{BIO 4863401 <GO>}
+
+Well, to Ogden, I mean the reduction in the redundancy, I think your figure of €150 million
+is probably in the ballpark, I would say not being an actuarian. Of course, the actual
+(01:07:00) calculations have to be done. I would say between €110 million, €200 million,
+something like that.
+And while – I mean, the increases following the Fort McMurray fire, so a little bit higher
+than we have seen on the loss-affected treaties now, that hasn't necessarily to do with
+the soft market but the Fort McMurray fires were basically the largest cat loss in Canada
+and affected an entire market. When we talk about loss-affected increases in the, say, on
+the (01:07:43) renewal, these are individual treaties that have losses, and are not – I mean
+losses that affect the entire markets.
+
+Bloomberg Transcript
+
+So, it's just the individual (01:07:57) like you have a property per risk treaty and on
+business that is written 100% by the clients that was a big fire loss. So, this program then
+have the loss. While the other programs of the other clients remain loss-free and, of
+course, there's a little bit, of course, of an offsetting of the goodwill to bad; and
+therefore, I mean, in this situation then that's largely what we have observed insofar this
+year, of course, (01:08:32) increases will be lower and have been lower in all market
+cycles. But we still are relatively pleased that the market, with very few exception, has
+retained its ability to respond to losses with rate increases.
+
+Q - Ivan Bokhmat
+
+{BIO 15378004 <GO>}
+
+Thank you.
+
+Operator
+Thank you. Our next question comes from William Hawkins of KBW. Please go ahead. Your
+line is open.
+
+Q - William Hawkins
+
+{BIO 1822411 <GO>}
+
+Hi, guys. I'm sorry, I'm coming back to the life business because I've been learning stuff as
+you've been answering questions. Could you just clarify some points for me? On slide 9,
+you've talked about this €50 million below expectation for the technical results. Is that
+figure only the impact of the recapture that you talked about or is that also reflecting the
+comment you made about underlying in the first half being poorer than the first half last
+year? If it's not included in that, could you try and scale the amount by which the
+underlying has also been poorer?
+And then also, I was going to ask whether you're finally going to do a sort of a fuller
+review of all of this business and you seem to imply in an answer to a question that you
+are because you've just mentioned the process is going to take a couple of years. Again,
+as much as you can scale the risk from this, are we talking sort of the €50 million kind of
+Page 17 of 24
+
+
+
+Company N ame: H annover Rueck SE
+Company Ticker: H N R1 GR Equity
+Date: 2017-08-10
+
+FINAL
+
+range that you referred to when you were talking about 2018 EBIT or is there a risk that
+you're doing a fuller review that could be something more material for the Hannover Re
+Group? I mean I appreciate this is quite scaled down within Hannover Re Group in general,
+but I'm just wondering, is this a double-digit issue or could we, at some point, have to
+face something slightly bigger? I'll leave it at that. Thanks.
+
+A - Ulrich Wallin
+
+{BIO 4863401 <GO>}
+
+Okay. Thank you, Will. Firstly, on the €50 million, the €50 million in the first half-year is
+entirely this (01:10:23) recapture. There was just actual to expected, worse than planned.
+
+Q - William Hawkins
+
+{BIO 1822411 <GO>}
+
+Okay.
+
+A - Ulrich Wallin
+
+{BIO 4863401 <GO>}
+
+Bloomberg Transcript
+
+So, the €50 million recapture that's – and one is euro, the other is U.S. dollar, which I would
+have said is almost the same but no longer maybe, the €50 million is pretty safely to be
+expected development which is subject to conclusion of some agreements here.
+Yes, we take a fuller (01:11:02) review. I would say yet again on this business and the
+numbers involved are relatively large, but they go both ways. I mean if you look at it from
+an economic perspective, we already strengthened the technical provisions last year on
+our Solvency II balance sheet by more than €500 million from this big block of assumed
+business. Of course, there was other business, which was a lot more positive. So, we're
+talking relatively large numbers here, but in both directions.
+I mean, of course, one is the rate increases that we are pitching for, of course, depend on
+the losses we are expecting because, I mean on business which goes well, we would of
+course not even thinking about rate increases. And business that goes marginally
+negative, also we would probably not do any rate increases. It's only business that
+performs very badly and of course one aim of the project is that we identify the exact
+level of rate adjustment that is necessary on individual treaties on this one.
+And, of course, that's what I mean (01:12:40) that this treaty's what – then of course, after
+the action being done and agreed with a client, we would then, of course, have no further
+negative effect from these treaties. But, yeah, I mean, the important cost that we have is
+that we are able to stir the development of the future premiums in line with the
+development of the future losses, which on the block I was talking about is clearly up.
+
+Q - William Hawkins
+
+{BIO 1822411 <GO>}
+
+Got you. If I may just ask one other clarification please. The €93 million deposit accounted
+other income, you made this comment that that's sort of a sustainable number. And I just
+wanted to double-check that because sometimes the deposit accounted business, you
+can sort of get an IFRS new business profits that then kind of fade next year. But you're
+clearly saying that you've got €93 million in the first half of this year, and therefore, there
+would also be €93 million in the first half of next year?
+Page 18 of 24
+
+
+
+Company N ame: H annover Rueck SE
+Company Ticker: H N R1 GR Equity
+Date: 2017-08-10
+
+A - Ulrich Wallin
+
+{BIO 4863401 <GO>}
+
+FINAL
+
+Yeah. From the deposit accounted, that's absolutely true. I mean these treaties are or
+these transactions are really – I mean, multiyear transactions. And I mean they run – they're
+risk remote. Otherwise, they wouldn't be a deposit accounted. And I mean they run
+exactly according to plan.
+
+Q - William Hawkins
+
+{BIO 1822411 <GO>}
+
+Okay. Lovely. Thank you.
+
+Operator
+Thank you. And our next question comes from Andrew Ritchie of Autonomous. Please go
+ahead. Your line is open.
+
+Q - Andrew J. Ritchie
+
+{BIO 18731996 <GO>}
+
+Bloomberg Transcript
+
+Hi there. Two very quick clarifications. On Ogden, I guess none of the Ogden reserves or
+very little of the Ogden reserves that you've taken, I guess, relate to claims that have
+actually paid out. So, should there be (01:14:37) in Ogden rate backed up? What
+happened with the reserves you've taken? Will they just be incorporated into your reserve
+buffer? And linked to Ogden, what kind of level of rate increases have you been seeing
+across your UK matrix (01:14:57) book?
+And the same question, it's just a bigger picture one, Uli, you're encouraging us to take
+down our numbers for life EBIT assumingly forever. And I guess, for 2017, you've offset
+that at a group level. The guidance of group net income hasn't changed because of
+higher investment income and, I think, from effect (01:15:22) from higher non-life premium.
+Just thinking through to 2018, are there any offsets? Do you still anticipate further followthrough from the additional non-life volume you put on this year or there will be margin
+offsets negating that? Thanks.
+
+A - Ulrich Wallin
+
+{BIO 4863401 <GO>}
+
+Well, l mean firstly, on Ogden, I mean if the rate would be swing back up, of course, the
+majority of the additional loss reserves would not be necessary. And the reason is that
+they basically come from UK motor excess of losses, which mostly attach an excess of €10
+million. And, of course, I mean these existing claims have grown into the layers which
+previously were below the layers.
+And, of course, I mean if the Ogden rates go up again, it would be taken from the top
+and, therefore, the entire fact would actually come out of our reserves which, however,
+for the time being, we have to I mean expect the Ogden rate as they are. And that's also
+reflected in the price development. Then, I mean, we have seen region's rates doubling
+which, of course, it has a compound effect with primary rates increasing as well to the
+absolute premium volume has been more than doubling.
+
+Page 19 of 24
+
+
+
+Company N ame: H annover Rueck SE
+Company Ticker: H N R1 GR Equity
+Date: 2017-08-10
+
+FINAL
+
+This is not an outrageous increase (01:17:05) because at the level where we're playing,
+also the expected losses have doubled. So, I mean, just purely, I mean, adjusting the rate
+for the effects of the Ogden rate and that has been available in the market. So, it's
+nothing particularly exciting because, I mean, we just adjust the rate to what is necessary
+in line of the Ogden rate.
+I mean, on the EBIT of the life, still I would say for the medium term, we expect an
+increase there. Actually, quite a hefty increase to the extent that we can get the problem
+on our U.S. mortality business soft, I mean we would have a significant higher run rate of
+EBIT. In the meantime, we think that certainly for 2017, and the first half-year depicts that
+actually quite well, I think the P&C side and the investment income should be, I mean,
+filling the hole that the life & health leave within – compared to our planned figures. So,
+from that point of view, I mean the other aspects of the business should be sufficiently
+profitable to safeguard the guidance.
+And for 2018, of course, not yet time to do a guidance for 2018. I think the growth in the
+P&C side, we would also expect some growth in the profitability of our P&C business.
+
+Q - Andrew J. Ritchie
+
+{BIO 18731996 <GO>}
+
+Okay. Great. Thank you very much.
+
+Bloomberg Transcript
+
+Operator
+Thank you. Our next question comes from Michael Haid of Commerzbank. Please go
+ahead. Your line is open.
+
+Q - Michael Haid
+
+{BIO 1971310 <GO>}
+
+Thank you very much. Good morning. Just clarification. Sorry that I have to come back to
+life re. The problems of the U.S. mortality group, just to understand, is this only the book
+that you acquired in 2009, i.e., the former ING Scottish Re portfolio? And have you done
+the math regarding the accumulated loss that this book incurred? And how come that you
+so materially misjudged the healthiness of that book over the past – or when you actually
+acquired this book? That's my only question.
+
+A - Ulrich Wallin
+
+{BIO 4863401 <GO>}
+
+Well, it's only that books because all the other U.S. mortality business is going according to
+plan. You may recall that we have also assumed two smaller blocks from Scottish Re, both
+of them performed better than expected, and so that's what we call the organic business
+which is the new business that we are writing.
+I mean how come that we have misjudged it and we clearly have. I mean there's no
+discussion about that possible. I mean the reason is that this was block of a very large
+number of individual treaties, which had I mean an even exponentially large number of
+underwriting years. And the assumptions that were used at the time, they're not detailed
+enough to capture the individual risk parameters of all the different treaties and different
+portfolios that we were assuming. So, in other words, there were some general
+Page 20 of 24
+
+
+
+Company N ame: H annover Rueck SE
+Company Ticker: H N R1 GR Equity
+Date: 2017-08-10
+
+assumptions on mortality, on lapse and other policyholder options that policyholders have
+in the U.S. that have an effect on the expected claims.
+
+FINAL
+
+There was also probably, it's too broad assumption on the expected mortality
+improvement, in particular, for the older ages that is not resembling in the actual
+experience that we see on some of the treaties. That, I guess, was the reason. It's not a
+good reason because it's never a good reason if something goes wrong, but (01:22:06).
+
+Q - Michael Haid
+
+{BIO 1971310 <GO>}
+
+And you acquired this book back in 2008 or 2009. It's almost 10 years ago. How much of
+this book has matured already? How much – yeah.
+
+A - Ulrich Wallin
+
+{BIO 4863401 <GO>}
+
+Well, if you look at the net amount at risk, which is basically the sum insureds, it's about
+45% of the sum insureds or the net amount at risk that had come off the risk, that have
+come – they just expired.
+
+Q - Michael Haid
+
+{BIO 1971310 <GO>}
+
+Thank you very much.
+
+Bloomberg Transcript
+
+Operator
+Thank you. Our next question comes from Andreas Schäfer of Bankhaus Lampe. Please
+go ahead. Your line is open.
+
+Q - Andreas Schäf er
+Yeah. Thanks. So, just one question regarding your reinvestment yield for the first half of
+this year. So, is it still around about 2%, as far as I can remember? And on second question
+is clearly why do you expect, let's say, for a longer period of time – I understand two or
+three years – a more or less unchanged investment yield in your portfolio?
+
+A - Roland Vogel
+
+{BIO 16342285 <GO>}
+
+Yeah. It is – again, as I mentioned, we do do the planning exercise right now. On the one
+hand, we have reinvestment yields, for instance, in the U.S. dollar, where we invest monies
+today higher than they mature. Again – so this – and it also depends a little bit on the
+maturity profile. So, it's not the run rate for – which I can comment on, on the next 10, 15
+years. But as we had been looking at the maturity yield or the yields of the maturing book
+and the current reinvestment yields and that in combination, with the anticipated and
+planned changes of the portfolio to move the reinvestments not to exactly where we are
+today.
+But to other areas, so for instance, we do not reinvest a lot or even nothing into covered
+bonds these days. So, if we add all together these effects, the reinvestment yield should
+be higher than 2%. Also in the fixed income base, and together with the anticipated and
+already achieved changes in the portfolio at least – and if we compare that with the
+Page 21 of 24
+
+
+
+Company N ame: H annover Rueck SE
+Company Ticker: H N R1 GR Equity
+Date: 2017-08-10
+
+maturing yield, we see that for 2018, most likely also 2019 that the – we have no dilution
+of the ROIs.
+
+Q - Andreas Schäf er
+
+FINAL
+
+Okay. Thank you.
+
+Operator
+Thank you. The last question on the queue so far is from Olivia Brindle of Bank of America.
+Please go ahead. Your line is open.
+
+Q - Olivia Brindle
+
+{BIO 17273762 <GO>}
+
+Hi there. I guess we've exhausted all the questions on U.S. mortality. But I wanted to ask
+about another part of the life book, and that's the longevity business. So, just interested in
+your thoughts because one of the large UK players just yesterday released a significant
+amount of longevity reserves based on the trends in life expectancy increases. I'm just
+wondering on where you stand with your assumptions there? Is there any chance that
+there's potential upside for you depending on how you model those life expectancy
+increases going forward? Thank you.
+
+Bloomberg Transcript
+
+A - Ulrich Wallin
+
+{BIO 4863401 <GO>}
+
+Well, I mean the development on the UK, I mean pension blocks is actually quite positive
+when it comes to, I mean, the expected claims. However, we have locked in the
+assumptions on those treaties, which we have taken at the beginning of the period. And
+as a result, we are not, I mean, showing any IFRS profit as a result of this, I think for this
+business, more positive development. Luckily, our involvement in the UK mortality
+business is minimal, so, there, our effects of the change in these life expectancies is also
+very, very small.
+So, yeah, I mean it creates additional conservatism in the business. We still haven't altered
+our pricing matrix there mainly because I mean, it is long-term business. It is, of course,
+subject to change and we try to be cautious there.
+
+Q - Olivia Brindle
+
+{BIO 17273762 <GO>}
+
+So, just to clarify on that, are you still using the older assumptions and matrices for the
+longevity part of your business in the UK?
+
+A - Ulrich Wallin
+
+{BIO 4863401 <GO>}
+
+Certainly, for reserving purposes.
+
+Q - Olivia Brindle
+
+{BIO 17273762 <GO>}
+
+Okay. Great. Thank you.
+
+Page 22 of 24
+
+
+
+Company N ame: H annover Rueck SE
+Company Ticker: H N R1 GR Equity
+Date: 2017-08-10
+
+Operator
+And we have one final question coming through. That's a follow-up from Vinit Malhotra of
+Mediobanca. Please go ahead. Your line is open.
+
+FINAL
+
+Q - Vinit Malhotra
+
+{BIO 16184491 <GO>}
+
+Yeah. Thank you. Sorry. (01:27:40). Just this slide 15, please, which shows the outlook by
+line of business. I mean just comparing it to the last quarter, the trends have inverted, I
+mean changed for both North America and Continental Europe in terms of profitability
+outlook. So Continental Europe seems to have gotten better, and I understand that's
+because of German motor, but North America has gotten a bit (01:28:06) worse and still
+you're growing so rapidly into it. Could you comment a bit about this (01:28:13) worse of
+profitability in North America and also your continued growth there? Thank you.
+
+A - Ulrich Wallin
+
+{BIO 4863401 <GO>}
+
+Well, this is, of course, the outlook for 2017. And the change really reflects the result
+development in the first six months. So, on Continental Europe, the first six months were
+very, very favorable. And if we assume that the remainder of the year will remain as
+originally expected, of course, situation improves. Converse is true on the U.S. site, where
+we have some individual claims particular on our property per risk book. And again also
+there, we assume that the remainder of the year will be as expected, and therefore, it's
+worse than we thought at the beginning of the year.
+
+Bloomberg Transcript
+
+Q - Vinit Malhotra
+
+{BIO 16184491 <GO>}
+
+Okay.
+
+Operator
+Thank you. And as there are no further questions, I'll hand back to our speakers for the
+closing comments.
+
+A - Ulrich Wallin
+
+{BIO 4863401 <GO>}
+
+Yes. Thank you very much for listening in. Thank you for all your interesting questions and
+have a nice day.
+
+Operator
+This now concludes the conference. Thank you all very much for attending. You may now
+disconnect your lines.
+
+This transcript may not be 100 percent accurate and may contain misspellings and other
+inaccuracies. This transcript is provided "as is", without express or implied warranties of
+any kind. Bloomberg retains all rights to this transcript and provides it solely for your
+personal, non-commercial use. Bloomberg, its suppliers and third-party agents shall
+Page 23 of 24
+
+
+
+Company N ame: H annover Rueck SE
+Company Ticker: H N R1 GR Equity
+Date: 2017-08-10
+
+Bloomberg Transcript
+
+FINAL
+
+have no liability for errors in this transcript or for lost profits, losses, or direct, indirect,
+incidental, consequential, special or punitive damages in connection with the
+furnishing, performance or use of such transcript. Neither the information nor any
+opinion expressed in this transcript constitutes a solicitation of the purchase or sale of
+securities or commodities. Any opinion expressed in the transcript does not necessarily
+reflect the views of Bloomberg LP. © COPYRIGHT 2022, BLOOMBERG LP. All rights
+reserved. Any reproduction, redistribution or retransmission is expressly prohibited.
+
+Page 24 of 24
+
+

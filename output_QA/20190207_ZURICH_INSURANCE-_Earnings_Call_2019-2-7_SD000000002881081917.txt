@@ -1,0 +1,1077 @@
+Company N ame: Z urich I nsurance Group AG
+Company Ticker: Z URN SW Equity
+Date: 2019-02-07
+
+Q4 2018 Earnings Call
+Company Participants
+FINAL
+
+George Quinn, Group CFO & Member of the Executive Committee
+Mario Greco, Group CEO & Member of the Executive Committee
+Richard Burden, Head IR & Rating Agency Management
+
+Other Participants
+Andrew James Ritchie , Partner, Insurance
+Farooq Hanif , Head of Insurance Research in Europe
+James Austin Shuck, Director
+Johnny Vo, MD
+Jonathan Peter Phillip Urwin, Director and Equity Research Insurance Analyst
+Michael Igor Huttner, Senior Analyst
+Niccolo Cornelis Modesto Dalla-Palma, Research Analyst
+Nick Holmes , Equity Analyst
+Peter Eliot, Head of Insurance Sector Research
+
+Bloomberg Transcript
+
+Vinit Malhotra, Banca di credito finanziario S.p.A., Research Division
+
+Presentation
+Operator
+Ladies and gentlemen, welcome to the annual results 2018 conference call. I'm Jen, the
+Chorus Call operator. (Operator Instructions) The conference must not be recorded for
+publication or broadcast.
+At this time, it's my pleasure to hand over to Mr. Richard Burden, Head of Investor
+Relations and Rating Agency Management. Please go ahead, sir.
+
+Richard Burden
+
+{BIO 1809244 <GO>}
+
+Thank you. Good morning. Good afternoon. Welcome to Zurich Insurance Group's Full
+Year 2018 Q&A Call. On the call today is our group CEO, Mario Greco; and our group
+CFO, George Quinn.
+(Operator Instructions) And with that, I'd like to pass over to Mario to make some
+introductory remarks before we start the Q&A.
+
+Mario Greco
+
+{BIO 1754408 <GO>}
+Page 1 of 17
+
+
+
+Company N ame: Z urich I nsurance Group AG
+Company Ticker: Z URN SW Equity
+Date: 2019-02-07
+
+Good day, everybody. Thank you very much for joining us. Before we get into the Q&A
+session, I just want to provide you with a few remarks from my side.
+
+FINAL
+
+And first of all, we're very pleased with our full year results. They demonstrate further
+progress against the targets and the priorities that we outlined in November 2016. And
+they have been achieved despite a challenging financial market in the latter part of the
+year and continued elevated natural catastrophe activity.
+Particularly pleasing has been the strength of the results in our life business. Even
+adjusting for positive foreign exchange movements, they increased by 23% year-on-year.
+The results also show the high quality of our life business. 90% of revenues are coming
+from either technical margins or fees and loadings. And there is very little reliance on
+investment results. This underlines the success of our consistent strategy of focusing on
+protection, unit-linked and corporate products.
+We continued to execute on this strategy over 2018, where 86% of APE came from these
+products and 100% of new business value was from those products.
+
+Bloomberg Transcript
+
+Our Property & Casualty business also performed well. We saw an improvement in the
+accident year combined ratio. This was driven by improvement in the accident year loss
+ratio with our commercial business also seeing improvements in a very tough market
+conditions. Our reserves remain strong, as demonstrated by the continued positive prior
+year development at the slightly above 1.0 -- 2.2-point guidance.
+As in 2017, 2018 demonstrated the effectiveness of our underwriting with the below
+natural share of elevated natural catastrophe events in the U.S. Investment income in
+Property & Casualty has also stabilized as the reinvestments have continued to improve.
+Looking forward, we expect our underwriting performance to be upper end of the 95% to
+96% range, as the impact of business mix shifts, rate increases and expense reductions
+continue to earn through.
+Farmers has continued to demonstrate solid growth in their chosen areas and in their
+ability to innovate, with new business offerings like the commercial ride-share business
+with Uber and like Toggle, which is insurance-on-demand quite successful last year.
+Their customer-focused strategy has also continued to drive improved customer metrics.
+This has been achieved with an improved underwriting performance. After many years,
+Farmers has a double-digit combined ratio and we're very proud and satisfied with that.
+This trend should continue to support growth in Farmers Management Services.
+Our balance sheet is strong and the Z-ECM ratio is at the 125% despite the impact of
+financial markets in the latter part of the year. And this reflects the strong operating
+capital generation within our businesses.
+
+Page 2 of 17
+
+
+
+Company N ame: Z urich I nsurance Group AG
+Company Ticker: Z URN SW Equity
+Date: 2019-02-07
+
+FINAL
+
+Importantly, we continue to turn this capital generation into usable cash remittances to the
+group, with a further $3.8 billion of remittances in 2018, bringing the cumulative total over
+the past two years to $7.5 billion, which is well on track to exceed the $9.5 billion target for
+the end of '19.
+This ability to generate cash underpins our dividend, which has been increased by 6% to
+CHF 19 per share and this represents a 76% payout, which is in line with our stated
+dividend policy.
+2018 has also seen us continue to deliver against our key strategic priorities. We have
+further strengthened our leadership positions in the faster-growing regions in Asia and
+Latin America and we have built out our leading position in the fast-growing travel and
+assistance business through targeted acquisitions while also continuing to build additional
+distribution partnerships.
+We have continued to invest in innovation. In 2018, we had the inaugural Zurich Innovation
+World Championship, which saw a wide range of interests covering all aspects of the
+insurance business with the winners announced last week. We look forward to working
+with the winners to bring new and innovative solutions to our business.
+
+Bloomberg Transcript
+
+We've also continued to roll out other innovative customer offerings with the launch of our
+first application under our cooperation with CoverWallet; the launch of Klinc, an innovative
+provider of on-demand coverage for personal possession; as well as announcing a
+strategic collaboration to use Snapsheet's virtual claims technology across the group.
+These initiatives will help ensure that our customers benefit from simpler interaction with
+our businesses in greater levels of customer service while delivering very greater levels of
+efficiency.
+Overall, these results and development give us confidence that we're well on track to fully
+deliver against our current targets and position us well for the next phase of our
+development, which I look forward to presenting to you later this year; actually, in
+November, in London.
+With this, I would pass back the line to you for Q&A.
+
+Questions And Answers
+Operator
+(Operator Instructions) The first question is from Peter Eliot, Kepler Cheuvreux.
+
+Q - Peter Eliot
+
+{BIO 7556214 <GO>}
+
+The first question was, I guess, on the sort of the underlying earnings that we're seeing. I
+mean, there's lots of moving parts in the numbers, including some positive one-offs. But
+
+Page 3 of 17
+
+
+
+FINAL
+
+Company N ame: Z urich I nsurance Group AG
+Company Ticker: Z URN SW Equity
+Date: 2019-02-07
+
+considering the sort of high level of nat cats we've seen and restructuring costs, my sort
+of calculation of sustainable earnings gets me to a couple of hundred million higher than
+you reported. I mean, the fact that you've reported dividend -- or for a dividend close to
+75% of NIAS kind of implies that you think NIAS is a good estimate of the sustainable run
+rate. I'm just wondering if you could sort of comment on that or whether I'm -- it's just a
+statistic. The second question is on the impact of the P&C portfolio mix changes. We've
+seen a commission ratio hike of 3percentage points over the last three years, which just
+seems quite a lot to me. And I'm just wondering if you can sort of give us some clarity in
+numbers around sort of the proportion of the business and the extent to which that's
+driving it and I guess, will continue to drive it? And I guess, your guidance of flat P&C
+premiums next year on the back of the portfolio mix change. I'm just wondering if you can
+sort of say when we should expect to see the end of this and when we could maybe start
+to see premiums starting to pick up?
+
+Bloomberg Transcript
+
+A - George Quinn
+
+{BIO 15159240 <GO>}
+
+Peter, thanks. It's George. So on the first one, we actually have a slide in the investor deck
+today. I don't recall the precise number, 9, 10, something like that. In that, we've tried to
+break out both for last year and for this year what we see as the -- I hate to use the
+phrase underlying earnings because it's only if you take out some of the obvious one-offs.
+So as you may have seen from that slide already, we would see it substantially higher than
+just $200 million. There are 2 obvious things we would adjust for: so one is the extra point
+in nat cat so that we have in the year. So a bit more than $260 million; and the second
+thing is the element of simplification that we have within the operating profit. If you adjust
+for both of those, you got a number that's a bit north of $5 billion for operating profit.
+There are other items that are one-offs. So for example -- I'm sure you are aware from
+the conversations with the IR guys today that there are certainly one-offs in the life results
+that are positive. But equally you'll find other one-offs that are negative, for example,
+around hedge funds. So we tend to net the rest of it to pretty much zero. So if I were
+doing the normalization calculation, I'd be adding back -- I mean, something between
+$400 million and $500 million as opposed to $200 million. On the second point around
+the portfolio changes, maybe -- we covered that a bit at the half year. And the picture
+hasn't really changed so much from then. I mean, obviously, it's driven by -- we talked
+about three things at the half year. So we have the travel business with Cover-More. And I
+think as everyone knows, that's a pretty high acquisition cost business given the
+characteristics of the type of product and the low volatility nature that it brings. Second,
+was the finance and insurance business in the U.S. So that business grew pretty
+substantially in the first half of the year. So that was just a driver of that 1.1% increase you
+already saw in the first half of the year. Then, of course, LATAM, where we've been pretty
+successful in finding new distribution agreements, particularly on the retail side in Brazil,
+that's also exacted some upward pressure on the acquisition cost ratio. I think -- I don't
+expect it's going to change markedly in the very -- in the short term. I think the one thing
+to bear in mind though is that -- I mean, we don't -- we obviously don't normally look at
+the commission ratio where we're trying to say when we like the business' -- the overall
+performance. So for us, I mean, if we do have to trade at a slightly higher commission
+ratio to further improve the characteristics of the book, i.e. better margin with lower
+volatility characteristics, that's something we would continue to do. I don't immediately
+see that in our future. But I mean, I couldn't entirely rule it out. So I mean for me, I think
+you need again to look at the overall technical performance. And we've talked before
+
+Page 4 of 17
+
+
+
+Company N ame: Z urich I nsurance Group AG
+Company Ticker: Z URN SW Equity
+Date: 2019-02-07
+
+about -- I mean, over time, I expect to see a trade between the loss ratio and the
+commission ratio.
+
+Q - Peter Eliot
+
+{BIO 7556214 <GO>}
+
+FINAL
+
+And in terms of the overall premium volume, when we might -- should start to see that
+pick up? Will the pressure from portfolio mix go away?
+
+A - George Quinn
+
+{BIO 15159240 <GO>}
+
+So I understand the question...
+
+Q - Peter Eliot
+
+{BIO 7556214 <GO>}
+
+Sorry.
+
+Bloomberg Transcript
+
+A - George Quinn
+
+{BIO 15159240 <GO>}
+
+So for us, I mean, if you look at what happened last year, I mean it's the trend that we've
+been on -- I mean, firstly, continues. Probably the reduction in commercial has slowed
+down a bit. So we dropped by, I mean, very low single digits. The retail portfolio -- and I
+guess you understand the definition of retail for us. So it includes SME and the highervolume commercial-type exposures, I mean that's growing at a level that's -- I mean,
+closer to double digits. We have bought more reinsurance. We talked about it during the
+course of last year, especially around casualty. So that, obviously, has some impact and
+knocked back that higher gross rent premium. At this point, in terms of the large
+reinsurance that we do, certainly on a quota share basis, I don't expect that we're going
+to be changing that in the short term. So -- I mean, I would expect that this year, flattish. I
+mean, there's the possibility, if we can find the right opportunity on the retail side, we
+would grow. I think the challenge is -- I mean, the market on commercial -- I mean it's a bit
+hard, I suppose, to imagine today that -- just given the profitability characteristics that
+that's a part of the portfolio would be a high priority to grow.
+
+Operator
+Next question is from Andrew Ritchie, Autonomous.
+
+Q - Andrew James Ritchie
+
+{BIO 18731996 <GO>}
+
+First question, just on pricing. I just was looking for a bit more granularity, mostly in North
+America. Some of your competitors have been sort of focusing on rate increases ex
+workers' comp. If we accept that workers' comp is soft. But the claims environment is also
+soft. But if you ex workers' comp, I'm interested in what rate you're getting on the
+problem lines, which continue to be, it seems, a lot on the liability lines and particularly
+commercial auto. So what kind of rate you're seeing in that and whether that's
+moderating or still hard. And the second question on reserves. I note that for this year, the
+group reserve release is a bit higher than that from the divisions. I'm assuming that is
+partly to do with the 2017 cats, which would be collected at the group reinsurance level or
+is that something else going on? And linked reserves, which may be linked to my first
+question, the U.S., North America had a fairly weak -- or a weaker PYD in the second half
+Page 5 of 17
+
+
+
+Company N ame: Z urich I nsurance Group AG
+Company Ticker: Z URN SW Equity
+Date: 2019-02-07
+
+of '18 versus last year. Was there some strengthening again of commercial auto in that
+line?
+
+Bloomberg Transcript
+
+FINAL
+
+A - George Quinn
+
+{BIO 15159240 <GO>}
+
+Yes. Thanks, Andrew. So on the first one, pricing. I mean the pricing dynamic, I think we
+talked -- I mean certainly earlier in the year that, I mean, we anticipated that things would
+probably slow down once we work through the renewal of the loss effect or the gains. If
+you look at the U.S. in detail, if you look at it from the full year perspective, I mean we see
+the U.S. market's pure rates -- we can come on to loss cost inflation in the second -- a bit
+north of 3 -- almost 3.5 points powering through the year. I mean, it was pretty stable
+through the first 3 quarters. It has dropped off a bit at Q4. So we are beneath 3 in terms
+of rate increase. Within it -- I mean, Property has come down a bit. So we are above 2. If
+you look at commercial. So Zurich motor is the one that you asked for, I mean, since Q2,
+Q3, Q4, pretty stable. So we're seeing it in the high single-digit range. And as you point
+out, workers' comp is a bit soft. So I mean, despite the events of last year, workers' comp
+continues to be a very profitable line and there is more competition there. But the rate
+that we see on commercial auto seems okay for us at the moment, albeit it still does
+require some portfolio adjustment to try and drive out the kind of returns that we need.
+From a claim perspective and inflation perspective, which of course is a really important
+partner to this. So inflation around the commercial auto line is still fairly high. So maybe not
+as high as we saw it last year. But I mean, it's still well in the mid-single-digit range. So the
+rates at which the margin is expanding is considerably less than maybe the headline rate
+would imply and it certainly doesn't make it anything like -- attractive enough to want to
+jump back in with both feet. Although workers' comp is soft and the inflationary stats
+around the claim side of workers' comp are still very benign, to put it mildly. So I mean,
+overall picture, things have slowed down a bit, which is entirely what we expected, just
+given the way that portfolio was renewing. And I think as we look forward, the pricing
+trend by line of business is going to probably be quite distinct. So the broad market move
+in response to the -- a bit of the claim expense of '17 I think is, at this stage, largely behind
+us. On the reserve topic of why do you see a group reserve release. So it's a combination
+of factors. I mean. So for example, things like the EIL transaction that we did back in
+December. We held some additional reserves around that line of business up top and
+obviously, given that it's going, that's no longer required. There was a small difference
+between the way the Group RE was seeing things in some of the countries. And we held a
+prudential margin. We've been working on that over the last couple of years. We've
+reached the level of comfort that allowed us to remove it. I don't think it's the cat topic. I
+mean, cat is mainly embedded in the local business. We didn't -- I don't think we had
+anything significant up top on cat. The U.S. experience in the second half on PYD. I mean,
+nothing really to point out there. I mean, probably the only thing we did do in the reserve
+in the second half of the year around the U.S., we did a normal detailed review, I think,
+around -- I think it was already end of Q3. But of course, given we don't have Q3
+numbers, it would have been visible externally. But the workers' comp business was very
+strong. I think by and large, we've taken the opportunity to strengthen more recent years,
+both on workers' comp and on liability more generally. But I don't recall commercial auto
+being a particular topic in that regard.
+
+Q - Andrew James Ritchie
+
+{BIO 18731996 <GO>}
+
+Page 6 of 17
+
+
+
+Company N ame: Z urich I nsurance Group AG
+Company Ticker: Z URN SW Equity
+Date: 2019-02-07
+
+Just to round off. So we're not sort of misinterpreting. I mean, did you say the prudential
+margin, I think was the language you used, at the group level, you felt you no longer
+needed? But presumably, there still is a prudential margin of some kind, isn't it? Or...
+
+FINAL
+
+A - George Quinn
+
+{BIO 15159240 <GO>}
+
+Yes. Absolutely. So to be very specific, the prudential margin related to that one (single)
+raise. So the overall group reserve strength as we assess it from beginning to end of last
+year is exactly the same percentile.
+
+Operator
+Next question comes from the line of James Shuck from Citi.
+
+Q - James Austin Shuck
+
+{BIO 3680082 <GO>}
+
+So I had 3 questions. But I'll restrict it to 2. But if you don't answer the first one, then can I
+ask a replacement?
+
+A - George Quinn
+
+{BIO 15159240 <GO>}
+
+That's okay. Keep going then, James.
+
+Bloomberg Transcript
+
+Q - James Austin Shuck
+
+{BIO 3680082 <GO>}
+
+Well the first question, I'm just interested in what the absolute combined ratio was in both
+crop and workers' comp, please, for 2017 and 2018. For workers' comp, ideally, I'd like the
+workers' comp ex PYD. So that's my first question. Perhaps you can tell me if you're going
+to answer that one. If not, I'll choose a different one.
+
+A - George Quinn
+
+{BIO 15159240 <GO>}
+
+All right. I'm not. Just to save you time. I mean, I'm happy to give you color around it. But
+I'm not going to go into the very detailed way you asked for it. So I'll give you -- it's half
+the question, I'll give you half an answer.
+
+Q - James Austin Shuck
+
+{BIO 3680082 <GO>}
+
+I'll replace it with half a question as well, then. Go ahead with the color then, please.
+
+A - George Quinn
+
+{BIO 15159240 <GO>}
+
+All right. So the -- if you look at all of last year, crop, another strong year for us. I mean, not
+as strong as it was in '17 and not quite as strong as some of the things I've seen from
+competitors' disclosure. So I mean, maybe we are 6, 7 points better than we would
+ordinarily expect to see the business run at. So I mean that, clearly, has benefited the
+performance but it's not at the level that we saw in 2017. Workers' comp, I mean, nothing
+particularly special to point out. I've mentioned in response to Andrew's question that we
+did move this out around a bit. The line still seems to throw off quite a bit of positive
+development. And to the extent that it's reasonable, we're trying to hold that back in the
+more recent years. So PYD, I don't actually have a figure for PYD for workers' comp in my
+Page 7 of 17
+
+
+
+Company N ame: Z urich I nsurance Group AG
+Company Ticker: Z URN SW Equity
+Date: 2019-02-07
+
+head. But I mean, given what we did, I think you can assume that on a net basis, it would
+be some positive point, not very large.
+
+FINAL
+
+Q - James Austin Shuck
+
+{BIO 3680082 <GO>}
+
+Okay. Great. So my other questions then were just on the -- so on the combined ratio and
+the kind of guidance was the upper end of the range. So the 96% in 2020. So it -- I mean,
+it looks like you're normalizing in 2018 around 97.2%, if I give you the benefit of the oneoffs for expenses. So you got at least 1.2 of improvement to come. Expense delivery is
+about 75% done. It looks like most of that improvement is set to come from commercial
+lines, just given the starting point for retail and other. Can you just elaborate a little bit
+about your confidence in achieving that? We've seen recently, rate is slowing. Some of
+your -- the peers in the U.S. have been quite cautious about their guidance for next year.
+You're likely to get some headwinds on workers' comp. So perhaps, you could just
+expand a little bit on where that improvement is coming from? And I suppose, kind of
+linked to that, are you -- is kind of that top end of that range, is that including 1.5 points of
+PYD? Or is it including a different number? Because I think you normally guide to kind of 1
+to 2. Second question, just really a quick one...
+
+A - George Quinn
+
+{BIO 15159240 <GO>}
+
+This is smart.
+
+Bloomberg Transcript
+
+Q - James Austin Shuck
+
+{BIO 3680082 <GO>}
+
+I just wanted to understand what the potential is for you to do share buybacks. Because
+you have a Z-ECM range, you have a target range of 100% to 120%. We've seen some
+volatility in Q4. That volatility would have reversed. The range you have should allow for
+that volatility. And obviously, you've got other binding constraints, such as S&P and what
+have you. So it does seem as if you're running with a level of capital that is kind of above
+where you need to be. You did do a buyback quite recently. But it's essentially dilutive.
+Could you just help us understand a little bit whether 2019 is a possibility for a buyback or
+whether is it more of a medium-term question?
+
+A - George Quinn
+
+{BIO 15159240 <GO>}
+
+Thank you. That's a complex, multi-nested question. So I'm going to start at a high level.
+And then maybe we can descend into a bit more detail. So I think the way that you had
+looked at things. So you normalize, you come out around 97.2%. And you pointed out that
+we have expense delivery anticipated this year, which is absolutely correct. I'm not sure
+that it would be -- completely be able to assume that it's all going to drop into
+commercial, I mean, just given the areas where the expense action is taking place this
+year. And it's certainly in the what I would describe as one of our more retail-heavy
+regions. So I would expect you to see expense improvement on both retail and
+commercial. Having said that though, the 97.2%, I guess, is connected to the PYD topic. So
+back at -- and I forget whether it was at the half year or the Investor Day now, we guided
+that -- I mean, just given the pressures that we see -- I mean, the positive pressures, for
+the avoidance of doubt, we would see PYD around the upper end of our guidance. And
+that's what I anticipate we'll see in 2019. So if you're trying to look at underlying, I agree
+that the 2.3 that we've seen for 2018 is maybe a touch high. But I wouldn't knock it all the
+
+Page 8 of 17
+
+
+
+Bloomberg Transcript
+
+FINAL
+
+Company N ame: Z urich I nsurance Group AG
+Company Ticker: Z URN SW Equity
+Date: 2019-02-07
+
+way back to 1.5. And in fact, I mean just to keep the math simple for me, I'd probably
+knock it back to about 2. If I do that, then I guess compared to you, I'm ending up
+somewhere around the 97% for the year. And of course, you guys know where we were
+at the half year, which was roughly 97.5%. So I mean, the calculation of what the second
+half must have been is not so difficult. So I mean, I would see us running as we leave the
+year somewhere in the mid 96%. Now that clearly still requires further delivery to get us to
+where we need to get to. Expenses will be the largest part of that, for sure. But as far as
+the market conditions are concerned, I mean, we -- I mean we haven't planned -- from the
+very beginning, we never planned that the market would be a positive driver here. I mean,
+look, just go back to the answer I gave Andrew on pricing: if anything, I mean, if there was
+margin expansion, it's narrowing because of this reduction in the headline rate and maybe
+inflation picking up slightly in the loss costs. But I mean, it's just not dependent on -- for us,
+we've demonstrated that we are completely focused on profitability. We would always like
+to expand the portfolio. But that's only possible when we can achieve the right returns.
+And if we can't achieve the right returns, we've also demonstrated that we're prepared to
+take capital away, where it's required. So I mean, we still have work to do this year. But it's
+not 97.2% to 96%. On the capital topic, on volatility, I mean. So you're absolutely right, we
+see it the same way: the range that we have already in the target capital range is
+designed to address volatility. We got a bit of it in Q4. And a bit more of it than maybe we
+expected. Some of it is actually self-inflicted so there was a piece of it, which of course is
+the market, which everyone can see. We actually made a bit of a model change at a time,
+I guess, we thought we were richer than we ended up being. But I mean, we still end up in
+a very strong place. And I think even if you were conservative today, you pointed out, at
+least a couple of points back. So capital is good for us. So what does that mean? We've
+obviously just made the decision for the immediate future around capital. And so we're
+not coming forward with a proposal there. I mean, our priorities are pretty much
+unchanged. We have an acquisition which will close, at least to the best of our knowledge
+at this stage, sometime around the middle of the year. So that will ease a piece of it. And
+we would still prefer to try and use the capital to support organic or inorganic. But again, if
+that's not possible, I mean we will look at alternatives. So I mean, we don't rule anything
+out or anything in at this stage. But I mean we have some short-term uses for some of
+that capital.
+
+Operator
+Next question comes from the line of Michael Huttner, JPMorgan.
+
+Q - Michael Igor Huttner
+
+{BIO 1556863 <GO>}
+
+I listened also to the lovely Bloomberg video this morning. And I was struck by 2 things:
+the focus on delivering and on cash flow and dividends, of course. On cash flow, the $3.8
+billion, can you maybe walk us through a potential, like, waterfall chart, what could it look
+like? If you normalize for the various items that you have in the BOP calculation, the $5
+billion? Or just to get a feel for where we might be including the OnePath deal. That will
+be hugely helpful for 2019. Then the other question is on a different topic. And I'm
+probably asking completely the wrong question. But I noticed. And I may be wrong, that
+there's a low nat cat projection or higher expected nat cat way on the Solvency ratio by
+about 2 points. And I wonder how that squares with your aim to be -- to have less volatile
+earnings and maybe revert to the 3% in terms of expected nat cats. But -- yes.
+
+Page 9 of 17
+
+
+
+Company N ame: Z urich I nsurance Group AG
+Company Ticker: Z URN SW Equity
+Date: 2019-02-07
+
+Bloomberg Transcript
+
+FINAL
+
+A - George Quinn
+
+{BIO 15159240 <GO>}
+
+Okay. Thanks, Michael. Apologies in advance. I can't give you a forecast for '19 for cash. I
+mean, you've seen today that, Mike, we're well ahead of baseline run rate. We have a
+number of items that are one-off positive, one-off negative. But I think -- I mean, in
+comparison to last year, I think when we guided people down around cash to maybe
+around the $3.3 billion mark, I don't think I would do that today. I mean, we've had some -for example, I think people are aware that we have the impact, at least partially, of the
+hurricanes in '18. So that coursed down the P&C number. We've also got some, let's call it
+optimization we did around the life businesses. So the cash flow there is very strong. But I
+mean, you can assume that, worst case, those 2 things offset each other. So I mean, very
+strong delivery of cash last year across the business. What could it look like this year if you
+think of what happens with OnePath. So OnePath timing, of course, is really important
+here. So if you go back to when we announced the transaction, we were pretty
+transparent around returns and around cash flows. At this point, I mean again, to the best
+of our knowledge, it's likely to close around the middle of the year. But I mean, to be
+completely frank, we were not entirely in control of that. It depends on a relatively
+complex separation that's taking place on the other side of the transaction. And also, one
+thing that's different from what we had before, I mean previously we had the restructuring
+quarter in the old year and then we have a clean run in the new year. We're going to have
+a bit of a restructuring of OnePath also this year. So I mean, I expect if it does close in the
+middle of the year, it will be positive. But I wouldn't take the guidance that we gave back
+in the investor presentation and simply pro rate it. But I mean, overall, I'm very happy with
+where cash is. It's clearly not an issue for us; the group has done a great job on extracting
+the earnings as cash from all our businesses. On the nat cat topic. So it's well supported.
+You're absolutely right. So there was this -- I guess a small pickup -- I mean, it's not such a
+small number, I mean it turned into capital. We actually have a -- we've got a small retail
+business that has expanded slightly its exposure to nat cat in a particular area. I mean, the
+amount of premium volume involved I think might surprise you if I give it to you. But I
+mean, consistent with commitments we've made before, I mean, we have bought more
+nat cat coverage in 2019. We hadn't thought looking to raise our exposure to nat cat. And
+in fact, I mean, just given the general pricing trends, I guess, what you hear from players
+that are maybe more expert in that area than we might be, I mean, it's just -- it's still not
+an area where you would want to expand capacity. So I mean, you can assume that
+through the course of this year, I mean, we're not looking to grow it. And there's still the
+possibility that we might shrink the exposure that we have further.
+
+Operator
+The next question comes from the line of Farooq Hanif, CrÃ©dit Suisse.
+
+Q - Farooq Hanif
+
+{BIO 4780978 <GO>}
+
+There's more of an emphasis in your presentation and also, Mario, in your initial
+comments on innovation now. So you talk about Snapsheet and CoverWallet. I was just
+wondering, if you take this in a package with the improvements you want to make in
+commercial in the U.S., sort of looking beyond 2019, where consensus is already quite
+close to 96%, kind of thinking -- I mean, are you sort of happy with the idea that there are
+further improvements in profitability that can be achieved from this innovation and from
+still moving the mix to the U.S.? So just qualitatively, can we expect better from the
+Page 10 of 17
+
+
+
+Company N ame: Z urich I nsurance Group AG
+Company Ticker: Z URN SW Equity
+Date: 2019-02-07
+
+combined ratio going forward? And the last -- sorry, the second question is on your
+reinsurance, I'm looking at Slide 38, where you give the program. I mean, it looks like
+you've actually made a few tweaks, it's more kind of out of the money protection. If you
+could just comment on that, that would be helpful.
+
+FINAL
+
+A - Mario Greco
+
+{BIO 1754408 <GO>}
+
+Farooq, on innovation, I think we mentioned it because it is becoming relevant for us but
+not necessarily to improve combined ratio in U.S. But if you look at, for example, CoverMore today, Cover-More came short of $900 million of revenues last year. So it is
+becoming sizable and it keeps on growing and we're sure that growth would be very
+strong in 2019, too. So we want to put a light on that because this is starting to become
+visible. The biggest source of growth that we had in Spain this year was through
+CoverWallet and SMEs. And that's why we thought also to expand this into Switzerland
+starting this year. And again, this is why we mentioned it. Not just -- I mean, it didn't move
+the combined ratio. But it is becoming a relevant source of growth and possibly stronger
+in 2019. Snapsheet, we have an agreement with them to use them in Europe. So we don't
+plan and I don't think we can even use them in U.S. But we're quite interested to see if
+that can help improving service and eventually cost of claims in Europe. So we mentioned
+them because they're becoming relevant for us. And we want you guys to get familiar
+with and to start also looking at the progressive numbers that we achieve on these
+different innovations. But none of them, frankly, is strictly impacting the combined ratio in
+commercial U.S., which is more I think benefiting from the portfolio shifts that we have
+been making over the last two years.
+
+Bloomberg Transcript
+
+A - George Quinn
+
+{BIO 15159240 <GO>}
+
+Farooq, on the reinsurance topic. So you're right, there are some changes. I think in a very
+quick way, I trailed some of them at the Investor Day. So I mean, the global cat treaty
+stands out. We've increased capacity under the global cat treaty. We've actually put a
+cover in place. It's an April 1 renewal but we anticipated the capacity increase. So we
+changed it already at the end of last year. And that's obviously connected back to the
+conversation I had with Michael earlier on the rise in some of the incoming cat exposure. I
+mean, beyond that -- I mean, we have a number of things that -- I mean, I'm not sure I'd
+consider this tactical. But we've talked before about the fact we now have a pretty
+significant quota share across the liability book. The intention is that that'll be a long-term
+relationship. We view it as strategic. And -- but it's not about the performance of that
+particular book, it's about the mix that we retain. We've tweaked a number of other
+things. So we have a financial lines program in place that we've tweaked. I think I've talked
+before that we have an aggregate cover that we put in place back at -- in early '16 and
+that was aimed to try and contain some of the volatility that we had suffered from
+previously for a variety of reasons. We've never really come that close to actually
+triggering that contract. And we've restructured that with a panel of reinsurers starting this
+year to try and bring it a bit closer to the money and maybe work a bit harder for us.
+General conditions, I mean the market is -- I mean, we are seeing -- I mean, attractive
+pricing. So risk adjusted, we are paying the same rates as we've paid before. And in
+general, I mean, we would continue at the margins to buy a bit more reinsurance cover
+just given what the market currently offers. That's what we did on reinsurance.
+
+Page 11 of 17
+
+
+
+Company N ame: Z urich I nsurance Group AG
+Company Ticker: Z URN SW Equity
+Date: 2019-02-07
+
+Q - Farooq Hanif
+
+{BIO 4780978 <GO>}
+
+FINAL
+
+May I just come back -- can I just quickly come back on the first point? Okay. So I get it that
+your initiatives are more about service volume and just capability. But in the U.S., quite
+apart from innovation, clearly, Kathleen set out some quite ambitious targets for
+Commercial, indicatively bringing that combined ratio down by 3 points or so. So just -- so
+again, just more generally, beyond the 96%, do you think there's more you can do?
+
+A - Mario Greco
+
+{BIO 1754408 <GO>}
+
+Yes. But remember that the combined ratio also depends on market conditions, right? So
+is the market going to remain as it is today? Is the market too hardened, too softened?
+Let's not make a combined ratio forecast for 2021, '22 today, right? I mean, let's get to
+the end of the year, see where we are, see where the market is and then we reassess it.
+But fundamentally, what we have been trying to do in U.S. and also in U.K. is to shift the
+books out of the upper end of the global corporate customers and the big exposure to
+long-tail liability into the more stable and usually more profitable specialty property
+business and more towards mid-market and SME. That brings a lower and a better
+combined ratio over time. And this has to progress and deliver results in two years of that,
+definitely not enough to measure. Although we see movements and improvements in the
+combined ratio, it's still too early because the books haven't -- no development. And
+these are long-tail businesses and it takes a while to get rid of them.
+
+Operator
+
+Bloomberg Transcript
+
+Next question comes from the line of Nick Holmes, Societe Generale.
+
+Q - Nick Holmes
+
+{BIO 3387435 <GO>}
+
+I just wanted to come back on the expense ratio to ask how concerned are you that
+softening U.S. P&C pricing is going to make it more difficult to reduce the expense ratio?
+And secondly, is there scope to take out more costs? Because the expense ratio is, I
+think, still pretty high. And I'd be interested in your comments on that. Is that something
+that you would disagree with?
+
+A - George Quinn
+
+{BIO 15159240 <GO>}
+
+Thanks, Nick. So on the pricing-expense ratio interaction. So I mean, we decided at the
+start that we would not set a ratio target because it can lead you to do things that have
+got nothing to do with expenses. And we thought it was clear for you and for everyone
+within the company that we set a level of resource that we're prepared to allocate to
+what we're doing. If P&C pricing softens more than we anticipate today, I mean that may
+put a bit of pressure on the ratio. But it wouldn't immediately change our expense plans. I
+mean, we have a plan in place today across all the businesses, across the corporate
+center and the #1 priority is to make sure we deliver on that thing that we have absolute
+control over. I think just generally on the P&C pricing topic, I mean, I gave a fairly detailed
+answer to Andrew earlier around the various pricing trends. So I mean, at this point, I don't
+see it going negative in the short term. But I mean, I -- we don't control it and it is
+possible. But I mean at this point, it's not something we assume is going to impact 2019.
+On the second comment around is there scope to take out more the perspective that
+
+Page 12 of 17
+
+
+
+FINAL
+
+Company N ame: Z urich I nsurance Group AG
+Company Ticker: Z URN SW Equity
+Date: 2019-02-07
+
+maybe our expense ratio is still high. I think when you look at expense ratio, the thing I
+would encourage everyone to do; we do it internally, I mean, we obviously, we compare it
+to peers and competitors in the different markets. Ordinarily, we will break out the
+different components. So there's an acquisition cost ratio in there that it's not traditional
+expense per se. There's also -- depending on the practice of the company, some things
+are in premium tax, potentially, they include it, potentially they don't. Then you have a core
+part which I think is generally more comparable which is, in our case, the OUE ratio. I
+mean, the OUE ratio would suggest, I mean, we still have further room to drive efficiency.
+But nothing like the extent that the headline expense ratio number might suggest if you
+compare it to the headline numbers of peers and competitors. I mean, we've made a
+huge step over the course of the last couple of years with one more year or 2.
+
+Q - Nick Holmes
+
+{BIO 3387435 <GO>}
+
+Okay. Can I just very quickly follow up with the OUE ratio? I think 13% was, you indicated,
+your sort of target. Is that still the case? Presumably it is.
+
+A - George Quinn
+
+{BIO 15159240 <GO>}
+
+So the -- we didn't give a target.
+
+Q - Nick Holmes
+
+{BIO 3387435 <GO>}
+
+No. That's an indication.
+
+Bloomberg Transcript
+
+A - George Quinn
+
+{BIO 15159240 <GO>}
+
+We've got 55 different targets that we have to achieve across the entire -- but I mean,
+what we said today is that if you look at and you allow for the one-offs, we're about 13.8%.
+I mean, you guys know how the expense ratio of the efficiency benefits typically fall across
+the business. And I mean, you can relatively rapidly work out where you would expect that
+to land. But I mean, we haven't set a target for expense ratio. We have set a target for
+cost reduction. And that's what we are focused on this year.
+
+Operator
+Next question comes from the line of Vinit Malhotra, Mediobanca.
+
+Q - Vinit Malhotra
+
+{BIO 16184491 <GO>}
+
+So one on the life guidance, really, because you remember, George, last year we were
+discussing about a mid -- low to mid or some mid-percentage growth number and even if
+I clean up for this 125 one-off this year, we end up with a very healthy 14%, 15% growth.
+What's the -- I mean, is there a sort of conservativeness in there in your thinking about life
+that -- or could we have another repeat year of a good -- or at least better-than-expected
+number for life? So that's just on the life guidance. And second question is just on the
+attritional loss ratio. I mean, the 2-ish number being below 63, we'll have to go back quite
+a few years to get that kind of sub-63 attritional. Is there something that is worth flagging
+on -- maybe just one business had a very good second half ? Or can we get a bit more
+excited about this line going forward?
+Page 13 of 17
+
+
+
+Company N ame: Z urich I nsurance Group AG
+Company Ticker: Z URN SW Equity
+Date: 2019-02-07
+
+Bloomberg Transcript
+
+FINAL
+
+A - George Quinn
+
+{BIO 15159240 <GO>}
+
+Yes. Thanks, Vinit. So on the life topic, I'm conscious -- I'm not about to talk down
+something that I think has had a fantastic year, whether you include the one-offs or
+whether you don't. I mean, the life business for us has been going great. And I mean, we
+did give guidance around the middle of the year around that underlying number. And of
+course, at that stage, we knew already we had some one-off in the number. In fact, we
+talked about it back at the half year results, principally around the foreign exchange
+effects that we were seeing in LATAM. Could we have a better number than the one we
+guided to? I mean, it's possible. But I mean, I think we're trying -- we're not trying to game
+you, we are trying to give you a realistic sense of where we expect it to land. And I think
+the -- I mean where there may be differences between us and what people are assuming,
+I think probably the larger issue is going to be the timing of OnePath. I think -- I mean, we
+tried to indicate broadly when we expected that to close, back in the Investor Day in
+December. I mean, today, I don't know anything more around the middle of this year. If it
+closes earlier, which I think is unlikely, maybe that could have a different impact. I mean. So
+far, at least that day has been slipping rather than accelerating. So we're trying to gauge
+you to what we actually expect rather than to give you a false sense of the underlying.
+And to be honest, I mean, if you look at what would be required for the life business to
+achieve what we've indicated, that's still pretty strong growth over the underlying
+performance of 2018. On the attritional -- I mean, is there something in there that we
+should get really excited about or something we should isolate and change? I think again,
+as I said in relation to -- I forgot if it was Andrew's question or what I answered earlier. I
+think it was James, when he talked about the -- how he saw the underlying number for the
+year. I think it's important because of the connection between some of the elements that
+we run. So we talked already, I believe, the impact of acquisition cost versus loss. I guess,
+some of you learned today there's also a connection between the expense topic and the
+loss ratio. I'd look at the whole thing in the round. If you look at the second half, I guess, I
+gave commentary to James earlier that gives you a sense of how we see things. I mean,
+there are certainly elements of that, that are better than we would expect to see
+continually in the future. Crop would be one example. But at the same time, there are
+elements of it that are not as good as I would hope to see them in the very near future.
+And one of those examples would be financial lines in one of our key markets. So I think
+it's a reasonable starting point as we enter into 2019. Be a bit wary of crop seasonality. But
+I mean it's not going to have a big impact on this. We just need to keep -- we need to
+continue on the path that you've seen from us to deliver on that combined ratio topic that
+we discussed earlier.
+
+Operator
+The next question comes from the line of Jonny Urwin, UBS.
+
+Q - Jonathan Peter Phillip Urwin
+
+{BIO 6126952 <GO>}
+
+Just one for me. So just on P&C. I mean, we can clearly see the underwriting improvement
+coming through now. Then I know it's work in progress, I know there are some good bits,
+some less good bits. But I just wondered, thinking on a longer-term view, like how happy
+are you now with the quality of that U.S. commercial book? And in your minds, where are
+you on that re-underwriting journey? I'm not talking about just on the way to the 2019
+
+Page 14 of 17
+
+
+
+Company N ame: Z urich I nsurance Group AG
+Company Ticker: Z URN SW Equity
+Date: 2019-02-07
+
+targets. I'm just thinking big picture, where do you want to get this business to and
+basically, where are you now?
+
+FINAL
+
+A - Mario Greco
+
+{BIO 1754408 <GO>}
+
+Look, what we are -- the way we're looking at U.S. is we need to still continue
+strengthening our capabilities of mid-market. We did something over the last two years.
+But we will continue this in '19 and the next years. And also we are improving the
+underwriting strength that we have, especially in U.K. and U.S. By that, I mean that we are
+improving the programs we have for underwriting, the attractiveness that we have for
+good underwriting. At the end of the day, in U.K., in U.S., we compete for the best
+underwriters and we have to be able to stand high in that competition. So it's a journey.
+We're not satisfied. There's more to come and there's more to do in U.S. also. And the
+team there knows it very well. And the programs that we have for '19 and next year's
+reflect that.
+
+A - George Quinn
+
+{BIO 15159240 <GO>}
+
+I think, it's worth adding, Jonny, that if -- I mean, you probably saw at the Investor Day
+back in December that, I think, Kathleen outlined pretty clearly there what her ambition
+was for that business. And that's a very substantial improvement over where we stand
+today.
+
+Operator
+
+Bloomberg Transcript
+
+Next question comes from the line of Johnny Vo, Goldman Sachs.
+
+A - George Quinn
+
+{BIO 15159240 <GO>}
+
+Johnny?
+
+Q - Johnny Vo
+
+{BIO 5509843 <GO>}
+
+Can you hear me? Sorry. Just a couple of quick questions. The reserve redundancy that
+you built in ZIC or the reinsurance -- group reinsurance business has been quite
+substantial over the year. So I know that you're talking about the upper end of the range in
+terms of reserve release. But are we going to see reserves -- you just running down the
+reserves that you've built up essentially over time and how long are we expected to do
+that or will that just come through your assessment of the reserve strength of the
+underlying businesses as a whole? That's the first question. Then the second question is
+just in terms of M&A. I mean, obviously, you've done a lot of transactions. You filled in a lot
+of gaps. Are we coming to a natural conclusion in terms of the M&A activity that you've
+been undertaking? Then I know you've spoken about capital returns. But how does that
+feed into -- if I look at your balance sheet, there is a bit of balance sheet slack. How will
+that translate into potentially capital returns to shareholders?
+
+A - George Quinn
+
+{BIO 15159240 <GO>}
+
+Thanks, Johnny. So on the reserve redundancy topic, again, I think it was Andrew's
+question from earlier, it would be a bit disturbing if all that we did around PYD is simply
+Page 15 of 17
+
+
+
+Bloomberg Transcript
+
+FINAL
+
+Company N ame: Z urich I nsurance Group AG
+Company Ticker: Z URN SW Equity
+Date: 2019-02-07
+
+drain the reserve strength of the group. And you can imagine, I mean, not only would we - would I not want to do that, there's a number of controls in place that even if I did, would
+stop me. So for example, this is a topic that we spent a lot of time with, with the Group
+Audit Committee. It's a responsibility of the group's chief actuary. We have a policy around
+where we target in terms of percentile and the reserve range and there's a band around
+that; and if we wanted to deviate from it, that would require approval. And I think I've tried
+to comment, both this year and last year; and I'm trying to do it fairly frequently, that I
+mean, when we see the types of reserve release that we saw last year, that did not come
+at the expense of reserve strength. And in fact -- I mean, this is an internal company
+measure. So I appreciate you need to take it with a pinch of salt. But if we try and measure
+as objectively as we can, the reserve strength at the beginning of the year and at the end
+of the year, with everything -- including all of the prudential margins that we have, that we
+are in exactly the same place. So I -- we just do not intend that, that PYD comes at the
+expense of some additional future risk. On M&A, I mean, I think it's important to recognize
+that on M&A, we not only filled in many gaps, we've also addressed some positions that
+just didn't make sense for us. So you've seen us -- certainly up to the ANZ deal, I mean,
+essentially disposed or released capital in roughly the same amount as we had invested.
+That's a process that for us is probably continuous. I mean, we continue to look at the
+portfolio on a regular basis, I mean to ask whether or not it fits with strategy, whether we - the market is offering the right types of returns, we have the right types of capabilities in
+place. If we don't, you'll see us do what we've done in the past around -- let's say, like
+Morocco, Taiwan, the annuity business in the U.S. and the U.K. And I think -- I mean, you all
+know from prior conversations that we've had that there are parts of the capital base that
+are currently locked up in risks that we don't think are well remunerated. And this is a topic
+I highlighted at the Investor Day that this would be a priority for us in '19. And not just in
+the context of legacy or noncore, as it's referred to publicly. But across the entire
+portfolio. This is another year where we're going to devote ourselves to looking at the
+capital allocation and seeing what steps we can take to improve the overall portfolio. How
+does that feed into capital return? I mean -- I can't add more on that topic beyond the
+answers I gave to the earlier question to James.
+
+Operator
+Next question is from Niccolo Dalla-Palma from Exane.
+
+Q - Niccolo Cornelis Modesto Dalla-Palma
+Two questions left for me. One on the Z-ECM model changes. Is this bringing the view
+closer to the rating view? Is it closing the gap between the two? And therefore, is it a
+good guide for that at this stage? And secondly, a bit more practical, on the capital gain
+that come through outside BOP. Given where the FX reserves have fallen, what can you
+tell us to help us getting our heads around the structural part of gains versus what may
+have been a bit in excess of normal?
+
+A - George Quinn
+
+{BIO 15159240 <GO>}
+
+Yes. Thanks, Niccolo. So the answer to the first question, no. I wish it was yes. But it's no. I
+think the -- I mean, it was a change that we made to how we look at subordinated debt. I
+think the change is justified. We'd been looking at it for some time. Just it would've been
+more convenient to do it when the markets didn't move. But the markets moved as we
+Page 16 of 17
+
+
+
+Company N ame: Z urich I nsurance Group AG
+Company Ticker: Z URN SW Equity
+Date: 2019-02-07
+
+FINAL
+
+did it. But we think it's the right thing to do. On the capital gains outside BOP, it's tough to
+tell you in any given year the number is going to be X, because, of course, it's a function
+of -- not just our (AFS) starting point, it's a function of how much the portfolio turns over, a
+function of how the market's perform in the year. I mean, what we tend to guide people is
+that -- I mean, from a medium, longer-term perspective -- I mean, you can assume and
+we assume that the number's about 400, maybe slightly higher. That's the level that we
+have typically in planning.
+
+A - Richard Burden
+
+{BIO 1809244 <GO>}
+
+Thank you very much, everybody, for dialing in today. We are aware that there are a
+couple of questions outstanding. But unfortunately we've run out of time for this call now.
+The IR team will reach out to you and follow up with the further questions. If you've got
+any other questions, obviously the IR team is available, you know where to reach us. Thank
+you very much.
+
+Operator
+
+Bloomberg Transcript
+
+Ladies and gentlemen, the conference is now over. Thank you for choosing Chorus Call.
+And thank you for participating in the conference. You may now disconnect your lines.
+Goodbye.
+
+This transcript may not be 100 percent accurate and may contain misspellings and other
+inaccuracies. This transcript is provided "as is", without express or implied warranties of
+any kind. Bloomberg retains all rights to this transcript and provides it solely for your
+personal, non-commercial use. Bloomberg, its suppliers and third-party agents shall
+have no liability for errors in this transcript or for lost profits, losses, or direct, indirect,
+incidental, consequential, special or punitive damages in connection with the
+furnishing, performance or use of such transcript. Neither the information nor any
+opinion expressed in this transcript constitutes a solicitation of the purchase or sale of
+securities or commodities. Any opinion expressed in the transcript does not necessarily
+reflect the views of Bloomberg LP. © COPYRIGHT 2022, BLOOMBERG LP. All rights
+reserved. Any reproduction, redistribution or retransmission is expressly prohibited.
+
+Page 17 of 17
+
+

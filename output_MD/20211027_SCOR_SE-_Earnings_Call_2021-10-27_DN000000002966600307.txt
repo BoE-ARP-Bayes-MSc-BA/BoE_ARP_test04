@@ -1,0 +1,1108 @@
+Company N ame: SCOR SE
+Company Ticker: SCR FP Equity
+Date: 2021-10-27
+
+Q3 2021 Earnings Call
+Company Participants
+FINAL
+
+Fabian Uffer, Chief Risk Officer
+Francois de Varenne , Investments, Technology, Transformation and Group Corporate
+Finance
+Frieder Knupling, Chief Executive Officer, SCOR Global Life
+Ian Kelly, Chief Financial Officer
+Jean-Paul Conoscente , Chief Executive Officer, SCOR Global P&C
+Laurent Rousseau, Chief Executive Officer
+Olivier Armengaud, Investor Relations
+
+Other Participants
+Andrew Ritchie , Analyst
+James Shuck, Analyst
+Thomas Fossard, Analyst
+Vikram Gandhi, Analyst
+Vinit Malhotra, Analyst
+
+Bloomberg Transcript
+
+Will Hardcastle , Analyst
+
+Presentation
+Operator
+Good afternoon, ladies and gentlemen, and welcome to the SCOR First Nine Months of
+2021 Results Call. Today's call is being recorded. There will be an opportunity to ask
+questions after the presentation. In order to give all participants a chance to ask
+questions, we kindly ask that you limit your number of questions to two.
+At this time, I'd now like to hand the call over to Mr. Olivier Armengaud. Please go ahead,
+sir.
+
+Olivier Armengaud
+
+{BIO 20892984 <GO>}
+
+Good afternoon and welcome to SCOR's first nine months 2021 results call. My name is
+Olivier Armengaud from Investor Relations and I'm joined on the call today by Laurent
+Rousseau, CEO of SCOR and the entire Executive Committee. May I please ask you to
+consider the disclaimer on Page 2 of the presentation.
+And with this, I would like to hand it over to Laurent Rousseau. Laurent, over to you.
+
+Page 1 of 18
+
+
+
+Company N ame: SCOR SE
+Company Ticker: SCR FP Equity
+Date: 2021-10-27
+
+Laurent Rousseau
+
+{BIO 5131107 <GO>}
+
+FINAL
+
+Thank you, Olivier, and welcome everybody. Today, I'm pleased to report resilient results
+in the context of high natural catastrophe activity for the market. The group is in good
+health and delivered earnings of EUR339 million for the first nine months of the year,
+equating to 7.3% ROE. This is despite a small net income loss in the quarter of EUR41
+million.
+Our results for the first nine months were driven by, first of all, heavy natural catastrophes,
+leading to a 14.8% cat ratio year-to-date as well as continued COVID-19 pressure on the
+Life side with total COVID-19 claims booked in the first nine months of EUR299 million.
+This resilience is a good illustration of what I presented at our September Investor Day
+and the way we focused on disciplined execution.
+
+Bloomberg Transcript
+
+First of all, improving margins. Both businesses delivered strong underlying margins, with
+the life technical margin of 5.6% in Life and P&C attritional loss ratio improving by 2 points.
+Second we reduced volatility. We have absorbed the third quarter volatility well, while
+keeping a very strong solvency ratio at 229%. Finally, we managed growth well. We see
+opportunities accelerating, particularly in the P&C business where the hardening market
+continued its strong momentum. Ian will take you through the detail a little further.
+Beyond the third quarter results, specifically, what I would like to say today, and looking
+here at Page 6 of the presentation is that we continue to take proactive actions to
+improve our operational performance and we delivered on the shareholder value creation
+commitments reiterated at the Investor Day. First of all, the continued hardening in P&C
+insurance and reinsurance market enabled us to rebalance our business mix towards P&C.
+The Life retrocession in-force transaction was timely and accelerated a lot of good work
+that the team had already been doing to manage our US mortality in-force book.
+Second, we are taking proactive actions to reduce the share of natural catastrophe
+business in our P&C portfolio, by growing in non-cat lines such as specialty insurance and
+Global Life reinsurance. The 1st of January renewal negotiations are ongoing and they
+confirm our anticipation of an improving reinsurance market while the underlying insurance
+prices continue to improve. And bear in mind that about three quarters our premiums are
+proportional. We also reduced our exposure to US wind and related perils by exiting
+standalone US wind MGAs and reducing our US proportional treaties.
+Third, we are on track in our stated ambition to reduce our cash and liquidity exposure
+from a high 16% at the end of June 2021 with the aim of getting down to 9% by year-end.
+At Q3, this already shows in our portfolio mix and it will further accelerate. Liquidity is at
+14% of invested assets versus 16% at end of June and the corporate bonds are at 40% of
+invested assets versus 36% at Q2 and this 40% will trend towards 45 by year-end.
+Finally, we continue to proactively manage our balance sheet and we announced a
+EUR200 million share buyback program which we will execute in the market. We have a
+strong rationale for this attractive capital return. At the end of Q2 2021, our solvency
+position was extremely strong, as demonstrated by solvency ratio of 245%. This was
+
+Page 2 of 18
+
+
+
+FINAL
+
+Company N ame: SCOR SE
+Company Ticker: SCR FP Equity
+Date: 2021-10-27
+
+significantly above the upper end of the optimal solvency range of 185% to 220% as we
+have benefited from a life retrocession transaction, which closed on the last day of the
+second quarter At the end of 2021, the solvency ratio -- at the end of September 2021,
+solvency ratio was 229%, pre-back. After that, we have assessed the various options to
+optimally deploy capital. This is to create long-term value for SCOR shareholders and
+revert to the optimal solvency range. As a consequence, we decided to seize profitable
+growth opportunities in the continuously hardening P&C market and we have been further
+re-sensitizing our investment portfolio.
+Taking this capital deployment decisions into account on the one hand, noting that the US
+hurricane season is coming to an end on the other hand, and finally, acknowledging that
+the French regulator lifted its recommendation against capital distribution on the 1st of
+October, we have decided to launch a share buyback program of EUR200 million. It will be
+executed in the market by the end of March 2022.
+We are confident in the future of the group and we believe the share buyback is an
+accretive way to deploy our excess capital given we trade at such a discount to book
+value while keeping a strong balance sheet in an environment which remains extremely
+volatile. In 2021, SCOR will continue to favor dividends as a way to remunerate the
+shareholders and we will pursue the attractive dividend policy that it has implemented
+over the years.
+
+Bloomberg Transcript
+
+I will now hand over to Ian to go through the specifics here. And once he walks you
+through the key financials of the quarter, I will then give you an update on the strategic
+plan. We'll conclude with a Q&A session. Ian, over to you.
+
+Ian Kelly
+
+{BIO 19976646 <GO>}
+
+Thanks, Laurent, and good afternoon, everybody. Let's look at the key metrics of the
+quarter. In the first nine months of 2021, SCOR continued to successfully develop its
+franchise and its rebalancing towards P&C. Gross written premiums stand at EUR13 billion.
+This is up 10.1% at constant FX compared to the first nine months of 2020, driven by P&C
+up 16.7%, benefiting from excellent renewals and steady Life growth, up 5.0% with
+continued franchise expansion in Asia.
+Let's focus on profitability. Net income is at EUR339 million for the first nine months of the
+year, translating into an ROE of 7.3%. And looking at the business units and starting with
+P&C, we've published a combined ratio of 102.7% in the first nine months, heavily
+impacted by a cat load of 14.8% as Laurent noted. The main events in Q3 were the
+European floods representing EUR206 million net of retro and Hurricane Ida representing
+EUR137 million net.
+The underlying development of the attritional plus commission ratio has improved 3.5
+points, benefiting from both profitability improvement and lower manmade activity.
+COVID-19 claims remain unchanged for P&C at EUR109 million since the beginning of the
+year.
+
+Page 3 of 18
+
+
+
+Company N ame: SCOR SE
+Company Ticker: SCR FP Equity
+Date: 2021-10-27
+
+FINAL
+
+On the Life side, the technical margin stands at 11.3% since (Technical Difficulty) of which
+5.7% is related to the day one impact of the recent Life in-force transaction. COVID-19
+claims booked since the beginning of the year stands at EUR299 million, of which EUR241
+million comes from the US. Impact from COVID-19 on the mortality block is reducing and is
+tracking in line with our epidemiological model. Including the impact of the recent Life inforce transaction, the technical margin should remain in the range of 5.5% to 6.0% for the
+full year 2021.
+On the investment side, return on invested assets stands at 2.3% in the first fine months
+of 2021. The redeployment of excess liquidity into corporate bonds, as noted, will be
+completed by Q4 2021. Return on invested assets expectation for the full year is
+confirmed in the range of 2.0% to 2.3%. In this context, solvency remains very strong at
+the end of Q3 2021, estimated at 225%. This is above the group's optimal solvency range
+of 185% to 220%. The decrease compared to the half year position reflects the cat
+activity, the deployment of capital into P&C growth, and the share buyback which is
+tailored to provide a strong capital return without jeopardizing solvency of the group and
+is consistent with maintaining our strong credit ratings.
+On the share buyback, I would add that, at this stage, there is no intention to exercise the
+call option we have at EUR28 and we will buy in the market.
+
+Bloomberg Transcript
+
+If we now look briefly at other key financials, group shareholders equity remained strong
+at EUR6.3 billion. This is an increase on the year-end position, resulting in a book value of
+more than EUR34 per share. And finally, I would like to highlight the group's strong cash
+flow with net cash flow from operations exceeding EUR2 billion.
+With that, I hand back to Laurent. Thank you.
+
+Laurent Rousseau
+
+{BIO 5131107 <GO>}
+
+Thank you, Ian. Before we move on to the Q&A, let me now give you an update on the
+upcoming strategic plan preparation. Despite an eventful quarter, we remain focused on
+execution of our strategy and you can have a look at Page 13 of the presentation. As
+announced at the September Investor Day, we have started the preparation of the
+upcoming strategic plan and we are progressing well.
+So what are we proceeding on? We will build, first of all, on a detailed analysis of the
+performance of our portfolios to optimize our core business. Second, we run an analysis
+of the options available to enhance our financial and capital management. Third, we run a
+review of our operating model to take full advantage of nimble and lean organization. And
+fourth, we will go through an exploration of ways to keep growing our franchise and
+develop the business.
+We're nurturing a strong and disciplined underwriting ethos and we will focus on culture
+and people. We want to make our people and the culture our number one differentiator.
+This in our industry is absolutely critical. Business leadership, it has to be our own way, to
+be global reinsurance leaders with again a strong underwriting ethos. Our success will
+Page 4 of 18
+
+
+
+Company N ame: SCOR SE
+Company Ticker: SCR FP Equity
+Date: 2021-10-27
+
+start and will finish with underwriting capabilities. This is key. Third financial performance
+with attractive shareholders remuneration as demonstrated today.
+And with that, I'll hand back to Olivier for the Q&A. Thank you.
+
+FINAL
+
+Olivier Armengaud
+
+{BIO 20892984 <GO>}
+
+Thank you very much, Laurent. Page 15 you will find the forthcoming schedule event. With
+this, we can now move to the Q&A session and I remind you to please limit yourself to
+two questions each. Thank you.
+
+Questions And Answers
+Operator
+(Operator Instructions) We will now take our first question from Vikram Gandhi at Societe
+Generale.
+
+Bloomberg Transcript
+
+Q - Vikram Gandhi
+
+{BIO 18019785 <GO>}
+
+Hi, hello, it's Vik from SocGen. Congratulations on a good set of numbers and release
+today. I've got two questions. The first one is on the retro in the P&C business. Can you
+highlight some of the key changes to the program since the impact from Hurricane Ida
+implies a market share of about 0.5% rather than the usual 1% that we've been used to
+seeing or perhaps it's a reflection of a lower gross losses held, but any comment there
+would be helpful? The second one is on management actions. Is there anything you can
+share about potential management actions that might come over the next few months?
+For example, is it possible we might see another in-force deal on the Life book or
+anything on those lines? That would be very helpful. Thank you.
+
+A - Olivier Armengaud
+
+{BIO 20892984 <GO>}
+
+Thank you, Vikram. Jean-Paul will take the first question on the retro and I'll take the
+second one.
+
+A - Jean-Paul Conoscente
+
+{BIO 20770277 <GO>}
+
+So thank you, Vikram. On the first question on retro, as we had indicated previously, in
+2020, we did a request for proposal on our retro program with a view to have better
+balance between protection for severity and protection for earnings. And that we had in
+place in 2021. The program has proved effective, I would say on -- and this is shown in the
+figures we provide. I think two points. One, our market share of Ida is below 1%, but it's
+because the areas have been affected, we have a smaller market share than 1%. And
+second, the capacity we have still available for the rest of the year on our retro program is
+still sufficient for us to be comfortable with the -- where we stand at the end of the Q3.
+On management actions, I will just give you a few. Laurent mentioned them in his opening
+comments on the cat. We've decided that on a forward going basis we reduce our
+
+Page 5 of 18
+
+
+
+Company N ame: SCOR SE
+Company Ticker: SCR FP Equity
+Date: 2021-10-27
+
+exposure to the first dollar programs where we are exposed to climate sensitive perils.
+And as a result, we exited MGAs that are focused on US CNS primary business, exposed
+to US hurricanes and also reduced our planned capacity for proportional US treaties. So
+those are some of the management actions on cat volatility that we are implementing
+now for 2022.
+
+Bloomberg Transcript
+
+FINAL
+
+With that, I'll give it back to Laurent.
+
+A - Laurent Rousseau
+
+{BIO 5131107 <GO>}
+
+So just to pick up on what Jean-Paul said, the MG actions alone, that's -- we're talking here
+EUR200 million of P&L reduction. I mean, it is sizable absolute level and in the scheme of - in the relative size of the group. Now, more generally speaking and turning to the future
+because this is what we've announced is done. I would very much focus -- if you look at
+Page 6, this gives a good sense of the focus or actions how to enhance earnings. Here,
+clearly what we're going to continue working on, Vikram, is the shift in business mix
+whether it is Life, P&C, so in favor of P&C. Within P&C in favor specialty insurance. We're
+here -- the market in single risk continues to be extremely hard. We've made significant
+investments, so -- in people and resources. So I would expect that business as well to
+keep growing fast and as well, in the non-cat lines in reinsurance.
+You might have seen in the markets, we've made a significant hire on the global line
+reinsurance in our Zurich Team. So here we've been as well attracting some meaningful
+tenants. So the earnings enhancement is strictly going to be focused and (inaudible) side
+as the reduction of volatility. You mentioned the US mortality in-force book, we have a
+dedicated team for a number of years now. They are doing a tremendous job and we are
+indeed taking a very proactive stance on the way to manage that in-force. Thank you,
+Vikram. Next question, please.
+
+Operator
+Our next question comes from Will Hardcastle at UBS
+
+Q - Will Hardcastle
+
+{BIO 22230376 <GO>}
+
+Hey, afternoon, everyone. On the retro, I guess, a bit of a blend. Actually I was thinking
+about retro optimization, cat budget, underlying guidance blend. Since you struck this at
+your Capital Market Day, we've probably seen a bit of high cat activity and extrapolation
+of better pricing environment. There may be some retro tightening and collateral lockups.
+As the -- it's all a fine balance and I appreciate that, but has the aggregate improved in
+your eyes since the Capital Markets Day or the same deteriorated et cetera because
+there's been a lot of moving parts in a sense? And then just on the buyback expectation
+from here, I mean, how should we think about that? You've got the logic of -- hands-on
+logic of why it's running until March. Is that just a liquidity perspective or keeping powder
+dry? And with this in mind, how those levered data point that we had at the Capital
+Markets Day was 25% debt leverage target over the next three years. I guess the
+buyback is probably pushing closer to 30. Does that metric still stand and that's still the
+target over the next few years? Thanks.
+
+Page 6 of 18
+
+
+
+Company N ame: SCOR SE
+Company Ticker: SCR FP Equity
+Date: 2021-10-27
+
+A - Laurent Rousseau
+
+{BIO 5131107 <GO>}
+
+Thank you, will. Jean-Paul will take your retro question and Ian the one on the share
+buyback.
+
+FINAL
+
+A - Jean-Paul Conoscente
+
+{BIO 20770277 <GO>}
+
+Yeah, if I understood correctly, your question relates to the state of the market, the retro
+market. So the 2021 plan was executed when -- in the process of renewing the retro
+program for 2022. In that plan, we anticipate a shrinkage of capacity for both proportional
+and aggregate covers. And our program takes that into account. We'll probably look for
+different products to help us replace that shrinking capacity. But again, the target remains
+the same as in 2021, protecting against severity and frequency of events. But I think the
+metrics that we had for 2021 program will be very similar to 2022 and we feel very
+confident as we speak today on the 27th of October that we should be able to reach our
+plan.
+Maybe I pass it over to you, Laurent, Ian.
+
+Bloomberg Transcript
+
+A - Ian Kelly
+
+{BIO 19976646 <GO>}
+
+Yeah. So just on the share buyback, before getting into the question directly, just a few
+comments. Just to talk about the timing, I mean, we think it's a very accretive way to
+deploy capital and bring value to shareholders. And we had to see the life in-force
+transaction as at the end of Q2. That unlocked significant value, increased the degrees of
+freedom for the group in terms of accretive capital management. And we talked to that at
+IR Day. We talked about the profitable growth opportunities in the P&C market, how we
+would seize those. We talked about the reorientation of the investment portfolio into
+value creation assets and then we talked about the additional capital management
+actions. So that's why we're doing this now.
+We also had, at the start of October, the ACPR lifted the recommendation against capital
+distribution by the way. So we are starting now. We think the six months is good timing
+given the ability to execute in the market. As I said before, we will not be using the call
+options at 28 that we have, we will be buying directly in the market for this buyback.
+And then coming to your point in respect of leverage, I think here EUR200 million in terms
+of sensitivity, EUR200 million on equity means a change of 0.6% or so in respect of
+leverage. I think the -- it's clear actually that on leverage ratio it has come down a little
+across the course of this year. We would expect to broadly maintain the level of leverage
+going forward through the balances of capital return, earnings generation, and so on. And
+then a little bit more longer term, we would expect to earn back into the 25% range.
+
+A - Laurent Rousseau
+
+{BIO 5131107 <GO>}
+
+Thank you, Will. We'll take our next question.
+
+Operator
+
+Page 7 of 18
+
+
+
+Company N ame: SCOR SE
+Company Ticker: SCR FP Equity
+Date: 2021-10-27
+
+Our next question comes from James Shuck at Citi
+
+FINAL
+
+Q - James Shuck
+
+{BIO 3680082 <GO>}
+
+Hello. Good afternoon, everybody. So two questions from myself. Firstly, just in terms of
+the EIOPA review into the Solvency II position, you highlighted there is a potential positive
+there and I assume that's coming from the risk margin. You are quite a heavy user of the
+diversification credit, particularly relative to other reinsurers. I'm just keen to get your
+thoughts on whether EIOPA is looking at that diversification benefit and in particular, how
+local authorities actually will have implementation of that through internal models, and if
+that is actually taken into account into your comments about positive impact from that
+review. Second question, I'm not sure who to direct this one to as I'm not sure if Denis is
+on the line or not. But I'm just keen to get a view into his potential retirement in -- at the
+next AGM. My understanding is that he will reach mandatory retirement age before the
+AGM. And therefore, and as you change the bylaws, he will need to stand down. So
+therefore, I'm just keen to get a view whether you intend to change the bylaws, please.
+Thank you.
+
+A - Laurent Rousseau
+
+{BIO 5131107 <GO>}
+
+Thank you, James. So Fabian Uffer, CRO will take the first question. I'll take the second.
+Denis is not on the call and I will answer your second question. Thank you.
+
+Bloomberg Transcript
+
+A - Fabian Uffer
+Okay. On the EIOPA review, the particular point on the diversification, you might be aware
+that the risk margin allows not for the full diversification as the SCR. So the risk margin
+depends on the legal entity risks and it is then aggregated the way some of the legal
+entity risk margins. So this is not the change in the Solvency II revision that is expected.
+The change from the risk margin is -- proposed by the EC is on the cost of capital, which
+would directly translate for our risk margin. And then there is a so-called introduction of a
+(inaudible) factor which has a dampening effect on the size of the risk margin. Overall, we
+have communicated in the past and it depends a bit on the economic situation, but the
+expectation is that the proposed changes could improve the solvency ratio by around
+19%, but still this needs to go through a political process and will be in place earliest in
+2024.
+
+A - Laurent Rousseau
+
+{BIO 5131107 <GO>}
+
+Thank you, Fabian. On your second point, James, so the age limit is reached indeed at the
+AGM. However, if you look in the precise bylaws wording, it's -- the age limit hits in the
+year when the person turns 70. So it's not when the person reaches 70 itself, it is at the
+AGM following the age. So first point is, so I can confirm that Denis Kessler would reach
+the statutory limit in March 2022 and then that would have to be reviewed at the
+upcoming AGM. The nomination committee makes recommendations on age limits. If the
+Board wishes Denis Kessler to remain as Chairman and if Denis Kessler accepts it, then
+the resolution would be put to the AGM to extend the age limit and then shareholders
+decide. Anyhow, this is a Board matter. They own it and that's with them.
+
+A - Olivier Armengaud
+
+{BIO 20892984 <GO>}
+Page 8 of 18
+
+
+
+Company N ame: SCOR SE
+Company Ticker: SCR FP Equity
+Date: 2021-10-27
+
+Thank you, James. We'll take our next question, please.
+
+Operator
+
+FINAL
+
+Our next question comes from Andrew Ritchie at Autonomous.
+
+Q - Andrew Ritchie
+
+{BIO 18731996 <GO>}
+
+Hi, there. Thanks for the buyback. Perhaps I will take that questions. Two other quick
+questions. On Slide 5, Ian, I wonder if you could just clarify how I interpret the 8 points for
+planned P&C growth. Is that on a sort of forward-looking basis and to what degree is that
+of capturing 1/1 or how forward looking is it? And in that slide as well, the EOF generation
+looks quite low, but there is something that says and other. What is the -- I'm guessing the
+and other is negative, but maybe if you could just clarify is there any way you can sort of
+give us a sense as to normal levels of EOF generation or something exceptional in Q3?
+
+Bloomberg Transcript
+
+Second question for Jean-Paul, when I look at your normalized combined ratio, you've
+normalized using 7 points of cat. When -- I just assume you've already transitioned to the
+8 points of cat. I'm not sure what happens overnight in 2022 that makes the 8 points
+normalization right then versus 7 points now. I mean does the underlying attritional drop
+by compensating amount or -- so I'm just -- I'm not sure why you normalized it now. And
+related to the normalized, it was a bit higher. I'm always conscious that I shouldn't over
+interpret a quarter, but was there any sort of elevated manmade particularly in Q3?
+Thanks.
+
+A - Ian Kelly
+
+{BIO 19976646 <GO>}
+
+Andrew, I'll just hand over to Fabian to pick up on the solvency position changes.
+
+A - Fabian Uffer
+Thanks, Ian. So on the planned P&C growth, that includes the capital we deploy on a oneyear forward-looking view. That's the pure effect of the SCR on the solvency ratio. So it
+includes obviously one last quarter of capital needs for this year and then three quarter of
+next year. And in particular also it includes then the growth that we have announced at the
+IR Day. And big part of the 1/ 1 renewal. So that's pretty much what you should expect as
+capital needs for next year. Obviously, it will then depend on how exactly, which lines of
+business we write, what kind of diversification we get, and how exactly the retro program
+puts in place. So that's our plan, in some sense, capital deployment that we need to book
+in Q3 just because the SCR is fully forward-looking.
+On the own funds generation and other, we don't usually publish a full walk in Q3 or in the
+Q1 and Q3. So what we have included here is the usual model changes, market
+movements, and the own funds generation. There is nothing particular negative or
+positive. As you know, the own funds don't linearly come in over the quarter, mainly driven
+by the big chunk of 1/1 renewals, which we will see in the one -- in the Q1 own funds
+generation. So this is just a bit of a seasonality effect that it's slightly lower than normal.
+
+Page 9 of 18
+
+
+
+Company N ame: SCOR SE
+Company Ticker: SCR FP Equity
+Date: 2021-10-27
+
+FINAL
+
+A - Jean-Paul Conoscente
+
+{BIO 20770277 <GO>}
+
+I'll take the question on the cat ratio and the normalized combined ratio. So we had
+mentioned going to 8% cat budget in 2022 and we continue to use 7% because that was
+our base assumption, the remains are base assumption for this year. On the -- your
+question as to what changes as 1/1, well, actually quite a lot. We have a new retrocession
+program in place. We implemented underwriting measures. I just described bylaw myself
+on the US portfolio. We have other actions that we're taking place and we will put in place
+at 1/1. So there's quite a lot of changes that happen on 1/1 compared to where we are
+today. And so for continuity, we continue to use our assumptions for 2021 at 7%.
+That being said, as you said -- as you mentioned, the Q3 normalized, whether it's 7% or
+8%, is higher than the prior quarters. And that's really driven by one large event, the South
+African riots which represent a EUR48 million net impact this quarter. And that's the -- let's
+say the -- it's almost 2.7 points of loss ratio in the one event. So that's the main driver
+behind those figures. The rest of the manmade has been really lower than normal and
+lower than 2020.
+
+A - Laurent Rousseau
+
+{BIO 5131107 <GO>}
+
+Thank you, Andrew. Next question, please.
+
+Operator
+
+Bloomberg Transcript
+
+(Operator Instructions) Our next question comes from Vinit Malhotra, Mediobanca. Please
+go ahead.
+
+Q - Vinit Malhotra
+
+{BIO 16184491 <GO>}
+
+Yes, good afternoon. Thank you very much for this opportunity. So one on P&C please and
+one on Life. On P&C, Jean-Paul, I remember -- I mean, we were quite surprised at the IR
+Day when 2021 was looking quite lower than those expectations at that time was and you
+have guided to 7.5 billion GWP P&C leap. Obviously you retained that today and that is
+even a bigger surprise because that would imply 4Q21 to be a minus 15% roughly. I mean,
+what has been the change since then for the strong growth in 3Q and why should we
+expect or why should the targets imply such a sharp contraction in 4Q21? Is there any oneoffs that you could point out to or anything that would be helpful? Thank you very much.
+Second question just on the Life technical margins like COVID. I mean, it remained very,
+very high, like in 13% odd level for the third quarter. Is that the reason why despite a pickup in 3Q mortality in the US, the guidance for the fourth quarter -- for the full year really
+that's been unchanged? And do you see any risk to that because the US mortality is still
+quite high. I mean, I think it's more than maybe 1,500 there of the current average. I might
+be not fully accurate on that number, but just based on the rough number. So just curious
+as to what do you think of the moving parts on the Life technical margin from here. Thank
+you.
+
+A - Jean-Paul Conoscente
+
+{BIO 20770277 <GO>}
+
+Page 10 of 18
+
+
+
+FINAL
+
+Company N ame: SCOR SE
+Company Ticker: SCR FP Equity
+Date: 2021-10-27
+
+So, Vinit, I'll answer the first question on the P&C gross written premium. This quarter, the
+gross written premium at constant rate of exchange is roughly EUR1.7 billion. We would
+expect the same in Q4. What was impacting us in Q1 and Q2 was really the foreign
+exchange as you can see on Slide 10 of the presentations. This effect is really dampened
+out in Q3. We expect it to continue to do so in Q4 if there is no big shock on the real
+exchange market. And therefore, at constant rate of exchange, we would expect the
+GWP to be more like 7.8, in that range, 7.7 to 7.9. And then when you take out the sort of
+the impact that we had in Q1 and Q2, you land at the actual rate of exchange to roughly
+7.5. That's why we're guiding 7.5 still at the current rate of exchange.
+With that, I'll hand over to Frieder.
+
+A - Frieder Knupling
+
+{BIO 17247809 <GO>}
+
+Bloomberg Transcript
+
+Thank you, Jean-Paul. So the portfolio has performed well in Q3. Excluding COVID, we see
+experience and performance in general in line or slightly above our expectations. And that
+is really in fact across the whole portfolio. We are also constantly working to improve and
+optimize the portfolio, the performance of the in-force portfolio. And in line with previous
+quarters and years, we have taken action to improve performance and increase premium
+rates on certain underperforming US treaties and that was the case in Q3 as well. And
+overall, we have and continue to have significant reserve margins which help to report the
+performance of the business and that will also be the case in future quarters.
+As far as COVID is concerned, you've seen the losses which we have booked in Q3. Our
+exposure continues to be mainly concentrated in the US. There the current wave has
+plateaued and we expect this to be trending down during the course of Q4. But you're
+right, we will continue to see fairly significant numbers of population that's in the US in Q4.
+And that is broadly in line with what we had indicated in early September. Q3 population
+deaths came in I guess a notch above what we had expected in Q3. Overall, we still think
+that for the full year 400,000 deaths in the population in the US is a sensible high level
+estimate. Maybe within high likelihood that the final number will be a bit higher than below
+that number. But that is included in our plan and in our forecast for Q4. And we continue to
+guide to what the same margin and overall result as in September. And I'm very confident
+that we can achieve that despite the continued high claims activity on COVID in the US.
+
+A - Laurent Rousseau
+
+{BIO 5131107 <GO>}
+
+Next question, please.
+
+Operator
+We'll now take the next question from Thomas Fossard at HSBC. Please go ahead.
+
+Q - Thomas Fossard
+
+{BIO 1941215 <GO>}
+
+Yes, good afternoon. Two questions, please. The first one is a follow-up for Frieder.
+Frieder, I mean, at the start of the year, previous CEO of SCOR Global Life indicated that
+you had lot of positive management actions in full year 2020 and that we should not
+expect those to be repeated in 2021. But when I'm looking at my model, it looks like on a
+Page 11 of 18
+
+
+
+Company N ame: SCOR SE
+Company Ticker: SCR FP Equity
+Date: 2021-10-27
+
+FINAL
+
+full year '21 basis, those positive management actions will be actually bigger than they
+have been in 2020. So, I mean -- sorry about that, but can you please come back on what
+has been the drivers and maybe for next year, I mean, would you go again with a fairly
+cautious assessment of what to be expected in 2022 or, I mean, any comment would be
+interested on the experience 2021 and what we're expecting in 2022?
+The second question would be for Francois. So actually you are going to be -- looks like
+very active in terms of liquidity rebalancing into Q4. Can you tell us what kind of
+reinvestment rate you're getting at the present time on the corporate bonds, because it
+seems to be that this is where you're going to shift or reinvest this liquidity? And maybe if
+I can squeeze a very last one, very short one is, what do you make of the global minimum
+tax? I mean, do you expect any implication for the group when this is implemented? Thank
+you.
+
+A - Frieder Knupling
+
+{BIO 17247809 <GO>}
+
+Bloomberg Transcript
+
+So, Thomas, thanks for the question. So we do continue to expect to perform
+management actions on underperforming treaties in the course of 2022. We have, of
+course, taken some of the more significant rate increase actions somewhat earlier on in
+the program. Having said this, the performance of the business, the way the treaties are
+structured and many other factors have an influence which we continue to assess and
+evaluate and our current view is that there is still quite sizable potential for improvement
+of underperforming treaties next year and probably beyond.
+So that's something we'll continue to leverage upon and we also have in-force
+management opportunities outside of the US. And that is an area which we are
+increasingly exploring as the business is growing and we are building up our in-force
+management capabilities In addition, as we explained in early September, the in-force
+transaction which we concluded at the end of June has not only led to a significant one-off
+gain, but it has also led to an increase in margins of prudence in our reserves, which, given
+the improved profile of the business, will run off during the coming quarters and that
+helps to support the performance of the business also during 2022.
+
+A - Francois de Varenne
+
+{BIO 7447858 <GO>}
+
+Thomas, on your question, so that's true that we have a significant activity on our side in
+Q3. You have to take into account that we will receive on the investment side the
+proceeds of the Life in-force transaction early July. So between our starting point at the
+beginning of Q3 was not 16% of liquidity, but 20% if I include the EUR860 million of this
+transaction. Where we've invested? That's mostly on US corporate bonds, which
+corresponds to the sale program we executed in Q1.
+During Q3, we purchased EUR1.7 billion of corporate bonds with an average rating of BBB
+plus, an average duration of five years and average book yield of 1.64%. Since the
+beginning of Q4, we have already invested the equivalent of EUR400 million always on
+corporate bonds, average rating A minus and you see improvement of market condition,
+average book yield 2.3%. So that's affecting the increase of interest rate.
+
+Page 12 of 18
+
+
+
+FINAL
+
+Company N ame: SCOR SE
+Company Ticker: SCR FP Equity
+Date: 2021-10-27
+
+On top of this, if you remember, I mentioned during the IR Day that we deployed EUR200
+million of commitments in 2021 and also EUR200 million in 2022 on value creation assets,
+mostly private equity, infrastructure and private debt. On this overlap, we have already
+committed EUR120 million for 2021. So we will be on target for this year. I remain very
+confident in the fact that the reinvestment of our excess liquidity will be done by the end
+of the year. So with liquidity, we are on 9%. We will come back to, I would say, our normal
+allocation to corporate bonds between 43%, 45% and we would close the duration gap
+that we open in Q1. And after, we will maintain a disciplined year-end strategy within the
+fixed income portfolio.
+
+A - Ian Kelly
+
+{BIO 19976646 <GO>}
+
+And hi, Thomas. Ian here. I'll just pick up on the tax question briefly. We are currently
+monitoring the situation and we'll assess the impacts once the situation becomes a bit
+clearer. But just in terms of sensitivity, a strict application of a 15% minimum tax rate
+globally to areas that are currently below that threshold wouldn't have a material impact
+upon the group low to mid single digit.
+
+A - Laurent Rousseau
+
+{BIO 5131107 <GO>}
+
+Thank you, Thomas. Next question, please.
+
+Operator
+
+Bloomberg Transcript
+
+We'll now take our next question of Will Hardcastle at UBS.
+
+Q - Will Hardcastle
+
+{BIO 22230376 <GO>}
+
+Hey, thanks for taking the follow-up. Just the first one on potential for reserve releases. I
+guess in the past we became a little bit accustomed to seeing major cat quarters arrive
+with some reserve release to dampen the volatility. I guess, has there been a change in
+approach or what was the logic this time? And then the second one is, can you give any
+sort of loss -- industry loss assumption for the European floods and Hurricane Ida? I know
+there'll be some distortion but any indication there would be helpful. Thanks.
+
+A - Laurent Rousseau
+
+{BIO 5131107 <GO>}
+
+Thank you, Will. I think the first question and I'll let Jean-Paul talk about the second one. I'll
+make a general statement on your first question. Just like you might have seen, we don't
+do capital gains on bonds. I make the link here on the smoothing the volatility of the
+earnings that we did not do this time around on the P&C reserve. So your understanding
+is good. I think it's important for us to have to go through this volatility to take it without
+necessarily looking to smooth it. We don't need to. We don't have to. I think it's more
+transparent. And we will look to do in that way as much as possible.
+I'll hand over to Jean-Paul on second question.
+
+A - Jean-Paul Conoscente
+
+{BIO 20770277 <GO>}
+
+Page 13 of 18
+
+
+
+Company N ame: SCOR SE
+Company Ticker: SCR FP Equity
+Date: 2021-10-27
+
+Thank you, Laurent. On the industry losses for Ida, our assumption is a market loss around
+$30 billion to $35 billion with, I'd say, a small contribution to the market loss of the
+flooding on the Northeast. The majority assume to be ceded to FEMA. On the European
+flood loss burnt, the assumption is EUR11 billion market loss.
+
+FINAL
+
+A - Laurent Rousseau
+
+{BIO 5131107 <GO>}
+
+Thank you, Will Next question, please.
+
+Operator
+We'll take our next question from James Shuck at Citi.
+
+Q - James Shuck
+
+{BIO 3680082 <GO>}
+
+Bloomberg Transcript
+
+Hi, thanks for taking my follow-up. Frieder, I think the way you answered the question on
+diversification was specific to the risk margin. Really my question was just leaving the risk
+margin to one side. My kind of thoughts were that EIOPA were looking closer at
+diversification credit overall and used by insurers and whether it's appropriately applied by
+the local regulators. So just any comments on whether you are actually seeing that or can
+anticipate any kind of scrutiny of your very large diversification credit that you apply in the
+Solvency II ratio would be helpful.
+Second question, I heard the answer you gave on the Q3 underlying combined ratio,
+which was in response to the underlying number being bit higher than one might expect.
+My take on that is a little bit different, in that you would normally see quite a high level of
+seasonality around the nat cats, the Q2 and Q3. Perhaps almost as much as twice the
+usual 7% load. And if that's the correct view then, the underlying combined ratio actually
+looks a lot better. So if that's the case, then can you just comment around the large loss
+experienced relative to what a normal run rate is or just any insight into what's happening
+on an underlying basis there?
+And then finally, sorry to return to this. I just wasn't quite sure if I caught the answer,
+Laurent, but were you saying that the potential change in bylaws was something that
+could be considered or is that something that is set in stone and would not be? Thank
+you.
+
+A - Laurent Rousseau
+
+{BIO 5131107 <GO>}
+
+Thank you, James. So let's take your answers in the order. And so the first one was
+actually answered by Fabian and who I give the floor back to.
+
+A - Fabian Uffer
+Yeah. Thanks a lot. Sorry, I didn't get your full question on the SCR, now it's quite clear.
+There is no particular thing happening with SCOR and the diversification effect. What we
+see is obviously EIOPA doing more and more comparative studies among the internal
+model users. And I mean that's public information. So there was a -- it's an ongoing study
+on diversification. But we have no indication that there is something specific coming for
+
+Page 14 of 18
+
+
+
+Company N ame: SCOR SE
+Company Ticker: SCR FP Equity
+Date: 2021-10-27
+
+FINAL
+
+the internal model of SCOR. I mean, that's the approved internal model that we have. This
+has been checked and thoroughly gone through with our regulators that we operate
+entities in the Solvency II regime, as well as the entities that we operate under the Swiss
+Solvency Test. And the diversification effect is not so much. Part is obviously our modeling
+assumption, but it's highly driven by the portfolio mix that we have that then leads to such
+diversification.
+
+A - Jean-Paul Conoscente
+
+{BIO 20770277 <GO>}
+
+This is Jean-Paul. To answer your second question on the P&C net combined ratio on a
+normalized basis, so the year-to-date is actually -- if we combine commission and
+attritional losses, the sum of the two is actually 3.5 points below the same amount yearto-date 2020. The driver of the improvement has been primarily Q1, Q2. In Q3, we see
+the normalized net combined ratio being very close to the normalized net combined ratio
+of Q3 last year. And as I said, the driver last year was -- if you remember the Beirut blast,
+which was a significant market loss, that was a manmade loss. This year, we have another
+significant manmade loss, say, of similar size, which is the South African riots.
+If you take out -- again if you take out that event as an exceptional event, the net
+combined ratio this quarter would be 2.7 points lower than the 94.7, so it would be around
+the 92 which is in line with what we've seen in the prior quarters. But the rest of the
+manmade losses have been very much in line with what we've seen in Q1 and Q2. The
+main difference this quarter has been the South African riots.
+
+Bloomberg Transcript
+
+I hand it back over to you, Laurent.
+
+A - Laurent Rousseau
+
+{BIO 5131107 <GO>}
+
+Yeah. So on your question, so the bylaws can be changed, James, but it requires first of all
+that the Board recommends and puts through the AGM a recommendation to change the
+bylaws. And it requires the shareholders to vote to change the bylaws. So it can be done,
+but there is a very strict process to do so.
+Thanks, James. Next question, please.
+
+Operator
+We'll now take the next question from Vikram Gandhi at Societe Generale.
+
+Q - Vikram Gandhi
+
+{BIO 18019785 <GO>}
+
+Hello. Thank you for the opportunity. I've just got one follow-up question, which is on the
+investment income. Is there something that you can flag around potential real estate
+disposal that can come in Q4 or something next year? That's always lumpy. So any
+guidance there would be helpful. Thank you.
+
+A - Jean-Paul Conoscente
+
+{BIO 20770277 <GO>}
+
+Page 15 of 18
+
+
+
+FINAL
+
+Company N ame: SCOR SE
+Company Ticker: SCR FP Equity
+Date: 2021-10-27
+
+So, yeah, that's a good question. So the first point that I would like to mention that there is
+no one-off income this quarter. So take it really as a real one. On real estate, so that's true
+that I mentioned previously that we are in the process of selling mature assets. It will be
+done at the end of the year or beginning of next year. I have no certainty given the real
+estate market today entirely that it could be done before the end of the year or more
+probably in January. Having said this, we see -- I have a pipeline of mature assets that will
+mature in the next few years and you see the amount of annualized gain we've got on the
+real estate portfolio.
+As far as fixed income, the contribution of fixed income portfolio into a gain as mentioned
+by Laurent and myself, we want to maintain disciplined ALM matching strategy, so which
+mean that any realized gains coming from the fixed income portfolio could be nonmaterial and just reflecting tactical adjustments within the fixed income portfolio. Maybe
+another indication, I am still speaking on this, the income yield is at 1.7% today. Our
+projection, given the current environment, indicate that we should be at the low today.
+
+A - Laurent Rousseau
+
+{BIO 5131107 <GO>}
+
+Thank you, Vikram. Next question, please.
+
+Operator
+We will take our next question from Vinit Malhotra at Mediobanca.
+
+Bloomberg Transcript
+
+Q - Vinit Malhotra
+
+{BIO 16184491 <GO>}
+
+Yeah, thank you. So, one is a quick follow up to Jean-Paul. One is a quick check on the EOF
+for Fabian. So, Fabian, just I'll start with that. If I go back to your IR Day presentation, we
+saw the EOF in the 1H roughly EUR400 million, a little above EUR400 million and I had
+asked you whether there was anything exceptional and you had said that there wasn't. So
+that would imply that the sort of EUR800 million give or take range on US capital
+generation is sort of the benchmark on normal level, which is very close to 18, 19 points.
+And then there is dividend, the usual commence -- say, last year dividend was 8 points, so
+roughly -- so is the 10 point kind of capital generation calculation per annum normal basis?
+Would you agree with that pot dividend, maybe post tax? If you could comment on that or
+clarify or correct that, I would be very grateful.
+And just checking very, very quick one for Jean-Paul. So I've seen the Slide 10 Jean-Paul
+after your comments. Just so I understand, if EUR1.7 billion for P&C growth GDP [ph] is a
+good level for fourth quarter, give or take and then the EUR6 billion is stated there in that
+nine months ex-FX. So what are we looking to do for next year? Are we saying -- are you
+suggesting that we use 7.7, 7.8 as a base for a 15% to 18% growth or would you still be
+more comfortable with 7.5 as a base for 15% to 18% growth next year? Thank you.
+
+A - Jean-Paul Conoscente
+
+{BIO 20770277 <GO>}
+
+Thank you, Vinit. I'll take the first question, well, the question on the P&C and GWP. Our
+basis for 2022 would be the 7.7, so that's what we're projecting for -- to land at the end of
+this year. And those are the basis on which we're projecting for next year.
+Page 16 of 18
+
+
+
+Company N ame: SCOR SE
+Company Ticker: SCR FP Equity
+Date: 2021-10-27
+
+A - Laurent Rousseau
+
+{BIO 5131107 <GO>}
+
+FINAL
+
+Thank you, Jean-Paul. Maybe answering on the own funds generation, so we usually don't
+give any forward guidance on this figure. So use the published figures on our half year and
+yearly walks and I think this is a good basis. Thank you, Vinit. We'll take the last question,
+please.
+
+Operator
+We'll take the next question from Thomas Fossard at HSBC.
+
+Q - Thomas Fossard
+
+{BIO 1941215 <GO>}
+
+Yes, thanks for taking the questions. The first one will be on the cost of retro, Jean-Paul. I
+think that you're renewing pretty early. So you may have fairly good view on what could be
+the higher implied costs. So would you be able to give us a kind of impact on in terms of
+combined ratio, on what we should think for 2022 in terms of impact of unchanged retro
+structure, but likely to come with higher cost? Also on COVID P&C, any comment you
+would like to make regarding (inaudible) and how much you paid out already? And the
+very last one would be, it has no impact in Q3, but may have some impact from Q4
+onwards is, could you remind us the call option mark-to-market? How this is going to be
+booked and if you could give any -- I know it's depending of lot of assumptions, but any
+sense of, I mean, any sensitivity will be helpful. Thank you.
+
+Bloomberg Transcript
+
+A - Jean-Paul Conoscente
+
+{BIO 20770277 <GO>}
+
+On your first question, Thomas, we're still in the middle of negotiation. I think one of the
+key points is that the program will not be unchanged, because as I said previously, the
+supplier proportional and aggregate covers will be -- we anticipate to be less than last
+year. We'll probably have to buy more non-proportional and look at other structures, but
+the impact in terms of net combined ratio we are anticipating will be the same as last
+year. So the risk protection will be similar and this is where we're taking actions on the
+inwards the acceptance side to sort of balance-out the anticipated changes in retro
+supply and keeping the same risk metrics that we had last year.
+On COVID P&C, we've paid out roughly EUR75 million as at the end of Q3 and we haven't
+made any changes to our reserve level because we just didn't get any new information. I
+think there's still a lot of litigations ongoing especially in the UK and France as well as
+some in the US. And I think the (inaudible) involved in those litigations are still -- have not
+changed their assessments or their exposures. We haven't either. And I think we'll
+probably gather additional information in Q4, but these are I think claims that will probably
+carry on into 2022 for sure.
+
+A - Ian Kelly
+
+{BIO 19976646 <GO>}
+
+Yeah. Just on the call option, Thomas, in terms of sensitivity, it's not been material. Just to
+give you an indication, in Q3, the impact was a very low single digit euro -- EUR2 million
+impact, in fact.
+
+Page 17 of 18
+
+
+
+Company N ame: SCOR SE
+Company Ticker: SCR FP Equity
+Date: 2021-10-27
+
+A - Laurent Rousseau
+
+{BIO 5131107 <GO>}
+
+Thank you, Thomas. I think we can conclude the Q&A
+
+FINAL
+
+Operator
+Ladies and gentlemen, this does conclude today's questions and answer session. At this
+time, I would like to hand the call back to the speakers for any additional or closing
+remarks. Thank you.
+
+A - Olivier Armengaud
+
+{BIO 20892984 <GO>}
+
+Thank you very much for attending this conference call. The Investor Relations team
+remains available to pick up any further questions you may have. So please don't hesitate
+to give us a call. I wish you a good afternoon. Thank you.
+
+Operator
+
+Bloomberg Transcript
+
+That concludes today's call. Thank you for your participation. Ladies and gentlemen, you
+may now disconnect.
+
+This transcript may not be 100 percent accurate and may contain misspellings and other
+inaccuracies. This transcript is provided "as is", without express or implied warranties of
+any kind. Bloomberg retains all rights to this transcript and provides it solely for your
+personal, non-commercial use. Bloomberg, its suppliers and third-party agents shall
+have no liability for errors in this transcript or for lost profits, losses, or direct, indirect,
+incidental, consequential, special or punitive damages in connection with the
+furnishing, performance or use of such transcript. Neither the information nor any
+opinion expressed in this transcript constitutes a solicitation of the purchase or sale of
+securities or commodities. Any opinion expressed in the transcript does not necessarily
+reflect the views of Bloomberg LP. © COPYRIGHT 2022, BLOOMBERG LP. All rights
+reserved. Any reproduction, redistribution or retransmission is expressly prohibited.
+
+Page 18 of 18
+
+

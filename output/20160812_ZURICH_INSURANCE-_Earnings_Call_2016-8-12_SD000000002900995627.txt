@@ -1,0 +1,1004 @@
+Q2 2016 Earnings Call
+Company Participants
+FINAL
+
+George Quinn, Group CFO
+Steve Wilson, Group Chief Actuary
+
+Other Participants
+Andrew Ritchie , Analyst
+Andy Hughes , Analyst
+Sami Taipalus , Analyst
+Thomas Seidl, Analyst
+
+Presentation
+
+Bloomberg Transcript
+
+Operator
+Ladies and gentlemen. Good morning or good afternoon. Welcome to the analyst and investor
+conference call and live webcast. I'm Sarah, the Chorus Call operator. I would like to remind you
+that all participants will be in listen-only mode and the conference is being recorded. After the
+presentation, there will be a Q&A session. (Operator Instructions) At this time, it's my pleasure to
+hand over to Mr. George Quinn, Group CFO. Please go ahead, sir.
+
+George Quinn
+
+{BIO 15159240 <GO>}
+
+Thank you very much and good afternoon or good morning to everyone. And thank you for taking
+the time to join this call on the reserving information that we released yesterday.
+Just to remind you that this is a webcast and that you should use the link on our IR page if you'd
+like to follow along with the presentation.
+I'm joined here by the Group's Chief Actuary, Steve Wilson. Steve will take you through our
+approach to reserving. He'll give you some thoughts on the ways in which you can use the
+information. And most importantly, he'll draw your attention to some limitations or features in the
+data that you'll need to allow for if you're planning to do your own re-projections.
+With that, I'll hand over to Steve. Steve?
+
+Steve Wilson
+
+{BIO 19265275 <GO>}
+
+Great. George, thank you. Good afternoon and good morning to everyone. Thank you for joining
+the call.
+So as George said, we've released a lot of new data, loss development triangles and so on and so
+forth. So I'm going to go through firstly just a quick overview of what we've published. Then I'd like
+to spend a few minutes talking about how we do reserving at the Zurich, the Zurich way of
+reserving. And then I'll turn to how you can use the data. We'll give you a couple of basic refreshers
+on chain ladders and triangulation methods. And then I'll comment on some of the key features in
+the data triangles themselves.
+
+
+
+FINAL
+
+Firstly, the overview of the disclosure. We're providing premium claims information by line of
+business for our three major regions. That's Europe, global corporate and North America
+commercial. The data triangles are paid loss amounts; case incurred loss amounts, which
+sometimes is referred to as reported loss; ultimate loss vectors, if you like, that's the ultimate loss
+for each accident year; the corresponding IBNR reserves and the net earned premium for those
+years -- sorry, the gross earned premium for those years, from which you can calculate ultimate
+loss ratios.
+We've segregated the data by our five major lines of business. You can see them there, auto,
+liability, property, specialties and workers' comp. And what hasn't been released is information on
+the countries in the international markets and MEA, Middle East and Africa. And simply because
+that's a lot of small countries predominantly and not much to talk about in the way of reserves.
+Farmers Re and Group Re, which likewise are not significant in the overall reserving context.
+We released 10 years of data. So that's up to 2006 or back to 2006. So nothing for accident years
+prior and nor have we released any detail on the so-called legacy portfolios, which is UK disease
+and some APH in the US and one or two other bits and pieces.
+
+Bloomberg Transcript
+
+What we don't provide, which we can't provide here as this is a higher level, are the assumptions
+we use in our own projection methods. But I will tell you how we do that. So hopefully you'll get
+some insights into our approach.
+So turning to our approach, the Zurich way of reserving. This was established at the end of 2004,
+coming into 2005. So it's had over 10 years of being a tried-and-tested approach. It's globally
+consistent. We have one single Group-wide policy. We have clearly within that well-defined
+standards. And that policy is executed by accredited actuaries across the globe, all of them
+experienced and highly competent actuaries. And there's about a little over 200 reserving
+actuaries in the Group. So that's a lot of actuarial firepower.
+We believe and we are confident that it's technically excellent. And we're going to talk a little bit
+more -- I'm going to talk a little bit more about what that looks like. But it's essentially around the
+way we cut the data. It's about the methods and techniques we use to analyze that data. And it's
+about how it flows through into our financial processes on a quarterly basis.
+But equally importantly, the reserving information is central to our business decision-making and to
+providing business insight to our underwriting colleagues, management teams of the local units.
+We call that the virtuous circle, which is essentially the information that flows to and from the
+underwriters, the claims teams, the pricing actuaries and the reserving actuaries and, to some
+extent as well, our risk management colleagues and finance colleagues. But that's the key part of
+the way we do reserving at Zurich. And that ensures that it's embedded in the business.
+And more comments, a central tenet of the Zurich way is that when we book our reserves for the
+current accident year, we allow for some degree of conservatism. This is just common sense and
+it's good practice. And with that degree of conservatism, we then expect that those accident years
+will run off favorably. And we recognize that favorable development as it comes through. But in a
+tempered way, i.e., we're not in a hurry to recognize good news. But we are in more of a hurry if
+we see adverse terms. And we react quickly to those. And you'll see and you saw in some of the
+experience we've needed to do that.
+On top of the actuarial estimates, we have what we call reserve strength IBNR. This is a reserve to
+allow for potential deteriorations based on risks we see at both an overarching global level. And
+we do that using statistical models. And also at the more detailed portfolio level, where we'll
+identify specific risks and trends. We quantify those, we monitor them and we document them.
+
+
+
+FINAL
+
+So to be clear, reserve strength IBNR is reserves for risks. So that's not our expectation. But it's
+potential things that could happen and so we hold reserves for those as well. Of course, we do
+have sensitivities which can be favorable. And we treat those in a similar way.
+All of this is set within a strong governance framework. The reserve governance itself is part of our
+global risk policy, the Zurich risk policy. We have extensive internal peer review processes, whereby
+actuaries from one unit review the work of actuaries from another. That's a control process. But it
+also helps us get insights and second opinions. As you know, actuaries like to challenge each other.
+And we think that's very healthy for the way we do this.
+We have -- frequently we have external reviews. Sometimes these are for specialist areas, where
+we need to get external information and make sure we are at best practice. And sometimes we
+have other parties, for example, regulators, who like to take -- who like an external firm to take a
+look.
+And all of this is very transparent up through George, the CFO. And through Mario and through our
+Group Board Audit Committee. So we report to them on a quarterly basis so they can see exactly
+what's happening.
+
+Bloomberg Transcript
+
+With that, all of those components, they constitute our approach to reserving, the Zurich way of
+reserving. And we think it has a proven track record. So we think that. But here is the track record
+over the last 10 years. And you can see the Zurich way has delivered in line with expectations in
+nearly all of those years.
+It's fair to say 2015, from a P&L perspective, was a disappointment. But that is a function of the
+Zurich way. As I say, when we see adverse trends, we react to those in a timely manner. So that
+was a bad outcome in terms of our expectations for 2015. But a good outcome in terms of the
+balance sheet when we closed 2015.
+And so far so good, 2016 shows us being back on track with a level within the range of our
+expected favorable runoff.
+I'm going to take you through a little bit more of the technicalities. And firstly, what we do with
+data. I apologize if some of you find this to be a little bit basic. We just wanted to make sure we
+had everyone on the same page. But it's essential to all actuarial policies to try and homogenize
+the data. That means we segment it so it's within the country. Then within country, it's by customer
+segment, personal, small business, commercial, global corporate business. We clearly segment it
+by line of business, by distribution channel. Distribution channel can have an effect, whether it's
+broker business or direct business.
+The data is grouped into time cohorts. So that's what forms the triangle. Predominantly for our
+business, being a direct insurer, that's accident year. That's not universally true; for certain lines of
+business we have on a claims-made basis, particularly in the specialties books, we cut it by
+reporting year. So it's a similar kind of method, just a different construct of the data.
+Then within the claims data itself, we further subdivide that by size. We look at attritional losses
+differently than we look at large losses. We look at the causes of claims, the perils. We look at the
+status of an event, if it's a catastrophe, deductible levels, currency effects and so on and so forth.
+So essentially, the data gets chopped up into very fine datasets, which make it better for analysis
+and for providing insight. And as I say, that insight is critical for underwriting decisions looking
+forward.
+
+
+
+FINAL
+
+In terms of analysis, sometimes we get asked and sometimes I get asked what methods do you
+use? And the short answer is we use all methods, all available methods from the actuarial toolkit.
+At the heart of this, the foundational methods are chain ladders. Sometimes these are called link
+ratio methods or squaring the triangle. And we apply these to the paid losses and the incurred
+losses. And that's the data we've provided you.
+On some lines we use claim count triangles. And we can develop average claim triangles and so
+on and so forth. So a lot of different triangles. And the chain ladders are, if you like, the starting
+point in how we analyze the data.
+We complement these with more sophisticated methods, such as the Bornhuetter-Ferguson,
+which, as many of you will know, lends an a priori assumption of ultimate loss based on other
+information, for example from the underwriters, with the chain ladder projections. That is
+particularly useful for younger accident years, where the chain ladders have quite a high variability
+in their projections.
+We use average cost per claim methods when it makes sense to do that. That would typically be a
+personal lines book, like a personal wholesale book. And the strength of average cost per claim
+methods is that the claim counts are usually quite stable to project. Then you can use other
+techniques to limit the variability and the average costs.
+
+Bloomberg Transcript
+
+For cat, that's for catastrophes, we do bespoke specific projections. It should go without saying
+every cat is different. So we look at those very closely and have different approaches to how we
+deal with a windstorm or an explosion, etc., etc.
+The methods themselves are then complemented by diagnostics, for example, pay to incurred
+ratios, which are a good indicator of changes in payment speed or can be used to assess if we've
+had an operational change within the claims department. Pay to incurred ratios can confirm those
+changes and also help us to adjust the ultimate based on that information. And all of this is
+monitored and back-tested so we can see if we're getting any bias in any of these methods.
+Then finally, as I said, business insight is a core part of the Zurich way of reserving, through what
+we call a virtuous circle. And in that virtuous circle, underwriters, claims, colleagues and actuaries sit
+together and talk about the various factors that will be influencing the data and what is seen in the
+data and how we can react to that in our underwriting actions. So that would be, for example,
+market conditions, potential legal changes that would perhaps affect claim settlements, the actions
+by the underwriters. If we're increasing deductibles, that changes the claims patterns. And so on
+and so forth. And changes in claims process. If we change our reserving approach at a claims level,
+we need to know that. And that also affects the patterns in the claims data.
+So there's three areas of segmenting the data, extensive analysis and business insight constitute
+the technical excellence of the Zurich way.
+Okay. So now I'm going to turn to the data. And what we did, we asked our very bright actuaries in
+Zurich to have a look at this data and say lock yourself in a room for a couple of days and pretend
+you're an investment analyst. That was considered quite a choice assignment. And that individual
+had a look and came back and said, actually, Steve, there's a few things we should highlight and
+we're going to take you through those.
+But firstly, let's just recap, again, that's a little bit basic. But just to be clear, let's talk about how loss
+development triangles can be used using the chain ladder methods. We're not going to go into
+Bornhuetter-Ferguson or other methods. But I think you can go a long way with knowledge of
+these chain ladders.
+
+
+
+FINAL
+
+So the chain ladder has really six fairly straightforward steps. You can see that. Here's our European
+property paid losses that we've released to you. It's not the whole triangle. For this illustration
+purpose we've just cut it off at 2010. And we calculate what we call a loss development factor,
+sometimes called a link ratio. And that's simply the ratio between the accident year paid amount at
+development period N, in this case 3, divided by the evaluation at the prior development period, N
+minus 1, if you like.
+You can see the calculation there on screen. So the development factor for period 2 to 3 for
+accident year 2013 is 1.132. So that means the paid losses increased by 13.2%.
+At the bottom, we've shown you a weighted average. In practice, we look at a number of
+averages. We look at simple averages. We look at averages over recent years, say the last three or
+the last five or averages over all years. You can also project curves, extrapolate curves from the
+factors to see what is the underlying pattern. Then we select from that underlying pattern a series
+of factors which we think will be representative of future development.
+So while we have that selected, we've just taken the average from the previous page in this
+simplified example. You can then do the reverse calculation that says for the paid amount in
+development period 1, as we've shown in the highlight. We would expect that to increase by 77%.
+And that would then go to 881. Okay? Then simply that process is iterated across the triangle,
+hence the language squaring the triangle. And that calculates the ultimate loss. And from that
+ultimate loss, we can calculate our IBNR reserves.
+
+Bloomberg Transcript
+
+So I'm sure many of you are very familiar with this. We did think it's just a short recap would be
+helpful.
+Now turning to the data, there are several -- as ever, with triangles, they're never as
+straightforward as you want them to be. And there's always things moving around and going on
+and things got changed and so on and so forth. So you have to make allowance for that in the
+projections.
+We've highlighted four features. There are others. So we'll leave it to you when you have a look to
+see what you can see. And you can always call us if you see something that you don't understand
+and we can help provide explanation.
+But these are the four that are most relevant. And firstly, in the auto book for North America, there
+is a distortion in the fifth diagonal. Now the diagonal represents a constant point in calendar year
+time. So this is something -- an operational change that happened in 2011, which affects the
+movement for 2010 accident year throughout 2011 and also the subsequent accident years,
+obviously at slightly later development periods.
+And you can see from the factors there that we've highlighted, there is a much higher number,
+much higher factor than all of the years either preceding or post those development (sales). And
+this is because we had a systems conversion from a business we'd acquired some years before.
+And we converted the claims in the claim system from that business onto our main claim system.
+And the way the data conversion came over, it caused a distortion in the triangle.
+So this is quite a standard data effect and it's quite easy to adjust for it. We simply, as we've shown
+here, ignore those development factors in the selection of the future development since that is a
+non-repeatable effect.
+Secondly, we're looking at European auto. And you can see here, this is a little bit more subtle. But
+prior to 2011 or 2011 and prior, we have very strong positive runoff at the case -- this is the case
+incurred losses, strong positive runoff at the case level. This is to do with certain features, one of
+the key ones being the treatment of whiplash claims in Switzerland, which is one of the countries in
+
+
+
+FINAL
+
+this dataset. Whiplash claims can be very expensive. And we would set up quite high initial reserves
+for those, which would then tend, in aggregate, to run off positively.
+There have been changes in the legal system. It's harder now. There's a higher standard of
+evidence requirement to make a whiplash claim. So the whiplash claim impact has been reduced,
+which means that's better for us on a loss ratio. But it means we get less favorable development.
+And you can see that. And we've shown that if you take the average of all years, you get a certain
+level of development. But if you take the average over the last four years, there is less
+development. So in order to be conservative, we would recommend not using the factors that
+we've shown grayed out.
+Again, this is a fairly standard thing we would see -- commonly we would see and anyone would
+see when you're looking at several years of history.
+Okay. So now we're looking at the GL book for North America commercial. We're looking again at
+incurred losses. You have this in the data pack. You also have paid losses.
+
+Bloomberg Transcript
+
+There's a composite of many different subclasses. So at this level, at this high level, it's one of the
+more heterogeneous datasets. But what we want to point out here is that the 2015 accident year
+loss at the end of 2015, that's at the end of development period 1, is unusually high. And as you
+know, we had high large losses in that year. And so we need to be careful in projecting that
+forward because the chain ladder, by definition, will just assume that that year develops like its
+predecessors.
+But in this case, it won't. The thing is with large losses, they tend to be already at or near policy
+limits. So the future development will be less than prior years. So in projecting that using a chain
+ladder, you need to adjust the factors or use a different approach, for example, the BornhuetterFerguson.
+And to show you what that looks like in an earlier year, again apologies for the slides. Okay. If we
+looked at 2010, accident year and (2009), at that same development period, the end of the first
+year, 2010 was significantly higher, about 30% higher than its predecessor. So a chain ladder used
+at the time would assume that differential of 30%, 33%, would flow through to the ultimates.
+But as you can see, at the end of period 6, in fact 2009 is now slightly higher than 2010. So they
+develop differently. So that's a feature I want to draw to your attention. It's also true on the paid.
+And it's actually more exaggerated on the paid because the paid loss development has a steeper
+curve.
+Okay. And finally, in these features of the data, we're going to talk about workers' comp tail. As
+you all know, workers' comp is a very long-tail line. And here's the development factor. Again, we
+just selected NAC. We have a lot of workers' comp also in global corporate. And we have of
+course workers' comp or its equivalent, employers' liability, in the European business.
+There's the development triangle. And the question is what happens after year 10? This is a
+problem or a challenge that plagues actuaries all over the world. And from 10 years onwards you
+can see there's still going to be some development, with movements in the 9 to 10 period. But it's
+hard to tell what it is.
+Now we have triangles going back 25 years. So we have another 15 years which we can use to
+estimate that tail. We haven't released that; we've released 10 years. But notwithstanding, you can
+estimate that tail.
+
+
+
+FINAL
+
+There's a couple of ways you can do that. You can project or extrapolate those development
+factors. You can do that by simply looking at them and forming estimates on what you expect for
+the next few years. That's very basic but can be quite effective approach.
+You can use curve fitting. So you could apply an exponential decay curve, for example. And that's
+readily done in a spreadsheet. Or you could look at another data source, for example, industry
+data. That will give you a tail factor for workers' comp. I'll just stress that it's important to take a
+workers' -- take the tail factor from the data and from the triangles in order to project that forward
+and assess where we are with our ultimates.
+That's a tour of the triangles. I'm hoping we can get this next slide. Yes, I'm just going to talk to the
+next slide while my colleague tries to bring it up on screen. Here we are. This is a simple metric. So
+this is not something we use for projections. But it's a way you can view the reserve position from
+basic financial data. And we just want to say this is not really the most useful way of looking at the
+data. You can see it's very volatile. It's affected by movements in the reserve, by movements in the
+premiums. It's not responsive to mix changes and so on and so forth.
+So we're just highlighting this. But as it stands, 2015 looks pretty good as this ratio, for what it's
+worth, is at the highest level in that 10-year period.
+
+Bloomberg Transcript
+
+You can see I'm an actuary who's not used to technology. My colleague is helping me out.
+So just to summarize what I've just said, we've got over a decade of the Zurich way of reserving.
+It's essentially unchanged. We've modified it here and there. But it's as good now as it ever was
+and I think the track record proves that. We're absolutely clear it's technically excellent. We've got a
+lot of actuaries. We know actuaries in the market. We know how the market operates. And there's
+nothing that anybody else does that we don't do. And frankly, I think we do it better.
+We've provided you with extensive data, a lot of data triangles and the accompanying ultimates
+and earned premiums. And whilst recognizing that we look at the data in a much more granular
+level, you can still use that data to form a high-level assessment of our reserve strength. And so all
+of that leads us to be very confident in our approach and the adequacy of our reserves.
+I think now we throw it over to Q&A.
+
+Questions And Answers
+Operator
+(Operator Instructions) The first question is from Andrew Ritchie, Autonomous Research. Please go
+ahead.
+
+Q - Andrew Ritchie
+
+{BIO 18731996 <GO>}
+
+Hi there. Thanks, first of all, Steve, for that presentation. And thanks for not getting into
+Bornhuetter-Ferguson on a Friday lunchtime. A couple of questions.
+First of all, I'm not entirely sure yet about your external cycle of review, in other words, the cycle of
+external reviews. Could you remind us on particularly things like when you do your asbestos
+external reviews, when was the last time there was significant external reviews, particularly of US
+liability classes?
+Second question, I'm just noticing there's very high ultimate loss ratios in 2015 for global corporate
+specialty and liability. Could you remind me what's the nature of those lines? They're particularly
+higher in specialty versus the US and European equivalents. What's the nature of those lines? Did
+
+
+
+they receive particular attention in 2015. So the nature of global corporate specialty, global
+corporate liability and how it differs from the US? Thanks.
+
+FINAL
+
+A - Steve Wilson
+
+{BIO 19265275 <GO>}
+
+Sure. So the first question on external reviews, we have regular reviews for the US APH, which is in
+the GL book. We have a very detailed review every two years. And then we track on a quarterly
+basis the movements in the claims experience against those anticipated by that review. So it's
+biannual with quarterly monitoring. And if we see larger movements then we react to those.
+We've had a series of reviews over the last few years, the last two to three years, on top of that,
+principally around some of the UK -- sorry, the US long-tail lines. So we've had quite a number of
+externals, maybe too many, looking at those books.
+On the UK side for disease, that's the bulk of -- so the US APH exposure actually is quite small. It's
+shown later in the deck. Of course you'll know, Andrew, from the Eagle Star acquisition way back in
+1998 that that brought in a huge amount of UK EL. I think we have gross reserve there is about 2.6
+billion. That's also in the later part of the deck.
+
+Bloomberg Transcript
+
+For that we do a bespoke review. It's very detailed. It's using the latest information each year.
+There's an annual review. We used all the updated information from the Institute of Actuaries in the
+UK. And that's including models and views from that working party. So that's looked at regularly.
+And again we track that on a quarterly basis.
+And we also look as well to opportunities in the market if we can to de-risk that portfolio in
+particular. So I think that's your first question.
+
+Q - Andrew Ritchie
+
+{BIO 18731996 <GO>}
+
+Sorry, could I just follow up on that? Were there more external reviews than normal last year on
+particularly US liability? That's what I'm trying to understand.
+
+A - Steve Wilson
+
+{BIO 19265275 <GO>}
+
+Were there more than normal? I must say I was Chief Actuary -- as you know, I was Chief Actuary
+back in 2004 to 2007. We seemed to have a lot of reviews then. We seem to have a lot of reviews
+now. So I don't actually think there were more than normal. We did have a quite extensive activity in
+terms of external reviews following the Germany issues, which were coming to light in 2012. So that
+triggered a spate of reviews in 2013, 2014.
+So I don't know if that's more than normal. I can't recall what was happening in the intervening
+periods. But I think to me it feels like we have a lot of reviews. There's no shortage of external
+reviews.
+Can you remind me, please, on the second?
+
+Q - Andrew Ritchie
+
+{BIO 18731996 <GO>}
+
+It was -- I want to understand the differences between global corporate specialty and liability and
+North America. I just noticed that particularly global corporate specialty has much higher ultimate
+loss ratios in the last few years than the US and Europe, both on the specialty and liability side.
+What is the nature of that business, or particular -- what have there been particular issues in those
+lines?
+
+A - Steve Wilson
+
+{BIO 19265275 <GO>}
+
+
+
+Yes. So I think we're going a little bit into individual portfolios there. Essentially specialties is D&O.
+There's some marine business in there. It's professional indemnity. It's a real mix.
+
+FINAL
+
+And over the years, we've had -- we had a lot of professional indemnity in the UK, for example.
+We've had -- we've got a lot of D&O business in the US and to some extent in Europe. So there's
+quite a mix.
+Quite a lot of the specialties business is written out of the specialties business unit in North
+America. So that tends to be also picking up some of the larger customers as well. So I don't really
+know if I can give you the precise details. There's so many different covers within specialties and
+quite a lot of different customer segments. So I don't really -- I'm afraid I have to hand the detail of
+the performance of each of those.
+
+Q - Andrew Ritchie
+
+{BIO 18731996 <GO>}
+
+Okay. Thanks.
+
+Operator
+The next question is from Thomas Seidl, Sanford C. Bernstein. Please go ahead.
+
+Bloomberg Transcript
+
+Q - Thomas Seidl
+
+{BIO 17755912 <GO>}
+
+Yes. Thank you. And thanks for a great presentation. Very helpful. First, on workers' comp, I look at
+slide 35, because you of course rely mainly on Schedule P as external data source. So you basically
+say. And this is in line with what we found, if you exclude the unallocated loss-adjusted expense,
+you are still slightly higher in terms of loss picks and you basically say this is due. And this is also
+available in the data, due to a higher IBNR. And you say this is due to the more conservative
+approach.
+Now my -- I would have expected, if this was true, that your runoff of the workers' comp book
+should be materially better over time than the average market. But then I look at the data, for
+example, years 2007, 2008 and 2009, in those three years -- accident years, you increased from
+the initial loss pick more than 10% each year, while the market is basically neutral or even seeing
+reserve releases. So my first question is how does that fit together, the more conservative IBNR
+and loss pick initially. But then a worse development over time? I can't really square here the circle
+here.
+And the second question I have is then when I look at the total US portfolio, based on 2015 data
+and Schedule P again, now 5 of your 10 last accident years have upwards, meaning a negative
+trend with reserve increasing. And other years are flat. So is it a fair assumption to say that the US
+reserve is running at very low buffers and so we should expect little runoff from those years?
+And the third question, if I may, is more a model question now. Inflation of course plays a big role in
+your work. Inflation has come down a lot over the last years. And my question is, number one,
+shouldn't this lower inflation result in higher reserve releases? And secondly, how do you basically
+work with future inflation levels? How do you cope with the situation that you need to forecast 10,
+20 years while inflation right now is very low?
+
+A - Steve Wilson
+
+{BIO 19265275 <GO>}
+
+Okay. So that's -- thank you, Thomas. And that's quite a few questions. So you may need to help
+remind me on that as we go through the answer.
+So Schedule P, the statutory return in the US, we have that data, as you've pointed out, on page
+34. So there it is. That's a snapshot and I think it speaks for itself. This is just a matter of fact that
+
+
+
+our IBNR percentages are higher than the industry and the peer group. So we feel comfortable we
+are in a better position than our peers.
+
+FINAL
+
+In terms of individual accident year movements. And I'm sure my North American colleagues would
+agree, we try to get this correct and in a good position in the round. There's enough volatility at
+the portfolio level. We don't necessarily get every accident year precisely right; that's too difficult.
+So the mechanism or the approach of the Zurich way of reserving is to look for the data class and
+make sure the overall IBNR is right. Some accident years will run off favorably and some accident
+years will run off unfavorably. That's, as I say, the nature of the beast. There is randomness in there.
+And that's a little bit what I was showing you with that GL triangle. So we can't precisely get every
+accident year on the button.
+But what is important is getting the overall portfolio reserve across the accident years in the right
+place. And I think that's what the data clearly shows. And by the way, comparing against
+competitors, we're very happy with the way we do this. We don't cross reference exactly what's
+happening in our competitors' analysis; we rely on our own views.
+I think that's your first question. Would you please remind me of the second question?
+
+Bloomberg Transcript
+
+Q - Thomas Seidl
+
+{BIO 17755912 <GO>}
+
+The second, total US P&C ultimate loss ratio development the last 10 years, 2005 to 2014 I think is
+the data we have here, 5 of the 10 trend upwards, the total ultimate loss ratio. And the other 5 are
+essentially flat. So my question was it seems like the US reserve buffer is close to zero just by
+looking at the total runoff. Is that a fair observation?
+
+A - Steve Wilson
+
+{BIO 19265275 <GO>}
+
+No. If I may say so, I wouldn't say it's a fair observation. So we apply the same approach
+consistently across the Group. We have, as I said, our reserve strength is calculated in a rigorous
+way. So the estimates are calculated consistently and the reserve strength is determined
+consistently. So the reserve strength is more or less equivalent across all major regions.
+There is a little bit, I should just say, held in Group Re as well, which is an umbrella reserve strength,
+if you want to call it that. So the US behavior is consistent with the rest of the Group. There is no
+difference.
+You do get a difference from different lines of business. And to the extent that both global
+corporate and North America commercial are de-facto commercial businesses, they don't have the
+benefit of the more simply reserved lines of business. But allowing for the differences in mix, we
+are consistent across the Group.
+Sorry, I'm going to have to ask you to remind me of the third question as well.
+
+Q - Thomas Seidl
+
+{BIO 17755912 <GO>}
+
+The third is very simple. Basically inflation, with this dramatic drop in inflation, shouldn't we, number
+one, expect more positive runoffs right now, because clearly 5, 10 years ago when you reserved
+for this stuff, the inflation expectation then was much higher than it is today? And going forward,
+what do you do to avoid basically that your reserve now, based on very low inflation level. But in 10
+years' time it turns much higher?
+
+A - Steve Wilson
+
+{BIO 19265275 <GO>}
+
+Thank you. And thank you for giving me a simple question as well, amongst your questions. So yes,
+inflation is of course pervasive. I should just be clear, when we think about inflation form a reserving
+
+
+
+perspective, it's not just consumer price inflation or earnings inflation; our inflation views and
+analysis are based on the specific portfolios.
+
+FINAL
+
+So if we have, for example, a workers' comp book which has various components around medical
+costs or a GL book which has a lot of litigation potential in it, we need to allow for those different
+types of inflation.
+The way we do that is because this is essentially a bottom-up process and the reserves are done
+at that very granular level, we can -- the actuaries reserving those accounts and also the pricing
+actuaries supporting the underwriters can look at inflation on a very specific basis and form a view
+on what it looks like going forward. So our inflation assumptions are granular and bottom-up and
+reflective of the individual circumstances for the portfolio under consideration.
+As a matter of fact, if inflation falls lower than those expectations, you would, other things being
+equal, get positive reserve runoff. Clearly we're not anticipating a lot of future falls in inflation. And
+of course the converse is also true. But that's just part and parcel of the job the actuaries have to
+do. They have to form a view on inflation and how it will affect those reserves. And that's what we
+do. And to the extent we see any trends in one direction or the other, we will accordingly react to
+that.
+
+Bloomberg Transcript
+
+Q - Thomas Seidl
+
+{BIO 17755912 <GO>}
+
+But clearly if you look, for example, at workers' comps for the last five years, inflation has come
+down. Why isn't there this visible then in the data that you have? You should be benefiting from
+lower inflation. Or would you say that inflation, as regarding maybe costs and so on, is not coming
+down as much as CPI?
+
+A - Steve Wilson
+
+{BIO 19265275 <GO>}
+
+So it clearly has come down; that's not disputed. And it is reflected, if you look at those, way back
+on slides 5 or 6, with the proven track record, part of those large releases, which we've shown as a
+percentage number which -- so there, it's up on the screen now. So we had these really -- this is, if
+you like, a purple period of good reserve releases. That is in part the Zurich way doing what it's
+supposed to do.
+But if you add up those in dollar terms, I think we have the number on there, $7.7 billion. I don't think
+we had an $8 billion surplus at the end of 2006. In fact I looked at what we thought our surplus was
+at the end of 2006 and it wasn't $8 billion. So the part of that positive runoff is the Zurich way
+doing what we want it to do. And part of it was a little bit of a tailwind from falling inflation.
+
+Q - Thomas Seidl
+
+{BIO 17755912 <GO>}
+
+All right. Thanks a lot.
+
+A - Steve Wilson
+
+{BIO 19265275 <GO>}
+
+Thank you.
+
+Operator
+The next question is from Andy Hughes, Macquarie. Please go ahead.
+
+Q - Andy Hughes
+
+{BIO 15036395 <GO>}
+
+Hi. A few questions if I could. Basically the first one is on the case reserve. So I just had a look to
+see the things that look odd to me. I don't -- I think everyone looking at the numbers would
+probably find something that looked a bit odd. But the first thing which jumped out at me was
+when I looked at the European tab on the ultimate losses. And in particular the negative IBNR.
+
+
+
+FINAL
+
+So if we look at, for example, European property for 2006, you've paid more than your current
+ultimate loss ratio. So you're factoring in quite a lot of recoveries. And you've got a big, negative
+IBNR that's actually bigger than the case reserve. So you're actually holding ultimate losses of less
+than your actual paid losses.
+So in terms of your suggestion of using a chain ladder and ultimate loss approach, could you
+explain what's going on with -- basically I'm just interested in what's in the case reserves and how
+you get to these negative IBNR numbers.
+The second question is these are all gross of reinsurance. What should we do to factor in
+reinsurance? In particular I was trying to look for global corporate, (Tianjin). And think about how I
+might adjust for that.
+Then on the 2015 position you've given us, on the right-hand side of the spreadsheet, could we
+have those for 2014 and all the other years so that we can actually do a BF if we want to, because
+obviously if we do this, we're going to get the wrong numbers. Thanks.
+
+A - Steve Wilson
+
+{BIO 19265275 <GO>}
+
+Bloomberg Transcript
+
+Sure. And I'm going to come back on that last question in a second. And by the way, I learnt my
+reserving trade back in London for one of the big four consulting firms. And we did reserving for all
+sorts of people in the London market. So I know what odd looks like, believe me. There's plenty of
+triangles that look a lot odder than ours do. So this is relatively vanilla direct insurance.
+But your specific question around property positive runoff. So the typical situation with property is
+that a loss adjuster will go an evaluate the claim and loss adjusters, obviously in conjunction with
+our claims teams, they tend to be conservative. It's relatively straightforward for them. I don't want
+to disparage the good work they do. But it's significantly more straightforward to evaluate fire
+damage than a medical claim.
+So case estimates for property tend to be higher than the ultimate settlements. So that creates
+the positive runoff. There was a time, perhaps, when the actuaries would just ignore that and that
+would just flow through -- I'm talking about in the industry here -- that would just flow through as
+positive IBNR development effectively.
+But that doesn't really work in terms of business insight. So we project through those positive
+runoffs that come through. So as the claims are settled, they settle at less than they were reserved
+for. Or on the paid, there will be recoveries, subrogation recoveries, which could be for all sorts of
+reasons.
+So those negative movements, i.e. the reductions in the claims paid and claims incurred, we do
+project those through as well to some degree. And I say to some degree. And by that I mean this
+is one of, again, the principles of the Zurich way. We're a little bit -- and by the way, this is what all
+actuaries are like, pretty much -- we're a little bit reluctant to bring the good news through quickly.
+So we project some of those savings. But the property reserves still retain future positive runoff
+that hasn't been fully projected through.
+
+Q - Andy Hughes
+
+{BIO 15036395 <GO>}
+
+I'm just wondering how I should model that, because, to be honest, I'm an actuary but I would
+really struggle to come up with an estimate for this line, which is less than the paid claims.
+
+A - Steve Wilson
+
+{BIO 19265275 <GO>}
+
+But it's -- the method, the chain ladder method, can -- you can just input numbers less than one,
+right?
+
+
+
+Q - Andy Hughes
+
+{BIO 15036395 <GO>}
+
+Right, yes. I suppose so. For year 11, I suppose, yes. Okay.
+
+A - Steve Wilson
+
+{BIO 19265275 <GO>}
+
+FINAL
+
+Yes. So mathematically it's symmetrical. We're happy to have a further conversation, if you want to,
+for us to discuss further how we do that.
+
+Q - Andy Hughes
+
+{BIO 15036395 <GO>}
+
+Yes. That'd be helpful. Thank you.
+
+A - Steve Wilson
+
+{BIO 19265275 <GO>}
+
+Yes. Could I -- and you had at least one other question.
+
+Q - Andy Hughes
+
+{BIO 15036395 <GO>}
+
+Yes, on reinsurance. How do I adjust for reinsurance, because obviously these are all gross? So I'm
+just trying to work out, if I come up with a gross estimate for anything, what do I do with it?
+
+Bloomberg Transcript
+
+A - Steve Wilson
+
+{BIO 19265275 <GO>}
+
+Yes. So it's gross to gross. So the reserves are gross. The triangles are gross. So everything's
+consistent. So what you can do is you can do these projections and then you will form a view -- you
+can form a view on what a projected estimate looks like against our held estimates at the gross
+level. And the difference between the two is effectively a surplus. So you can do that at a gross
+level.
+The reinsurance effect, the netting effect doesn't really affect the surplus. We don't book seeded
+reserves that would -- we don't put surplus in seeded reserves, if that makes sense. So a net
+surplus is the same as a gross surplus essentially. That's the --
+
+Q - Andy Hughes
+
+{BIO 15036395 <GO>}
+
+But do I need to pro-rata whatever surplus number I come up with though, presumably by the
+reinsurance proportion?
+
+A - Steve Wilson
+
+{BIO 19265275 <GO>}
+
+No. No, you don't.
+
+Q - Andy Hughes
+
+{BIO 15036395 <GO>}
+
+So there's no surplus for the reinsurance? Okay, it's taken off at best estimate rather than with -okay. All right.
+
+A - Steve Wilson
+
+{BIO 19265275 <GO>}
+
+That's right. That's right. And we don't buy a huge amount of reinsurance either. So there's much
+less seeded reserve perhaps relative to our peers.
+
+Q - Andy Hughes
+
+{BIO 15036395 <GO>}
+
+Okay. Thank you.
+
+Operator
+The next question is from Sami Taipalus, Berenberg. Please go ahead.
+
+
+
+Q - Sami Taipalus
+
+{BIO 17452234 <GO>}
+
+FINAL
+
+Hi, everyone. And thanks for taking my questions. I'm going to take the opportunity to ask three as
+well, given that we haven't been limited today. And the first one is on your -- you talked about this
+IBNR sensitivity reserve, which sounded like it was basically a bit of a surplus held for sensitivity.
+Who decides how much that surplus is? Is that decided by the actuary and is that an independent
+process I suppose is what I'm asking.
+Second question, you've given us quite a lot of data here, which is very much appreciated. And
+you've encouraged us to do our own work. But although this is also -- this is great but it's also a
+little bit dangerous, I suppose, because we could come up with some very different estimates.
+Wouldn't it just be easier if you gave us what you think the margin is? And is there any good reason
+for why you shouldn't give us the reserve margin? And don't say other companies don't do it
+because that's not a very good reason, in my view.
+Then the final question is on the tail ratios you have on pages 36 and 37. If I've understood
+correctly, this is basically the ultimate of the paid or the ultimate of the incurred for the 2006 year - sorry, for the 10th-oldest year and how that's developed. Could you just give us a little bit of
+comfort about how prior-year reserves. So for (2015), 2006 and older -- sorry, for 2005 and older?
+Can you just give us a bit of comfort on the strength of those years and how you benchmark that
+strength? Thank you.
+
+A - Steve Wilson
+
+{BIO 19265275 <GO>}
+
+Bloomberg Transcript
+
+Sure. And I think I'm going to answer one and three and George might pick up on answer -- on
+question number two.
+
+A - George Quinn
+
+{BIO 15159240 <GO>}
+
+Thank you, Steve.
+
+A - Steve Wilson
+
+{BIO 19265275 <GO>}
+
+In a second. So I think the question first was what we call reserve strength IBNR, how do we
+determine that? That's determined by the actuaries. The whole process that's consistent -- the
+approach for reserve strength determination is consistent and the same as the approach for the
+central estimates. And that is that the actuaries do the calculations. We have various levels,
+obviously we have the actuaries in country reporting through to the regions and then reporting to
+Group.
+And that process is -- so let me be clear on this, the estimate, the central estimate is what we think
+the reserve would be if things run off in line with expectations. So that in and of itself is an
+adequate reserve. And of course, as I'm sure you're aware, then we have lots of questions about
+best estimates with auditors and stuff like that.
+The reserve strength then is evaluated based on broadly two things. One, what are the
+overarching potential risks that would come from, say, parameter error, which would be the
+statistical noise in the system. So now we're talking about a range around the central estimate. And
+obviously we're looking at ranges above the central estimate. And we have a statistical model that
+does that. And if anyone's interested, it's a log-normal curve in its most simple form. But I don't
+propose to go into any detail on how we do that.
+But is like -- gives us, if you like, if you're familiar with the terminology, a probability density function.
+Then we can calibrate where we want to be on that probability density function. So the central
+estimate is around about 51% and we book to a number which is quite a bit higher than that.
+
+
+
+FINAL
+
+The second part of the reserve strength, as I said, is around specific portfolio risks. And these can
+be for very many different reasons. And it can simply be, for example, we have some unclarity in
+the data and the actuaries just want to be a little bit further up the range whilst the data patterns
+emerge. And that can happen, if we put an account into runoff, for example, sometimes the claims
+development will change because we've exited that line of business, or we may have taken a
+different view on the case reserves.
+And we have a central estimate that says, well, this view will give us that. But we have a higher
+degree of uncertainty. So let's hold a sensitivity pending that uncertainty being resolved. So that is
+all an actuarial calculation or calculations. And that comes up. It's obviously subject to our
+governance. And that's what comes through when I would sit down and present these numbers to
+George and then onwards into Mario and the Audit Committee.
+So that's how we get to reserve strength and that gives us protection against adverse deviations
+that could happen but that we don't expect to happen.
+
+A - George Quinn
+
+{BIO 15159240 <GO>}
+
+I'll do number two and I'll remind you that the last question is about 2005 and prior.
+
+Bloomberg Transcript
+
+On the data, Sami, I guess the issue would be that if people were happy to accept my assertion
+that we have adequate reserves and we have a surplus above the actuarial best estimate, we
+wouldn't even have this discussion in the first place. And what we're really trying to do here,
+alongside demonstrate consistency in the delivery of PYD in line with what we've guided for, is to
+give you additional information so that you can arrive at your own view.
+In terms of the risks that come with that, absolutely, people can take a wide range of -- it's very
+judgmental. So you can form a conclusion or you can make an assumption that could be very
+different from the ones that we've taken.
+But the thing we've tried to do ahead of this. And Steve mentioned it earlier on the call, if you
+follow the guidance that Steve has given you around some of the issues in the data, we think if you
+take one of the assumptions that fall within a reasonable range, we have a clear idea of the picture
+that we believe you'll see when you've done that. And of course we expect that to support the
+assertion that we've made.
+It can be that you can look at workers' comp and you can decide that the tail factor shouldn't be
+the industry number, it shouldn't be the exponential decay number that's in the curve; you may
+have your own favorite number, in which case you'll get an answer that we haven't allowed for. But I
+think for most people, I think if you follow the approach that we've outlined, if you make
+reasonable assumptions, you'll get different answers, each of you. But we think the overall answer
+that you'll get will be consistent with what we've told you.
+Having said all of that, the most important thing is we actually deliver what we've said we're going
+to do. So we can talk about how we reserve and what the numbers are and what the numbers
+mean. But I think for most people, the comfort really only comes from consistent delivery. And
+that's what we're aiming to do.
+
+A - Steve Wilson
+
+{BIO 19265275 <GO>}
+
+Okay. So question number three. And I'll answer this and I think we can take one more question
+after this, by the way. So accident years earlier than these triangles. There's about $6.6 billion of
+reserves. That's aggregated across the Group.
+Of course the older a year is, the more certain the reserve is. So that $6.6 billion is quite a big
+number. But that's the aggregation of a lot of small reserves which we are -- which don't have a lot
+
+
+
+of variability in it.
+
+FINAL
+
+Really the interest in those old years, the only real exception there of any significance is workers'
+comp. And we've talked at length already about the tail factors. Really those -- we don't really do
+much with those old accident years other than comp, where we use, as I said, another 15 years of
+history to look out. So we've got 25 years. So we can really look at what movements could happen
+in the tail.
+Then just to make -- so really the accident years of 2005 and prior isn't really of interest in terms
+of reserve strength just by its nature.
+Then just to make perhaps the obvious statement, when we're doing a workers' comp triangle,
+we're projecting movements that actually relate to business that, in some cases, is 25 years old.
+And what 25 years will be -- will be past -- certainly past my working lifetime and probably many of
+us on this phone. So just to remind ourselves that there is a sort of abstract nature to what's
+happening out in the tail.
+
+Q - Sami Taipalus
+
+{BIO 17452234 <GO>}
+
+Okay. That's fine. Just coming back on the first question a bit. So when you -- I think yesterday you
+talked about increasing reserves a bit in Group Re. So that was related to increasing -- that was an
+increase relating to a specific sensitivity or --?
+
+Bloomberg Transcript
+
+A - Steve Wilson
+
+{BIO 19265275 <GO>}
+
+Yes. So there's a question here about where we would hold reserve strength. As I said earlier, we
+try and match it up to where we think reserve risk is. And so hence we have a consistent
+positioning across the businesses.
+Of course, it's a bit like Thomas's question earlier on accident years. These things are moving
+around all the time. This is a dynamic process. So at any one point in time we have a view on where
+we should hold our reserve strength. But as each quarter goes by, that gets shuffled around a little
+bit.
+And Group Re is a central unit. It's a good place to put, as you've just alluded to, to put nonspecific reserve. But we also put specific -- non-specific reserve (trends), sorry. But we also put
+some items of specific in there where we earmark it and say, well, risk exposure in a certain
+country, we're not yet clear whether we need to book reserve down into that country so we can
+hold it. It's like a holding pattern really. So part of the Group Re reserve is specific whilst this stuff
+runs off over time.
+
+Q - Sami Taipalus
+
+{BIO 17452234 <GO>}
+
+All right. Thank you.
+
+A - Steve Wilson
+
+{BIO 19265275 <GO>}
+
+Do we have one more question? I think we have another question.
+
+Operator
+The next question is from Michael Huttner, JPMorgan. There are no further questions. I will hand
+over to Mr. Quinn.
+
+A - George Quinn
+
+{BIO 15159240 <GO>}
+
+
+
+FINAL
+
+Thank you very much. I'm sorry that we weren't able to take as many questions as we had hoped
+today. As Steve already mentioned, we're more than happy to spend time on a one-on-one basis
+if you've gone through the material and you have more detailed questions, or if you've modeled
+figures and you're looking for help from us to try and understand them. We're more than happy to
+spend more time on that topic.
+But thank you again for joining the call today. We appreciate all the questions today. And in
+particular, if you have feedback on the material that we're released, please let us know so that we
+can improve it for the future. Thank you.
+
+A - Steve Wilson
+
+{BIO 19265275 <GO>}
+
+Thank you.
+
+Operator
+
+Bloomberg Transcript
+
+Ladies and gentlemen, this concludes today's Q&A session. Thank you for participating and I wish
+you a pleasant rest of the day. Goodbye.
+
+This transcript may not be 100 percent accurate and may contain misspellings and other
+inaccuracies. This transcript is provided "as is", without express or implied warranties of any kind.
+Bloomberg retains all rights to this transcript and provides it solely for your personal, noncommercial use. Bloomberg, its suppliers and third-party agents shall have no liability for errors
+in this transcript or for lost profits, losses, or direct, indirect, incidental, consequential, special or
+punitive damages in connection with the furnishing, performance or use of such transcript.
+Neither the information nor any opinion expressed in this transcript constitutes a solicitation of
+the purchase or sale of securities or commodities. Any opinion expressed in the transcript does
+not necessarily reflect the views of Bloomberg LP. © COPYRIGHT 2022, BLOOMBERG LP. All rights
+reserved. Any reproduction, redistribution or retransmission is expressly prohibited.
+
+

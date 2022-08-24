@@ -1,0 +1,1239 @@
+Company N ame: RenaissanceRe H oldings L td
+Company Ticker: RN R US Equity
+Date: 2020-10-28
+
+Q3 2020 Earnings Call
+Company Participants
+FINAL
+
+Bob Qutub, Executive Vice President and Chief Financial Officer
+Keith McCue , Senior Vice President, Finance and Investor Relations
+Kevin O'Donnell, President and Chief Executive Officer
+
+Other Participants
+Brian Meredith, Analyst
+Elyse Greenspan, Analyst
+Jimmy Bhullar, Analyst
+Josh Shanker, Analyst
+Meyer Shields , Analyst
+Phil Stefano, Analyst
+Ryan Tunis , Analyst
+Yaron Kinar, Analyst
+
+Bloomberg Transcript
+
+Presentation
+Operator
+Ladies and gentlemen, thank you for standing by and welcome to the RenaissanceRe
+Third Quarter 2020 Financial Results Conference Call. At this time, all participants are in a
+listen-only mode. After the speakers' presentation, there will be a question-and-answer
+session (Operator Instructions). Please be advised that today's conference is being
+recorded (Operator Instructions).
+I would now like to hand the conference over to your speaker today, Keith McCue, Senior
+Vice President, Finance and Investor Relations. Please go ahead, Mr. McCue.
+
+Keith McCue
+
+{BIO 20595590 <GO>}
+
+Good morning. Thank you for joining our third quarter financial results conference call.
+Yesterday, after the market closed, we issued our quarterly release. If you didn't receive a
+copy, please call me at 441-239-4830, and we'll make sure to provide you with one.
+There will be an audio replay of the call available from about 2:00 PM Eastern Time today
+through midnight on November 28th. The replay can be accessed by dialing 855-8592056 US toll-free or 1-404-537-3406 internationally. The passcode you will need for both
+numbers is 2968847.
+
+Page 1 of 21
+
+
+
+Company N ame: RenaissanceRe H oldings L td
+Company Ticker: RN R US Equity
+Date: 2020-10-28
+
+FINAL
+
+Today's call is also available through the Investor Information section of www.renre.com,
+and will be archived on RenaissanceRe's website through midnight on November 28,
+2020.
+Before we begin, I'm obliged to caution that today's discussion may contain forwardlooking statements, and actual results may differ materially from those discussed.
+Additional information regarding the factors shaping these outcomes can be found in
+RenaissanceRe's SEC filings to which we direct you.
+With us to discuss today's results are Kevin O'Donnell, President and Chief Executive
+Officer and Bob Qutub, Executive Vice President and Chief Financial Officer.
+I'd now like to turn the call over to Kevin. Kevin?
+
+Kevin O'Donnell
+
+Bloomberg Transcript
+
+Thanks, Keith. Good morning everyone, and thank you for joining today's call. Once again,
+we find ourselves at the end of a very active third quarter, which saw numerous name
+storms making landfall in the US, record-breaking wildfires across the West Coast and
+multiple typhoons in Asia. We extend our sympathies to all those impacted by these
+catastrophes. An important part of our purpose is to support rebuilding and recovery
+efforts after disasters strike, which we do by providing solutions and protection, sharing
+our expertise and paying valid claims promptly. So, while our results for the third quarter
+reflect an elevated level of activity, these are risks that we fully understand and are paid
+to take, and I am proud of the role we play helping people when they need it most.
+The Q3 2020 large loss events were driven in particular by Hurricanes Laura and Sally in
+the Gulf of Mexico and the wildfires in California, Oregon and Washington. The fourth
+quarter has also been active so far with Hurricane Delta making landfall as a Category 2 in
+nearly the same location as Hurricane Laura and continued wildfire activity.
+Last year, during our third quarter call, I discussed our belief that climate change
+contributes to making extreme events more frequent and more severe. This year, it is
+already clear that we are experiencing an especially active season for both wildfire and
+wind. On the West Coast, California wildfires have already consumed more than 4 million
+acres in 2020, which is more than double either 2017 or 2018, and has resulted in over 90
+million metric tons of carbon dioxide being released into the atmosphere. For
+perspective, this is 1.5 times more carbon dioxide than is released in powering the entire
+state for a year.
+We continue to believe that there is strong evidence that climate change is increasing
+wildfire risk in California for two primary reasons. First, California's climate is hotter and
+drier now than at any time in the past 120 years. Higher temperatures and longer dry
+seasons accelerate the dessication and depth of vegetation, creating fuel for larger, more
+intense wildfires. Second, climate change extends the length of the dry season into the
+late autumn, causing it to overlap with the Diablo and Santa Ana winds. This combination
+
+Page 2 of 21
+
+
+
+Company N ame: RenaissanceRe H oldings L td
+Company Ticker: RN R US Equity
+Date: 2020-10-28
+
+FINAL
+
+of high heat and strong winds results in the dramatic spread of damaging fires as we have
+experienced in 2017 and '18.
+Climate change is also influencing hurricane risk. Due to a globally warmed world, we
+anticipated a future, where a greater proportion of tropical cyclones reach Category 4 or
+Category 5 status. Climate change also drives sea level rise, which increases the impacts
+from storm surge. While there have always been natural cycles of variability in sea surface
+temperatures, we believe recent increases are primarily a product of climate change.
+Consequently, sea surface temperatures and associated hurricane activity will not revert
+to lower levels of prior periods, rather the heightened activity levels of the last two
+decades are likely the new normal for Atlantic hurricane.
+
+Bloomberg Transcript
+
+Vendor cat models, however, rely on the long-term historical record to estimate risk.
+Unfortunately, due to climate change, this long-term record of past experience may no
+longer be a reliable guide for what we can expect in the future. Making the problem
+worse, human behavior can interact in complex ways with climate change to amplify risk of
+loss. For example, we have seen a long-term trend to build on coast lines or in the
+wildland-urban interface, often with building codes [ph] and materials that fail to provide
+resilience in the face of natural perils.
+Recognizing the fact that climate change is increasing the risk of natural disasters is only
+the first step however. To gain a true competitive advantage, this insight must be
+accurately reflected in the cat models used to price risk. Our scientists, meteorologists
+and engineers at RenaissanceRe Risk Sciences have been studying the impact of climate
+change on natural hazards for decades. They believe that a physical model, informed by
+historical observations, but calibrated to our best understanding of how the climate has
+and will continue to change, creates the best basis for categorizing the full distribution of
+outcomes that should be a new written against. Applying these insights, RenaissanceRe
+Risk Sciences works closely with our underwriters and risk managers to build proprietary
+cat models that capture the physics and future impact of climate change.
+Our approach sets us apart from many other underwriters or ILS managers, who often
+rely on a single vendor model that fails to capture the true impact of a changed climate.
+This can result in an optimistic representation of risk and overestimation of expected
+profit and dollar returns. This has obvious implications for ILS investors. But building
+proprietary climate change informed cat models goes beyond investments in cat risk and
+benefits all of our stakeholders. Our ILS partners rely on us to accurately model the risks
+inherent to their investment. Our clients appreciate the superior customer service that we
+can provide through deeper insight into the full distribution of their risk profile, which often
+leads to increased demand for our products. And our shareholders benefit from the more
+efficient portfolios of risk we can construct as well as our enhanced sustainability.
+Contrary to some perspectives, accurately pricing for climate risk does not put us at a
+competitive disadvantage to our peers, rather an industry-leading understanding of the
+influence of climate on risk is a key component of superior risk selection, allowing us to
+shape our portfolios, but growing on the best business and shrinking on the worst.
+
+Page 3 of 21
+
+
+
+FINAL
+
+Company N ame: RenaissanceRe H oldings L td
+Company Ticker: RN R US Equity
+Date: 2020-10-28
+
+Moving on from climate change, I want to take a minute to discuss capital deployment
+opportunities. As we enter the important January 1 renewal period, I believe we will have
+one of the best opportunities in many years to profitably deploy material additional
+capital. Our focus on superior risk selection should prove increasingly valuable as the
+combination of historically low interest rates, the Q3 2020 large loss events and material
+trapped capital, put additional upward pressure on reinsurance rates. We have legacy
+positions on the best programs, first call status to capture opportunistic and off-cycle
+business, and significant capital to support growth on new and existing profitable
+opportunities.
+I'll provide more detailed update on the renewal in our segments at the end of the call.
+But first, I'll turn it over to Bob to discuss the financial performance for the quarter.
+
+Bob Qutub
+
+{BIO 15269353 <GO>}
+
+Bloomberg Transcript
+
+Thanks, Kevin, and good morning, everyone. As Kevin discussed and as you saw in our
+pre release, our third quarter results were impacted by active wind and wildfire season.
+Despite this elevated activity, we reported positive net income and remain in a very
+strong capital position going into renewals. Today, I will discuss our consolidated
+performance and then provide more detail on our three drivers of profit, underwriting
+income, fee income and investment income.
+Starting with our consolidated results, where we reported an annualized return on
+average common equity of 2.8%, benefiting from mark-to-market gains in our strategic
+investment portfolio. Annualized operating return on average common equity was
+negative 7.7%, with the loss primarily driven by the Q3 2020 large loss events. We grew
+our book value per common share by $0.86 or 0.6%, and our tangible book value per
+common share plus accumulated dividends by $1.24 or 1%. Year-to-date, we have grown
+tangible book value per common share plus change in accumulated dividends by 14.6%.
+Net income for the quarter was $48 million or $0.94 per diluted common share. We
+reported an operating loss of $132 million or $2.64 per diluted common share. This
+excludes net realized and unrealized gains on investments, the sale of RenaissanceRe
+(UK) Limited, net foreign exchange gains and expenses related to the integration of TMR.
+Included in this operating loss is $322 million of net negative impact resulting from Q3
+2020 large loss events.
+Now to clarify, net negative impact is the bottom line impact of events to us, after taking
+into account, our best estimate of net incurred losses along with related adjustments for
+earned and ceded reinstatement premiums, lost profit commissions and redeemable
+non-controlling interest.
+I will now discuss our three drivers of profit, starting with underwriting income. On a
+consolidated basis, we reported underwriting loss of $206 million for the quarter and a
+combined ratio of 121%. Our results were driven predominantly by natural catastrophe
+losses with little impact from COVID-19 losses in the quarter. Gross premiums written for
+the quarter were $1.1 billion, up $282 million or 33% from the comparable quarter of last
+
+Page 4 of 21
+
+
+
+Company N ame: RenaissanceRe H oldings L td
+Company Ticker: RN R US Equity
+Date: 2020-10-28
+
+FINAL
+
+year. Approximately 60% of this growth came from our casualty segment and 40% came
+from property. We are pleased with our growth so far this year. As I've mentioned last
+year, we anticipate that we will have many opportunities to deploy additional capital in
+2021 and beyond.
+Moving now to our property segment, where gross written premiums increased by $113
+million or 36% from the comparable quarter. This was driven by an increase in
+reinstatement premiums related to the Q3 2020 large loss events, a negative premium
+adjustment in 2019 and continued expansion of our Lloyd's delegated authority insurance
+book. The overall combined ratio for the property segment was 140%, with property
+catastrophe and other property reporting combined ratios of 159% and 113%, respectively.
+We reported a current accident year loss ratio for the property segment of 122%. And as
+we've indicated in the past, our other property class of business is exposed to
+catastrophe risks, with the Q3 2020 large loss events adding 30 percentage points to its
+loss ratio.
+
+Bloomberg Transcript
+
+Favorable development for the property segment during the quarter was 8%, with
+property and catastrophe experiencing favorable development of 11% and other property
+experiencing favorable development, up 3%. The underwriting expense ratio for property
+was 26%, which is flat to the comparable quarter. However, within the underwriting
+expense ratio, the acquisition expense ratio was up approximately 1 percentage point due
+to the unwinding of previously earned profit commissions given the large cat events of
+the quarter. This was offset by a 1 percentage point decline in the operating expense ratio
+due to improved leverage and slightly lower operating expenses.
+Now moving on to our casualty segment, where our gross premiums grew $169 million or
+31%. This growth was a combination of expansion of existing deal share and premium as
+well as new business opportunities. Overall, our casualty combined ratio was 99.9%. The
+current accident loss year ratio was 76%, which is 7 percentage points higher than the
+comparable quarter. This increase is driven by three factors, each of which contributed
+about 2 percentage points to the loss ratio. First, $10 million of IBNR related to Hurricane
+Laura in our marine and energy book; second, increased reserves from our private
+mortgage insurer book, which did not impact the combined ratio; and third, $15 million in
+ceded premium for our new Lloyd's adverse development cover.
+Now let me walk you through the last two items in more detail. Starting with our private
+mortgage insurance book, where we increased our reserves to reflect delinquency
+notifications. The primary mortgage insurers are required to report loans as delinquent at
+60 days without payment, even if the loans are in forbearance or payment holiday and
+otherwise expected to perform long term. We reserve for these delinquencies as they
+are reported to us. That said, we do not anticipate that all of the notifications will
+crystallize as paid losses. While these mortgage delinquencies increased our casualty loss
+ratio by 2 points. Due to the structure of the transaction, these losses were offset by a
+decrease in profit commissions paid to our cedents. As a result, there's no impact to the
+combined ratio.
+Now moving to the Lloyd's adverse development cover. We closed this transaction in
+August to reinsure the casualty reserves for our Lloyd's syndicate for the 2009 through
+Page 5 of 21
+
+
+
+Bloomberg Transcript
+
+FINAL
+
+Company N ame: RenaissanceRe H oldings L td
+Company Ticker: RN R US Equity
+Date: 2020-10-28
+
+2017 underwriting years. The premium cost of this cover is reflected in the current
+accident year's loss ratio for our casualty segment, contributing about 2 points. This
+transaction is an innovative example of our gross-to-net strategy in action. It provides
+capital relief to our syndicate, over time creating additional capacity to underwrite into an
+improving market. This protection is a retroactive reinsurance transaction. This means that
+we are protected economically, but given the accounting treatment, you may continue to
+see reserve volatility in the short to medium-term from an accounting standpoint. During
+the third quarter, the casualty segment also experienced favorable development of 3%,
+driven by a variety of specialty lines.
+Now moving to our second driver of profit, fee income, where total fee income for the
+third quarter was $18 million. Management fees were $30 million, up 23% from the
+comparable quarter, driven by increases in assets under management at DaVinci, Premier
+and Upsilon. This was offset by negative $12 million in performance fees due to the impact
+of catastrophe events on DaVinci and Upsilon. Year-over-year, total fees are up 8%. The
+net non-controlling interest charge attributable to DaVinci, Medici and Vermeer for the
+quarter was $19 million. This reflected an overall loss for DaVinci that was more than offset
+by income in Medici and Vermeer. The $19 million is passed on to our partner capital,
+reducing our operating earnings accordingly.
+Now turning to our third driver of profit, investment income. We reported total investment
+results for the third quarter of $308 million with realized and unrealized gains of $224
+million. These mark-to-market gains were predominantly in our fixed maturity and equity
+investment portfolio with equity gains driven by our strategic investment portfolio. We
+take a prudent and reasonably conservative approach to our investment portfolio and
+have not materially increased our allocation to high yield or equities in attempt to stretch
+for yield.
+As I discussed on our previous call, we increased our allocation to investment-grade
+corporate credit in the second quarter. In the third quarter, we made more marginal
+allocations, increasing in higher quality credit sectors such as AAA-rated collateralized loan
+obligations and commercial mortgage-backed securities. Our fixed maturity and shortterm investment income for the quarter was $70 million. And overall net investment
+income for the quarter was $84 million, of which we retained $65 million and shared the
+remainder with partner capital. Our managed investment portfolio reported yield-tomaturity of 1% and duration of 2.9 years on assets of $18.6 billion, while our retained
+investment portfolio reported yield-to-maturity of 1.3% and duration of 3.7 years on assets
+of $13 billion.
+Now before handing over to Kevin, I'd like to provide more information on our expenses
+and foreign exchange gains for the quarter. Direct expenses, which are the sum of our
+operational and corporate expenses, totaled $97 million for the quarter, which is an
+increase of $30 million from the third quarter of 2019. This increase is predominantly
+driven by the sale of RenRe UK Limited, which I'll discuss momentarily. The ratio of direct
+expense to net premiums earned was 10% an increase of more than 2 percentage points
+from the comparable period last year. This increase was driven by corporate expenses,
+which increased by $34 million or 3 percentage points on the corporate expense ratio.
+
+Page 6 of 21
+
+
+
+FINAL
+
+Company N ame: RenaissanceRe H oldings L td
+Company Ticker: RN R US Equity
+Date: 2020-10-28
+
+Included in corporate expenses were $32 million related to the loss on sale of
+RenaissanceRe (UK) Limited and associated transaction-related expenses and $5 million
+of one-off items, including expense related to senior management departures.
+RenaissanceRe (UK) Limited was acquired as part of the TMR transaction and primarily
+wrote long-tail commercial auto business. It was placed into run-up by Tokio Millennium Re
+in 2015, and our stated intent has always been to divest this entity. This allows us to focus
+on our core strategy, simplify our operations and decrease underwriting and foreign
+exchange volatility.
+As a reminder, the loss on sale of RenaissanceRe (UK) Limited and associated transaction
+costs are excluded from the operating loss in the quarter. Excluding the impact of
+RenaissanceRe (UK) Limited and the one-off items I just described, the ratio of direct
+expense to net premium earned was 6%. This is a decrease of 1 percentage point from
+the comparable period last year, demonstrating the operating leverage embedded in our
+business model. And the operational expense ratio also declined by 1% point due to the
+reduction in office travel expense related to COVID-19 restrictions.
+Finally, we reported a $17 million foreign exchange gain. Approximately half of this gain is
+an accounting adjustment for the prior quarter related to the Tokio Millennium Re
+integration. The majority of the remaining gain relates to Medici and has no impact on our
+bottom line as it's backed out through non-controlling interest.
+
+Bloomberg Transcript
+
+And with that, I'll now turn it back over to Kevin.
+
+Kevin O'Donnell
+Thanks, Bob. As usual, I will divide my comments between our property and casualty
+segments. Overall, I am very optimistic regarding opportunities across our business as we
+head into the January 1 renewal. We anticipate that there will be a supply/demand
+imbalance in certain areas of our portfolio, particularly for capital-intensive risks driven by
+continued uncertainty related to COVID-19 and further accelerated by another active year
+for natural catastrophes. RenRe is positioned to deploy additional capital and grow, given
+our market leadership and long-term relationships with brokers and customers.
+Beginning with property cat. The third quarter was very active for natural catastrophes in
+the US. So I would categorize as high-frequency and low-to-medium severity. The largest
+and most impactful events for us were Hurricanes Laura and Sally in the Gulf of Mexico,
+Hurricane (inaudible) in the Northeast and wildfires on the West Coast. Because the US
+had already experienced above-average frequency of events prior to the third quarter,
+aggregate covers also increasingly came into play. These events will add additional
+pressure to the already hardening rate environment from property cat and should lead to
+increased demand for property cat reinsurance throughout 2021. At the same time, ILS
+capital is becoming fatigued as investors contemplate a fourth consecutive year of
+elevated cat losses and additional draft [ph] collateral caused by COVID-19 BI claim
+uncertainty. While we are encouraged by the market, we must remember that we are still
+in a pandemic that is likely to result in losses across the insurance industry.
+
+Page 7 of 21
+
+
+
+FINAL
+
+Company N ame: RenaissanceRe H oldings L td
+Company Ticker: RN R US Equity
+Date: 2020-10-28
+
+In the US, so far, we have received generally favorable news regarding the court's
+interpretations of the availability of business interruption protections from the COVID-19related shutdown. It's important to recognize, however, that for the most part, these
+processes remain at an early stage. I remain concerned that the plaintiffs bar will continue
+to test new theories for recovery in multiple venues in the hopes of obtaining judgments
+more favorable to insurers. Such challenges will result in continued uncertainty regarding
+BI coverage that could extend for years. And it's irrational to believe that these processes
+will not result in material liabilities to the insurance industry. As with any time there is
+uncertainty with coverage, insurers will submit claims to protect their rights under their
+insurance policies. Ultimately, some of those claims may be presented to reinsurers. I think
+we are a long way from understanding the impact of the virus and the shutdowns. But I
+expect that we will see an increase in submitted claims, particularly as information is
+shared during the renewal process.
+
+Bloomberg Transcript
+
+Internationally, business interruption is a more fluid issue as more affirmative coverage
+was sold outside the US. Additionally, various jurisdictions are approaching the issue of
+coverage differently, so we are watching this space carefully. In the fourth quarter, we
+expect that our renewal conversations will provide us with greater clarity regarding
+potential customer claims for business interruption-related losses, and we will react
+appropriately as we assess the validity of such claims.
+Turning to other property, it was also an active quarter. This was expected. As I explained
+to you earlier this year, we have increased the other property book's catastrophe
+exposure as we believe we are being paid sufficiently for it. Consequently, other property
+experienced losses from the Q3 2020 large loss events, primarily from Hurricanes Laura
+and Sally and the Midwest to Rachel [ph]. That said, attritional losses were within our
+expectations, prior year development was favorable this quarter. And overall, I am
+satisfied with the performance of the other property book. Similar to property cat, we are
+seeing increased opportunities to profitably deploy material capital in other property.
+Rates are up, particularly in the US E&S business and the Q3 2020 large loss events will
+only accelerate the velocity and persistence of these rate increases. Of course,
+successive [ph] losses and increasing uncertainty is aggravating an already dislocated
+retro market. We are experienced and comfortable managing the level of uncertainty in
+this market, both as a buyer and seller of retrocessional coverage. Focusing on selling
+more in 2021 is yet another opportunity to profitably deploy significant amounts of capital.
+Moving now to our casualty and specialty business. As Bob explained, this segment largely
+performed within our expectations during the third quarter. We experienced great
+increases across all major risk classes, along with acquisition and profit commission ratio
+improvements, and executed on several key transactions at economics that exemplify
+both our strategic position with core clients and a continuing hardening of casualty
+markets. Our ability to increase lines on targeted deals that were oversubscribed,
+substantiates our strategy to build options with core trading partners.
+We have been closely monitoring economic impact of COVID-19-related shutdowns and
+the development of forbearance measures on our mortgage book. While the
+homeowners market has seen significant price appreciation in recent months, it comes on
+the back of a challenging unemployment picture that could put pressure on homeowners'
+Page 8 of 21
+
+
+
+Company N ame: RenaissanceRe H oldings L td
+Company Ticker: RN R US Equity
+Date: 2020-10-28
+
+FINAL
+
+ability to repay their outstanding mortgages. Despite this challenging economic backdrop,
+we believe that the portfolio we have constructed will remain resilient. The fundamentals
+of the US housing market were strong heading into the pandemic, supported by tight
+underwriting standards and banking regulations, high loan quality and growth of
+homeowner equity. And although we did not expect it to be pandemic-driven, we have
+been underwriting and constructing the portfolio in anticipation of an economic downturn
+and have actively avoided risk from lower credit borrowers for several years.
+Forbearance trends are showing improvement as well. With GCE forbearance peaking at
+around 6.4% in May, and having consistently reduced since that time. Looking forward to
+the January renewal, we expect ample opportunities to deploy significant additional
+capital in both of our segments and across our platforms. Many markets are exhibiting
+supply/demand imbalances. And overall, we are seeing strong rate momentum across all
+lines with stable or improving terms and conditions. We have focused for many years
+building strong positions on high-quality programs. As the market hardens, we believe we
+are preferentially poised to expand our share on existing programs, while being the first
+call for new opportunities, both at improved economics.
+
+Bloomberg Transcript
+
+I'm pleased to report the ventures team continues to operate effectively. And overall, our
+joint venture balance sheets continue to perform well. With the level of catastrophe
+losses in the quarter, DaVinci also experienced losses, but year-to-date remains
+profitable. Top Layer Re, Upsilon and Vermeer, all had positive quarters. And Medici, our
+cat bond fund, had one of its best performances in its history, and we expect it to
+continue to benefit from the flight to simplicity the cap on market is currently
+experiencing.
+The ILS industry will likely suffer significant amounts of trapped capital yet again in 2020
+due to the impact of COVID-19, catastrophe loss events to date and an already-active
+fourth quarter. The potential for draft collateral highlights an important difference
+between collateralized coverage and traditional reinsurance. In a collateralized deal, a
+cedent enjoys protection for as long as collateral is available. Consequently, in a year like
+2020, cedents would prefer to maintain protection against the heightened uncertainty of
+losses, while providers will want to roll their capital into new deals and new premium.
+Business interruption-related COVID-19 claims only intensify this inherent tension. The
+industry remains in the early stages of assessing the myriad of factors affecting potential
+BI losses of process that will play out over years. Given this, going into 2021, we expect
+that cedents will increasingly prefer the certainty of rated balance sheets provide over
+collateralized vehicles. If this occurs, we have the flexibility to transact with our customers
+through their preferred means of risk transfer. This is likely to result in us deploying more
+rated paper and shrinking Upsilon.
+In conclusion, we find ourselves in a very enviable position heading into the January 1
+renewal cycle. Market conditions continued to improve as the natural catastrophe activity
+of the quarter further restricts supply in an already-unbalanced market. As the industry
+grapples with the uncertainties from climate change and COVID-19, our independent view
+of risk provides us with an enduring competitive advantage. I am confident that we can
+
+Page 9 of 21
+
+
+
+Company N ame: RenaissanceRe H oldings L td
+Company Ticker: RN R US Equity
+Date: 2020-10-28
+
+profitably deploy material amounts of capital in this environment and continue creating
+long-term shareholder value in 2021 and beyond.
+Thank you. And with that, I'll turn it over for questions.
+
+FINAL
+
+Questions And Answers
+Operator
+Thank you. (Operator Instructions) Your first question this morning comes from Elyse
+Greenspan from Wells Fargo. Please go ahead.
+
+Q - Elyse Greenspan
+
+{BIO 17263315 <GO>}
+
+Hi, thanks, good morning. My first question, Kevin, on -- I was hoping to get a little bit
+more color on your specific pricing outlook for January 1 in terms of both what you would
+expect in the US, Europe as well as in the retro markets, recognizing, obviously, we're still
+a couple of months out. But do you have a sense for based off of dialog you're having
+with cedents today, how pricing to come in at 1/1?
+
+Bloomberg Transcript
+
+A - Kevin O'Donnell
+So I think your comment about it being early is right. And we are having lots of discussions
+with our clients about what their coverage needs are. Without giving specific guidance, let
+me start with actually outside of your question with the casualty markets. We are
+increasingly seeing that on the accounts that we're reviewing, casualty rates increasing at
+faster rates than what has been forecast by our cedents. So, we're seeing a lot of positive
+movement there, which has been extremely gratifying to see and within the expectations
+that we had as we head into 2021.
+With regard to property, I'll start with other property. There's been a lot of discussion that
+US E&S rates are up double digits. We are observing that, and we are continuing to see
+opportunities to deploy reinsurance capital supporting US E&S portfolios. And we feel
+optimistic that, that will continue into 2021. Property cat for traditional reinsurance, there's
+not that much price discovery yet in the market because we're early in the renewal
+process. But all the variables that we look to support, there being momentum for better
+pricing support that we're going to see better pricing in 2021 in the US and probably in
+Europe, but to a lesser degree.
+Part of the reason for that is the retro market is extremely dislocated, which has a levered
+effect on how much reinsurance capacity reinsurers like to sell. So, as the retro market
+contracts further, we expect that to add more momentum to the price gains that we
+anticipate in the property cat market.
+
+Q - Elyse Greenspan
+
+{BIO 17263315 <GO>}
+
+Okay, that's helpful. And then my second question. I appreciate the disclosure on the
+losses that you guys saw in the third quarter. But as we think about the fourth quarter with
+
+Page 10 of 21
+
+
+
+Company N ame: RenaissanceRe H oldings L td
+Company Ticker: RN R US Equity
+Date: 2020-10-28
+
+the ongoing wildfires and multiple hurricanes, how should we think about the aggregate
+limits that you guys have exposed? And how much more aggregate losses you could
+potentially see in the fourth quarter?
+
+FINAL
+
+A - Kevin O'Donnell
+Yeah. So I think that's a good question. And when you move into kind of the later part of
+the year, particularly in active year, the aggregate contracts are going to play a more
+significant role. That said, when we're looking at the wildfires, they're ongoing, it's difficult
+to assess that. Those tend to often concentrate with a few insureds. So I anticipate that
+we will have aggregate exposure if the fires continue at the rate that we're seeing now.
+And then from Hurricane Delta, which is also fourth quarter, that we expect to be at -from what we're seeing at this point to be smaller than Laura, but we're still counting and
+talking to customers about what the impact is.
+But I would expect that there will be increased aggregate participation in these losses
+simply because there's been more events earlier in the year.
+
+Q - Elyse Greenspan
+
+{BIO 17263315 <GO>}
+
+Okay, thanks. I appreciate the color.
+
+A - Kevin O'Donnell
+
+Bloomberg Transcript
+
+Some of the ags are actually exhausted as well. So I think there is aggregate exposure out
+there, but not all of it is exposed on a continued basis. It's important to point out.
+
+Q - Elyse Greenspan
+
+{BIO 17263315 <GO>}
+
+Okay, that's helpful. Thanks, Kevin.
+
+Operator
+Your next question comes from Josh Shanker from Bank of America. Please go ahead.
+
+Q - Josh Shanker
+
+{BIO 5292022 <GO>}
+
+Yeah, thank you for taking my question. You talked about casualty pricing being ahead of
+expectations at this point right now. Can you talk about RenRe's role a little bit in terms of
+how you capture that with what you write? If you write quota share business and there's a
+collar around it and there's a ceding commission around it, how does RenRe take
+advantage of that better pricing on those lines of business? And to what extent does the
+cedent have the ability to dictate your profitability?
+
+A - Kevin O'Donnell
+Yeah. So I think there, what we're seeing is, from a reinsurance perspective, from a terms
+and conditions perspective, we're seeing on the best accounts, relatively stable terms,
+which means the benefit of the underlying insurance rate enhancement is enduring to our
+benefit. And on accounts that are more challenged, we're seeing improved reinsurance
+Page 11 of 21
+
+
+
+Company N ame: RenaissanceRe H oldings L td
+Company Ticker: RN R US Equity
+Date: 2020-10-28
+
+FINAL
+
+terms through either more restrictive cover or more beneficial ceding commission to the
+reinsurer.
+So I think in a market, yeah, the reinsurers always exposed to the negotiation with the
+cedent. We have strong relationships with the cedents that we have our most important
+relationships with. And I believe that most of our growth in the early part of 2021 will come
+from our existing core relationships and likely in existing lines at equal to better terms
+than what we had in 2020. And then amplifying that is the benefit of the underlying rate
+increase.
+
+Q - Josh Shanker
+
+{BIO 5292022 <GO>}
+
+And when you look at various cedents in the casualty markets who might be interested in
+sending you business, what is your sense of the -- their reserve adequacy. Or to what
+extent is the reinsurance markets, I guess, more aware of problems, I guess, in the quality
+of primary reserves to the extent that it might be reflected right now in the market in
+general?
+
+Bloomberg Transcript
+
+A - Kevin O'Donnell
+So we have our own reserving philosophy, and we do kind of a ground-up underwriting to
+make sure that we can assess what we think the expected profitability of an account is.
+The question you're asking, I think, is one -- there's a legacy piece on business we may
+not be on and have less interest in understanding. And then there's the current
+underwriting year where we're participating, where we have a very deep understanding.
+There is often a difference between our reserving loss ratio and our clients' reserving loss
+ratio. But I think that's not a problem for the way we think about the business. And over
+time, they'll probably reconcile into a much more closely aligned representation of the
+risk. So, I think from a current underwriting year basis, we do look at it for older reserves
+and legacy portfolios, we're less interested because we're not in that business.
+
+Q - Josh Shanker
+
+{BIO 5292022 <GO>}
+
+Well, I mean, you are through TMR, although you obviously have the adverse cover, so
+you're not as concerned about it, I suppose.
+
+A - Kevin O'Donnell
+Yeah. And on those, we're developing them on our best estimate of the portfolios. And
+as they age, they're becoming much more stable. But you're absolutely right, all of that
+legacy business is protected.
+
+Q - Josh Shanker
+
+{BIO 5292022 <GO>}
+
+Thank you.
+
+A - Kevin O'Donnell
+Yeah.
+
+Page 12 of 21
+
+
+
+Company N ame: RenaissanceRe H oldings L td
+Company Ticker: RN R US Equity
+Date: 2020-10-28
+
+Operator
+Your next question comes from Meyer Shields from KBW. Please go ahead.
+
+Q - Meyer Shields
+
+{BIO 4281064 <GO>}
+
+FINAL
+
+Thanks, good morning.
+
+A - Kevin O'Donnell
+Good morning.
+
+Q - Meyer Shields
+
+{BIO 4281064 <GO>}
+
+Kevin. you talked about more accurate pricing models, I may be phrasing that poorly. Is
+the gap between proprietary models and vendor models in terms of assessing
+catastrophes? Do you see that gap as increasing or shrinking?
+
+A - Kevin O'Donnell
+
+Bloomberg Transcript
+
+I think it's important that we think about it depending on the peril and the location when I
+think -- it's also the -- the gap is also is how is the underwriter employing it and what is the
+representation of risk. So, we rely very heavily on being highly integrated in our risk. Our
+scientists are speaking to our underwriters to make sure that we understand where there
+are differences in the model so that we can understand how the market might be pricing
+a risk different than the way we're looking at it. So, it's not a simple answer. I would say, a
+place I would point to where I think there is a large difference is with California wildfire.
+And then if you break it down, I think for years, people have recognized that warmer
+oceans will lead to more severe hurricanes. But in thinking about what that really means is
+understanding what is the rainfall contract or how deeply the attenuation functions go in at
+the point of entry of a hurricane. There's a lot of more subtle analysis that really gives the
+clarity and the deeper understanding. So, it's a more complicated conversation. I think it
+can be quite large, depending on the peril, but then even within the layers that we're
+writing, I believe it to be meaningful.
+
+Q - Meyer Shields
+
+{BIO 4281064 <GO>}
+
+Okay. That's very helpful. Second question, this is particularly early because I'm thinking
+about January 1, 2022. But should we think of the current dislocation in the ILS or the retro
+market? Does that mean that pricing will be excessive because you've got this temporary
+dislocation that will be resolved with supply and demand over time? Or are you thinking
+about this as maybe the new normal equilibrium point?
+
+A - Kevin O'Donnell
+So firstly, we're a believer in ILS. We wouldn't have built all the frameworks and the
+resilience in our platform of the different forms of capital that we have if we didn't. I think
+it is challenged right now. It'd be difficult for me to know what 2022 looks like because
+
+Page 13 of 21
+
+
+
+Company N ame: RenaissanceRe H oldings L td
+Company Ticker: RN R US Equity
+Date: 2020-10-28
+
+FINAL
+
+there could be a new crop of investors who become interested that don't have the legacy
+issues that the existing crop of investors has.
+When I think about 2021, though, I do think that we have persistence in the rate
+enhancements that I mentioned. I don't think this is a 1/1 rate change and then markets
+begin to return to a softening phase. I think we're going to see strong rates through 2021.
+And when we think about the deployment of capital that I'm mentioning, I'm thinking
+about it much more long term of 2021 to deploy, 2022 to harvest some of the
+deployment that we've had. So I'm optimistic long term about the market. Whether the
+retro market grows or shrinks for a company like us, simply means we're a buyer or a
+seller. And we're going to use it solely to enhance returns and to solve our customers'
+problems.
+
+Q - Meyer Shields
+
+{BIO 4281064 <GO>}
+
+Okay. And then one final question, if I can squeeze this in. When you look at 2020, and
+let's exclude COVID because hopefully, these pandemics are more rare. Is this an
+average loss year or an above-average loss year for the industry?
+
+Bloomberg Transcript
+
+A - Kevin O'Donnell
+It's a good question. I think probably better to answer that at the end of the year with the
+storms still hitting, and the wildfires. I will point out that if you look at the ACE Index and
+think about the frequency of moderate storms that we've experienced this way, and then
+you compare it to 2004. The ACE Index would indicate that there was a lot more energy
+created from the storms of 2004. So, I think of that as being an important -- more
+important year to understand climate change and then potentially the high frequency to
+medium severity that we had this year. So, I think we can look at it from an insured loss
+from a formation. Formation is certainly high, but from an energy creation, from all the
+storm activity, it's probably more normal.
+
+Q - Meyer Shields
+
+{BIO 4281064 <GO>}
+
+Okay, perfect. Thank you very much.
+
+A - Kevin O'Donnell
+Sure.
+
+Operator
+Your next question comes from Yaron Kinar from Goldman Sachs. Please go ahead.
+
+Q - Yaron Kinar
+
+{BIO 17146197 <GO>}
+
+Hi, good morning. Thanks for taking my questions. My first question is related to top line
+growth. I think year-to-date, you're growing at about, what, 30-ish percent gross
+premiums written. I think that earlier in the year, you had talked about really seeing more
+of an opportunity into next year. So, I guess my question is, have you just seen more
+
+Page 14 of 21
+
+
+
+Company N ame: RenaissanceRe H oldings L td
+Company Ticker: RN R US Equity
+Date: 2020-10-28
+
+opportunities this year than you initially expected? Or are your comments from earlier in
+the year is still true in the sense that you expect further acceleration going forward?
+
+FINAL
+
+A - Kevin O'Donnell
+We are seeing more opportunities, I think. I'm not sure exactly how to answer that
+question other than you were [ph] a first call market. We are growing in lines of business
+that we have previously targeted, and we are benefiting -- an awful lot of that growth is
+benefiting from rate change. So I think we can continue that growth in 2021. I haven't
+actually put a judgment as to whether I think this year's growth is greater than expected.
+But I'm pleased to see it because I see the quality of the portfolio coming in, and I think
+it's long-term accretive.
+
+Q - Yaron Kinar
+
+{BIO 17146197 <GO>}
+
+Okay. And then my second question, the California wildfire exposures. You talked about
+the impact of climate change, and I think it's a question that came up a couple of years
+ago as well with the wildfires we saw back in '17 and '18. Is that still a risk that is as it's
+currently priced attractive? Or is that a risk that you'd look to shrink here?
+
+A - Kevin O'Donnell
+
+Bloomberg Transcript
+
+So we did a lot of work. And we have published a paper after the 2017 events discussing
+how we thought that the risk could be better represented through the models and
+changed our models represent that updated view of risk, which is pretty common for the
+way we think about amending our models over time. I believe it's insurable. I believe it's a
+risk that exists and needs to be owned by someone.
+And I think insurance has a role to play in helping to mitigate the impacts on -- particularly
+on homeowners with regard to the fires. So, I believe insurance has a role to play. I believe
+there are appropriate retentions for insurers to participate in that risk. And from a
+reinsurance perspective, we want to provide capacity to allow that for that protection to
+be available.
+
+Q - Yaron Kinar
+
+{BIO 17146197 <GO>}
+
+Okay. I appreciate the answers.
+
+A - Kevin O'Donnell
+Sure.
+
+Operator
+Your next question comes from Ryan Tunis from Autonomous Research. Please go ahead.
+
+Q - Ryan Tunis
+
+{BIO 16502263 <GO>}
+
+Hey, thanks, good morning. So I had an observation, Kevin and then just a question, I
+guess kind of more from a stock analyst standpoint, but when I think about Ren, there
+Page 15 of 21
+
+
+
+Company N ame: RenaissanceRe H oldings L td
+Company Ticker: RN R US Equity
+Date: 2020-10-28
+
+FINAL
+
+might not be a more volatile company out there from an earnings standpoint, the way
+that you report and everything. And for the stock -- clearly, you feel a lot better about the
+prospects for 1/1 than you did at the beginning of the year. And as an observation,
+consensus estimates are actually lower for 2021 today than they were back in January.
+And I think some of that probably has to do with just the difficulty of modeling this
+Company. But the point I would make is there's kind of two ways that you -- I think the
+stock can get value, it's you can either grow book value per share, which is, like I said, it's
+extremely volatile. You have an elevated cat year next year, that could be tough. Or we
+could have a better understanding of actually what is really -- how is the core earnings
+power on a normal basis of this Company moving forward. So I mean that's just the
+observation.
+I guess my question, Kevin, is with your financial supplement and the materials that you
+give us, if we sat down for half an hour, what would be the main metrics that you would
+point me to that are actually showing, in your mind, in your view that, yeah, look like our
+earnings power here is really increasing. Like as we get into 2021, what would be the
+things that you would point me to?
+
+Bloomberg Transcript
+
+A - Kevin O'Donnell
+I think what historically we've pointed to. So, I appreciate your observations, thank you.
+What we've historically pointed to is growth in tangible book value per share as being
+what we think is the most appropriate measure for growth -- for creating value. What
+you're asking for is what do we provide that provides a forecast, and we don't provide
+earnings guidance. So I would say that when I think about how we construct the portfolios,
+we're thinking about all the things that you're raising, which is what is the volatility. What's
+the return? Are we providing adequate return for the volatility that we're assuming. And
+then we try to provide transparency on a very complicated set of decisions that we make
+to build our portfolios, but we don't provide the guidance that you're asking with regard
+to the financial supplement. But I would say the tangible book value or book value per
+share is the primary metric that we look at for success.
+
+Q - Ryan Tunis
+
+{BIO 16502263 <GO>}
+
+I understood. I mean I hear you. I'm just saying in that context, in some ways, this is clearly
+one of the best stories in P&C, but it's in a lot of ways, just dependent on whether or not
+we have an elevated or not elevated cat year in 2021, but thank you.
+
+A - Kevin O'Donnell
+Yeah.
+
+Operator
+Your next question comes from Brian Meredith from UBS. Please go ahead.
+
+Q - Brian Meredith
+
+{BIO 3108204 <GO>}
+
+Page 16 of 21
+
+
+
+Company N ame: RenaissanceRe H oldings L td
+Company Ticker: RN R US Equity
+Date: 2020-10-28
+
+FINAL
+
+Yeah. Thanks Kevin. Just kind of an add-on to a little bit to that question. So if I take a look
+at -- and I know you've talked about this in the past, maybe some updates. If I take a look
+at what your return on, call it, tangible equity has been over the last five years, and
+granted were even a lower interest rate environment right now. It's kind of been single
+digits or mid-single digits. I'm just curious, given your business profile, given your business,
+what do you think an appropriate kind of return on equity for your business should be?
+And do you think the current market is -- you can achieve that?
+
+A - Kevin O'Donnell
+Yeah I think when you think about the types of risks that we take and how we think about
+our portfolios, we need to think about much longer-term periods for us to begin to assess
+as to what the return of our portfolio is really providing. And the last several years has had
+elevated cat activity, which has certainly had an impact on us.
+With regard to -- the way we think about it is we're constantly measuring on a portfolioby-portfolio basis, how much capital we're using, what form of capital we're using? And
+are we getting a return on that capital on an expected basis above the cost of that
+capital? So I feel comfortable that we've achieved that, although the results have been
+challenging. And I feel increasingly comfortable that, that is achievable with where I'm
+observing trend on the casualty compared to re, and for what we're seeing from an
+increased profitability within the property cat book that we're underwriting.
+
+Bloomberg Transcript
+
+Q - Brian Meredith
+
+{BIO 3108204 <GO>}
+
+Okay thanks. And then curious, one other quick question. What are your thoughts kind of
+as we head into 2021 on reinsurance demand from a buyer's perspective? I mean,
+thinking that, one, we've had a lot of frequency of events, do you think that one increases
+demand? Or on the other hand, if buyers on the primary side are achieving some pretty
+good price increases themselves, is that going to cause them to maybe scale back a little
+bit and retain more business themselves?
+
+A - Kevin O'Donnell
+Yeah, I think our -- it can be different by line of business. But I think within the property cat
+area, I think that we are anticipating a small increase in demand. We also believe that
+we're the preferred provider of supply. So we feel like we're in an advantaged position
+against that increase in demand. Casualty is more of a mixed bag as to how much
+increase we're going to see by line of business. But we should experience -- because of
+the relationships and the position that we have an ability for us to grow even at relatively
+flat demand in some casualty classes. And as I mentioned earlier in the call, I believe that
+a lot of the benefit of the insurance rate enhancement will -- in order to our benefit
+because terms are relatively flat to improving.
+
+Q - Brian Meredith
+
+{BIO 3108204 <GO>}
+
+That makes sense. Thank you.
+
+A - Kevin O'Donnell
+Page 17 of 21
+
+
+
+Company N ame: RenaissanceRe H oldings L td
+Company Ticker: RN R US Equity
+Date: 2020-10-28
+
+Yeah, thanks.
+
+Operator
+
+FINAL
+
+Your next question comes from Phil Stefano from Deutsche Bank. Please go ahead.
+
+Q - Phil Stef ano
+
+{BIO 18965951 <GO>}
+
+Yeah, thanks. Just wanted to dig in on the mortgage rebook a little bit more. I guess -and Kevin, you had talked about the improving default environment, home price
+appreciation. To me, these are metrics that would have augured for an improvement in
+the loss ratio, not a deterioration. So, I was hoping you could just give us a little color on
+what you saw in that book and whether this is a reaction to maybe a second wave of
+unemployment coming? Or how you thought about taking losses up there?
+
+A - Bob Qutub
+
+{BIO 15269353 <GO>}
+
+Bloomberg Transcript
+
+Well -- this is Bob. I'll take the question here. What I tried to outline in the prepared
+comments is we have seen an increase in reported delinquencies that have come through
+from the cedents. And that has gone up. But they've been -- they come in just because
+they're delayed by 60 days, and that could be on friendly terms, forbearance or other
+reasons. But we really believe that not all of these will be crystallized. But having said that,
+the way the contract works with us, we have the profit commissions that offset it. It
+neutralizes it. But we're not seeing dramatically an increase in it. We're seeing the
+reported coming in, which is what did elevate our current accident year loss ratio on the
+casualty side.
+
+Q - Phil Stef ano
+
+{BIO 18965951 <GO>}
+
+Okay, got it. That's it from me. Thanks.
+
+A - Kevin O'Donnell
+Yeah.
+
+Operator
+Your next question comes from at Elyse Greenspan from Wells Fargo. Please go ahead.
+
+Q - Elyse Greenspan
+
+{BIO 17263315 <GO>}
+
+All right, thanks for fitting me back in. I just had two follow ups. The first kind of, Kevin, if
+we combine all your comments together, obviously, a little bit in response to my question
+earlier on this, the 1/1 pricing environment. But where you sit today right about almost five
+months after you guys raised that equity capital in June? I would assume that you just feel
+putting it all together, incrementally more positive about your ability to put that capital to
+use that a pretty strong return in 2021. Is -- do you think there's anything incorrect with that
+statement?
+
+Page 18 of 21
+
+
+
+Company N ame: RenaissanceRe H oldings L td
+Company Ticker: RN R US Equity
+Date: 2020-10-28
+
+FINAL
+
+A - Kevin O'Donnell
+No. I think if you go back to the capital raise in June, we kind of gave two primary areas in
+which we knew we had ability to deploy. The first is just across our platform, we can
+restructure our risks. So, that is frankly unchanged because it's something that we already
+control. Everything else with regard to our assessment of where the market is, in each
+point of our portfolio assessment, we're seeing affirming to better news. So, although we
+demonstrated good confidence in our ability to deploy the money in June, we have even
+stronger confidence in our ability to deploy as we go into -- as 2021 becomes closer.
+
+Q - Elyse Greenspan
+
+{BIO 17263315 <GO>}
+
+Okay. Great. And then my second question. You guys sound pretty positive on the retro
+market. I think you also made the point right that you might see less of the ILS capacity
+and could potentially write less for Upsilon and more on your own rated balance sheet.
+Can you give us a sense of like how much retro was on your books this year weighted
+versus for Upsilon? Or just a way that we could think about, I guess, the retro that you
+wrote in 2020 and that incremental opportunity that you could see in 2021.
+
+A - Kevin O'Donnell
+Let me make sure I understood your question. Are you saying within Upsilon, how much of
+the retro can we renew or -- across our platform?
+
+Bloomberg Transcript
+
+Q - Elyse Greenspan
+
+{BIO 17263315 <GO>}
+
+Yeah, well, I was trying to get a sense of how much you wrote for Upsilon as well as some
+that I assume some you kept on Ren's [ph] on balance sheet away from Upsilon in 2020
+in terms of refills. So I was trying to get a sense, I guess, of what's in the growth right for
+both Upsilon and RenRe? And then how we could think about like the growth opportunity
+there in 2021?
+
+A - Kevin O'Donnell
+Yeah, I when I think about Upsilon -- Upsilon wrote a broader portfolio than simply retro. It
+wrote some structure deals, some aggregates and some retro. The retro that we put into
+Upsilon was retro that on a rated balance sheet is capital consumptive because of the
+structure. So, it fits well within a collateralized structure. I anticipate that much of that retro
+is going to be restructured. I think sometimes people focus on price in the retro market.
+And there's a certain tolerance for price for retro, and then it begins to be restructured.
+My hope is that much of the Upsilon portfolio can be renewed in Upsilon with the capital
+that we bring in for 2021. But the stuff that will not fit into Upsilon will likely be restructured
+in a way that is more suitable for rated balance sheet. And we have the flexibility across
+our platforms to provide solutions for every deal within Upsilon. It just depends on which
+balance sheet we choose to put it in or which vehicle we choose to put it in.
+
+Q - Elyse Greenspan
+
+{BIO 17263315 <GO>}
+
+Okay, that's helpful. Thanks, Kevin.
+
+Page 19 of 21
+
+
+
+Company N ame: RenaissanceRe H oldings L td
+Company Ticker: RN R US Equity
+Date: 2020-10-28
+
+A - Kevin O'Donnell
+Yeah. Thank you.
+
+Operator
+
+FINAL
+
+Your next question comes from Jimmy Bhullar from JPMorgan. Please go ahead.
+
+Q - Jimmy Bhullar
+
+{BIO 4278955 <GO>}
+
+Hi, good morning. So I just had a question along the lines of some of the earlier questions
+and your response that the returns have been poor because of -- in recent years, just
+because of elevated cats. Given your optimism on pricing, how do you think about your
+return potential the next few years if sort of the cat levels over the last few years are
+more of a trend as opposed to an aberration. Do you feel that pricing is adequate? Or do
+you still expect to generate lower returns even at the current levels if cats are close to
+where they've been the last few years?
+
+A - Kevin O'Donnell
+So let me divide your comments first, between property and casualty, and then I'll talk
+more generally.
+
+Q - Jimmy Bhullar
+
+{BIO 4278955 <GO>}
+
+Bloomberg Transcript
+
+Sure.
+
+A - Kevin O'Donnell
+So within property, what we work hard to do is to make sure that we find the right risk and
+put it to the right capital. The net result is that we built portfolios that are better than the
+market. So, we think that the portfolios that we built on the property side certainly met our
+return objectives on an expected basis. Within casualty, what we had talked about before
+as we think about cash, I'll see over a much longer time frame. So on a rolling 10-year
+basis, are we making the needed return on the casualty business that we're writing?
+We didn't believe that we were at that level of margin over a rolling 10-year period. But
+our observations are that we are seeing rate above trends. So overall, we are moving to a
+much more adequate in-force portfolio. And my belief is that we still have a little bit more
+ways to go, which adds to my confidence that casualty rates will continue. But I feel very,
+very positive that the way we're thinking about it over 10-year period, we'll produce the
+right level of return for the portfolio. So, when we bring them both together, obviously, we
+would achieve a capital efficiency. So, the combined portfolio then enhances the
+adequacy of both portfolios.
+
+Q - Jimmy Bhullar
+
+{BIO 4278955 <GO>}
+
+Okay. And then just on COVID. Obviously, it's going to take a while to determine ultimate
+losses. But what's your sort of level of confidence in your reserves based on the
+information you have thus far? Like are your reserves sort of contemplating whatever
+
+Page 20 of 21
+
+
+
+Company N ame: RenaissanceRe H oldings L td
+Company Ticker: RN R US Equity
+Date: 2020-10-28
+
+you've gotten from the -- from your clients? Or is there a little bit of a cushion for sort of
+adverse court outcomes or otherwise?
+
+FINAL
+
+A - Kevin O'Donnell
+I think we, as always, put our best estimate on our reserves. COVID is a dynamic situation.
+It's an ongoing event. It's an ongoing pandemic event, and it's something that we're
+going to continue to need to monitor. But we feel as if we've got our best estimate on
+the reserves we're currently holding.
+
+Q - Jimmy Bhullar
+
+{BIO 4278955 <GO>}
+
+Thanks.
+
+A - Kevin O'Donnell
+Thank you.
+
+Operator
+This concludes the Q&A portion of our call. And I would now like to turn it back to Kevin
+O'Donnell for final comments.
+
+A - Kevin O'Donnell
+
+Bloomberg Transcript
+
+Thank you everybody for participating on today's call, and we look forward to talking to
+you after the 1/1 renewals. Thanks, again. Bye.
+
+Operator
+Ladies and gentlemen, this does conclude today's conference call. Thank you once again
+for participating. You may now disconnect.
+
+This transcript may not be 100 percent accurate and may contain misspellings and other
+inaccuracies. This transcript is provided "as is", without express or implied warranties of
+any kind. Bloomberg retains all rights to this transcript and provides it solely for your
+personal, non-commercial use. Bloomberg, its suppliers and third-party agents shall
+have no liability for errors in this transcript or for lost profits, losses, or direct, indirect,
+incidental, consequential, special or punitive damages in connection with the
+furnishing, performance or use of such transcript. Neither the information nor any
+opinion expressed in this transcript constitutes a solicitation of the purchase or sale of
+securities or commodities. Any opinion expressed in the transcript does not necessarily
+reflect the views of Bloomberg LP. © COPYRIGHT 2022, BLOOMBERG LP. All rights
+reserved. Any reproduction, redistribution or retransmission is expressly prohibited.
+
+Page 21 of 21
+
+

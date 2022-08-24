@@ -1,0 +1,829 @@
+Q1 2014 Earnings Call
+Company Participants
+FINAL
+
+Patrick Gerard Flynn, Chief Financial Officer
+Ralph A. J. G. Hamers , Chairman-Executive Board & Chief Executive Officer
+Wilfred Frederik Nagel, Chief Risk Officer
+
+Other Participants
+Anke Reingen, Analyst
+David Lock, Analyst
+Farquhar C. Murray, Analyst
+Matthias de Wit, Analyst
+Omar Fall, Analyst
+
+MANAGEMENT DISCUSSION SECTION
+
+Bloomberg Transcript
+
+Operator
+Ladies and gentlemen, thank you for holding. This is Yvonne welcoming you to ING's Q1 2014
+Conference Call. Before handing this conference over to Ralph Hamers, Chief Executive Officer of
+ING Group, let me first say that today's comments may include forward-looking statements such as
+statements regarding future developments in our businesses, expectations for our future financial
+performance, and any statement not involving a historical fact. Actual results may differ materially
+from those projected in any forward-looking statement. A discussion of factors that may cause
+actual results to differ from those in any forward-looking statement is contained in our public filings,
+including our most recent annual report on Form 20-F filed with the United States Securities and
+Exchange Commission and our earnings press release as posted on our website today.
+Furthermore, nothing in today's comments constitutes an offer to sell or a solicitation of an offer to
+buy any securities.
+Good morning, Ralph. Over to you.
+
+Ralph A. J. G. Hamers
+
+{BIO 3253692 <GO>}
+
+Thanks very much. Good morning, all. Welcome to ING's first quarter 2014 conference call. As you
+are used to, I will walk you through today's presentation. Patrick Flynn and Wilfred Nagel are here
+from the Executive Board; and Delfin Rueda and Doug Caldwell, CFO and CRO of NN Group, are
+here with us as well to answer specific questions on NN Group as well.
+Let's go through the presentation then. I think it's about month ago, March 31, that we hosted our
+Investor Day on the bank side where we basically laid out our bank strategy as well as the financial
+ambitions 2015. The foundation for improving the client experience and achieving our target is
+clearly there. We have to deliver. I've traveled around both talking to you and investors as well as
+internally and specifically talking to many of the people in the organization in the past few weeks.
+I'm confident that we will be delivering. In the meantime, we've made a lot of progress on the
+group restructuring to become a pure bank, and furthermore the underlying businesses, both on
+the insurance and the bank side, have a good set of quarter results. So in summary, ING Group
+posted an underlying net profit of €988 million driven by good results both on bank side as well as
+the insurance side.
+
+
+
+Bloomberg Transcript
+
+FINAL
+
+Turning to slide 3, the update on the group restructuring. Many things that you have known already
+but we've made a lot of progress in the first quarter, and that's important in getting into the end
+phase of restructuring. We made the penultimate payment to the Dutch State, Voya has been
+deconsolidated, and NN Group is now fully on track in its preparations for the intended IPO 2014.
+NN Group has finalized its capital structure. As of today we secured an investment of €1.275 billion
+in NN Group by three cornerstone investors which can clearly be seen as a confidence in the
+prospects of NN Group as an independent company going forward.
+So let me go through some of these developments in more detail. Turning to page 4. Last week
+we announced this transaction with three investors that will invest ahead of the IPO. We will issue
+€1.125 billion of subordinated notes to these investors and these will be mandatorily exchangeable
+into NN Group shares in three tranches through 2016. We will also sell shares in NN Group to each
+investor at the intended IPO totaling another amount of €150 million. Now today we announced
+that ING Group will inject a further €850 million of capital into NN Group prior to its IPO. And we
+have agreed with the Dutch Central Bank that we can proceed with the base case IPO, although
+formal approval will only be given upon pricing. Now NN Group will use these proceeds for
+reducing its leverage by €200 million, increasing the cash position by another €200 million, and
+improving the NN Life solvency by another €450 million. But I will come back to that further on in
+the presentation.
+If we then go to the group situation and the double leverage, so what's the impact of all these
+announcements on the double leverage. A starting point, the fourth quarter 2013, the double
+leverage was at €4.9 billion. The sale of the 14% in Voya decreased that by another €0.9 billion. And
+the sale of 11% in SulAmérica brought it down by another €200 million, decreasing with that the
+double leverage to €3.8 billion at the end of the first quarter. Now following the capital injection of
+€850 million in NN Group, the core debt would increase but this would be more than offset by the
+investors coming in. Then the remaining piece of leverage is then comfortably covered by the
+value of Voya, 43%; the value of SulAmérica that we still hold; and the remaining piece of NN
+Group. As a consequence of all of these, basically we expect that the intended IPO will comprise
+only of secondary NN Group shares being sold by ING Group.
+If we then look at the capital position of NN Group, the IGD ratio of NN Group decreased slightly in
+the first quarter but will be positively impacted by the successful issue of the external hybrid, the €1
+billion that we did in April, and the capital injection of €850 million. So you basically see the 9%
+increase of the hybrid issue; that is the net improvement of €400 million versus the repayment of
+senior debt by the hybrid. And then you see the 19% improvement which represents the €850
+million, and with that the IGD comes to 277%. Now as I said, €450 million out of the €850 will be
+used for NN Life. Now in the first quarter we have already seen the NN Life solvency ratio
+improving from 223% to 235%, but that will then increase further ahead of the IPO because of the
+€450 million coming in, representing a 16% improvement and therefore the pro forma solvency I
+ratio of NN Life will then be at 251%.
+If we then take a look at the leverage side for NN Group and the cash capital, NN Group issued in
+April this €1 billion subordinated bond. €600 million were used to repay subordinated debt of the
+group and €400 million were used to repay senior debt to NN Group (sic) [ING Group] (00:08:31).
+So the first quarter pro forma gross debt will decrease ahead of the IPO also because of the use
+of €200 million of the €850 million in order to decrease the leverage to €3.7 billion. On the cash
+capital side, debt at the end of the first quarter, that was standing at €600 million but that will
+improve by the process of the sale of bank between Life and IIM Taiwan. But also by using another
+€200 million as part of the capital injection from ING group to be kept as cash, and therefore the
+cash capital will increase in total from €0.6 billion to €0.9 billion pro forma end of first quarter.
+Now then let's take a look at the capital situation on the bank side. I'm now on slide 8. The fully
+loaded CET1 ratio remains strong at 10.1% but the waterfall is as shown on the phased core Tier 1
+effect. So here you see that CRD IV phased-in effect, the phased-in remains strong at 10% and that
+is despite the implementation of CRD IV, it's despite the dividend upstream for the group in order
+to repay the state, it's despite the impact of the deal on the closed defined benefit pension
+
+
+
+FINAL
+
+agreement, and it is offset by solid profitability and risk-weighted asset reductions. And therefore
+you see it going down from 11.7% to 10% on a phased-in basis, but on a fully-loaded basis it is 10.1%.
+Last week the Dutch Central Bank announced that it intends to impose an additional capital buffer,
+and this systemic risk buffer will be 3% of risk-weighted assets for ING Bank, and that results in a
+minimum core Tier 1 requirement of 10% by the end of 2019. On the Investor Day we already
+indicated that it's our ambition to be beyond 10%, actually growing to 11% over time. And at this
+moment we're already meeting this in new increased requirements because the fully loaded core
+Tier 1 is already at 10.1%. On the leverage side, you see the leverage ratio at 3.7%, and that's also
+brought in line with our ambition. But also on this one, we are waiting for final regulations.
+
+Bloomberg Transcript
+
+If we then turn to page 10, we see that the strength of the bank on the savings side continues with
+net funds entrusted growing by another €8.3 billion in the first quarter, and that leads to further
+improvement of the funding profile of the bank. But we're also happy to see that on the loan
+growth side we see net loan growth of €5.1 billion in the first quarter which is a nice improvement
+but too soon to say that this is a sustainable development. I'll come back with more details on the
+development on the loan side later on in the presentation with a little bit more details.
+So after all of this and the impact on capital structures, let's take a look at the first quarter results.
+Turning to page 12 now. So for the first quarter of 2014 ING Group posted an underlying net result
+of €988 million. The net result however was minus €1.9 billion and that was due to the negative
+impact of the deconsolidation of Voya that we have announced earlier already of almost €2 billion.
+The pension agreement also earlier announced, total effect of €1.1 billion. The levy, the SNS levy as
+we call it, €100 million around it, and all of this is a bit offset by the deconsolidation of Vysya which
+has a positive effect of €200 million. And the Vysya deconsolidation we can go into later, but this is
+basically a step to further align with preparing (00:13:42) regulations. And we have brought the
+number of directors down in line with the ownership percentage, and as consequence of that we
+needed to deconsolidate.
+On the bank side, then turning page 13, we see an underlying result before tax of €1.176 billion in
+the first quarter. That's roughly flat from the first quarter 2013. It's up 30% from the fourth quarter
+of 2013. Basically if you exclude the swing on the CVA/DVA side of €114 million versus the first
+quarter last year, the gross result was up as we had higher results in Retail Banking but a little bit
+lower results in Commercial Banking mainly due in financial because of financial markets, so
+partially the CVA/DVA impact but also some lower fixed income business volumes. Risk costs on
+the bank side were down from both the first quarter of 2013 and the fourth quarter as we see that
+economic conditions are improving across.
+Then the net interest margin, the net interest result increased versus both the first quarter of 2013
+and the fourth quarter of 2013; the latter certainly driven also by Financial Markets. Net interest
+margin actually is increasing from 145 basis points in the fourth quarter to 150 basis points in the
+first quarter, and that's driven by financial markets and a lower average balance sheet. We see the
+savings margins and the impact of the reduction in the client rates being offset by lower
+reinvestment yield as the higher yielding assets in the replicating portfolios are running off. So on
+the savings margin itself, we see a flat development, and so the improvement is really as a
+consequence of Financial Markets. However, as a result of that we expect that interest margin will
+edge down in the coming quarters from the current level because we know that the contribution to
+the net interest margin from the Financial Markets business is more volatile and seasonally high in
+the first quarter as is also depicted in on slide 14 for your information.
+If we then take a step and we look at the lending growth, the lending assets were slightly up and
+that's despite the deconsolidation of Vysya, the transfers of some of the mortgage business to NN
+Group, and negative currency impacts. The waterfall I think speaks for itself. Net lending in Retail
+Banking increased by €2.6 billion because of higher net lending in Retail Belgium that's both on the
+mortgages side as well as on the business lending side, higher net lending in Retail Germany and
+Retail rest of world, and a bit lower net lending in the Netherlands. The net lending in the
+
+
+
+FINAL
+
+Commercial Bank increased by €2.4 billion and that's driven by higher net lending in Structured
+Finance and General Lending. Specifically on the latter two, some of the lending increase is shortterm-related, so the first quarter cannot fully be seen as a new trend but we're happy that we see
+the growth and we have to work on seeing whether this is sustainable.
+If we go from the balance sheet and the income development to the cost development, on the
+operating expenses – I'm now on slide 16 – reported expenses were down from the fourth quarter
+but up from the first quarter 2013, and that's particularly because of the Belgian bank taxes that we
+took fully in the first quarter whereas these taxes have been largely spread over the four quarters
+in 2013. If you look at the real expenses, you see them going down from the first quarter 2013 to
+the first quarter of 2014 and also going down from the fourth quarter 2013 during the first quarter
+2014, and that is basically as a consequence of the successful implementation of the restructuring
+programs that we have announced in the past and that we basically ensure that that
+implementation were continued. So cost down 0.7% against the first quarter 2013, 1.6% down
+versus the fourth quarter 2013. Restructuring plans are on track and we expect them to deliver
+€880 million of savings by 2015 and €955 million of savings by 2017. Fully on track, so we'll continue
+to focus on those.
+
+Bloomberg Transcript
+
+Then we move to the risk cost. Risk cost was down both versus 2013 first quarter as well as the
+fourth quarter of 2013. In total, the risk cost decreased to €468 million and they were basically
+down in all product segments except for General Lending. The risk costs in General Lending were
+impacted by a few specific files. We'll come back to that later.
+Now on the NPL ratio, slide 18, we see that the NPL ratio has remained stable at 2.8% in the first
+quarter. The amount of NPLs increased by €300 million, and that's mainly due to higher NPLs in
+Retail Banking, and that's more specifically even in Dutch mortgages. Then if we then look at the
+risk costs in the Netherlands, slide 19, we see that the risk costs in Retail Banking Netherlands have
+declined both 2013 first quarter and the fourth quarter but they remain at an elevated level,
+reflecting the relatively weak economic environment in the Netherlands still, so lower than 2013 but
+still an elevated level. For the same reason, we see that the NPL ratio for both the business lending
+part as well as the mortgages in the Netherlands are still increasing. And although we do see signs
+of improvement in the economy in the Netherlands and the Dutch housing market, we expect risk
+cost to remain at an elevated level although slightly lower than last year. So Dutch situation.
+If we then go to the risk costs in the Commercial Banking, we see that the risk costs in the
+Commercial Banking have continued on their downward trend, and that's driven by lower risk costs
+in Real Estate Finance. But the downward trend as you can see on this slide can be lumpy quarteron-quarter. You see Real Estate Finance going down but quarter-on-quarter you see a bit of a
+lumpy development for example in Structured Finance, the orange bars; and General Lending, the
+light blue bars. So trends going down but with a bit of shocks in that downward trend.
+Then if we take a look at the specific Retail Banking results, we see strong results up from both
+first quarter 2013 as well as the fourth quarter 2013. Underlying pre-tax result was strong at €771
+million, and that's driven by higher income and lower risk cost. Underlying income rose 7.4% yearon-year, and that's driven by improved savings margins and lending mainly in the Benelux and
+Germany. As you know that in the strategy that basically we focused on the further improvement of
+client experience and that we really want to deliver a differentiating client experience, then you
+realize that an important indicator for us to track and follow improvements is the ranking in terms
+of Net Promoter Score, and you see on the same slide where we are in that one. So we remain
+number one or number two in Net Promoter Score across the countries in which we operate.
+Certainly see room for improvement because I think we should be number one, but the fact that
+where we operate either number one or number two is a very solid sign that we're doing it well
+and that we have the right client experience. And that is the starting point for improving our
+business and increasing our business and therefore better financial results.
+
+
+
+Bloomberg Transcript
+
+FINAL
+
+If we then go to Commercial Banking, I'm now on slide 22. Underlying result of Commercial Bank
+was €471 million in the first quarter; that was down from the first quarter in 2013. And as I've
+already indicated specifically, as the consequence of lower results in Financial Markets, partly driven
+by negative CVA/DVA impacts, and it was also as a result of lower results in General Lending &
+Transaction Service, and that was more because of higher risk costs in the General Lending area.
+Now compared with the fourth quarter 2013, the underlying result was up as the negative
+CVA/DVA effects then we're offset by higher results in Financial Markets and Bank Treasury.
+So much for the banking results, let's now turn to the insurance results. Now I think it's a very strong
+results on the NN Group side. We see the operating results for the ongoing business improved
+significantly to €274 million, which is up 61% from the first quarter of 2013 and up 28% from the
+fourth quarter of 2013. The year-on-year improvement was driven mainly by higher visibility and
+excellent results in NN Non-life, a higher investment margin in NN Netherlands Life business, and
+lower administrative expenses which is kind of a key sign for the successful implementation of the
+transformation program on the insurance side. I will come back to that later. The result before tax,
+however, was a negative one, minus €372 million, but that is basically reflecting the one-time
+impact of €470 million, making ING's defined benefit pension plan in the Netherlands financially
+independent. Further good news on the insurance side is that the new sales, the annualized
+premium equivalent, it rose 20.6% versus the first quarter 2013, and that was mainly driven by
+higher sales in Japan Life, Insurance Europe, and Netherlands Life. And versus the fourth quarter,
+sales rose actually 53% at constant foreign exchange, and that's also driven by the seasonally
+higher sales in Japan and pension renewals in the Netherlands.
+If we then to turn to page 25, we take a closer look at the different segments that we have started
+to report on. On the insurance side, we see that in all of our segments that almost all of our
+segments have improved operating results versus the first quarter of 2013, and that basically
+shows that the improvement plans that we have developed and are implementing for all of these
+areas that they are working across these segments. So good news there as well.
+If we again go one step deeper and when we take a look at the administrative expenses, the
+administrative expenses for the ongoing business were €437 million in the first quarter, down 5% a
+year ago, and that's despite higher NN Bank expenses as a result of the partial transfer of
+WestlandUtrecht to NN Bank. If you would exclude this, then you see the real impact of the
+transformation program that the insurance management is implementing. Then you see that the
+administrative expenses actually fell 7% from the first quarter of 2013, and that shows that the
+transformation program is really successful and the strong cost control that is adhered to in all
+business lines on the insurance side. So good results here.
+Restructuring program that is also delivering these cost savings in the Netherlands specifically is on
+track with an amount of €163 million of savings achieved by the end of the first quarter. And we
+expect by the end of this year to deliver €200 million of savings, and this is specifically the
+restructuring program in the Netherlands. So both in financial results as well and specifically cost
+and sales results, good performance on the insurance side so a very strong commercial and
+financial quarter there.
+So if we then wrap up and we go to the final slide on page 28, I think on the strategic side, on the
+financial side, and on the commercial side we are making a lot of progress. The first quarter shows
+that we're working on all of these elements and showing progress in all of these elements as
+expected. We're happy with the underlying results and we are working on the final steps of our
+restructuring plan. So good first quarter on all accounts. And with that, I'd like to open the call for
+questions.
+
+Q&A
+Operator
+
+
+
+Thank you, sir. The first question is from Farquhar Murray from Autonomous. Please go ahead.
+
+FINAL
+
+Q - Farquhar C. Murray
+
+{BIO 15345435 <GO>}
+
+Good morning, gentlemen. Two questions, if I may. Firstly on the surprisingly strong Basel III ratio.
+The €8 billion reduction in RWA coming from the change in calculation method seems to be driving
+around about 30 bps of that, and I wondered whether you might give some more detail around
+what changed that specifically, which lending books are involved, and was there a particular change
+in the risk weights there. Secondly on NN Group, should we regard the 277% IGD ratio for the
+group as the kind of capital target for the future? What specifically drove the change there versus
+what we were talking about at 4Q? And can we regard this as a level from which dividends can be
+paid in the future? Thanks.
+
+A - Ralph A. J. G. Hamers
+
+{BIO 3253692 <GO>}
+
+Farquhar, the first question will be answered by Wilfred Nagel and the second one will be
+answered by Patrick.
+
+Bloomberg Transcript
+
+A - Wilf red Frederik Nagel
+
+{BIO 1827973 <GO>}
+
+Yeah. So on the reduction in risk-weighted assets, the 30 basis points you're referring to, that is
+mainly comprises two things. One is the next step in developing our master skill (00:31:24) which
+links BDs ultimately to risk weights where we have extensively disclosed actually on page 395 of
+the annual report what we were planning to do there, and that is what we have executed on. So
+this is replacing essentially external data with our own internal data as per the Basel ambition. That
+is about 12 basis points of the 30 basis points that you're talking about. And then there's another
+10 basis points linked to part of the law that puts CRD IV into implementation in Europe which
+provides specific risk weight reductions for SME exposures. And then there are some smaller
+things.
+
+Q - Farquhar C. Murray
+
+{BIO 15345435 <GO>}
+
+Thank you.
+
+A - Patrick Gerard Flynn
+
+{BIO 16360820 <GO>}
+
+Okay. On the capital for NN, the €850 million that we've injected, that does boost the IGD ratio as
+well but it also is primarily aimed at improving the NN Life solvency ratio up to 251% as you see in
+slide 6 and also increasing the cash buffer and reducing debt. With this capital injection, we do
+obtain regulatory approval, the regulatory green light to go forward with the IPO. We have
+approval for the capital structure which is very significant. That means now that we're into the end
+phase of preparation for the IPO and the remaining pieces are within our control. Obviously we
+need to have a maintained and continue to have a receptive IPO market. So dividends, I can't really
+talk about in too much detail about dividends or the lawyers will put me in jail. We are in the
+process of I'll just say preparing for the IPO, and I think it's fair to say that dividends will be a
+feature prominently in the IPO equity story which you'll hear more about that soon. But in
+conclusion, yes, we have regulatory approval of the capital structure to go forward with the IPO
+
+Q - Farquhar C. Murray
+
+{BIO 15345435 <GO>}
+
+Okay. Thanks (00:33:30).
+
+Operator
+Thank you. The next question is from David Lock from Deutsche Bank. Please go ahead.
+
+Q - David Lock
+
+{BIO 16145046 <GO>}
+
+Morning, everyone. Two quick questions from me. The first one is on your EM exposure. So I note
+in the back of the presentation book you've given some helpful disclosure on Ukraine, Russia. I just
+
+
+
+Bloomberg Transcript
+
+FINAL
+
+wondered if you could give any color on what you're seeing there at the moment. Obviously it is a
+difficult time when we look at the news but what are you really seeing in the exposures that you
+have there? Is there anything that really concerns you from your exposures? And if you could also
+just update us on the goodwill balance in the Turkish business. And then my second question is on
+net lending reduction in the Netherlands. Clearly, when you had the slide in the fourth quarter the
+net lending reduction is slowing. Just wondering when you expect that change to really trough. Is it
+going to be in the next couple of quarters or could it be longer? Thank you.
+
+A - Ralph A. J. G. Hamers
+
+{BIO 3253692 <GO>}
+
+David, let's first answer the last question because I will take that one on the net revenue reduction
+in the Netherlands. But basically on the mortgage side, on the mortgage side we see a net
+reduction coming in on the mortgage side of €1 billion but we see a decrease of the portfolio of
+€1.3 billion. So you see that basically the engine is working, new mortgages are coming in, and we
+see a transfer of mortgages from the Dutch banking book on the bank side to the NN Bank side,
+so you see a transfer from the bank to the insurance company there. So net-net, you see a
+decrease but you see that basically the engine is running, the mortgage business is doing okay.
+And if you look at the business lending side in the Dutch market, you basically see that on the
+smaller SME businesses that you see that the repayments are still a little bit higher than in new
+production. Although we've seen new production, we see higher demand but that's off by €300
+million for the first quarter so a bit of a decrease. If we then look at the larger companies
+announced, we actually see a growth in net lending. So I think that most of these are now positive
+signals that demand is coming in, and in the end that should increase the loan books although on
+the mortgage side we will continue with a transfer of some of the businesses at reset moments
+from the bank to the insurance company. So that's...
+
+Q - David Lock
+
+{BIO 16145046 <GO>}
+
+How much remains of that to be transferred? Sorry to interrupt. How much remains to be
+transferred to NN Group?
+
+A - Ralph A. J. G. Hamers
+
+{BIO 3253692 <GO>}
+
+That's €7 billion, €7 billion.
+
+Q - David Lock
+
+{BIO 16145046 <GO>}
+
+Thank you.
+
+A - Ralph A. J. G. Hamers
+
+{BIO 3253692 <GO>}
+
+Yeah. Then we go to the emerging market exposure. I'll transfer to Wilfred for that.
+
+A - Wilf red Frederik Nagel
+
+{BIO 1827973 <GO>}
+
+Yeah. Obviously Russia, Ukraine is a bit of a developing story. Maybe to dwell briefly on what our
+business is there, it is a pure Commercial Banking business. We don't do Retail or SME. The focus is
+really on the top local names, mainly exporters of energy and essential metals for the world
+economy. We've been in both of these countries for over 20 years. We've got a long history with a
+number of our clients there. If you look at what at the moment is going on in terms of exposure,
+then the lending exposure, the breakdown indeed is at the back of the presentation, but it's
+hovering between €7 billion and €7.5 billion. We're obviously in daily contact with our clients there to
+keep track of what's happening and discuss their next steps and our next steps with them. We try
+to continue to support our clients to the extent reasonably possible. Obviously this is a balancing
+act between managing risk on one side and supporting the franchise in these long-standing
+relationships on the other side. We have pruned our exposures where we can both in coordination
+with our clients as well as by reducing the number of counterparties on the financial institution side
+that we deal with.
+
+
+
+FINAL
+
+We do feel that our clients are taking generally a very prudent approach. They're hoarding cash,
+not our cash, but the cash that comes back because of a reduced business volume. And they're
+using that opportunity to strengthen their balance sheet. So at this point, if you look at the quality
+of the book in Russia, it is very good. We've got a 0.1% NPL ratio and virtually no provisioning there.
+Ukraine is a little bit weaker. There's a bit of detail on that in the presentation as well. But there
+also we've got a long history. It's mainly exporters that we're dealing with. It is reasonable to
+expect some more provisioning at some point there I believe. But at this point there's not a lot of
+detail to give you.
+
+A - Patrick Gerard Flynn
+
+{BIO 16360820 <GO>}
+
+Yeah. The goodwill number of which we are very comfortable in Turkey is €600 million; unchanged.
+
+Q - David Lock
+
+{BIO 16145046 <GO>}
+
+Thank you.
+
+Operator
+Thank you. The next question is from Omar Fall from Jefferies. Please go ahead.
+
+Bloomberg Transcript
+
+Q - Omar Fall
+
+{BIO 20138121 <GO>}
+
+Hi. Good morning. Two questions, please. Firstly on the NIM, just on your comment around high
+yielding assets maturing and that impacting the reinvestment income. I thought that most of that
+process was largely behind us in terms of the mix shift in the reinvestment portfolio particularly on
+peripheral debt. And given that Financial Markets boosted the NIM materially I guess this mix shift
+had a pretty substantial effect. So could you give us an indication of how much more of this yield
+shift there is to come, please?
+Secondly, and I know it's just one quarter, but the capital position seems to be ahead of most
+people's expectations, and, yes, you've benefited from a model update. But are you tied to the
+guidance you gave at the Investor Day around the pace of dividends on ordinary shares or if the
+capital position is ahead as it seems to be tracking you can revisit that pace of dividends? Thanks a
+lot.
+
+A - Ralph A. J. G. Hamers
+
+{BIO 3253692 <GO>}
+
+Okay. Patrick will answer the NIM and I will take the one on dividends.
+
+A - Patrick Gerard Flynn
+
+{BIO 16360820 <GO>}
+
+Yeah. In respect to the NIM, I think there's a couple of questions and I'll try to answer them. Yeah,
+the NIM is up 250 basis points in the quarter which is primarily due to financial markets which can
+be somewhat volatile. Also, with Vysya coming out which is 2 basis points, I think it's more likely to
+ease back towards the year end position of 145 basis points. Interest margin on funding increased
+marginally on the back of the modest base rate cuts we had in Q1 but was offset a bit by the lower
+rate environment of which you refer to.
+Yeah, the lower rate environment, it's influenced by the duration of our reinvestment of deposits
+which is around the three-year piece but it's a little bit more complex than that. And I'll try not to
+get into too much complexity, but there's other factors at play. We also have our capital
+investments which are longer dated, 7 to 10 years, which is a drag effect. And actually the
+mechanics of how these works, which is the piece I don't want to dwell on too much, is that we
+actually use internal transfer rates to reflect the yield on deposits and they don't exactly link with
+the timing of the lower yield in reinvestments. So a bit of a complex answer but it comes to the
+point we think that maybe 10 bps could be a drag in the Netherlands and maybe 20 bps in Belgium
+over the course of this year from a lower rate environment.
+
+
+
+FINAL
+
+However, there is still scope on deposit rate reductions. So our guidance on this is that, yes, it
+could drop back from the 150 bps to the 145 bps level about because of the volatility in FM. But
+longer-term, we still maintain our ambition to get to the 150 bps, 155 bps which we announced
+only a month ago. And that's going to be executing on what Ralph referred to, higher-yielding
+asset deployment, SME, consumer finance, industry lending. This is an ambitious target. It's going
+to take time, so it will be gradual.
+
+Q - Omar Fall
+
+{BIO 20138121 <GO>}
+
+Sorry, just a very quick follow-up to that. Have you cut any savings rates this quarter to-date?
+
+A - Patrick Gerard Flynn
+
+{BIO 16360820 <GO>}
+
+No.
+
+Q - Omar Fall
+
+{BIO 20138121 <GO>}
+
+Thank you.
+
+Bloomberg Transcript
+
+A - Ralph A. J. G. Hamers
+
+{BIO 3253692 <GO>}
+
+Okay. Yeah. So we did cut in Belgium for (00:42:35) but it's only in April I think we did, only in April.
+So it's not in the first quarter results. Now on the acceleration of the dividend payments, clearly
+that (00:42:49) is first and foremost on the repayment of the Dutch State as we have indicated at
+the Investor Day. So if this year we have a successful IPO of NN and we see the results of AQR and
+stress test as I've indicated in the past, clearly we will consider acceleration of the repayment of
+the state but that one has to be – if we can accelerate that one then we can accelerate also
+dividend payments. So we will see it when we get there so let's first focus on the IPO of NN and
+then we'll take another look at that.
+
+Operator
+Thank you. The next question is from (00:43:39) from Barclays. Please go ahead.
+Yes. Good morning, guys. I'm just trying to reconcile 5, 14, and 15 (00:43:46) in terms of the
+balance sheet and loan book because your loan book looks largely static but you've added €17
+billion to the balance sheet. So is it fair to say that it's Financial Markets that's driving the growth
+this quarter? And related to that, is it fair to say that your risk-weighted ratio is potentially more of
+a constraint for you shorter-term than your leverage ratio looking at where both those ratios are at
+the moment?
+
+A - Ralph A. J. G. Hamers
+
+{BIO 3253692 <GO>}
+
+(00:44:14), I'll give the question to Wilfred, but could you repeat the second part of your question?
+
+Q - Operator
+Yeah. In terms of I guess linked to earlier questions about earlier accelerating repayment, is it fair
+to say that the (00:44:32) 11% risk-weighted requirement is more of a constraint for you than your
+leverage ratio which when I compare to a lot of your peers, when I look at other French banks,
+you're in the high 3s. Is it fair to say the leverage ratio is kind of pretty secondary in terms of how
+you think about capital and your constraints?
+
+A - Ralph A. J. G. Hamers
+
+{BIO 3253692 <GO>}
+
+Okay. Well I'll come back to that after Wilfred has given the answer on the first one.
+
+Q - Omar Fall
+
+{BIO 20138121 <GO>}
+
+
+
+Okay.
+
+FINAL
+
+A - Wilf red Frederik Nagel
+
+{BIO 1827973 <GO>}
+
+Yeah. I think the question on the loan book and the fact that the two don't immediately seem to
+reconcile, although they do in the end, is mainly related to two things. One is the deconsolidation
+of Vysya Bank and the other one is the loan transfers that Ralph already mentioned that we're
+doing from the mortgage book in the Netherlands in ING Bank to NN Bank.
+
+A - Ralph A. J. G. Hamers
+
+{BIO 3253692 <GO>}
+
+And then on the leverage ratio versus the core Tier 1, both are important clearly. On the core Tier
+1, you basically see that the capital generating capability of the bank actually can kind of support
+further growing core Tier 1 ratio to 11% and have growth and have dividend payment as we have
+shown to you and told you on the Investor Day. Now on the leverage ratio itself, on one side you
+can come to the conclusion that since we are far ahead on the 3% itself, certainly that's currently a
+European requirement that we are managing on but there is also debates in the Netherlands as to
+wanting to increase that to 4% over time. So which one is more restrictive than the other, we don't
+know yet. The core Tier 1 for the moment that we are able to make, we're able to grow it as well in
+line with our own ambition. Leverage ratio for the moment is not a point but we have indicated
+already also in the Investor Day that we want to manage it at around 4% anyway.
+
+Q - Operator
+
+Bloomberg Transcript
+
+Understood, that's very clear. Thanks.
+Thank you. The next question is from Matthias de Wit from KBC Securities. Please go ahead.
+
+Q - Matthias de Wit
+
+{BIO 15856815 <GO>}
+
+Yes. Good morning. Two questions, please. Just to come back on the leverage ratio of the bank.
+Just wondered whether you see a possibility to reach the 4% target by issuing AT1 capital now that
+the tax deductibility of coupons for these instruments has been confirmed in the Netherlands? And
+then second question on insurance on NN Life. Investment margins are increasing despite a low
+yield backdrop. It seems that you're rerisking the portfolio but just wondered whether you're
+seeing an ability to continue that rerisking process and whether or not we could expect any further
+increase in investment margins going forward in the quarters ahead. Thanks.
+
+A - Ralph A. J. G. Hamers
+
+{BIO 3253692 <GO>}
+
+Leverage ratio, Patrick. The second one I'll take.
+
+A - Patrick Gerard Flynn
+
+{BIO 16360820 <GO>}
+
+Okay. On the leverage ratio, yes, AT1 does play a role in the leverage ratio and it's positive that the
+government has announced its intention to address the tax deductibility piece, but I haven't done it
+yet. So we want to see that actually implemented first but, yes, we do see AT1 as a key piece in
+the leverage ratio computation and we'll be looking to avail of the tax deductibility once it is
+confirmed in legislation.
+
+A - Ralph A. J. G. Hamers
+
+{BIO 3253692 <GO>}
+
+On the second one, the investment margin, so basically you see the increase now because of
+rerisking. Specifically in this one, you see the income from the mortgage transfers now on the
+insurance side and so therefore you see that book building up so you can expect that to grow
+further. The further rerisking beyond that depends on the capital build up, and clearly when capital
+is being released and produced we can further rerisk on the insurance side.
+
+Q - Matthias de Wit
+
+{BIO 15856815 <GO>}
+
+
+
+And what's currently the binding capital constraint for NN Life? Is it Solvency I or is it 1.5 or Solvency
+II or any other economic capital metric you're using?
+
+A - Operator
+
+FINAL
+
+Yeah. Indeed, as Ralph has mentioned, the explanation for the increased investment mortgages is
+related to particularly the increase in mortgages that were performed during the last
+
+Q - Matthias de Wit
+
+{BIO 15856815 <GO>}
+
+That's very helpful. Thanks.
+
+Operator
+Thank you. The next question is from Anke Reingen from Royal Bank of Canada. Please go ahead.
+
+Q - Anke Reingen
+
+{BIO 3535491 <GO>}
+
+Yes. Anke Reingen here from RBC. I just had one follow-up question on the net interest margin.
+Yeah, I mean, if you say that the reinvestment portfolio drag could be about 30 basis points for
+this year, I just wondered if you – not probably in terms of numbers but just directionally – how
+much of the benefit you expect from an improvement of the savings rate as well as on the lending
+rate? Thank you.
+
+Bloomberg Transcript
+
+A - Patrick Gerard Flynn
+
+{BIO 16360820 <GO>}
+
+It's not 30 basis points; it's the average of the two. So it's 10 basis points in the Netherlands, 20
+basis points in Belgium but this is not (00:51:16). Yeah, I mean, it is a bit of a drag. And as I said, we
+have potential in the savings rate. There's headroom there as I said before. And as we have
+reduced rates, this is something we look at very carefully, any further steps that we might take and
+we have to be aware of competition and obviously customers. So this is a potential that we have
+but we will be careful in how we execute it, and certainly the pace of reduction which you've seen
+in the past will be slower in the future.
+
+Q - Anke Reingen
+
+{BIO 3535491 <GO>}
+
+And on the lending rate?
+
+A - Patrick Gerard Flynn
+
+{BIO 16360820 <GO>}
+
+Again, core to our strategy is to deploy customer deposits in higher-yielding assets as I mentioned
+earlier. Margins on lending have remained stable-ish although there is plenty of competition out
+there for the growth. But as Ralph said, we're pleased that we're able to achieve some growth. So
+yes, we'd like to see margin improvement but I think it's more about deploying customer deposits
+which we have an excellent capability of generating another €8.5 billion this quarter in higheryielding assets as where the boost will come from.
+
+Q - Anke Reingen
+
+{BIO 3535491 <GO>}
+
+Thank you. Just to clarify. So the drag from the reinvestment portfolio, the 10 and the 20 basis
+points, that's not at the group reinvestment portfolio, that's on the local level so, i.e., the impact on
+the group net interest margin would not be the 10 and the 20 basis points? It would be much lower
+if I compare this with the group investment portfolio?
+
+A - Patrick Gerard Flynn
+
+{BIO 16360820 <GO>}
+
+I think that's right.
+
+Q - Anke Reingen
+
+{BIO 3535491 <GO>}
+
+
+
+Okay. Thanks.
+
+Operator
+
+FINAL
+
+Thank you. We have a follow up question from Omar Fall from Jefferies. Please go ahead.
+
+Q - Omar Fall
+
+{BIO 20138121 <GO>}
+
+Hi. Just quick. You mentioned the AQR and stress test. Given where we are in that process, could
+you highlight any areas of concern, what remains an early stage, please, particularly with regards to
+the Dutch mortgage portfolio? Thank you.
+
+A - Ralph A. J. G. Hamers
+
+{BIO 3253692 <GO>}
+
+Omar, Wilfred will answer the question.
+
+Bloomberg Transcript
+
+A - Wilf red Frederik Nagel
+
+{BIO 1827973 <GO>}
+
+There's not a lot to say at this point for two reasons. One is the stage of the process that we're in
+is we're still delivering data. We're working with DNB and ECB on putting together what we need
+to do in terms of executing the stress test. It's a lot of work. The progress is good. We've been
+able to deliver on time and completely what we needed to do, so we're pleased with that. It's
+much too early to speculate on any outcomes also because, yes, we have seen of course what the
+inputs for the stress test are going to look like. But one very important input nobody knows yet and
+that is the output of the AQR which determines the starting position for each individual banks. So
+there's not a lot to say. We also have clearly an agreement with both the other banks as well as
+ECB to not communicate about anything until we are there which means until we have concrete
+results. What we can say is that you asked specifically about Dutch mortgages. I think if you look at
+our quarterly numbers, and this quarter is not an exception, they behave as predicted. We said
+before it is a large book but it's behaving fairly well. We're not overly concerned about it. I think
+we've been able to also get that across to DNB. And DNB, by the way, has shown confidence in
+general about the ability of the Dutch banks to come through this whole process with a positive
+outcome, and I'd like to leave it at that.
+
+Q - Omar Fall
+
+{BIO 20138121 <GO>}
+
+Very clear. Thank you.
+
+Operator
+Thank you, gentlemen. There are no further questions.
+
+A - Ralph A. J. G. Hamers
+
+{BIO 3253692 <GO>}
+
+Okay. If there's no further questions, then I'd like to close this call. Thanks for attending this
+morning and thanks for sharing with us your questions and your queries. It's always appreciated to
+show the keen interest. We have a good quarter on the strategic front, on the restructuring front,
+on the financial performance, and the commercial performance. So thanks for your attention and
+have a good day. Bye.
+
+Operator
+Thank you, sir. Thank you, ladies and gentlemen. This does conclude today's presentation. Thank
+you for participating.
+
+
+
+FINAL
+
+Bloomberg Transcript
+
+This transcript may not be 100 percent accurate and may contain misspellings and other
+inaccuracies. This transcript is provided "as is", without express or implied warranties of any kind.
+Bloomberg retains all rights to this transcript and provides it solely for your personal, noncommercial use. Bloomberg, its suppliers and third-party agents shall have no liability for errors
+in this transcript or for lost profits, losses, or direct, indirect, incidental, consequential, special or
+punitive damages in connection with the furnishing, performance or use of such transcript.
+Neither the information nor any opinion expressed in this transcript constitutes a solicitation of
+the purchase or sale of securities or commodities. Any opinion expressed in the transcript does
+not necessarily reflect the views of Bloomberg LP. © COPYRIGHT 2022, BLOOMBERG LP. All rights
+reserved. Any reproduction, redistribution or retransmission is expressly prohibited.
+
+

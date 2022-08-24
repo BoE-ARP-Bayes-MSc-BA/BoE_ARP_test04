@@ -1,0 +1,1633 @@
+Company Name: NN Group NV
+Company Ticker: NN NA Equity
+Date: 2021-05-26
+
+Investor & analyst deep-dive webinar
+Company Participants
+FINAL
+
+Bernhard Kaufmann, Chief Risk Oﬃcer & Member of the Management Board
+Jelmer Lantinga, Head of IR
+Maurice Koopman, CEO of the Non-life company
+Tjeerd Bosklopper, CEO of Netherlands Non-life, Banking & Technology and Member
+of Management Board
+
+Other Participants
+Ashik Musaddi, Analyst
+Benoit Petrarque, Analyst
+Cor Kluis, Analyst
+Farooq Hanif, Analyst
+Farquhar Murray, Analyst
+Steven Haywood, Analyst
+Unidentiﬁed Participant, Analyst
+
+Bloomberg Transcript
+
+Presentation
+Jelmer Lantinga
+
+{BIO 20384884 <GO>}
+
+Good afternoon. Welcome to NN Group's DeepDive Webinar. I'm Jelmer Lantinga, the
+Head of Investor Relations. About a year ago, we presented our targets and strategy at
+our Capital Markets Day. Since then, we were able to talk to many of you. Today we have
+two presentations on two topics that came up during many of those meetings.
+We start with a deep dive on Non-life, which will be presented by Tjeerd Bosklopper and
+Maurice Koopman. Tjeerd Is a management Board member and responsible for Non-life,
+banking and technology. Maurice is the CEO of the Non-life company, and has 20 years
+of Non-life experience and is able to tell you all about the day-to-day work in the Non-life
+business lines.
+After that, we continue with a presentation by our Chief Risk Oﬃcer, Bernhard Kaufmann.
+He will present on interest rate risk management. Finally, we have a Q&A session, which
+allows you to ask all your questions that you have from Tjeerd, Maurice and Bernhard.
+Now let's get started, and let me hand over to Tjeerd to start his presentation on Non-life.
+
+Tjeerd Bosklopper
+
+{BIO 20235210 <GO>}
+
+Page 1 of 27
+
+
+
+Company Name: NN Group NV
+Company Ticker: NN NA Equity
+Date: 2021-05-26
+
+FINAL
+
+Well thank you, Jelmer. Good afternoon, everyone. Looking forward to presenting an
+update on the Non-life business, together with Maurice, who is the CEO of the Non-life
+company since about a year. Now last year, I introduced myself with a passion for cycling.
+Now the main update there is that I've seen lots of wind and rain with the weather in the
+past months in the Netherlands. However the good news for you today is that this is
+fortunately not the case for the story that we have to share on Non-life today.
+So what we will talk about today? Well ﬁrst, I will talk you through the overall strategy and
+the progress we've made and later Maurice will do more of a deep dive on the product
+lines. So let's start with an overview of the Dutch Non-life market. After the acquisition of
+Delta Lloyd and VIVAT, NN is now the clear market leader in Non-life with about 3.5 billion
+in gross written premium. Now the Non-life market itself is sizable with about 18 billion in
+gross written premium and moderately growing at a low to mid-single digits. The market
+itself is still hard, and we expect this to continue in the coming one to two years. A lot of
+players have become more rational in pricing in recent years. Now we expect the
+combined ratio of the Non-life market to remain attractive at about 97%. After the
+consolidation, NN is now in a good position to beneﬁt from scale and to optimize
+margins.
+
+Bloomberg Transcript
+
+We have a strong track record in improving performance in recent years. We started in
+2017 above 100%, but recently, in the past two years, we have posted a healthy combined
+ratio of about 95%. There, we really beneﬁted from a well-diversiﬁed product portfolio,
+where the negative impact on D&A was oﬀset by more positive results in P&C. I'm also
+proud to say that it is not only due to our position, but also we really beneﬁted from
+completing the Delta Lloyd integration, rationalizing a lot of products and systems,
+restoring proﬁtability of loss-making products to strict pricing and underwriting measures.
+On the left, you can see some indicators: a healthy combined ratio, operating proﬁt and
+gross written premium growth but also OCG and remittances. They were slightly
+depressed in 2020. And for OCG, this was mainly due to a one-oﬀ eﬀect due to the lapse
+of the Movir reinsurance which accounted for about 65 million. So consequently, also our
+remittances in 2020 were lower. But the overall picture is a strong track record in
+improving both scale and combined ratio over the past two years.
+Now not only our product portfolio is well diversiﬁed. We are also the only player in the
+Dutch market that has a strong position in all relevant distribution channels. So in
+bancassurance, we do exclusive business with four out of the ﬁve largest banks in the
+Netherlands. We are number one in the broker and mandated agent space, where we
+also own our own brokers (inaudible). Of course we have our own direct label, ORA,
+where we are number three in the market. But it's also important to realize that this world
+is not static. So trends we observe are a large consolidation in the broker and mandated
+agent space, the rise of specialized service oﬀerings and embedded insurance. That's
+why in our strategy, we are also investing in these spaces to sustain our strong position in
+the future.
+Examples such as HES, ABW, but also the platform in the campus where we participate.
+These are new engagement platforms that allow us to introduce new propositions and
+distribution options. Now Camper and Indy campers are both examples of embedded
+Page 2 of 27
+
+
+
+Company Name: NN Group NV
+Company Ticker: NN NA Equity
+Date: 2021-05-26
+
+FINAL
+
+insurance in midsized e-commerce platforms, focusing on e-bikes and campers. And
+Maurice will later on explain more about HES and ABW in his piece. But combined with
+the National-Nederlanden brand, which has the highest brand awareness in the Dutch
+market and our large customer base, this gives us really a unique distribution position in
+the Netherlands.
+Now our strategy is to beneﬁt from our leading position along ﬁve priorities. The ﬁrst one,
+sustain our strong distribution position, brand and have an above-average satisfaction for
+both brokers and customers; invest in digital and data to improve eﬃciency and pricing
+and underwriting is the second priority; the third, agility of our workforce to be able to
+attract and develop our talents; the fourth, of course to ﬁnancially deliver on our targets
+and to sustain our ﬁnancial strength; and the ﬁfth priority, I believe, is the fundament of
+our Non-life company and its contribution to society. This is, of course our core business
+in handling customer claims in adverse situations, but also examples such as stimulating
+safe driving and burnout prevention. And again later on, Maurice will give a couple of
+examples to bring this more to life to you.
+
+Bloomberg Transcript
+
+So let me share with you a short update on where we are in the execution compared to
+our CMD commitments of last year. I will do this by looking at the OCG development from
+2020 to 2023 and what drives this improvement. The ﬁrst underwriting there, we have
+established a central team for pricing and underwriting, pooled and standardized data
+from all our labels in the Netherlands and attracted data scientists that took numerous
+actions based on these insights.
+On the SAA, the strategic asset allocation, we've shifted the portfolio more towards credit
+and mortgages with already an uplift in OCG of about 15 million that we can report today.
+For VIVAT, the integration we are ahead of plan. So the legal merger was completed for
+the 1st of January. We already completed more than 80% of the migrations if you look at
+the premiums. We had in 2020, EUR 45 million of contribution to operating results and
+both the expense reductions and the investments are ahead of plan.
+On Delta Lloyd, of course the integration was completed, and now the focus is more on
+further expense reduction in the remaining business lines, which are to come from
+digitizing processes. We've started these programs in all major product lines, and all of
+them are well on track.
+Key issues that we are addressing, the individual disability portfolio of Movir, the eﬀect of
+the low interest rate on group D&A, investing in future capabilities to stay ahead in the
+market. Now my take on this is that we are well aware of these issues, we've acted on
+them and with a price increase of 10% in individual disability per the 1st of January,
+repricing of group D&A on the lower interest rate, but also investing in new capabilities
+for our strategy. So overall, I'm really proud on the progress that we have made in the past
+year.
+Now let me hand over to Maurice to do a bit more of a deep dive into the business lines.
+But before I do that, let me quickly introduce my rise. Now Maurice has about 20 years
+plus experience in ﬁnancial services with a vast majority, all kinds of diﬀerent roles in non
+
+Page 3 of 27
+
+
+
+Company Name: NN Group NV
+Company Ticker: NN NA Equity
+Date: 2021-05-26
+
+life. And he brings, especially very relevant experience from our direct label ORA on
+digital pricing, but also all the nice frictionless processes that we have there, and I'm very
+happy that he is now bringing that to the rest of the Non-life business. Maurice, it's over to
+you.
+
+Bloomberg Transcript
+
+FINAL
+
+Maurice Koopman
+Thank you, Tjeerd. Good afternoon to you all. In the next 15 minutes, I will explain what we
+are doing in the Non-life company and how we are transforming into a future-proof
+business. Tjeerd just explained how NAND strategic commitments are reﬂecting in our
+strategy. Now I will explain how this translates into the strategy of NN Non-life. Our
+strategy is centered around simplicity and agility. This will ensure that our business is
+ready to anticipate and respond to any change coming our way. As a former football
+coach, I taught my players that if they want to succeed on the pitch, they had to play on
+the toes. Resting on your heels means that you're always too late. If you're on your toes,
+you will be ready to respond to every change in the game.
+On the following slides, I will explain what this means for our product lines as well for our
+organization. One of the enablers of this strategy is the integration of free fold Non-life. As
+a former head of the integration, I'm very proud to achieve what we do so far. We
+welcomed 400 talented VIVAT employees to NN. We've successfully migrated around
+90% of the VIVAT premium to NN systems. And more than half of expected cost synergies
+have been achieved by the First Quarter of 2021. We expect to migrate VIVAT Non-life to
+partial internal model in the ﬁrst half of 2022. Results of the VIVAT Non-life in 2020 were
+better-than-expected and the contribution of VIVAT to operating results was, as Tjeerd
+already mentioned EUR 45 million. We are conﬁdent that we are able to achieve the
+envisioned cost savings and free cash ﬂow.
+Let's now take a close look at the product portfolio of our Non-life company, starting with
+the P&C portfolio. Within P&C, our largest portfolio is, of course the ﬁre portfolio. NN is
+market leader in the ﬁre market, with more than 30% market share. This is a very healthy,
+stable portfolio with annual premiums of more than EUR 1 billion. And bearing some
+volatility in the SME portfolio, the results are generally solid.
+As Tjeerd mentioned, we have a unique, diversiﬁed distribution mix. With the larger
+mandated brokers, we are working on co-creation of products, for example, by oﬀering
+aﬃnity business. This allows some moderated but proﬁtable growth. In the retail business,
+ﬁre insurance is typically sold when a customer moves to a new house and leaves a
+mortgage. Fire insurance is, therefore, a typical bancassurance product. In which we have
+a very strong position with partnerships with ING, ABN AMRO, S&S and, of course NN
+Bank. The other attractive part of the ﬁre insurance is the price tag is relatively modest,
+resulting in relatively sticky business. In recent years, we have complemented our
+traditional insurance oﬀering with services to help customers manage their risk. We're
+focusing on ﬁxing the damage, instead of paying the damage, solutions instead of
+money. This leads to a higher customer satisfaction, lower claims expenses and higher
+customer retention.
+
+Page 4 of 27
+
+
+
+Bloomberg Transcript
+
+FINAL
+
+Company Name: NN Group NV
+Company Ticker: NN NA Equity
+Date: 2021-05-26
+
+Let me show you how our technical expertise works in practice. In 2017, the SME ﬁre
+portfolio was structurally loss-making. We saw too many claims coming in. We set up a
+task force to scrutinize the portfolio, and starting with the large risk, we work down the list
+and reevaluate each object For speciﬁc types of objects, our in-house technical experts
+revisit the object on site. And by visiting objects, you can truly inspect the risk of our
+demand additional prevention measure. It took -- in total, we took more than 8,000
+measures renting from price increases to cancellations of policies, and thereby decreasing
+the claims ratio.
+At the same time, we launched two new ﬁre products for the SME market, a low-cost
+package solution and a bespoke solution for more complex risk. The combination of
+reversing the negative trend and the new proposition proved to be very successful. The
+portfolio is proﬁtable again but also growing in size. We are now ready for additional
+selective growth of the business.
+Let me now touch on the motor portfolio. NN is the number two in the motor market with
+EUR 900 million of annual premium and more than 20% market share. We have made
+good progress improving the proﬁtability of this portfolio, thanks to applying strict
+underwriting criteria and very strong risk selection. We are now working to further
+strengthen our data and intelligence capabilities, and this will further improve our
+underwriting. With our experience and knowledge of this market, we see pockets of
+growth in certain segments. For example, in the SME business, the smaller car ﬂeet
+segment is quite an attractive segment. These are car ﬂeets up to 250 vehicles, and we're
+building up our presence in this market with ABW, a specialized broker in this segment, as
+well as, a provider of training to car ﬂeet owners. This combination helps us to play a
+relevant role in a large part of the value chain by oﬀering driver assistance tools and
+security training next to our traditional insurance. And besides reducing claims, there is
+also a limit to the number of accidents, and therefore, makes the Netherlands a little bit
+safer.
+In the retail business, we're focusing on attracting the right risk in this mature and highly
+price-sensitive market. To show you in practice how we price our products, on this slide,
+you can see enhanced various labels in the Dutch market. All labels are very well
+positioned and attract diﬀerent kind of customer proﬁles, depending on the average
+value of the car and the age of the customer.
+Our largest portfolio, ORA, has, on average, one of the higher price positions in the
+market, which is unattractive for new business. However for our preferred and targeted
+risk segment, ORA has the lowest price. While maintaining our proﬁtability, the portfolio
+grows and lowers our expense ratio due to low marginal costs.
+Let's now continue with the second segment in the Non-life company, which is Disability &
+Accident business. Within D&A, we basically have two diﬀerent segments, group income
+and individual disability. Group income is a product aimed at employers. The product
+cover the mandatory payment of salaries for employees that have fallen ill or are
+permanently disabled.
+
+Page 5 of 27
+
+
+
+Company Name: NN Group NV
+Company Ticker: NN NA Equity
+Date: 2021-05-26
+
+FINAL
+
+In summary, we oﬀer two types of cover: sickness beneﬁt cover for the ﬁrst two years that
+the person is ill and beneﬁt for work over for the following 10 years. These products are
+typically distributed by brokers. Individual disability is a product aimed at self-employed
+professionals, such as lawyers, accountants. But most notably, we have a very strong
+position among medical professionals. Our specialized label Movir is market leader in this
+segment. This product covers the risk that the professional is unable to work for a longer
+period of time, and the policy pays out until the insured person recovers or retires.
+D&A is a very attractive segment of the market as margins are generally good, the value
+chain is relatively long, and a long duration of liabilities gives an opportunity to earn on
+investment margins. And barriers for entry are relatively high. It requires very speciﬁc
+expertise and experience, as well as suﬃcient skill.
+
+Bloomberg Transcript
+
+Let's now look at the proﬁtability of these products. Our D&A portfolio earns around EUR 1
+billion premium per year. Traditional margins in D&A have very attractive. However 2020
+was a diﬀerent year. In the group income portfolio, we faced pressure on results mainly
+due to COVID-19 and the reduction of the IFRS discount rate. We expect that claims
+experience will normalize when COVID-19 is behind us, and the reduction of the discount
+rate is likely to be priced in these products over the coming years.
+As most of you know, for a while, the individual disability portfolio has been facing
+elevated inﬂows. This is the result of two factors: the ﬁrst is the trend visible in the society
+as a whole, leading to an increased focus on mental illness such as burnouts. However
+this trend is intensiﬁed by the composition of our portfolio. Due to strategic choices in the
+past, the portfolio is now -- is not as diversiﬁed as we want it to be. We are over exposed
+to medical professions, and this led to higher claims in 2019 as well in 2020. Part of the
+claim was covered by our research agreement, which lapsed at the end of 2020. Going
+forward, all new claims will be fully reﬂected in the Non-life results.
+And to restore proﬁtability, we have taken strict measures. Eﬀective from January, we
+increased our premiums up to 10%. I and in addition, we have made actual investment to
+prevent disability. We have launched a new product with updated terms and conditions,
+and a legacy portfolio has been placed in runoﬀ. It is encouraging to see that we already
+see early signs of improvement in the First Quarter of 2021. This conﬁrms our belief that
+we can restore the proﬁtability of both portfolios sustainably.
+On the next slide, I will show you how we complement our insurance oﬀering in D&A with
+recovery and well-being services. Similar to P&C in our D&A portfolio will also oﬀer a
+combination of insurance with complementary services, and this works very well. By
+oﬀering prevention and reintegration services we avoid as well reduced claims. But
+maybe even more important, we increased engagement with our customers. In addition,
+certain servers are oﬀered for a fee, which creates an attractive source of additional
+capital-light fee income. And for our group income business, we have entered in a
+strategic partnership with HES.
+This is a leading and growing one-stop shop in the ﬁeld of vitality services. HCS oﬀers
+reintegration service to NN, but also to competitors. And for individual disability, the
+
+Page 6 of 27
+
+
+
+Company Name: NN Group NV
+Company Ticker: NN NA Equity
+Date: 2021-05-26
+
+FINAL
+
+wellbeing services are instrumental in their oﬀering. These services help professionals to
+excel in their career, but also in their personal life. Our focus is, for example, on
+professional development coaching, but also on me and my family or advice on
+overcoming sleeping problems. Our experience shows that professionals taking out
+prevention services have a much smaller chance of suﬀering from example, burnout. With
+that, let me now pass you back to Tjeerd for the wrap-up.
+
+Tjeerd Bosklopper
+
+{BIO 20235210 <GO>}
+
+Well thank you, Maurice. Let me now quickly wrap up for the key takeaways. So the Dutch
+market is sizable growing moderately and has healthy combined ratios. In this market, we
+have a unique and leading position in Non-life in the Netherlands in both size and
+distribution proﬁle. Where we believe that there is further potential to beneﬁt from our
+scale in both eﬃciency and underwriting. We've made good progress, and we have a
+good track record in delivering on our strategy, and our targets of a combined ratio of
+94% to 96% and OCG of EUR 225 million and above and an admin expense ratio of below
+10%.
+And I hope our presentation today was helpful in your understanding of our Non-life
+business, and I also hope that you share my enthusiasm and conﬁdence in the delivery of
+our strategy and targets. Thank you.
+
+Bloomberg Transcript
+
+Bernhard Kaufmann
+
+{BIO 18347993 <GO>}
+
+Hello, everyone. One year ago, soon after I joined NN Group, we presented our new
+strategy at the Capital Markets Day and I gave you an overview of our risk and solvency
+position and how we optimize risk and return proﬁle. Today I want to come back to one of
+the more complex risk categories, which is very much in the spotlight these days, which is
+interest rate risk, and I want to give you more insight into how we manage interest rate
+risk at NN Group.
+Now what are the key points I want you to take-home with you from this presentation?
+First, our plan to shift to higher-yielding assets is progressing well, and there is room for
+further risk return optimization in our investment portfolio. Second interest rate risk is no
+problem for us as our strict cash ﬂow matching leads to low interest rate sensitivities. If
+interest rates go up or down. Third, our remittance capacity is not impacted by changes in
+interest rate. And fourth, the cash ﬂow matching approach for our pension business in the
+Netherlands supports the growth in operating capital generation over the next years.
+The presentation is now structured in the following way. I will summarize our approach to
+manage market and credit risk. Then I will point out how we hedge and manage interest
+rate risk on an economic basis. And ﬁnally explain what is the impact from interest rates
+on our Solvency II balance sheet and especially on operating capital generation, or OCG.
+As you all know, we have a strong solvency position. Our solvency ratio end of year 2020
+is at 210%. Now if you compare our risk proﬁle to peers, you see that we are relatively
+underweight market and credit risk. The main reason for this is our conservative approach
+
+Page 7 of 27
+
+
+
+Company Name: NN Group NV
+Company Ticker: NN NA Equity
+Date: 2021-05-26
+
+FINAL
+
+to investment risk and especially to credit risk. Another reason is that due to our business
+model, we have a large exposure towards longevity risk that is dominating our insurance
+risk proﬁle. We started to mitigate this risk and have the possibility to take additional
+steps. As we have seen last year, this has a very, very positive impact on our risk-return
+proﬁle. An essential part of our NN Group strategy is to maintain a strong balance sheet.
+To ensure this, we will continue with our conservative approach to investment risk. But
+there is room for further risk return optimization.
+Last year, we announced that we expect at least EUR 200 million increase in OCG from
+the shift to higher-yielding assets. In 2023, and we are very well progressing on this route.
+How do we do this? We shift out of government bonds to more illiquid assets and
+corporate bonds, as indicated on the chart of the left-hand side of Slide 5. On this path,
+we will gradually continue also in the next years.
+
+Bloomberg Transcript
+
+The main diﬀerence comparing our portfolio with the portfolio of other insurance
+companies is the allocation to Dutch mortgages. The risk return proﬁle of this asset class
+is very attractive, and there is room to further increase the allocation over the next years.
+This will continue having a positive impact on our risk-return proﬁle.
+That already leads to the ﬁrst takeaway but our plan to shift to higher-yielding assets is
+progressing well, and there's room for further risk return optimization also in our
+investment portfolio. So now let's deep dive into interest rate risk management. What is
+our steering philosophy related to interest rate risk? The pension business in the
+Netherlands delivers a very stable and predictable liability cash ﬂow. We apply strict cash
+ﬂow matching and match our best estimate liabilities with ﬁxed income assets up to year
+30, so there's hardly any interest rate risk resulting from net cash ﬂow over the next 30
+years.
+After year 30, we keep a small open position due to illiquidity, availability of instruments,
+with some tactical leeway for active management and risk return consideration. In
+principle, we see interest rate to be a non rewarding risk, and therefore, we do not make
+interest rate bets. Please be aware that our focus already for some years is on writing life
+protection business or deﬁned contribution business without guarantees. Therefore, our
+very long liabilities from our pension business in the Netherlands will run oﬀ over time.
+The cash ﬂow matching approach is in place since many years. In addition, manage the
+remaining interest rate risk very closely. Though there are limits, tolerances for all maturity
+buckets in place, and we also are well within our limits. Which leaves room to react to
+certain market developments. The example on the right-hand side, Slide 8, illustrates that
+we were managing the remaining position on an opportunistic basis. For example, we
+replaced derivative positions with long-term government bonds after yields became more
+attractive in the beginning of this year. The 1 basis point sensitivity for the resulting
+economic position as estimate liabilities versus matching ﬁnancial instruments was below
+EUR 10 million at the end of April 2021. So this also illustrates the limited impact of interest
+rate changes, given our technical provisions for this business are above EUR 100 billion.
+
+Page 8 of 27
+
+
+
+FINAL
+
+Company Name: NN Group NV
+Company Ticker: NN NA Equity
+Date: 2021-05-26
+
+To summarize our approach and relating to the takeaway two and three, economically, we
+are very well matched, especially if we put this into perspective with our own funds, the
+resulting economic sensitivity is low, a 50 basis point interest rate shift at year-end 2020
+led to 0.6 billion positive impact on our economic position. Also the result in Solvency II
+ratio sensitivity is low. So lvency ratio goes up by 3percentage points if rates rise by 50
+basis points. Why is this? Even so the overall impact on the Solvency II own funds is
+negative. If rates go up, solvency capital requirements are decreasing as well. That means
+that in Solvency II, there are stock and ﬂow eﬀects coming through that impact, and they
+impact their own funds, but they also impact the capital requirements and OCG.
+But very important, the remittance capacity of the group is not materially impacted by
+interest rate movements as we take both stock and ﬂow into account into our dividend
+decision-making. This leads to sustainable and predictable cash return to shareholders.
+So this is great. To understand now the impact on operating capital generation and our
+solvency ratio, especially if interest rate changes, I have to make some more general
+remarks ﬁrst.
+
+Bloomberg Transcript
+
+An essential part of the business model of life insurance is to earn from investments
+spread over time and this is a spread above risk-free interest rates. But the valuation of the
+liabilities in Solvency II and the Solvency II balance sheet is based on risk-free interest rate
+curves. So therefore, Solvency II trials in the solvency assessment to capture this essential
+part of the business model by introducing long-term guarantee measures and uses an
+ultimate forward rate (inaudible) for the long-term interest rate curve to allow for partly
+recognition of spreads earned in a real-world environment and liquidity of markets for
+longer maturities.
+As a consequence, there is a beneﬁt coming from these measures and the valuation of
+liabilities compared to blindly using the swap curve, leading to a positive contributions in
+Solvency II own funds. This beneﬁt to the own funds for NN Group mainly relates to the
+long-term liabilities and the introduction of the ultimate forward rate, and therefore, we
+refer to this as the UFR beneﬁt. You can see this on the left chart, the orange part of the
+runoﬀ pattern on Slide 12. These are the liabilities that are mainly impacted. As our longterm liabilities run oﬀ over time because we write this kind of business no longer, the UFR
+beneﬁt for our own funds reduces. That means every year, there is a reduction of this
+beneﬁt related to our long-term liabilities that are running oﬀ, and we have a negative
+contribution coming from this referred to (inaudible).
+To illustrate this, we are showing the development of the main drivers over time on Slide
+13. In because of the runoﬀ of the liabilities of this speciﬁc book of business, we have
+every year a lower UFR drag over time. In addition, a reduction in risk margin, a reduction
+in the solvency capital requirements and the investment return we earn. All of these items
+are developing in line with portfolio developments. The relevant point now is that the UFR
+drag runs oﬀ faster compared to investment return and risk margin and SCR reduction.
+This means, in total, we have a positive resulting net contribution to operating capital
+generation over the next 10 to 15 years due to the runoﬀ.
+We expect, based on year-end 2020 numbers to have an average -- to have, on average,
+an increase of OCG of around 40 million per year until 2025, which is a bit higher in
+Page 9 of 27
+
+
+
+Company Name: NN Group NV
+Company Ticker: NN NA Equity
+Date: 2021-05-26
+
+FINAL
+
+earlier years and ﬂattens out over time. That means just because of the runoﬀ of our long
+duration liabilities from the pension book in the Netherlands over time, we reduce UFR
+beneﬁt in our own funds and have a positive contribution to OCG every year coming from
+the net eﬀect of this runoﬀ. Therefore, our asset liability matching policy pays oﬀ as we
+have a tailwind for OCG over the next years.
+And as a ﬁnal point, which is the master class section of this presentation. Now what
+happens if interest rate moves? On Slide 14, the impact relating to a 50 basis point
+upward shift is shown. This mainly reﬂects what the impact from rising rates will be until
+today. And as I mentioned before, if interest rates go up, the impact on Solvency II own
+funds is negative. But solvency capital requirements goes down as well because we have
+less interest rate risk. That means solvency ratio is impacted in a modest way. It's even
+positively impacted rates go -- if rates go up for us, for NN Group. In addition, there's an
+immediate impact on OCG, which is positive. This is a shift from stock and ﬂow in practice
+that I referred to before.
+
+Bloomberg Transcript
+
+In the Solvency II mechanics language, the ultimate forward rate beneﬁt in our own funds,
+but I showed on Page 11, become smaller in a higher interest rate environment as a
+diﬀerence in discounting between Solvency II interest rate curve and the actual swap
+curve is smaller. Therefore, the UFR drag is lower for the coming years, and therefore,
+positive OCG contribution goes up. Therefore, we expect for 2021 with an interest rate
+increase of 50 basis points and an immediate positive impact on OCG of EUR 245 million.
+And for the coming years until 2025, on average, EUR 20 million annual contribution to
+OCG as a result of the runoﬀ.
+What does it mean now for the OCG contribution to our EUR 1.5 billion target for 2023
+coming from this? Well OCG support from in force pension business in the Netherlands is
+one of the locked in drivers to reach the EUR 1.5 billion target. In addition, main
+contributors are regulatory annual UFR step-downs until 2022. The inclusion of NN Bank
+based on solvency contribution instead of remittances, which were 0 last year following
+COVID-19 restrictions, but also the full eﬀect of the shift of -- to higher-yielding assets from
+2020 investments will come through. All of this is contributing positively to OCG growth
+over the next years, which sums up to more than half of the OCG growth we are targeting
+in the next years. In total, the locked in drivers will deliver more than half of the additional
+500 million step-up of OCG from 2020 to the planned 1.5 billion in 2023.
+Other additional operating levels reﬂect business improvements. That will come from the
+operating segments like what Tjeerd and Maurice pointed out for Non-life business in the
+Netherlands, but also from the other segments.
+Operating capital generation depends also on markets and market movements. And as
+markets move on a daily basis, year-to-date, we saw an increase of interest rates
+supporting OCG in line with the sensitivities I just showed but please note that we have
+also seen a material tightening of spreads, especially Dutch mortgages, which negatively
+impacts the investment return.
+
+Page 10 of 27
+
+
+
+Company Name: NN Group NV
+Company Ticker: NN NA Equity
+Date: 2021-05-26
+
+FINAL
+
+So to summarize, our shift to higher-yielding assets is progressing, and there's room for
+further risk return optimization. Our strict cash ﬂow match up to year 30 leads to low
+interest rate sensitivities. If interest rates go up or down, the remittance capacity is not
+really impacted by interest rate changes and our asset liability management of the
+pension book in the Netherlands, support OCG growth, especially in an environment with
+rising interest rates. I hope I have convinced you that interest rates are really no problem
+for us. With this, I hand it back to Jelmer.
+
+Jelmer Lantinga
+
+{BIO 20384884 <GO>}
+
+So thank you, Bernhard, and thank you, Tjeerd and Maurice, for your presentations on
+Non-life and interest rate risk. We will now start with the Q&A session.
+
+Questions And Answers
+A - Jelmer Lantinga
+
+{BIO 20384884 <GO>}
+
+Can I kindly ask you to focus your questions on the topics of the presentations and to limit
+yourself to two questions so that everybody gets a chance to participate? And if you wish
+to ask a question, you can now virtually raise your hand. So the ﬁrst question is already
+there. It's from Cor Kluis from ABN AMRO. Cor, please go ahead. Great to see you.
+
+Bloomberg Transcript
+
+Q - Cor Kluis
+
+{BIO 3515446 <GO>}
+
+Just a few questions. First of all, on the VIVAT acquisition, the VIVAT Non-life acquisition. I
+think based on the local reporting, VIVAT Non-life in 2019 at a gross written premium of
+around EUR 800 million, that's 790 or something. I think there are some cleaning in the
+portfolio like you presented today which you have been doing. What is the current
+premium of the acquired business. So basically, the question is how much now -- which
+amount of premium did you remove or cleaned or became more selective in that respect?
+So that's my ﬁrst question.
+My second question is on the departure internal model, so that you want to have a partial
+internal model in the second half or the ﬁrst half of 2022. Could you give some for the
+Non-life business, could you give some idea behind the technicalities and then maybe
+already some indication of contribution to the solvency ratio of the Non-life business.
+Because it should probably be quite material or material else you would not spend your
+time and eﬀort on that. And my last question is on the risk side. It's a technical
+presentation, but very well explained, thank you for that. The question is on the stock and
+ﬂow part. You basically said that if interest rates go up 50 basis points, that's minus EUR
+0.9 billion for the own funds. If you only take stock a ﬂow element is minus 1.5, could you
+also have this split out for the OCG part? Because the OCG part was plus 245. What is
+only the stock and ﬂow element if you would isolate that? Probably larger, but could you
+help us with that ﬁgure as well? That's it from my side.
+
+A - Jelmer Lantinga
+
+{BIO 20384884 <GO>}
+
+Thank you, Cor. So let us start with the question on VIVAT. I think Maurice, you are
+probably best placed to answer that question. You were the former lead of that
+Page 11 of 27
+
+
+
+Company Name: NN Group NV
+Company Ticker: NN NA Equity
+Date: 2021-05-26
+
+integration. Then maybe, TJeerd, you can follow-up on the Non-life question on the PIM.
+Bernhard, you could end with the question on OCG.
+
+FINAL
+
+A - Maurice Koopman
+Thank you, Cor, for your question. Yes. Of course it's a big topic. Of course if you move
+portfolios to other systems. Then it's all about retention. We are very pleased with the
+retention rates so far. We see that we have 700 or 800 already in the NN systems at this
+moment. The remaining is the coming months, of course. We, of course see some small
+outﬂow because, yes, it's changing, which are oﬀset by some growth in other lines. But on
+balance, broadly, it's neutral. We are pleased with the progress, especially because we
+have a lot of experience with the delta migration, and we're now following with the VIVAT
+migration, we are very pleased with the retention so far.
+
+A - Jelmer Lantinga
+
+{BIO 20384884 <GO>}
+
+Thank you. Tjeerd, on PIM?
+
+Bloomberg Transcript
+
+Q - Farooq Hanif
+
+{BIO 4780978 <GO>}
+
+Yes. So thanks, Cory. So on the PIM, partial internal model. So you're indeed correct that
+VIVAT was on standard formula and still is, and we're in the process of bringing VIVAT to
+our partial internal model. This is a process with the regulator where you go through
+various steps of assurance, interactions. Then once you submit it, the regulator has six
+months to come with a formal approval. So is typically, yes, a process that takes a bit
+longer because it's so technical. We indeed expect a positive impact from this major
+model change, bringing VIVAT to the partial internal model. The magnitude of that impact
+is too early to disclose as it is obviously dependent on the ﬁnal conclusion that we reach
+in this process with the regulator and the other stakeholders.
+
+A - Bernhard Kaufmann
+
+{BIO 18347993 <GO>}
+
+Yes. Cor. On your last question on OCG, stock and ﬂow related to a 50 basis point
+upward shift. In 2021, if interest rates stay as they are, so really this 50 basis points upward
+shift, the expectation is that we see in the OCG of 2021, a positive contribution of EUR 245
+million. Then in the following years from the regular runoﬀ and also because the UFR
+beneﬁt is reduced, we will also then see a 20 million on average, positive impact until
+2025. So that is the, let's say sensitivity always compared to end of 2020, if interest rates
+go up 50 basis points.
+
+Q - Cor Kluis
+
+{BIO 3515446 <GO>}
+
+The question was more focused on this stock and ﬂow part because I think on Slide nine
+of C9 you show the stock and ﬂow parts separately. Because the total on the own
+reference is minus 0.9, the stock and ﬂow part is minus 1.5. So that's good. We never see
+the ﬁgures. But also, do you have that for the 2 45 if you would only take the stock and
+ﬂow part without the other elements?
+
+A - Bernhard Kaufmann
+
+{BIO 18347993 <GO>}
+
+Page 12 of 27
+
+
+
+Company Name: NN Group NV
+Company Ticker: NN NA Equity
+Date: 2021-05-26
+
+FINAL
+
+Well yes, yes. So the 245 is really coming from this fundamental shift in the year '20-plus.
+So it's really a one-time impact that would then go through OCG or we would show in the
+P&L. But I think that is a, let's say the stock part you're looking for because this is really the
+equivalent to the minus 0.9 billion million own funds movement. Then the ﬂow part is
+really about this EUR 20 million annual on average until 2025, I was referring to that
+would come then in the later years.
+
+A - Jelmer Lantinga
+
+{BIO 20384884 <GO>}
+
+The next question is from Robin van den Broek from Mediobanca. Robin, good to see
+you. Please go ahead. Let us then maybe try again in a minute with Robin and move
+forward to the next question from Michael (inaudible). Michael, good to see you and
+good to hear you. Yes. Go ahead.
+
+Bloomberg Transcript
+
+Q - Unidentiﬁed Participant
+Yes. Just two quick questions on the Non-life side. I guess the ﬁrst one would be a followup on the PIM. Maybe too early to disclose the total impact. I guess assuming that it's a
+material impact, can we discuss a little bit on how we should think that perhaps inﬂuences
+remittances or beneﬁt to Holdco cash? Or is it likely whatever the impact would be to stay
+within in the nonlife Dutch legal entity? That's question number one. And question
+number two, wanted to go back to the slides around the motor portfolio. I think you
+showed a 96.5% combined ratio for 2020. Obviously there's a COVID frequency beneﬁt in
+that number. Therefore, that to me, without knowing the actual impact, suggests that the
+combined ratio probably underlying was still at best 100 or possibly above that. So that to
+me doesn't sound like a part of the book that is performing that great yet. So how can we
+think about the performance of that improvement there going forward? And why are you,
+therefore, looking to grow the car ﬂeet portfolio? Because if I remember correctly, that
+was a problem book maybe seven, eight years ago, where you aggressively pulled away.
+So maybe you can give some color around that.
+
+A - Jelmer Lantinga
+
+{BIO 20384884 <GO>}
+
+Yes. Good questions, Michael. Maybe Tjeerd, you can maybe start on both. First, maybe
+on the PIM and then on the motor segment. Then probably Maurice can add some color
+from your view on motor --
+
+A - Tjeerd Bosklopper
+
+{BIO 20235210 <GO>}
+
+Motor and car ﬂeet model, yes. Yes. So let me start with the ﬁrst question on the partial
+internal model. So indeed, we expect a positive beneﬁt coming from the PIM, but
+obviously too early to indicate the magnitude. Typically, we have the Non-life company
+capitalized at a very eﬃcient level. With the current reported Solvency II level of 124%. So
+yes, normally, if there are, let's say minuses, as you've also seen in '19 and '20, for
+instance, we were anticipating the VIVAT acquisition. So VIVAT was partly lower or there
+was the lapse of the internal reinsurance, that could aﬀect remittances. Now this could be
+one that is more on the positive side.
+So there we would upstream more to the group and then obviously it's within our group
+capital policy that also Bernhard has explained how much we distribute to shareholders.
+Page 13 of 27
+
+
+
+Company Name: NN Group NV
+Company Ticker: NN NA Equity
+Date: 2021-05-26
+
+FINAL
+
+But if indeed, there would be a positive then -- and there is room for the, yes, local
+business unit remittance or dividend recommendation to support such remittance to
+group, then that is something that indeed could be expected as a one-oﬀ. Whether that
+will be distributed at the shareholders is a diﬀerent question, right? So that is in line, I
+think with what Bernhard could comment on. Yes. On motor. Then, yes, maybe speciﬁcally
+on car ﬂeets Let me cover that one. Then you can give some color on the motor portfolio,
+Maurice.
+So car ﬂeets, we indeed aggressively pulled away from the unproﬁtable segment. We
+were in large car ﬂeets that, yes, we're moving from one insurer to the other, and they
+were not very proﬁtable. We didn't believe that there would be a good path to continue.
+So we're still of the same view today. However we have embarked on a new approach
+towards midsized car ﬂeets up to 250 vehicles, where we combine the expertise of ABW,
+which is a broker where we have a minority participation that specialize in this segment as
+prevention services knows the good risks. There we're selectively seeing how we can
+participate in that growth. So it's not a shift in strategy. It's just a new proﬁtable segment
+that we believe that we are well positioned for to capture, yes. So in general, on the motor
+portfolio, Maurice, maybe you can share some color on the health of the motor portfolio.
+
+Bloomberg Transcript
+
+A - Maurice Koopman
+Yes. Good question, Michael. Of course motor is always a challenging market in the
+Netherlands. We see, however that if you're focusing on pricing, especially on data
+gathering and pricing on the right segments, then there is room for proﬁtability in the
+motor segments. You see, of course that the market is from -- is a hard market. So it's
+more room for price increases. But also our own actions strict underwriting, and we
+learned a lot, of course from our direct label OHRA. We take that into the other labels, we
+are well positioned to have structurally good proﬁt on the motor portfolio. Especially if
+you combine it, you see that with the SME portfolio with prevention, and of course
+servicing, that helps a lot in improving our motor business. So that's why we believe in the
+proﬁtable portfolio.
+
+A - Jelmer Lantinga
+
+{BIO 20384884 <GO>}
+
+Thank you, Michael. Then next question by e-mail from Michael Huttner from Berenberg. I
+think three questions. (Operator Instructions) First question from Michael is on the DNA
+business. How quickly we would expect it to return to proﬁt, pricing or portfolio problem?
+And do we need to acquire a business to diversify away from the concentration in the
+medical sector? Good question, I think focused on individual disability.
+Then secondly, a question on inﬂation. If higher inﬂation is structural, what is the impact
+from back book reserving, what actions can you take? And maybe also a question on
+Non-life, but maybe Bernhard also interesting for you if your perspective from a group
+level on your view on impact of inﬂation?
+Then thirdly, from Michael, the question on the current levels of proﬁtability of Vivat's
+DNA and Non-life in the First Quarter of 2021? Well we obviously have not disclosed our
+numbers. For the First Quarter, we will disclose our ﬁrst half year numbers in August, but
+
+Page 14 of 27
+
+
+
+Company Name: NN Group NV
+Company Ticker: NN NA Equity
+Date: 2021-05-26
+
+maybe Tjeerd, you can maybe add some color on what we've seen in 2020 already in the
+trends. Tjeerd, do you want to start on individual disability?
+
+FINAL
+
+A - Tjeerd Bosklopper
+
+{BIO 20235210 <GO>}
+
+Yes. So ﬁrst question, disability and accident, how quickly will it turn to proﬁt? So we
+always separate the disability and accident business in group and in individual. So with
+regards to group, which is about 2/3 of our portfolio, the main impact that we've seen
+there in 2020 is COVID, speciﬁcally related to the sickness portfolio and the eﬀects of the
+lower IFRS discount rate. Both of which, we would expect to return to the normal healthy
+proﬁtability levels rather quickly because COVID, we would expect to go away and also
+return to normal stickiness levels in companies. The lower IFRS discount rate, we've
+priced in group D&A also again per the ﬁrst of January. So there, we would see the
+recovery of group D&A to be rather quickly.
+
+Bloomberg Transcript
+
+For individual disability, so this is 1/3 of our portfolio, where in the end portfolio, we had
+exposure to speciﬁc medical segment, where the burn out rates were higher than in other
+parts of the portfolio. So there, we've taken actions, as Maurice explained. So we had a
+price increase of 10%. We launched a conversion product. We did stricter underwriting
+criteria. There, we see already the ﬁrst signs that we believe that we can restore
+proﬁtability over the longer term. So we're very happy to see that progress. However for
+this 1/3 of the portfolio, it takes longer to return to the healthy proﬁtability levels. That is
+more a couple of years then, let's say the shorter-term for group D&A to recover.
+One last question, so should we diversify way by acquiring another book, we did. So we
+acquired Viva business. So VIVAT had a similar-sized portfolio as ourselves, and they were
+not exposed to the medical segment. So much, they were much more in white color. So
+that diversiﬁcation beneﬁt in the D&A is obviously also helping ourselves, and there's no
+need from that perspective to acquire an extra book that's already in the current book.
+So the second question was on inﬂation. Inﬂation yes, the impact on the backlog
+preserving for Non-life business is typically priced in. So it's a very short term business. So
+we renew contracts rather quickly. Most of them in one year or in three years. And for the
+longer term is typically priced is in. Yes. So maybe Bernhard on inﬂation, you can say
+something on the rest of group, but for Non-life, yes, this is not a very material problem.
+And last question. Last question was on the current proﬁtability level, indeed, of the First
+Quarter. So indeed, as Jelmer said, we do not disclose the First Quarter. So the second
+half results will, of course follow. So what I can say is that in 2020, we had the D&A
+business at a combined ratio of 102.6. And let's say P&C, much lower and the overall
+combined ratio we had was 95.3 with the eﬀects on D&A that I just explained to my ﬁrst
+answer. So this is partly elevated and P&C, especially the motor business obviously had
+lower claims frequency, where we ended up with a healthy 95.3. Now for the First Quarter,
+we would expect, let's say the trend on D&A to improve with the measures that we've
+taken and that we have announced. And for the First Quarter, as COVID is still in place,
+you could expect claims frequency to be similar in -- than we saw in the COVID quarters of
+last year. Post-COVID, we would expect the claims frequency to also normalize for the
+
+Page 15 of 27
+
+
+
+Company Name: NN Group NV
+Company Ticker: NN NA Equity
+Date: 2021-05-26
+
+motor business. Obviously the continued eﬀects on the improvements, actions that we've
+taken on. So that gives you a bit of color on how we see this year developing.
+
+A - Jelmer Lantinga
+
+{BIO 20384884 <GO>}
+
+FINAL
+
+Thank you, Tjeerd. Maybe Bernhard, could you share your views on the inﬂation risk from
+a group perspective?
+
+A - Bernhard Kaufmann
+
+{BIO 18347993 <GO>}
+
+Yes. Two or three remarks from a group perspective.
+
+Bloomberg Transcript
+
+So ﬁrst one, looking at our Life & Pension business, most of the liabilities are nominal
+liabilities, deﬁned beneﬁt kind of liabilities that are not exposed to inﬂation and inﬂation
+risk and where we have books of business where there is a link to inﬂation, we explicitly
+hedge it. So from Life & Pension, there's no exposure coming through and in general,
+higher inﬂationary environment also means higher interest rate environment, typically,
+there, I think I pointed out that this is an environment which is also supporting our
+business model, especially Life & Pension business because then certain products are
+then more proﬁtable. Also, there are more business cases that are depending on interest
+rate level. So that is favorable for us.
+Being the Chief Risk Oﬃcer, of course I have to point out to the risks. They relate to
+expense risk that we have to manage, but which, again we have in our hands, and the
+economic environment may lead to suppression of risk premiums of investments for some
+time. So that would be then the economic outlook that may be than on the negative side.
+But in general, again higher inﬂation -- or higher interest rate environment is a positive for
+us.
+
+A - Jelmer Lantinga
+
+{BIO 20384884 <GO>}
+
+Thank you, Bernhard. Okay. Then the next question from Benoit Petrarque from Kepler.
+
+Q - Benoit Petrarque
+
+{BIO 15997668 <GO>}
+
+Now, basically, two questions on my side. The ﬁrst one was on the comments you made
+around data analytics in Non-life. I mean this is a tool used to improve the underwriting. I
+was trying to understand how much potential do you see in terms of potential impact on
+combined ratio, how much potential you see in the future? And how much you've
+achieved so far on that. So have you done a lot already? Or you consider that you still
+room to go in terms of analysis -- on data analytics. That's the ﬁrst one.
+And the second one, it's moderating to the risk. I think you mentioned that there's room
+for rerisking and you've got this kind of EUR 200 million uplift in OCG, and just wanted to
+get a feeling about how much is still left, you think on the kind of 2-, 3-year time horizon?
+And you touch based on this margin on mortgages. I was wondering if -- clearly, there has
+been some pressure recently, and whether you see that as temporary or that's something
+we should kind of plug-in the model for the longer run, if you're happy to still be on the -on this market with much lower margins on mortgages.
+Page 16 of 27
+
+
+
+Company Name: NN Group NV
+Company Ticker: NN NA Equity
+Date: 2021-05-26
+
+A - Jelmer Lantinga
+
+{BIO 20384884 <GO>}
+
+Bloomberg Transcript
+
+FINAL
+
+Yes. Thank you, Benoit. Clear questions. Tjeerd, would you like to start on data analytics?
+Maybe, Maurice, you can add your color on speciﬁc experience you might have from
+OHRA and then Bernhard, would you like to take the question on rerisking? Tjeerd, would
+you like to start?
+
+A - Tjeerd Bosklopper
+
+{BIO 20235210 <GO>}
+
+Yes. So thanks very much, Benoit, for your question. So as you can imagine, we were an
+end, we acquired Delta Lloyd with a Non-life business. We acquired Feedlot with a Nonlife business within an end. We already had a direct label with bancassurance labels. So
+we, in our strategy, identiﬁed a real potential to pull all the data from all the diﬀerent
+labels from direct, from bancassurance, from brokers and Richard also with external data.
+Then when you have all the data combined in one pool with a data scientist analyzing it
+and then coming up with either retention models or looking at bodily injury speciﬁcally,
+there are a lot of diﬀerent things that you can do with it. It's really a core capability for a
+Non-life company, always has been. But with new technologies and these new data
+capabilities. We believe that this is our largest driver for value creation on the Non-life
+side. So if you see our OCG improvement slide towards the target of EUR 225 million
+(inaudible) this is the ﬁrst one we mention, and there's a lot of actions that we have
+already taken. And Maurice mentioned some of them in his presentation.
+So have we started with this? Absolutely. So we did lots of actions, I think it's really 100
+and sometimes even thousands of small actions that we take on diﬀerent product lines. So
+yes, we have started, and we see already some of those acts bearing fruits in our portfolio.
+But we also believe that towards 2023, there's a lot of further value that we believe that
+we can capture to reach, of course the target of EUR 225 million with OCG. And Maurice,
+you could give a few couple of examples and then maybe quickly go to Bernhard.
+
+A - Maurice Koopman
+Yes. A good question, and it's for Non-life, of course a key topic, a very important from
+OHRA, I've experienced that data is the foundation of your company. Within OHRA, we
+did a lot of data analytics, especially on behavior of customers, especially if they use the
+portals you can buy analytics, you can predict customer behavior. That's crucial, for
+instance, to increase your retention rates, but also topics like fraud detection, pricing is, of
+course the main topic. So data and data analytics is here to stay. We see a lot of
+opportunities in diﬀerent kind of segments. And as for us, as a Non-life organization
+crucial, we have a lot of experience, but the developments go so fast that there are a lot
+of opportunities in this area.
+
+A - Jelmer Lantinga
+
+{BIO 20384884 <GO>}
+
+Thank you, both, very clear. Bernhard, on the rerisking.
+
+A - Bernhard Kaufmann
+
+{BIO 18347993 <GO>}
+
+Yes. On your rerisking question, Benoit. First, well, rerisking as part of our strategy to
+achieve the EUR 1.5 billion target in 2023. We are well on track, like I pointed out. And
+from the EUR 200 million that we targeted, we have achieved already EUR 170 million that
+Page 17 of 27
+
+
+
+Company Name: NN Group NV
+Company Ticker: NN NA Equity
+Date: 2021-05-26
+
+FINAL
+
+will contribute in 2021 fully to OCG. That means EUR 120 million were already reﬂected
+last year and EUR 50 million in addition, also now are coming through in 2021. But please
+be aware that in 2020 was a special year. We were able to take advantage of the market -the turmoils and the market developments to especially invest in the more liquid public
+markets. This year, we are continuing with a more gradual, slower shift of our assets into
+more the illiquid space, mortgages, real estate. That, of course will not have the same
+pace as we have seen in 2020 and the beginning of this year.
+Now on mortgages, we still see that this is a very attractive asset classes even so spreads
+have tightened. You're right, they have tightened really materially in the beginning of this
+year. But given the low risk proﬁle, our very strong sourcing and underwriting capabilities,
+the spreads are still attractive from a risk-return perspective. We also see that after the
+client rates have stayed stable over the last month, while interest rates went up, so
+spreads went down, now client rates start to move. Typically, there's a timing eﬀect
+between interest rates moving and clients rate moving. So we expect that the spreads will
+also catch up and that we will also get back to better spread levels also in the next time.
+
+A - Jelmer Lantinga
+
+{BIO 20384884 <GO>}
+
+Yes. Thank you. Very clear. Then the next question, I think is coming from Ashik Musaddi
+from JPMorgan.
+
+Bloomberg Transcript
+
+Q - Ashik Musaddi
+
+{BIO 15847584 <GO>}
+
+I have like a couple of questions. You can help me. First of all, I want to understand that
+OCG interest rate sensitivity point again. So what I want to understand is EUR 1.5 billion is
+your guidance. Then interest rates this year have moved, let's say by 45 basis points, let's
+just say 50 basis points. So how do the numbers move for next year, year after? So are we
+talking about EUR 1.5 billion becoming EUR 1.75 billion and then moving EUR 20 million
+from there on, or are we talking about EUR 1.5 billion becoming EUR 1.75 billion and then
+dropping again back to EUR 1.5 billion and then moving EUR 20 million. So just need a bit
+of clarity that extra EUR 245 million that you mentioned, is that going to stay here? Or is
+that going to drop oﬀ? So that's ﬁrst question.
+Second thing I would say is, how do we think about the P&C business? I mean -- sorry,
+longevity reinsurance. I mean clearly, you mentioned that longevity reinsurance is a topic
+that you would consider going forward, but what needs to happen for you to do longevity
+reinsurance? I mean your capital position is good. If you do longevity reinsurance, at
+some point, you have to put money on the table for the taker as well. Why would you do
+that? So that's the second question I have.
+And thirdly is you mentioned that OCG beneﬁt from higher rates will be oﬀset by tighter
+spreads on mortgages now possible, that's possible mortgage spreads would have
+tighter, but that should also beneﬁt the solvency ratio as well. So can you give us some
+clarity on what has happened to mortgage spreads so that we can understand what has
+happened to Solvency II ratio as well this year because of spreads.
+
+A - Jelmer Lantinga
+
+{BIO 20384884 <GO>}
+Page 18 of 27
+
+
+
+Company Name: NN Group NV
+Company Ticker: NN NA Equity
+Date: 2021-05-26
+
+Yes. Yes. Very clear. Good point, Ashik. I think all questions for you, Bernhard. So that is
+also easy. It's to you how you want to take it in each order.
+
+FINAL
+
+A - Bernhard Kaufmann
+
+{BIO 18347993 <GO>}
+
+Thank you, Ashik, for the questions. I'll start with longevity. Because longevity risk is still
+one -- not one, it's our peak risk in insurance and business -- the business risk, so in our
+risk proﬁle. From a strategic point of view, it makes sense to reduce this peak exposure
+over time. This mainly is, if you look at risk/return consideration then it is attractive for also
+shareholders because simply the amount of capital that we can set free. So that is relieved
+is disproportional to the return that we give up for the reinsurance premium.
+
+Bloomberg Transcript
+
+So -- and that is still -- we are not still in the sweet spot where this was changed. Therefore,
+this is the main consideration behind it. Are we under time pressure? No? Because we
+have the risk-bearing capacity, we have the solvency, so we can take it really also slowly
+and opportunistically, we can look at the portfolio and see where there are interesting
+opportunities, and that's exactly how we do it and how we are progressing with longevity
+risk.
+Maybe then linking it to the last question on solvency. Yes. There are some moving pieces,
+but expectation is that currently, our solvency ratio is at around 210%. So the main -- so
+mainly the same number as year-end 2020. There have been share buyback and stepdown of ultimate forward rates that were negatively positively was the rise in interest rates,
+but the spread tightening you mentioned is also in the market developments, a negative
+position. But if you take all of them together, then more or less, they all level out so that
+we are estimating that we are around the same solvency position that we were end of
+2020.
+And now the ﬁrst one, on the impact of a 50 basis point interest risk rate shift. Well ﬁrst of
+all, we have a target, which is EUR 1.5 billion for 2023, and that will not change. So that's
+our target. The impact of interest rates going up now is what I would summarize as part of
+market development and no spreads as they have negative imparity in the First Quarter is
+compensating. So these are the moving or ﬂuctuating parts around, let's say our path to
+the EUR 1.5 billion that we see. This -- maybe now to the point of how to interpret the EUR
+245 million. If you see this as a contribution because it's lowering the UFR drag mainly,
+and that means the -- in the -- through the runoﬀ, there's a higher contribution every year,
+positive coming through, well, then, it's really a positive contribution to be expected as a
+onetime impact, which helps in 2021.
+Then in the next years, this EUR 20 million I indicated are then the positive impact coming
+through on an annual basis. But what you have to deduct are the EUR 40 million that I
+showed the over the expectation end of year 2020. That was the base case that we had
+end of last year. These EUR 40 million per annum, they would -- you have to deduct from
+the kind of projection in the coming years. So it's really to interpret as a ﬂuctuation around
+this growth path to the EUR 1.5 billion coming from market developments, interest rate
+and spreads that you see. And unless we are really seeing a substantially higher interest
+rate environment for a longer time, I would also see no need to reconsider here any kind
+of target.
+Page 19 of 27
+
+
+
+Company Name: NN Group NV
+Company Ticker: NN NA Equity
+Date: 2021-05-26
+
+FINAL
+
+A - Jelmer Lantinga
+
+{BIO 20384884 <GO>}
+
+Yes. Maybe Ashik, we are also able to catch up after this call to walk through all the details
+in more detail through all the numbers. Okay. Then we go to the next question, which is a
+question by e-mail from Robin van den Broek. Apologies, Robin, that apparently the
+connection was not up to standards to make it work. Your ﬁrst question, are you able to
+increase remittances or dividends to shareholders now that OCG is increasing on the
+back of higher rates? That is very much in line with what we just discussed with Ashik.
+Then secondly, what is the impact of tighter mortgage spreads on OCG? I think again two
+questions for you, Bernhard. I think we kind of touched upon?
+
+A - Bernhard Kaufmann
+
+{BIO 18347993 <GO>}
+
+Yes. I think I can be quick, but I think very much to the point that the remittance capacity
+now I tried to show that this is not really impacted by interest rate changes, interest rates
+going down. That's mainly because of these moving bits and pieces between stock and
+ﬂow that we already take into account in our dividend decision and in our projections to
+be sure that we have the reliable paybacks.
+
+Bloomberg Transcript
+
+If spreads or if interest rates are really higher for longer, and if the environment is in a way
+that we see a higher interest rate environment, then again it's positive for our business
+model, and therefore, then in the long run, also higher OCG will translate into a higher
+potential for remittances and our remittance capacity will be strengthened. So I think
+that's it in a nutshell.
+And tight -- the impact of tighter mortgage spreads on OCG. While we have a sensitivity
+that we also published the 50 basis points sensitivity of mortgages is around EUR 120
+million impact on OCG. So around this order of magnitude, I would assume is the impact
+just from tightening. If you compare this to the EUR 245 million of interest rates, then you
+get to a good estimate of the total market impact that we saw until year-to-date.
+
+A - Jelmer Lantinga
+
+{BIO 20384884 <GO>}
+
+We have a short follow-up question from Robin, which is with higher Solvency II ratio than
+peers and interest rates going up. When does this become more fungible? Well I think at
+our Capital Markets Day we talked about the priority of having a strong and resilient
+balance sheet. But maybe, Bernhard, if you can add some color?
+
+A - Bernhard Kaufmann
+
+{BIO 18347993 <GO>}
+
+Yes. I think you summarized it already very well, because the again the environment that
+we are in and also the sensitivities that we see this environment makes us comfortable
+with our current position. If we are entering another economic environment and there
+may be changes, and this would be something to reconsider, but I would also see for the
+next time that we have no additional aspects that we will take into account coming from
+just this kind of interest rate movements.
+
+A - Jelmer Lantinga
+
+{BIO 20384884 <GO>}
+
+Page 20 of 27
+
+
+
+Company Name: NN Group NV
+Company Ticker: NN NA Equity
+Date: 2021-05-26
+
+Thanks, clear. Okay. Then we go to our next live question from Farquhar Murray from
+Autonomous.
+
+FINAL
+
+Q - Farquhar Murray
+
+{BIO 15345435 <GO>}
+
+Just two quick questions from me. Just starting on the Non-life side. So to Maurice, I think
+with regards to this kind of disability legacy portfolio, I just wondered if you could give us
+some color around the scope of that size of it, and also maybe perhaps how the duration
+of that runoﬀ exercise and the reserving around it? Then secondly, just a Bernhard, on the
+interest rate side. You mentioned a kind of move from swaps into long bonds during the
+quarter. I just wondered if that had any impact at all in term modeling of solvency or
+capital generation until I presume not.
+
+A - Jelmer Lantinga
+
+{BIO 20384884 <GO>}
+
+Okay. Maybe on the D&A, Tjeerd, would you like to start with some views on portfolio of
+individual disability.
+
+A - Tjeerd Bosklopper
+
+{BIO 20235210 <GO>}
+
+Bloomberg Transcript
+
+Yes. Yes. So any individual disability, policy conditions are up to retirement. So in that
+sense, it's quite comparable to individual life policy. So there is a right of the policyholder
+to keep that policy in place for that period of time. Obviously there are some rights on the
+insurer side to increase prices and introduce new products, reﬂect underwriting criteria.
+But this is the way that individual disability is structured.
+Now in practice, of course these are a lot of freelancers and people that are not covered
+by the government scheme of disability and excellence. So it's a private choice to have
+such a policy in place for this target market. Yes. We do also see if people switch jobs or
+their employment conditions change that people cancel their policy. So the average
+duration, I would say is more sort of six or seven years, but there can be somewhat longer
+tail, especially for smaller book of business. And especially, if there would be yes, let's say
+a more problematic part probably other runoﬀ can take longer in such a situation. But
+normally, it would be in that range.
+
+A - Jelmer Lantinga
+
+{BIO 20384884 <GO>}
+
+And the total size of the portfolio is around EUR 300 million to EUR 400 million, I think?
+
+A - Tjeerd Bosklopper
+
+{BIO 20235210 <GO>}
+
+Yes. The total individual disability is around EUR 300 million, and the Movir book is about
+half of that. And Movir is the book where medical professionals are represented.
+
+A - Jelmer Lantinga
+
+{BIO 20384884 <GO>}
+
+Okay. And maybe for you, Bernhard, the question on the actions that you took on the
+interest rates risk?
+
+A - Bernhard Kaufmann
+
+{BIO 18347993 <GO>}
+Page 21 of 27
+
+
+
+Company Name: NN Group NV
+Company Ticker: NN NA Equity
+Date: 2021-05-26
+
+FINAL
+
+Yes. There are mainly two impacts on, yes, solvency or on OCG. First one is moving into
+government bonds has a positive contribution to OCG. It's in the order of a low 2-digit
+million number. But on the other side, the credit spread risk goes up, so the SCR
+consumption goes up. So that means solvency capital requirements are impacted, but
+also in a not really material way but in a way that you see it but not really changing our
+position.
+
+Q - Farquhar Murray
+
+{BIO 15345435 <GO>}
+
+Just adding all those elements together, so higher interest rates, narrower spreads and
+obviously that kind of shift into longer bonds. I mean that at EUR 1.5 billion target in 2023?
+Is it easier or more diﬃcult? I get the sense, it's kind of a much, much.
+
+A - Bernhard Kaufmann
+
+{BIO 18347993 <GO>}
+
+I think especially from the impacts we discussed around market credit investments and
+interest rates, there we are really well progressing. I think that is right that you got this
+notion, but there are some parts in the strategy where we are working on, where we have
+to deliver, which will take 2021, '22 and '23, like for Non-life, but also in the -- in some of
+the elements I was pointing to, like the tailwind coming from the runoﬀ in OCG from
+interest rates. Also, this is an impact that comes through every year, contributes every
+year. So it's -- well, 2021 will be, especially compared to the base 2020, really a good step
+forward. But then still, of course there's a lot of homework to do.
+
+A - Jelmer Lantinga
+
+{BIO 20384884 <GO>}
+
+Bloomberg Transcript
+
+Then the next question is also by video from Steven Haywood from HSBC.
+
+Q - Steven Haywood
+
+{BIO 15743259 <GO>}
+
+Two questions. One on Non-life and one on solvency. You mentioned right at the
+beginning that it's a hardening market, I think and I would like to know more speciﬁcally
+what level of price increases are you putting through in the major ﬁre and motor lines,
+what sort of average price increases and how much claims inﬂation is coming through. So
+we can get a sense of what the delta is between the two.
+Then on the solvency, I'd like to know what Bernhard's view is on the risk margin. Whether
+you'd like to see this change in the future, whether you -- whether the IOP can potentially
+look at adjusting it somehow, what would you like them to do to the risk margin?
+
+A - Jelmer Lantinga
+
+{BIO 20384884 <GO>}
+
+That is potentially a nice conversation that you could have, Bernhard with Steven, on the
+risk market, try to keep it short.
+
+A - Bernhard Kaufmann
+
+{BIO 18347993 <GO>}
+
+Yes. Yes. Yes.
+
+A - Jelmer Lantinga
+
+{BIO 20384884 <GO>}
+Page 22 of 27
+
+
+
+Company Name: NN Group NV
+Company Ticker: NN NA Equity
+Date: 2021-05-26
+
+Then Tjeerd, can you then afterwards talk about the hardening market in Non-life? Would
+you like to start Bernhard?
+
+FINAL
+
+A - Bernhard Kaufmann
+
+{BIO 18347993 <GO>}
+
+Yes. Very much. Steven, that really goes to the heart of the discussion around the Solvency
+II 2020 review and what is now under review. Because there the risk margin is now also on
+the table and up for discussion, there are some suggestions that would lower the risk
+margin, and I think that's very welcome by the industry but also by us.
+Also in my view, if I just look at our balance sheet for our longevity risk, we have a standalone SCR of EUR 5 billion, and we have a risk margin of EUR 8 billion. So it's an amount
+of capital. If it's solvency capital requirement or if it's an additional reserve that we hold,
+it's very high now and to recalibrate this and to come to a regime where this is more in
+line with really what is risk adequate, now I could not welcome it more.
+
+A - Jelmer Lantinga
+
+{BIO 20384884 <GO>}
+
+Okay. Then Tjeerd, would you like to say something about the hardening market?
+
+Bloomberg Transcript
+
+A - Tjeerd Bosklopper
+
+{BIO 20235210 <GO>}
+
+Yes. So thank you for your question, Steven. So indeed, the market has been hard over
+the past two years. We were very pleased with that because having to complete major
+migrations from Delta Lloyd and VIVAT in a harder market is, of course easier than if there
+is a lot of (inaudible) going on so that made it helpful to keep the retention rates up and
+not to take action on portfolios where we saw the need. We don't have a cross book
+approach where we say well, let's increase prices across all books. We have quite a
+segmented approach. So for instance, for individual disability, we did a maximum
+increase on that particular book of 10%.
+On mandated agents, it's not been just price increases over the past years, but also
+discussions on commission and, of course on expenses. So yes, in motor, we've indeed
+increased prices. So the average rate of increase was around 5% in past years on motor,
+for instance. So in general, I think you're trying to get at sort of what is the improvement
+that you could expect on the combined ratio coming from price increases. So I would
+rather put it as the target of 94% to 96% that we have envisioned for the Non-life company
+in 2023. Through the cycle, this is the range that we are targeting, and that includes
+underwriting improvements, the OCG rerisking, price increases, all the beneﬁts from data.
+So all of that combined brings us into the range of that target. But yes, we do expect the
+market to be hard.
+Still, in the coming one to two years, we see also other players to be rational and
+disciplined in pricing. Yes. I think on a longer outlook, Non-life is typically a cyclical market
+that is hard to predict, and nobody has a glass ball for, but that will be sort of my
+guidance for you.
+
+A - Jelmer Lantinga
+
+{BIO 20384884 <GO>}
+
+Page 23 of 27
+
+
+
+Company Name: NN Group NV
+Company Ticker: NN NA Equity
+Date: 2021-05-26
+
+FINAL
+
+Thank you, Tjeerd. That's very helpful. Just a small note from my end. We aim to ﬁnish in
+around 15 minutes. So let's try to answer as many questions as possible. One of our peers
+is also starting with the presentation at, I think 4 p.m. CET. So let's aim for another 15
+minutes approximately.
+Next question is from I think Hadley Cohen from Deutsche Bank by e-mail. Two questions
+I can see. The ﬁrst one is on the assumptions that we included in the EUR 245 million uplift
+from OCG relating to higher interest rates, whether there's anything else in that scenario
+apart from interest rates impacting that number? Then secondly, the question on
+remittance capacity. If that remittance capacity is not aﬀected by interest rate changes,
+what about the link between OCG and free cash ﬂow, which we also talked about at the
+CMD. Bernhard, would you be able to talk about them?
+
+A - Bernhard Kaufmann
+
+{BIO 18347993 <GO>}
+
+Bloomberg Transcript
+
+Yes. So the ﬁrst question on the assumptions behind the EUR 245 million, it's interest rate
+only. I already pointed to the negative impact I expect from developments coming from
+tightening of the mortgage spreads in the Netherlands or the Dutch mortgages of around
+EUR 100 million to EUR 150 million. So this is what you would have to take into account to
+come to the full market developments. If you look at the year-to-date changes on our
+OCG. So that are the main two drivers to consider coming from market developments.
+Now remittances, I tried to point out that I would always diﬀerentiate between a shortand longer-term horizon if it comes to interest rates. The short-term impact is where I said,
+well, this has no impact on our remittance capacities because the short-term impact very
+much relates to just being able to digest market volatility, market developments, interest
+spread moves and not to react with this in our dividend or share buyback policy. I think
+that is one of our strengths, and that is also what our solvency position is signaling and is
+also enabling. Longer term, again if interest rate rises and we are in a higher interest rate
+environment, then there will be additional contribution to OCG it will take some time until
+this then come through in also the ability to really pay out the cash and have the
+remittances going forward. But that is mainly then the question on sustainability of the
+interest rate level for the time to come and then also the time lag until this really is
+showing up into free cash ﬂow on holding level that we can then use for potential
+remittances.
+
+A - Jelmer Lantinga
+
+{BIO 20384884 <GO>}
+
+Yes. Okay. That's makes total sense. Let's then move to a follow-up question from Robin
+van den Broek by e-mail. Impact of higher rates on excess return of real estate and
+equities. Will the full absolute yield make its way into OCG? Indeed, use assumptions for
+both as categories? Then the second question is, what is the saturation point of
+mortgages in your asset mix? Does potentially low LTV on your current book help? I think
+relating to higher house prices. Are you able to talk about --
+
+A - Bernhard Kaufmann
+
+{BIO 18347993 <GO>}
+
+Yes. Yes. Yes. Robin, so to the ﬁrst question, the -- for real estate and equities, we have risk
+premium assumptions that we get are long-term looking back over some years. Those we
+
+Page 24 of 27
+
+
+
+Company Name: NN Group NV
+Company Ticker: NN NA Equity
+Date: 2021-05-26
+
+FINAL
+
+are not changing frequently but that would really be a more fundamental shift in the
+market that would trigger to revisit them. So therefore, they are stable and they are not
+impacted by interest rate level, meaning also that has no impact on the contribution on
+OCG, just beside the market value of the respective positions.
+Now saturation point for mortgages. So yes, the loan-to-value ratio is coming down, which
+is good. In the Netherlands, we are now at 65% to 66%. So it's -- that's really good. That
+makes the asset class from a risk/return perspective, even more attractive. What we do is
+that in our strategic asset allocation in the optimization, we look at what our percentage
+allocations in the diﬀerent asset classes. And here then Dutch mortgages with this
+development are getting more attractive because they simply consume less risk capital if
+loan-to-value goes down. That is, let's say implicit eﬀect that via this route, we take them
+up into our allocation. And for the next years, we see also additional possibility to grow in
+this asset class.
+
+A - Jelmer Lantinga
+
+{BIO 20384884 <GO>}
+
+Yes. Okay. Thank you, Bernhard. Then the next question is from Andrew Baker, also by email. The ﬁrst question on Non-life. Are you still open in the M&A Non-life sector? Or does
+your high market share prevent this? Then a second question on the current spread levels,
+can you give a sense of the diﬀerence in return on SCR for corporate bonds, mortgages
+and (inaudible), maybe qualitatively, Bernhard, you could add some color on that. But
+Tjeerd, would you like to start on M&A in Non-life, yes?
+
+Bloomberg Transcript
+
+A - Tjeerd Bosklopper
+
+{BIO 20235210 <GO>}
+
+Yes. So we are very pleased with the two acquisitions we've done in Non-life. So Delta
+Lloyd and VIVAT very substantial acquisitions in the Non-life part that we're currently
+integrating. So Delta Lloyd, of course already being completed, and VIVAT, we're making
+a lot of progress. So building that scale and exploiting that skill in our strategy, as we have
+explained today is what we're doing for the coming two years. That also made us the
+number one. Yes, if you are the number one, then obviously if you would look at other,
+let's say Non-life manufacturing opportunities, yes. Compared to M&A, we're always
+disciplined and rational. We would look at it. But really, our base case is organic. We're
+very happy with the position we're in. We're happy with the acquisitions and our strategy
+yes, is to obtain the value from those two acquisitions. So yes, an opportunity comes by,
+we will look at it, but we're very pleased with the position we have.
+
+A - Bernhard Kaufmann
+
+{BIO 18347993 <GO>}
+
+Okay. Yes, Andrew. On your question, the diﬀerence in risk return view on the asset
+classes. Clearly, Dutch mortgages stand out because of the low-risk proﬁle and for very
+good reasons, with the whole institutional framework that we have in the Netherlands, but
+also our underwriting capabilities that we can use in sourcing our own bank LTV we just
+discussed. So it's -- that's the main driver that this is outstanding.
+Then it's to jump from the leader in risk/return to the one that we are most concerned
+with, that's mainly government bonds. So to move out of government bonds so if you
+look at this on a longer time horizon the way we want to go, and that's mainly also simply
+
+Page 25 of 27
+
+
+
+Company Name: NN Group NV
+Company Ticker: NN NA Equity
+Date: 2021-05-26
+
+FINAL
+
+because of once being not attractive from a risk/return proﬁle. And corporate bonds as a
+whole spectrum in between, where last year's spread levels were very attractive for,
+especially investment-grade single head, for example, investment-grade corporate
+bonds, but they have tightened again. Now other niche segments are still attractive from
+our perspective. But this is where we are more selective, and therefore, also, it takes more
+time to build up exposure, and there we are taking now the, let's say smaller steps in
+being a little bit more selective building up the portfolio.
+
+A - Jelmer Lantinga
+
+{BIO 20384884 <GO>}
+
+Okay. Very clear. Then the last question of the session today is from Benoit Petrarque,
+which is hopefully a video question.
+
+Q - Benoit Petrarque
+
+{BIO 15997668 <GO>}
+
+Yes. Just coming back on the Solvency II ratio, you just mentioned that it was kind of
+stable to 10. I looked at it end of April, maybe something happened in May but at the
+impression that the mortgage spreads tightening was very positive at about 8percentage
+points and also large positive on equity. Then you have the capital generation. I mean you
+add also the payment, the share buyback and the (inaudible), but it's -- I'm a bit surprised
+that it's actually ﬂat given the mortgage spread is a big positive on the stock. Did you see
+anything special on the government bonds, spread in the month of May? Or trying to
+understand why it's actually ﬂat since the beginning of the year in Solvency II?
+
+A - Jelmer Lantinga
+
+{BIO 20384884 <GO>}
+
+Bloomberg Transcript
+
+Yes. Thank you, Ben. Thanks, Bernhard. Final question for you.
+
+A - Bernhard Kaufmann
+
+{BIO 18347993 <GO>}
+
+Yes. We -- you're right, the negative impact I was referring to was the OCG. So -- and if we
+now switch to Solvency II, the tightening is positive. Also equity developments, they also
+contributed positively, but there were other market developments on government bonds.
+Now you saw a tightening of the spreads in corporate bonds a little bit. So smaller
+movements, but adding them all up leaves to small positive impact from market
+developments, and then I pointed to the other ones, like share buyback inclusion,
+ultimate forward rate step down, which were negative.
+Then on the positive side, in addition, business development until now, also positively
+contributed to the ratio. So these are the main contributors to the kind of ﬂattish
+development.
+
+A - Jelmer Lantinga
+
+{BIO 20384884 <GO>}
+
+Thank you, Benoit. Thank you, Bernhard. Okay. So I think we are now about to close this
+session. We have come to an end of the webinar. Thank you, Tjeerd. Thank you, Maurice.
+Thank you, Bernhard. Of course all of you for attending this webinar. Stay safe and
+healthy. We hope to see you all again soon -- and then hopefully in person. Thank you.
+
+Page 26 of 27
+
+
+
+This transcript may not be 100 percent accurate and may contain misspellings and other
+inaccuracies. This transcript is provided "as is", without express or implied warranties of
+any kind. Bloomberg retains all rights to this transcript and provides it solely for your
+personal, non-commercial use. Bloomberg, its suppliers and third-party agents shall have
+no liability for errors in this transcript or for lost proﬁts, losses, or direct, indirect,
+incidental, consequential, special or punitive damages in connection with the furnishing,
+performance or use of such transcript. Neither the information nor any opinion expressed
+in this transcript constitutes a solicitation of the purchase or sale of securities or
+commodities. Any opinion expressed in the transcript does not necessarily reﬂect the
+views of Bloomberg LP. © COPYRIGHT 2022, BLOOMBERG LP. All rights reserved. Any
+reproduction, redistribution or retransmission is expressly prohibited.
+
+Bloomberg Transcript
+
+FINAL
+
+Company Name: NN Group NV
+Company Ticker: NN NA Equity
+Date: 2021-05-26
+
+Page 27 of 27
+
+
